@@ -1,0 +1,30 @@
+{
+  "title": "1. Persona Chaining",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-persona-chaining",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Persona Chaining",
+    "System Instruction",
+    "expert persona",
+    "Narrative Architect",
+    "Cynical Director",
+    "Ruthless Script Doctor",
+    "Gemini",
+    "pipeline phase",
+    "biasing the model",
+    "world-building"
+  ],
+  "use_cases": [
+    "Configure when specialized output is required at different stages of a content pipeline",
+    "Implement when generic system instructions fail to provide critical analysis or specific formatting",
+    "Use when building complex workflows that require separate analysis, architecture, and editing phases"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "workflow-design",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "One of the biggest mistakes developers make is using a single, generic “System Instruction” for the entire app. That’s like hiring one person to be your director, writer, and editor.\n\nInstead, we use Persona Chaining. We switch the “expert persona” depending on which phase of the pipeline we are in:\n\n- The Writer (Phase 4): Finally, we introduce the “Ruthless Script Doctor.” This persona doesn’t care about feelings; it cares about formatting, brevity, and the “show, don’t tell” rule.\n- The Architect (Phase 2): We switch to a “Narrative Architect” persona. This focus shifts entirely to consistency and world-building.\n- The Analyst (Phase 1): We tell Gemini to act as a “Cynical Director.” Its job isn’t to be creative; it’s to find flaws, analyze subtext, and be critical of the source material.\n\nBy biasing the model with specific expertise at each step, you get much sharper results than a generic “You are a helpful AI.”",
+  "token_estimate": 206
+}

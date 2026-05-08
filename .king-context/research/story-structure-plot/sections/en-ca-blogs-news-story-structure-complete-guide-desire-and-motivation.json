@@ -1,0 +1,33 @@
+{
+  "title": "Desire and Motivation",
+  "path": "en-ca-blogs-news-story-structure-complete-guide-desire-and-motivation",
+  "url": "https://writingworkshops.com/en-ca/blogs/news/story-structure-complete-guide",
+  "keywords": [
+    "protagonist",
+    "clear want",
+    "internal need",
+    "want-need gap",
+    "internal tension",
+    "emotional resonance",
+    "custody battle",
+    "self-forgiveness",
+    "external want",
+    "three-dimensional character"
+  ],
+  "use_cases": [
+    "Use when defining a character's primary motivation to drive plot action",
+    "Use when balancing a character's external goals with hidden internal needs to add depth",
+    "Use when creating internal tension that fuels narrative conflict",
+    "Use when designing scenes that reveal a character's emotional journey toward self-forgiveness",
+    "Use when structuring a plot around an external objective while layering psychological stakes"
+  ],
+  "tags": [
+    "storytelling",
+    "character-development",
+    "motivation",
+    "narrative-design"
+  ],
+  "priority": 7,
+  "content": "Every protagonist needs a clear want — something they are actively pursuing throughout the story. This is the engine of forward motion. But the most interesting characters also have a deeper need that they may not be aware of, something they require on a psychological or emotional level that differs from what they consciously desire. The gap between want and need creates the internal tension that makes a character feel three-dimensional.\n\nConsider a character who wants to win a custody battle (the external want) but needs to forgive themselves for mistakes they made during the marriage (the internal need). The custody battle provides the plot structure, but the story's emotional resonance comes from the character's journey toward self-forgiveness — a journey they may not even realize they're on.",
+  "token_estimate": 170
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Abstract",
+  "path": "index.php-AIIDE-article-view-12428-abstract",
+  "url": "https://ojs.aaai.org/index.php/AIIDE/article/view/12428",
+  "keywords": [
+    "CPOCL",
+    "Partial Order Causal Link",
+    "POCL planning",
+    "narrative conflict model",
+    "threatened causal links",
+    "story generation algorithm",
+    "computer narrative",
+    "conflicting subplans",
+    "causal soundness"
+  ],
+  "use_cases": [
+    "Implement when developing automated story generation systems that require believable character conflict",
+    "Use when modeling complex narrative structures where characters have opposing goals",
+    "Configure when causal soundness must be maintained despite non-executed plan steps",
+    "Use when extending standard POCL planning to support multi-agent narrative tension"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "narrative-generation",
+    "planning-algorithms",
+    "automated-storytelling"
+  ],
+  "priority": 8,
+  "content": "Conflict is an essential element of interesting stories, but little research in computer narrative has addressed it directly. We present a model of narrative conflict inspired by narratology research and based on Partial Order Causal Link (POCL) planning. This model informs an algorithm called CPOCL which extends previous research in story generation. Rather than eliminate all threatened causal links, CPOCL marks certain steps in a plan as non-executed in order to preserve the conflicting subplans of all characters without damaging the causal soundness of the overall story.\n\n \n\n![](https://ojs.aaai.org/public/journals/5/cover_issue_298_en_US.jpg)\n\n- PDF\n\n2011-10-09\n\nWare, S., & Young, R. (2011). CPOCL: A Narrative Planner Supporting Conflict. Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 7(1), 97-102. https://doi.org/10.1609/aiide.v7i1.12428\n\nMore Citation Formats\n\nVol. 7 No. 1 (2011): Seventh Artificial Intelligence and Interactive Digital Entertainment Conference\n\nFull Oral Papers",
+  "token_estimate": 182
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Manual workspace with optional AI boosts",
+  "path": "manual-workspace-with-optional-ai-boosts",
+  "url": "https://www.plotforge.app/",
+  "keywords": [
+    "Story Compass",
+    "Consistency Lab",
+    "Continuity Layer",
+    "JSON backup",
+    "3-Act structure",
+    "7-Point Plot",
+    "cross-references",
+    "style metrics",
+    "auto-link relationships",
+    "world bibles",
+    "Scene Surgery",
+    "context-aware AI"
+  ],
+  "use_cases": [
+    "Use when building complex character networks and world bibles manually with optional AI acceleration",
+    "Implement when maintaining series-wide continuity across multi-book arcs and world rules",
+    "Configure when training the AI to match a specific authorial voice and style metrics",
+    "Use when importing existing manuscripts to auto-extract timeline beats and character sheets",
+    "Configure when applying templates like Save the Cat or Hero’s Journey to set foundational story beats",
+    "Implement when scanning chapters to identify and fix plot or character inconsistencies"
+  ],
+  "tags": [
+    "content-management",
+    "ai-assistance",
+    "data-import-export",
+    "writing-workflow"
+  ],
+  "priority": 10,
+  "content": "PlotForge is designed for planners who prefer to steer every detail themselves. Build your entire outline, character network, and world bible manually—and when you want acceleration, optional AI helpers follow the exact Story Compass you already set.\n\n![PlotForge dual workflow showing manual story building on the left and AI-assisted generation on the right, demonstrating flexibility for all writing styles](https://www.plotforge.app/images/landing/manual-vs-ai-workflow.png)\n\nYour choice: Manually craft every detail or let AI generate starting points. Switch between modes anytime.\n\nToolset\n\nBuild act-by-act outlines, track relationships, and create detailed worldbuilding with manual-first tools. Jump into the interactive demo project or learn how our consistency engine keeps drafts organized.\n\n🧭 New Feature\n\nCapture your story’s intent once and keep every AI generation, manual outline, and chapter aligned to it. Define your theme, core conflicts, emotional landing, world rules, and character goals in a guided workspace that PlotForge references everywhere.\n\n- Auto-used by Outline, Chat, Scene Surgery\n- World rules + symbolism tracking\n- Theme + conflict alignment\n\n🧱 Core Workspace\n\nLink every element of your novel: characters to scenes, locations to events, and worldbuilding to plot. Keep sprawling series organized with pro-grade cross-references and manual-first controls.\n\n- Manual-first controls\n- Continuity-safe organization\n- Scenes, locations, and concepts linked\n\n🆕 Manual or AI-Assisted\n\nPlot with proven structures: 3-Act, Hero’s Journey, Save the Cat, 7-Point Plot, or Freytag’s Pyramid. Apply a template in one click, customize every beat manually, or let AI help fill gaps.\n\n- Optional AI expansion\n- Full manual control\n- 5 proven templates\n\n🗺️ World Scale\n\nCreate comprehensive world bibles for fantasy, sci-fi, or any genre. 60+ specialized fields for locations, cultures, factions, and magic systems. Build manually or speed things up with AI suggestions.\n\n- Complete world bibles\n- Manual + AI workflows\n- 60+ structured fields\n\n🧬 Cast Management\n\nBuild detailed character profiles and relationship maps. Track arcs, motivations, and 8 relationship types with strength ratings. Keep casts tidy manually or invite AI for targeted suggestions.\n\n- Optional AI help\n- Arc + motivation tracking\n- Relationship graphing\n\n🛰️ Continuity Layer\n\nOrganize your novel chronologically with visual timelines. Toggle story events versus lore, filter by character or plot thread, and keep multi-book arcs straight.\n\n- Series-ready continuity\n- Act + POV filters\n- 3 timeline modes\n\n🚀 Bring Your Work\n\nBring existing work into PlotForge. Import manuscripts, chapters, or character sheets and auto-extract people, locations, timeline beats, and consistency notes.\n\n- Timeline + bible extraction\n- Auto-link relationships\n- Docx/PDF import\n\n🧹 Consistency Lab\n\nTrack character traits, plot threads, and world rules across your manuscript. Scan chapters to catch inconsistencies before agents or beta readers see them.\n\n- Series-safe workflows\n- Chapter scanning\n- Manual or auto tracking\n\n🧠 Optional Boost\n\nBrainstorm ideas, get feedback, and make story decisions with context-aware AI. Chat stays true to your Story Compass, outline, and worldbuilding.\n\n- Claude / GPT options\n- Brainstorm + revision modes\n- Compass-aware replies\n\nPro • Optional AI\n\nUpload your writing samples and train the AI to match your unique voice. Get author comparisons, style metrics, and prose that sounds like you—not generic AI. Entirely optional, Pro-only.\n\n- Manual-first friendly\n- Style analytics\n- Your voice preserved\n\nPublishing Ready\n\nExport story bibles, formatted manuscripts, or individual chapters. Every user gets JSON backups; Pro adds DOCX/PDF packages for querying agents or editors.\n\n- Pro: DOCX & PDF\n- Chapter + bible exports\n- Full-project backup (FREE)\n\n📚 Series Writers\n\nWriting a sequel or series? Clone your project to carry over characters, worldbuilding, style settings, and outline structure to the next book. Choose exactly what to duplicate—keep your cast and world bible intact while starting fresh on the new story.\n\n- Series continuity made easy\n- Preserve style settings\n- Clone characters & world\n\n✨ Pro feature",
+  "token_estimate": 829
+}

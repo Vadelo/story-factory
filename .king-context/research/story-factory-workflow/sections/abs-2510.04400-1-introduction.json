@@ -1,0 +1,34 @@
+{
+  "title": "1 Introduction",
+  "path": "abs-2510.04400-1-introduction",
+  "url": "https://arxiv.org/abs/2510.04400",
+  "keywords": [
+    "Large Language Models",
+    "LLM semantic theories",
+    "distributional semantics",
+    "structural semantics",
+    "isotopy",
+    "textual semantics",
+    "ROCStories",
+    "narrative generation",
+    "paradigmatic relations",
+    "semantic embeddings"
+  ],
+  "use_cases": [
+    "Use when analyzing the linguistic foundations and semantic properties of LLM-generated text",
+    "Implement when conducting story completion experiments to evaluate narrative coherence",
+    "Configure when benchmarking LLMs against the ROCStories dataset for textual semantics",
+    "Use when comparing internalist versus distributionalist positions in LLM research",
+    "Implement when applying the structural concept of isotopy to validate textual representation"
+  ],
+  "tags": [
+    "linguistics",
+    "LLM-semantics",
+    "narrative-generation",
+    "distributional-semantics",
+    "research-methodology"
+  ],
+  "priority": 8,
+  "content": "The ’unreasonable effectiveness’ of Large Language Models (LLM) has fostered a vivid linguistic debate, in particular with respect to LLM semantic theories. The most famous criticism of LLM considers them as devoid of semantics Bender and Koller (2020). It has received various responses Lappin (2024) Søgaard (2025), which often advocate an internalist Piantadosi and Hill (2022) or distributionalist position Sahlgren and Carlsson (2021). Recent work Proietti and Lenci (2025) has revisited the linguistic aspects of LLM from the perspective of distributional semantics Contreras Kallens and Christiansen (2025), following an established position on semantic embeddings Sahlgren (2006) Sahlgren (2008) Lenci (2018) Lenci et al. (2022)Lenci and Sahlgren (2023). Moreover, the distributional semantics perspective connects to other linguistic theories, in particular structural semantics, via an interpretation of paradigmatic relations Mickus (2024), while Lenci and Sahlgren (2023) explicitly mention structuralist linguists such as Hjelmslev and Greimas. In this paper, we explore the relevance of contemporary structural linguistics models Rastier (2015) to LLM through a dedicated narrative generation experiment, which allows us to investigate aspects of textual semantics Rastier (1997) of LLM-generated text. We aim to expand on the original intuition of the above mentioned authors Sahlgren (2006) Mickus (2024), also taking advantage of the evolution of contemporary structural linguistics towards a textual perspective Rastier (1997) Rastier et al. (2002), which would offer an alternative linguistic framework for LLM semantics. Our approach consists in analyzing semantic properties of LLM-generated text using the structural concept of isotopy, a textual semantic representation which will be introduced in the next section. To that effect, we designed a story completion experiment, which consists in extending a short story primer based on an existing dataset (ROCStories Mostafazadeh et al. (2016)) to produce a complete story.",
+  "token_estimate": 380
+}

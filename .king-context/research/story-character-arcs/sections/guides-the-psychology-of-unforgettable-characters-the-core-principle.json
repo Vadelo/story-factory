@@ -1,0 +1,29 @@
+{
+  "title": "The Core Principle",
+  "path": "guides-the-psychology-of-unforgettable-characters-the-core-principle",
+  "url": "https://cipherwrite.com/guides/the-psychology-of-unforgettable-characters",
+  "keywords": [
+    "character design",
+    "character arc",
+    "Core Principle",
+    "choices under pressure",
+    "want versus need",
+    "Robert McKee",
+    "K.M. Weiland",
+    "internal conflict",
+    "Story framework"
+  ],
+  "use_cases": [
+    "Use when establishing the foundational motivation for a new character",
+    "Implement when designing pivotal plot points that force a character to reveal their true nature",
+    "Configure when differentiating between a character's surface-level goals and their psychological requirements"
+  ],
+  "tags": [
+    "narrative-theory",
+    "character-development",
+    "writing-fundamentals"
+  ],
+  "priority": 10,
+  "content": "A great character is not defined by their traits, backstory, or appearance. They are defined by their choices under pressure. Every framework in this guide exists to engineer situations where your character's choices reveal — or betray — who they truly are.\n\nThe single most important framework in character design, taught by virtually every writing instructor from Robert McKee (Story, 1997) to K.M. Weiland (Creating Character Arcs, 2016), is the distinction between what a character wants and what they need.",
+  "token_estimate": 106
+}

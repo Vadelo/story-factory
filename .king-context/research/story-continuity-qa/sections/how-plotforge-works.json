@@ -1,0 +1,33 @@
+{
+  "title": "How PlotForge Works",
+  "path": "how-plotforge-works",
+  "url": "https://www.plotforge.app/",
+  "keywords": [
+    "3-Act",
+    "Hero's Journey",
+    "Save the Cat",
+    "Scene Surgery",
+    "Hybrid workflow",
+    "cross-references",
+    "Timeline visualization",
+    "Story structure",
+    "Outline generation",
+    "Consistency tracking"
+  ],
+  "use_cases": [
+    "Use when applying narrative structures like 3-Act or Save the Cat to a new manuscript",
+    "Implement when managing complex character relationships and worldbuilding details in one workspace",
+    "Configure when switching between manual writing and AI-assisted outlining",
+    "Use when performing targeted manuscript improvements via Scene Surgery",
+    "Implement when tracking plot consistency across multiple chapters"
+  ],
+  "tags": [
+    "Product Overview",
+    "Workflow",
+    "Content Creation",
+    "AI Integration"
+  ],
+  "priority": 10,
+  "content": "From blank page to polished manuscript in three clear steps. Work manually, use AI assistance, or combine both; PlotForge adapts to your workflow.\n\n1\n\nBuild your story structure manually with professional templates, or use AI to generate a complete outline. Apply proven structures like 3-Act, Hero's Journey, or Save the Cat, then customize every beat.\n\n2\n\nWrite chapters yourself or use optional AI assistance. Organize with cross-references, track character relationships, build detailed worldbuilding, and visualize your timeline, all in one workspace.\n\n3\n\nPolish your manuscript with professional organization tools. Track consistency across characters, plot, and world. Use Scene Surgery for targeted AI improvements, or refine everything manually.\n\nAll three steps happen in one unified workspace\n\nNo scattered documentsAutomatic savingAccess anywhere\n\nHybrid workflow",
+  "token_estimate": 162
+}

@@ -1,0 +1,33 @@
+{
+  "title": "George R.R. Martin - Westeros",
+  "path": "guides-how-to-create-worldbuilding-bibles-2026-george-r-r-martin-westeros",
+  "url": "https://rivereditor.com/guides/how-to-create-worldbuilding-bibles-2026",
+  "keywords": [
+    "complex family trees",
+    "political alliances",
+    "betrayals",
+    "geography travel times",
+    "seasonal variations",
+    "character locations",
+    "POV characters",
+    "timeline software"
+  ],
+  "use_cases": [
+    "Use when managing a large fantasy world with numerous characters and interwoven plotlines",
+    "Configure to keep track of births, deaths, marriages and lineage across continents",
+    "Implement to record political alliances, betrayals, and shifting loyalties over time",
+    "Use when mapping geography with travel times for realistic pacing",
+    "Implement to log character locations at all times for massive casts",
+    "Configure to schedule seasonal variations like years-long winters in plot planning"
+  ],
+  "tags": [
+    "worldbuilding",
+    "documentation",
+    "narrative-management",
+    "tracking",
+    "geography"
+  ],
+  "priority": 8,
+  "content": "What Martin tracks: • Complex family trees with births, deaths, marriages • Political alliances and betrayals • Geography with travel times • Seasonal variations (years-long winters) • Character locations at all times (especially with massive cast)\n\nChallenges: With 20+ POV characters across multiple continents, tracking who knows what when is massive undertaking. Martin uses extensive notes and timeline software.\n\nLesson: The more complex your world and cast, the more essential rigorous documentation becomes. Don't trust memory—track everything.",
+  "token_estimate": 102
+}

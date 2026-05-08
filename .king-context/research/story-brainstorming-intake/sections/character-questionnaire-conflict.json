@@ -1,0 +1,34 @@
+{
+  "title": "Conflict",
+  "path": "character-questionnaire-conflict",
+  "url": "https://www.novel-software.com/character-questionnaire/",
+  "keywords": [
+    "character conflict",
+    "threat response",
+    "kryptonite",
+    "phobias",
+    "educational background",
+    "specialist training",
+    "socioeconomic status",
+    "antagonistic relationships",
+    "character hobbies",
+    "intellectual capacity",
+    "combat preference"
+  ],
+  "use_cases": [
+    "Use when developing a character's internal and external conflict profile",
+    "Implement when defining a protagonist's vulnerabilities and physical weaknesses",
+    "Configure when establishing a character's professional background and skillset",
+    "Use when mapping out interpersonal antagonisms and enemy motivations",
+    "Configure when determining a character's socioeconomic influence on narrative choices"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-planning",
+    "world-building",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "113. How do they respond to a threat?114. Are they more likely to fight with their fists or their tongue?115. What is their kryptonite?116. If their house was burning down, what one thing would they save?117. How do they perceive strangers?118. What do they love to hate?119. What are their phobias?120. What would their choice of weapon be?121. What living person do they most despise?122. Have they ever been bullied or teased?123. Where do they go when they’re angry?124. Who are their enemies and why?\n\n125. What is their current job?126. How do they feel about their current job?127. What are some of their past jobs?128. What are their hobbies?129. What is their educational background?130. How intelligent are they?131. Do they have any specialist training?132. Do they have a natural talent for anything?133. Do they play any sports?134. Do they play any instruments?135. What is their socioeconomic status?",
+  "token_estimate": 196
+}

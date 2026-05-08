@@ -1,0 +1,31 @@
+{
+  "title": "Types of Narrative Voice",
+  "path": "narrativevoice-types-of-narrative-voice",
+  "url": "https://www.lauriegarrison.co.uk/narrativevoice",
+  "keywords": [
+    "narrative voice",
+    "distance scale",
+    "satire",
+    "character empathy",
+    "embedded perspective",
+    "contemporary novel",
+    "classics",
+    "identification",
+    "physical experience",
+    "literary perspective"
+  ],
+  "use_cases": [
+    "Use when establishing the emotional distance between the reader and the protagonist",
+    "Implement when writing satire to create a humorous or distasteful detachment",
+    "Configure when attempting to evoke deep sympathy through sensory and internal thought immersion",
+    "Use when analyzing the stylistic differences between classical and contemporary narrative structures"
+  ],
+  "tags": [
+    "literary-theory",
+    "writing-technique",
+    "content-strategy"
+  ],
+  "priority": 8,
+  "content": "Narrative voice spans a scale with one side very distanced from the character and the other deeply embedded in a character’s thoughts. On the distant side, we are meant to laugh at a character or maybe feel distaste for their actions if the aim is satire. This distance is most commonly found in the classics, such as Dickens and Austen. On the other end of the scale, we are placed right into the character’s thoughts and sensations so we have no choice but to empathize with them whether we like it or not. Most contemporary novels sit on the closer end of the scale, evoking enough sympathy and physical experience to make us identify with the main characters.",
+  "token_estimate": 156
+}

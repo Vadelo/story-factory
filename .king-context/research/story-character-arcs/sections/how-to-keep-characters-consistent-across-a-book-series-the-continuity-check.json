@@ -1,0 +1,34 @@
+{
+  "title": "The Continuity Check",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-the-continuity-check",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "Continuity Check",
+    "Character Bible",
+    "Voice Check",
+    "Knowledge Check",
+    "Physical Description Check",
+    "Timeline Check",
+    "Series Consistency",
+    "Dialogue Isolation",
+    "Narrative Information Tracing",
+    "AI Manuscript Scanning"
+  ],
+  "use_cases": [
+    "Use when performing a final review of a manuscript before publication",
+    "Implement when managing long-term narrative consistency across a multi-book series",
+    "Configure when training AI to flag contradictions against a character bible",
+    "Use when validating character motivations based on previously established knowledge",
+    "Use when auditing character dialogue to ensure distinct verbal patterns"
+  ],
+  "tags": [
+    "Editing",
+    "Quality Assurance",
+    "Creative Writing",
+    "Workflow",
+    "Artificial Intelligence"
+  ],
+  "priority": 8,
+  "content": "Before publishing each book in a series, do a dedicated continuity pass:\n\n1. Physical description check: Search for every mention of each character's appearance. Are they consistent?\n2. Voice check: Read each character's dialogue in isolation. Does their voice stay distinct and consistent?\n3. Knowledge check: For every scene where a character acts on information, trace back to when they learned it.\n4. Relationship check: Does every interaction reflect the current state of the relationship, including events from previous books?\n5. Timeline check: Does the character's age and physical state match the time elapsed in the series?\n\nThis is tedious work. It's also essential. And it's exactly the kind of work where AI can help — scanning your manuscript against your character bible and flagging potential inconsistencies.",
+  "token_estimate": 168
+}

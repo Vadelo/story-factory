@@ -1,0 +1,35 @@
+{
+  "title": "Methodology",
+  "path": "auth-personal-springernature-methodology",
+  "url": "https://idp.nature.com/auth/personal/springernature?code=77b451f5-aaf2-4b6a-868f-f134d6372c9b&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41599-025-05986-3%3Ferror%3Dcookies_not_supported",
+  "keywords": [
+    "Burrows’ Delta",
+    "Natural Language Toolkit",
+    "hierarchical clustering",
+    "dendrogram",
+    "Multidimensional Scaling",
+    "MDS",
+    "average linkage method",
+    "stylometry",
+    "pairwise distance matrix",
+    "NLTK",
+    "stylistic distance"
+  ],
+  "use_cases": [
+    "Use when calculating stylistic similarity between human-authored and AI-generated texts",
+    "Implement when visualizing high-dimensional text data as a two-dimensional scatter plot",
+    "Configure when generating dendrograms to identify hierarchical relationships in a corpus",
+    "Use when applying average linkage to avoid chaining effects in clustering data",
+    "Implement when mapping authorship metadata to color-coded clusters for comparative analysis"
+  ],
+  "tags": [
+    "stylometry",
+    "data-visualization",
+    "natural-language-processing",
+    "methodology",
+    "machine-learning"
+  ],
+  "priority": 8,
+  "content": "Burrows’ Delta was applied to the Beguš corpus using Natural Language Toolkit Python scripts (O’Sullivan, 2024). The first script in this analysis employs hierarchical clustering to represent relationships between texts as a dendrogram, a tree-like diagram that visually organises data into clusters based on their stylistic similarities (see Fig. 1). Using the Burrows’ Delta measure of distance, the script computes a pairwise comparison of texts and produces a symmetric distance matrix. Hierarchical clustering is then applied to this matrix using the average linkage method, which calculates the average distance between all pairs of points in two clusters during each merging step. Average linkage is particularly well-suited for stylometric applications as it balances between compact clustering and the avoidance of chaining effects that can obscure interpretability.\n\nFig. 1: Hierarchical clustering based on stylistic distances calculated using Burrows’ Delta and grouped using the average linkage method.\n\n![Fig. 1: Hierarchical clustering based on stylistic distances calculated using Burrows’ Delta and grouped using the average linkage method.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1057%2Fs41599-025-05986-3/MediaObjects/41599_2025_5986_Fig1_HTML.png)\n\nFull size image\n\nColour-coded labels indicate groups derived from filename metadata, reflecting the source of each text (e.g., GPT-3.5, GPT-4, Llama 70b, or human-authored).\n\nThe second script employs MDS to create a scatter plot that maps texts into a two-dimensional space, where their positions reflect stylistic proximity (see Fig. 2). Like the dendrogram script, it begins by calculating the Burrows’ Delta matrix to capture pairwise stylistic distances. MDS then projects these high-dimensional relationships into a lower-dimensional space, allowing for intuitive visualisation. The scatter plot enables a different perspective on the data, highlighting clusters of similar texts and providing a spatial representation of outliers. Each text is represented as a point, labelled with its filename for clarity, and colour-coded based on the same group identifiers used in the dendrogram script.\n\nFig. 2: Multidimensional Scaling (MDS) scatter plot, wherein points represent individual texts, and their positions in two-dimensional space reflect pairwise stylistic distances calculated using Burrows’ Delta.\n\n![Fig. 2: Multidimensional Scaling (MDS) scatter plot, wherein points represent individual texts, and their positions in two-dimensional space refle",
+  "token_estimate": 448
+}

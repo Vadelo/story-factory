@@ -1,0 +1,32 @@
+{
+  "title": "The Flow of Power",
+  "path": "post-a-political-model-for-fantasy-the-flow-of-power",
+  "url": "https://www.mariemullany.com/post/a-political-model-for-fantasy",
+  "keywords": [
+    "Thomas Hobbes",
+    "Leviathan",
+    "Sovereign Circuit Theory",
+    "state of nature",
+    "alienate power",
+    "ballot box",
+    "electorate",
+    "non-citizen sovereignty",
+    "tyranny of the majority",
+    "multiplier effect of identities"
+  ],
+  "use_cases": [
+    "Use when elucidating how populations surrender political power in democratic processes.",
+    "Implement when analyzing how non-citizens are treated in sovereignty frameworks.",
+    "Configure when studying the impact of minority power dynamics within majority rule.",
+    "Apply when contrasting implicit versus explicit power transfers in governance.",
+    "Use when examining the multiplier effect of identity on political influence."
+  ],
+  "tags": [
+    "political-philosophy",
+    "governance",
+    "power-dynamics"
+  ],
+  "priority": 5,
+  "content": "Thomas Hobbes in Leviathan argued that in a state of nature, everyone has total power (and total chaos). To survive, people \"alienate\" (give up) their power to a Sovereign. Once given, the Sovereign holds it all to maintain order.\n\nIn The Sovereign Circuit Theory, this same model still applies. So for example, in a democracy, those who can vote give their power through the ballot box, but the winner gets all the power of the electorate, regardless of who voted for them. Also, for those who can't vote, their power is stripped from them by the system. Mostly this is fairly benign, like non-citizens living in a country. Essentially, these people have yielded their power through implicit choice by living a country where they can’t vote.\n\nBy the same token, someone living in a non-rebellious state in a country that is a monarchy or even an authoritarian state, yields their power implicitly.\n\nThis kind of yielding of power is often the case with minorities living in a larger majority country, sometimes called the tyranny of the majority. However, this is different from facing a “no-choice” situation, as will discuss, but first, we must understand the multiplier effect that identities present.",
+  "token_estimate": 266
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Vecna Screams!",
+  "path": "blog-horror-prologue-gameplay-vecna-screams",
+  "url": "https://www.prismaticwasteland.com/blog/horror-prologue-gameplay",
+  "keywords": [
+    "Vecna Lives!",
+    "prologue design",
+    "horror subgenre",
+    "TTRPG narrative",
+    "blending perspective",
+    "Microscope (game)",
+    "lethality signaling",
+    "audience expectations",
+    "Ghostface",
+    "cinema-to-game translation",
+    "narrative tools"
+  ],
+  "use_cases": [
+    "Implement when designing a high-lethality prologue for a tabletop campaign",
+    "Use when evaluating how to signal a villain's threat level to players",
+    "Configure when shifting narrative perspective from individual characters to a 'writer's room' style",
+    "Use when applying cinematic horror techniques to interactive storytelling",
+    "Implement when planning a 'warning' scene using high-level NPCs or replaceable characters"
+  ],
+  "tags": [
+    "narrative-design",
+    "game-theory",
+    "world-building",
+    "horror-mechanics"
+  ],
+  "priority": 6,
+  "content": "My critique of Vecna Lives! is totally unfair because it came out six years prior to the movie that would provide a blueprint for the most effective horror movie prologue in cinema history: Scream. This isn’t a movie blog, so I will let Collider elucidate how effective the opening scene of Scream was:\n\n“In 1996, when online movie spoilers weren't yet a constant string of potholes to be avoided, it was a shock to a lot of filmgoers. At the time, Barrymore may have been the most famous person in the cast. The actress says it was her idea to play Casey, and there’s no question the gambit worked. By killing off one of its biggest stars in the first 13 minutes, Scream immediately sent out a warning to the audience: Any one of these characters can die at any time.”\n\nKilling off Barrymore to start the movie was a bold move. In moviestar terms, Drew Barrymore is the equivalent of a Drawmij or a Bigby. By using audience expectations, it set the tone Vecna Lives! attempted to set with its prologue: it sets the tone (horror) and previews how deadly the villain is.\n\nMovies have different sets of tools around perspective than TTRPGs. Scream’s prologue is largely in Casey’s perspective as she speaks on the phone with Ghostface. However, the way the camera follows her, almost as if she is being stalked, puts the viewer just as much in the perspective of the killer. It is only in the very last moments of her life, as she has been stabbed and is looking voicelessly at her returning parents, that the frame is truly from Casey’s perspective. Then, as her body is being dragged away, we are in the perspective of Ghostface, just slightly off screen. This type of blending of perspective would be difficult to do in a TTRPG where the normal mode of play is for each player to embody a particular character in the world. However, there are some games (typically in the more story game sphere) like Microscope, where the players all zoom out of any particular character and act more like writers in a writers’ room for the events unfolding as part of the game.\n\n![](https://images.squarespace-cdn.com/content/v1/5fc42d3b9955c744b550776c/c32c2146-a9a6-4489-ac2b-e535565eab1f/screen-shot-2023-11-17-at-10-21-47-am.jpg)",
+  "token_estimate": 493
+}

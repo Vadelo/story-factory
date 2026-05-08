@@ -1,0 +1,34 @@
+{
+  "title": "Creating Limitations",
+  "path": "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-creating-limitations",
+  "url": "https://myersfiction.com/2024/08/20/crafting-believable-magic-systems-with-limits-and-costs/",
+  "keywords": [
+    "limitations",
+    "magic system",
+    "magic bearer",
+    "spell",
+    "curse",
+    "channel",
+    "deus ex machina",
+    "believable",
+    "mechanics"
+  ],
+  "use_cases": [
+    "Use when balancing gameplay to prevent deus ex machina outcomes.",
+    "Implement when designing character spellcasting to enforce resource costs.",
+    "Configure when defining maximum range, duration, or power of spells.",
+    "Use when adding fatigue or cooldown mechanics to constrain usage.",
+    "Implement when setting prerequisites or failure conditions for magic.",
+    "Configure when creating realistic constraints on magical effects."
+  ],
+  "tags": [
+    "game-design",
+    "mechanics",
+    "balance",
+    "magic",
+    "concept"
+  ],
+  "priority": 8,
+  "content": "Limitations are important in magic systems. Your magic system shouldn’t be so convenient that the magic bearer summons up a spell, curse, channels a thing-a-ma-bob right when they’re about to die. This falls into the deus ex machina area. Basically, it’s a little too convenient. Magic can do a lot of things, but it can’t do everything.\n\nWith that in mind, below are a few of the limitations you can use to make your magic system more believable.",
+  "token_estimate": 103
+}

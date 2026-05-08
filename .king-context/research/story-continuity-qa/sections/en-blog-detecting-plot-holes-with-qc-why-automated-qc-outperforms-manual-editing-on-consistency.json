@@ -1,0 +1,33 @@
+{
+  "title": "Why Automated QC Outperforms Manual Editing on Consistency",
+  "path": "en-blog-detecting-plot-holes-with-qc-why-automated-qc-outperforms-manual-editing-on-consistency",
+  "url": "https://symban.de/en/blog/detecting-plot-holes-with-qc",
+  "keywords": [
+    "automated QC",
+    "systematic consistency checks",
+    "inventory management",
+    "SYMBAN",
+    "world rules enforcement",
+    "QC report",
+    "character descriptions",
+    "editorial automation",
+    "objectivity metrics",
+    "scalability"
+  ],
+  "use_cases": [
+    "Use when performing systematic consistency checks across long-form manuscripts",
+    "Implement when world rules need precise enforcement across large volumes of text",
+    "Configure when scaling quality control from short stories to epic-length novels",
+    "Use when identifying vulnerable narrative points through an automated QC report",
+    "Implement when maintaining a dynamic inventory of character details and world-building facts"
+  ],
+  "tags": [
+    "quality-assurance",
+    "content-editing",
+    "automation",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "A human editor is excellent for style, tone, and nuance. But for systematic consistency checks across hundreds of pages, automated QC has clear advantages:\n\n- Completeness: The QC checks every scene against every relevant detail in the inventory. No human can do that by Chapter 50.\n- Speed: The check takes seconds, not days.\n- Objectivity: No fatigue, no attention gaps, no \"nobody will notice.\"\n- Scalability: Whether 10 chapters or 100 — the effort stays the same.\n\nThis doesn't replace an editor. It complements one. Your editor can focus on craft because the facts already check out.\n\n1. Define your world rules precisely — the clearer your rules, the better the QC can enforce them\n2. Maintain your inventory — update character descriptions when things change\n3. Take warnings seriously — they're not errors, but often an early warning signal for later problems\n4. Use the QC report — it shows you where your novel is most vulnerable to inconsistencies\n\nShareLink X / Twitter LinkedIn\n\nRead PANATHINAIA Volume 1 for free14 chapters, 94,000 words — fully produced with SYMBAN. Our proof of concept.",
+  "token_estimate": 244
+}

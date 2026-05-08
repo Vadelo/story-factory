@@ -1,0 +1,35 @@
+{
+  "title": "Work types supported",
+  "path": "aihxp-scriven-work-types-supported",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "structural hierarchy",
+    "word count guidance",
+    "page range guidance",
+    "runnable command IDs",
+    "/scr:plan",
+    "Scriven adaptation",
+    "TV series bible",
+    "design spec",
+    "SOP",
+    "exegesis",
+    "interactive fiction",
+    "Parashah"
+  ],
+  "use_cases": [
+    "Use when selecting a document archetype to establish industry-standard word counts",
+    "Configure when setting up progress tracking for specific literary or technical formats",
+    "Implement when mapping stable command IDs to work-specific terminology",
+    "Use when defining structural hierarchies for non-fiction or sacred texts",
+    "Configure when initiating pacing guides for screenplays or stage plays"
+  ],
+  "tags": [
+    "configuration",
+    "content-strategy",
+    "architecture",
+    "metadata-standards"
+  ],
+  "priority": 9,
+  "content": "**Prose:** novel, novella, short story, flash fiction, memoir, creative nonfiction, biography, essay, essay collection\n\n**Script:** screenplay, stage play, TV pilot, TV series bible, audio drama, libretto/musical\n\n**Academic:** research paper, thesis/dissertation, journal article, white paper, literature review, monograph\n\n**Technical writing:** technical guide/user guide, runbook/SOP, API or CLI reference, design spec/architecture doc\n\n**Visual:** comic, graphic novel, children's book, picture book\n\n**Poetry:** poetry collection, single poem, song/lyric\n\n**Interactive:** interactive fiction, game narrative\n\n**Sacred & historical:** scripture (Biblical, Quranic, Torah, Vedic, Buddhist, generic), commentary/exegesis, devotional, liturgical text, historical chronicle, historical account, mythological collection, religious epic, sermon, homiletic collection\n\nEach work type has its own structural hierarchy and **industry-standard word count and page range guidance** -- a novel targets 70,000–100,000 words across 20–35 chapters, a screenplay targets 90–120 pages across 3–5 acts. These ranges guide outlining, progress tracking, and drafter pacing. The runnable command ids stay stable, while Scriven adapts the wording around them -- a Torah commentary still runs `/scr:plan 3`, but frames that work as planning Parashah 3.\n\n---",
+  "token_estimate": 220
+}

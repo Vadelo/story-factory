@@ -1,0 +1,32 @@
+{
+  "title": "The Core System Prompt",
+  "path": "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-core-system-prompt",
+  "url": "https://impressifyai.com/article/chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture",
+  "keywords": [
+    "magic system design",
+    "system prompt engineering",
+    "narrative tension",
+    "limitation frameworks",
+    "failure states",
+    "exploitation prevention",
+    "cost definition",
+    "mastery curves",
+    "sensory detection",
+    "permanence effects"
+  ],
+  "use_cases": [
+    "Use when worldbuilding to define a balanced and structured magic system",
+    "Implement when seeking to prevent plot holes or power creep in fiction",
+    "Configure when training a model to generate consistent fantasy world mechanics",
+    "Use when establishing boundaries for character capabilities and spellcasting risks"
+  ],
+  "tags": [
+    "worldbuilding",
+    "prompt-engineering",
+    "creative-writing",
+    "system-design"
+  ],
+  "priority": 8,
+  "content": "Begin with exhaustive rule definition:\n\n```\n\"I'm designing a magic system with these rules:\n[Insert your basic magic premise]\n\nHelp me define:\n1. COSTS: What does casting require? (Energy, materials, sacrifice, \n   sanity, lifespan?)\n2. LIMITS: What can't this magic do? (Maximum range, power ceiling, \n   forbidden applications)\n3. FAILURE STATES: What happens when spells go wrong?\n4. LEARNING CURVE: How long does mastery take? Who can learn it?\n5. DETECTION: Can others sense when magic is being used?\n6. PERMANENCE: Are effects temporary or lasting?\n\nFor each element, explain how it prevents exploitation and creates \nnarrative tension.\"\n```",
+  "token_estimate": 129
+}

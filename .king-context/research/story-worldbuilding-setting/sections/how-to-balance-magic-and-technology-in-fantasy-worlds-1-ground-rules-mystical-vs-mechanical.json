@@ -1,0 +1,26 @@
+{
+  "title": "1. Ground Rules: Mystical vs. Mechanical",
+  "path": "how-to-balance-magic-and-technology-in-fantasy-worlds-1-ground-rules-mystical-vs-mechanical",
+  "url": "https://zainahyousef.com/how-to-balance-magic-and-technology-in-fantasy-worlds/",
+  "keywords": [
+    "magic",
+    "technology",
+    "boundary",
+    "policing",
+    "overlap",
+    "ancient knowledge"
+  ],
+  "use_cases": [
+    "Use when defining the boundary between mystical and mechanical systems",
+    "Implement when establishing governance for magical technology interactions",
+    "Configure when designing shared resources across magical and technical domains"
+  ],
+  "tags": [
+    "conceptual",
+    "system-design",
+    "architecture"
+  ],
+  "priority": 4,
+  "content": "Magic embodies wonder, ancient knowledge, and forces beyond reason. Technology represents research, progress, and often control. Decide up front:\n\n1. Who polices (or abuses) the boundary?\n2. Where do they overlap?\n3. What can each system do that the other cannot?\n\nThese sorts of questions can help you get a clearer view on your world’s systems.",
+  "token_estimate": 74
+}

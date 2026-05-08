@@ -1,0 +1,19 @@
+{
+  "title": "Open Threads",
+  "path": "open-threads",
+  "url": "local://works/a-margem-que-devora-o-heroi#open-threads",
+  "keywords": [
+    "open-threads",
+    "plot"
+  ],
+  "use_cases": [
+    "Recall open threads for story continuation"
+  ],
+  "tags": [
+    "open-threads",
+    "plot"
+  ],
+  "priority": 9,
+  "content": "[\n  \"Por que Davi foi parar especificamente na margem desse manhwa?\",\n  \"Quem ou o que emite mensagens de erro e restauração?\",\n  \"Kael sempre soube que havia uma camada de revisão?\",\n  \"O que existe no Pavilhão dos Arquivos?\",\n  \"O botão 'resolver conversa' apaga Davi, a alteração ou apenas a disputa?\",\n  \"Quantos personagens podem ganhar acesso à margem se suas falas cortadas forem devolvidas?\"\n]",
+  "token_estimate": 83
+}

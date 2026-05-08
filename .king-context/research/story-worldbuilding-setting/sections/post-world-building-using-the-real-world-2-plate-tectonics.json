@@ -1,0 +1,33 @@
+{
+  "title": "2. Plate Tectonics",
+  "path": "post-world-building-using-the-real-world-2-plate-tectonics",
+  "url": "https://www.grmatthews.com/post/world-building-using-the-real-world",
+  "keywords": [
+    "plate tectonics",
+    "convection currents",
+    "lithosphere",
+    "continental drift",
+    "earthquake",
+    "tsunami",
+    "ocean formation",
+    "mantle heat",
+    "crustal plates"
+  ],
+  "use_cases": [
+    "Use when explaining continental drift to high school students",
+    "Implement in educational simulations of earth's surface dynamics",
+    "Configure interactive maps for geology courses",
+    "Use when creating visual content about sea floor spreading",
+    "Configure models to demonstrate collision zones and mountain building",
+    "Use when teaching the causes of seismic hazards like tsunamis"
+  ],
+  "tags": [
+    "geology",
+    "education",
+    "planetary science",
+    "tectonics"
+  ],
+  "priority": 10,
+  "content": "![](https://static.wixstatic.com/media/5e5df4_fa93ea6e638e40edb1ac55576bad5acc~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/5e5df4_fa93ea6e638e40edb1ac55576bad5acc~mv2.jpg)\n\nLook at a world map, and you’ll quickly notice that great landmasses are divided by oceans and mountains. This isn’t by accident. The Earth's surface is thin compared to the whole planet—like an eggshell that cracks easily. Heat from the Earth’s core causes molten rock to rise and fall in convection currents.\n\nThese currents create friction on the bottom of the plates (the separate pieces of crust, or landmasses) as they float and move. It’s a slow process, and we should be grateful for that. If the plates moved quickly, we’d face earthquakes and tsunamis. Where the plates split apart, you get vast oceans (like the Atlantic), and where they collide, you find…",
+  "token_estimate": 151
+}

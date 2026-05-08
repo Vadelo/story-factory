@@ -1,0 +1,33 @@
+{
+  "title": "2 Related Work",
+  "path": "html-2505.23815v1-2-related-work",
+  "url": "https://arxiv.org/html/2505.23815v1",
+  "keywords": [
+    "PROSE",
+    "RLHF",
+    "in-context learning",
+    "iterative refinement",
+    "preference verification",
+    "implicit user signals",
+    "LLM-as-a-Judge",
+    "preference-conditioned agents",
+    "internal activations",
+    "preference inference",
+    "sub-components"
+  ],
+  "use_cases": [
+    "Use when personalizing Large Language Models without the compute overhead of fine-tuning or RLHF",
+    "Implement when user preferences need to be extracted from implicit signals or demonstrations rather than explicit feedback",
+    "Configure when seeking to improve model alignment through iterative preference refinement and consistency checks",
+    "Use when a system must generate tailored text samples by breaking down user style into verifiable sub-components"
+  ],
+  "tags": [
+    "personalization",
+    "model-optimization",
+    "alignment",
+    "literature-review"
+  ],
+  "priority": 8,
+  "content": "Personalizing LLMs In natural language generation, prompting (Radford et al., 2019) and in-context learning (Brown et al., 2020) have proven effective methods for controlling the generation of text, especially in a preference-driven context (Sun et al., 2023, 2024).\n\nSome prior approaches for adapting models to user preferences involve RLHF (Stiennon et al., 2020) and fine-tuning (Tan et al., 2024; Zhuang et al., 2024), which can be compute-intensive and inaccessible to some practitioners without the budget or scale of needed data. To reduce data requirements, Shaikh et al. (2024) propose treating user demonstrations as implicitly preferred over all model outputs, allowing for more efficient preference modeling. Another line of work aims to minimize compute demands by identifying and selectively adjusting internal activations to steer model behavior (Li et al., 2023; Turner et al., 2024; Lindsey et al., 2025). While effective for promoting broad, predefined objectives—such as improving truthfulness or reducing toxicity—it remains unclear how such techniques can generalize to individual users without explicit guidance. With the rise of LLMs with strong instruction-following capabilities, methods like prompting to adapt to a user’s profile have become more popular (Shen et al., 2024; Salemi et al., 2024); however, these methods too often rely on explicit user feedback to optimize prompts (Lin et al., 2024). PROSE circumvents these issues by learning from implicit user signals, breaking down preferences into sub-components to generate tailored user-preferences, all without the need for fine-tuning.\n\nPreference-Conditioned Agents Combined preference inference and conditioning has recently gained traction, with the following three works most aligned with PROSE.\n\nPeng et al. (2024) explores preference learning in quadrupedal mobile manipulation using an object detection module to map image observations to text. An LLM then infers preferences by comparing pairs of trajectories. These preferences are in turn used to improve task alignment with user preferences. Shashidhar et al. (2024) train a preference inferring model that outputs a set of rules to use during generation, and demonstrate improved personalization on a set of writing tasks. Lastly, Gao et al. (2024) propose the PRELUDE environment, where an LLM learns writing style preferences in a collaborative authoring task. We discuss this work in detail in Section 4.\n\nThese methods all rely on a single inference step, whereas our approach uses iterative refinement to learn more precise preferences, and preference verification across several user examples for robustness.\n\n![Refer to caption](https://arxiv.org/html/x1.png)\n\nFigure 1: Overview of PROSE. (top) The user provides a task description and demonstration to PROSE, which executes iterative refinement and then a consistency verification step. Iterative refinement updates the inferred preference description by generating a writing sample conditioned on the current preference description, comparing the sample to the user’s demonstration, and updating the preference description to better describe the user’s demonstration until the LLM’s generations match the demonstration or a maximum number of iterations S𝑆Sitalic_S is reached. The description is then broken into a set of component parts, and each component’s consistency with prior demonstrations is verified with LLM-as-a-Judge. (bottom) Example PROSE prompts (for full prompts see Section F.1).",
+  "token_estimate": 666
+}

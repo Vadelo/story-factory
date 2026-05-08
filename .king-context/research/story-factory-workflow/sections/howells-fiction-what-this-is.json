@@ -1,0 +1,33 @@
+{
+  "title": "What This Is",
+  "path": "howells-fiction-what-this-is",
+  "url": "https://github.com/howells/fiction",
+  "keywords": [
+    "howells/fiction",
+    "/fiction:plan",
+    "/fiction:character",
+    "/fiction:outline",
+    "/fiction:go",
+    "story architecture",
+    "scene economy",
+    "character arcs",
+    "continuity management",
+    "prose engineering"
+  ],
+  "use_cases": [
+    "Use when designing a story's structural architecture and chapter breakdowns",
+    "Implement when developing deep character profiles and protagonists",
+    "Configure when transitioning from high-level concept to drafting prose",
+    "Use when tracking project status and determining the next logical writing task",
+    "Configure when requiring automated review and continuity checks across a manuscript"
+  ],
+  "tags": [
+    "creative-writing",
+    "cli-reference",
+    "workflow-automation",
+    "plugin-installation"
+  ],
+  "priority": 10,
+  "content": "A complete fiction writing system—from initial concept through final draft. Specialized agents handle different aspects of the craft: architecture, characters, prose, review, editing, continuity, and publishing prep.\n\nThis isn't a chatbot that writes generic content. It's a writing partner that understands story structure, character arcs, scene economy, and the difference between good prose and great prose.\n\n```bash\nclaude plugins:add howells/fiction\n```\n\n```bash\n/fiction:plan        # Design your story's architecture\n/fiction:character   # Develop your protagonist\n/fiction:outline     # Break into chapters\n\"Write chapter 1\"    # Start writing\n```\n\n```bash\n/fiction:go          # Load project and see what to work on next\n```",
+  "token_estimate": 130
+}

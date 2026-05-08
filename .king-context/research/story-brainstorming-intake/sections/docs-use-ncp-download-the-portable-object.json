@@ -1,0 +1,32 @@
+{
+  "title": "Download the portable object ​",
+  "path": "docs-use-ncp-download-the-portable-object",
+  "url": "https://dramatica.com/docs/use/ncp",
+  "keywords": [
+    "NCP package",
+    "Storyform",
+    "portable narrative object",
+    "Subtxt",
+    "Narrova",
+    "Storyform-linked content",
+    "bidirectional updates",
+    "sync model",
+    "JSON validation",
+    "workspace controls"
+  ],
+  "use_cases": [
+    "Use when you need to archive a local backup of your story data in a structured format",
+    "Implement when porting narrative structured data between Subtxt and the Storyform Builder",
+    "Configure when manual inspection of story-linked JSON content is required for technical verification",
+    "Use when working across multiple surfaces to ensure real-time synchronization of the Narrative Control Plane"
+  ],
+  "tags": [
+    "export",
+    "data-synchronization",
+    "integration",
+    "asset-management"
+  ],
+  "priority": 8,
+  "content": "- Location:`Storyform Builder → Download NCP`,`Subtxt → Writing → Downloads → Complete NCP Package`, or the Narrova NCP workspace controls when available.\n- Action: Download the current NCP package.\n- Outcome: The platform generates a portable narrative object you can archive, inspect, import elsewhere, or use in another tool.\n- Validation: The file contains structured story data rather than just copied prose. You should be able to inspect the JSON and see Storyform-linked narrative content inside it.\n\nTIP\n\nKeep Subtxt open in one tab and Narrova open in another when developing the same Storyform. That is the fastest way to feel the sync model in practice.\n\nLive updates do not wait for manual re-export. When a save happens against the current Storyform, the open workspace tied to that Storyform updates so already-open tabs can reflect the new state.\n\nIn practice, that means a Subtxt tab already open on the same Storyform can receive the new state proactively, and a Narrova conversation attached to that Storyform can continue from the updated notebook instead of stale context.\n\nRetroactive updates are bidirectional. Changes made in Narrova can update the Storyform-backed side, and changes made in Subtxt or Storyform Builder can update the active NCP object in Narrova.\n\nIn plain language, you are not choosing one true workspace and abandoning the other. You are working against one evolving Storyform through two synchronized surfaces.",
+  "token_estimate": 304
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Phase 4: Execute",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-4-execute",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Execute",
+    "Chain-of-Thought",
+    "Internal Monologue",
+    "Critique",
+    "Rewrite Plan",
+    "Final Polish",
+    "Sliding window",
+    "Story context",
+    "Ruthless Script Doctor",
+    "Scene-by-scene iteration"
+  ],
+  "use_cases": [
+    "Use when implementing an iterative scene generation workflow",
+    "Implement when the AI requires a self-correction mechanism to improve script quality",
+    "Configure when incorporating a character bible and story context into active writing",
+    "Use when managing a sliding window of recent events to maintain narrative continuity"
+  ],
+  "tags": [
+    "AI-writing",
+    "workflow-automation",
+    "prompt-engineering",
+    "content-generation"
+  ],
+  "priority": 9,
+  "content": "Finally, we let the AI write. But even now, we keep it on a tight leash.\n\n- The Process: We iterate through the outline scene-by-scene. For each scene, we pass in the Bible (for names/locations), the scene data (the deep analysis), and the story context (the sliding window of recent events).\n- The Persona: “Ruthless Script Doctor”.\n\nThe Trick: We force a “Chain-of-Thought” workflow. The model doesn’t just output the scene; it first generates an Internal Monologue, then a Critique of potential weaknesses, then a Rewrite Plan, and only then the Final Polish. This self-correction step drastically improves quality.",
+  "token_estimate": 131
+}

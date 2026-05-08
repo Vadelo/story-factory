@@ -1,0 +1,34 @@
+{
+  "title": "Introduction",
+  "path": "articles-PMC5652896-introduction",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5652896/",
+  "keywords": [
+    "virtual agents",
+    "social robots",
+    "conversational characters",
+    "character model",
+    "Nabaztag",
+    "social engagement",
+    "persona",
+    "character arc",
+    "cultural archetypes",
+    "direct speech",
+    "long-term field experiment"
+  ],
+  "use_cases": [
+    "Configure when modeling long-term social engagement for service automata",
+    "Implement when developing a coherent character persona for robotic frontends",
+    "Use when scripting dialog to reflect specific character viewpoints or archetypes",
+    "Apply when building conversational agents based on fictional drama and screenwriting techniques",
+    "Implement when consistency is required across varying robotic roles and tasks"
+  ],
+  "tags": [
+    "social-robotics",
+    "human-robot-interaction",
+    "natural-language-generation",
+    "persona-design"
+  ],
+  "priority": 10,
+  "content": "The research outlined in this paper aims at the modeling of conversational characters in virtual agents and social robots. As of today, the character of these new kinds of service automata is little developed. They are generally designed to give an impression of friendliness and helpfulness (footnote: companion videos) without expressing any personality of their own. In the research project Social Engagement with Robots and Agents (Payr 2013), the rabbit-like robotic frontend Nabaztag was used in a long-term field experiment. This simple robot was scripted in a way that the information, e.g., on potentially interesting events that it gave to subjects was formulated from a rabbit’s viewpoint (e.g. “… and don’t forget to bring me carrots from there!” or “… I as a rabbit would be afraid of the height, but maybe you’ll like it!”). Subject liked these expressions of a rabbit persona. In this experiment, they had no means to explore this persona in any more depth, but it increased their attachment and the readiness to “play along” with the setup (Payr 2013). Robots that live and work with humans in varying situations and over long periods of time need both flexibility and consistency in their interaction in whatever role they take or task they carry out (Trappl et al. 2011). This requires that conversation “in character” is generated from a coherent character model. The intermediate goal of the research is therefore to study how character is revealed in dialog. Fictional works that present character through direct speech, especially dramas and screenplays, are therefore the primary source for our studies.\n\nFictional characters have been studied for a long time already, starting with Aristotle’s Poetics (Kuchenbuch 2005), from cultural, narrative, psychological, and literary perspectives. Even today, they are often based on cultural archetypes: the hero, the villain, the helper/teacher or angel, the skeptic, the sidekick, etc. (Truby 2007; Vogler 2007) enacting “core relational themes” (Lazarus 1991). From an author’s or screenwriter’s viewpoint, characters are built not so much as a collection of personality traits but as growing out of strengths, weaknesses, values, desires, as well as their social relationships (Truby 2007). The viewer or reader has to be able to infer this character, as well as its development (character arc) from appearance, actions, non-verbal expression, and talk.",
+  "token_estimate": 501
+}

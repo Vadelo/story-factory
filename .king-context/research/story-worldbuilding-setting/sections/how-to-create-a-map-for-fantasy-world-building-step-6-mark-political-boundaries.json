@@ -1,0 +1,34 @@
+{
+  "title": "Step 6: Mark Political Boundaries",
+  "path": "how-to-create-a-map-for-fantasy-world-building-step-6-mark-political-boundaries",
+  "url": "https://zainahyousef.com/how-to-create-a-map-for-fantasy-world-building/",
+  "keywords": [
+    "political borders",
+    "natural barriers",
+    "rivers",
+    "mountain ranges",
+    "dense forests",
+    "conflict lines",
+    "tax rates",
+    "diplomacy",
+    "travel restrictions",
+    "political tension"
+  ],
+  "use_cases": [
+    "Use when you want to delineate political borders that follow natural features or historical lines.",
+    "Implement when you need to model the impact of borders on trade, taxation, and diplomacy.",
+    "Configure when you wish to create regions with distinct cultural identities influenced by borders.",
+    "Use when you want to introduce narrative tension around border towns or cities.",
+    "Employ when you aim to determine travel restrictions and security zones near political boundaries."
+  ],
+  "tags": [
+    "worldbuilding",
+    "politics",
+    "geography",
+    "narrative",
+    "role-playing"
+  ],
+  "priority": 10,
+  "content": "Once your geography and settlements are in place, you can draw political borders. Borders often follow natural barriers like rivers, mountain ranges, or dense forests. Sometimes they form along old conflict lines between rival kingdoms that have long since settled into an uneasy peace.\n\nThese boundaries create political tension and directly influence travel, taxation, diplomacy, and the daily lives of the people who live near them. You want those borders to make sense and hold weight in your story.",
+  "token_estimate": 105
+}

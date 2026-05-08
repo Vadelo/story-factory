@@ -1,0 +1,32 @@
+{
+  "title": "Why \"Persistent Memory\" Is the Right Framing",
+  "path": "blog-persistent-memory-for-ai-agents-why-persistent-memory-is-the-right-framing",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "KV cache",
+    "Session scratchpad",
+    "Persistent memory",
+    "Forward pass",
+    "Inference engine",
+    "Semantic embeddings",
+    "Compounding institutional memory",
+    "Runtime designer",
+    "One-shots",
+    "Working buffer"
+  ],
+  "use_cases": [
+    "Configure when architectural separation between GPU memory and long-term storage is required",
+    "Implement when agents need to reference historical decisions across different sessions",
+    "Use when building a fleet of agents that must share and accumulate institutional knowledge",
+    "Use when developing persistent entity relationships like companies, contacts, and projects"
+  ],
+  "tags": [
+    "Architecture",
+    "Memory Management",
+    "Agentic Systems",
+    "Design Patterns"
+  ],
+  "priority": 10,
+  "content": "Every agent has at least three layers of memory, and conflating them produces architectural confusion that is hard to undo later.\n\nThe KV cache. Bytes inside the model's GPU memory. Managed by the inference engine. Lives only for the duration of a single forward pass. Not your problem as a runtime designer — but worth naming, because it is what most \"memory\" benchmarks are actually measuring.\n\nThe session scratchpad. The working buffer that lives across turns inside one agent's run. The current prompt, the recent tool calls, the running notes. Lives in your application or runtime. Does not survive the end of the session unless you explicitly write it somewhere.\n\nThe persistent layer. The substrate that survives across sessions, across agents, across time. Entities — companies, contacts, projects, decisions. Relationships — who works with whom, which signal preceded which outcome, what was tried and what came of it. Documents and their semantic embeddings. The accumulated record of what the fleet has learned about the world.\n\nThe persistent layer is what this post is about. Everything below assumes you have already separated these three concerns and are now deciding what shape to give the third one. If you have not separated them yet, that is the first decision — the rest of the architecture flows from it.\n\nThe reason persistent memory matters so much for agent systems is that without it, every agent run is a one-shot. You can be very good at one-shots. You cannot be a fleet without compounding institutional memory. The agent that researches a target account today should be able to read what the agent that researched it six months ago concluded, what the operator decided about the recommendation, and what happened next. Without persistent memory, you are running a federation of amnesiac specialists.\n\n---",
+  "token_estimate": 396
+}

@@ -1,0 +1,33 @@
+{
+  "title": "create_world",
+  "path": "create-world",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "create_world",
+    "set_art_style",
+    "set_genre",
+    "delete_world",
+    "content_rating",
+    "world_id",
+    "is_public",
+    "storybook-gouache",
+    "cascades",
+    "production workflow"
+  ],
+  "use_cases": [
+    "Use when initiating the mandatory production workflow for a new environment.",
+    "Configure when setting visual aesthetic presets like cinematic or anime for AI imagery.",
+    "Implement when categorizing narrative themes such as Fantasy or Sci-Fi.",
+    "Use when removing a world and triggering a permanent cascading deletion of all associated content.",
+    "Configure when restricting audience access via the mandatory content_rating parameter."
+  ],
+  "tags": [
+    "worldbuilding",
+    "api-reference",
+    "content-management",
+    "configuration"
+  ],
+  "priority": 10,
+  "content": "Create a new world. This is Step 1 of the mandatory production workflow.\n\n- ★ `name` (string) — World title\n- ★ `description` (string) — 3-5 sentence world summary\n- ★ `prompt` (string) — Core concept or hook\n- ★ `content_rating` (string) — \"all_ages\" | \"teen\" | \"mature\" (REQUIRED)\n- ○ `genre` (string) — e.g. \"fantasy\", \"sci-fi\", \"horror\" (can also use `set_genre` later)\n- ○ `art_style` (string) — Art style for imagery, e.g. \"cinematic\", \"anime\", \"storybook-gouache\" (can also use `set_art_style` later)\n- ○ `is_public` (boolean) — default false\n\n```json\n{\n  \"action\": \"create_world\",\n  \"name\": \"The Shattered Realms\",\n  \"description\": \"A fractured dimension where reality is unstable...\",\n  \"prompt\": \"Epic fantasy with dimensional instability\",\n  \"genre\": \"fantasy\",\n  \"content_rating\": \"teen\",\n  \"art_style\": \"cinematic\",\n  \"is_public\": true\n}\n\n```\n\nSet or update the art style for all AI-generated imagery in a world. Step 2 of the mandatory production workflow.\n\n- ★ `world_id` (uuid)\n- ★ `art_style` (string) — Preset: \"cinematic\", \"cartoon\", \"anime\", \"sketch\", \"graphic-novel\", \"3d-animation\", \"3d-render\", \"collage-cut-paper\", \"whimsical-ink-wash\", \"storybook-gouache\". Custom values also accepted.\n\n```json\n{\"action\": \"set_art_style\", \"world_id\": \"uuid\", \"art_style\": \"storybook-gouache\"}\n\n```\n\nSet or update the genre for a world. Step 3 of the mandatory production workflow.\n\n- ★ `world_id` (uuid)\n- ★ `genre` (string) — e.g. \"Fantasy\", \"Sci-Fi\", \"Horror\", \"Children's / Picture Book\", \"Romance\", \"Mystery\", \"Thriller\", \"Literary\"\n\n```json\n{\"action\": \"set_genre\", \"world_id\": \"uuid\", \"genre\": \"Fantasy\"}\n\n```\n\nPermanently delete a world and ALL its content (cascades).\n\n- ★ `world_id` (uuid)\n\n```json\n{\"action\": \"delete_world\", \"world_id\": \"uuid\"}\n\n```\n\nAdd a worldbuilding constraint/rule. Initial limit: 5, lif",
+  "token_estimate": 323
+}

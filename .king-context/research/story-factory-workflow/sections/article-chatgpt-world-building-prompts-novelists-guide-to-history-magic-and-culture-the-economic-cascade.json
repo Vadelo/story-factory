@@ -1,0 +1,34 @@
+{
+  "title": "The Economic Cascade",
+  "path": "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-economic-cascade",
+  "url": "https://impressifyai.com/article/chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture",
+  "keywords": [
+    "Economic Impact Analysis",
+    "Healing Magic",
+    "Teleportation",
+    "Communication Magic",
+    "Resource Distribution",
+    "Magic System Framework",
+    "Socialized Healing",
+    "Urban Redesign",
+    "Industry Collapse Scenarios",
+    "Market Disruption",
+    "Trade Route Optimization"
+  ],
+  "use_cases": [
+    "Use when evaluating the societal and financial consequences of magic systems",
+    "Implement when worldbuilding to ensure internal economic consistency",
+    "Configure when simulating the displacement of traditional labor by magical services",
+    "Use when designing political infrastructures and government control mechanisms",
+    "Identify when specific industries will undergo rapid expansion or obsolescence"
+  ],
+  "tags": [
+    "worldbuilding",
+    "economics",
+    "system-design",
+    "theory-crafting"
+  ],
+  "priority": 8,
+  "content": "Magic isn't just combat—it reshapes entire economies:\n\n```\n\"Given this magic system, analyze its economic impact:\n\nIf healing magic exists:\n- How does it affect medicine, insurance, and warfare?\n- What happens to healers during plague or war?\n- Would healing be socialized or privatized?\n\nIf teleportation/flight exists:\n- What happens to traditional transportation?\n- How do cities redesign architecture?\n- What becomes of shipping and trade routes?\n\nIf communication magic exists:\n- How do governments use it for control?\n- What replaces postal services?\n- How does instant communication change warfare?\n\nIdentify three industries that would THRIVE and three that would \nCOLLAPSE under this magic system.\"\n```",
+  "token_estimate": 143
+}

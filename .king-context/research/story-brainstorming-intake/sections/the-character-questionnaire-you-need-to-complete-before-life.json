@@ -1,0 +1,32 @@
+{
+  "title": "Before Life",
+  "path": "the-character-questionnaire-you-need-to-complete-before-life",
+  "url": "https://www.writerswrite.co.za/the-character-questionnaire-you-need-to-complete",
+  "keywords": [
+    "character backstory",
+    "parental genealogy",
+    "socioeconomic status",
+    "genetic history",
+    "character development",
+    "narrative worldbuilding",
+    "social class",
+    "familial relationships",
+    "educational background",
+    "medical history"
+  ],
+  "use_cases": [
+    "Use when establishing a character's inherited physical traits and aesthetics",
+    "Implement when defining the socioeconomic environment of a character's upbringing",
+    "Configure when mapping out multi-generational family trees or ancestral motivations",
+    "Use when assessing how historical events influenced the character's immediate family"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-design",
+    "world-building",
+    "narrative-planning"
+  ],
+  "priority": 8,
+  "content": "Tell us about the character’s parents.\n\nDescribe the parents physically: hair colour, eye colour, weight, height.\n\nThen answer these questions:\n\n1. Where were they born?\n2. Did they have happy childhoods?\n3. Were they wealthy, poor, comfortable?\n4. What was their social class?\n5. Were they well educated?\n6. What were the most important things that happened to them?\n7. Did they have any history of illness – physical or mental?\n8. Did any major world conflict or change in the world affect them?\n9. Were your character’s grandparents alive when he or she was born? Describe their relationship with the character’s parents.",
+  "token_estimate": 136
+}

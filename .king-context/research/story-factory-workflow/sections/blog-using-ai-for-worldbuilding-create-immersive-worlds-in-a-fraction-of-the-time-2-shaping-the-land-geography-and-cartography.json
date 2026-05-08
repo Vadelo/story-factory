@@ -1,0 +1,32 @@
+{
+  "title": "2. Shaping the Land: Geography and Cartography",
+  "path": "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-2-shaping-the-land-geography-and-cartography",
+  "url": "https://sudowrite.com/blog/using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time/",
+  "keywords": [
+    "Xylos",
+    "Glass-Shard Desert",
+    "Veridian Labyrinth",
+    "Iron Bastions",
+    "Midjourney",
+    "LLM Prompting",
+    "Cartography",
+    "Visual Ground Truth",
+    "Fantasy World-Building",
+    "Biome Generation"
+  ],
+  "use_cases": [
+    "Use when building the physical stage and geography for a narrative world",
+    "Implement when generating visual maps using AI image generators like Midjourney",
+    "Configure when defining distinct biomes with LLM descriptive prompts",
+    "Use when establishing a visual ground truth to inform travel and trade route logic"
+  ],
+  "tags": [
+    "World-Building",
+    "Content-Generation",
+    "Creative-Writing",
+    "AI-Prompting"
+  ],
+  "priority": 8,
+  "content": "With a concept in hand, you need a place for your story to unfold. Let’s build the physical stage.\n\n- Goal: Define the world's geography and create a visual map.\n- Technique: Use an LLM for descriptive text and an image generator for the visual.\n\nImage Generator Prompt (for a map):\n\n```\n# Midjourney Prompt Example\n/imagine prompt: fantasy world map of the continent Xylos, top-down satellite view, hand-drawn style of a master cartographer, parchment texture. Clearly label the Glass-Shard Desert, the Veridian Labyrinth, and the Iron Bastions mountain range. Include a compass rose and a scale. --ar 16:9 --style raw --v 6.0\n```\n\nThis visual reference is now your ground truth. It will inspire new ideas about travel, trade routes, and borders.\n\nLLM Prompt (for description):\n\n```\nBased on our 'Shattered Sky' concept, describe the primary continent, 'Xylos.' A magical cataclysm shattered the moon, and its glowing shards now rain down, creating zones of wild magic and mutated flora/fauna. Describe three distinct biomes: the 'Glass-Shard Desert' where the shards fall most heavily, the 'Veridian Labyrinth,' a hyper-aggressive jungle growing around a massive shard, and the 'Iron Bastions,' the mountain range where humanity has built its fortified cities.\n```",
+  "token_estimate": 264
+}

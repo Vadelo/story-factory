@@ -1,0 +1,32 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "en-how-it-works-frequently-asked-questions",
+  "url": "https://symban.de/en/how-it-works",
+  "keywords": [
+    "Writing pass",
+    "Refining pass",
+    "Quality Control pass",
+    "Memory Extraction",
+    "fix loops",
+    "open warnings",
+    "compressed summary",
+    "volume context",
+    "character-level continuity",
+    "style guides"
+  ],
+  "use_cases": [
+    "Configure when custom style guides and worldbuilding rules need to be enforced during quality checks",
+    "Use when manual intervention is required to resolve flagged scene warnings after failed fix loops",
+    "Implement when maintaining character-level continuity across multi-volume long-form narratives",
+    "Use when evaluating the automated scene generation pipeline and error handling protocols"
+  ],
+  "tags": [
+    "workflow",
+    "configuration",
+    "troubleshooting",
+    "content-management"
+  ],
+  "priority": 8,
+  "content": "How many passes does a text go through?+\n\nEach scene goes through four passes: Writing, Refining, Quality Control, and Memory Extraction. If the QC finds errors, up to 3 fix loops are run.\n\nWhat happens if an error can't be fixed?+\n\nAfter a maximum of 3 fix attempts, the scene is flagged with open warnings. You can manually edit it or send it through the system again.\n\nHow does memory work across multiple volumes?+\n\nAt the end of each volume, a compressed summary is automatically created. New volumes receive this as context, ensuring character-level continuity.\n\nCan I customize the quality checks?+\n\nYes. You define your own rules, style guides, and worldbuilding documents that the QC pass checks against. The system works according to your specifications.\n\nSign up now and start immediately with 3 free scenes. No credit card required.\n\nStart for free\n\n3 free scenes. No subscription, no commitment.",
+  "token_estimate": 198
+}

@@ -1,0 +1,33 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2601.07033v1-1-introduction",
+  "url": "https://arxiv.org/html/2601.07033v1",
+  "keywords": [
+    "Codified Foreshadowing–Payoff Generation",
+    "CFPG framework",
+    "Foreshadow–Trigger–Payoff (F,T,P) triple",
+    "causal state transition",
+    "eligibility selection module",
+    "narrative commitment fulfillment",
+    "BookSum corpus",
+    "foreshadow pool",
+    "symbolic rules",
+    "long-form narrative coherence"
+  ],
+  "use_cases": [
+    "Use when implementing long-range narrative coherence in language models beyond surface-level fluency.",
+    "Configure when causal verification is required to ensure narrative setups are paid off.",
+    "Implement when transitioning from memory-based mechanisms to explicit symbolic rule tracking for storytelling.",
+    "Use when benchmarking models on narrative competence and commitment fulfillment.",
+    "Apply when extracting and mining structured foreshadow-payoff pairs from literary corpora."
+  ],
+  "tags": [
+    "narrative-generation",
+    "causal-modeling",
+    "framework-introduction",
+    "evaluating-llms"
+  ],
+  "priority": 10,
+  "content": "“If in the first act you have hung a pistol on the wall, then in the following one it should be fired.”\n\n—Anton Chekhov\n\nHuman-authored narratives commonly rely on foreshadowing and payoff to establish coherence over the course of a story (riedl2010narrative; prince2003dictionary). By explicitly introducing objects, intentions, or conditions early on, authors create narrative commitments that are expected to be concretely resolved later (Todorov1969StructuralAO). The successful realization of these commitments, rather than mere sentence-level fluency, is a defining property of competent storytelling (forster1956aspects).\n\nFigure 1: Illustration of Foreshadow–Trigger–Payoff decomposition using a narrative example from The Hound of the Baskervilles. The disappearance of the boot introduces an unresolved causal commitment, which remains dormant until a triggering narrative condition activates its resolution.\n\n![Refer to caption](https://arxiv.org/html/x1.png)\n\nFigure 2: Overview of the CFPG framework. CFPG maintains a codified causal state in the form of a foreshadow pool $C_{t}$ , where each element is a structured $(F,T,P)$ triple. At each step t, an eligibility selection module deterministically selects a subset $S_{t}\\subseteq C_{t}$ based on codified trigger constraints, which conditions the language model to generate the next continuation $y$ . The generated text updates both the narrative prefix $X_{t+1}$ and the foreshadow pool $C_{t+1}$ via a codified state transition that resolves satisfied commitments and introduces new foreshadows. The right panel shows the simplified CFPG loop in pseudocode.\n\n![Refer to caption](https://arxiv.org/html/x2.png)\n\nDespite recent advances in story generation (openai2025gpt5; googlegemini), language models frequently fail to correctly realize such foreshadowed commitments. While generated text may remain grammatically fluent and locally coherent, models often neglect previously introduced setups, contradict established conditions, or resolve them inappropriately (see2019massively; guan2021long). Existing story-generation benchmarks, such as ROCStories (mostafazadeh2016corpus) and WritingPrompts (fan-etal-2018-hierarchical), primarily emphasize short-range coherence, evaluating whether each sentence follows naturally from the preceding context (rashkin2020plotmachines). They do not explicitly test whether narrative setups are later paid off, leaving a core aspect of narrative competence underexamined (sun2021long).\n\nThis limitation is not addressed by prior work in open-ended story generation and creative writing systems. Many approaches focus on maintaining character consistency (shanahan2023role), dialogue coherence (shuster2022blenderbot), or stylistic alignment (liu2023context), often through persona conditioning (peng2025codifying) or memory-based mechanisms (wang2025generating). Crucially, these methods primarily model persistent attributes, rather than discrete narrative events whose realization can be causally verified. While such techniques help preserve surface-level continuity, they do not provide explicit mechanisms for representing, tracking, or verifying whether foreshadowed narrative conditions are ultimately fulfilled (yang2023doc). As a result, models may appear coherent while silently violating narrative commitments introduced earlier in the story.\n\nTo address this gap, we introduce Codified Foreshadowing–Payoff Generation (CFPG), a framework that reformulates narrative coherence in terms of explicit causal realization. Rather than treating continuity as an implicit property of text, CFPG represents each foreshadow as a structured predicate specifying a foreshadow, a trigger, and an expected payoff. This representation allows narrative generation and evaluation to be grounded in whether each introduced commitment is realized, postponed, or violated as the story unfolds.\n\nBy encoding foreshadow–payoff relations as executable symbolic rules, CFPG enables precise, temporally grounded detection of payoff realization that cannot be reliably achieved through prompting or context augmentation techniques alone. Moreover, this formulation provides a controllable interface for evaluating language models on narrative competence defined by commitment fulfillment, rather than surface-level fluency.\n\nUsing the BookSum corpus of long-form literary summaries, we automatically mine structured interpretable foreshadow–payoff pairs. This dataset supports systematic analysis of narrative commitment realization across diverse genres and story structures.\n\nOur contributions are threefold:\n\n1.\n\nWe introduce a novel framework that explicitly models narrative coherence through foreshadow–payoff realization, formalizing storytelling competence as commitment fulfillment.\n\n2.\n\nWe construct a large-scale dataset derived from BookSum, automatically extracting explicit foreshadow–payoff pairs from long-form narratives aligned with their narrative positions.\n\n3.\n\nThrough controlled experiments, we demonstrate that codifying narrative commitments as Foreshadow–Trigger–Payoff predicates substantially improves payoff realization accuracy and narrative alignment compared to standard prompting baselines.\n\n1. C LLM Usage Statement",
+  "token_estimate": 859
+}

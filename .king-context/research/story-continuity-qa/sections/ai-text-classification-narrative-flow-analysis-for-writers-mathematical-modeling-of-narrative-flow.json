@@ -1,0 +1,33 @@
+{
+  "title": "Mathematical Modeling of Narrative Flow",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-mathematical-modeling-of-narrative-flow",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "directed graph G=(V, E)",
+    "Markov chain",
+    "transition probability matrix P",
+    "entropy calculation",
+    "narrative flow",
+    "p_i log2 p_i",
+    "causal transitions",
+    "temporal transitions",
+    "predictability modeling",
+    "vertex V",
+    "edge E"
+  ],
+  "use_cases": [
+    "Use when modeling plot progressions as mathematical directed graphs",
+    "Implement when quantifying the level of surprise or predictability in a story",
+    "Configure when calculating narrative complexity using entropy formulas",
+    "Use when designing branching path probabilities for interactive storytelling"
+  ],
+  "tags": [
+    "mathematical-modeling",
+    "narrative-design",
+    "graph-theory",
+    "data-analysis"
+  ],
+  "priority": 7,
+  "content": "To quantify narrative flow, we can model it as a directed graph G = (V, E), where vertices V represent narrative events (e.g., plot points, character decisions) and edges E denote causal or temporal transitions. The flow F of the narrative can be measured using a Markov chain, where the transition probability matrix P captures the likelihood of moving from one event to another. The entropy H of this system reflects the predictability or surprise in the narrative:\n\n$$ H = -\\sum_{i=1}^{n} p_i \\log_2 p_i $$\n\nHere, pi represents the probability of transitioning to event i. A high entropy indicates a complex, unpredictable narrative, while low entropy suggests a linear, deterministic flow.",
+  "token_estimate": 148
+}

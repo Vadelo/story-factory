@@ -1,0 +1,31 @@
+{
+  "title": "How it works",
+  "path": "genre-fiction.html-how-it-works",
+  "url": "https://creativewritingauthority.com/genre-fiction.html",
+  "keywords": [
+    "structural commitments",
+    "inciting premise",
+    "genre-specific escalation",
+    "midpoint reversal",
+    "genre-mandatory resolution",
+    "world-building",
+    "internal logic",
+    "promises and payoffs",
+    "subversion",
+    "genre label"
+  ],
+  "use_cases": [
+    "Use when developing a narrative framework to ensure genre-specific commitments are met",
+    "Configure when designing inciting premises and escalation patterns for fiction writing",
+    "Implement when structuring plot reversals that align with reader expectations for mystery or romance",
+    "Use when evaluating internal consistency and load-bearing world-building logic"
+  ],
+  "tags": [
+    "narrative-structure",
+    "creative-writing",
+    "thematic-framework"
+  ],
+  "priority": 10,
+  "content": "Genre fiction operates through a system of promises and payoffs. The genre label on the cover is a promise; the story's execution either delivers or violates that promise. Violating it is not automatically bad — sometimes subversion is the whole point — but a writer who does it without awareness usually just confuses readers.\n\nThe mechanics vary by genre, but most operate through 4 structural commitments:\n\n1. An inciting premise that establishes the genre's core tension — a crime, a magical system, a romantic meet, a threat to civilization.\n2. Genre-specific escalation patterns — mystery tightens its net of suspects; romance builds emotional intimacy through conflict; fantasy escalates the cost of magic.\n3. Midpoint reversal or complication that raises the stakes in a genre-appropriate way (the wrong suspect in mystery; the central couple separating in romance; the mentor's death in epic fantasy).\n4. A genre-mandatory resolution — mystery solves, romance unites, thriller neutralizes the threat.\n\nWorld-building is particularly load-bearing in fantasy and science fiction. A poorly constructed magic system creates plot holes; a poorly constructed romance arc creates emotional incoherence. The internal logic of the genre's fictional reality has to be consistent enough that readers feel the rules are real — even when those rules involve dragons.\n\n---",
+  "token_estimate": 276
+}

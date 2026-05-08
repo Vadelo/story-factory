@@ -1,0 +1,32 @@
+{
+  "title": "Linked",
+  "path": "dual-pov-linked",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "Linked structuring",
+    "causality",
+    "POV alignment",
+    "dual POV",
+    "shared desire",
+    "inciting incident",
+    "Act 2 transition",
+    "opposition vs alliance",
+    "plot point signaling",
+    "character objectives"
+  ],
+  "use_cases": [
+    "Configure when multiple character arcs are causally connected but follow unique internal timing",
+    "Implement when transitioning characters between cooperation and competition throughout a narrative",
+    "Use when varying the alignment of plot point peaks to create narrative tension",
+    "Implement when managing the cohesion of two different points of view without direct causality"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-design",
+    "plotting",
+    "story-architecture"
+  ],
+  "priority": 8,
+  "content": "Linked structuring has separate timing but with causality. In Gone Girl, Amy’s disappearance (Nick’s inciting incident) and Amy’s decision to fake her death (her own inciting incident) are causally linked but distinct.\n\nOver the course of your story, you may vary the alignment. Characters may begin aligned, but then be linked at the plot point that signals a movement into Act 2 and then perhaps move toward fully divergent/staggered midpoints, etc.\n\nThe point here is that there is no mandate to align your characters’ plot points all the time. Nor do you even need causality between the two POVs.\n\nNow, there’s usually some other form of cohesion between the POVs if there’s no causality. We’ll touch upon that next.\n\nIf you’re writing a dual POV story, there’s a reason you’re doing so. Both characters are essential to the narrative in some way. The question is how are they connected? What do they share?\n\nProbably the most common overlap between the characters is desire (aka objective, aka goal, etc.). Shared desire can put characters in opposition (if they’re competing for an objective) or in alliance (if they’re working together toward a common goal). And of course, they don’t need to remain pigeonholed into one category or the other. They can bounce back and forth between opposition and alliance.",
+  "token_estimate": 288
+}

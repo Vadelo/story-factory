@@ -1,0 +1,34 @@
+{
+  "title": "Working with AI Assistants",
+  "path": "lordjabez-story-framework-working-with-ai-assistants",
+  "url": "https://github.com/lordjabez/story-framework",
+  "keywords": [
+    "CLAUDE.md",
+    ".ai-instructions.md",
+    ".cursorrules",
+    ".windsurfrules",
+    ".clinerules",
+    "GitHub Copilot",
+    "git diff",
+    "milestone tagging",
+    "version control",
+    "collaborative writing",
+    "AGENTS.md"
+  ],
+  "use_cases": [
+    "Configure when setting up specific coding assistants like Claude, Gemini, or Cursor",
+    "Update when needing to modify the core AI behavior across multiple tools via .ai-instructions.md",
+    "Use when processing narrative edit notes marked with curly brackets",
+    "Implement when tracking creative writing progress and drafting through internal Git commands",
+    "Configure when establishing a universal fallback for AI agents not explicitly listed"
+  ],
+  "tags": [
+    "configuration",
+    "ai-collaboration",
+    "version-control",
+    "writing-workflow"
+  ],
+  "priority": 9,
+  "content": "This framework is designed for collaborative writing with AI. Configuration files are included for all major AI coding assistants:\n\n| Tool | Configuration File |\n| --- | --- |\n| Claude Code | `CLAUDE.md` |\n| Gemini CLI | `GEMINI.md` |\n| Kiro | `.kiro/steering/creative-writing.md` |\n| GitHub Copilot | `.github/copilot-instructions.md` |\n| Cursor | `.cursorrules` |\n| Windsurf | `.windsurfrules` |\n| Cline | `.clinerules` |\n| Universal fallback | `AGENTS.md` |\n\nAll tool-specific files reference `.ai-instructions.md`, which contains the complete guidance. Edit that file to change behavior across all tools.\n\nThe AI can:\n\n- Help develop characters, plot, and themes in the planning docs\n- Write drafts based on your outlines\n- Process edit notes you leave in the text\n- Follow the style guide for consistency\n- Use git to track all changes\n\n- \"Process edit notes\" - Find and address all `{{...}}` markers\n- \"Show me the diff\" - See uncommitted changes\n- \"Revise [section] to [instruction]\" - Make specific edits\n\n```bash\n# Start tracking your project\ngit init\n\n# Save your current state\ngit add .\ngit commit -m \"Description of changes\"\n\n# See what's changed\ngit diff\n\n# See history\ngit log --oneline\n\n# Mark a milestone\ngit tag v1-first-draft\n\n# Undo uncommitted changes to a file\ngit checkout -- filename.md\n```",
+  "token_estimate": 291
+}

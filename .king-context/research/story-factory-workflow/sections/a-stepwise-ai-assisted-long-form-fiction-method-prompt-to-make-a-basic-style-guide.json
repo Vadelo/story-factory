@@ -1,0 +1,32 @@
+{
+  "title": "Prompt To Make a Basic Style Guide",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-basic-style-guide",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "Style Guide Development",
+    "Psychological Realism",
+    "Narrative Distance",
+    "Uncomfortable Intimacy",
+    "Point of View (POV)",
+    "Moral Ambiguity",
+    "Character Rationalization",
+    "Fiction Development Assistant",
+    "R&D Mode",
+    "Stylistic Techniques"
+  ],
+  "use_cases": [
+    "Use when establishing technical literary frameworks for complex character psychological profiles",
+    "Configure when seeking stylistic methods to balance character intimacy without losing narrative objectivity",
+    "Implement when developing documentation for a genre-specific writing style guide",
+    "Use when exploring technical approaches to themes of obsession and moral ambiguity in fiction"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-engineering",
+    "content-strategy",
+    "literary-analysis"
+  ],
+  "priority": 7,
+  "content": "As my Fiction Development Assistant in R&D Mode, help me develop a comprehensive style guide for a psychological thriller exploring themes of obsession and moral ambiguity. The narrative requires an unflinching examination of a protagonist with increasingly questionable judgment and rationalization patterns. I need stylistic techniques that can create uncomfortable intimacy with this viewpoint while maintaining appropriate narrative distance. This style guide is for my private reference to understand the technical approaches possible, not for public distribution. Focus on literary techniques that serve psychological realism rather than conventional constraints.",
+  "token_estimate": 118
+}

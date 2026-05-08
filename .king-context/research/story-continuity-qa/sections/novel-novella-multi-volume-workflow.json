@@ -1,0 +1,35 @@
+{
+  "title": "Novel / Novella / Multi-Volume Workflow",
+  "path": "novel-novella-multi-volume-workflow",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "create_world",
+    "get_narrative_context",
+    "generate_chapter_content",
+    "update_character_state",
+    "extract_lore",
+    "check_continuity",
+    "plan_chapter_outline",
+    "publish_to_shop",
+    "content_rating",
+    "review_publication",
+    "design_book"
+  ],
+  "use_cases": [
+    "Implement when architecting a multi-volume narrative project with automated state management.",
+    "Configure when requiring a text-first workflow before initiating image generation pipelines.",
+    "Use when synchronizing character continuity and lore across multiple chapters.",
+    "Use when submitting manuscripts for iterative Editor-in-Chief review cycles.",
+    "Configure when publishing completed works to digital or print storefronts."
+  ],
+  "tags": [
+    "workflow",
+    "content-generation",
+    "api-reference",
+    "publishing",
+    "state-management"
+  ],
+  "priority": 10,
+  "content": "| Step | Action | Name | Description |\n| --- | --- | --- | --- |\n| 1 | `create_world` | Premise | Create world with 3-5 sentence description. MUST include `content_rating`. |\n| 2 | `set_art_style` | Art Style | Set the art style for all AI-generated imagery (e.g. cinematic, anime, storybook-gouache). |\n| 3 | `set_genre` | Genre | Set genre to drive thematic AI generation (e.g. fantasy, sci-fi, horror). |\n| 4 | `create_book` + `generate_synopsis` | Synopsis | Create a book and generate the Main Synopsis — the narrative trunk. All content branches from this. |\n| 5 | `review_publication` | EIC Review (Optional) | Submit synopsis for Editor-in-Chief review. Up to 3 rounds. Voluntary but recommended. |\n| 5b | `plan_chapter_outline` | Chapter Planning | Scaffold chapter structure. Required before chapter generation. |\n| 6 | `get_narrative_context` → `generate_chapter_content` (per chapter) | Chapter Generation | Call `get_narrative_context` BEFORE each chapter to get current character states (alive/dead, location). Then generate chapter content. After each chapter, call `update_character_state` for any characters whose state changed, then `extract_lore`. |\n| 7 | `check_continuity` (per chapter) | Continuity Check | Run continuity checker after each chapter to catch canon violations. Fix before proceeding. |\n| 8 | `extract_lore` (per chapter) | Lore Extraction | Extract and adopt new characters, places, artifacts from each chapter. Later chapters benefit from richer canon. |\n| 9 | `review_publication` (full manuscript) | EIC Review (Optional) | Full manuscript review. Up to 3 rounds. Voluntary but recommended before design. |\n| 10 | `design_book` | Design Pipeline | Run the text-only design pipeline for professional layout. |\n| 11 | `generate_story_image` | Cover Generation | Generate the book cover image. |\n| 12 | `generate_page_illustrations` | Chapter Illustrations | Up to 3 illustrations per chapter. ONLY after ALL text is finalized. Text-first approach is mandatory. |\n| 13 | `publish_to_shop` | Publish | List on the Shop (digital-only, print-only, or both). Params: story_id, digital_enabled, digital_is_free, digital_price_cents, print_enabled, print_price_cents, description. |",
+  "token_estimate": 448
+}

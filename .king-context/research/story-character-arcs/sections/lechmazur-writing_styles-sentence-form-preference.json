@@ -1,0 +1,33 @@
+{
+  "title": "Sentence form preference",
+  "path": "lechmazur-writing_styles-sentence-form-preference",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "Sentence form preference",
+    "Balanced syntax",
+    "Hypotaxis",
+    "Parataxis",
+    "GPT-5 Pro",
+    "Claude Opus 4.5",
+    "Claude Sonnet 4.5",
+    "Qwen 3 235B",
+    "Grok 4",
+    "Kimi K2",
+    "Syntax complexity",
+    "Style Fingerprints"
+  ],
+  "use_cases": [
+    "Use when analyzing the linguistic profile and stylistic trends of specific Large Language Models",
+    "Implement when selecting a model that favors complex subordinating clauses (Hypotaxis) vs balanced structures",
+    "Configure when benchmarking syntactic variety across different model families like GPT, Claude, and Qwen"
+  ],
+  "tags": [
+    "llm-benchmarking",
+    "linguistic-analysis",
+    "style-fingerprints",
+    "syntax"
+  ],
+  "priority": 6,
+  "content": "![Style Fingerprints • Sentence Form Preference — Choice Proportions by LLM](images/style_enum_sentence_form_preference_stacked.png)\n\n- **Balanced dominates** for most models; several are effectively 100% balanced (notably GPT-5 Pro and the Claude Opus/Sonnet 4.5 variants).\n- **Hypotaxis outliers:** Qwen 3 235B (25-07 Think) and Grok 4 are the strongest subordinators, with GPT-OSS-120B also notably hypotactic.\n- **Parataxis is rare,** appearing only as thin slivers.\n- **Note:** Kimi K2 stays mostly balanced despite high syntax complexity, showing complexity doesn’t require heavy hypotaxis.\n\n---",
+  "token_estimate": 103
+}

@@ -1,0 +1,33 @@
+{
+  "title": "How to run Body Horror",
+  "path": "five-types-of-horror-and-how-to-run-them-at-the-table-how-to-run-body-horror",
+  "url": "https://www.questandcartridge.com/five-types-of-horror-and-how-to-run-them-at-the-table/",
+  "keywords": [
+    "body horror",
+    "NPC transformation",
+    "mechanic-based infection",
+    "in-game timer",
+    "disease systems",
+    "stat block modification",
+    "The Mask of the Black Sun",
+    "Call of Cthulhu",
+    "symptom progression",
+    "environmental storytelling"
+  ],
+  "use_cases": [
+    "Use when introducing irreversible physical consequences for character actions",
+    "Implement when building long-term psychological tension through NPC deterioration",
+    "Configure when integrating mechanical disease or infection timers into a campaign",
+    "Use when heightening party paranoia through hidden symptoms and secret checks",
+    "Implement when transitioning a standard dungeon crawl into a survival horror scenario"
+  ],
+  "tags": [
+    "game-master-guide",
+    "narrative-design",
+    "horror-mechanics",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "Body horror loses all its teeth if you sanitise it, so be vivid. Hell, be gratuitous and excessive.\n\nThe transformation of an NPC the party trusted could be described slowly and with attention to detail. What changes first? What horrifyingly remains the same? What does their voice sound like when they beg for help? Think of a half dozen Stephen King stories where someone whittles away (Thinner, for one).\n\nOr it could be instantaneous and surprising, like bursting out of a chest in Alien.\n\nFor maximum effect, consider allowing or even engineering a scenario where player characters are at risk of transformation themselves.\n\nA small scratch, a weird touch, a bad drink. Maybe they ingested whatever it is out there changing folks.\n\nEven the threat of it changes player behaviour dramatically. Mechanically, infection and disease in game systems work wonders here. An in-game timer that players know about, a gradual series of checks, or symptoms they can try to hide from each other, etc.\n\n#### Ideas for Implementation\n\n- An NPC the party has grown fond of starts showing small, easy-to-dismiss symptoms, like a persistent cough, a hand they keep flexing, a reluctance to eat in front of others. Let it build over several sessions before the reveal.\n- The party finds a room in a dungeon that appears to be a nest. The materials used to build it include armour, clothing, and personal effects they recognize as belonging to a missing member of a previous expedition.\n- A PC is injured by a strange cultist. Afterwards, the flesh knits back together in the right place but the texture is subtly different, and the character’s player notices their stat block has changed in a small, unexplained way.\n\nP.S. if you’re looking for a quick module that combines body horror with some cosmic horror, consider checking out The Mask of the Black Sun we released for Call of Cthulhu.",
+  "token_estimate": 422
+}

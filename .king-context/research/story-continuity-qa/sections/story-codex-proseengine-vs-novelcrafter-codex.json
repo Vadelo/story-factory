@@ -1,0 +1,38 @@
+{
+  "title": "ProseEngine vs NovelCrafter Codex",
+  "path": "story-codex-proseengine-vs-novelcrafter-codex",
+  "url": "https://proseengine.app/story-codex",
+  "keywords": [
+    "Story Codex",
+    "Relationship Web",
+    "force-directed graph",
+    "Family Tree view",
+    "World Map atlas",
+    "Story Timeline",
+    "AI World Generator",
+    "Auto-detect links",
+    "Character progressions",
+    "Typed relationships",
+    "Series-level codex",
+    "AI-powered auto-fill"
+  ],
+  "use_cases": [
+    "Use when comparing ProseEngine features against NovelCrafter for competitive analysis",
+    "Implement when needing to automatically detect character co-occurrence in manuscript scenes",
+    "Configure when visualizing complex character connections via interactive force-directed graphs",
+    "Use when building a multi-generational family tree with automated layouts and themes",
+    "Configure when mapping physical locations onto a custom atlas or blank grid",
+    "Use when migrating existing canon files via manual entry or automated imports",
+    "Implement when generating a full world codex from a single AI prompt"
+  ],
+  "tags": [
+    "feature-comparison",
+    "world-building",
+    "ai-tools",
+    "data-visualization",
+    "project-management"
+  ],
+  "priority": 9,
+  "content": "![](https://proseengine.app/assets/proseengine-logo-crop.png)\n\n![](https://proseengine.app/assets/competitor-logos/novelcrafter.png)\n\n| Feature | ProseEngine | NovelCrafter |\n| --- | --- | --- |\n| Entry types | Characters, Locations, Items, Factions, Events, Concepts | Characters, Locations, Items, Factions |\n| Relationship web | ✓ Interactive force-directed graph | Static list |\n| Auto-detect links | ✓ AI scene co-occurrence | Manual only |\n| AI descriptions | ✓ Yes | Yes (BYOK) |\n| Scene mentions | ✓ Click to jump to scene | Referenced in codex |\n| Character progressions | ✓ AI-generated | Manual |\n| Auto-generate aliases | ✓ Yes | ✗ No |\n| Family Tree view | ✓ Auto-built, 5 themes, 3 layouts | ✗ No |\n| World Map | ✓ Drag places onto a custom atlas | ✗ No |\n| Story Timeline | ✓ Ribbon & chapter view, AI events | Linear timeline only |\n| AI World Generator | ✓ One prompt fills full codex | ✗ No |\n| Typed relationships | ✓ 27 kinds, 7 categories, colour-coded | Free-text labels |\n| Pricing | Free – €29/mo | $4–20/mo + API |\n\n1\n\nAdd characters, locations, factions, items, events, and concepts. Use AI to auto-fill descriptions from your manuscript.\n\n2\n\nOne click detects all connections. Story Codex scans your scenes and finds which characters, locations, and factions appear together.\n\n3\n\nFour visual views — Relationship Web, Family Tree, World Map, Story Timeline. Switch themes and layouts in one click. Spot connections you never planned.\n\nYes! Story Codex is available on all tiers including Free. AI-powered features like auto-detect links and AI descriptions require Writer tier or above.\n\nStory Codex supports manual entry and AI-powered auto-fill from your manuscript. If you have existing canon files, you can import them to populate your codex automatically.\n\nThe Relationship Web is an interactive force-directed graph that visualizes all connections between your characters. Node size reflects how many connections each character has. Hover to see details, drag to rearrange, and click to open the full entry.\n\nYes. Story Codex works at both book and series level. Series-level codex entries persist across all books in the series.\n\nTag any relationship with a Kind — Parent, Child, Spouse, Lover, or Sibling — and the tree assembles itself across generations. Five themes (Royal, Parchment, Modern, Neon, Forest) and three layouts (vertical, horizontal, radial) are one-click switchable. Settings save per-book or per-catalog.\n\nYes. Upload any map image — hand-drawn, AI-generated, real-world atlas — or start from a blank grid. Then drag any place entry onto the canvas. Positions persist with the entry, so you keep one source of truth for the geography of your story.\n\nNo credit card required. Create your first codex in minutes.\n\nStart Building Your Story Bible Free",
+  "token_estimate": 606
+}

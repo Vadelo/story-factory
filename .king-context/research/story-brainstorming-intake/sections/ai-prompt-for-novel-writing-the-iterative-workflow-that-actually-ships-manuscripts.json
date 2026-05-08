@@ -1,0 +1,33 @@
+{
+  "title": "The Iterative Workflow That Actually Ships Manuscripts",
+  "path": "ai-prompt-for-novel-writing-the-iterative-workflow-that-actually-ships-manuscripts",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "RCIC template",
+    "Iterative Workflow",
+    "Prompt Specificity",
+    "Role+Context header",
+    "AI-assisted writing",
+    "Manuscript drafting",
+    "Refine prompt",
+    "Critique loop",
+    "Creative Workflow",
+    "Prompt Engineering"
+  ],
+  "use_cases": [
+    "Use when drafting long-form manuscripts to increase word counts and shipping speed",
+    "Implement when AI output feels generic or lacks specific character motivation and internal thought",
+    "Configure when establishing a reusable Role+Context header to reduce prompt engineering time",
+    "Use when transitioning from a one-shot prompting approach to a surgical, iterative refinement loop",
+    "Implement when final polishing is required to ensure the prose matches the author's unique voice"
+  ],
+  "tags": [
+    "creative-writing",
+    "workflow-optimization",
+    "prompt-engineering",
+    "content-creation"
+  ],
+  "priority": 9,
+  "content": "Good AI-assisted writing isn’t a one-shot process. It’s a loop. BestPrompt.Art research and real practitioner data both point to the same finding: writers who iterate on AI output consistently outperform those who treat prompts as one-shot commands. Here’s the loop:\n\n1\n\n#### Generate — Use the RCIC template\n\nRun your full RCIC prompt. Read the output without editing. Your job here is to identify what’s usable and what’s dead weight. Most scenes will be 30–60% usable on the first pass. That’s normal and fine.\n\n2\n\n#### Critique — Mark what’s wrong, specifically\n\nDon’t just notice “this feels flat.” Identify why: dialogue is too on-the-nose, the character’s motivation isn’t showing, the pacing collapses in the middle. The more specific your critique, the more useful your next prompt will be.\n\n3\n\n#### Refine — Give the AI your critique as the next prompt\n\n“The scene above is too dialogue-heavy. Rewrite the section from [X] to [Y] with more physical action and internal thought. Keep the line about the red door — that’s working. Cut everything after ‘She turned away’ and replace it with a beat of silence.” Specific, surgical, directive.\n\n4\n\n#### Own it — Rewrite the output in your voice\n\nThis is the non-negotiable step. Take the best elements from the AI output and rewrite them. Change the sentence rhythms, adjust the word choices, add the details only you know. This is where your novel becomes yours. The AI generated material. You wrote the book.\n\n30–50% Faster manuscript drafts for AI-assisted novelists who outline first\n\n3–4× More words shipped per week by writers who master prompt specificity\n\n60% Reduction in prompt-writing time with a reusable Role+Context header\n\nSources: gptprompts.ai, April 2026; Inkfluence AI benchmark data, April 2026",
+  "token_estimate": 380
+}

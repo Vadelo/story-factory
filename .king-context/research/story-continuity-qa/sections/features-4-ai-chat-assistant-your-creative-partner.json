@@ -1,0 +1,33 @@
+{
+  "title": "4. AI Chat Assistant - Your Creative Partner",
+  "path": "features-4-ai-chat-assistant-your-creative-partner",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Context-Aware AI",
+    "GPT-4o",
+    "Claude Sonnet 4.5",
+    "Voice Engine",
+    "Pro Feature",
+    "worldbuilding",
+    "continuity",
+    "story beats",
+    "prose generation",
+    "writing style analysis"
+  ],
+  "use_cases": [
+    "Use when brainstorming plot twists or story alternatives with full narrative context",
+    "Implement when identifying plot holes and inconsistencies across chapters",
+    "Configure when training the AI to match a specific writing voice using existing samples",
+    "Use when switching between different AI models to get varied creative perspectives",
+    "Implement when seeking feedback on character motivations based on established arcs"
+  ],
+  "tags": [
+    "AI Assistance",
+    "Creative Writing",
+    "Feature Guide",
+    "Pro Features"
+  ],
+  "priority": 10,
+  "content": "Brainstorm, get feedback, and make story decisions with context-aware AI.\n\nChat with AI that knows your entire story—characters, plot, worldbuilding, and recent chapters. Ask questions, explore alternatives, get scene suggestions, or brainstorm solutions to plot problems. Your creative partner when you need it, silent when you don’t.\n\n#### Context-Aware Intelligence\n\n- Knows your characters, relationships, and arcs\n- Understands your plot structure and story beats\n- References your worldbuilding elements and rules\n- Aware of recent chapter content for continuity\n- Remembers conversation history per project\n\n#### Creative Use Cases\n\n- Brainstorm plot twists and story alternatives\n- Get feedback on character motivations and arcs\n- Identify plot holes and inconsistencies\n- Explore worldbuilding implications\n- Develop scene ideas and dialogue options\n- Make story decisions with AI guidance\n\nPro Feature: Pro users can choose between GPT-4o and Claude Sonnet 4.5 for different creative perspectives and writing styles.\n\n✨ PRO EXCLUSIVE\n\nTrain the AI to match your unique writing voice.\n\nUpload samples of your existing writing and let Claude analyze your style. The Voice Engine identifies your sentence patterns, vocabulary preferences, pacing tendencies, and tone. Then it generates prose that sounds authentically like you, not generic AI output.\n\n#### Voice",
+  "token_estimate": 266
+}

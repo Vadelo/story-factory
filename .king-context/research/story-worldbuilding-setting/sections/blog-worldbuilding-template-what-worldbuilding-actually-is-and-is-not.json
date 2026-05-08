@@ -1,0 +1,37 @@
+{
+  "title": "What Worldbuilding Actually Is (And Is Not)",
+  "path": "blog-worldbuilding-template-what-worldbuilding-actually-is-and-is-not",
+  "url": "https://proseengine.app/blog/worldbuilding-template",
+  "keywords": [
+    "conflict",
+    "reveal character",
+    "establish atmosphere",
+    "decoration",
+    "feeling of completeness",
+    "five foundational pillars",
+    "culture",
+    "politics",
+    "geography",
+    "environment",
+    "history",
+    "story"
+  ],
+  "use_cases": [
+    "Use when ensuring every detail in your setting serves conflict, character development, or atmospheric establishment.",
+    "Use when drafting a romance that should emphasize culture and politics while minimizing geographic detail.",
+    "Use when structuring a survival narrative that relies heavily on environmental factors.",
+    "Use when creating a space opera galaxy and wanting to hint at larger histories without exhaustive exposition.",
+    "Use when wanting readers to feel the world extends far beyond the visible scenes, achieving a sense of completeness.",
+    "Use when balancing the development of five foundational pillars to suit the desired genre focus.",
+    "Use when reducing decorative details that slow story pacing."
+  ],
+  "tags": [
+    "worldbuilding",
+    "storycraft",
+    "creative-writing",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "Worldbuilding is not creating an encyclopedia. It is not drawing maps for the sake of maps or inventing twelve languages before you write your first chapter. Those activities can be enjoyable and even useful, but they are not worldbuilding in the narrative sense.\n\nTrue worldbuilding is the art of creating a setting that serves the story. Every detail of your world should do at least one of three things: create conflict, reveal character, or establish atmosphere. If a detail does none of these, it is decoration, and decoration slows your story down.\n\nThe goal is not completeness. It is the feeling of completeness. Readers should sense that your world extends far beyond what they can see, that there are entire histories and cultures just off-stage, without you needing to describe them all.\n\nEvery fictional world, from a space opera galaxy to a haunted house on a hill, rests on five foundational pillars. You do not need to develop all five equally. A romance might lean heavily on culture and politics while barely touching geography. A survival story might be dominated by environment. But knowing all five gives you the complete toolkit.",
+  "token_estimate": 254
+}

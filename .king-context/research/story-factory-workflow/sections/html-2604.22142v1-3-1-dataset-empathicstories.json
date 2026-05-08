@@ -1,0 +1,32 @@
+{
+  "title": "3.1 Dataset: EmpathicStories",
+  "path": "html-2604.22142v1-3-1-dataset-empathicstories",
+  "url": "https://arxiv.org/html/2604.22142v1",
+  "keywords": [
+    "EmpathicStories",
+    "personal narratives",
+    "first-person narratives",
+    "Hippocorpus",
+    "narrative empathy",
+    "stylistic features",
+    "transcribed speech",
+    "informal discourse",
+    "r/OffMyChest",
+    "referential relationship"
+  ],
+  "use_cases": [
+    "Use when analyzing natural variation in register and emotional tone",
+    "Implement when conducting research on narrative empathy in first-person accounts",
+    "Configure when integrating multi-source datasets like Reddit and oral histories",
+    "Use when studying linguistic indexes of lived experience"
+  ],
+  "tags": [
+    "dataset",
+    "natural-language-processing",
+    "linguistics",
+    "human-centered-ai"
+  ],
+  "priority": 8,
+  "content": "This study focuses on personal narratives rather than fiction because personal narratives claim a referential relationship to lived experience. In such texts, stylistic features like hedging, repetition, and emotional specificity are potential indexes of the narrator’s relationship to the events described. The study uses the EmpathicStories corpus (Shen et al., 2023), a dataset of 1,568 first-person narratives compiled for research on narrative empathy. The corpus draws from six sources, including road-trip oral histories, Hippocorpus recollections (Sap et al., 2020), Reddit communities (r/OffMyChest, r/CasualConversation, and r/TodayIAmHappy), and Facebook MIT Confessions. This source diversity introduces natural variation in register, formality, and emotional tone.\n\nThese sources differ in several ways. Oral histories are transcribed speech, Reddit posts are informal written discourse, Hippocorpus entries are structured recollections. However, they share a common theoretical foundation as personal narrative: each presents a first-person account of lived experience, recounting events that carry emotional, social, or moral stakes beyond mere i",
+  "token_estimate": 203
+}

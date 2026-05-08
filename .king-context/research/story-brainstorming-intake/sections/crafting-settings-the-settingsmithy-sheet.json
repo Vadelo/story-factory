@@ -1,0 +1,35 @@
+{
+  "title": "The SettingSmithy Sheet",
+  "path": "crafting-settings-the-settingsmithy-sheet",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "SettingSmithy",
+    "Setting Identification",
+    "parent-child setting logic",
+    "scene-independent description",
+    "Traits",
+    "Zone mapping",
+    "conflict resolution",
+    "difficulty adjustments",
+    "Dimensions",
+    "underlighting",
+    "map grid",
+    "secret information"
+  ],
+  "use_cases": [
+    "Use when establishing a unique location identity within a story hierarchy",
+    "Implement when writing objective, scene-independent descriptions for narrator reuse",
+    "Configure when defining zones for combat movement and range tracking",
+    "Use when detailing secret information and interactive points unknown to players",
+    "Configure when assigning traits to determine difficulty adjustments for conflict scenes"
+  ],
+  "tags": [
+    "world-building",
+    "narrator-tools",
+    "setting-configuration",
+    "map-design"
+  ],
+  "priority": 10,
+  "content": "Setting Identification\n\nThe top line of the SettingSmithy worksheet is for identifying the setting. There is a field for listing the name of the setting, the parent (if any), and the smithy. The name of the setting needs to be unique within the story. In other words, no two settings should be named the same within the same story (consider using name-01, or name-south if you want to reuse the same term). The parent of the setting is either one or more settings in which the setting is located. For instance, if the setting was “The Baker’s Kitchen”, it’s parent might be the “Baker’s home” or it might be extended to include the most expansive location in the story: “Baker’s home < Maltore Residential District < Maltore Village < Ompevania” with the realm of Ompevania being the largest setting created for the story. The smithy is the person filling out the form.\n\nDescription\n\nThe description is intended to be read aloud to the players. While the Narrator may forgo reading the description aloud, it is highly recommended to include a description as they can become very handy for a narrator in a pinch.\n\nWriting out the description should be done with an objective tone that describes the contents of the room, independent of scene conditions. This description should not explain or give any clues for the scene itself – just an objective description of the setting. An example of a poor description would be something like: “The first thing you notice as you enter the baker’s kitchen is the heightened aroma of bread. The second thing you notice is blood splattered along the tiled backspalsh and cupboards.” This makes for a poor setting description because it’s not scene-independent. Specifically, the smell and blood might not be there when the characters return to the same location in the future. A better setting description could be: “The baker’s kitchen is large with dual ovens and a butcherblock topped island in the middle. Cupboards with underlighting line the ceiling with a small glass tiled backsplash leading down to marble counter tops.” A setting like that is now fresh for use in a baking scene, murder scene, or any other kind of scene.\n\nTraits\n\nTraits are optional though it is highly recommended that the smithy lists out traits for any scene being designed for conflict – especially combative conflict as the traits may be used to help Narrators determine difficulty adjustments and challenge criteria.\n\nMap\n\nThe map area is optional though it’s recommended that it either lays out the child settings or plots out zones if the setting is intended to host combat conflict.\n\nIf this setting is a parent of other settings, try to configure where each setting is and it’s access to/from other child settings. For instance, a Map for the Maltore Village might have the following child locations: “South Entrance”, “West Entrance”, “Market District”, “Residential District”, “Priory District”, “Fabric District”, and “Tower Hill”.\n\nIf this setting is not a parent of any other settings and has conflict – especially combat conflict – then use this section to map out the various zones within the setting. Zones need not be separated by walls or fences, in fact it is encouraged that large fields or other open spaces are broken down into a grid of zones in order to better track attack and movement ranges.\n\nDimensions | Instructions | Notes\n\nThis optional area is where you would write specific instructions, dimensions, or notes for the Narrator that pertain to this setting. Instructions may be something about challenge rules, difficulty adjustments that aren’t quite definable by traits, scene conditions that might change which traits are activated, etc. Dimensions are facts and descriptors that might explain exactly spacious a setting and its components are. Any secret information should be titled as such; this might include knowledge about hidden passages or interactive points within the scene that players have yet to discover.",
+  "token_estimate": 872
+}

@@ -1,0 +1,30 @@
+{
+  "title": "ProseCreator: A Tri-Store Knowledge Architecture for AI-Assisted Long-Form Creative Writing with Living Blueprints, Multi-Dimensional Continuity Validation, and Horizontally Scalable Workflow Dispatch",
+  "path": "docs-research-prosecreator-platform-architecture-prosecreator-a-tri-store-knowledge-architecture-for-ai-assisted-long-form-creative-writing-with-living-blueprints-multi-dimensional-continuity-validation-and-horizontally-scalable-workflow-dispatch",
+  "url": "https://adverant.ai/docs/research/prosecreator-platform-architecture",
+  "keywords": [
+    "ProseCreator",
+    "Tri-Store Knowledge Architecture",
+    "Living Blueprints",
+    "Multi-Dimensional Continuity Validation",
+    "Horizontally Scalable Workflow Dispatch",
+    "AI-Assisted Creative Writing",
+    "Long-Form Text Generation",
+    "Adverant Research"
+  ],
+  "use_cases": [
+    "Configure when seeking a high-scale, distributed workflow for generating book-length content.",
+    "Implement when maintaining narrative consistency across long-form documents is required.",
+    "Use when developing AI systems that require structured knowledge representations (blueprints) for creative tasks.",
+    "Implement when horizontal scalability for complex, multi-agent AI writing tasks is a bottleneck."
+  ],
+  "tags": [
+    "architecture",
+    "ai-generation",
+    "knowledge-management",
+    "scalability"
+  ],
+  "priority": 10,
+  "content": "Adverant Research Team Adverant, Ltd.\n\n---",
+  "token_estimate": 7
+}

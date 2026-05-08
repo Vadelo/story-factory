@@ -1,0 +1,32 @@
+{
+  "title": "Intelligent Drafting",
+  "path": "intelligent-drafting",
+  "url": "https://novelworld.ai/",
+  "keywords": [
+    "Intelligent Drafting",
+    "Story Context Memory",
+    "Character Consistency",
+    "Visual Knowledge Graph",
+    "Plot Dependency Detection",
+    "NovelWorld Story Model",
+    "Automatic Relationships",
+    "AI Prose Editor",
+    "Timeline Conflicts",
+    "Context-Aware Suggestions"
+  ],
+  "use_cases": [
+    "Use when drafting scenes to ensure AI output adheres to established world-building rules and character personalities.",
+    "Implement when mapping complex story universes to visualize character relationships and faction concepts.",
+    "Configure when resolving timeline conflicts or identifying plot holes within a developing narrative.",
+    "Use when revising first drafts to maintain consistency across long-form story arcs."
+  ],
+  "tags": [
+    "AI-writing",
+    "world-building",
+    "content-generation",
+    "knowledge-graph"
+  ],
+  "priority": 10,
+  "content": "When you write a scene, NovelWorld feeds your story context to the AI. Get scene suggestions that respect your world's rules, character personalities, and plot trajectory.\n\n| Feature | NovelWorld | ChatGPT/Generic AI | Other AI Writing Tools |\n| --- | --- | --- | --- |\n| Story Context Memory | Full story world model | Session-only | Limited |\n| Character Consistency | Enforced across draft | None | Limited |\n| Relationship Mapping | Visual knowledge graph | Not available | Not available |\n| Plot Dependency Detection | Intelligent connections | None | Limited |\n| Pricing | Free tier available | Free tier available | $20+/month |\n\nHow It Works\n\n1\n\nCreate characters with details that matter. Map locations. Plot events. Define factions and concepts. NovelWorld organizes everything into a living knowledge graph.\n\n![Creating detailed character and story nodes](https://novelworld.ai/_next/image?url=https%3A%2F%2Ffkheijbsgmrkvrjcdkbj.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2FNovelWorld_PublicAssets%2FNovelWorld-NodeDetails.png&w=3840&q=75)\n\n![Story universe graph showing connected relationships](https://novelworld.ai/_next/image?url=https%3A%2F%2Ffkheijbsgmrkvrjcdkbj.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2FNovelWorld_PublicAssets%2FNovelWorld-StoryUniverse.png&w=3840&q=75)\n\n2\n\nRelationships form automatically. Show how characters meet. Define plot dependencies. See timeline conflicts resolved. Your world becomes a coherent web.\n\n3\n\nWhen you draft scenes, NovelWorld feeds your world context to the AI. Get scene suggestions that respect your characters, locations, and plot. Write faster with consistency.\n\n![Scene writing editor with AI assistance](https://novelworld.ai/_next/image?url=https%3A%2F%2Ffkheijbsgmrkvrjcdkbj.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2FNovelWorld_PublicAssets%2FNovelWorld-BookSceneWritingEditor.png&w=3840&q=75)\n\n![AI-powered prose editing and refinement](https://novelworld.ai/_next/image?url=https%3A%2F%2Ffkheijbsgmrkvrjcdkbj.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2FNovelWorld_PublicAssets%2FNovelWorld-AIProseEditor.png&w=3840&q=75)\n\n4\n\nAI flags inconsistencies. Suggest pacing improvements. Identify plot holes. Revise with your world's rules in mind. Your first draft gets stronger, not generic.\n\nWatch Demo (2 min)\n\nTestimonials",
+  "token_estimate": 317
+}

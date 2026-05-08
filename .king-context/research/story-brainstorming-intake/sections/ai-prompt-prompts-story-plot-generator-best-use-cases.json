@@ -1,0 +1,32 @@
+{
+  "title": "Best Use Cases",
+  "path": "ai-prompt-prompts-story-plot-generator-best-use-cases",
+  "url": "https://logicballs.com/ai-prompt/prompts/story-plot-generator",
+  "keywords": [
+    "narrative frameworks",
+    "beat sheets",
+    "story structure",
+    "campaign arcs",
+    "drafting sprints",
+    "interactive fiction",
+    "AI-generated examples",
+    "script treatments",
+    "adventure hooks"
+  ],
+  "use_cases": [
+    "Use when outlining complex book plots before high-volume writing sprints",
+    "Implement when developing structured film or television treatments",
+    "Configure when architecturalizing long-form tabletop RPG campaigns and lore",
+    "Use when comparing student-authored narrative patterns against AI benchmarks",
+    "Implement when designing branching narrative paths for video games"
+  ],
+  "tags": [
+    "use-cases",
+    "creative-writing",
+    "content-strategy",
+    "education"
+  ],
+  "priority": 9,
+  "content": "Novelists outlining their next book before NaNoWriMo or drafting sprints\n\nScreenwriters developing treatments and beat sheets for film or TV pilots\n\nTabletop RPG game masters creating campaign arcs and session-by-session adventure hooks\n\nWriting students learning story structure by analyzing AI-generated examples against their own ideas\n\nContent creators developing narrative frameworks for video games or interactive fiction",
+  "token_estimate": 74
+}

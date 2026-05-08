@@ -1,0 +1,32 @@
+{
+  "title": "2. Character Relationship Mapping System",
+  "path": "features-2-character-relationship-mapping-system",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Character Relationship Mapping",
+    "strength ratings",
+    "bidirectional relationships",
+    "evolution notes",
+    "relationship cards",
+    "status monitoring",
+    "ensemble cast tracking",
+    "relationship arcs",
+    "color-coded dynamics"
+  ],
+  "use_cases": [
+    "Use when mapping complex character networks in multi-POV novels",
+    "Implement when tracking the progression of romantic or antagonistic arcs",
+    "Configure when defining formal hierarchies like Mentor/Student or Professional ties",
+    "Use when visualizing blood bonds and family trees for sagas",
+    "Configure when documenting how conflicts shift from current to past status"
+  ],
+  "tags": [
+    "character-development",
+    "world-building",
+    "plotting-tools",
+    "visualization"
+  ],
+  "priority": 9,
+  "content": "Visualize complex character dynamics with structured relationship tracking.\n\nTrack 8 relationship types with strength ratings, status monitoring, and evolution notes. See how characters connect, conflict, and change throughout your story with color-coded relationship cards that make complex dynamics crystal clear.\n\n#### 8 Relationship Types\n\n- Family: Parents, siblings, relatives with blood bonds\n- Romantic: Love interests, partners, past relationships\n- Friendship: Close friends, allies, confidants\n- Professional: Colleagues, business partners, co-workers\n- Antagonistic: Enemies, adversaries, opposing forces\n- Mentor/Student: Teachers, guides, apprentices\n- Rivalry: Competitors, rivals, challengers\n- Acquaintance: Casual connections, background characters\n\n#### Advanced Tracking\n\n- Strength Scale: 1-10 rating from weak to very strong bonds\n- Status Monitoring: Past, Current, Developing, or Ended\n- Evolution Notes: Track how relationships change over time\n- Visual Cards: Color-coded for instant recognition\n- Bidirectional: Define relationships from both perspectives\n\n#### Writer Benefits\n\n- Never lose track of complex character dynamics\n- Plan relationship arcs alongside plot arcs\n- Perfect for ensemble casts and multi-POV novels\n- Ideal for romance, family sagas, and political intrigue\n\n🆕 NEW FEATURE",
+  "token_estimate": 234
+}

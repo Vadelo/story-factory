@@ -1,0 +1,34 @@
+{
+  "title": "2.2. Generative Storytelling using Large Language Models",
+  "path": "html-2505.24803v1-2-2-generative-storytelling-using-large-language-models",
+  "url": "https://arxiv.org/html/2505.24803v1",
+  "keywords": [
+    "Large Language Models",
+    "Generative Storytelling",
+    "Multimodal LLMs",
+    "Chain of Thoughts",
+    "CoT",
+    "Interactive Media",
+    "Hallucination",
+    "Narrative Coherence",
+    "Player-driven Experiences",
+    "Logical Flow",
+    "Token Limitations"
+  ],
+  "use_cases": [
+    "Implement when creating real-time dynamic narratives for video games and interactive media",
+    "Use when developing co-creative storytelling systems that require player-driven input",
+    "Configure when expanding textual narratives into multimodal visual stories",
+    "Apply when using Chain of Thoughts (CoT) to overcome token limitations in long-form generation",
+    "Implement when building personalized artistic installations based on user interactions"
+  ],
+  "tags": [
+    "generative-ai",
+    "natural-language-processing",
+    "interactive-media",
+    "content-generation"
+  ],
+  "priority": 8,
+  "content": "Large Language Models (LLMs) are increasingly explored in storytelling applications such as scriptwriting, video games, and interactive media. These models generate dynamic narratives in real time, enabling player-driven experiences and co-creative storytelling systems (Peng et al., 2024a; Sun et al., 2023a; Akoury et al., 2023; Simon and Muise, 2022). Studies show that LLM-generated narratives can outperform human-curated stories in progressiveness and engagement under controlled conditions (Zhao et al., 2023; Beguš, 2024).\n\nNot limited to textual modality, multimodal interactive storytelling combines text with visuals, offering richer narrative experiences. Some work explored framework generates visual stories that evolve alongside text, expanding possibilities in interactive media (Bensaid et al., 2021). LLMs have also been used in artistic installations to create personalised, evolving narratives based on user interaction (Sun et al., 2023b).\n\nRecent research highlights that player perceptions of LLM-generated dialogue are influenced by factors such as coherence, immersion, and emotional engagement (Akoury et al., 2023). Due to token limitations of current LLM outputs, methods like Chain of Thoughts (CoT) was invented to generate longer outputs iteratively (Wei et al., 2022). To improve story quality, some approaches guide LLM-based generation to ensure logical flow and diversity in narratives (Wang and Kreminski, 2024).\n\nDespite these advancements, LLM-driven storytelling faces several limitations. Inconsistency and hallucination in narrative flow is a common issue, as models struggle to maintain logical coherence over long-form text (Chen et al., 2023; Simon and Muise, 2022; Zhang et al., 2023) and alignment with intended user goals or stylistic expectations (Chakrabarty et al., 2024a). Additionally, some studies suggest that LLMs may rely too heavily on learned patterns, producing stories that lack creativity, emotional depth, and playfulness (Wang and Kreminski, 2024; Simon and Muise, 2022; Beguš, 2024). Another issue is the generation of harmful or inappropriate content, particularly when LLMs are not properly guided or filtered (Taveekitworachai et al., 2023).",
+  "token_estimate": 406
+}

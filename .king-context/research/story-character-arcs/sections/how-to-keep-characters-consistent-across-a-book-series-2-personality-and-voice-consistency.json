@@ -1,0 +1,29 @@
+{
+  "title": "2. Personality and Voice Consistency",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-2-personality-and-voice-consistency",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "Speech patterns",
+    "Personality traits",
+    "Character consistency",
+    "Behavioral logic",
+    "Value system",
+    "Stress reactions",
+    "Character rules",
+    "Persona alignment"
+  ],
+  "use_cases": [
+    "Use when defining structural boundaries for AI character behavior",
+    "Implement when creating 3-5 negative and positive behavioral constraints",
+    "Configure when establishing speech patterns to ensure linguistic consistency",
+    "Use when mapping emotional responses to specific environmental triggers Like stress"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-design",
+    "content-guidelines"
+  ],
+  "priority": 9,
+  "content": "How a character behaves, thinks, and speaks:\n\n- Speech patterns (formal vs. casual, verbose vs. terse, favorite expressions)\n- Personality traits (introverted vs. extroverted, cautious vs. impulsive)\n- Values and beliefs\n- Sense of humor (or lack thereof)\n- How they react under stress\n\nCommon pitfall: A character who's defined as analytical and cautious suddenly making impulsive decisions — not because of character growth, but because the plot needs them to.\n\nSystem: For each character, write 3-5 \"this character would/wouldn't\" rules. \"Kael would never ask for help directly — he drops hints and waits.\" \"Seren would confront a problem immediately, even when patience would serve her better.\"",
+  "token_estimate": 142
+}

@@ -1,0 +1,32 @@
+{
+  "title": "3.1 Structured Representation of Narrative Commitments",
+  "path": "html-2601.07033v1-3-1-structured-representation-of-narrative-commitments",
+  "url": "https://arxiv.org/html/2601.07033v1",
+  "keywords": [
+    "Foreshadow–Trigger–Payoff",
+    "F–T–P triple",
+    "causal commitment",
+    "narrative dependency",
+    "Foreshadow (F)",
+    "Trigger (T)",
+    "Payoff (P)",
+    "temporal appropriateness",
+    "machine-actionable logic",
+    "causal debt"
+  ],
+  "use_cases": [
+    "Implement when formalizing narrative progression for AI-driven storytelling engines",
+    "Configure when defining logical gates to prevent premature plot resolutions",
+    "Use when modeling temporal consistency in complex narrative structures",
+    "Use when mapping causal relationships between early setup and final resolution"
+  ],
+  "tags": [
+    "narrative-logic",
+    "data-modeling",
+    "causal-inference",
+    "storytelling-framework"
+  ],
+  "priority": 9,
+  "content": "To transform intuitive narrative structures into machine-actionable logic, we formalize the relationship between foreshadowing and its resolution as an explicit system of causal commitments. We argue that a complete narrative dependency consists not just of an initial setup and a final resolution, but of a specific logical \"gate\" that governs its timing. Consequently, we propose representing each commitment as a structured Foreshadow–Trigger–Payoff (F–T–P) triple:\n\n•\n\nForeshadow ( $F$ ): The initial setup or narrative anomaly that establishes a \"causal debt,\" implying that a future explanation or resolution is required.\n\n•\n\nTrigger ( $T$ ): The specific narrative condition or prerequisite event that must occur for the latent foreshadow to become actionable.\n\n•\n\nPayoff ( $P$ ): The concluding event that logically fulfills and resolves the commitment introduced by $F$ and activated by $T$ .\n\nThis F–T–P decomposition is essential for modeling temporal appropriateness. In The Hound of the Baskervilles (Figure 1), the missing boot ( $F$ ) creates suspense, but remains dormant until the revelation of Stapleton’s tracking method ( $T$ ). Only then is the explanation of the boot’s purpose ( $P$ ) narratively justified. By explicitly modeling the Trigger, our framework distinguishes between premature payoff (spoiling suspense) and missing payoff (logical inconsistency).",
+  "token_estimate": 271
+}

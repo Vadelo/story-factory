@@ -1,0 +1,31 @@
+{
+  "title": "The “API Contract”: Checkpoints",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-api-contract-checkpoints",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "API Contract",
+    "Checkpoint",
+    "Outcome",
+    "Knowledge Map",
+    "Narrative Weight Distribution",
+    "Forbidden Moves",
+    "Target State",
+    "Pipeline Architecture",
+    "Non-negotiable Outcome",
+    "Narrative Constraints"
+  ],
+  "use_cases": [
+    "Use when defining long-term narrative targets to prevent model drift",
+    "Implement when managing complex information asymmetry between characters",
+    "Configure when specific pacing or attention allocation is required for an arc",
+    "Use when setting strict logical boundaries and plot restrictions for generation"
+  ],
+  "tags": [
+    "architecture",
+    "content-generation",
+    "configuration"
+  ],
+  "priority": 10,
+  "content": "The most important concept in our pipeline is the Checkpoint.\n\nA Checkpoint is a target state defined by the author (often ~20 chapters ahead). Instead of asking the model to write linearly and hope it lands well, we ask it to generate a path that lands precisely on a target state.\n\nA Checkpoint includes:\n\n- Outcome (non-negotiable): e.g., “The hero must lose the tournament.”\n- Knowledge Map: who knows what by the end of the arc. e.g. “By Chapter 20, Alice knows Bob is the traitor, but Bob must NOT know that Alice knows.”\n- Narrative Weight Distribution: where to spend attention. e.g. “Give ~70% focus to the antagonist’s backstory.”\n- Constraints / Forbidden Moves: hard boundaries. e.g. “Do not reveal the killer’s motive yet.”",
+  "token_estimate": 166
+}

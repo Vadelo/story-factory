@@ -1,0 +1,34 @@
+{
+  "title": "Agents",
+  "path": "howells-fiction-agents",
+  "url": "https://github.com/howells/fiction",
+  "keywords": [
+    "opus",
+    "sonnet",
+    "haiku",
+    "character-developer",
+    "world-builder",
+    "chapter-reviewer",
+    "reader-skim",
+    "voice-analyzer",
+    "continuity-checking",
+    "persona-based-feedback",
+    "literary-critics"
+  ],
+  "use_cases": [
+    "Use when drafting long-form prose or specific literary chapters with the writer agent",
+    "Configure when requiring specific persona-based feedback from literary critic agents like Stephen King or Ursula Le Guin",
+    "Implement when structural analysis is needed through the architect or outliner agents",
+    "Use when performing low-latency consistency checks or project navigation using haiku-powered agents",
+    "Implement when requiring deep analysis with direct quotes using the reader-careful agent"
+  ],
+  "tags": [
+    "agents",
+    "content-generation",
+    "manuscript-review",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "22 specialized agents, each tuned for a specific task:\n\n| Agent | Purpose | Model |\n| --- | --- | --- |\n| `writer` | Literary prose, chapters, scenes | opus |\n| `architect` | Story structure, premise, ending | opus |\n| `outliner` | Chapter breakdown, scene beats | sonnet |\n| `character-developer` | Character documents | opus |\n| `world-builder` | Settings, systems | sonnet |\n| `chapter-reviewer` | Iterative chapter review | sonnet |\n| `editor` | Line-level polish | sonnet |\n| `critique` | Full manuscript review | opus |\n| `synopsis` | Synopsis generation (short/medium/long) | opus |\n| `continuity` | Consistency checking | haiku |\n| `scene-analyzer` | Scene diagnosis | sonnet |\n| `voice-analyzer` | POV/tense consistency | sonnet |\n| `naming` | Title generation + availability | opus |\n| `cover-artist` | Image gen prompts | opus |\n| `next` | Project navigation | haiku |\n| `new-project` | Interactive project wizard | opus |\n| `reader-skim` | Fast fact extraction (parallel) | haiku |\n| `reader-careful` | Deep analysis with quotes (parallel) | sonnet |\n\n**Literary Critic Reviewers** (persona-based feedback):\n\n| Agent | Style |\n| --- | --- |\n| `james-wood` | New Yorker style, craft-focused |\n| `stephen-king` | Direct, story-first, hates adverbs |\n| `ursula-le-guin` | World-building, moral weight |\n| `roxane-gay` | Voice, representation, emotional truth |",
+  "token_estimate": 307
+}

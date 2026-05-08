@@ -1,0 +1,33 @@
+{
+  "title": "Quick Start",
+  "path": "jonmartin721-living-story-world-quick-start",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "Gemini 2.5 Flash",
+    "Pollinations",
+    "living_storyworld.cli",
+    "venv",
+    "requirements.txt",
+    "localhost:8001",
+    "API configuration",
+    "random generator",
+    "chapter generation",
+    "setup wizard"
+  ],
+  "use_cases": [
+    "Use when setting up the environment from source using git and python",
+    "Configure when performing initial API key setup for LLM and image providers",
+    "Implement when creating a new story world with specific themes and art styles",
+    "Use when looking to start the web interface via CLI",
+    "Configure when managing multiple story worlds and viewing generated chapters"
+  ],
+  "tags": [
+    "installation",
+    "configuration",
+    "getting-started",
+    "user-interface"
+  ],
+  "priority": 10,
+  "content": "I highly recommend downloading pre-built executables from the [Releases](https://github.com/jonmartin721/living-storyworld/releases).\n\nIf you'd rather build from source or contribute:\n\n```bash\ngit clone https://github.com/jonmartin721/living-storyworld.git\ncd living-storyworld\npython3 -m venv .venv\nsource .venv/bin/activate\npip install -r requirements.txt\n\n# Start the web interface\npython3 -m living_storyworld.cli web\n```\n\nThe web app will open at `http://localhost:8001`. First-time setup will walk you through configuring API keys—I recommend using Gemini 2.5 Flash (free tier) plus Pollinations for images to get started without costs.\n\n![Setup wizard for initial configuration](screenshots/setup-wizard.png)\n\nOnce you're in, create a new world by clicking \"New\" (or use the random generator) and start generating chapters. You'll get choices at key points to steer the story direction.\n\n---\n\nWhen you first launch Living Storyworld, you'll see a setup wizard that guides you through configuring your API keys. You'll need at least one text provider (Gemini's free tier is solid) and optionally an image provider (Pollinations is free and requires no key).\n\n![Setup wizard for initial configuration](screenshots/setup-wizard.png)\n\nYou can always return to settings later to add more providers or change your defaults:\n\n![API keys configuration](screenshots/api-keys-settings.png)\n\nThe main interface shows all your story worlds in one place. Each world card displays recent chapters with their illustrations, making it easy to jump back into any story.\n\n![Main interface showing world management](screenshots/main-page.png)\n\nClick \"New World\" to start a fresh story. You can manually set the title, theme, genre, and art style, or use the random generator to create unique combinations instantly.\n\n![New world creation dialog](screenshots/new-world-dialog.png)\n\nWhen reading chapters, you'll get a clean view optimized for enjoying your generated story. The interface shows the chapter illustration, narrative text, and your choices.\n\n![Clean reading interface](screenshots/reading-mode.png)\n\nAt key moments in the story, you'll be presented with choices that influence how the narrative unfolds. Select an option to guide the direction of the next chapter.\n\nThese are PERMANENT! Choose carefully.\n\n![Interactive choice moments](screenshots/make-choices.png)\n\n---",
+  "token_estimate": 410
+}

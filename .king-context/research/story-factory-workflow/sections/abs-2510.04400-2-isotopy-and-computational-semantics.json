@@ -1,0 +1,35 @@
+{
+  "title": "2 Isotopy and Computational Semantics",
+  "path": "abs-2510.04400-2-isotopy-and-computational-semantics",
+  "url": "https://arxiv.org/abs/2510.04400",
+  "keywords": [
+    "isotopy",
+    "computational semantics",
+    "lexical chains",
+    "semantic feature co-occurrence",
+    "structural linguistics",
+    "type coercion",
+    "generative lexicon",
+    "textual cohesion",
+    "semantic similarity",
+    "metalinguistic property",
+    "word embeddings",
+    "inferential interpretation"
+  ],
+  "use_cases": [
+    "Use when modeling textual cohesion through the repetition of semantic features.",
+    "Implement when developing resource-free approaches to lexical chain extraction using modern embeddings.",
+    "Use when analyzing interpretative semantics and humorous expressions in NLP.",
+    "Configure when identifying part-whole or situational relationships between lexical constituents.",
+    "Use when representing semantic depth without requiring full sentence understanding."
+  ],
+  "tags": [
+    "computational-semantics",
+    "linguistics",
+    "natural-language-processing",
+    "theoretical-framework"
+  ],
+  "priority": 8,
+  "content": "Isotopy is a key concept in structural linguistics in that it relates lexical semantics to text and discourse properties. Isotopies can be defined as the repeated co-occurrence of a semantic feature which gives a text its cohesion and guides its interpretation Rastier (2015). For instance, the verses:\n\nThere was a fine ship, carved from solid gold With azure reaching masts, on seas unknown\n\nContain a navigation isotopy, occurring through words ‘ship’, ‘masts’ and ‘seas’ which all contain the corresponding semantic feature Hébert (2019). The navigation feature (a lexicalized metalinguistic property) is used as the isotopy label.\n\nFigure 1: Isotopy across a story completion. Isotopy constituents are highlighted, and the pivot marks the end of the story primer (see text for details).\n\n![Refer to caption](https://arxiv.org/html/Iso_example.png)\n\nThe interpretative aspect of isotopy is both challenging and essential: it differentiates isotopy from the simple recurrence of related words, as interpretation broadens semantic similarity by resorting to inferential aspects. For instance, isotopies’ constituents may be related by part-whole relationships (‘beach’ and ‘sand’), situational aspects (‘picnic’ and ‘ants’), action and objects (‘write’ and ‘words’); all these examples being drawn from isotopies extracted during our experiments (Figure 1). Although primarily conceived of as a descriptive concept, isotopy has been previously related to advanced concepts in computational linguistics, such as type coercion Peeters (2000) Willems (2013) in the generative lexicon Pustejovsky (1991). Attardo (2024) has also resorted to isotopy as an explanatory mechanism for humorous expressions. In computational linguistics, the construct that most closely resembles isotopy is undoubtedly the lexical chain, introduced in Morris and Hirst (1991) who were influenced by the theory of cohesion in Halliday and Hasan (1976). A lexical chain is essentially a sequence of semantically related words forming a cohesive thread of meaning, for instance: ‘city’, ‘suburbs’, ‘suburban’, ‘residentialness’, ‘community’, ‘neighboorhood’ … would all form part of the same lexical chain (excerpt taken from Morris and Hirst (1991)). NLP researchers adopted lexical chains in various systems because they gave access to semantic representations without requiring full sentence understanding Barzilay and Elhadad (1999) Xiong et al. (2013) Ercan and Cicekli (2007) Hirst et al. (1998). Various limitations were subsequently identified arising from over-reliance on lexical resources Marathe and Hirst (2010) Galley and McKeown (2003) Silber and McCoy (2002). However, it is the development of modern embedding techniques which has redefined approaches to lexical chains extraction. With their evolution towards resource-free approaches Remus and Biemann (2013), they became conceptually closer to isotopy, however still lacking their interpretative aspects.",
+  "token_estimate": 547
+}

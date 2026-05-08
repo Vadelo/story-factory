@@ -1,0 +1,32 @@
+{
+  "title": "Why Consistency Is So Hard in a Series",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-why-consistency-is-so-hard-in-a-series",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "narrative consistency",
+    "character growth",
+    "backstory",
+    "physical descriptions",
+    "speech patterns",
+    "world-building",
+    "fictional world growth",
+    "continuity management",
+    "cumulative storytelling",
+    "personality traits"
+  ],
+  "use_cases": [
+    "Use when developing a multi-book story arc to ensure long-term stability",
+    "Implement when tracking character details to avoid contradictory descriptions",
+    "Configure when establishing world-building rules that must remain static over time",
+    "Use when planning new character introductions that must align with existing lore"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "quality-assurance",
+    "series-management"
+  ],
+  "priority": 9,
+  "content": "Writing a standalone novel is hard. Writing a series is hard and cumulative. Every book adds:\n\n- New details about existing characters that must align with everything you've already established\n- Character growth that needs to feel natural, not contradictory\n- New characters who interact with established ones in ways that must be consistent with both personalities\n- Reader knowledge that accumulates — your readers may remember details you've forgotten\n\nThe core challenge is simple: your memory is finite, but your fictional world keeps growing.\n\nBy book three of a series, you might have established hundreds of character details: physical descriptions, personality traits, speech patterns, relationships, backstory events, fears, skills, habits, opinions. Every one of these is a potential consistency trap.",
+  "token_estimate": 160
+}

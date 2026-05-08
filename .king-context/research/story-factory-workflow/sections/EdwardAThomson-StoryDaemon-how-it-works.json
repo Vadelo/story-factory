@@ -1,0 +1,33 @@
+{
+  "title": "How It Works",
+  "path": "EdwardAThomson-StoryDaemon-how-it-works",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "story tick loop",
+    "plot-first mode",
+    "deep POV",
+    "Planner LLM",
+    "Writer LLM",
+    "tension evaluation",
+    "QA metrics",
+    "lore extraction",
+    "continuity check",
+    "beat verification",
+    "scene intention"
+  ],
+  "use_cases": [
+    "Use when configuring the sequential execution steps of a story generation cycle",
+    "Implement when requiring hard plot beat constraints on a Writer LLM",
+    "Configure when tension-aware pacing and character state updates are necessary",
+    "Use when auditing story quality using automated QA metrics like dialogue density and novelty"
+  ],
+  "tags": [
+    "architecture",
+    "content-generation",
+    "llm-orchestration",
+    "validation"
+  ],
+  "priority": 10,
+  "content": "StoryDaemon uses a **story tick loop** where each tick produces one scene passage:\n\n1. **Check Plot Beats** (if plot-first mode enabled) - Regenerate beats if needed, get next beat to execute\n2. **Summarize State** - Collect context from previous passages and memory\n3. **Plan** - Planner LLM decides which tools to use, scene intention, and optional length guidance\n4. **Execute Tools** - Run character generation, memory search, etc.\n5. **Write** - Writer LLM generates prose in deep POV (flexible length based on scene needs)\n\n- In plot-first mode, beat constraints are injected into writer context as hard requirements\n\n1. **Evaluate** - Check continuity and POV integrity and compute QA metrics (change/milestone, dialogue density, transitions, mode, novelty) that feed back into planning\n2. **Evaluate Tension** - Analyze scene tension (0-10 scale) for pacing awareness\n3. **Commit** - Save scene and update memory\n4. **Verify Beat** (if plot-first mode enabled) - Check if scene accomplished the target beat, mark complete\n5. **Extract Facts** - Update character/location state from scene content\n6. **Extract Lore** - Identify world rules, constraints, and capabilities\n7. **Check Goals** - Promote story goals when conditions are met",
+  "token_estimate": 251
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Breaking Description into Beats",
+  "path": "finding-your-prose-rhythm-the-musical-beats-of-great-description-breaking-description-into-beats",
+  "url": "https://writewithseth.com/finding-your-prose-rhythm-the-musical-beats-of-great-description/",
+  "keywords": [
+    "structural editing",
+    "sentence beats",
+    "narrative rhythm",
+    "information density",
+    "descriptive pacing",
+    "cluttered prose",
+    "sentence fragmentation",
+    "writing revision",
+    "spatial transitions",
+    "reader experience"
+  ],
+  "use_cases": [
+    "Use when a paragraph contains too many sensory details jammed into single sentences",
+    "Implement when narrative pacing feels rushed or the rhythm is disrupted by long clauses",
+    "Configure when revising descriptive passages to ensure each physical element has its own distinct focus",
+    "Use when simplifying complex scene settings to improve reader comprehension and flow"
+  ],
+  "tags": [
+    "creative-writing",
+    "editing-techniques",
+    "content-structure"
+  ],
+  "priority": 7,
+  "content": "Let’s look at how this works in practice. Here’s a sample description from my client’s work that we revised together:\n\nOriginal version:\n\nTaking the access road to a cluster of warehouses, I heard the grinding engines of heavy machinery, the paved road turned to gravel, passing between dried shrubs. I entered a large parking lot, enclosed by a semi-circle of aluminum sided two-story buildings in various weather-beaten shades of gray. To my right, a young man sat atop a road paver that kicked and sputtered smoke. To my left was Mixed Tires, the garage, and beyond that, a hard-to-see placard at the corner of the building with “The Beacon” written in cursive.\n\nThe information is fine, but the rhythm is off. There are too many details jammed together, creating a cluttered experience for the reader.\n\nRevised version:\n\nI took the access road to a cluster of warehouses. Soon the paved road turned to gravel. I entered a parking lot surrounded by aluminum-sided two-story buildings in weather-beaten shades of gray. To my right, a young man sat atop a road paver that kicked and sputtered smoke. To my left was Mixed Tires, and beyond that, a placard at the corner of the building with “The Beacon” written in cursive.\n\nNotice the difference? The revised version uses shorter sentences, creating distinct beats. Each sentence delivers one piece of information before moving to the next. The effect is like a steady drum pattern that carries the reader forward rather than a jumbled cascade of sounds.",
+  "token_estimate": 335
+}

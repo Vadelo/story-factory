@@ -1,0 +1,29 @@
+{
+  "title": "The Power of Implication",
+  "path": "blog-ai-story-prompts-guide-the-power-of-implication",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "prompt engineering",
+    "implication",
+    "creative output",
+    "ambiguity",
+    "narrative prompts",
+    "interpretation",
+    "AI reasoning",
+    "storytelling constraints"
+  ],
+  "use_cases": [
+    "Use when seeking varied and creative narrative results",
+    "Configure when generating open-ended story concepts",
+    "Implement when avoiding overly prescriptive or rigid AI behavior",
+    "Use when testing the associative capabilities of a language model"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "best-practices",
+    "content-generation"
+  ],
+  "priority": 7,
+  "content": "Great prompts imply more than they state. Consider:\n\n\"Mother's lullaby, different words each night\"\n\nThis prompt doesn't say the mother is forgetting the words, or improvising, or encoding messages. It just presents an unusual situation. The AI fills in the why, and that's where the story gets interesting. Sometimes it's memory loss, sometimes it's secret messages to the child, sometimes it's something more sinister.\n\nBy leaving room for interpretation, you get more varied and creative outputs.\n\nEven experienced writers make these mistakes when crafting AI prompts. Here's how to spot and fix them:",
+  "token_estimate": 123
+}

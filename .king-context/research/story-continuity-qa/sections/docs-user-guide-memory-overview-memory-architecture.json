@@ -1,0 +1,32 @@
+{
+  "title": "Memory Architecture",
+  "path": "docs-user-guide-memory-overview-memory-architecture",
+  "url": "https://duragraph.ai/docs/user-guide/memory/overview/",
+  "keywords": [
+    "DuraGraph",
+    "Memory Architecture",
+    "Hierarchical memory system",
+    "L1: Working Memory",
+    "L2: Episodic Memory",
+    "L3: Semantic Memory",
+    "Vector database",
+    "Knowledge graph",
+    "Entity relationships",
+    "Task state"
+  ],
+  "use_cases": [
+    "Configure when managing immediate conversational flow and task state transitions",
+    "Implement when persisting past user interactions into a searchable vector database",
+    "Use when building structured entity relationship models within a knowledge graph architecture",
+    "Use when designing agentic workflows that require human-like cognitive memory tiers"
+  ],
+  "tags": [
+    "Architecture",
+    "Machine Learning",
+    "Data Storage",
+    "Memory Management"
+  ],
+  "priority": 10,
+  "content": "DuraGraph implements a hierarchical memory system inspired by human cognition:\n\n```\nblock-beta\n    columns 1\n    block:L1\n        A[\"<strong>L1: Working Memory</strong><br/>Active conversation · Immediate task state\"]\n    end\n    block:L2\n        B[\"<strong>L2: Episodic Memory</strong><br/>Past conversations · Stored in vector database\"]\n    end\n    block:L3\n        C[\"<strong>L3: Semantic Memory</strong><br/>Entity relationships · Stored in knowledge graph\"]\n    end\n    L1 --> L2\n    L2 --> L3\n```",
+  "token_estimate": 70
+}

@@ -1,0 +1,34 @@
+{
+  "title": "2.3 Automated Error Detection Pipeline",
+  "path": "html-2603.05890v1-2-3-automated-error-detection-pipeline",
+  "url": "https://arxiv.org/html/2603.05890v1",
+  "keywords": [
+    "ConStory-Checker",
+    "LLM-as-judge",
+    "Category-Guided Extraction",
+    "Contradiction Pairing",
+    "Evidence Chains",
+    "JSON Reports",
+    "o4-mini",
+    "CheckEval",
+    "ProxyQA",
+    "character-level offsets",
+    "consistency evaluation",
+    "narrative-analysis"
+  ],
+  "use_cases": [
+    "Implement when needing a multi-stage automated pipeline for narrative consistency auditing",
+    "Use when evaluating contradiction-prone spans across timeline, character, and world-building dimensions",
+    "Configure when requiring standardized JSON reports with precise character-level evidence mapping",
+    "Apply when using LLM-as-judge models like o4-mini to reduce false positives in error detection"
+  ],
+  "tags": [
+    "automated-evaluation",
+    "natural-language-processing",
+    "pipeline-architecture",
+    "error-detection"
+  ],
+  "priority": 9,
+  "content": "Building on the task structure and error taxonomy, we introduce ConStory-Checker, an automated LLM-as-judge pipeline for scalable and auditable consistency evaluation. The pipeline consists of four stages (Zheng et al., 2023):\n\n##### Stage 1: Category-Guided Extraction.\n\nNarratives are scanned using category-specific prompts across five dimensions (Timeline/Plot, Characterization, World-building, Factual, Narrative Style) to extract contradiction-prone spans.\n\n##### Stage 2: Contradiction Pairing.\n\nExtracted spans are compared pairwise and classified as Consistent or Contradictory, following CheckEval (Lee et al., 2024) and ProxyQA (Tan et al., 2024). This reduces false positives and isolates genuine inconsistencies.\n\n##### Stage 3: Evidence Chains.\n\nFor each contradiction, we record: Reasoning (why it is a contradiction), Evidence (quoted text with positions), and Conclusion (error type) (Pereira et al., 2024).\n\n##### Stage 4: JSON Reports.\n\nStandardized JSON outputs capture quotations, positions, pairings, error categories, and explanations, with all judgments anchored to precise character-level offsets.\n\nWe adopt o4-mini as the evaluation model to balance accuracy and efficiency; recent studies confirm strong LLM performance on structured judgment tasks (Chen et al., 2024). Complete implementation details are provided in Appendix A.2. This four-stage pipeline forms the foundation for the experiments in Section 3.\n\nWe evaluate narrative consistency across four types of systems—proprietary models, open-source models, capability-enhanced models, and agentic writing systems—using ConStory-Bench and ConStory-Checker.",
+  "token_estimate": 280
+}

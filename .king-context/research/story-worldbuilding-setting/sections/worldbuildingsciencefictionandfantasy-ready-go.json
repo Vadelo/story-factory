@@ -1,0 +1,35 @@
+{
+  "title": "Ready? Go!",
+  "path": "worldbuildingsciencefictionandfantasy-ready-go",
+  "url": "https://boldly.blue/worldbuildingsciencefictionandfantasy/",
+  "keywords": [
+    "world premise",
+    "central question",
+    "daily needs",
+    "rule enforcement",
+    "big lie",
+    "scarcity",
+    "institution zoning",
+    "resource pipeline",
+    "cultural ritual",
+    "geography constraint",
+    "magic tech limitation",
+    "plot mechanic"
+  ],
+  "use_cases": [
+    "Use when defining the core “what if” premise for a speculative fiction project.",
+    "Implement when determining daily necessities and control mechanisms for a society.",
+    "Configure when balancing scarcity across a post‑scarcity setting.",
+    "Use when creating deep, fleshed‑out institutional zones without full world building.",
+    "Apply when setting up resource production and black markets for a complex economy."
+  ],
+  "tags": [
+    "world-building",
+    "storytelling",
+    "fiction",
+    "game-design"
+  ],
+  "priority": 8,
+  "content": "WORLD-BUILDING OUTLINE WORKSHEET\n\nUse this to design a world that generates plot, pressure, and meaning.\n\nFill in only what you need.\n\nLeave the rest blank until drafting demands it. Got it?\n\n===========================================================PART 1 — THE WORLD IN ONE BREATH (THE CORE “WHAT IF?”)===========================================================\n\nWORLD PREMISE (one sentence):– What if…\n\nGENRE + TONE:– Science fiction / Fantasy / Horror / Hybrid:– Tone keywords (e.g., lyrical, brutal, satirical, hopeful):\n\nTHE STORY’S CENTRAL QUESTION (sociological or moral):– This book is really asking:\n\nTHEME (one sentence):– This book is really about:\n\n===========================================================PART 2 — THE PHYSICS OF CONSEQUENCE (LOAD-BEARING WORLD RULES)===========================================================\n\nDAILY NEEDS (choose 3–5 people must have):– 1)– 2)– 3)– 4)– 5)\n\nWHO CONTROLS THEM?(Institutions, guilds, corporations, clans, AI, gods, ecology)– Controlled by:\n\nWHAT HAPPENS IF SOMEONE BREAKS A RULE?(Immediate and long-term)– Immediate consequence:– Long-term consequence:\n\nTHE BIG LIE (what the society pretends is true):– The official story is:\n\nTHE BIG TRUTH (what is actually true):– The real story is:\n\nSCARCITY THAT STILL EXISTS (even in “post-scarcity”):(Time, attention, trust, land, rare materials, legitimacy, etc.)– Scarcity #1:– Scarcity #2:– Scarcity #3:\n\n===========================================================PART 3 — 5 SPOTLIGHT ZONES (DEPTH WITHOUT BUILDING EVERYTHING)===========================================================\n\nPick 3–5 zones. Build these deeply; imply the rest.\n\nZONE A — INSTITUTION(Church, prison system, academy, corporation, council, etc.)– Name:– What it publicly claims:– What it privately does:– How it rewards loyalty:– How it punishes dissent:\n\nZONE B — RESOURCE PIPELINE(Water, food, energy, magic, data, medicine, transport)– What resource:– How it’s produced:– Who owns it:– How it’s rationed/traded:– What black market exists:\n\nZONE C — CULTURAL RITUAL(Marriage, funeral, initiation, trials, oaths, festivals)– Ritual name:– What it “means” to citizens:– What it actually enforces:– What happens if someone refuses:\n\nZONE D — GEOGRAPHY / ECOLOGY CONSTRAINT(Desert, flood zone, haunted forest, toxic air, gravity, etc.)– Constraint:– How it shapes daily life:– How it shapes politics/economy:– How it creates plot problems:\n\nZONE E — MAGIC/TECH LIMITATION (IF APPLICABLE)– What can it do:– What can it NOT do:– What it costs (money, body, time, moral cost):–",
+  "token_estimate": 437
+}

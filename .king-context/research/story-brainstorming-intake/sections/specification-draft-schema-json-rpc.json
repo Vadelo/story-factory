@@ -1,0 +1,32 @@
+{
+  "title": "JSON-RPC",
+  "path": "specification-draft-schema-json-rpc",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "JSONRPCRequest",
+    "JSONRPCResponse",
+    "JSONRPCNotification",
+    "JSONRPCErrorResponse",
+    "JSONRPCResultResponse",
+    "RequestId",
+    "jsonrpc: \"2.0\"",
+    "JSONRPCMessage",
+    "params",
+    "method"
+  ],
+  "use_cases": [
+    "Implement when needing a standardized protocol for remote procedure calls",
+    "Configure when sending one-way notifications that do not require server responses",
+    "Use when defining structured error handling in client-server communication",
+    "Configure when building asynchronous request-response cycles with unique IDs"
+  ],
+  "tags": [
+    "api-reference",
+    "protocol",
+    "messaging",
+    "json-rpc"
+  ],
+  "priority": 10,
+  "content": "interface JSONRPCErrorResponse {\n   jsonrpc: \"2.0\";\n   id?: RequestId;\n   error: Error;\n}A response to a request that indicates an error occurred. jsonrpc: \"2.0\" id?: RequestId error: Error\n\nJSONRPCMessage: JSONRPCRequest | JSONRPCNotification | JSONRPCResponse Refers to any valid JSON-RPC object that can be decoded off the wire, or encoded to be sent.\n\ninterface JSONRPCNotification {\n   method: string;\n   params?: { [key: string]: any };\n   jsonrpc: \"2.0\";\n}A notification which does not expect a response. method: string Inherited from Notification.methodparams?: { [key: string]: any } Inherited from Notification.paramsjsonrpc: \"2.0\"\n\ninterface JSONRPCRequest {\n   method: string;\n   params?: { [key: string]: any };\n   jsonrpc: \"2.0\";\n   id: RequestId;\n}A request that expects a response. method: string Inherited from Request.methodparams?: { [key: string]: any } Inherited from Request.paramsjsonrpc: \"2.0\" id: RequestId\n\nJSONRPCResponse: JSONRPCResultResponse | JSONRPCErrorResponse A response to a request, containing either the result or error.\n\ninterface JSONRPCResultResponse {\n   jsonrpc: \"2.0\";\n   id: RequestId;\n   result: Result;\n}A successful (non-error) response to a request. jsonrpc: \"2.0\" id: RequestId result: Result",
+  "token_estimate": 210
+}

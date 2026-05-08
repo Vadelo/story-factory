@@ -1,0 +1,30 @@
+{
+  "title": "Components",
+  "path": "the-writing-loop-components",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "Components",
+    "UI Fragments",
+    "Composition",
+    "Encapsulation",
+    "Reusability",
+    "React",
+    "Vue",
+    "Web Components",
+    "Props",
+    "State"
+  ],
+  "use_cases": [
+    "Use when building complex UIs that require breaking down interfaces into smaller parts",
+    "Implement when code reuse is needed across multiple pages or views",
+    "Configure when managing UI state and logic within isolated functional units"
+  ],
+  "tags": [
+    "Frontend Development",
+    "UI Frameworks",
+    "Architecture"
+  ],
+  "priority": 10,
+  "content": "",
+  "token_estimate": 0
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Introduction",
+  "path": "auth-personal-springernature-introduction",
+  "url": "https://idp.nature.com/auth/personal/springernature?code=77b451f5-aaf2-4b6a-868f-f134d6372c9b&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41599-025-05986-3%3Ferror%3Dcookies_not_supported",
+  "keywords": [
+    "Large Language Models",
+    "LLMs",
+    "stylometry",
+    "computational linguistics",
+    "authorship attribution",
+    "linguistic signature",
+    "authorial fingerprint",
+    "formal linguistic properties",
+    "generative AI evaluation",
+    "quantitative analysis"
+  ],
+  "use_cases": [
+    "Use when evaluating the performance of LLMs in mimicking human creativity",
+    "Implement when quantitative authorship attribution is required to distinguish human from AI text",
+    "Configure when bypasses subjective interpretations of literary merit are needed for objective textual analysis",
+    "Use when analyzing the latent linguistic patterns and word frequency of a document",
+    "Implement when comparing the economic feasibility of automating routine writing tasks versus creative ones"
+  ],
+  "tags": [
+    "stylometry",
+    "AI-evaluation",
+    "computational-linguistics",
+    "large-language-models"
+  ],
+  "priority": 10,
+  "content": "Comparing human and AI-generated texts is receiving increasing academic attention (Herbold et al. 2023; Casal and Kessler, 2023; Amirjalili et al., 2024). Assessing the reception of textual content produced by generative AI, specifically, large language models (LLMs), is an essential aspect of their performance evaluation, and as the ability for such tools to mimic human endeavour grows, so too will their impact on society and culture.\n\nIn many respects, the economic feasibility of the LLM industry rests on the assumption that humans are willing to delegate significant portions of their labour, particularly mundane and routine writing tasks, to machines. Drafting standardised emails and reports, generating meeting summaries, responding to frequently asked queries, preparing basic legal documents such as terms of service are all examples of writing tasks that often involve repetitive or predictable patterns, making them well-suited for automation by LLMs. Advocates for the mass adoption of generative AI frame the reduction of human effort in repetitive tasks as a liberation of creativity, allowing individuals to focus on higher-order intellectual or artistic pursuits.\n\nCreative expression enjoys a measure of moral and cultural prestige when compared with functional writing, so researchers have also begun exploring the extent to which AI-generated creative texts, such as poetry and fiction, compare with human efforts (Gunser et al. 2021; Beguš, 2023). It is one thing for an LLM to reliably produce an email or summary report; the capacity to automate the production of literature raises profound ethical and philosophical concerns about authenticity, originality, and the very nature of authorship.\n\nUnsurprisingly, there has been a marked increase in popular treatments of the topic, exemplified by sensational headlines such as ‘AI poetry rated better than poems written by humans’ (Creamer, 2024). While there is evidence to suggest the general public prefers AI-generated poetry, this is largely a reflection of broader attitudes towards complex literature: poems produced by LLMs lack complexity, ‘they are better at unambiguously communicating an image, a mood, an emotion, or a theme to non-expert readers of poetry’, and so hold more popular appeal (Porter and Machery, 2024).\n\nTo date, few comparisons of human writing versus LLMs have proceeded with the use of computational linguistics, particularly in the context of style. The quantitative analysis of style, or stylometry, is particularly useful in comparing human versus AI texts because it emphasises how a text has been written, rather than what a text is about. Stylometry ignores the content of a piece, focusing instead on the latent authorial fingerprint—a linguistic signature detectable through the frequency with which particular words are chosen—that is present in all writings. Stylometry is essentially a quantitative form of authorship attribution, designed to indicate with a measure of statistical certainty the most likely author of a document or set of documents.\n\nUsing stylometry to compare creative writing produced by humans and LLMs strips away notions of ‘complexity’, bypasses subjective interpretations of literary merit or the emotional depth of a text, framing the comparison in terms of formal linguistic properties. Doing so raises the question of whether or not LLMs can mimic human creativity beyond subjective matters of taste towards more objective elements of literary production.",
+  "token_estimate": 694
+}

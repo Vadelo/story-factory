@@ -1,0 +1,28 @@
+{
+  "title": "Installation & Setup",
+  "path": "joeloverbeck-living-narrative-engine-installation-setup",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "git clone",
+    "npm install",
+    "llm-proxy-server",
+    "living-narrative-engine",
+    "root directory",
+    "dependencies",
+    "repository",
+    "installation"
+  ],
+  "use_cases": [
+    "Use when setting up the development environment for the first time",
+    "Implement when deploying the engine to a new local or virtual machine",
+    "Configure when initializing the proxy server sub-component"
+  ],
+  "tags": [
+    "installation",
+    "setup",
+    "deployment"
+  ],
+  "priority": 10,
+  "content": "1. **Clone the repository (if you haven't already)**\n\n```bash\n   git clone https://github.com/joeloverbeck/living-narrative-engine.git\n   cd living-narrative-engine\n   ```\n\n1. **Install root project dependencies**\n\nNavigate to the root directory of the cloned project (e.g., `living-narrative-engine`) and run:\n\n```bash\n   npm install\n   ```\n\n1. **Install LLM Proxy Server dependencies**\n\nNavigate to the `llm-proxy-server` subdirectory within the project:\n\n```bash\n   cd llm-proxy-server\n   ```\n\nThen, install its specific dependencies:\n\n```bash\n   npm install\n   ```\n\nOnce done, return to the root project directory:\n\n```bash\n   cd ..\n   ```",
+  "token_estimate": 101
+}

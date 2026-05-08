@@ -1,0 +1,36 @@
+{
+  "title": "How Long Should Each Chapter Be in a Book? (The General Rule)",
+  "path": "blog-how-long-should-each-chapter-be-how-long-should-each-chapter-be-in-a-book-the-general-rule",
+  "url": "https://www.oscarghostwriting.com/blog/how-long-should-each-chapter-be/",
+  "keywords": [
+    "average chapter length",
+    "1,500-5,000 words",
+    "2,000-4,000 words",
+    "trade paperback",
+    "scene logic",
+    "POV shift",
+    "cliffhanger",
+    "character revelation",
+    "story logic",
+    "word count guideline"
+  ],
+  "use_cases": [
+    "Use when deciding how long each chapter should be for a new fiction manuscript.",
+    "Implement when structuring chapters around scene breaks, POV shifts, or cliffhangers.",
+    "Configure when balancing word count against reader engagement for trade paperback formats.",
+    "Use when adjusting chapter length to fit genre-specific expectations.",
+    "Implement when ensuring chapters feel like complete units of reading.",
+    "Configure when analyzing chapter count relative to total manuscript length.",
+    "Use when preventing structural errors caused by arbitrary word limits."
+  ],
+  "tags": [
+    "writing",
+    "publishing",
+    "chapter-structure",
+    "story-design",
+    "formatting"
+  ],
+  "priority": 10,
+  "content": "Before we get genre-specific, here is the broad baseline that applies across most adult fiction publishing. The average chapter in a published novel runs between 1,500 and 5,000 words, with the most common range sitting around 2,000–4,000 words. That translates to roughly five to twelve printed pages per chapter in a standard trade paperback.\n\nThis range is not arbitrary. It reflects decades of publishing convention, reader psychology research, and the simple practical reality that a chapter needs to be long enough to establish and develop a scene but short enough to feel like a discrete, complete unit of reading.\n\nWhat this baseline does not tell you is where within that range you should sit — and that is entirely determined by what kind of book you’re writing.\n\nThe single most important principle before we go genre by genre: chapter length should be determined by story logic, not word count. A chapter ends when a scene ends, when a POV shifts, when a revelation changes what the reader thinks they know, or when a cliffhanger demands the next chapter begins. If you are stopping mid-scene because you’ve hit 3,000 words, you are making a structural error. If you are extending a scene past its natural end because you haven’t reached 2,000 words, you are making a different structural error.\n\nWord counts are a guide. Scene logic is the rule.",
+  "token_estimate": 303
+}

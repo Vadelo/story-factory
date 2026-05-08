@@ -1,0 +1,35 @@
+{
+  "title": "Approach 2: The Vector Store (Pinecone, Weaviate, pgvector, Chroma)",
+  "path": "blog-persistent-memory-for-ai-agents-approach-2-the-vector-store-pinecone-weaviate-pgvector-chroma",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "Vector Store",
+    "Embeddings",
+    "Nearest-neighbor lookup",
+    "Top-K retrieval",
+    "Metadata filtering",
+    "Hybrid search",
+    "Namespace isolation",
+    "Pinecone",
+    "Weaviate",
+    "pgvector",
+    "Chroma",
+    "Agent memory"
+  ],
+  "use_cases": [
+    "Use when building long-term memory systems for autonomous agents",
+    "Implement when requiring semantic retrieval of historical agent artifacts",
+    "Configure when managing multi-tenant data isolation via namespaces",
+    "Implement when combining keyword-based and vector-based search queries",
+    "Use when scaling agent context beyond simple short-term buffers"
+  ],
+  "tags": [
+    "Vector Database",
+    "Information Retrieval",
+    "Agent Memory",
+    "Data Architecture"
+  ],
+  "priority": 9,
+  "content": "A vector store indexes embeddings — high-dimensional numerical representations of text, image, or other content — and supports nearest-neighbor lookup. You embed a query, the store returns the K most similar items. Modern vector stores typically also support metadata filtering, hybrid keyword+vector search, and namespace isolation for multi-tenant use cases.\n\nFor agent memory, the typical pattern is: every artifact the agent produces (a research note, a meeting summary, a generated email, a transcript) is embedded and written to the store with metadata (source agent, timestamp, entity references, governance tags). When a future agent needs context, it embeds its query and retrieves the top-K most relevant prior artifacts.",
+  "token_estimate": 142
+}

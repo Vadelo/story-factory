@@ -1,0 +1,32 @@
+{
+  "title": "Is your character's arc structurally complete?",
+  "path": "blog-how-to-write-compelling-characters-is-your-character-s-arc-structurally-complete",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "character arc",
+    "misbelief",
+    "protagonist want vs need",
+    "character transformation",
+    "story structure",
+    "arc resolution",
+    "climax",
+    "core belief",
+    "internal conflict",
+    "narrative stakes"
+  ],
+  "use_cases": [
+    "Use when auditing a protagonist's internal growth for structural integrity",
+    "Implement when mapping the conflict between a character's desires and their objective needs",
+    "Configure when identifying the specific narrative events that trigger a shift in core beliefs",
+    "Use when validating if a story climax effectively addresses the character's primary psychological flaw"
+  ],
+  "tags": [
+    "storytelling",
+    "character-development",
+    "narrative-design",
+    "writing-tools"
+  ],
+  "priority": 9,
+  "content": "4 questions — identifies exactly where the arc needs work\n\n1Can you state your protagonist's misbelief in one sentence?\n\nNo — I know the character but not the belief\n\nRoughly, but it's vague\n\nYes — clearly and specifically\n\n2Does your protagonist's want conflict with what they need?\n\nThey want the same thing they need — no conflict\n\nSomewhat — but I haven't mapped it clearly\n\nYes — pursuing the want actively prevents the need\n\n3Does your protagonist's core belief change across the story?\n\nThey change circumstances but not beliefs\n\nThey change, but I'm not sure the change is earned\n\nYes — specific story events directly cause the shift\n\n4Can you identify the specific scene where the arc resolves?\n\nNo — the change happens gradually with no clear moment\n\nI have a climax but it doesn't address the misbelief directly\n\nYes — the climax forces a direct confrontation with the misbelief",
+  "token_estimate": 199
+}

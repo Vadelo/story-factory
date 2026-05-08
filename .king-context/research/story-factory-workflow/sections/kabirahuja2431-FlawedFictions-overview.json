@@ -1,0 +1,35 @@
+{
+  "title": "Overview",
+  "path": "kabirahuja2431-FlawedFictions-overview",
+  "url": "https://github.com/kabirahuja2431/FlawedFictions",
+  "keywords": [
+    "FlawedFictions",
+    "FlawedFictionsMaker",
+    "src.detect_cont_errors",
+    "plot hole detection",
+    "narrative consistency",
+    "controllable synthesis",
+    "GPT-4o-mini",
+    "Claude-3-5-Sonnet",
+    "Chain of Thought",
+    "theory of mind",
+    "story summarization",
+    "benchmark evaluation"
+  ],
+  "use_cases": [
+    "Use when evaluating the reasoning capabilities and narrative logic of Large Language Models.",
+    "Implement when synthesizing controlled plot holes in human-written stories for training or testing.",
+    "Configure when benchmarking LLM performance on long-form narrative consistency.",
+    "Use when detecting continuity errors in AI-generated or summarized text content.",
+    "Configure when setting up a testing pipeline for different LLM providers like OpenAI and Anthropic."
+  ],
+  "tags": [
+    "llm-benchmarking",
+    "narrative-analysis",
+    "evaluation-framework",
+    "natural-language-understanding"
+  ],
+  "priority": 10,
+  "content": "Stories are a fundamental aspect of human experience. Engaging deeply with stories and spotting plot holes—inconsistencies in a storyline that break the internal logic or rules of a story’s world—requires nuanced reasoning skills, including tracking entities and events and their interplay, abstract thinking, pragmatic narrative understanding, commonsense and social reasoning, and theory of mind. As Large Language Models (LLMs) increasingly generate, interpret, and modify text, rigorously assessing their narrative consistency and deeper language understanding becomes critical. However, existing benchmarks focus mainly on surface-level comprehension. In this work, we propose plot hole detection in stories as a proxy to evaluate language understanding and reasoning in LLMs. We introduce FlawedFictionsMaker, a novel algorithm to controllably and carefully synthesize plot holes in human-written stories. Using this algorithm, we construct a benchmark to evaluate LLMs’ plot hole detection abilities in stories —FlawedFictions—robust to contamination, with human filtering ensuring high quality. We find that state-of-the-art LLMs struggle in accurately solving FlawedFictions regardless of the reasoning effort allowed, with performance significantly degrading as story length increases. Finally, we show that LLM-based story summarization and story generation are prone to introducing plot holes, with 50%+ and 100%+ increases in plot hole detection rates with respect to human-written originals.\n\n- Python 3.12\n- An API key for at least one of the supported LLM providers (OpenAI, Anthropic)\n\n1. Clone the repository:\n\n```bash\ngit clone https://github.com/yourusername/FlawedFictions.git\ncd FlawedFictions\n```\n\n1. Install the dependencies:\n\n```bash\npip install -r requirements.txt\n```\n\n1. Create a `.env` file with your API keys:\n\n```\nOPENAI_API_KEY=your_openai_key_here\nCLAUDE_API_KEY=your_claude_key_here\n# Optional for Azure OpenAI\nAZURE_OPENAI_ENDPOINT=your_azure_endpoint\nAZURE_OPENAI_KEY=your_azure_key\n```\n\nTo run continuity error detection on the default dataset:\n\n```bash\npython -m src.detect_cont_errors --model gpt-4o-mini --api_type openai\n```\n\n```bash\npython -m src.detect_cont_errors \\\n  --model claude-3-5-sonnet-20241022 \\\n  --api_type claude \\\n  --cot \\\n  --split flawed_fictions \\\n  --temperature 0.7 \\\n  --max_tokens 2048\n```",
+  "token_estimate": 399
+}

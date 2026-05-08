@@ -1,0 +1,30 @@
+{
+  "title": "The Fair Play Principle",
+  "path": "posts-art-of-the-plot-twist-the-fair-play-principle",
+  "url": "https://www.elaineflinn.com/posts/art-of-the-plot-twist/",
+  "keywords": [
+    "Fair Play Principle",
+    "implicit contract",
+    "misdirection",
+    "Golden Rule",
+    "puzzle-solving",
+    "mystery twist",
+    "revelation mechanics",
+    "clue placement",
+    "Agatha Christie methodology"
+  ],
+  "use_cases": [
+    "Use when establishing narrative trust between the writer and the audience",
+    "Implement when structuring plot twists to ensure they logicially resolve from existing information",
+    "Configure when balancing the difficulty of a mystery puzzle to avoid being perceived as unfair",
+    "Use when designing clues that hide in plain sight through narrative misdirection"
+  ],
+  "tags": [
+    "narrative-design",
+    "theory-and-principles",
+    "mystery-writing"
+  ],
+  "priority": 9,
+  "content": "Every great mystery twist rests on the foundation of fair play-the implicit contract between writer and reader that all necessary information will be provided for solving the puzzle. This doesn't mean making things easy; it means playing honestly.\n\nThe Golden Rule: Readers should have access to every piece of information needed to solve the mystery, even if they don't recognize its significance until the revelation. The twist should feel like a surprise that makes perfect sense in hindsight.\n\nConsider Agatha Christie's \"And Then There Were None.\" The solution seems impossible until revealed, yet every clue needed to solve it appears in the text. Christie doesn't withhold information; she presents it in ways that misdirect without lying.",
+  "token_estimate": 154
+}

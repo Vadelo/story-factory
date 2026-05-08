@@ -1,0 +1,32 @@
+{
+  "title": "Turn positioning into form copy",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-turn-positioning-into-form-copy",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "product story",
+    "form positioning",
+    "microcopy",
+    "helper text",
+    "confirmation copy",
+    "narrative alignment",
+    "conversion optimization",
+    "user outcomes",
+    "input validation",
+    "call-to-action (CTA)"
+  ],
+  "use_cases": [
+    "Use when updating customer-facing forms to align with a new product narrative",
+    "Implement when optimizing high-friction form fields like budgets or technical requirements",
+    "Configure when replacing generic 'Submit' buttons with action-oriented microcopy",
+    "Refactor when transitioning from organization-centric forms to outcome-centric user experiences"
+  ],
+  "tags": [
+    "product-strategy",
+    "user-experience",
+    "content-design",
+    "conversion"
+  ],
+  "priority": 8,
+  "content": "Start from your new product story:\n\n- Who is this for now?\n- What outcome are you promising?\n- What’s changed from the old story?\n\nThen reflect that directly in your forms by:\n\nRenaming the form to match the new narrative.\n\n- From: “Request a Demo”\n- To: “Talk with a Specialist About Your Workflow” or “Design Your First Automation with Us”\n\nReframing sections around user outcomes, not your org chart.\n\n- From: “Marketing Details,” “Technical Details”\n- To: “What You’re Trying to Achieve,” “How Your Team Works Today”\n\nWriting helper text that anticipates hesitation.\n\n- Example: Under a budget field: “A ballpark range is fine—this helps us suggest the right plan.”\n\nMaking microcopy do real work.\n\n- Replace “Submit” with “Get My Plan” or “Join the Pilot” where appropriate.\n- Use confirmation copy to restate the promise: “We’ll review and respond within 1 business day with a tailored setup plan.”",
+  "token_estimate": 200
+}

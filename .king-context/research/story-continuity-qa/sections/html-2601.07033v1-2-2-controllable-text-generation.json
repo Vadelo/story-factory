@@ -1,0 +1,32 @@
+{
+  "title": "2.2 Controllable Text Generation",
+  "path": "html-2601.07033v1-2-2-controllable-text-generation",
+  "url": "https://arxiv.org/html/2601.07033v1",
+  "keywords": [
+    "Controllable Text Generation",
+    "CTG",
+    "conditional language models",
+    "control codes",
+    "decoding-time guidance",
+    "disentangled latent variables",
+    "classifier-based interventions",
+    "energy-based interventions",
+    "content-level control",
+    "attribute-level control",
+    "narrative logic"
+  ],
+  "use_cases": [
+    "Implement when text generation must adhere to specific styles, sentiments, or safety guidelines",
+    "Configure when steering language model output using explicit control codes is required",
+    "Use when applying decoding-time guidance to influence model behavior without full retraining",
+    "Configure when developing systems that require disentangled latent variables for attribute steering"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "model-alignment",
+    "text-generation"
+  ],
+  "priority": 8,
+  "content": "Controllable Text Generation (CTG) studies how to steer language models to satisfy explicit control conditions during generation. Early work formalized control through conditional language models and control codes, enabling generation conditioned on topics, styles, or domains (hu2017toward). Subsequent approaches extended this idea via disentangled latent variables (keskar2019ctrl), decoding-time guidance (dathathri2019plug), and classifier- or energy-based interventions (holtzman2018learning; krause2021gedi). Recent works unify these methods under content-level and attribute-level control, covering dimensions such as sentiment, topic, style, and safety (zhou2023instruction; lambert2024tulu; liang2024controllable; yun2025ultrabench).\n\nDespite their success, most CTG formulations treat control signals as static, non-eventive attributes applied uniformly across generation. They regulate how text is expressed, but do not model when narrative commitments introduced earlier should be resolved. As a result, models may satisfy all declared control conditions while still violating long-range narrative logic.",
+  "token_estimate": 174
+}

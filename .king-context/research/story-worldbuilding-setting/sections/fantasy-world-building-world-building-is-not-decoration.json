@@ -1,0 +1,34 @@
+{
+  "title": "World Building Is Not Decoration",
+  "path": "fantasy-world-building-world-building-is-not-decoration",
+  "url": "https://thewritingking.com/fantasy-world-building/",
+  "keywords": [
+    "World Building",
+    "Geography",
+    "Climate",
+    "Economics",
+    "Religion",
+    "Interconnected Systems",
+    "Middle-earth",
+    "Shire",
+    "Rangers",
+    "Fantasy Narrative"
+  ],
+  "use_cases": [
+    "Use when creating a fantasy setting to ensure plot cannot be moved without core changes.",
+    "Implement when linking societal power structures to geography and resources to drive conflict.",
+    "Configure when aligning climate and culture to influence character motivations and survival strategies.",
+    "Use when designing religious beliefs to shape morality, laws, and justifications for actions.",
+    "Implement when integrating multiple systems (economics, religion, geography) for cohesive narrative."
+  ],
+  "tags": [
+    "worldbuilding",
+    "fantasy",
+    "narrative",
+    "setting design",
+    "storycraft"
+  ],
+  "priority": 10,
+  "content": "The most common mistake in fantasy world building is treating it as background. The world sits behind the characters like a painted backdrop, and the story could happen anywhere. If you can move your plot to a different setting without changing anything meaningful, your world building isn’t doing its job.\n\nA well-built world shapes everything. Geography determines where cities form, which nations have resources, and where conflicts emerge. Climate affects culture, architecture, food, clothing, and how people think about survival. Economics determines who has power and who doesn’t. Religion shapes morality, laws, and the justifications people use for both kindness and cruelty. These aren’t separate systems. They’re interconnected, and the connections are where the interesting stories live.\n\nTolkien’s Middle-earth works because the geography, history, languages, and cultures are interdependent. The Shire exists because hobbits value comfort and isolation, which is enabled by the geography of the region and the protection provided (unknowingly to them) by the Rangers. Every element connects to every other element. That’s not decoration. That’s engineering.",
+  "token_estimate": 224
+}

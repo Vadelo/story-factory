@@ -1,0 +1,32 @@
+{
+  "title": "Author Notes: RAG for Your Story Bible",
+  "path": "blog-why-i-built-rag-memory-system-author-notes-rag-for-your-story-bible",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "RAG",
+    "Author Tools Integration",
+    "Story Bible",
+    "Semantic Search",
+    "Character profiles",
+    "Context window",
+    "4,000 tokens",
+    "World-building notes",
+    "Plot outlines",
+    "Automatic retrieval"
+  ],
+  "use_cases": [
+    "Implement when users need their world-building notes automatically referenced during content generation",
+    "Configure when character consistency is required across long-form narrative arcs",
+    "Use when dynamic retrieval of story bible elements is needed without manual tagging",
+    "Use when managing large amounts of background lore that exceeds standard context limits"
+  ],
+  "tags": [
+    "RAG",
+    "Authoring Tools",
+    "Story Generation",
+    "Content Context"
+  ],
+  "priority": 9,
+  "content": "The RAG system doesn't just work for story summaries. It also powers the Author Tools Integration.\n\nIn the Story Planner, you can create:\n\n- Character profiles\n- World-building notes\n- Plot outlines\n\nThese notes are stored in the same RAG database. When you're generating new story content, the system automatically retrieves relevant notes based on what you're writing.\n\nFor example:\n\n- If you're writing a scene with a specific character, their character profile gets retrieved\n- If you mention a location, world-building notes about that location get included\n- If you're advancing a subplot, the relevant plot notes come along\n\nThis happens automatically in the background. You don't need to manually attach notes or remember to reference them. The semantic search handles it.\n\nThe system allocates up to 4,000 tokens for Author Notes combined, so even with detailed character profiles and extensive world-building, the AI has access to your story bible without overwhelming its context window.",
+  "token_estimate": 207
+}

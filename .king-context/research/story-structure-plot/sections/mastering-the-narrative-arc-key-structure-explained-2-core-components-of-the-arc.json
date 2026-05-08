@@ -1,0 +1,31 @@
+{
+  "title": "2. Core Components of the Arc",
+  "path": "mastering-the-narrative-arc-key-structure-explained-2-core-components-of-the-arc",
+  "url": "https://literarydevices.net/mastering-the-narrative-arc-key-structure-explained/",
+  "keywords": [
+    "plot arc",
+    "exposition",
+    "rising action",
+    "climax",
+    "falling action",
+    "denouement",
+    "narrative structure"
+  ],
+  "use_cases": [
+    "Use when outlining a novel to ensure balanced pacing.",
+    "Use when teaching creative writing students the structure of a story.",
+    "Implement when drafting a screenplay beat sheet.",
+    "Use when editing a manuscript to ensure all arc stages are present.",
+    "Use when creating a content calendar for storytelling blog."
+  ],
+  "tags": [
+    "literature",
+    "creativity",
+    "narrative-structure",
+    "storytelling",
+    "writing"
+  ],
+  "priority": 10,
+  "content": "| Component | Function | Typical Placement | Exposition | Introduces setting, characters, and initial situation. | Beginning | Rising Action | Builds tension, introduces conflict, develops stakes. | Middle | Climax | Highest point of conflict; decisive turning point. | Peak | Falling Action | Resolves immediate consequences, leads toward closure. | Late middle/early end | Resolution (Denouement) | Final outcome, ties loose ends, reflects on themes. | End |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+  "token_estimate": 143
+}

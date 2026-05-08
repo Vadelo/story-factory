@@ -1,0 +1,32 @@
+{
+  "title": "A Craft Exercise for Act One",
+  "path": "en-ca-blogs-news-story-structure-complete-guide-a-craft-exercise-for-act-one",
+  "url": "https://writingworkshops.com/en-ca/blogs/news/story-structure-complete-guide",
+  "keywords": [
+    "inciting incident",
+    "page count",
+    "first chapters",
+    "world building",
+    "voice building",
+    "narrative pacing",
+    "exposition reduction",
+    "story beats",
+    "narrative threshold"
+  ],
+  "use_cases": [
+    "Use when drafting a short story to locate and emphasize the inciting incident early.",
+    "Use when revising a novel to shift an inciting incident into the first few chapters for better engagement.",
+    "Use when trimming introductory material that doesn't directly support world building or voice.",
+    "Use when tightening pacing by compressing or redistributing pre-inciting pages.",
+    "Use when mapping narrative structure to ensure each page before the inciting incident earns its place."
+  ],
+  "tags": [
+    "creative-writing",
+    "story-structure",
+    "editing",
+    "plot-development"
+  ],
+  "priority": 9,
+  "content": "Open your draft and identify the exact sentence where the inciting incident occurs. Now count the pages that precede it. If you're writing a short story and the inciting incident doesn't arrive until page five, consider what information in those opening pages is truly essential and what can be cut, compressed, or woven in later. If you're writing a novel, your inciting incident should generally land within the first few chapters. The reader's patience for setup is finite — and every page before the inciting incident needs to earn its place by building the world, establishing voice, or creating the sense that something is about to shift.",
+  "token_estimate": 142
+}

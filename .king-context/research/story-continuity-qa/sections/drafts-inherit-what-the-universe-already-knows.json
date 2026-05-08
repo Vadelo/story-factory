@@ -1,0 +1,36 @@
+{
+  "title": "Drafts inherit what the universe already knows.",
+  "path": "drafts-inherit-what-the-universe-already-knows",
+  "url": "https://axiomstory.com/",
+  "keywords": [
+    "AxiomStory",
+    "linked canon",
+    "continuity context",
+    "context injection",
+    "lore graph",
+    "asset anchors",
+    "prompt provenance",
+    "The Backlot",
+    "state memory",
+    "conflict warnings",
+    "character canon",
+    "visual canon"
+  ],
+  "use_cases": [
+    "Use when narrative folders, notes, and prompt snippets become disorganized and drift apart",
+    "Implement when needing to import a manuscript and resolve characters or props into a single source of truth",
+    "Configure when image generation requires consistent character, prop, and mood stability across scenes",
+    "Use when world-building requires long-form consistency and historical event auditing",
+    "Implement when moving between drafting, visual development, and continuity review without manual prompt rebuilding"
+  ],
+  "tags": [
+    "story-systems",
+    "continuity-management",
+    "ai-writing",
+    "visual-development",
+    "content-workflow"
+  ],
+  "priority": 10,
+  "content": "Import a manuscript and watch characters, props, sets, and state memory resolve into linked canon.\n\nStory Room\n\nMove from canon to drafting to visual canon without rebuilding prompts every time a scene changes.\n\nWhy teams switch\n\nAxiomStory is designed for the moment when a world becomes too large for notes, folders, and prompt snippets to hold together.\n\nNotes, prompts, image folders, and drafts drift apart fast. AxiomStory gives the room a single source of truth.\n\nInstead of rebuilding prompts scene by scene, AxiomStory composes context from canon records, continuity context, and relevant passages.\n\nKeep generated visuals tied to the entries, events, and prompt history that made them canonical.\n\nWhat the room gets\n\nStart the universe, let the product resolve context, and keep moving between manuscripts, continuity review, and visual canon without rebuilding the same understanding.\n\nStep 01\n\nStep 01\n\nImport an existing draft or begin clean. Either way, the product is optimized to get to useful canon in under a minute.\n\nStep 02\n\nStep 02\n\nThe editor stays calm while linked canon records, current state, and asset anchors stay close to the writing surface.\n\nStep 03\n\nStep 03\n\nMajor story changes stay visible as continuity updates, so future writing and generation reflect what actually happened.\n\nInside the product\n\nContinuity\n\nOpen the core system first, then move into canon, templates, and review without losing the thread.\n\nThe Draft\n\nKeep the page readable while context injection and conflict warnings stay ambient.\n\nThe Backlot\n\nStore canonical anchors and prompt provenance beside the entities they represent.\n\nContinuity\n\nDerive current truth from historical events so continuity can be audited instead of guessed.\n\nFor teams choosing a next step\n\nThere is no fake gate here. Open the preview, name a universe, and move directly into the product experience.\n\nOpen the preview Jump to the sample draft\n\nEditorial blog\n\n![Editorial wall of entity cards, relationship threads, and rule notes arranged like a story-focused lore graph.](https://axiomstory.com/_next/image?url=%2Fblog%2Flore-graph-what-to-store.png&w=3840&q=75)\n\nStory Systems\n\n7 min read\n\nA practical model for deciding which entities, relationships, rules, events, and source passages belong in a story-first lore graph.\n\nApril 6, 2026\n\n![Editorial manuscript board showing a recurring protagonist tracked across draft pages, costume references, and continuity cards.](https://axiomstory.com/_next/image?url=%2Fblog%2Fcharacter-canon-ai-drafts.png&w=3840&q=75)\n\nCharacter Systems\n\n8 min read\n\nA practical system for keeping voice, appearance, motivation, and scene-level state aligned when AI helps draft recurring characters.\n\nMarch 30, 2026\n\n![Editorial visual development board showing repeated character and prop references arranged for consistent image generation.](https://axiomstory.com/_next/image?url=%2Fblog%2Fconsistent-image-generation.jpg&w=3840&q=75)\n\nImage Systems\n\n7 min read\n\nA practical system for keeping characters, props, mood, and composition stable across multiple image generations.\n\nMarch 23, 2026\n\nFAQ\n\nIt is both, but writing comes first. Canon records, continuity context, and assets exist to strengthen the draft instead of creating extra admin work.\n\nYes. The product is designed around importing scripts or chapters, extracting candidate entities, and turning them into useful canon quickly.\n\nSolo writers, narrative designers, showrunners, and AI-native story teams who need long-form consistency across text and images.\n\nYou move into Continuity first, then into drafting, canon shaping, visual development, and collaborative review without rebuilding the universe from scratch.\n\nReady to try it\n\nOpen the preview, create a universe, and see how AxiomStory handles canon, continuity context, and visual canon when the world starts getting complicated.\n\nTry the product preview Visit the blog",
+  "token_estimate": 720
+}

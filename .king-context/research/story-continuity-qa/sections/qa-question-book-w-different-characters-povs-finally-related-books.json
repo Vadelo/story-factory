@@ -1,0 +1,28 @@
+{
+  "title": "Related Books",
+  "path": "qa-question-book-w-different-characters-povs-finally-related-books",
+  "url": "https://www.novelflow.app/qa/question/book-w-different-characters-povs-finally",
+  "keywords": [
+    "Related Books",
+    "novelflow.app",
+    "image/resize",
+    "OSS process",
+    "webp",
+    "cover-v1",
+    "m_lfit",
+    "quality q_80"
+  ],
+  "use_cases": [
+    "Use when displaying recommendations based on current book content",
+    "Implement when rendering book cover thumbnails with specific scaling parameters",
+    "Configure when optimizing image delivery format to webp"
+  ],
+  "tags": [
+    "user-interface",
+    "content-discovery",
+    "image-optimization"
+  ],
+  "priority": 6,
+  "content": "![Two different worlds](https://cover-v1.novelflow.app/prod/img/cover/726b65d492e44bf3a21f746211fb851f.jpg?x-oss-process=image/resize,m_lfit,w_113,h_151/quality,q_80/format,webp)",
+  "token_estimate": 3
+}

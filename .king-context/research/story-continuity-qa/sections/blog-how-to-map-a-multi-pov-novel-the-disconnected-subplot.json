@@ -1,0 +1,30 @@
+{
+  "title": "The Disconnected Subplot",
+  "path": "blog-how-to-map-a-multi-pov-novel-the-disconnected-subplot",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "Disconnected Subplot",
+    "Internal Arc",
+    "Narrative Coherence",
+    "Grafted Storyline",
+    "Character Track",
+    "Plot Intersections",
+    "Narrative Mapping",
+    "Structural Editing"
+  ],
+  "use_cases": [
+    "Use when evaluating story structural integrity during a developmental edit",
+    "Configure when identifying non-essential characters during a revision phase",
+    "Implement when narrative pacing feels stalled due to isolated plot threads",
+    "Use when auditing the connectivity between parallel character arcs"
+  ],
+  "tags": [
+    "structural-editing",
+    "narrative-design",
+    "character-development",
+    "pacing"
+  ],
+  "priority": 8,
+  "content": "A character has a rich internal storyline that never meaningfully intersects with anything else in the novel. Their arc is internally coherent, even compelling. But you cannot draw a single connection line from their track to anyone else's.\n\nThis often happens when a writer becomes attached to a character for personal reasons, or when a storyline was conceived separately from the main story and grafted on. The disconnection feels justifiable from inside the story. On the map, it reads as an island.\n\nEither find the connection or cut the character. Readers will feel the disconnection even if they cannot name it.",
+  "token_estimate": 134
+}

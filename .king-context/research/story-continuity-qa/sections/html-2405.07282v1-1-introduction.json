@@ -1,0 +1,35 @@
+{
+  "title": "1. Introduction",
+  "path": "html-2405.07282v1-1-introduction",
+  "url": "https://arxiv.org/html/2405.07282v1",
+  "keywords": [
+    "CHADPOD",
+    "Character Decision Points Detection",
+    "Freytag’s Pyramid",
+    "NLP",
+    "Large Language Models",
+    "Turning Point Identification",
+    "ergodic literature",
+    "WikiPlots",
+    "MPST dataset",
+    "narrative structure formalization",
+    "character agency",
+    "anagnorisis"
+  ],
+  "use_cases": [
+    "Use when formalizing narrative arcs and semantic structures for LLM training",
+    "Implement when developing automated plot analysis for long-form creative writing",
+    "Configure when extracting character agency and decision-making moments from raw text",
+    "Use when benchmarking modern NLP models on nonlinear storytelling datasets",
+    "Implement when identifying high-level plot pivots like Freytag’s points or Chekhov’s guns"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "nlp-research",
+    "dataset-introduction",
+    "machine-learning"
+  ],
+  "priority": 10,
+  "content": "Modern Large Language Models (LLMs) are state-of-the-art in a lot of Natural Language Processing (NLP) tasks. However, areas related to the analysis and generation of texts with complex and rich semantic structures remain underexplored. This includes the tasks of analyzing and generating long, engaging, and rich narratives van Stegeren and Theune (2019). While modern models can sometimes produce innovative plot twists, they generally create less imaginative scenarios and rhetoric compared to human-authored texts Begus (2023).\n\nThe traditional machine learning approach to this problem starts from the data collection with necessary annotations. In the narrative analysis field, there are a number of datasets available, such as WikiPlots111https://github.com/markriedl/WikiPlots with 112,936 story plots extracted from English Wikipedia, the MPST dataset with 14K movie plot synopses Kar et al. (2018), and the DYPLODOC dataset, which includes synopses of 13K TV shows, 21K seasons, and over 300K episodes Malysheva et al. (2021). However, these plain-text synopses offer limited assistance when the goal is to analyze high-level narrative structures.\n\nPhilosophers and linguists make a lot of attempts to conceptualize and formalize concepts of plot, narrative arcs, character development, conflict, and so on Shklovsky (1925). One of the fundamental principles in drama and narrative construction is the concept of character agency, which posits that a character’s decisions and actions drive the plot forward. Aristotle, in his work Poetics, highlights sudden plot twists, or peripeteia, especially those tied to anagnorisis—the moment when a character comes to a significant realization or discovery that affects subsequent choices. Borges, in his short story The Garden of Forking Paths, explores the idea of multiple possible worlds through the metaphor of a labyrinth, representing an infinite number of potential narratives and outcomes based on characters’ actions: \"your ancestor <…> believed in an infinite series of times, in a growing, dizzying net of divergent, convergent and parallel times. This web of time—the strands of which approach one another, bifurcate, intersect or ignore each other through the centuries—embrace every possibility.\" Propp introduces the concept of functions—recurring, typical actions that move the narrative forward: \"a tale often attributes identical actions to various personages; this makes possible the study of the tale according to the functions of its dramatis personae <…> a function <…> cannot be defined apart from its place in the course of narration\". Gustav Freytag, in Freytag and MacEwan (1968), describes Freytag’s Pyramid, a typical plot structure identifying five pivotal plot points: Opportunity, Change of Plans, Point of No Return, Major Setback, Climax. Aarseth in his Cybertext book proposes the term ergodic literature to define open, dynamic texts, with which the reader must perform specific actions to generate a literary sequence.\n\nOne may argue that we still cannot clearly define what we aim to analyze, and this slows progress in the analysis and generation of narrative structures Yamshchikov and Tikhonov (2023). However, the NLP community continues to seek improvements in narrative processing Fan et al. (2019), by setting subtasks for the formal identification of important plot elements. For instance, in Tikhonov and Yamshchikov (2022) the task is to identify \"Chekhov’s guns\"—narrative objects that significantly impact the plot’s development; Papalampidi et al. (2019) introduce a Turning Point Identification task—to directly identify Freytag’s points in the text, and Li et al. (2023) proposes a task to extract action models from narrative texts automatically.\n\nIn this paper, we propose using characters’ decision-making moments to analyze and formalize narrative structure. We introduce a new NLP task—Character Decision Points Detection (CHADPOD). This task focuses on identifying moments in the narrative where characters make decisions that significantly determine the plot’s direction. We believe that highlighting such moments will improve our understanding of traditional text plots and open possibilities for working with nonlinear and interactive narrative structures Juul (2005); Murray (2006).\n\nThis work contributes by:\n\n1.\n\nProposing a formalization of the Character Decision Points Detection (CHADPOD) task.\n\n2.\n\nIntroducing a Character Decision Points dataset.\n\n3.\n\nDemonstrating the effectiveness of modern models in identifying Character Decision Points (CDPs).\n\n4.\n\nOffering an interpretation of CDPs and their relation to the related task of turning points.\n\n1. 7 Bibliographical References",
+  "token_estimate": 899
+}

@@ -1,0 +1,31 @@
+{
+  "title": "What Happens When an Error Is Found?",
+  "path": "en-blog-detecting-plot-holes-with-qc-what-happens-when-an-error-is-found",
+  "url": "https://symban.de/en/blog/detecting-plot-holes-with-qc",
+  "keywords": [
+    "QC pass",
+    "Fix pass",
+    "temporal reference",
+    "object inventory",
+    "manual review",
+    "error flags",
+    "scene correction",
+    "iterative validation",
+    "surgical precision"
+  ],
+  "use_cases": [
+    "Use when automated scene validation identifies inconsistencies in character traits or inventory",
+    "Configure when seeking a non-destructive correction process that preserves original creative text",
+    "Implement when setting up automated retry logic for validation failures",
+    "Use when requiring a fallback mechanism for manual review after multiple failed correction attempts"
+  ],
+  "tags": [
+    "quality-assurance",
+    "error-handling",
+    "content-validation",
+    "automation"
+  ],
+  "priority": 8,
+  "content": "When the QC pass identifies a problem, the scene isn't discarded but handed to a Fix pass. This corrects the identified errors with surgical precision:\n\n- If the eye color is wrong, only the description is corrected\n- If the time of day doesn't fit, only the temporal reference is adjusted\n- If an object appears that isn't in the inventory, the passage is rewritten\n\nThe Fix pass changes as little as possible. Your creative text stays intact — only the error is fixed.\n\nIf the first fix doesn't resolve all issues, the scene goes through QC again. This can repeat up to three times. After that, remaining issues are flagged as warnings for manual review — so you always have the final say.",
+  "token_estimate": 164
+}

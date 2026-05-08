@@ -1,0 +1,30 @@
+{
+  "title": "ACT 1 - SETUP (1000-1250 words)",
+  "path": "p-how-to-prompt-narrative-arcs-act-1-setup-1000-1250-words",
+  "url": "https://winterspeak.substack.com/p/how-to-prompt-narrative-arcs",
+  "keywords": [
+    "Opening Image",
+    "Protagonist Flaw",
+    "Inciting Incident",
+    "Stakes",
+    "Point of No Return",
+    "Motif",
+    "Setup",
+    "Hook",
+    "Act 1 Structure"
+  ],
+  "use_cases": [
+    "Use when drafting the narrative foundation of a story.",
+    "Implement when establishing a protagonist's internal conflict and external environment.",
+    "Configure when bridging the status quo with the main dramatic conflict.",
+    "Use when planting thematic details and symbols for later payoff."
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "story-architecture"
+  ],
+  "priority": 10,
+  "content": "Scene 1 - Opening Image (250-300 words)\n\nSetting: [Specific location with mood]\n\nProtagonist's Starting State: [Emotional/physical state]\n\nIntroduce Motif/Symbol: [Object or image that will recur]\n\nHook: [What question/intrigue keeps reader going?]\n\nScene 2 - Daily Life/Character Establishment (400-500 words)\n\nShow Protagonist's Flaw: [How their wound/lie manifests]\n\nIntroduce Stakes: [What protagonist has to lose]\n\nPlant Setup: [Detail that will matter later]\n\nScene 3 - Inciting Incident (400-500 words)\n\nThe Event: [What disrupts the status quo?]\n\nProtagonist's Initial Reaction: [Do they resist/accept?]\n\nPoint of No Return: [Why can't they go back?]",
+  "token_estimate": 118
+}

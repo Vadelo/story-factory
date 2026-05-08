@@ -1,0 +1,32 @@
+{
+  "title": "Place Your Story on a World Map",
+  "path": "story-codex-place-your-story-on-a-world-map",
+  "url": "https://proseengine.app/story-codex",
+  "keywords": [
+    "World Map",
+    "interactive canvas",
+    "atlas",
+    "drag-and-drop",
+    "spatial story sense",
+    "custom map upload",
+    "AI-generated map",
+    "persistent positioning",
+    "grid",
+    "travel routes"
+  ],
+  "use_cases": [
+    "Use when mapping physical relationships between story locations",
+    "Implement when visualizing character travel routes or distances",
+    "Configure when uploading custom hand-drawn or AI-generated fantasy maps",
+    "Use when organizing world-building entries geographically"
+  ],
+  "tags": [
+    "world-building",
+    "visualization",
+    "interactive-maps",
+    "codex"
+  ],
+  "priority": 8,
+  "content": "Drag every location onto an interactive canvas. Upload your own atlas or use the built-in grid. Distances, regions, and travel routes — all visual, all persistent.\n\n![World Map — drag-and-drop locations onto a custom atlas inside the codex](https://proseengine.app/assets/landing-codex-world-map.png?v=1)\n\n🗺\n\nBring Your Own Atlas\n\nUpload a hand-drawn or AI-generated map — or start from a blank grid\n\n📍\n\nDrag-and-Drop Places\n\nDrop any place entry onto the canvas; positions persist across sessions\n\n🧭\n\nSpatial Story Sense\n\nSee at a glance which places are near, far, or unreachable for each character",
+  "token_estimate": 117
+}

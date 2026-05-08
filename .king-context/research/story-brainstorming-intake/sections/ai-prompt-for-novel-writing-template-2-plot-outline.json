@@ -1,0 +1,33 @@
+{
+  "title": "Template 2: Plot Outline",
+  "path": "ai-prompt-for-novel-writing-template-2-plot-outline",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "Plot Outline",
+    "Internal Arc",
+    "Three-Act Structure",
+    "Midpoint Shift",
+    "Cause-and-Effect Logic",
+    "Chapter-by-Chapter Outline",
+    "Organic Plot Twists",
+    "External Conflict",
+    "Climax Scene",
+    "Beat-by-Beat Mapping"
+  ],
+  "use_cases": [
+    "Use when developing a comprehensive narrative structure for genre fiction",
+    "Implement when mapping the internal emotional journey alongside external plot points",
+    "Configure when generating a detailed chapter-by-chapter breakdown with specific word count goals",
+    "Use when identifying character-driven plot twists that emerge from established internal conflicts",
+    "Implement when transitioning from a core story premise to a structured four-act narrative"
+  ],
+  "tags": [
+    "content-generation",
+    "creative-writing",
+    "prompt-engineering",
+    "narrative-design"
+  ],
+  "priority": 9,
+  "content": "Outlining is where AI earns its keep fastest. An afternoon with this template replaces what used to take two weeks of index cards. The key is demanding both external plot beats and the protagonist’s internal arc — most AI outlines nail the plot, miss the emotional journey, and leave you with a story that moves but doesn’t resonate.\n\nPrompt Template — Plot Outline\n\nYou are a [genre] fiction writer skilled in three-act structure and character-driven plotting. Create a complete chapter-by-chapter outline for a [word count]-word novel with the following parameters: Core setup: Protagonist: [name + one sentence description] Central external conflict: [what obstacle stands between them and their goal?] Central internal conflict: [what belief/wound do they need to overcome?] Unique premise hook: [what makes this story different from others in this genre?] Ending direction: [resolved/open/tragic/earned ambiguity] Structure requirements: – Four-act breakdown (Setup → Rising Action → Crisis → Resolution) – Three major plot events per act with specific cause-and-effect logic – Protagonist’s internal emotional arc mapped beat-by-beat – Midpoint shift (the moment the protagonist’s approach changes) – Two organic plot twists (must emerge from character, not authorial convenience) – Climax scene described in specific detail (setting, stakes, what the protagonist must sacrifice or choose) Format: Chapter number | Scene summary | External tension | Internal tension | Why this scene earns its place",
+  "token_estimate": 296
+}

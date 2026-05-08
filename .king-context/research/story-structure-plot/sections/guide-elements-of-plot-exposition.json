@@ -1,0 +1,36 @@
+{
+  "title": "Exposition",
+  "path": "guide-elements-of-plot-exposition",
+  "url": "https://blog.reedsy.com/guide/elements-of-plot",
+  "keywords": [
+    "exposition",
+    "worldbuilding",
+    "dialogue exposition",
+    "infodump",
+    "plot dump",
+    "natural integration",
+    "character thoughts",
+    "setting description",
+    "societal structure",
+    "political structure",
+    "suspension of disbelief",
+    "narrative pacing"
+  ],
+  "use_cases": [
+    "Use when incorporating background information to enrich setting without breaking flow.",
+    "Implement when you want to reveal world rules subtly through character dialogue.",
+    "Configure when balancing exposition with action to maintain reader engagement.",
+    "Use when avoiding a hard plot dump by weaving facts into ongoing scenes.",
+    "Implement when developing characters’ internal monologue to expose lore naturally."
+  ],
+  "tags": [
+    "storytelling",
+    "writing",
+    "worldbuilding",
+    "narrative",
+    "pacing"
+  ],
+  "priority": 10,
+  "content": "Every story will have some degree of background information that needs to be explained; that’s where exposition comes in. Exposition can be as simple as introducing a character or describing the setting, to delving into more complex elements like the rules of your world or the underlying societal or political structures that will drive the conflict.\n\n#### Q: What are effective techniques for incorporating exposition into a story without disrupting the flow or pacing?\n\n![](https://blog-cdn.reedsy.com/assets/@reedsy/reedsy-lightning/assets/icons/light/tick-9518d10186dff2f21757d5fc91e16ab314d48e518f4585b15e3475a447d1f7e2.svg)\n\nSuggested answer\n\nSusanna F. (Editor)\n\nI see poorly integrated facts in nonfiction all the time. You'll be reading beautiful prose and all of a sudden you're hit with what reads like a copy-and-pasted section of Wikipedia. Writers need to take the facts and make them their own. That means finding ways to make them vivid and immediate to the reader and weaves them into the narrative.\n\nSusanna is available to hire on Reedsy ⏺\n\nWork with Susanna\n\nRead 1 additional answer\n\n![](https://blog-cdn.reedsy.com/assets/@reedsy/reedsy-lightning/assets/icons/dark/cross-69e2173d1f27367f982567a9c1470953aade1c09db49f92c6819e430f9d1ee6f.svg)\n\nClose\n\nreedsymarketplace\n\nBrett S. (Editor)\n\nThe best way to get exposition in is through dialogue. The caveat, of course, is to be careful that it comes across naturally. For instance, if your characters are telling each other things they would know, the reader will know you're only doing that to get the information to the reader, which will greatly reduce their suspension of disbelief.\n\nThe second best way, in my opinion, is through thoughts. Again, though, the character needs to think things they would actually think in their situation. For instance, in a fantasy novel, if you drop a big infodump of the world's setting, or the way machines work, or how various monsters are classified, etc., it won't be believable because there's no reason for the character to think things they already know. You could show them working through various possibilities in their mind, coming to correct conclusions, that kind of thing, but the process has to appear honest. Always assume your reader is intelligent, and is capable of sensing expositional shortcuts.\n\nBrett is available to hire on Reedsy ⏺\n\nWork with Brett\n\nAnswers provided by professionals available on reedsy.com\n\nWriting exposition can be a difficult balancing act to master. It can be tempting to get your exposition out of the way with an extended monologue or description, but there’s nothing more off-putting to readers than a plot dump. Ideally, you want to slowly weave exposition into your prose in a way that feels natural.\n\nTo learn more, read our full guide on exposition here.\n\n#### 🧙 Example: The Hobbit by J.R.R. Tolkien\n\nThe worldbuilding in J.R.R. Tolkien’s The Lord of the Rings series has captured readers' imaginations for almost a century now, and much of that is thanks to Tolkien’s exposition expertise. In the opening of The Hobbit, Tolkien deftly introduces the world of Middle-earth, the peaceful setting of the Shire, and Bilbo Baggins' relatively uneventful life:\n\n“The Bagginses had lived in the neighbourhood of The Hill for time out of mind, and people considered them very respectable, not only because most of them were rich, but also because they never had any adventures or did anything unexpected: you could tell what a Baggins would say on any question without the bother of asking him. This is a story of how a Baggins had an adventure, found himself doing and saying things altogether unexpected. He may have lost the neighbours' respect, but he gained-well, you will see whether he gained anything in the end.”\n\nTolkien keeps the tone light and whimsical, which helps draw the reader into the world without overwhelming them with information.\n\n“I’m going on an adventure!” (Image: Warner Bros)",
+  "token_estimate": 799
+}

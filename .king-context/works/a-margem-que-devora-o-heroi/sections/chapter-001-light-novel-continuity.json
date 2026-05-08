@@ -1,0 +1,51 @@
+{
+  "title": "Chapter Continuity: O Homem na Margem da Página",
+  "path": "chapter-001-light-novel-continuity",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-001-light-novel-continuity",
+  "keywords": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-001-light-novel",
+    "light",
+    "novel-webnovel",
+    "em",
+    "pt-br",
+    "metalinguagem",
+    "textual",
+    "margem",
+    "comentarios",
+    "notas",
+    "de",
+    "revisao",
+    "frases",
+    "cortadas",
+    "variacoes",
+    "descartadas",
+    "prosa",
+    "clara",
+    "visual",
+    "e",
+    "fluida",
+    "com",
+    "curtas",
+    "momentos",
+    "impacto",
+    "evitar",
+    "janelas",
+    "sistema",
+    "status"
+  ],
+  "use_cases": [
+    "Check continuity and style risks before future drafting"
+  ],
+  "tags": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-001-light-novel"
+  ],
+  "priority": 8,
+  "content": "{\n  \"continuity_risks\": [\n    \"Não voltar para linguagem excessivamente visual de manhwa se a direção atual é light novel.\",\n    \"Não permitir que Davi reescreva tudo livremente; preservar limites de revisor.\",\n    \"Não tornar Yerin passiva outra vez.\",\n    \"Kael deve ser antagonista estrutural com lógica própria, não apenas vilão vaidoso.\"\n  ],\n  \"style_notes\": [\n    \"Light novel/webnovel em pt-BR.\",\n    \"Metalinguagem textual: margem, comentários, notas de revisão, frases cortadas, variações descartadas.\",\n    \"Prosa clara, visual e fluida, com frases curtas em momentos de impacto.\",\n    \"Evitar janelas de sistema e status.\"\n  ]\n}",
+  "token_estimate": 113
+}

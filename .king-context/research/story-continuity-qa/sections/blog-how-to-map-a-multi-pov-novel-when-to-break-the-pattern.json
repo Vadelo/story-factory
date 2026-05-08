@@ -1,0 +1,30 @@
+{
+  "title": "When to Break the Pattern",
+  "path": "blog-how-to-map-a-multi-pov-novel-when-to-break-the-pattern",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "alternation pattern",
+    "POV overlap",
+    "consecutive chapters",
+    "multi-POV structure",
+    "structural solutions",
+    "jump cut",
+    "pacing",
+    "narrative significance"
+  ],
+  "use_cases": [
+    "Use when signaling significant character development through consecutive chapters",
+    "Implement when creating a sense of dread or isolation between characters",
+    "Configure when utilizing a jump cut effect via a long-absent POV character",
+    "Use when evaluating structural solutions from existing literary examples"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-pov",
+    "pacing-techniques",
+    "structural-design"
+  ],
+  "priority": 8,
+  "content": "Whatever alternation pattern you establish, there will be moments when breaking it is the right structural move.\n\nConsecutive chapters from the same POV signal significance. When you spend three chapters in a row with one character, readers unconsciously register that something important is happening for that person. This is a tool worth using deliberately.\n\nConsecutive chapters with no POV overlap, where all characters are isolated from each other, build a particular kind of dread. The world is fracturing. Things are happening simultaneously that cannot be stopped.\n\nA sudden shift to a POV character who has been absent for a long time can function like a jump cut in film. Disorienting, alerting, effective when used for exactly that effect.\n\nLooking at how specific novels handle multi-POV structure is more useful than abstract principles. These three examples represent different structural solutions to the same challenge, and they look nothing alike on a map.",
+  "token_estimate": 200
+}

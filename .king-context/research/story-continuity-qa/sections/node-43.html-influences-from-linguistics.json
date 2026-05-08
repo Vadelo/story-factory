@@ -1,0 +1,32 @@
+{
+  "title": "Influences from Linguistics",
+  "path": "node-43.html-influences-from-linguistics",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "story grammars",
+    "computational narratology",
+    "text mining",
+    "conversational social networks",
+    "corpus linguistics",
+    "scripts",
+    "empirical narratology",
+    "Rumelhart 1980",
+    "Schank & Abelson 1977",
+    "Elson et al. 2010"
+  ],
+  "use_cases": [
+    "Apply linguistic constructs like story grammars to computational storytelling systems",
+    "Use text mining techniques to perform large-scale empirical testing of literary hypotheses",
+    "Implement social network extraction from character dialogues in literary datasets",
+    "Configure computational narrative models using AI-driven script theory"
+  ],
+  "tags": [
+    "linguistics",
+    "computational-narratology",
+    "data-mining",
+    "narrative-theory"
+  ],
+  "priority": 7,
+  "content": "Constructs which have emerged from linguistics, such as story grammars, (e.g., Rumelhart 1980), have been widely elaborated and applied in computational narratology, as in Bringsjord & Ferrucci (2000) and Lang (2003). These notions, along with others arising independently out of AI, such as scripts (Schank & Abelson 1977), have also (despite their computational brittleness) influenced humanities narratology (Emmott & Alexander→ Schemata and Herman→ Cognitive Narratology). The contributions of corpus linguistics to narratology are also well-recognized (Salway & Herman 2008), and in recent years, more advanced text mining techniques have allowed for large-scale empirical tests of literary hypotheses. For example, Elson et al. (2010) have been able to automatically extract conversational social networks from the dialogues between characters in 19th-century novels, disproving a claim by the literary critic Moretti (1999) that urban novels reflect the looser ties of city life, resulting in more characters sharing fewer conversations.",
+  "token_estimate": 194
+}

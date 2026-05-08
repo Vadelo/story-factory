@@ -1,0 +1,30 @@
+{
+  "title": "The danger of overdoing it",
+  "path": "the-reading-room-what-is-lyrical-prose-and-how-do-you-use-it-effectively-the-danger-of-overdoing-it",
+  "url": "https://www.novlr.org/the-reading-room/what-is-lyrical-prose-and-how-do-you-use-it-effectively",
+  "keywords": [
+    "purple prose",
+    "lyrical prose",
+    "substance vs style",
+    "self-indulgent writing",
+    "narrative clarity",
+    "meaning illumination",
+    "reader distance",
+    "linguistic decoding",
+    "story-centric writing"
+  ],
+  "use_cases": [
+    "Use when evaluating if descriptive language enhances or distracts from the narrative",
+    "Implement when editing drafts to remove self-indulgent or overly complex phrasing",
+    "Configure when establishing a balance between stylistic flair and storytelling substance",
+    "Use when auditing a text for clarity and reader accessibility"
+  ],
+  "tags": [
+    "editorial-standards",
+    "style-guides",
+    "content-strategy"
+  ],
+  "priority": 7,
+  "content": "Lyrical prose becomes purple prose when style overshadows substance. When you’re showing off rather than serving the story, that’s when it starts to feel overdone. We’ve all read passages where the author seems more in love with their own sentences than with their characters or narrative. It makes their writing feel self-indulgent and distancing.\n\nYou should always ask yourself: does this language illuminate meaning or obscure it? If readers have to work to decode what you’re saying, the lyricism has failed.",
+  "token_estimate": 107
+}

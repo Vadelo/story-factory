@@ -1,0 +1,30 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "frequently-asked-questions",
+  "url": "https://www.storywellapp.com/",
+  "keywords": [
+    "Storywell",
+    "inline comment threads",
+    "autosave",
+    "AI extraction",
+    "manual saves",
+    "world encyclopedia",
+    "manuscript export",
+    "permissions management"
+  ],
+  "use_cases": [
+    "Use when inviting external editors to review manuscript passages",
+    "Configure when managing team-based permissions and collaboration",
+    "Implement when setting up periodic project backups or data portability",
+    "Use when wanting to trigger AI analysis without relying on automated background processes"
+  ],
+  "tags": [
+    "collaboration",
+    "data-management",
+    "AI-features",
+    "general-faq"
+  ],
+  "priority": 7,
+  "content": "#### Can I work with an editor inside Storywell?\n\nYes. Authors can invite editors by email, control permissions, and review inline comment threads on manuscript passages.\n\n#### Does AI run on every autosave?\n\nNo. Autosave protects your writing continuously, while AI extraction is triggered on manual saves to control costs and keep results intentional.\n\n#### Can I export my project data?\n\nYes. You can export the manuscript and your world encyclopedia for external review, sharing, and long-term backups.",
+  "token_estimate": 103
+}

@@ -1,0 +1,34 @@
+{
+  "title": "About This Project",
+  "path": "zaphodsdad-GhostWriter3000-about-this-project",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "GhostWriter 3000",
+    "Python",
+    "FastAPI",
+    "OpenRouter API",
+    "Markdown",
+    "JSON storage",
+    "Docker",
+    "Localhost:8000",
+    "LLM orchestration",
+    "Vanilla JS",
+    "make run"
+  ],
+  "use_cases": [
+    "Configure when you want to run a private writing engine on local hardware without recurring subscriptions",
+    "Use when you need to generate, critique, or revise prose based on existing characters and plots",
+    "Implement when managing long-form fiction projects through Markdown and JSON files without a formal database",
+    "Use when you want to swap between different large language models via OpenRouter",
+    "Configure when seeking to train or adapt a system to a specific long-term writing style"
+  ],
+  "tags": [
+    "deployment",
+    "getting-started",
+    "architecture",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "I'm John Burks. I always wanted to write. Life had other plans.\n\nI spent 20 years in oil and gas — MWD coordination, field operations, real-time operations centers, facilities management. I was good at it. I ran crews, managed complex systems under pressure, and kept things moving when everything was trying to fall apart. But corporate oilfield culture ground the passion out of me. It's a dog-eat-dog world and after two decades I was done.\n\nThe writing never stopped, though. I've been a fiction writer my whole adult life — took some swings at self-publishing years ago, never quite landed it because the mechanics of getting stories onto the page always outpaced the hours in the day. I've got multiple novels in progress, a head full of characters and plot, and not enough time.\n\nI'd been using NovelCrafter, which is genuinely great software. But I hate subscriptions when I can avoid them. This seemed like a fun project to build — a writing engine I own, that runs on my own hardware, that remembers my entire series and lets me pick any model I want. And I actually use it.\n\n**Great stories shouldn't be trapped by writing mechanics.** GhostWriter 3000 helps storytellers who have vivid characters, compelling plots, and rich worlds — but need help getting them onto the page. It generates natural prose, critiques it, revises it, and learns your writing style over time.\n\nBuilt with Python/FastAPI and a retro-futuristic vanilla JS frontend. No database — everything is markdown and JSON files. Bring your own API key.\n\n```bash\ngit clone https://github.com/zaphodsdad/ghostwriter3000.git\ncd ghostwriter3000\nmake docker\n```\n\n```bash\ngit clone https://github.com/zaphodsdad/ghostwriter3000.git\ncd ghostwriter3000\nmake run\n```\n\nBoth methods open the UI at **http://localhost:8000**. Add your [OpenRouter API key](https://openrouter.ai/keys) in Settings — that's it. Demo data is included so you can explore immediately.",
+  "token_estimate": 401
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Purpose",
+  "path": "blog-2026-02-23-claude-long-form-writing-purpose",
+  "url": "https://docs.bswen.com/blog/2026-02-23-claude-long-form-writing",
+  "keywords": [
+    "long-form creative writing",
+    "Claude Sonnet",
+    "Claude Opus",
+    "Claude Code",
+    "character consistency",
+    "manuscript management",
+    "story continuity",
+    "world-building",
+    "large-scale writing projects"
+  ],
+  "use_cases": [
+    "Use when developing a system for maintaining character consistency across 100k+ word manuscripts",
+    "Implement when treating creative writing projects like software development workflows",
+    "Configure when managing long-form narrative projects involving over 100 chapters",
+    "Use when leveraging Claude Code for manuscript versioning and management"
+  ],
+  "tags": [
+    "creative-writing",
+    "project-management",
+    "claude-ai",
+    "content-generation"
+  ],
+  "priority": 8,
+  "content": "This post demonstrates how to use Claude for long-form creative writing with a proven system that helped write a 301,000-word novel over 8 months.\n\nWhen I started writing a 300k-word novel, I faced the same challenges many writers do:\n\n- Maintaining character consistency across 113 chapters\n- Keeping quality high throughout the entire manuscript\n- Managing story continuity and world-building details\n- Avoiding writer’s block during long projects\n\nThe traditional approach of “just write” doesn’t scale well for 100k+ word projects. I needed a system that treats creative writing like a software development project.\n\n- Claude AI (various models: Sonnet, Opus)\n- Claude Code for manuscript management\n- 8-month writing timeline\n- 113 chapters target\n- 301,000 word final count",
+  "token_estimate": 159
+}

@@ -1,0 +1,32 @@
+{
+  "title": "1Introduction",
+  "path": "html-2405.10912v3-1introduction",
+  "url": "https://arxiv.org/html/2405.10912v3",
+  "keywords": [
+    "Temporal Causality",
+    "Model-Checking",
+    "Reactive Systems",
+    "Counterexample Trace",
+    "Verification Algorithms",
+    "Infinite Dynamics",
+    "Synthesis Algorithms",
+    "Causal Reasoning",
+    "Symbolic Logic",
+    "Automata"
+  ],
+  "use_cases": [
+    "Use when explaining model-checking results through causal relationships",
+    "Configure when describing the temporal behavior of infinite event sets in reactive systems",
+    "Implement when retrofitting traditional causality definitions into formal verification workflows",
+    "Use when seeking a symbolic description of causal properties using logics or automata"
+  ],
+  "tags": [
+    "formal-verification",
+    "model-checking",
+    "temporal-logic",
+    "theory"
+  ],
+  "priority": 10,
+  "content": "Causality is a key ingredient for explaining model-checking results> [\n[> 5\n](https://arxiv.org/html/2405.10912v3#bib.bib5)> , [> 15\n](https://arxiv.org/html/2405.10912v3#bib.bib15)> , [> 37\n](https://arxiv.org/html/2405.10912v3#bib.bib37)> , [> 45\n](https://arxiv.org/html/2405.10912v3#bib.bib45)> ]\nand a reasoning tool in several verification and synthesis algorithms> [\n[> 2\n](https://arxiv.org/html/2405.10912v3#bib.bib2)> , [> 35\n](https://arxiv.org/html/2405.10912v3#bib.bib35)> , [> 36\n](https://arxiv.org/html/2405.10912v3#bib.bib36)> ]\n. These techniques have retrofitted causality definitions from philosophy> [\n[> 32\n](https://arxiv.org/html/2405.10912v3#bib.bib32)> , [> 39\n](https://arxiv.org/html/2405.10912v3#bib.bib39)> ]\nand artificial intelligence> [\n[> 30\n](https://arxiv.org/html/2405.10912v3#bib.bib30)> ]\n, which were not designed for reactive systems with infinite dynamics and often fall short in such ad-hoc applications. For instance,\npopular approaches for explaining model-checking results highlight the counterexample trace at events that constitute causes> [\n[> 7\n](https://arxiv.org/html/2405.10912v3#bib.bib7)> , [> 18\n](https://arxiv.org/html/2405.10912v3#bib.bib18)> , [> 31\n](https://arxiv.org/html/2405.10912v3#bib.bib31)> ]\n. Yet, marking a (possibly infinite) set of events does not clearly describe\nthe temporal behavior manifested by them since, e.g., two events can be individually responsible for the effect or only together. Similarly, the occurrence of events in the loop part of a trace can be relevant, e.g., only once or infinitely often.\nTo address such reoccurring problems arising with causal reasoning in reactive systems, Coenen et al. have recently proposed*temporal causality*for drawing causal relationships between temporal properties on a given trace of a system> [\n[> 19\n](https://arxiv.org/html/2405.10912v3#bib.bib19)> ]\n. Causal properties can then be described symbolically with logics or automata, which give a concise description of the possibly infinite causal behavior, and are, moreover, amenable to verification algorithms.",
+  "token_estimate": 325
+}

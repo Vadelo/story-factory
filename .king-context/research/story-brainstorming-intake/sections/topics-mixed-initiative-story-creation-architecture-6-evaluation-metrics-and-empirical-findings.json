@@ -1,0 +1,32 @@
+{
+  "title": "6. Evaluation Metrics and Empirical Findings",
+  "path": "topics-mixed-initiative-story-creation-architecture-6-evaluation-metrics-and-empirical-findings",
+  "url": "https://www.emergentmind.com/topics/mixed-initiative-story-creation-architecture",
+  "keywords": [
+    "mixed-initiative architecture",
+    "Fleiss’ κ",
+    "QLS (Quality–Length Score)",
+    "CreAgentive",
+    "CritiCS CRPLAN",
+    "story graph metrics",
+    "pairwise comparisons",
+    "pattern coverage",
+    "CritiCS CRTEXT",
+    "adaptive initiative protocols"
+  ],
+  "use_cases": [
+    "Use when benchmarking mixed-initiative AI systems against human creativity standards",
+    "Configure when measuring the scalability and robustness of long-form narrative generation",
+    "Implement when calculating inter-rater agreement for user experience studies using Fleiss’ κ",
+    "Use when evaluating the trade-off between content quality and length using QLS scores"
+  ],
+  "tags": [
+    "evaluation-metrics",
+    "human-ai-collaboration",
+    "benchmarking",
+    "data-analysis"
+  ],
+  "priority": 8,
+  "content": "Evaluation of mixed-initiative architectures leverages both human and automated measures:\n\n- Creativity and Coherence: Human evaluations employ criteria such as interestingness, logical consistency, originality, and relevance to premise (Bae et al., 2024). Automated evaluations supplement these with pattern coverage, fitness measures, or story graph metrics (Alvarez et al., 2022, Cheng et al., 30 Sep 2025).\n- User Experience: Metrics include expressiveness, enjoyment, immersion, exploration, perceived collaboration, and satisfaction with results—often benchmarked via pairwise comparisons and agreement measures (e.g., Fleiss’ κ) (Bae et al., 2024, Lin et al., 2023).\n- Scalability and Robustness: Architectures like CreAgentive demonstrate persistent high quality across thousands of chapters with minimal degradation, outperforming non-mixed-initiative baselines in both length and quality composite scores (Cheng et al., 30 Sep 2025).\n\nRepresentative empirical findings include:\n\n| System (Stage) | Interestingness | Coherence | Creativity | Consistency | Fleiss’ κ | QLS (Quality–Length Score) |\n| --- | --- | --- | --- | --- | --- | --- |\n| DOC(baseline, plan) | 57.6% | 67.3% | 57.3% | — | 0.23–0.52 | — |\n| CritiCS CRPLAN | 85.0% | 77.9% | 84.3% | — | 0.23–0.52 | — |\n| DOC (baseline, text) | 69.9% | 69.1% | 70.7% | 76.9% | 0.32–0.38 | — |\n| CritiCS CRTEXT | 80.0% | 71.9% | 89.3% | 80.0% | 0.32–0.38 | — |\n| CreAgentive | — | — | — | — | — | 4.78 |\n| Best Baseline (Agents’ Room) | — | — | — | — | — | 4.46 |\n\nHuman studies repeatedly indicate a strong association between adaptive initiative protocols and perceived collaborative satisfaction, learning, and creativity support (Lin et al., 2024, Bae et al., 2024, Lin et al., 2023).",
+  "token_estimate": 384
+}

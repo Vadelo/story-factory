@@ -1,0 +1,36 @@
+{
+  "title": "3 Discussion",
+  "path": "html-2411.12907v1-3-discussion",
+  "url": "https://arxiv.org/html/2411.12907v1",
+  "keywords": [
+    "information-theoretic framework",
+    "narrative dynamics",
+    "plot twists",
+    "quantitative narrative analysis",
+    "cliffhanger quantification",
+    "AI-generated narratives",
+    "systemic bias identification",
+    "viewership predictive modeling",
+    "LLM next token distribution",
+    "storyline future courses",
+    "emotionally complex movies"
+  ],
+  "use_cases": [
+    "Use when developing evaluation benchmarks for AI-generated stories compared to human baselines",
+    "Configure when training recommendation systems to account for narrative complexity and viewer engagement",
+    "Implement when automating the detection of pivotal moments for trailer generation and video summarization",
+    "Use when analyzing narratives for systemic cultural or genre-specific biases using quantitative metrics",
+    "Configure when creating co-creation tools that suggest plot developments or tension adjustments",
+    "Implement when predicting audience retention based on quantified cliffhanger strength"
+  ],
+  "tags": [
+    "data-science",
+    "natural-language-processing",
+    "generative-ai",
+    "content-analysis",
+    "machine-learning"
+  ],
+  "priority": 8,
+  "content": "Our work introduces an information-theoretic framework to capture narratives. We showed how core principles from information theory provide a formal language for understanding story dynamics, and applied them to a real-world data set. Beyond these measures operating on the state of a narrative, we formally introduced metrics for predicted future courses of a storyline.\n\nOur framework provides a foundation for several key areas of interest at the intersection of creativity and AI: For example, our measures offer quantitative metrics for assessing the complexity, unpredictability, and plot twists in stories. The genre-specific patterns observed in TV shows could serve as baselines for evaluating AI-generated stories in different styles. They may also help distinguish between human and AI-generated narratives, potentially revealing characteristic patterns in AI stories. Our metrics may also assists in identifying systemic biases in narratives across genres or cultures – ensuring AI-generated content reflects diverse storytelling traditions. Finally, our framework might assist human and AI co-creators, suggesting plot developments or highlighting areas that may need more tension or surprise to maintain audience engagement.\n\nFor more classical ML applications, our metrics can serve as metadata for viewership analyses and recommendations [19], e.g. differentiating people’s interest for more or less (emotionally) complex movies. One may also investigate how likely people are to watch a next episode of a TV series based on the quantified strength of a cliffhanger. Our metrics could also help both human and AI editors identify crucial and relevant moments, accelerating summary or trailer generation [20]. For example, in summarisation, practicioners highlight pivotal moments. In turn, trailers or previews might want to avoid revealing plot twists.\n\nFuture work should focus on these applications and extend the framework to other modalities like books [7, 21] or even music [22]. For prediction-focused measures, applying (generative) models to capture human intuitions about stories will be a key challenge. An LLM’s next token distribution might be a starting point. Creative professionals’ attitudes towards such quantitative narrative analysis tools should guide further development. In conclusion, we offer a bridge between the creative intuitions of human storytellers and the analytical capabilities of ML, contributing to the ongoing dialogue about how AI can augment and enhance human creativity rather than replace it.\n\nWe would like to thank Franziska Brändle, Peter Dayan, Dante Di Loreto, Tom Hoffman, Kit Thwaite and the Penguin Random House UK data science team for comments and discussions. We are particularly grateful to the RTL NL data science team for support and discussions, especially Mateo Gutierrez Granda, Iskaj Janssen, Prajakta Shouche and Ivan Yovchev. The authors are employees of Bertelsmann SE & Co. KGaA (LS) and RTL Nederland BV (MP, DO).",
+  "token_estimate": 582
+}

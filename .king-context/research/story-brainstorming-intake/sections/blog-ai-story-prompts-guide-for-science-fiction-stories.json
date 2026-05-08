@@ -1,0 +1,30 @@
+{
+  "title": "For Science Fiction Stories",
+  "path": "blog-ai-story-prompts-guide-for-science-fiction-stories",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "prompt engineering",
+    "science fiction prompts",
+    "theme exploration",
+    "narrative hooks",
+    "AI storytelling",
+    "creative writing prompts",
+    "storytelling constraints",
+    "narrative themes",
+    "prompt structure"
+  ],
+  "use_cases": [
+    "Use when drafting science fiction narratives to avoid clichéd tropes",
+    "Implement when designing prompts to elicit specific emotional themes like isolation or duty",
+    "Configure when seeking to generate high-stakes narrative conflict with minimal input",
+    "Use when testing creative writing capabilities of a large language model"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-engineering",
+    "content-generation"
+  ],
+  "priority": 6,
+  "content": "Basic prompt: \"Write a sci-fi story\" Better prompt: \"Colony ship arrives: Earth silent\"\n\nFour words that create immediate questions. Why is Earth silent? What happened during the journey? What do the colonists do now? The AI explored themes of isolation, duty, and hope without being told to include any of those elements.\n\nFind more science fiction prompts that spark imagination without relying on tired tropes.\n\nMore winning sci-fi prompts:\n\n- \"Time loop breaks: consequences arrive\"\n- \"AI therapist gains consciousness mid-session\"\n- \"Parallel universe tourism goes wrong\"",
+  "token_estimate": 115
+}

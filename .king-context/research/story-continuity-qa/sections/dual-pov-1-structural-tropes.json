@@ -1,0 +1,30 @@
+{
+  "title": "1. Structural Tropes",
+  "path": "dual-pov-1-structural-tropes",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "50/50 Alternating Chapters",
+    "Asymmetric Timeframes",
+    "Converging Timelines",
+    "Dramatic Irony Engine",
+    "Point of View (POV)",
+    "Structural Tropes",
+    "Narrative Intersection",
+    "Temporal Pacing"
+  ],
+  "use_cases": [
+    "Use when balancing two protagonist perspectives with equal narrative weight",
+    "Implement when bridging past and present timelines to reveal character history",
+    "Configure when designing a plot where separate storylines must gradually merge",
+    "Use when building tension by providing the reader with information known by only one character"
+  ],
+  "tags": [
+    "narrative-structure",
+    "creative-writing",
+    "literary-devices",
+    "storytelling-frameworks"
+  ],
+  "priority": 8,
+  "content": "- 50/50 Alternating Chapters – Strict back-and-forth (e.g., Will Grayson, Will Grayson by John Green and David Levitahn, The Love Hypothesis by Ali Hazelwood).\n- Asymmetric Timeframes – One POV in the past, one in the present (e.g., The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid).\n- Converging Timelines – Start apart, slowly intersect (e.g., 1Q84 by Haruki Murakami).\n- Dramatic Irony Engine – One POV knows a secret the other doesn’t (e.g., The Silent Patient by Alex Michaelides).",
+  "token_estimate": 107
+}

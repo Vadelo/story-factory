@@ -1,0 +1,33 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2510.18201v1-1-introduction",
+  "url": "https://arxiv.org/html/2510.18201v1",
+  "keywords": [
+    "co-reference resolution",
+    "clustering techniques",
+    "semantic role labeling",
+    "emotion analysis",
+    "character-centric approach",
+    "relation-based character arc",
+    "computational literary studies",
+    "event-driven transformation",
+    "agent vs recipient sentiment",
+    "sentiment shift mapping"
+  ],
+  "use_cases": [
+    "Use when quantifying character development through event-based narrative modeling",
+    "Implement when distinguishing between character sentiment as an actor versus an experiencer",
+    "Configure when extracting social networks and character relationships from literary text",
+    "Use when applying semantic role labeling to identify the function of characters in plot events",
+    "Implement when visualizing fine-grained sentiment arcs for individual narrative entities"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "narrative-analysis",
+    "sentiment-analysis",
+    "computational-linguistics"
+  ],
+  "priority": 10,
+  "content": "Characters in narratives attempt to influence their circumstances to resolve conflict, while circumstance itself shapes the characters with events that develop them [1]. This character journey is integral to narratives [2]; good stories are driven by the transformative journeys of compelling characters. This work addresses the challenge of quantifying these journeys using character arcs modeled around events and relations.\n\nThe field of computational literary studies aims to understand, represent and generate narratives. Existing research has focused on various perspectives, notably plot units [3, 4], social network extraction from narratives [5], and character-centric approaches [6, 7]. This work builds upon the latter to extract characters from narratives using co-reference resolution and clustering techniques. We find inspiration in research exploring events in narratives [8] and argue that the transformation of characters is a consequence of events that involve these characters. We also take advantage of recent advances in semantic role labeling [9] to understand the function of characters in events and build on advancements in emotion analysis [10, 11] to represent how events affect both agent and recipient characters quantitatively.\n\n![Refer to caption](https://arxiv.org/html/pics/frodo-all-unbound-savgol-ann.png)\n\nFigure 1: Relation-Based Character Arc for Frodo Baggins across The Lord of the Rings trilogy. The blue line represents Frodo the actor, and the red line represents Frodo the experiencer. A: Frodo is stabbed by the poisoned blade of the Nazgul at Weathertop (valley). B: Frodo reunites with loved ones at Rivendell (peak). C: Frodo is in grief after the wizard Gandalf falls to a Balrog (valley). D: Frodo is attacked by Shelob in her lair (valley). E: Frodo succeeds in his quest and returns home to The Shire (peak).\n\nOur approach differs from recent work in the closely related field of extracting relationships between characters in terms of goals and linguistic features. Some existing approaches either lack the nuance of emotions [12, 13] or do not leverage semantic role labels for characters [14]. Other approaches fail to utilize fine-grained sentiments [15] or do not share our event-based perspective on relationships [16, 17]. While there has been progress in the field of emotion arcs, it has been centered around plot rather than character, capturing a shift in sentiment rather than a shift in circumstance [18, 19]. To the best of our knowledge, we believe that our task and approach are novel additions to the field.",
+  "token_estimate": 513
+}

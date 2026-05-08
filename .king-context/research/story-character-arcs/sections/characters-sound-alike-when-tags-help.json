@@ -1,0 +1,35 @@
+{
+  "title": "When Tags Help",
+  "path": "characters-sound-alike-when-tags-help",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "dialogue tags",
+    "identification",
+    "pacing",
+    "rhythm",
+    "mid-sentence placement",
+    "invisible verbs",
+    "distinction verbs",
+    "whispered",
+    "snapped",
+    "attribution",
+    "said",
+    "asked"
+  ],
+  "use_cases": [
+    "Use when identifying speakers in multi-character conversations",
+    "Use when adjusting the rhythmic flow and emphasis of a sentence",
+    "Configure when readers need a reminder of who is speaking after several lines",
+    "Implement when specific tone or volume cannot be inferred from context",
+    "Use when maintaining narrative invisibility by utilizing standard attribution verbs"
+  ],
+  "tags": [
+    "writing-style",
+    "dialogue-structure",
+    "narrative-pacing",
+    "readability"
+  ],
+  "priority": 8,
+  "content": "Tags serve two functions: identification and pacing.\n\nIdentification matters in conversations with more than two people, or when you’ve gone several lines without reminding readers who’s speaking.\n\nPacing comes from where you place the tag.\n\n“I don’t believe you,” she said. She said, “I don’t believe you.” “I don’t,” she said, “believe you.”\n\nSame words. Different rhythms. The middle placement creates a pause that emphasizes what follows.\n\nUse “said” and “asked” for 90% of tags. They’re invisible. Readers skip past them. Fancy verbs (“exclaimed,” “interjected,” “queried”) draw attention to the author’s vocabulary instead of the characters’ words.\n\nSave distinctive verbs for when they do real work. “Whispered” tells us volume. “Snapped” tells us tone that might not be clear from context. “Queried” just sounds pretentious.",
+  "token_estimate": 166
+}

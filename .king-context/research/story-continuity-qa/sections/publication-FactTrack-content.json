@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "path": "publication-FactTrack-content",
+  "url": "https://cogito233.github.io/publication/FactTrack",
+  "keywords": [
+    "FactTrack",
+    "Time-Aware World State Tracking",
+    "Temporal Fact Tracking",
+    "Story Outlines",
+    "Atomic Facts",
+    "Contradiction Detection",
+    "Inner-Plot Factual Consistency",
+    "Narrative Timeline",
+    "Dynamic World States",
+    "NAACL 2025"
+  ],
+  "use_cases": [
+    "Implement when checking for factual consistency within complex narrative structures",
+    "Use when tracking evolving world states across a chronological story timeline",
+    "Configure when automating the detection of plot contradictions in story outlines",
+    "Use when decomposing high-level narratives into verifiable atomic facts"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "consistency-checking",
+    "narrative-analysis",
+    "artificial-intelligence"
+  ],
+  "priority": 9,
+  "content": "FACTTRACK: Time-Aware World State Tracking in Story Outlines - Zhiheng Lyu\n\n# FACTTRACK: Time-Aware World State Tracking in Story Outlines\n\nPublished in NAACL 2025 (Oral), 2025\n\nRecommended citation: Lyu, Z., Yang, K., Kong, L., & Klein, D. (2025). FACTTRACK: Time-Aware World State Tracking in Story Outlines. NAACL 2025. https://arxiv.org/abs/placeholder\n\nWe propose FactTrack, an algorithm that decomposes complex narratives into atomic facts and models dynamic world states for contradiction detection. This work addresses the challenging problem of inner-plot factual consistency checking and temporal fact tracking in narrative structures like story outlines.\n\nThe key innovation is our temporal fact tracking mechanism that maintains a dynamic world state throughout the narrative timeline, enabling detection of contradictions that emerge from the evolving story context.\n\nRecommended citation:\n\n```\n@inproceedings{lyu2025facttrack,\n  title={FACTTRACK: Time-Aware World State Tracking in Story Outlines},\n  author={Lyu, Zhiheng and Yang, Kevin and Kong, Lingpeng and Klein, Dan},\n  booktitle={Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics},\n  year={2025}\n}\n\n```\n\n#### Share on",
+  "token_estimate": 219
+}

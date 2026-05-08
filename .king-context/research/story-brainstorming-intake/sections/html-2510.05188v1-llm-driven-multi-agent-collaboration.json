@@ -1,0 +1,36 @@
+{
+  "title": "LLM-driven Multi-agent Collaboration",
+  "path": "html-2510.05188v1-llm-driven-multi-agent-collaboration",
+  "url": "https://arxiv.org/html/2510.05188v1",
+  "keywords": [
+    "Dramaturge",
+    "multi-agent collaboration",
+    "divide-and-conquer",
+    "structural refinement",
+    "S_0",
+    "T_max",
+    "theta",
+    "N_max",
+    "local-global coordination",
+    "collaborative deliberation",
+    "persona-driven frameworks",
+    "narrative script refinement"
+  ],
+  "use_cases": [
+    "Implement when coordinating local narrative modifications with global story consistency",
+    "Use when applying divide-and-conquer strategies for complex content creation tasks",
+    "Configure when setting iteration stopping thresholds and retry limits for agentic workflows",
+    "Apply when using multi-agent debate mechanisms to enhance factual reasoning",
+    "Integrate when building hierarchical or sequential chains of LLM agents for long-context processing"
+  ],
+  "tags": [
+    "multi-agent-systems",
+    "content-generation",
+    "algorithm-design",
+    "llm-orchestration",
+    "benchmarking"
+  ],
+  "priority": 10,
+  "content": "Recent work shows that collaborative LLM agents exhibit superior cognitive and reasoning capabilities over individual LLMs in complex tasks, and multi-agent collaboration has been widely applied to content creation (Zhang et al. 2024b; Durante et al. 2024; Guo et al. 2024; Xi et al. 2025; Qian et al. 2025). CAMEL (Li et al. 2023) proposes a communicative agent framework to study collaborative behaviors and multi-agent interactions. ChatDev (Qian et al. 2024) creates virtual companies where agents play professional roles to solve complex tasks through collaboration. AutoAgents (Chen et al. 2024a) develops an automatic agent generation framework to dynamically create and coordinate specialized agents based on task requirements. STORM (Shao et al. 2024) introduces a multi-agent writing system that synthesizes topic outlines through retrieval and multi-perspective question asking to generate long-form articles. Agents’ Room (Huot et al. 2025) consider story generation as a multi-step collaboration problem, proposing planning and writing agents to achieve enhanced story coherence. Chain of Agents (Zhang et al. 2024a) addresses long-context processing challenges by distributing tasks across multiple LLM agents in a sequential chain for improved efficiency and accuracy. Du et al. (Du et al. 2023) show that multi-agent debate mechanisms enhance factuality and reasoning capabilities in language models through collaborative deliberation processes. A multi-agent framework (Du et al. 2023) enhances factuality and reasoning in language models via collaborative deliberation. Debate-to-Write (Hu et al. 2025) introduces persona-driven multi-agent frameworks for diverse argument generation, enabling more comprehensive perspective coverage. AgentCoord (Pan et al. 2024) provides visual exploration tools for understanding and optimizing coordination strategies in LLM-based multi-agent systems.\n\nExisting work primarily adopts role-playing and collaboration to simplify complex tasks; however, in our task, it remains challenging to coordinate local modifications with the global narrative. We leverage the logical reasoning power of multi-agent LLMs to implement divide-and-conquer strategies along both task and feature dimensions, enabling coordinated revisions across multiple granularities and locations.\n\nAlgorithm 1 Dramaturge: Divide-and-Conquer Script Refinement Process\n\nInput: Initial Script S0S_{0}, max iterations Tm​a​xT_{max}, iteration stopping threshold θ\\theta, max retries Nm​a​xN_{max} Output: Refined script SS\n\n1:i←0i\\leftarrow 0, Si←S0S_{i}\\leftarrow S_{0}, p​h​a​s​e←structural refinementphase\\leftarrow\\text{structural refinement}, Rm​a​x←3R_{max}\\leftarrow 3\n\n2:while i 3, so we set the maximum retry count to N=3 for efficiency and cost considerations. For evaluation, we set temperature = 0 to obtain more stable and consistent evaluation results.\n\n#### Dataset\n\nTo facilitate a comprehensive and balanced evaluation, we constructed a dataset of 50 narrative scripts across five genres, evenly sourced from five representative works, with a mix of human-written and AI-generated scripts. The dataset is constructed from the following work:\n\n•\n\nWritingprompts (Fan, Lewis, and Dauphin 2018): A collection of creative stories from the Reddit community.\n\n•\n\nDramatron (Mirowski et al. 2023): High-quality generated scripts using a hierarchical generation strategy.\n\n•\n\nDOC (Yang et al. 2023): Long stories generated using a two-stage outline control strategy.\n\n•\n\nMoPS (Ma, Qiao, and Liu 2024): Generated scripts leveraging Well-crafted modular premise synthesis.\n\n•\n\nAgents’ Room (Huot et al. 2025): High-quality stories collected through collaborative writing.\n\nThe detailed statistics of the experimental datasets are provided in Appendix F.",
+  "token_estimate": 671
+}

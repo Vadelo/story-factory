@@ -1,0 +1,32 @@
+{
+  "title": "Why This System Exists",
+  "path": "blog-why-i-built-rag-memory-system-why-this-system-exists",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "RAG",
+    "semantic search",
+    "continuity",
+    "Author Notes",
+    "RAG depth",
+    "summary grid",
+    "memory loss",
+    "long-form fiction",
+    "MiniMe STT"
+  ],
+  "use_cases": [
+    "Use when AI-generated stories begin to lose continuity due to length",
+    "Configure when writing long-form fiction exceeding 15,000 words",
+    "Implement when editing major plot sections to refresh story context",
+    "Configure when tracking many simultaneous plot threads by increasing RAG depth",
+    "Use when specific character details or world-building require persistent enforcement"
+  ],
+  "tags": [
+    "RAG",
+    "context-management",
+    "best-practices",
+    "long-form-writing"
+  ],
+  "priority": 10,
+  "content": "The RAG system in AI Story Stream solves the fundamental problem I encountered when I first started writing with AI: memory loss.\n\nWithout it, AI-generated stories fall apart as they grow longer. With it, you can write long-form fiction without the AI forgetting what happened in earlier chapters.\n\nThe system is designed to be automatic and efficient. You summarize periodically, the semantic search retrieves relevant context, and the AI writes with continuity.\n\nBest practices:\n\n- Summarize when you see the yellow warning (around 15,000 to 20,000 words) or after have edited the text.\n- Check the summary grid periodically to ensure coverage\n- If editing major sections, reset summaries and regenerate them afterward\n- Increase RAG depth to 7 to 10 for complex stories with many plot threads\n- Use Author Notes to maintain character consistency and world-building details\n\nThe RAG system is one of the reasons AI Story Stream can handle long-form fiction better than general-purpose AI writing tools. It was built specifically for authors who need reliable continuity across tens of thousands of words.\n\nIf you've ever struggled with AI forgetting your story as it grows longer, this is the solution I built.\n\n---\n\nWant to see how the RAG system handles your long-form fiction? Download the 14-day free trial at aistorystream.com/aistorystream/download\n\n— Dictated with MiniMe STT: AiStoryStream App Suite has its own MinimeSTT built-in.",
+  "token_estimate": 301
+}

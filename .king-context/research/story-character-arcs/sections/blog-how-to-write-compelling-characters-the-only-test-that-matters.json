@@ -1,0 +1,35 @@
+{
+  "title": "The Only Test That Matters",
+  "path": "blog-how-to-write-compelling-characters-the-only-test-that-matters",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "Auto Story Bible",
+    "BlurbBio",
+    "protagonist psychology",
+    "internal logic",
+    "character arc progression",
+    "misbelief",
+    "wound",
+    "ghost",
+    "want",
+    "need",
+    "character-driven plotting",
+    "narrative architecture"
+  ],
+  "use_cases": [
+    "Use when validating if a protagonist's action is motivated by character psychology rather than plot necessity",
+    "Implement when setting up foundational character conflicts including the wound, misbelief, and ghost",
+    "Configure when using BlurbBio to flag contradictions in established character behavior or physical descriptions",
+    "Use when drafting dialogue to ensure it reflects the character's internal tensions and underlying needs",
+    "Configure when mapping the chapter-by-chapter arc progression to ensure narrative authenticity"
+  ],
+  "tags": [
+    "creative-writing",
+    "feature-guide",
+    "character-development",
+    "automated-validation"
+  ],
+  "priority": 10,
+  "content": "At every plot turning point, ask: is the protagonist's choice driven by their established psychology, or by the plot's requirement for them to be somewhere?\n\nIf the answer is \"plot requirement,\" the architecture hasn't been built firmly enough. Readers leave books when protagonists stop making decisions and become vehicles for events that happen to them.\n\nThe wound creates the misbelief. The misbelief drives the want. The want conflicts with the need. The ghost reminds them of the cost of staying the same. The arc is the story of what happens when those forces collide with the world.\n\nAll other characterisation — dialogue, physical description, relationships, habits, tics — flows from this foundation and feels authentic precisely because of it. The foundation isn't visible to readers. The authenticity it produces is.\n\nBlurbBio's Auto Story Bible tracks every character's established details as you write — physical descriptions, relationship states, psychological notes, chapter-by-chapter arc progression. When a new scene contradicts a character's established behaviour or physical description, BlurbBio flags it before it reaches a reader.\n\n---\n\nSee also: Show Don't Tell: The Complete Guide· How to Build a Story Bible\n\nVoice Comparison\n\nElizabeth Bennet — Pride and PrejudiceDistinctiveness: 94%\n\n\"I could easily forgive his pride, if he had not mortified mine.\"\n\nThe wound is feeling undervalued by the people around her. The misbelief is that she can read character accurately, without bias. The irony of this line — she is demonstrating the bias she thinks she lacks — is only possible because Austen knows the character's wound precisely.\n\nAtticus Finch — To Kill a MockingbirdDistinctiveness: 91%\n\n\"You never really understand a person until you consider things from his point of view — until you climb into his skin and walk around in it.\"\n\nWant: to defend Tom Robinson. Need: to model moral courage for his children in a town that will punish it. The ghost is raising children alone in a community that resists everything he values. Every line of dialogue is shaped by these three tensions simultaneously.\n\n\"\n\nReaders don't need to like a character. They need to understand the internal logic that makes every decision that character makes feel inevitable — given who they are and what they've been through.",
+  "token_estimate": 490
+}

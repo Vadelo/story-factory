@@ -1,0 +1,31 @@
+{
+  "title": "The Character Bible",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-the-character-bible",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "character bible",
+    "static details",
+    "dynamic details",
+    "backstory events",
+    "knowledge state",
+    "active goals",
+    "database tracking",
+    "emotional state",
+    "living document"
+  ],
+  "use_cases": [
+    "Implement when managing character consistency across a long-term series",
+    "Use when tracking character evolution and dynamic detail updates between installments",
+    "Configure when establishing a baseline of physical descriptions and family history",
+    "Use when auditing a character's knowledge state to avoid logic gaps in narrative"
+  ],
+  "tags": [
+    "content-creation",
+    "narrative-design",
+    "documentation-standards",
+    "world-building"
+  ],
+  "priority": 9,
+  "content": "At the heart of every consistent series is a character bible — a living document (or database) that captures every established detail about every character. This is different from a general story bible; it's specifically focused on character data.\n\nYour character bible should include:\n\nStatic details (things that don't change): - Physical description - Backstory events - Family history - Birth date, birthplace\n\nDynamic details (things that evolve book to book): - Current emotional state - Relationship status with other characters - Knowledge state (what they know, what they don't) - Skills and abilities - Active goals and motivations\n\nUpdate the dynamic section after each book. That way, when you start writing the next installment, you have an accurate snapshot of every character's current state.",
+  "token_estimate": 166
+}

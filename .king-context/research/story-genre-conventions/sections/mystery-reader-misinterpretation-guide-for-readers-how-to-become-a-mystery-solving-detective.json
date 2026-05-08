@@ -1,0 +1,28 @@
+{
+  "title": "For Readers: How to Become a Mystery-Solving Detective",
+  "path": "mystery-reader-misinterpretation-guide-for-readers-how-to-become-a-mystery-solving-detective",
+  "url": "https://www.jeanneriedelbooks.com/mystery-reader-misinterpretation-guide/",
+  "keywords": [
+    "red herring",
+    "clue analysis",
+    "character motives",
+    "timeline tracking",
+    "evidence evaluation",
+    "deductive reasoning",
+    "suspense mechanics"
+  ],
+  "use_cases": [
+    "Use when analyzing fictional narratives for hidden plot points",
+    "Implement when tracking character development and potential misdirection",
+    "Configure when documenting chronological events to identify logical gaps",
+    "Use when distinguishing between primary evidence and secondary distractions"
+  ],
+  "tags": [
+    "literary-analysis",
+    "critical-thinking",
+    "reader-guide"
+  ],
+  "priority": 8,
+  "content": "1. Question Everything: Treat every clue, alibi, and statement with gentle suspicion. Ask yourself: “Could this mean something else?”\n2. Take Notes: Jot down clues, timelines, and character motives. Seeing them on paper can help separate solid evidence from emotional reactions.\n3. Watch for “Easy Answers”: If the story seems to be pointing very strongly at one person in the first half, it might be a red herring. Ask, “Who benefits from me suspecting this character?”\n4. Re-evaluate Characters: Periodically question your assumptions about each character. Has the “nice” one ever been alone at a key moment? Does the “angry” one have a point that everyone is ignoring?\n5. Enjoy the Ride: Don’t get so caught up in solving it that you forget to enjoy the atmosphere, the characters, and the suspense. The best misinterpretation makes the journey fun, even when you’re being fooled.",
+  "token_estimate": 191
+}

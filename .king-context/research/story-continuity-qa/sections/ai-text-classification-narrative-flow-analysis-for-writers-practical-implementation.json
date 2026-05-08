@@ -1,0 +1,33 @@
+{
+  "title": "Practical Implementation",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-practical-implementation",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "JSON narrative structure",
+    "weighted edges",
+    "graph algorithms",
+    "betweenness centrality",
+    "community detection",
+    "transition probabilities",
+    "narrative tension mapping",
+    "spectral plot",
+    "subplot structures",
+    "directed graph"
+  ],
+  "use_cases": [
+    "Use when representing narrative structures as computational graph models",
+    "Implement when using graph algorithms to identify pivotal plot points",
+    "Configure when mapping tension levels across specific story nodes",
+    "Use when analyzing subplot emergence through community detection algorithms",
+    "Configure when visualizing transition probabilities between narrative events"
+  ],
+  "tags": [
+    "computational-narrative",
+    "data-structures",
+    "structural-analysis",
+    "graph-theory"
+  ],
+  "priority": 8,
+  "content": "For computational analysis, narrative structures can be represented as JSON with weighted edges:\n\nCopy\n\n```\n{\n    \"nodes\": [\n        {\"id\": \"inciting_incident\", \"tension\": 0.7},\n        {\"id\": \"first_plot_point\", \"tension\": 0.5}\n    ],\n    \"edges\": [\n        {\"source\": \"inciting_incident\", \n         \"target\": \"first_plot_point\",\n         \"weight\": 0.8}\n    ]\n}\n```\n\nThis representation enables graph algorithms for structural analysis, such as betweenness centrality to identify pivotal plot points or community detection to reveal subplot structures.\n\n![Structural Analysis: Plot and Pacing – Narrative Flow Analysis for Writers – Tutorial Diagram](https://next.gr/uploads/ai-tut-images/2197_2_1.png \"Structural Analysis: Plot and Pacing – Narrative Flow Analysis for Writers – Tutorial Diagram\")\n\nDiagram Description: The diagram would physically show a directed graph of plot points with labeled edges representing transition probabilities, and a spectral plot of narrative tension frequencies.",
+  "token_estimate": 155
+}

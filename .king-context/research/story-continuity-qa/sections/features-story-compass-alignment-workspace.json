@@ -1,0 +1,33 @@
+{
+  "title": "Story Compass™ Alignment Workspace",
+  "path": "features-story-compass-alignment-workspace",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Story Compass™",
+    "PlotForge",
+    "Three-Point Anchor",
+    "Creative Core",
+    "Character Compass",
+    "Story Beats",
+    "Scene Surgery",
+    "World Rules",
+    "Themes & Symbols",
+    "Context block"
+  ],
+  "use_cases": [
+    "Configure when establishing foundational story elements like theme, conflict, and ending emotion",
+    "Implement when using AI outline generation to ensure genre-safe structure",
+    "Use when performing Scene Surgery or draft refinement to maintain character consistency",
+    "Configure when collaborating with co-authors to establish a shared creative brief",
+    "Implement when using AI Chat to provide specific context on world lore and constraints"
+  ],
+  "tags": [
+    "configuration",
+    "AI-integration",
+    "content-strategy",
+    "collaboration"
+  ],
+  "priority": 10,
+  "content": "Capture your theme, protagonist promise, central conflict, world rules, symbolism, and target ending emotion once. PlotForge references the Story Compass inside outline generation, Scene Surgery, draft refinement, AI chat, and even manual note-taking so your entire project stays consistent.\n\n#### Compass Sections\n\n- Three-Point Anchor: Theme, core conflict, ending emotion\n- Creative Core: World-in-one-sentence + series premise\n- Character Compass: Protagonist, antagonist, supporting cast goals\n- Story Beats: Inciting incident, midpoint shift, climax, resolution\n- World Rules: Culture, history, non-negotiable lore\n- Themes & Symbols: Motifs you want AI to repeat\n\n#### Where Story Compass Is Used\n\n- AI Outline & AI from My Data: Prompts include your compass for genre-safe structure\n- Draft Chapter & Scene Surgery: Editing instructions respect your tone/ending goals\n- AI Chat: Context block reminds the model about themes, hooks, and constraints\n- Manual Workflow: Writers reference the compass while plotting to stay consistent\n- Team Collaboration: Share the compass with co-authors or editors as a one-page brief\n\nKey Takeaway\n\nTurn vague vibes into a controlled brief. Story Compass acts like a creative director for everything you (or AI) generate.\n\n🆕 NEW FEATURE",
+  "token_estimate": 250
+}

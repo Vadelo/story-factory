@@ -1,0 +1,31 @@
+{
+  "title": "The Numbers Behind the Problem",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-numbers-behind-the-problem",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Story Bible",
+    "continuity tracking",
+    "Sudowrite",
+    "AI writing tools",
+    "long-form writing",
+    "context maintenance",
+    "Authors Guild Survey",
+    "plot hole prevention",
+    "phrasing alternatives"
+  ],
+  "use_cases": [
+    "Use when evaluating the impact of AI on professional fiction writing efficiency",
+    "Implement when explaining the importance of session memory in creative AI workflows",
+    "Configure when setting up Story Bible features to maintain narrative context",
+    "Use when addressing common friction points like repetitive phrasing in long-form drafts"
+  ],
+  "tags": [
+    "case-study",
+    "performance-metrics",
+    "ai-best-practices",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "According to the Authors Guild Survey, 67% of professional novelists now use AI writing tools. But here's the catch: most of those tools have no memory between sessions. The Publishing Perspectives Study found fiction writers using AI complete first drafts 40% faster on average, but speed without continuity tracking just means you're creating plot holes faster. Data from Sudowrite shows 86% of users say Story Bible features helped them overcome plot problems specifically because the AI maintains context the writer provides.\n\n> \"One of the best features of Sudowrite is how it gives you alternatives for phrasing, which helps avoid the repetition that often creeps into long-form writing.\"— Francisco, Fiction Writer & Dungeon Master",
+  "token_estimate": 151
+}

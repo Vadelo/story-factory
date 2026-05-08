@@ -1,0 +1,33 @@
+{
+  "title": "Submission history",
+  "path": "abs-2503.22828-submission-history",
+  "url": "https://www.arxiv.org/abs/2503.22828",
+  "keywords": [
+    "cs.CL",
+    "BibTeX",
+    "TeX Source",
+    "submission history",
+    "v1",
+    "v2",
+    "PDF",
+    "HTML experimental",
+    "view license",
+    "browse context"
+  ],
+  "use_cases": [
+    "Use when tracking document revision history over time",
+    "Implement when exporting metadata via BibTeX",
+    "Configure when navigating disciplinary browse contexts like cs.CL",
+    "Use when downloading source files in TeX format",
+    "Use when verifying Creative Commons licensing terms"
+  ],
+  "tags": [
+    "versioning",
+    "metadata",
+    "publication-history",
+    "citation"
+  ],
+  "priority": 8,
+  "content": "From: Alexander Gurung [view email] [v1] Fri, 28 Mar 2025 18:48:26 UTC (3,005 KB) [v2] Mon, 8 Sep 2025 02:43:27 UTC (1,839 KB)\n\n \n\nFull-text links:\n\n- View PDF\n- HTML (experimental)\n- TeX Source\n\n![license icon](https://arxiv.org/icons/licenses/by-4.0.png)\n\nview license\n\n \n\nCurrent browse context:\n\ncs.CL\n\n< prev| next >\n\nnew| recent| 2025-03\n\nChange to browse by:\n\ncs\n\n- Google Scholar\n- Semantic Scholar\n\nexport BibTeX citation",
+  "token_estimate": 83
+}

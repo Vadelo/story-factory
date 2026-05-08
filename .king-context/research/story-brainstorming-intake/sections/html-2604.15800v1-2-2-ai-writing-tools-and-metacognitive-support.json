@@ -1,0 +1,35 @@
+{
+  "title": "2.2 AI Writing Tools and Metacognitive Support",
+  "path": "html-2604.15800v1-2-2-ai-writing-tools-and-metacognitive-support",
+  "url": "https://arxiv.org/html/2604.15800v1",
+  "keywords": [
+    "metacognitive support",
+    "goal-text alignment",
+    "VISAR",
+    "Friction",
+    "ALure",
+    "reverse outlining",
+    "self-regulated learning",
+    "cognitive load",
+    "formative study",
+    "WriteFlow",
+    "hierarchical goal structures",
+    "iterative goal setting"
+  ],
+  "use_cases": [
+    "Use when designing AI writing interfaces that require hierarchical planning and goal organization",
+    "Implement when developing scaffolding for self-regulated learning and metacognitive reflection during drafting",
+    "Configure when real-time feedback is needed to prevent goal drift in AI-assisted writing",
+    "Use when assessing the impact of continuous in-action feedback versus post-hoc evaluation",
+    "Implement when creating tools for reverse outlining to compare written text against intended structures"
+  ],
+  "tags": [
+    "AI-assisted writing",
+    "metacognition",
+    "user-interface-design",
+    "academic-research"
+  ],
+  "priority": 8,
+  "content": "Recent AI writing tools have increasingly incorporated support for metacognitive processes during academic writing. Systems such as VISAR [29] enable writers to construct hierarchical goal structures during the planning phase, helping them articulate and organize content goals before drafting begins, though research indicates such interfaces can increase cognitive load [18]. Other tools focus on supporting metacognitive reflection during revision and feedback stages. Friction [28] helps writers formulate actionable revision goals when editing existing drafts, while ALure [16] scaffolds self-regulated learning through structured prompts that encourage writers to reflect on their strategies and progress. Reverse outlining approaches [7] enable retrospective assessment of whether written text aligns with intended structure, promoting reflective revision. Research on feedback timing suggests that continuous, in-action feedback better supports learning than post-hoc evaluation alone [14, 8], though such approaches also risk fostering dependency if not carefully designed.\n\nDespite these advances in metacognitive support in planning and revision stages, existing tools do not help writers track the evolving relationship between their stated goals and emerging text during the drafting process itself. Writers lack explicit mechanisms to notice when drift occurs, i.e., when the text being produced no longer serves the goals originally intended. This gap is particularly acute in AI-assisted writing contexts, where generated content may subtly pull writers away from their intentions without them recognizing the misalignment until substantial revision is required. Writers need support not only for setting goals (planning tools) and evaluating completed text (revision tools), but also for maintaining awareness of goal-text alignment throughout drafting, enabling them to decide whether to realign their text with original goals or intentionally revise those goals in light of emerging insights.\n\nAddressing this gap, we present empirical findings on how an AI-based writing assistant can be designed to support metacognitive scaffolding through iterative goal setting and monitoring. This study consists of (1) a formative study informing the co-design of WriteFlow and (2) an expert user evaluation.",
+  "token_estimate": 422
+}

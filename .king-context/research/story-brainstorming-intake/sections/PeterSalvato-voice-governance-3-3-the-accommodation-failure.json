@@ -1,0 +1,31 @@
+{
+  "title": "3.3 The Accommodation Failure",
+  "path": "PeterSalvato-voice-governance-3-3-the-accommodation-failure",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "Generate-then-filter",
+    "Post-hoc voice correction",
+    "Scaffolding",
+    "Production constraints",
+    "Processing limitations",
+    "Accommodation failure",
+    "Output architecture",
+    "Point of production",
+    "Success criteria"
+  ],
+  "use_cases": [
+    "Configure when defining generation strategies to avoid inefficient filtering loops",
+    "Implement when designing system prompts to provide up-front scaffolding",
+    "Use when evaluating why iterative correction cycles are failing to produce quality output",
+    "Configure when architectural constraints must be applied at the initiation of a task"
+  ],
+  "tags": [
+    "best-practices",
+    "prompt-engineering",
+    "architecture-design",
+    "instructional-design"
+  ],
+  "priority": 8,
+  "content": "Generate-then-filter is the equivalent of giving a student a compound task, letting them attempt it without scaffolding, and then correcting their work after they fail.\n\nA teacher working with a student who has processing limitations does not say: \"Write an essay. I will tell you what is wrong after you are done.\" The teacher scaffolds the production: provide the structure, constrain the approach, define success criteria before the work begins. The accommodation happens at the point of production, not at the point of review.\n\nPost-hoc voice correction is post-hoc accommodation. It doesn't work for the same reason post-hoc instruction doesn't work: the processing that produced the output already happened with the wrong architecture. Fixing the output doesn't fix the process.",
+  "token_estimate": 159
+}

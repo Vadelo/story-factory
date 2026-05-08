@@ -1,0 +1,31 @@
+{
+  "title": "Quick start",
+  "path": "aihxp-scriven-quick-start",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "npx scriven-cli@latest",
+    "/scr-next",
+    "/scr-new-work",
+    "/scr-demo",
+    "/scr-help",
+    "Claude Code",
+    "Codex skills",
+    "$scr-next",
+    "slash-command runtimes",
+    "Proof Artifacts"
+  ],
+  "use_cases": [
+    "Use when setting up a fresh project for the first time",
+    "Use when seeking automated guidance on the next logical workflow step",
+    "Configure when bridging CLI commands to Codex skills",
+    "Implement when exploring pre-built sample projects in Claude Code"
+  ],
+  "tags": [
+    "getting-started",
+    "cli-reference",
+    "workflow-automation"
+  ],
+  "priority": 10,
+  "content": "```bash\n# Install\nnpx scriven-cli@latest\n\n# In Claude Code:\n/scr-new-work        # Start a fresh project\n/scr-demo            # Explore a pre-built sample first\n/scr-next            # The universal \"what should I do now\" command\n/scr-help            # See what's available for your work type\n\n# Other slash-command runtimes currently keep /scr:*:\n/scr:new-work\n/scr:next\n\n# In Codex, use the generated $scr-* skills:\n$scr-new-work\n$scr-demo\n$scr-next\n$scr-help\n```\n\nIf you only ever type `/scr-next` in Claude Code, you can complete an entire novel. It always knows what's next.\n\nIf you want the shortest proof-first route, read [Proof Artifacts](docs/proof-artifacts.md) before exploring the rest of the docs.\n\n---",
+  "token_estimate": 134
+}

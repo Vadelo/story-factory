@@ -1,0 +1,31 @@
+{
+  "title": "3. Add Conflict to Every Scene",
+  "path": "character-agency-3-add-conflict-to-every-scene",
+  "url": "https://www.helpingwritersbecomeauthors.com/character-agency/",
+  "keywords": [
+    "scene goal",
+    "conflict resolution",
+    "character objective",
+    "internal objective",
+    "protagonist reaction",
+    "plot roadmap",
+    "ethical dilemma",
+    "decision-making hooks",
+    "scene architecture"
+  ],
+  "use_cases": [
+    "Use when a scene lacks narrative tension or feels too easy for the character",
+    "Implement when you need to force a character to reveal their true nature through choice",
+    "Configure when bridging the gap between a scene goal and the story's overall objective",
+    "Use when the protagonist requires a catalyst to deviate from their ethical baseline"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-development",
+    "creative-writing",
+    "plot-mapping"
+  ],
+  "priority": 9,
+  "content": "Once you know your character’s scene goal and you’re sure it belongs on the roadmap to the overall objective, add conflict that makes it harder to get there. Conflict makes things interesting, yes, but it also requires a response.\n\nIn our scene where the cop needs to interview a suspect, maybe the guy asks for a lawyer, which will make it difficult to get answers. How does the protagonist react—does he try to convince the suspect he doesn’t need legal representation? Use force to coerce him? Bug the guy’s briefcase so he can get the information (illegally) without an interview?\n\nEvery scene needs conflict because it provides opportunities for the character to go one direction or another. The decision to use physical force or blackmail could get the cop his answers, but if he’s trying to turn over a new leaf and act ethically, it could push him farther from that internal objective—something he’ll have to address in later scenes. However he responds to the conflicts that arise, he’s choosing, and those choices will help determine his fate.",
+  "token_estimate": 236
+}

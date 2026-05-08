@@ -1,0 +1,33 @@
+{
+  "title": "Timelines That Multiply",
+  "path": "blog-series-bible-timelines-that-multiply",
+  "url": "https://www.bindercraft.net/blog/series-bible",
+  "keywords": [
+    "master timeline",
+    "series bible",
+    "internal consistency",
+    "Aeon Timeline",
+    "real-world references",
+    "granular tracking",
+    "fictional calendars",
+    "story-time elapsed",
+    "character aging",
+    "sequential continuity"
+  ],
+  "use_cases": [
+    "Use when managing chronology across a multi-part book series",
+    "Implement when tracking character ages to ensure consistent aging over multiple volumes",
+    "Configure when aligning fictional events with real-world historical dates",
+    "Use when developing internal calendars for speculative fiction settings",
+    "Configure when bridging time gaps between the end of one book and the start of another"
+  ],
+  "tags": [
+    "world-building",
+    "structural-editing",
+    "series-management",
+    "continuity"
+  ],
+  "priority": 8,
+  "content": "If timelines are tricky in a standalone novel, they're a slow-motion disaster in a series. Does Book 2 begin the day after Book 1 ends, or six months later? If characters age, has the aging stayed consistent? If someone was thirty-two in Book 1 and three years have passed in the story's timeline, are they thirty-five in Book 4, or did you accidentally make them thirty-six because you forgot to account for the fact that Book 3 covered only a few weeks?\n\nThe most common timeline error in series fiction is what you might call the \"how long ago\" trap. In Book 1, a character says the war ended fifteen years ago. Two books later, with about three years of story time elapsed, another character says the war ended twenty years ago. That arithmetic doesn't work, but it sounds plausible enough in context that the author, the beta readers, and sometimes even the editor miss it. Readers doing a series reread don't miss it.\n\nReal-world references compound the problem. If your series is set in the contemporary world and you mention that a character graduated college in 2015, that pins their age to a specific number that has to track across every subsequent book. If your series is set over a span of five years and you reference a real event, the timeline of real history has to match your fictional timeline. Fantasy and sci-fi authors dodge this particular bullet, but they create a different version of the same problem: fictional calendars, fictional seasons, and moon phases that have to stay internally consistent.\n\nThe practical solution is a master timeline that sits alongside your series bible. Not a vague sense of \"about five years pass.\" An actual timeline with markers for each book's beginning and end, major events plotted against it, and a running tally of how much time has elapsed since the series began. Some authors do this in a spreadsheet. Others use a dedicated timeline tool like Aeon Timeline. One author commenting on Nathan Bransford's blog described using an Excel sheet with character names on the vertical axis and years on the horizontal, highlighting cells to track birth, death, and key events. For a series spanning decades of story time or multiple points of view, that kind of visual tracking can catch errors that a prose document never will.\n\nThe key is to make the timeline granular enough that you can answer the question \"what season is it?\" at any point in any book, but not so granular that maintaining it becomes its own full-time occupation. Track the markers you actually reference. If you never mention the weather or the time of year, you don't need to track seasons. If your story is deeply tied to seasonal rhythms, you do.",
+  "token_estimate": 614
+}

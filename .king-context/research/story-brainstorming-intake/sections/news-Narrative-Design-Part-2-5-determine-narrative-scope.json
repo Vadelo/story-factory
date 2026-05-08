@@ -1,0 +1,33 @@
+{
+  "title": "5. Determine Narrative Scope",
+  "path": "news-Narrative-Design-Part-2-5-determine-narrative-scope",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "narrative scope",
+    "localization",
+    "live service game",
+    "voice-over recording",
+    "branching quests",
+    "cinematic narrative",
+    "content generation",
+    "development budget",
+    "asset creation",
+    "environmental storytelling"
+  ],
+  "use_cases": [
+    "Configure when defining the initial scope of a game's narrative design",
+    "Use when calculating the impact of localization requirements on writing budget",
+    "Implement when aligning narrative complexity with available development team size",
+    "Use when deciding between a single-player cinematic experience versus a live service model",
+    "Configure when assessing technical feasibility for large-scale assets like animations and mechanics"
+  ],
+  "tags": [
+    "narrative-design",
+    "project-planning",
+    "resource-management",
+    "game-development"
+  ],
+  "priority": 8,
+  "content": "Here, we break down how much narrative is needed. There is a vast difference in scope between something like Cosmorons, which focuses on environmental and supplemental narrative and has a very small development team, and AAA open-world adventures with hundreds of branching quests.\n\n- What is the budget and timeline? What is your team size?\n- How much content must be generated? What type?\n- Is this a live service game with ongoing content creation? Is this a single-player cinematic narrative?\n- Will localization be necessary (are you translating it to other languages)?\n\nBudget and time impact how much you can write, how many assets and mechanics are created, the size of the world, the number of levels or animations, team size, the possibility of voice-over recording, how much text can be translated, etc. Yes, it would be awesome to include that dragon, but who the heck is going to animate it, concept it, and create a flying mechanic for it?",
+  "token_estimate": 214
+}

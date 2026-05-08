@@ -1,0 +1,32 @@
+{
+  "title": "Building Your Ghost Writer Protocol",
+  "path": "the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice-building-your-ghost-writer-protocol",
+  "url": "https://tygartmedia.com/the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice/",
+  "keywords": [
+    "Ghost Writer Protocol",
+    "Exit Schema",
+    "voice guidelines",
+    "structural constraints",
+    "collaborative AI",
+    "voice authenticity",
+    "research and iteration",
+    "human-AI collaboration",
+    "content curation",
+    "schema.org Article"
+  ],
+  "use_cases": [
+    "Use when delegating administrative writing tasks while maintaining personal branding",
+    "Implement when scaling content production without sacrificing creative quality",
+    "Configure when setting up recurring AI prompts and style references",
+    "Use when developing a standardized workflow for AI-assisted technical writing"
+  ],
+  "tags": [
+    "workflow",
+    "content-strategy",
+    "best-practices",
+    "generative-ai"
+  ],
+  "priority": 8,
+  "content": "Here’s how to implement this in your own writing:\n\n1. Define your voice guidelines: Write 3-4 paragraphs that are peak-you. Give these to AI as reference every single time.\n2. Map your writing process: Where do you spend the most time? (Usually research and iteration.) That’s where AI adds the most value.\n3. Set structural constraints: Define the format, the sections, the flow before you start writing. This is your Exit Schema.\n4. Write the critical sections yourself: Openings, theses, key arguments, conclusions. Your voice in these sections sets the tone for the whole piece.\n5. Collaborate on the rest: Use AI to extend your voice, fill research gaps, maintain structure. But curate ruthlessly.\n6. Edit for voice authenticity: Your final pass should be about ensuring the whole piece sounds like you, not about fixing AI mistakes.\n\nThis protocol transforms AI from a threat to your authenticity into a tool that amplifies it. You’re not losing your voice. You’re delegating the grunt work so you can focus on the thinking and judgment that actually makes your voice valuable.\n\nAnd the work gets better. Not in spite of using AI. Because of it.\n\n{ “@context”: “https://schema.org”, “@type”: “Article”, “headline”: “The Ghost Writer Protocol: How to Use AI as a Creative Partner Without Losing Your Voice”, “description”: “AI isn’t replacing writers—it’s augmenting them. The Ghost Writer Protocol shows how to use AI as a collaborative muse: humans provide the soul (voi”, “datePublished”: “2026-03-30”, “dateModified”: “2026-04-03”, “author”: { “@type”: “Person”, “name”: “Will Tygart”, “url”: “https://tygartmedia.com/about” }, “publisher”: { “@type”: “Organization”, “name”: “Tygart Media”, “url”: “https://tygartmedia.com”, “logo”: { “@type”: “ImageObject”, “url”: “https://tygartmedia.com/wp-content/uploads/tygart-media-logo.png” } }, “mainEntityOfPage”: { “@type”: “WebPage”, “@id”: “https://tygartmedia.com/the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice/” } }",
+  "token_estimate": 369
+}

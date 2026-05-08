@@ -1,0 +1,34 @@
+{
+  "title": "Plotting prompts (10)",
+  "path": "chatgpt-prompts-for-fiction-writers-plotting-prompts-10",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "Three-act breakdown",
+    "Scene sequence builder",
+    "Subplot weaver",
+    "Midpoint reversal",
+    "Pacing doctor",
+    "Climax builder",
+    "Tension escalation chain",
+    "Timeline architect",
+    "Red herring planner",
+    "Ending generator",
+    "Narrative architecture"
+  ],
+  "use_cases": [
+    "Use when structuring a story premise into a functional three-act framework with emotional trajectories",
+    "Implement when bridging narrative gaps between specific plot points while maintaining tension",
+    "Configure when integrating complex subplots that mirror or contrast the primary theme",
+    "Use when identifying and fixing pacing drops or tension issues in a chapter-by-chapter outline",
+    "Implement when designing a non-linear timeline to maximize suspense and controlled information reveal"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "prompt-engineering",
+    "story-architecture"
+  ],
+  "priority": 10,
+  "content": "Structure your story with prompts that build narrative architecture.\n\n21. Three-act breakdown\n\nBreak this story premise into three acts: [premise]. For each act, give me the opening state, the key events (3-4 per act), the act-ending turning point, and the emotional trajectory of the protagonist.\n\n22. Scene sequence builder\n\nI need to get my character from [point A in the story] to [point B]. Generate a sequence of 5-7 scenes that accomplish this while maintaining tension. Each scene should have a clear purpose, a mini-conflict, and a reason to keep reading.\n\n23. Subplot weaver\n\nMy main plot is [description]. Create 3 subplots that mirror, contrast, or complicate the main theme. For each subplot, explain how it intersects with the main plot at least twice and how its resolution affects the climax.\n\n24. Midpoint reversal\n\nMy story so far: [summary of first half]. Generate 5 possible midpoint reversals that would flip the protagonist’s approach from reactive to proactive (or vice versa). Each should change the reader’s understanding of the stakes.\n\n25. Pacing doctor\n\nHere is my chapter-by-chapter outline: [outline]. Analyze the pacing. Identify where tension drops, where the reader might get bored, and where I need breather scenes. Suggest specific changes to fix any pacing issues.\n\n26. Climax builder\n\nMy protagonist is [description], their goal is [goal], the antagonist is [description], and the core conflict is [conflict]. Design 3 possible climax scenarios that test the protagonist’s character arc, force them to use something they learned earlier, and resolve both the external and internal conflicts.\n\n27. Tension escalation chain\n\nMy story’s central tension is [tension]. Create an escalation chain of 8 events, each raising the stakes higher than the last. Alternate between external pressure and internal pressure. End with a point of no return.\n\n28. Timeline architect\n\nI want to tell this story non-linearly: [story summary]. Suggest an optimal chapter arrangement that creates suspense through information reveal. Explain what the reader knows at each point and why withholding certain information serves the story.\n\n29. Red herring planner\n\nMy story’s true twist is [twist]. Create 3 convincing red herrings that distract the reader while still playing fair. Each red herring should have enough evidence to seem plausible but contain one subtle clue that it is wrong.\n\n30. Ending generator\n\nMy story is [summary]. Generate 5 possible endings ranging from satisfying-and-expected to surprising-but-inevitable. For each, explain what thematic statement the ending makes and how it completes the character arc.",
+  "token_estimate": 538
+}

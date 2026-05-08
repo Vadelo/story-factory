@@ -1,0 +1,30 @@
+{
+  "title": "Third Person Point of View",
+  "path": "narrativevoice-third-person-point-of-view",
+  "url": "https://www.lauriegarrison.co.uk/narrativevoice",
+  "keywords": [
+    "Omniscient narrator",
+    "Close third person",
+    "Narrative distance",
+    "Limited narrative perspective",
+    "Third person point of view",
+    "Distant narrator",
+    "Saturation and irony",
+    "Character thoughts and sensations"
+  ],
+  "use_cases": [
+    "Use when drafting comedy or satire to leverage a distant, ironic tone",
+    "Implement when the narrative requires an objective overview of societal norms or structures",
+    "Configure when transitioning narrative focus between a small number of specific characters",
+    "Use when balancing the intimacy of character thoughts with the authority of an external narrator"
+  ],
+  "tags": [
+    "Creative Writing",
+    "Narrative Theory",
+    "Literary Devices",
+    "Point of View"
+  ],
+  "priority": 10,
+  "content": "Third person narrators are not characters in the story. Third person narrators can be omniscient, requiring the furthest narrative distance from any of the characters. Distant, omniscient narrators were regularly used by nineteenth century novelists—famously so by Dickens and Austen—but these work best when writing comedy and satire. In contemporary fiction, it is much more common to find close third person narrators that follow a single character or occasionally transition to follow a small number of characters. The closer the narration comes to the thoughts and sensations of the character, the more limited the narrative perspective becomes. This means that there is a similar problem of writing limited perspectives as there is in first person narration.\n\n#### Examples of Third Person Narrators\n\nOne of the most famous opening lines in the entire canon of English literature is a good place to start to illustrate the distant third person narrator: ‘It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.’ This line, the first of Pride and Prejudice, is dripping with the gentle irony Austen is famous for. She explains further:\n\n![Sketch of Jane Austen](https://images.squarespace-cdn.com/content/v1/5f576d0016fb5f57aba7644d/1642260751641-H0TSQIWYXQBZAMWKW25B/image-asset.jpeg)\n\n‘However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.’\n\nThe man’s feelings are of no importance and he is considered a possession: the irony here lies in the lack of truth of this statement. All the mothers in a neighborhood might do everything they can to win the man for one of their daughters and might make strong assumptions that the man’s visit must end in a marriage, but the reality of the early nineteenth-century marriage market is that the daughters are the ones who must put aside feelings in order to make a good match. They will go from being possessions of their fathers to possessions of the",
+  "token_estimate": 458
+}

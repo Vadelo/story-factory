@@ -1,0 +1,31 @@
+{
+  "title": "Maintaining Authentic Voice: Technical and Philosophical",
+  "path": "the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice-maintaining-authentic-voice-technical-and-philosophical",
+  "url": "https://tygartmedia.com/the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice/",
+  "keywords": [
+    "Authentic Voice",
+    "few-shot prompting",
+    "writing cadence",
+    "vocabulary styling",
+    "creative session initialization",
+    "sentence structure optimization",
+    "judgment-based decision making",
+    "delegated execution",
+    "paradigm of stamina"
+  ],
+  "use_cases": [
+    "Use when initializing a creative writing session to prime the AI with specific stylistic examples",
+    "Implement when needing to preserve unique authorial tone across AI-assisted drafts",
+    "Configure when balancing AI research capabilities with human-driven editorial judgment",
+    "Use when delegating low-level drafting tasks to focus mental energy on thematic core"
+  ],
+  "tags": [
+    "creative-workflow",
+    "best-practices",
+    "content-strategy",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "The technical side: feed AI examples of your writing at the beginning of every creative session. Not just instructions about your voice—actual paragraphs you’ve written. Show it the sentence length you prefer, the vocabulary, the cadence, the way you structure an argument.\n\nThe philosophical side is more important: own your judgments. AI can help with research, structure, and execution. But the thing that makes the work authentically yours is your judgment about what’s true, what matters, and what’s worth saying.\n\nWhen I use AI in my writing process, I’m making more conscious decisions about these things, not fewer. I’m delegating the stamina work so I can focus on the thinking work.",
+  "token_estimate": 147
+}

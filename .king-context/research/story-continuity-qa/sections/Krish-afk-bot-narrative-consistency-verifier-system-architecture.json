@@ -1,0 +1,34 @@
+{
+  "title": "System Architecture",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-system-architecture",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "Pathway Document Store",
+    "Claim Extractor",
+    "Evidence Retriever",
+    "Constraint Engine",
+    "Deterministic Classifier",
+    "Semantic Search",
+    "LLM-assisted extraction",
+    "Narrative constraints",
+    "results.csv",
+    "embedded chunks",
+    "Rule-based patterns"
+  ],
+  "use_cases": [
+    "Configure when designing the end-to-end data flow from novel text to prediction",
+    "Implement when validating backstories against large-scale narrative datasets",
+    "Use when developing custom LLM-assisted claim extraction logic",
+    "Configure when setting up hybrid search strategies combining semantic and keyword retrieval",
+    "Implement when auditing classification rationale and narrative contradictions"
+  ],
+  "tags": [
+    "architecture",
+    "data-pipeline",
+    "machine-learning",
+    "backend"
+  ],
+  "priority": 10,
+  "content": "```\n┌─────────────────────────────────────────────────────────────────┐\n│                         INPUT LAYER                              │\n│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐          │\n│  │  Novel Text  │  │  Backstories │  │  Test Data   │          │\n│  │  (100k+ words)│  │     (CSV)    │  │    (CSV)     │          │\n│  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘          │\n└─────────┼──────────────────┼──────────────────┼──────────────────┘\n          │                  │                  │\n          ▼                  ▼                  ▼\n┌─────────────────────────────────────────────────────────────────┐\n│                    PATHWAY DOCUMENT STORE                        │\n│  ┌────────────┐  ┌────────────┐  ┌────────────┐  ┌──────────┐ │\n│  │   Novels   │  │   Chunks   │  │   Claims   │  │ Metadata │ │\n│  │  (indexed) │  │ (embedded) │  │ (embedded) │  │(timeline)│ │\n│  └────────────┘  └────────────┘  └────────────┘  └──────────┘ │\n└─────────────────────────────────────────────────────────────────┘\n          │                  │                  │\n          ▼                  ▼                  ▼\n┌─────────────────────────────────────────────────────────────────┐\n│                      PROCESSING PIPELINE                         │\n│                                                                   │\n│  ┌──────────────────┐         ┌──────────────────┐             │\n│  │ Claim Extractor  │────────▶│ Evidence Retriever│             │\n│  │  (LLM-assisted)  │         │ (Semantic + KW)   │             │\n│  └──────────────────┘         └─────────┬─────────┘             │\n│                                          │                        │\n│                                          ▼                        │\n│                              ┌──────────────────────┐            │\n│                              │ Constraint Engine    │            │\n│                              │ (Rule-based patterns)│            │\n│                              └─────────┬────────────┘            │\n│                                        │                          │\n│                                        ▼                          │\n│                              ┌──────────────────────┐            │\n│                              │ Deterministic        │            │\n│                              │ Classifier           │            │\n│                              └─────────┬────────────┘            │\n└────────────────────────────────────────┼──────────────────────────┘\n                                         │\n                                         ▼\n┌─────────────────────────────────────────────────────────────────┐\n│                         OUTPUT LAYER                             │\n│                    results.csv (submission)                      │\n│  story_id | prediction | rationale                               │\n│  ──────────────────────────────────────────────────────          │\n│     1     |     1      | No narrative constraints violated       │\n│     2     |     0      | Proposed backstory contradicts events   │\n└─────────────────────────────────────────────────────────────────┘\n```\n\n---",
+  "token_estimate": 293
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Command Line Arguments",
+  "path": "kabirahuja2431-FlawedFictions-command-line-arguments",
+  "url": "https://github.com/kabirahuja2431/FlawedFictions",
+  "keywords": [
+    "--model",
+    "--api_type",
+    "--cot",
+    "--few-shot",
+    "flawed_fictions",
+    "--reasoning_effort",
+    "--thinking_budget_tokens",
+    "CEEval-Full",
+    "CEEval-Pos",
+    "llms.py",
+    "detect_cont_errors.py",
+    "--calls_per_sec"
+  ],
+  "use_cases": [
+    "Configure when running error detection experiments with specific LLM providers like Azure or Claude",
+    "Implement when evaluating model performance using the CEEval-Full or CEEval-Pos metrics",
+    "Use when experimental datasets like flawed_fictions_cf_negs are required for testing non-human-verified negatives",
+    "Configure when rate limiting is needed to manage API quotas via the calls_per_sec parameter",
+    "Use when reproducibility is required by setting a specific seed and temperature for LLM sampling"
+  ],
+  "tags": [
+    "configuration",
+    "api-reference",
+    "cli-tools",
+    "benchmarking"
+  ],
+  "priority": 10,
+  "content": "- `--model`: The LLM to use (e.g., \"gpt-4o\", \"claude-3-5-sonnet-20241022\")\n- `--api_type`: The API provider (\"openai\", \"azure\", or \"claude\")\n- `--cot`: Enable chain-of-thought reasoning\n- `--few-shot`: Enable few-shot learning with examples\n- `--split`: Dataset split to use (flawed_fictions, flawed_fictions_long, flawed_fictions_error_resolved_negs, flawed_fictions_cf_negs)\n- `--shuffle_fs_examples`: Whether to shuffle few-shot examples\n- `--debug`: Run in debug mode with a small subset of data\n- `--calls_per_sec`: Rate limiting for API calls\n- `--temperature`: Sampling temperature for the LLM\n- `--max_tokens`: Maximum tokens for generated responses\n- `--seed`: Random seed for reproducibility\n- `--reasoning_effort`: For OpenAI o-series models (low/medium/high)\n- `--thinking`: Enable Claude's thinking mode (only for supported models)\n- `--thinking_budget_tokens`: Token budget for Claude's thinking\n\n**Note**: For `--split` option we recommend using `\"flawed_fictions\"` and `\"flawed_fictions_long\"` mainly, as these are human verified. The other two splits `\"flawed_fictions_error_resolved_negs\"` and `\"flawed_fictions_cf_negs\"` are experimental and have negative examples that are not human verified (positive examples are human verified).\n\n- `src/`: Main source code\n\n- `llms.py`: Interface for LLM providers\n - `detect_cont_errors.py`: Main module for error detection\n - `localization_metrics.py`: Metrics for evaluating error localization\n - `utils.py`: Utility functions for caching and file operations\n\n- `prompts/`: Prompt templates and examples\n- `output/`: Results and evaluation data\n- `cache/`: Cached responses to avoid redundant API calls\n\nThe framework evaluates performance using:\n\n1. **Classification Metrics**:\n\n- Accuracy, Precision, Recall, F1-score\n\n1. **Localization Metrics**:\n\n- CEEval-Full: Full evaluation (all examples)\n - CEEval-Pos: Positive-only evaluation (only examples with errors)\n\n- [ ] Add FlawedFictionsMaker algorithm\n- [ ] Add evaluation for Huggingface models\n- [ ] Add verifier based detection of plot holes\n- [ ] Add code for story summarization and contemporary adaptation analysis\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n\nPlease contact Kabir at `kahuja@cs.washington.edu` for any questions.",
+  "token_estimate": 389
+}

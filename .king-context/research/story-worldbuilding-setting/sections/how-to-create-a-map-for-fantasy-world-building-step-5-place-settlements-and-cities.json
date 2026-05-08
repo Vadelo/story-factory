@@ -1,0 +1,32 @@
+{
+  "title": "Step 5: Place Settlements and Cities",
+  "path": "how-to-create-a-map-for-fantasy-world-building-step-5-place-settlements-and-cities",
+  "url": "https://zainahyousef.com/how-to-create-a-map-for-fantasy-world-building/",
+  "keywords": [
+    "settlements",
+    "cities",
+    "rivers",
+    "coastlines",
+    "crossroads",
+    "fertile valleys",
+    "agriculture",
+    "mines",
+    "military outposts",
+    "religious sites"
+  ],
+  "use_cases": [
+    "Use when positioning a capital near a strategic resource",
+    "Configure when aligning cities with terrain features",
+    "Implement when designing trade routes to support settlements",
+    "Apply when creating believable economies dependent on resource locations"
+  ],
+  "tags": [
+    "world-building",
+    "geography",
+    "game-design",
+    "fantasy-creation"
+  ],
+  "priority": 9,
+  "content": "Cities do not appear randomly, and neither should yours. They tend to form where resources, trade routes, or defensive advantages exist. Ask yourself why each settlement is where it is.\n\nMajor cities often appear near rivers, coastlines, crossroads, or fertile valleys. Smaller towns develop around agriculture, nearby mines, military outposts, or religious sites. You need a reason for this particular town to exist there, otherwise, things just wouldn’t make sense and it would feel randomly placed.\n\nThis ties directly back into world building as a whole. If you want to go deeper on building believable societies and economies to support these settlements, my best-selling Ultimate Guide to World Building covers all of this in over 340 pages of practical instruction, guided worksheets, and proven tips for building immersive fantasy worlds. Check it out here.",
+  "token_estimate": 178
+}

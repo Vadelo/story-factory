@@ -1,0 +1,34 @@
+{
+  "title": "3. User Interface and Authoring Workflow",
+  "path": "topics-treewriter-3-user-interface-and-authoring-workflow",
+  "url": "https://www.emergentmind.com/topics/treewriter",
+  "keywords": [
+    "Tree Navigator",
+    "Content Pane",
+    "preorder traversal",
+    "linearized focus",
+    "breadcrumb bar",
+    "outline–prose alignment",
+    "contextual tree state",
+    "LLM-enabled actions",
+    "split",
+    "summarization",
+    "paragraph generation"
+  ],
+  "use_cases": [
+    "Use when navigating complex document hierarchies via the Tree Navigator or breadcrumb bar.",
+    "Configure when switching between granular card-based editing and a concatenated manuscript view.",
+    "Implement when synchronizing outline changes with body text to ensure structural alignment.",
+    "Use when leveraging agentic AI support informed by the specific local context of the document tree.",
+    "Implement when reordering document sections using drag-and-drop hierarchy management."
+  ],
+  "tags": [
+    "user-interface",
+    "authoring-workflow",
+    "navigation",
+    "ai-features"
+  ],
+  "priority": 10,
+  "content": "The UI is organized into three columns:\n\n- Tree Navigator (left): Collapsible hierarchical outline, toggling between Tree and Linear views, drag-and-drop reordering.\n- Content Pane (middle): In Tree View, displays editable cards for child nodes of the current focus; in Linear View, shows the concatenated manuscript for the current subtree via preorder traversal. Navigation is synchronized: editing/exporting any section positions the user within the corresponding tree locus.\n- AI Assistant & Buttons (right): Floating buttons trigger LLM-enabled actions for split, summarization, and paragraph generation. Each export block is independently actionable. The persistent chat assistant enables agentic support informed by local and contextual tree state.\n\nNavigation includes a breadcrumb bar for ancestor jumping and focus synchronization between linearized and tree-based organization. Iterative editing flows enable propagation of outline changes downwards (\"Revise children to match new outline\") and upward summarization (\"Generate outline from children\"), thereby promoting outline–prose alignment (DG1, DG2).",
+  "token_estimate": 196
+}

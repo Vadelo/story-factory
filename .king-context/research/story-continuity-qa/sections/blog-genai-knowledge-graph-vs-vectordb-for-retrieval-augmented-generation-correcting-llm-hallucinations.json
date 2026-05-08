@@ -1,0 +1,30 @@
+{
+  "title": "Correcting LLM Hallucinations",
+  "path": "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-correcting-llm-hallucinations",
+  "url": "https://neo4j.com/blog/genai/knowledge-graph-vs-vectordb-for-retrieval-augmented-generation/",
+  "keywords": [
+    "knowledge graphs",
+    "vector databases",
+    "LLM hallucinations",
+    "black box",
+    "traceability",
+    "data correction",
+    "query pathway",
+    "transparency",
+    "misinformation identification"
+  ],
+  "use_cases": [
+    "Use when you need to trace back the exact source of an LLM's error to a specific data point",
+    "Implement when your application requires human-readable data representation for auditing",
+    "Configure when high accuracy and the ability to manually correct misinformation are project requirements",
+    "Use when transitioning from a black-box vector database to a transparent data structure"
+  ],
+  "tags": [
+    "data-architecture",
+    "llm-reliability",
+    "knowledge-graph"
+  ],
+  "priority": 9,
+  "content": "Knowledge graphs have a human-readable representation of data, whereas vector databases offer only a black box.\n\nFor example: When a member of the product team is misidentified, a vector database will not be able to identify the facts it used to infer the misinformation. This means it isn’t possible to undo it or even understand the source of the error. On the other hand, it’s easy for knowledge graph users to find and correct the misinformation, should the LLM infer something incorrectly.\n\nThat’s because knowledge graphs have full transparency. They help you identify misinformation in data, trace back the pathway of the query, and make corrections to it, which can help improve LLM accuracy. Vector databases, on the other hand, provide little to no transparency and no ability to make specific corrections.",
+  "token_estimate": 175
+}

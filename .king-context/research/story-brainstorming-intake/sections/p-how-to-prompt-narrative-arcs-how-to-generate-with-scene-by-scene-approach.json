@@ -1,0 +1,30 @@
+{
+  "title": "How to Generate with Scene-by-Scene Approach:",
+  "path": "p-how-to-prompt-narrative-arcs-how-to-generate-with-scene-by-scene-approach",
+  "url": "https://winterspeak.substack.com/p/how-to-prompt-narrative-arcs",
+  "keywords": [
+    "Scene-by-Scene Approach",
+    "Story Generation Template",
+    "One-Sentence Premise",
+    "POV & Tense",
+    "Style Notes",
+    "Scene Continuity",
+    "AI Storytelling",
+    "Central Theme",
+    "Prompt Engineering"
+  ],
+  "use_cases": [
+    "Use when generating long-form narrative content over 5000 words",
+    "Implement when detailed control over scene pacing and continuity is required",
+    "Configure when adapting a story outline into specific prose based on distinct style notes",
+    "Use when managing state and context across multiple subsequent LLM prompts"
+  ],
+  "tags": [
+    "content-generation",
+    "prompt-templates",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "```\nFIRST PROMPT:\n\"Here is my complete story outline: [paste filled template]\nPlease write Scene 1 according to the specifications. Focus especially on establishing [specific element].\"\n\nSUBSEQUENT PROMPTS:\n\"Here is the story outline: [paste template]\nHere's what happened in previous scenes: [brief summary]\nPlease write Scene [X] according to the specifications. Make sure to [specific continuity note].\"\n```\n\nHere is the prompt template in generated (note, it’s very long):\n\n# AI Story Generation Template - 5000 Words\n\nOne-Sentence Premise: [A character] must [overcome obstacle] to [achieve goal] but [complication makes it harder]\n\nCentral Theme: [What universal truth does your story explore? e.g., \"The price of revenge,\" \"How grief transforms us,\" \"The masks we wear\"]\n\nSubtheme (optional): [Secondary idea that supports main theme]\n\nGenre: [Primary genre + any genre blend]\n\nTone: [e.g., \"Dark comedy like Fargo,\" \"Melancholic like Never Let Me Go,\" \"Tense thriller like Gone Girl\"]\n\nPOV & Tense: [First/Third person, Past/Present tense]\n\nStyle Notes: [e.g., \"Short, punchy sentences for action,\" \"Lyrical descriptions,\" \"Lots of dialogue,\" \"Minimal exposition\"]",
+  "token_estimate": 223
+}

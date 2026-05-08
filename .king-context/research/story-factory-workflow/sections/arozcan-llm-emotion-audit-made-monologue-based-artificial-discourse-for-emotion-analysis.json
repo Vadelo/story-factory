@@ -1,0 +1,33 @@
+{
+  "title": "MADE: Monologue-based Artificial Discourse for Emotion Analysis",
+  "path": "arozcan-llm-emotion-audit-made-monologue-based-artificial-discourse-for-emotion-analysis",
+  "url": "https://github.com/arozcan/llm-emotion-audit",
+  "keywords": [
+    "Monologue-based Artificial Discourse",
+    "emotion analysis",
+    "synthetic monologue dataset",
+    "7-class emotion taxonomy",
+    "semantic embedding alignment",
+    "affective transition consistency",
+    "IEMOCAP",
+    "MELD",
+    "DailyDialog",
+    "GoEmotions",
+    "sentence-level labels"
+  ],
+  "use_cases": [
+    "Use when training emotion recognition models with single-speaker synthetic data",
+    "Implement when comparing synthetic discourse datasets against human-annotated benchmarks",
+    "Configure when performing dataset-level validation using semantic embedding alignment",
+    "Use when investigating affective transitions in discourse-level emotion analysis"
+  ],
+  "tags": [
+    "dataset",
+    "emotion-analysis",
+    "natural-language-processing",
+    "synthetic-data"
+  ],
+  "priority": 8,
+  "content": "**MADE** focuses on the **dataset side** of the problem.\n\nIt introduces a large-scale synthetic monologue dataset generated using\nmultiple large language models and evaluates its realism through\n**dataset-level comparisons** with established human-annotated benchmarks\nsuch as MELD, IEMOCAP, DailyDialog, and GoEmotions.\n\nKey characteristics:\n\n- Single-speaker monologues with sentence-level emotion labels\n- Unified 7-class emotion taxonomy\n- Structural and statistical quality control\n- Dataset-level validation using:\n\n- emotion distribution similarity\n - semantic embedding alignment\n - affective transition consistency\n\nSee [`MADE/README.md`](./MADE/README.md) for full details.\n\n---",
+  "token_estimate": 109
+}

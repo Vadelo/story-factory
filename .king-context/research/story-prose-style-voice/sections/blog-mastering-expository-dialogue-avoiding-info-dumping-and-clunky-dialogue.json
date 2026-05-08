@@ -1,0 +1,33 @@
+{
+  "title": "Avoiding Info Dumping and Clunky Dialogue",
+  "path": "blog-mastering-expository-dialogue-avoiding-info-dumping-and-clunky-dialogue",
+  "url": "https://www.numberanalytics.com/blog/mastering-expository-dialogue",
+  "keywords": [
+    "info dumping",
+    "clunky dialogue",
+    "subtext",
+    "implication",
+    "exposition integration",
+    "character-driven narrative",
+    "concise dialogue",
+    "technical jargon",
+    "logical flow",
+    "story relevance"
+  ],
+  "use_cases": [
+    "Use when integrating critical background information into character exchanges naturally",
+    "Use when breaking up dense technical details or complex terminology into manageable dialogue",
+    "Implement when auditing scripts or manuscripts for pacing and clarity",
+    "Configure when distributing world-building elements across multiple character perspectives",
+    "Use when revising expository scenes to ensure they remain concise and high-stakes"
+  ],
+  "tags": [
+    "content-creation",
+    "best-practices",
+    "narrative-design",
+    "ux-writing"
+  ],
+  "priority": 8,
+  "content": "To avoid info dumping and clunky dialogue, consider the following strategies:\n\n- Use subtext and implication to convey information, rather than stating it explicitly.\n- Use different characters to convey different pieces of information, rather than relying on a single character to deliver a large amount of exposition.\n- Break up large chunks of exposition into smaller, more manageable pieces.\n\nThe following flowchart illustrates the process of integrating exposition into dialogue:\n\n```\ngraph LR;\n    A[\"Start Conversation\"] -- B{\"Is Exposition Necessary?\"};\n    B --|\"Yes\"| C[\"Integrate Exposition Naturally\"];\n    B --|\"No\"| D[\"Proceed with Conversation\"];\n    C -- E{\"Is Exposition Concise?\"};\n    E --|\"Yes\"| F[\"Continue Conversation\"];\n    E --|\"No\"| G[\"Revise Exposition\"];\n    G -- C;\n\n```\n\nIn addition to the techniques outlined above, here are some best practices to keep in mind when crafting expository dialogue:\n\nExpository dialogue should be concise and relevant to the story. Avoid using unnecessary or redundant information, and focus on conveying only the most essential details.\n\nSome key considerations include:\n\n- Focusing on the most critical information, and omitting non-essential details.\n- Avoiding unnecessary technical jargon or overly complex terminology.\n- Keeping exposition brief and to the point.",
+  "token_estimate": 244
+}

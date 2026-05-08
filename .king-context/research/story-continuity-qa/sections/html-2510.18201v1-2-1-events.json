@@ -1,0 +1,31 @@
+{
+  "title": "2.1 Events",
+  "path": "html-2510.18201v1-2-1-events",
+  "url": "https://arxiv.org/html/2510.18201v1",
+  "keywords": [
+    "asserted realis",
+    "epistemic modalities",
+    "predicate-argument structure",
+    "latent predicate-argument",
+    "latent relation extraction",
+    "implied sentiment",
+    "circumstance shift",
+    "directed character pairs",
+    "actor-experiencer mapping"
+  ],
+  "use_cases": [
+    "Use when extracting relationship states between characters from narrative text",
+    "Implement when filtering for actual events while ignoring hypothetical or future modalities",
+    "Configure when quantifying character fortune based on sentiment and emotion shifts",
+    "Use when mapping actor-experiencer dynamics within an event structure"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "narrative-analysis",
+    "event-extraction",
+    "sentiment-analysis"
+  ],
+  "priority": 8,
+  "content": "We borrow from [8] and focus solely on events with asserted realis (depicted as actually taking place, with specific participants at a specific time) instead of those with other epistemic modalities (hypotheticals, future events). We interpret events as indicators of inter-character relationship states - for each event, we extract the latent predicate-argument structure to identify participants. For example, in the sentence “Harry kicked Ron\", “kicked\" is the event with Harry the actor and Ron the experiencer.\n\nWe take inspiration from [2] and use implied sentiment and emotion to quantify circumstance, the state of fortune associated with a directed pair of characters participating in an event. Narratives and plots span a plethora of settings - each character ‘reacts to’ as well as ‘influences’ their unique circumstance; it would be beyond the scope of this paper to establish a universal scale. Instead, we focus on the relative shift of circumstance across the narrative.",
+  "token_estimate": 200
+}

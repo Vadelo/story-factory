@@ -1,0 +1,32 @@
+{
+  "title": "Why I Built This",
+  "path": "jonmartin721-living-story-world-why-i-built-this",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "persistent narrative universe",
+    "entity maintenance",
+    "provider-agnostic patterns",
+    "vendor lock-in",
+    "A/B testing",
+    "OpenAI",
+    "Groq",
+    "Together AI",
+    "text adventure mechanics",
+    "narrative depth"
+  ],
+  "use_cases": [
+    "Use when entities like characters and locations must survive across multiple generations",
+    "Implement when comparing performance and output across different model providers like OpenAI and Groq",
+    "Configure when building an AI story generator that requires long-term state persistence",
+    "Use when designing a narrative application that minimizes manual user creative effort"
+  ],
+  "tags": [
+    "architecture",
+    "multi-provider",
+    "state-management",
+    "generative-ai"
+  ],
+  "priority": 8,
+  "content": "Most AI story generators are goldfish—write one scene, forget everything, write another. I wanted to see if we could maintain a persistent narrative universe where entities (characters, locations, plot threads) survive across generations instead of getting amnesia every chapter.\n\nThe project started as an experiment in combining modern AI models with classic text adventure mechanics. Could we have the narrative depth of a novel without requiring the creative effort that services like NovelAI demand from users?\n\nAlso, I wanted to play with provider-agnostic patterns to avoid vendor lock-in. Being able to A/B test OpenAI vs Groq vs Together AI side-by-side is useful when everyone's releasing new models every week.\n\n---",
+  "token_estimate": 146
+}

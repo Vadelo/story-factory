@@ -1,0 +1,30 @@
+{
+  "title": "Drawing Connections Between Storylines",
+  "path": "blog-how-to-map-a-multi-pov-novel-drawing-connections-between-storylines",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "cross-track connections",
+    "multi-POV structure",
+    "causal links",
+    "storyline integration",
+    "informational links",
+    "event mapping",
+    "narrative ligaments",
+    "character interaction dynamics"
+  ],
+  "use_cases": [
+    "Implement when designing the structural integrity of a multi-POV novel",
+    "Use when evaluating whether a specific character arc belongs in the current manuscript",
+    "Configure when mapping causal relationships between independent plot tracks",
+    "Use when auditing narrative flow to prevent siloed storytelling"
+  ],
+  "tags": [
+    "plotting",
+    "narrative-structure",
+    "character-development",
+    "editing-workflow"
+  ],
+  "priority": 9,
+  "content": "Once your events are placed, start drawing connections between tracks. A connection should represent a real causal or informational link: Character A learns something that changes how Character B behaves. Character C's decision removes an obstacle from Character D's path. One character's failure creates another character's opportunity.\n\nThese cross-track connections are the ligaments of your multi-POV novel. Without them, you do not have a multi-POV story. You have several independent stories published in the same book.\n\nBe ruthless about this. If you cannot draw a connection between two storylines, you have to ask whether both need to be in this novel.",
+  "token_estimate": 134
+}

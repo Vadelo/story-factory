@@ -1,0 +1,30 @@
+{
+  "title": "6: Design your magic system",
+  "path": "blogs-writing-tips-fantasy-worldbuilding-guide-6-design-your-magic-system",
+  "url": "https://www.quillandsteel.com/blogs/writing-tips/fantasy-worldbuilding-guide",
+  "keywords": [
+    "source",
+    "limitations",
+    "access",
+    "rules",
+    "costs",
+    "overuse",
+    "magic system"
+  ],
+  "use_cases": [
+    "Use when designing a balanced fantasy setting with constraints on magic",
+    "Implement when defining character abilities that require a specified source of power",
+    "Configure when setting limitations to prevent magic from solving every plot problem",
+    "Use when determining who can or cannot access magical powers within a story",
+    "Implement when outlining costs and penalties for overusing magic"
+  ],
+  "tags": [
+    "game-design",
+    "worldbuilding",
+    "fantasy-writing",
+    "mechanics"
+  ],
+  "priority": 10,
+  "content": "Magic in fantasy should feel like a double-edged sword: it can be powerful, but it (almost always) comes at a price.\n\nReaders enjoy magic that’s grounded by rules, costs, and limits because it makes it more engaging and meaningful when characters use it.\n\nSo ask yourself questions like:\n\n- Where does magical power come from? (source)\n- What prevents magic from solving every problem? (limitations)\n- Who can use it and who can't? (access)\n- How does it actually work? (rules)\n- What happens when it's overused? (costs)\n\nFor a deeper dive, head over to this guide on how to create a magic system.",
+  "token_estimate": 138
+}

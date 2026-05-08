@@ -1,0 +1,32 @@
+{
+  "title": "What Readers Need vs. What You Need",
+  "path": "guides-how-to-create-worldbuilding-bibles-2026-what-readers-need-vs-what-you-need",
+  "url": "https://rivereditor.com/guides/how-to-create-worldbuilding-bibles-2026",
+  "keywords": [
+    "worldbuilding bible",
+    "iceberg metaphor",
+    "author rules",
+    "reader immersion",
+    "cultural context",
+    "character decisions",
+    "plot relevance",
+    "contradictions"
+  ],
+  "use_cases": [
+    "Use when compiling a comprehensive worldbuilding bible that includes all rules and background details necessary for consistency.",
+    "Use when drafting a manuscript to include only the information readers need to understand the plot and characters.",
+    "Use when separating background data from plot-relevant content to prevent reader confusion.",
+    "Use when designing immersive world details that are invisible to readers but support the story.",
+    "Use when maintaining a consistent rule set to avoid contradictions in the narrative."
+  ],
+  "tags": [
+    "worldbuilding",
+    "documentation",
+    "authoring",
+    "content-selection",
+    "storycraft"
+  ],
+  "priority": 8,
+  "content": "You (the author) need: • Complete understanding of how everything works • Rules that remain consistent • Background that informs character decisions • Details that prevent contradictions\n\nReaders need: • Enough to understand what's happening • Rules relevant to the plot • Cultural context that affects characters • Details that create immersion, not confusion\n\nYour worldbuilding bible should contain everything YOU need. Your manuscript should contain only what READERS need. The bible is 90% iceberg below water—most of it supports the story invisibly.",
+  "token_estimate": 110
+}

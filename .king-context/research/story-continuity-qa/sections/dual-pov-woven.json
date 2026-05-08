@@ -1,0 +1,30 @@
+{
+  "title": "Woven",
+  "path": "dual-pov-woven",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "Woven Plot",
+    "Convergence Plot",
+    "Bookended Plot",
+    "POV Characters",
+    "Plot Shape",
+    "Parallel Plots",
+    "Point of View",
+    "Story Structure",
+    "Character Convergence"
+  ],
+  "use_cases": [
+    "Use when designing a narrative structure for multiple POV characters who spend significant time apart.",
+    "Implement when structuring a story where separate plot lines merge only in the final act.",
+    "Configure when starting and ending a story with characters together but keeping them physically separated in the middle chapters.",
+    "Use when analyzing the physical proximity of characters across a novel's timeline."
+  ],
+  "tags": [
+    "narrative-design",
+    "creative-writing",
+    "story-architecture"
+  ],
+  "priority": 9,
+  "content": "Let’s first consider that in any novel with two or more POVs, the POV characters may be physically together or separate at various points throughout the story. Most commonly, perhaps, the kind of dual-POV story you’ll see will have the characters interacting a fair amount, but will also allow us to see them apart. A book like The Time Traveler’s Wife, for instance. You could say that the shape of that looks more or less like the image below, with variations in the frequency of comings-together and duration of interactions, of course.\n\n![](https://stormwritingschool.us12.cdn-alpha.com/wp-content/uploads/2025/05/Woven-1024x236.jpg)\n\nThe woven plot\n\nBut that is not the only shape. A story might begin with the characters having separate, parallel plots until near the end where they finally converge. Cloud Cuckoo Land is a multiple-POV story, but it utilizes this convergence shape in the 15th-century Constantinople parts of the book, depicting POV characters Anna and Omeir separately until late in their narratives.\n\n![](https://stormwritingschool.us12.cdn-alpha.com/wp-content/uploads/2025/05/Converge-1024x205.jpg)\n\nThe convergence plot\n\nYou might also have characters together at the start and end but divergent throughout the bulk of the story. An example: Twin scientists Ava and Mira invent a time machine. During the first test, Ava is accidentally sent 20 years into the future. The two work to rectify the problem separately and only come back together late in the story.\n\n![](https://stormwritingschool.us12.cdn-alpha.com/wp-content/uploads/2025/05/Bookend-1024x196.jpg)\n\nThe bookended plot",
+  "token_estimate": 296
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Theme",
+  "path": "articles-character-development-questionnaire-theme",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "Theme",
+    "Character Attributes",
+    "Story Theme",
+    "Character Quirk",
+    "Advanced Character Layer",
+    "Character Consistency",
+    "Message Conveyance"
+  ],
+  "use_cases": [
+    "Use when defining the underlying message or purpose of a character",
+    "Implement when visual or behavioral quirks need to represent deeper narrative concepts",
+    "Configure when seeking consistency between individual character arcs and the overarching story theme",
+    "Use when character motivation or decision-making paths are unclear"
+  ],
+  "tags": [
+    "Character Development",
+    "Narrative Design",
+    "Storytelling Essentials"
+  ],
+  "priority": 6,
+  "content": "These questions are optional, but they add an advanced layer to your character, and can help when you’re not sure which direction to take them. A theme is like a message you want to convey through the character. If you choose to give your character a theme, it must be consistent with their other attributes. Either draw it out from your answers to the previous questions, or use the theme to find answers you aren’t sure of.\n\n- How does that theme relate to the story’s theme?\n- How do the answers to the above questions touch on that theme?\n- What is the character’s theme?\n\nAdvanced Tip: A character’s quirk can be a great way to showcase their theme.",
+  "token_estimate": 159
+}

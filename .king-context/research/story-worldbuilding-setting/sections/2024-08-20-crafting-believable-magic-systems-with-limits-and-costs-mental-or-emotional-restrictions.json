@@ -1,0 +1,31 @@
+{
+  "title": "Mental or Emotional Restrictions",
+  "path": "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-mental-or-emotional-restrictions",
+  "url": "https://myersfiction.com/2024/08/20/crafting-believable-magic-systems-with-limits-and-costs/",
+  "keywords": [
+    "mental restriction",
+    "emotional restriction",
+    "One Power",
+    "empathy draining",
+    "memory loss",
+    "trance",
+    "meditation",
+    "anger",
+    "fear",
+    "euphoria"
+  ],
+  "use_cases": [
+    "Use when designing a character who cannot tap into a power when angry to highlight emotional growth.",
+    "Implement when creating a magic system where each spell erases the user's memory, adding risk.",
+    "Configure a trance requirement before casting to emphasize mental discipline.",
+    "Deploy when introducing empathy draining mechanics to show diminishing compassion in the user."
+  ],
+  "tags": [
+    "magic-systems",
+    "character-development",
+    "worldbuilding"
+  ],
+  "priority": 7,
+  "content": "I’m going to start out with an example on this one. Nynaeve Al’meara in “The Wheel of Time” series was blocked from accessing the One Power because of her anger. I thought this was a great aspect of this series. It shows that you don’t have to make the limitation affect everyone, but only the characters who need to grow the most.\n\nMental and emotional restrictions affect the users in different ways.\n\nEmotional instability can lead to unpredictable outcomes or personal challenges when using magic. Using the magic might heighten their anger, fear, or euphoria, while also limiting their capabilities. This could also pair well with empathy draining, where the magic user feels less compassion as they use their power. Emotions affect people more than most would like to admit, and it’s something that might be worth discussing through your magic system and story.\n\nMental aspects can play another large role in your magic system. Memory is a fragile thing. Sometimes we can’t trust it, and other times we rely on it for our mental stability. Imagine now if every time your character used their magic, it would erase a memory. The cost of magic becomes fragments of personal history. Or you can require your magic user to enter a trance before they can cast a spell. If you’ve ever tried to meditate, you’ll know how hard it truly is to clear your mind.",
+  "token_estimate": 311
+}

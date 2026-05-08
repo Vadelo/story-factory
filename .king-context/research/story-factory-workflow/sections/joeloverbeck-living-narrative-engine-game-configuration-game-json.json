@@ -1,0 +1,34 @@
+{
+  "title": "Game Configuration (`game.json`)",
+  "path": "joeloverbeck-living-narrative-engine-game-configuration-game-json",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "game.json",
+    "IPathResolver.resolveGameConfigPath()",
+    "game.schema.json",
+    "traceAnalysisEnabled",
+    "UiLoader",
+    "logger-config.json",
+    "trace-config.json",
+    "mod load order",
+    "slowOperationMs",
+    "IConfiguration.getBaseDataPath()"
+  ],
+  "use_cases": [
+    "Configure when initializing a project to define which mods and content packages are loaded",
+    "Use when content conflicts arise to adjust mod priority via the array order",
+    "Implement when setting up debug environments by adjusting logLevel in logger-config",
+    "Configure when monitoring performance to set slowOperationMs thresholds",
+    "Use when validating configuration files against the internal engine schemas"
+  ],
+  "tags": [
+    "configuration",
+    "modding",
+    "initialization",
+    "performance-monitoring",
+    "error-handling"
+  ],
+  "priority": 10,
+  "content": "The core behavior and content loading of the Living Narrative Engine are controlled by a central configuration file\nnamed `game.json`.\n\n**Location:**\n\n- This file **must** be named exactly `game.json`.\n- Place this file in the **base data directory** of your project (typically the `./data/` folder, alongside `schemas/`,\n\n`worlds/`, etc.). The engine uses the `IConfiguration.getBaseDataPath()` and `IConfiguration.getGameConfigFilename()`\n settings, resolved via `IPathResolver.resolveGameConfigPath()`, to locate this file.\n\n**Requirement:**\n\n- This file is **required** for the engine to start. If `game.json` is missing, cannot be fetched, contains invalid\n\nJSON, or does not conform to the required schema, the engine will fail to load, logging a fatal error.\n\n**Format:**\n\nThe `game.json` file must be a JSON object containing a single required property: `mods`.\n\n{\n \"mods\": [\n \"core\",\n \"base_adventure_mechanics\",\n \"my_custom_story_mod\"\n ]\n }\n\n**Load Order / Priority:**\n\nThe order of mod IDs listed in the mods array defines the initial load priority for mods and their content. Mods listed\nlater in the array will generally override content (like items, entities, actions) from mods listed earlier, assuming\nthey have the same ID. The final conflict resolution also depends on dependency management (which is planned for future\nimplementation).\n\n**Schema:**\n\nThe formal structure of this file is defined by the `game.schema.json` schema file. The engine validates `game.json`\nagainst this schema during startup. You can refer to `data/schemas/game.schema.json` for the precise definition.\nUI icons and labels are validated against `ui-icons.schema.json` and `ui-labels.schema.json` and loaded by the new **UiLoader**. Definitions from later mods override earlier ones.\n\nThe logging level can be configured via `config/logger-config.json`:\n\n```json\n{\n  \"logLevel\": \"INFO\"\n}\n```\n\nAvailable log levels: `DEBUG`, `INFO`, `WARN`, `ERROR`, `NONE`\n\nThe engine includes powerful trace analysis tools for debugging and performance optimization. These are configured via `config/trace-config.json`:\n\n```json\n{\n  \"traceAnalysisEnabled\": false,\n  \"performanceMonitoring\": {\n    \"enabled\": true,\n    \"thresholds\": {\n      \"slowOperationMs\": 100,\n      \"criticalOperationMs\": 500\n    }\n  },\n  \"visualization\": {\n    \"enabled\": true\n  },\n  \"analysis\": {\n    \"enabled\": true\n  }\n}\n```\n\nTo enable trace analysis tools, set `\"traceAnalysisEnabled\": true`. See `docs/trace-analysis-configuration.md` for detailed configuration options.\n\nThe Living Narrative Engine provides comprehensive action tracing capabilities to help developers debug gameplay logic, understand entity interactions, and analyze system behavior.",
+  "token_estimate": 461
+}

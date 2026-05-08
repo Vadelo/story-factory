@@ -1,0 +1,26 @@
+{
+  "title": "YouTube Explainer",
+  "path": "EdwardAThomson-StoryDaemon-youtube-explainer",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "StoryDaemon",
+    "Story Generation",
+    "YouTube Explainer",
+    "Product Overview",
+    "Instructional Video",
+    "vIBRLavyxbs"
+  ],
+  "use_cases": [
+    "Use when seeking a high-level conceptual introduction to StoryDaemon",
+    "Use when evaluating the core value proposition of the story generation engine",
+    "Use when visual learners require a video demonstration of feature capabilities"
+  ],
+  "tags": [
+    "documentation",
+    "multimedia",
+    "onboarding"
+  ],
+  "priority": 7,
+  "content": "An introduction and overview.\n\n- [StoryDaemon: The Future of Story Generation?](https://youtu.be/vIBRLavyxbs)",
+  "token_estimate": 14
+}

@@ -1,0 +1,1414 @@
+{
+  "worldbuilding": [
+    "how-to-create-a-map-for-fantasy-world-building-why-maps-matter-in-world-building",
+    "how-to-create-a-map-for-fantasy-world-building-step-3-place-rivers-correctly",
+    "how-to-create-a-map-for-fantasy-world-building-step-6-mark-political-boundaries",
+    "how-to-create-a-map-for-fantasy-world-building-step-7-add-points-of-interest",
+    "worldbuilding-guide-designing-geography-and-environment-drawing-a-rough-map",
+    "worldbuilding-guide-designing-geography-and-environment-evolving-environments",
+    "worldbuilding-guide-designing-geography-and-environment-frequently-asked-questions-faq",
+    "worldbuilding-guide-designing-geography-and-environment-continue-your-writing-journey",
+    "blog-documenting-my-book-writing-journey-week-9-tip-1-explore-real-world-geographies",
+    "blog-documenting-my-book-writing-journey-week-9-tip-2-combine-and-reimagine",
+    "blog-documenting-my-book-writing-journey-week-9-tip-3-use-art-and-photography",
+    "blog-documenting-my-book-writing-journey-week-9-tip-4-draw-from-mythology-and-folklore",
+    "blog-documenting-my-book-writing-journey-week-9-tip-5-experiment-with-climate-and-weather",
+    "blog-documenting-my-book-writing-journey-week-9-tip-6-incorporate-unique-flora-and-fauna",
+    "blog-documenting-my-book-writing-journey-week-9-tip-7-consider-geological-features",
+    "blog-documenting-my-book-writing-journey-week-9-tip-9-use-emotional-landscapes",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-understanding-the-basics-of-worldbuilding",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-creating-logical-and-consistent-geography",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-adding-depth-and-detail",
+    "how-to-create-fantasy-cultures-1-geography-and-environment",
+    "how-to-create-fantasy-cultures-2-history-and-mythology",
+    "how-to-create-fantasy-cultures-4-social-structure-and-customs",
+    "how-to-create-fantasy-cultures-5-art-and-aesthetics",
+    "how-to-create-fantasy-cultures-6-food-and-cuisine",
+    "how-to-create-fantasy-cultures-7-technology-and-innovation",
+    "how-to-create-fantasy-cultures-conclusion",
+    "how-to-create-fantasy-cultures-climate-and-terrain-in-your-fantasy-world-their-impact-on-plot-and-character-challenges",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-the-foundation-of-fantasy-world-design-tips-building-your-realm-from-the-ground-up",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-crafting-cultures-and-societies-fantasy-world-design-tips-for-rich-believable-civilisations",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-weaving-magic-and-mysticism-into-your-world",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-characters-as-mirrors-of-your-world",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-bringing-it-all-together-the-power-of-detail-and-consistency",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "watch-transcript",
+    "post-world-building-using-the-real-world-1-planet-size",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "2019-06-11-the-magic-tech-formula-about-joshua-k-johnson",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-3-power-balance-pitfalls",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-4-character-dynamics-across-the-divide",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-faqs",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-introduction",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-power-source",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-mental-or-emotional-restrictions",
+    "2016-10-magic-and-tech-government-content",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-good-model-for-magic",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-2-harry-potter",
+    "impossible-things-the-first-law-of-narrative-energy-miracles-aren-t-free",
+    "impossible-things-why-narrative-cost-is-the-key-to-believable-fantasy",
+    "impossible-things-how-costs-shape-worldbuilding-in-fantasy-and-science-fiction",
+    "impossible-things-why-symmetry-is-essential-for-immersive-storytelling",
+    "impossible-things-breaking-symmetry-creating-tension-and-drama",
+    "impossible-things-the-golden-rule-of-speculative-fiction-worldbuilding",
+    "impossible-things-controlled-instability-making-fantasy-worlds-feel-alive",
+    "impossible-things-narrative-relativity-emotional-continuity-vs-physical-accuracy",
+    "impossible-things-why-believable-fantasy-worlds-react-to-the-impossible",
+    "impossible-things-dune-and-the-power-of-a-single-transformative-resource",
+    "impossible-things-dragons-power-and-political-gravity-in-epic-fantasy",
+    "impossible-things-small-impossible-details-with-outsized-consequences",
+    "impossible-things-why-science-fiction-worlds-feel-real-to-readers",
+    "uncategorized-interstellar-trade-and-economics-1-start-with-scarcity-what-s-valuable-and-where",
+    "uncategorized-interstellar-trade-and-economics-7-logistics-magic-and-sci-fi-workhorses",
+    "uncategorized-interstellar-trade-and-economics-8-conflict-breeds-story",
+    "uncategorized-interstellar-trade-and-economics-final-thoughts-make-it-dynamic",
+    "guides-how-to-create-worldbuilding-bibles-2026-depth-vs-info-dumping",
+    "guides-how-to-create-worldbuilding-bibles-2026-what-readers-need-vs-what-you-need",
+    "guides-how-to-create-worldbuilding-bibles-2026-the-relevance-test",
+    "guides-how-to-create-worldbuilding-bibles-2026-show-don-t-tell-for-world-building",
+    "guides-how-to-create-worldbuilding-bibles-2026-limitations-over-abilities",
+    "guides-how-to-create-worldbuilding-bibles-2026-costs-and-consequences",
+    "guides-how-to-create-worldbuilding-bibles-2026-brandon-sanderson-cosmere",
+    "guides-how-to-create-worldbuilding-bibles-2026-george-r-r-martin-westeros",
+    "guides-how-to-create-worldbuilding-bibles-2026-key-takeaways",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-understanding-why-info-dumping-happens",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-identifying-what-readers-actually-need-to-know",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-revealing-world-through-character-pov",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-integrating-political-structures-through-conflict",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-handling-history-without-history-lessons",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-what-is-world-building",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-2-define-your-world-s-core-premise",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-4-develop-a-history",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-5-create-authentic-cultures",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-6-design-your-magic-system",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-7-establish-your-economic-systems",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-8-use-geography-to-create-conflict",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-9-craft-languages-slang-and-naming-conventions",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-10-connect-worldbuilding-to-character-development",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-11-link-worldbuilding-to-plot-structure",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-12-don-t-overbuild-the-80-20-rule-the-iceberg-theory",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-start-small-build-only-what-you-need",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-build-as-you-go",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-use-the-five-senses",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-go-deeper",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-avoid-the-infodump",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-be-consistent",
+    "fantasy-world-building-fantasy-world-building-how-to-create-worlds-that-work",
+    "fantasy-world-building-world-building-is-not-decoration",
+    "fantasy-world-building-magic-systems-need-rules",
+    "fantasy-world-building-history-makes-the-present-believable",
+    "fantasy-world-building-cultures-must-be-specific",
+    "fantasy-world-building-the-foundation-seven-elements-that-hold-a-world-together",
+    "fantasy-world-building-frequently-asked-questions",
+    "blog-worldbuilding-template-what-worldbuilding-actually-is-and-is-not",
+    "blog-worldbuilding-template-pillar-1-geography-and-environment",
+    "blog-worldbuilding-template-pillar-2-culture-and-society",
+    "blog-worldbuilding-template-pillar-3-politics-and-power-structures",
+    "blog-worldbuilding-template-pillar-4-economy-and-trade",
+    "blog-worldbuilding-template-pillar-5-magic-technology-or-unique-systems",
+    "blog-worldbuilding-template-the-golden-rule-experience-over-explanation",
+    "blog-worldbuilding-template-how-ai-can-help-with-worldbuilding",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-what-worldbuilding-actually-is-and-what-it-isn-t",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-the-first-rule-of-worldbuilding-it-s-not-about-the-world-it-s-about-the-people",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-1-start-with-what-s-different",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-3-forget-unique-go-for-specific",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-4-watch-out-for-info-dumps",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-5-establish-and-respect-the-rules",
+    "post-dark-fantasy-world-building-geography-as-pressure-not-backdrop",
+    "post-dark-fantasy-world-building-corruption-as-a-thematic-engine",
+    "post-dark-fantasy-world-building-example-instead-of-detailing-the-wakes-as-geological-phenomena-i-let-him-stand-at-the-edge-of-one-train-near-it-and-seethe-while-watching-it",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-iceberg",
+    "blog-worldbuilding-guide-for-fiction-authors-geography-the-layer-that-touches-everything",
+    "blog-worldbuilding-guide-for-fiction-authors-magic-and-technology-systems-rules-before-wonder",
+    "blog-worldbuilding-guide-for-fiction-authors-history-and-society-building-backwards-from-the-present",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-consistency-system",
+    "blog-worldbuilding-guide-for-fiction-authors-genre-specific-worldbuilding-priorities",
+    "blog-worldbuilding-guide-for-fiction-authors-the-one-rule-that-covers-everything",
+    "worldbuildingsciencefictionandfantasy-start-with-the-physics-of-consequence",
+    "worldbuildingsciencefictionandfantasy-world-building-as-spotlighting-not-total-conquest"
+  ],
+  "cartography": [
+    "how-to-create-a-map-for-fantasy-world-building-why-maps-matter-in-world-building",
+    "how-to-create-a-map-for-fantasy-world-building-step-3-place-rivers-correctly"
+  ],
+  "plot development": [
+    "how-to-create-a-map-for-fantasy-world-building-why-maps-matter-in-world-building",
+    "fantasy-world-building-frequently-asked-questions",
+    "blog-worldbuilding-guide-for-fiction-authors-the-one-rule-that-covers-everything"
+  ],
+  "geography": [
+    "how-to-create-a-map-for-fantasy-world-building-why-maps-matter-in-world-building",
+    "how-to-create-a-map-for-fantasy-world-building-step-3-place-rivers-correctly",
+    "how-to-create-a-map-for-fantasy-world-building-step-5-place-settlements-and-cities",
+    "how-to-create-a-map-for-fantasy-world-building-step-6-mark-political-boundaries",
+    "how-to-create-a-map-for-fantasy-world-building-conclusion",
+    "how-to-create-a-map-for-fantasy-world-building-faqs-about-creating-fantasy-maps",
+    "2015-06-01-world-building-101-four-steps-for-designing-the-fantasy-landscape-content",
+    "worldbuilding-guide-designing-geography-and-environment-drawing-a-rough-map",
+    "worldbuilding-guide-designing-geography-and-environment-frequently-asked-questions-faq",
+    "blog-documenting-my-book-writing-journey-week-9-tip-1-explore-real-world-geographies",
+    "blog-documenting-my-book-writing-journey-week-9-tip-8-imagine-the-impact-of-magic",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-understanding-the-basics-of-worldbuilding",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-creating-logical-and-consistent-geography",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-adding-depth-and-detail",
+    "how-to-create-fantasy-cultures-1-geography-and-environment",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-the-foundation-of-fantasy-world-design-tips-building-your-realm-from-the-ground-up",
+    "watch-transcript",
+    "post-world-building-using-the-real-world-4-rivers",
+    "post-world-building-using-the-real-world-5-biomes",
+    "post-world-building-using-the-real-world-build-your-own-world",
+    "guides-how-to-create-worldbuilding-bibles-2026-george-r-r-martin-westeros",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-3-create-your-physical-world",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-8-use-geography-to-create-conflict",
+    "blog-worldbuilding-guide-for-fiction-authors-geography-the-layer-that-touches-everything"
+  ],
+  "storytelling": [
+    "how-to-create-a-map-for-fantasy-world-building-why-maps-matter-in-world-building",
+    "worldbuilding-guide-designing-geography-and-environment-evolving-environments",
+    "blog-documenting-my-book-writing-journey-week-9-tip-9-use-emotional-landscapes",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-bringing-it-all-together-the-power-of-detail-and-consistency",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-4-character-dynamics-across-the-divide",
+    "economics-doesnt-believe-in-magic-story-time",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-physical-constraints",
+    "impossible-things-inside-the-narrative-laboratory",
+    "impossible-things-the-first-law-of-narrative-energy-miracles-aren-t-free",
+    "impossible-things-why-narrative-cost-is-the-key-to-believable-fantasy",
+    "impossible-things-how-costs-shape-worldbuilding-in-fantasy-and-science-fiction",
+    "impossible-things-why-symmetry-is-essential-for-immersive-storytelling",
+    "impossible-things-controlled-instability-making-fantasy-worlds-feel-alive",
+    "impossible-things-why-believable-fantasy-worlds-react-to-the-impossible",
+    "impossible-things-small-impossible-details-with-outsized-consequences",
+    "uncategorized-interstellar-trade-and-economics-8-conflict-breeds-story",
+    "guides-how-to-create-worldbuilding-bibles-2026-depth-vs-info-dumping",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-revealing-world-through-character-pov",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-showing-magic-through-use-not-explanation",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-integrating-political-structures-through-conflict",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-what-is-world-building",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-3-create-your-physical-world",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-10-connect-worldbuilding-to-character-development",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-11-link-worldbuilding-to-plot-structure",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-use-the-five-senses",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-avoid-the-infodump",
+    "fantasy-world-building-history-makes-the-present-believable",
+    "fantasy-world-building-frequently-asked-questions",
+    "blog-worldbuilding-template-pillar-5-magic-technology-or-unique-systems",
+    "blog-worldbuilding-template-the-golden-rule-experience-over-explanation",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-what-worldbuilding-actually-is-and-what-it-isn-t",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-the-first-rule-of-worldbuilding-it-s-not-about-the-world-it-s-about-the-people",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-3-forget-unique-go-for-specific",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-writing-vivid-description",
+    "post-dark-fantasy-world-building-corruption-as-a-thematic-engine",
+    "post-dark-fantasy-world-building-why-my-first-draft-failed",
+    "post-dark-fantasy-world-building-example-instead-of-detailing-the-wakes-as-geological-phenomena-i-let-him-stand-at-the-edge-of-one-train-near-it-and-seethe-while-watching-it",
+    "blog-worldbuilding-guide-for-fiction-authors-magic-and-technology-systems-rules-before-wonder",
+    "worldbuildingsciencefictionandfantasy-save-the-cat-world-building-as-promise-and-payoff",
+    "worldbuildingsciencefictionandfantasy-ready-go"
+  ],
+  "city-planning": [
+    "how-to-create-a-map-for-fantasy-world-building-step-3-place-rivers-correctly"
+  ],
+  "world-building": [
+    "how-to-create-a-map-for-fantasy-world-building-step-4-define-climate-zones",
+    "how-to-create-a-map-for-fantasy-world-building-step-5-place-settlements-and-cities",
+    "how-to-create-a-map-for-fantasy-world-building-faqs-about-creating-fantasy-maps",
+    "blog-documenting-my-book-writing-journey-week-9-tip-8-imagine-the-impact-of-magic",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-fantasy-author",
+    "post-world-building-using-the-real-world-understanding-your-fantasy-world",
+    "post-world-building-using-the-real-world-5-biomes",
+    "post-world-building-using-the-real-world-build-your-own-world",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-2-choose-your-relationship-model",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-the-best-worlds-yet",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-a-magi-tech-world-that-holds-together",
+    "economics-doesnt-believe-in-magic-economics",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-environmental-factors",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-model",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-triangle-of-magic",
+    "uncategorized-interstellar-trade-and-economics-crafting-interstellar-trade-and-economics-in-your-world",
+    "uncategorized-interstellar-trade-and-economics-a-guide-to-developing-trade-systems-that-use-both-magical-and-technological-resources",
+    "guides-how-to-create-worldbuilding-bibles-2026-j-r-r-tolkien-middle-earth",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-showing-magic-through-use-not-explanation",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-1-choose-your-type-of-fantasy-world",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-3-create-your-physical-world",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-2-make-it-personal",
+    "post-dark-fantasy-world-building-the-world-building-trap",
+    "post-dark-fantasy-world-building-example-describing-a-shadowhound-from-shardkin-book-1-of-the-wake-saga",
+    "post-dark-fantasy-world-building-why-my-first-draft-failed",
+    "post-dark-fantasy-world-building-the-golden-rule-world-building-serves-the-story",
+    "post-dark-fantasy-world-building-quick-world-building-checklist-for-dark-fantasy-writers",
+    "worldbuildingsciencefictionandfantasy-hard-vs-soft-world-building-and-why-both-belong-in-the-same-book",
+    "worldbuildingsciencefictionandfantasy-save-the-cat-world-building-as-promise-and-payoff",
+    "worldbuildingsciencefictionandfantasy-ready-go"
+  ],
+  "map-design": [
+    "how-to-create-a-map-for-fantasy-world-building-step-4-define-climate-zones",
+    "watch-transcript"
+  ],
+  "climate": [
+    "how-to-create-a-map-for-fantasy-world-building-step-4-define-climate-zones",
+    "worldbuilding-guide-designing-geography-and-environment-drawing-a-rough-map",
+    "worldbuilding-guide-designing-geography-and-environment-frequently-asked-questions-faq",
+    "post-world-building-using-the-real-world-3-mountains"
+  ],
+  "narrative": [
+    "how-to-create-a-map-for-fantasy-world-building-step-4-define-climate-zones",
+    "how-to-create-a-map-for-fantasy-world-building-step-6-mark-political-boundaries",
+    "how-to-create-a-map-for-fantasy-world-building-step-7-add-points-of-interest",
+    "impossible-things-inside-the-narrative-laboratory",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-understanding-why-info-dumping-happens",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-handling-history-without-history-lessons",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-4-develop-a-history",
+    "fantasy-world-building-world-building-is-not-decoration",
+    "fantasy-world-building-magic-systems-need-rules",
+    "fantasy-world-building-the-foundation-seven-elements-that-hold-a-world-together",
+    "blog-worldbuilding-template-the-golden-rule-experience-over-explanation",
+    "post-dark-fantasy-world-building-why-place-is-power-in-dark-fantasy"
+  ],
+  "game-design": [
+    "how-to-create-a-map-for-fantasy-world-building-step-5-place-settlements-and-cities",
+    "worldbuilding-guide-designing-geography-and-environment-evolving-environments",
+    "post-world-building-using-the-real-world-5-biomes",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "economics-doesnt-believe-in-magic-economics",
+    "post-a-political-model-for-fantasy-stripping-power-and-no-choice",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-determine-the-scope-of-abilities",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-creating-limitations",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-environmental-factors",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-model",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-good-model-for-magic",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-triangle-of-magic",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-cost",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-1-forbidden-realms",
+    "impossible-things-the-first-law-of-narrative-energy-miracles-aren-t-free",
+    "uncategorized-interstellar-trade-and-economics-final-thoughts-make-it-dynamic",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-6-design-your-magic-system",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-8-use-geography-to-create-conflict",
+    "post-dark-fantasy-world-building-why-place-is-power-in-dark-fantasy",
+    "worldbuildingsciencefictionandfantasy-ready-go"
+  ],
+  "fantasy-creation": [
+    "how-to-create-a-map-for-fantasy-world-building-step-5-place-settlements-and-cities",
+    "blog-documenting-my-book-writing-journey-week-9-tip-7-consider-geological-features"
+  ],
+  "politics": [
+    "how-to-create-a-map-for-fantasy-world-building-step-6-mark-political-boundaries",
+    "how-to-create-fantasy-cultures-4-social-structure-and-customs",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2016-10-magic-and-tech-government-content",
+    "impossible-things-dragons-power-and-political-gravity-in-epic-fantasy",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-integrating-political-structures-through-conflict",
+    "blog-worldbuilding-template-pillar-3-politics-and-power-structures"
+  ],
+  "role-playing": [
+    "how-to-create-a-map-for-fantasy-world-building-step-6-mark-political-boundaries"
+  ],
+  "creative-writing": [
+    "how-to-create-a-map-for-fantasy-world-building-step-7-add-points-of-interest",
+    "blog-documenting-my-book-writing-journey-week-9-tip-1-explore-real-world-geographies",
+    "blog-documenting-my-book-writing-journey-week-9-tip-2-combine-and-reimagine",
+    "blog-documenting-my-book-writing-journey-week-9-tip-3-use-art-and-photography",
+    "blog-documenting-my-book-writing-journey-week-9-tip-4-draw-from-mythology-and-folklore",
+    "blog-documenting-my-book-writing-journey-week-9-tip-6-incorporate-unique-flora-and-fauna",
+    "blog-documenting-my-book-writing-journey-week-9-tip-8-imagine-the-impact-of-magic",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-understanding-the-basics-of-worldbuilding",
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-adding-depth-and-detail",
+    "how-to-create-fantasy-cultures-climate-and-terrain-in-your-fantasy-world-their-impact-on-plot-and-character-challenges",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-fantasy-author",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-bringing-it-all-together-the-power-of-detail-and-consistency",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-introduction",
+    "impossible-things-why-science-fiction-worlds-feel-real-to-readers",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-showing-magic-through-use-not-explanation",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-what-is-world-building",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-11-link-worldbuilding-to-plot-structure",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-start-small-build-only-what-you-need",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-build-as-you-go",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-use-the-five-senses",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-go-deeper",
+    "fantasy-world-building-fantasy-world-building-how-to-create-worlds-that-work",
+    "fantasy-world-building-frequently-asked-questions",
+    "blog-worldbuilding-template-what-worldbuilding-actually-is-and-is-not",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-what-worldbuilding-actually-is-and-what-it-isn-t",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-1-start-with-what-s-different",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-writing-vivid-description",
+    "blog-worldbuilding-guide-for-fiction-authors-genre-specific-worldbuilding-priorities",
+    "worldbuildingsciencefictionandfantasy-world-building-as-spotlighting-not-total-conquest"
+  ],
+  "design": [
+    "how-to-create-a-map-for-fantasy-world-building-what-tools-can-you-use-to-make-fantasy-maps",
+    "fantasy-world-building-cultures-must-be-specific"
+  ],
+  "art": [
+    "how-to-create-a-map-for-fantasy-world-building-what-tools-can-you-use-to-make-fantasy-maps",
+    "how-to-create-fantasy-cultures-5-art-and-aesthetics"
+  ],
+  "tools": [
+    "how-to-create-a-map-for-fantasy-world-building-what-tools-can-you-use-to-make-fantasy-maps"
+  ],
+  "resource": [
+    "how-to-create-a-map-for-fantasy-world-building-what-tools-can-you-use-to-make-fantasy-maps"
+  ],
+  "fantasy": [
+    "how-to-create-a-map-for-fantasy-world-building-what-tools-can-you-use-to-make-fantasy-maps",
+    "blog-documenting-my-book-writing-journey-week-9-tip-1-explore-real-world-geographies",
+    "blog-documenting-my-book-writing-journey-week-9-tip-8-imagine-the-impact-of-magic",
+    "blog-documenting-my-book-writing-journey-week-9-tip-9-use-emotional-landscapes",
+    "how-to-create-fantasy-cultures-2-history-and-mythology",
+    "how-to-create-fantasy-cultures-6-food-and-cuisine",
+    "how-to-create-fantasy-cultures-7-technology-and-innovation",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-fantasy-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "post-world-building-using-the-real-world-understanding-your-fantasy-world",
+    "post-world-building-using-the-real-world-1-planet-size",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "2019-06-11-the-magic-tech-formula-about-joshua-k-johnson",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-2-choose-your-relationship-model",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-4-character-dynamics-across-the-divide",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-faqs",
+    "economics-doesnt-believe-in-magic-economics",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-introduction",
+    "2016-10-magic-and-tech-government-content",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-cost",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-examples",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-1-forbidden-realms",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-2-harry-potter",
+    "impossible-things-why-narrative-cost-is-the-key-to-believable-fantasy",
+    "impossible-things-how-costs-shape-worldbuilding-in-fantasy-and-science-fiction",
+    "impossible-things-why-symmetry-is-essential-for-immersive-storytelling",
+    "impossible-things-dragons-power-and-political-gravity-in-epic-fantasy",
+    "uncategorized-interstellar-trade-and-economics-a-guide-to-developing-trade-systems-that-use-both-magical-and-technological-resources",
+    "guides-how-to-create-worldbuilding-bibles-2026-brandon-sanderson-cosmere",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-showing-magic-through-use-not-explanation",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-what-is-world-building",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-2-define-your-world-s-core-premise",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-3-create-your-physical-world",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-5-create-authentic-cultures",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-11-link-worldbuilding-to-plot-structure",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-12-don-t-overbuild-the-80-20-rule-the-iceberg-theory",
+    "fantasy-world-building-fantasy-world-building-how-to-create-worlds-that-work",
+    "fantasy-world-building-world-building-is-not-decoration",
+    "fantasy-world-building-magic-systems-need-rules",
+    "fantasy-world-building-history-makes-the-present-believable",
+    "fantasy-world-building-cultures-must-be-specific",
+    "fantasy-world-building-the-foundation-seven-elements-that-hold-a-world-together",
+    "fantasy-world-building-where-to-go-deeper",
+    "fantasy-world-building-frequently-asked-questions",
+    "blog-worldbuilding-template-pillar-4-economy-and-trade",
+    "blog-worldbuilding-template-pillar-5-magic-technology-or-unique-systems",
+    "post-dark-fantasy-world-building-the-world-building-trap",
+    "post-dark-fantasy-world-building-geography-as-pressure-not-backdrop",
+    "post-dark-fantasy-world-building-example-describing-a-shadowhound-from-shardkin-book-1-of-the-wake-saga",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-iceberg",
+    "worldbuildingsciencefictionandfantasy-start-with-the-physics-of-consequence",
+    "worldbuildingsciencefictionandfantasy-hard-vs-soft-world-building-and-why-both-belong-in-the-same-book"
+  ],
+  "world building": [
+    "how-to-create-a-map-for-fantasy-world-building-conclusion",
+    "2015-06-01-world-building-101-four-steps-for-designing-the-fantasy-landscape-content",
+    "fantasy-world-building-where-to-go-deeper"
+  ],
+  "creative writing": [
+    "how-to-create-a-map-for-fantasy-world-building-conclusion",
+    "worldbuilding-guide-designing-geography-and-environment-continue-your-writing-journey",
+    "guides-how-to-create-worldbuilding-bibles-2026-j-r-r-tolkien-middle-earth",
+    "blog-worldbuilding-template-pillar-1-geography-and-environment"
+  ],
+  "resources": [
+    "how-to-create-a-map-for-fantasy-world-building-conclusion"
+  ],
+  "game design": [
+    "how-to-create-a-map-for-fantasy-world-building-conclusion"
+  ],
+  "fantasy-writing": [
+    "how-to-create-a-map-for-fantasy-world-building-faqs-about-creating-fantasy-maps",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-the-best-worlds-yet",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-decide-who-has-access-to-these-powers",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-handling-history-without-history-lessons",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-6-design-your-magic-system"
+  ],
+  "narrative-design": [
+    "how-to-create-a-map-for-fantasy-world-building-faqs-about-creating-fantasy-maps",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-power-source",
+    "impossible-things-how-costs-shape-worldbuilding-in-fantasy-and-science-fiction",
+    "impossible-things-breaking-symmetry-creating-tension-and-drama",
+    "impossible-things-why-believable-fantasy-worlds-react-to-the-impossible",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-2-define-your-world-s-core-premise",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-10-connect-worldbuilding-to-character-development",
+    "blog-worldbuilding-template-what-worldbuilding-actually-is-and-is-not",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-what-worldbuilding-actually-is-and-what-it-isn-t",
+    "post-dark-fantasy-world-building-geography-as-pressure-not-backdrop",
+    "post-dark-fantasy-world-building-why-my-first-draft-failed",
+    "blog-worldbuilding-guide-for-fiction-authors-geography-the-layer-that-touches-everything"
+  ],
+  "culture": [
+    "2015-06-01-world-building-101-four-steps-for-designing-the-fantasy-landscape-content",
+    "worldbuilding-guide-designing-geography-and-environment-drawing-a-rough-map",
+    "how-to-create-fantasy-cultures-1-geography-and-environment",
+    "how-to-create-fantasy-cultures-2-history-and-mythology",
+    "how-to-create-fantasy-cultures-3-language-and-naming-conventions",
+    "how-to-create-fantasy-cultures-4-social-structure-and-customs",
+    "how-to-create-fantasy-cultures-6-food-and-cuisine",
+    "how-to-create-fantasy-cultures-7-technology-and-innovation",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-crafting-cultures-and-societies-fantasy-world-design-tips-for-rich-believable-civilisations",
+    "economics-doesnt-believe-in-magic-story-time",
+    "fantasy-world-building-cultures-must-be-specific",
+    "blog-worldbuilding-template-pillar-2-culture-and-society"
+  ],
+  "history": [
+    "2015-06-01-world-building-101-four-steps-for-designing-the-fantasy-landscape-content",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-the-foundation-of-fantasy-world-design-tips-building-your-realm-from-the-ground-up",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-4-develop-a-history"
+  ],
+  "writing technique": [
+    "2015-06-01-world-building-101-four-steps-for-designing-the-fantasy-landscape-content"
+  ],
+  "level-design": [
+    "worldbuilding-guide-designing-geography-and-environment-physical-layout-designing-the-land-and-sea"
+  ],
+  "terrain": [
+    "worldbuilding-guide-designing-geography-and-environment-physical-layout-designing-the-land-and-sea"
+  ],
+  "simulation": [
+    "worldbuilding-guide-designing-geography-and-environment-physical-layout-designing-the-land-and-sea",
+    "economics-doesnt-believe-in-magic-an-alternate-setup",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-model",
+    "uncategorized-interstellar-trade-and-economics-crafting-interstellar-trade-and-economics-in-your-world"
+  ],
+  "conflict": [
+    "worldbuilding-guide-designing-geography-and-environment-drawing-a-rough-map",
+    "blog-worldbuilding-template-pillar-3-politics-and-power-structures"
+  ],
+  "environment": [
+    "worldbuilding-guide-designing-geography-and-environment-evolving-environments",
+    "blog-documenting-my-book-writing-journey-week-9-tip-5-experiment-with-climate-and-weather"
+  ],
+  "ecosystem": [
+    "worldbuilding-guide-designing-geography-and-environment-frequently-asked-questions-faq"
+  ],
+  "story-planning": [
+    "worldbuilding-guide-designing-geography-and-environment-frequently-asked-questions-faq",
+    "worldbuildingsciencefictionandfantasy-world-building-as-spotlighting-not-total-conquest"
+  ],
+  "fantasy design": [
+    "worldbuilding-guide-designing-geography-and-environment-continue-your-writing-journey",
+    "blog-worldbuilding-template-pillar-1-geography-and-environment"
+  ],
+  "inspiration": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-1-explore-real-world-geographies"
+  ],
+  "research": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-2-combine-and-reimagine"
+  ],
+  "visual-inspiration": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-3-use-art-and-photography"
+  ],
+  "mythology": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-4-draw-from-mythology-and-folklore",
+    "how-to-create-fantasy-cultures-2-history-and-mythology"
+  ],
+  "literary-design": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-4-draw-from-mythology-and-folklore"
+  ],
+  "fiction": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-4-draw-from-mythology-and-folklore",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-balancing-power-and-weakness",
+    "impossible-things-inside-the-narrative-laboratory",
+    "worldbuildingsciencefictionandfantasy-ready-go"
+  ],
+  "narrative_design": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-5-experiment-with-climate-and-weather",
+    "worldbuildingsciencefictionandfantasy-start-with-the-physics-of-consequence"
+  ],
+  "fantasy-design": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-6-incorporate-unique-flora-and-fauna",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-weaving-magic-and-mysticism-into-your-world",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-bringing-it-all-together-the-power-of-detail-and-consistency",
+    "post-world-building-using-the-real-world-build-your-own-world",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-power-source",
+    "impossible-things-why-believable-fantasy-worlds-react-to-the-impossible",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-1-start-with-what-s-different"
+  ],
+  "sci-fi-concepts": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-6-incorporate-unique-flora-and-fauna"
+  ],
+  "geology": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-7-consider-geological-features",
+    "post-world-building-using-the-real-world-2-plate-tectonics",
+    "post-world-building-using-the-real-world-3-mountains"
+  ],
+  "terrain-generation": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-7-consider-geological-features"
+  ],
+  "magic": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-8-imagine-the-impact-of-magic",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-2-choose-your-relationship-model",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-faqs",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-a-magi-tech-world-that-holds-together",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-introduction",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-creating-limitations",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-physical-constraints",
+    "2016-10-magic-and-tech-government-content",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-impact",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-cost",
+    "uncategorized-interstellar-trade-and-economics-magic-based-examples",
+    "uncategorized-interstellar-trade-and-economics-7-logistics-magic-and-sci-fi-workhorses"
+  ],
+  "narrative design": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-9-use-emotional-landscapes",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-characters-as-mirrors-of-your-world",
+    "impossible-things-why-narrative-cost-is-the-key-to-believable-fantasy",
+    "impossible-things-why-symmetry-is-essential-for-immersive-storytelling",
+    "impossible-things-controlled-instability-making-fantasy-worlds-feel-alive",
+    "impossible-things-narrative-relativity-emotional-continuity-vs-physical-accuracy",
+    "impossible-things-small-impossible-details-with-outsized-consequences",
+    "guides-how-to-create-worldbuilding-bibles-2026-j-r-r-tolkien-middle-earth",
+    "guides-how-to-create-worldbuilding-bibles-2026-key-takeaways",
+    "fantasy-world-building-history-makes-the-present-believable",
+    "post-dark-fantasy-world-building-the-golden-rule-world-building-serves-the-story",
+    "worldbuildingsciencefictionandfantasy-hard-vs-soft-world-building-and-why-both-belong-in-the-same-book"
+  ],
+  "environment design": [
+    "blog-documenting-my-book-writing-journey-week-9-tip-9-use-emotional-landscapes"
+  ],
+  "environmental design": [
+    "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-creating-logical-and-consistent-geography"
+  ],
+  "world‑building": [
+    "how-to-create-fantasy-cultures-3-language-and-naming-conventions"
+  ],
+  "language": [
+    "how-to-create-fantasy-cultures-3-language-and-naming-conventions"
+  ],
+  "naming": [
+    "how-to-create-fantasy-cultures-3-language-and-naming-conventions"
+  ],
+  "education": [
+    "how-to-create-fantasy-cultures-3-language-and-naming-conventions",
+    "post-world-building-using-the-real-world-2-plate-tectonics",
+    "post-world-building-using-the-real-world-3-mountains",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-aspects-of-ubiquity"
+  ],
+  "society": [
+    "how-to-create-fantasy-cultures-4-social-structure-and-customs",
+    "blog-worldbuilding-template-pillar-2-culture-and-society"
+  ],
+  "routines": [
+    "how-to-create-fantasy-cultures-4-social-structure-and-customs"
+  ],
+  "cultural_design": [
+    "how-to-create-fantasy-cultures-5-art-and-aesthetics"
+  ],
+  "aesthetics": [
+    "how-to-create-fantasy-cultures-5-art-and-aesthetics"
+  ],
+  "cuisine": [
+    "how-to-create-fantasy-cultures-6-food-and-cuisine"
+  ],
+  "technology": [
+    "how-to-create-fantasy-cultures-7-technology-and-innovation",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-2-choose-your-relationship-model",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-faqs"
+  ],
+  "writing": [
+    "how-to-create-fantasy-cultures-conclusion",
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-fantasy-author",
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-balancing-power-and-weakness",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-avoiding-deus-ex-machina-scenarios",
+    "impossible-things-the-first-law-of-narrative-energy-miracles-aren-t-free",
+    "guides-how-to-create-worldbuilding-bibles-2026-depth-vs-info-dumping",
+    "guides-how-to-create-worldbuilding-bibles-2026-the-relevance-test",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-understanding-why-info-dumping-happens",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-build-as-you-go",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-use-the-five-senses",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-go-deeper",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-be-consistent",
+    "fantasy-world-building-magic-systems-need-rules",
+    "blog-worldbuilding-template-pillar-5-magic-technology-or-unique-systems",
+    "blog-worldbuilding-template-the-golden-rule-experience-over-explanation",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-3-forget-unique-go-for-specific",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-4-watch-out-for-info-dumps",
+    "post-dark-fantasy-world-building-the-world-building-trap",
+    "post-dark-fantasy-world-building-why-place-is-power-in-dark-fantasy",
+    "post-dark-fantasy-world-building-show-don-t-tell-sensory-immersion",
+    "post-dark-fantasy-world-building-the-golden-rule-world-building-serves-the-story",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-iceberg",
+    "worldbuildingsciencefictionandfantasy-the-iceberg-rule-and-the-hollow-iceberg-trap"
+  ],
+  "content marketing": [
+    "how-to-create-fantasy-cultures-conclusion"
+  ],
+  "fiction-writing": [
+    "how-to-create-fantasy-cultures-climate-and-terrain-in-your-fantasy-world-their-impact-on-plot-and-character-challenges"
+  ],
+  "character-development": [
+    "how-to-create-fantasy-cultures-climate-and-terrain-in-your-fantasy-world-their-impact-on-plot-and-character-challenges",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-4-character-dynamics-across-the-divide",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-physical-constraints",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-mental-or-emotional-restrictions",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-balancing-power-and-weakness",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-handling-history-without-history-lessons",
+    "post-dark-fantasy-world-building-the-world-building-trap"
+  ],
+  "tips": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-fantasy-author"
+  ],
+  "religion": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-crafting-cultures-and-societies-fantasy-world-design-tips-for-rich-believable-civilisations",
+    "economics-doesnt-believe-in-magic-story-time",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-aspects-of-ubiquity"
+  ],
+  "social-structure": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-crafting-cultures-and-societies-fantasy-world-design-tips-for-rich-believable-civilisations"
+  ],
+  "language-design": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-crafting-cultures-and-societies-fantasy-world-design-tips-for-rich-believable-civilisations",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-9-craft-languages-slang-and-naming-conventions"
+  ],
+  "magic-system": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-weaving-magic-and-mysticism-into-your-world",
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-power-source",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-environmental-factors",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-1-forbidden-realms"
+  ],
+  "characters": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-characters-as-mirrors-of-your-world"
+  ],
+  "content-creation": [
+    "post-mastering-the-art-of-high-fantasy-world-design-fantasy-world-design-tips-bringing-it-all-together-the-power-of-detail-and-consistency",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-determine-the-scope-of-abilities",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-what-is-world-building",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-the-first-rule-of-worldbuilding-it-s-not-about-the-world-it-s-about-the-people",
+    "worldbuildingsciencefictionandfantasy-world-building-as-spotlighting-not-total-conquest"
+  ],
+  "genre": [
+    "2024-12-06-the-worldbuilders-toolkit-worldbuilding-for-high-fantasy-advice-for-writers-from-an-aspiring-author",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-1-choose-your-type-of-fantasy-world"
+  ],
+  "marketing": [
+    "watch-description",
+    "blog-economic-systems-creator-spotlight-dungeon-baker"
+  ],
+  "affiliate": [
+    "watch-description"
+  ],
+  "community": [
+    "watch-description"
+  ],
+  "roleplaying": [
+    "watch-description",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-triangle-of-magic"
+  ],
+  "content‑creation": [
+    "watch-description"
+  ],
+  "guide": [
+    "post-world-building-using-the-real-world-understanding-your-fantasy-world"
+  ],
+  "gravity": [
+    "post-world-building-using-the-real-world-1-planet-size"
+  ],
+  "physiology": [
+    "post-world-building-using-the-real-world-1-planet-size"
+  ],
+  "character design": [
+    "post-world-building-using-the-real-world-1-planet-size"
+  ],
+  "planetary science": [
+    "post-world-building-using-the-real-world-2-plate-tectonics"
+  ],
+  "tectonics": [
+    "post-world-building-using-the-real-world-2-plate-tectonics"
+  ],
+  "hydrology": [
+    "post-world-building-using-the-real-world-4-rivers"
+  ],
+  "environmental science": [
+    "post-world-building-using-the-real-world-4-rivers"
+  ],
+  "environmental simulation": [
+    "post-world-building-using-the-real-world-5-biomes"
+  ],
+  "map-editing": [
+    "post-world-building-using-the-real-world-build-your-own-world"
+  ],
+  "historical": [
+    "2019-06-11-the-magic-tech-formula-home-of-author-joshua-k-johnson-and-the-worlds-that-he-creates"
+  ],
+  "blog": [
+    "2019-06-11-the-magic-tech-formula-about-joshua-k-johnson"
+  ],
+  "author-profile": [
+    "2019-06-11-the-magic-tech-formula-about-joshua-k-johnson"
+  ],
+  "subscription": [
+    "2019-06-11-the-magic-tech-formula-about-joshua-k-johnson"
+  ],
+  "conceptual": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-1-ground-rules-mystical-vs-mechanical",
+    "post-a-political-model-for-fantasy-the-power-unit-p-the-atom-of-politics",
+    "impossible-things-inside-the-narrative-laboratory"
+  ],
+  "system-design": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-1-ground-rules-mystical-vs-mechanical",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-3-power-balance-pitfalls",
+    "fantasy-world-building-the-foundation-seven-elements-that-hold-a-world-together"
+  ],
+  "architecture": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-1-ground-rules-mystical-vs-mechanical"
+  ],
+  "reference": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-2-choose-your-relationship-model",
+    "fantasy-world-building-where-to-go-deeper"
+  ],
+  "storybuilding": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-3-power-balance-pitfalls"
+  ],
+  "balance": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-3-power-balance-pitfalls",
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-faqs",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-creating-limitations",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-good-model-for-magic",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-1-forbidden-realms"
+  ],
+  "mechanics": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-3-power-balance-pitfalls",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-creating-limitations",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-6-design-your-magic-system"
+  ],
+  "guides": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-the-best-worlds-yet"
+  ],
+  "writing-tools": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-a-magi-tech-world-that-holds-together"
+  ],
+  "author-marketing": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-a-magi-tech-world-that-holds-together"
+  ],
+  "author-resources": [
+    "how-to-balance-magic-and-technology-in-fantasy-worlds-ready-to-build-a-magi-tech-world-that-holds-together"
+  ],
+  "communication": [
+    "blog-economic-systems-creator-spotlight-dungeon-baker"
+  ],
+  "user-engagement": [
+    "blog-economic-systems-creator-spotlight-dungeon-baker"
+  ],
+  "beta-program": [
+    "blog-economic-systems-creator-spotlight-dungeon-baker"
+  ],
+  "ritual": [
+    "economics-doesnt-believe-in-magic-story-time"
+  ],
+  "economics": [
+    "economics-doesnt-believe-in-magic-economics",
+    "uncategorized-interstellar-trade-and-economics-crafting-interstellar-trade-and-economics-in-your-world",
+    "uncategorized-interstellar-trade-and-economics-a-guide-to-developing-trade-systems-that-use-both-magical-and-technological-resources",
+    "uncategorized-interstellar-trade-and-economics-2-define-the-medium-of-exchange",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-7-establish-your-economic-systems"
+  ],
+  "military": [
+    "economics-doesnt-believe-in-magic-economics"
+  ],
+  "financial‑modelling": [
+    "economics-doesnt-believe-in-magic-an-alternate-setup"
+  ],
+  "social‑economics": [
+    "economics-doesnt-believe-in-magic-an-alternate-setup"
+  ],
+  "game‑design": [
+    "economics-doesnt-believe-in-magic-an-alternate-setup"
+  ],
+  "political-modeling": [
+    "post-a-political-model-for-fantasy-the-power-unit-p-the-atom-of-politics"
+  ],
+  "framework": [
+    "post-a-political-model-for-fantasy-the-power-unit-p-the-atom-of-politics"
+  ],
+  "social-science": [
+    "post-a-political-model-for-fantasy-principles-of-power",
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "political-philosophy": [
+    "post-a-political-model-for-fantasy-principles-of-power",
+    "post-a-political-model-for-fantasy-the-flow-of-power"
+  ],
+  "authority-structures": [
+    "post-a-political-model-for-fantasy-principles-of-power"
+  ],
+  "theoretical-framework": [
+    "post-a-political-model-for-fantasy-principles-of-power"
+  ],
+  "governance": [
+    "post-a-political-model-for-fantasy-the-flow-of-power"
+  ],
+  "power-dynamics": [
+    "post-a-political-model-for-fantasy-the-flow-of-power"
+  ],
+  "modeling": [
+    "post-a-political-model-for-fantasy-the-identity-multiplier",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-model"
+  ],
+  "political-science": [
+    "post-a-political-model-for-fantasy-the-identity-multiplier"
+  ],
+  "game-development": [
+    "post-a-political-model-for-fantasy-the-identity-multiplier"
+  ],
+  "analytics": [
+    "post-a-political-model-for-fantasy-the-identity-multiplier"
+  ],
+  "political-structures": [
+    "post-a-political-model-for-fantasy-stripping-power-and-no-choice"
+  ],
+  "societal-control": [
+    "post-a-political-model-for-fantasy-stripping-power-and-no-choice"
+  ],
+  "historical-analysis": [
+    "post-a-political-model-for-fantasy-stripping-power-and-no-choice"
+  ],
+  "theoretical-concepts": [
+    "post-a-political-model-for-fantasy-stripping-power-and-no-choice"
+  ],
+  "political-control": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "propaganda": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "social-engineering": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "identity-management": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "identity-politics": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "gender-studies": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "critical-theory": [
+    "post-a-political-model-for-fantasy-forcing-power-into-dormancy"
+  ],
+  "science-fiction": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-introduction",
+    "impossible-things-how-costs-shape-worldbuilding-in-fantasy-and-science-fiction",
+    "impossible-things-why-science-fiction-worlds-feel-real-to-readers",
+    "uncategorized-interstellar-trade-and-economics-a-guide-to-developing-trade-systems-that-use-both-magical-and-technological-resources",
+    "uncategorized-interstellar-trade-and-economics-1-start-with-scarcity-what-s-valuable-and-where",
+    "fantasy-world-building-where-to-go-deeper"
+  ],
+  "rpg": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-determine-the-scope-of-abilities",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-model",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-good-model-for-magic"
+  ],
+  "magic-systems": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-determine-the-scope-of-abilities",
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-mental-or-emotional-restrictions",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-good-model-for-magic",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-triangle-of-magic"
+  ],
+  "balancing": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-determine-the-scope-of-abilities"
+  ],
+  "magic-system-design": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-decide-who-has-access-to-these-powers"
+  ],
+  "plot-construction": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-decide-who-has-access-to-these-powers"
+  ],
+  "concept": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-creating-limitations"
+  ],
+  "constraints": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-physical-constraints"
+  ],
+  "resource-management": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-physical-constraints",
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-cost",
+    "uncategorized-interstellar-trade-and-economics-1-start-with-scarcity-what-s-valuable-and-where",
+    "uncategorized-interstellar-trade-and-economics-magic-based-examples",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-7-establish-your-economic-systems"
+  ],
+  "rule-system": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-environmental-factors"
+  ],
+  "plot": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-avoiding-deus-ex-machina-scenarios",
+    "post-dark-fantasy-world-building-the-world-building-trap"
+  ],
+  "character development": [
+    "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-avoiding-deus-ex-machina-scenarios",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-revealing-world-through-character-pov",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-2-make-it-personal",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-4-watch-out-for-info-dumps"
+  ],
+  "social-dynamics": [
+    "2016-10-magic-and-tech-government-content"
+  ],
+  "balance-mechanics": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-triangle-of-magic"
+  ],
+  "usability": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-aspects-of-ubiquity"
+  ],
+  "social": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-aspects-of-ubiquity"
+  ],
+  "legal": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-aspects-of-ubiquity"
+  ],
+  "effects": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-impact"
+  ],
+  "societal": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-impact"
+  ],
+  "cost-modeling": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-cost"
+  ],
+  "examples": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-examples"
+  ],
+  "role-playing-games": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-examples"
+  ],
+  "content-generation": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-examples"
+  ],
+  "documentation": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-examples",
+    "guides-how-to-create-worldbuilding-bibles-2026-what-readers-need-vs-what-you-need",
+    "guides-how-to-create-worldbuilding-bibles-2026-show-don-t-tell-for-world-building",
+    "guides-how-to-create-worldbuilding-bibles-2026-brandon-sanderson-cosmere",
+    "guides-how-to-create-worldbuilding-bibles-2026-george-r-r-martin-westeros",
+    "guides-how-to-create-worldbuilding-bibles-2026-key-takeaways",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-consistency-system"
+  ],
+  "rules": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-1-forbidden-realms"
+  ],
+  "demographics": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-2-harry-potter"
+  ],
+  "social-network": [
+    "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-2-harry-potter"
+  ],
+  "physics metaphor": [
+    "impossible-things-inside-the-narrative-laboratory"
+  ],
+  "fiction-concepts": [
+    "impossible-things-the-first-law-of-narrative-energy-miracles-aren-t-free"
+  ],
+  "dramatic-device": [
+    "impossible-things-breaking-symmetry-creating-tension-and-drama"
+  ],
+  "speculative-fiction": [
+    "impossible-things-breaking-symmetry-creating-tension-and-drama",
+    "impossible-things-the-golden-rule-of-speculative-fiction-worldbuilding"
+  ],
+  "narrative-structure": [
+    "impossible-things-the-golden-rule-of-speculative-fiction-worldbuilding",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-identifying-what-readers-actually-need-to-know",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-1-start-with-what-s-different",
+    "worldbuildingsciencefictionandfantasy-save-the-cat-world-building-as-promise-and-payoff"
+  ],
+  "fantasy-genre": [
+    "impossible-things-the-golden-rule-of-speculative-fiction-worldbuilding"
+  ],
+  "writing-tips": [
+    "impossible-things-the-golden-rule-of-speculative-fiction-worldbuilding",
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-identifying-what-readers-actually-need-to-know",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-writing-vivid-description"
+  ],
+  "speculative fiction": [
+    "impossible-things-controlled-instability-making-fantasy-worlds-feel-alive",
+    "impossible-things-narrative-relativity-emotional-continuity-vs-physical-accuracy"
+  ],
+  "time travel": [
+    "impossible-things-narrative-relativity-emotional-continuity-vs-physical-accuracy"
+  ],
+  "fictional economy": [
+    "impossible-things-dune-and-the-power-of-a-single-transformative-resource"
+  ],
+  "literary analysis": [
+    "impossible-things-dune-and-the-power-of-a-single-transformative-resource"
+  ],
+  "resource management": [
+    "impossible-things-dune-and-the-power-of-a-single-transformative-resource"
+  ],
+  "strategy": [
+    "impossible-things-dragons-power-and-political-gravity-in-epic-fantasy",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-8-use-geography-to-create-conflict"
+  ],
+  "ethics": [
+    "impossible-things-small-impossible-details-with-outsized-consequences",
+    "uncategorized-interstellar-trade-and-economics-questions-to-explore"
+  ],
+  "fictional-physics": [
+    "impossible-things-why-science-fiction-worlds-feel-real-to-readers"
+  ],
+  "literature": [
+    "impossible-things-why-science-fiction-worlds-feel-real-to-readers"
+  ],
+  "trade": [
+    "uncategorized-interstellar-trade-and-economics-crafting-interstellar-trade-and-economics-in-your-world",
+    "uncategorized-interstellar-trade-and-economics-a-guide-to-developing-trade-systems-that-use-both-magical-and-technological-resources",
+    "uncategorized-interstellar-trade-and-economics-1-start-with-scarcity-what-s-valuable-and-where",
+    "uncategorized-interstellar-trade-and-economics-4-mix-magical-and-technological-interdependence",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-7-establish-your-economic-systems",
+    "blog-worldbuilding-template-pillar-4-economy-and-trade"
+  ],
+  "economy": [
+    "uncategorized-interstellar-trade-and-economics-1-start-with-scarcity-what-s-valuable-and-where",
+    "uncategorized-interstellar-trade-and-economics-magic-based-examples",
+    "uncategorized-interstellar-trade-and-economics-final-thoughts-make-it-dynamic",
+    "blog-worldbuilding-template-pillar-4-economy-and-trade"
+  ],
+  "fantasy-economics": [
+    "uncategorized-interstellar-trade-and-economics-2-define-the-medium-of-exchange",
+    "uncategorized-interstellar-trade-and-economics-questions-to-explore"
+  ],
+  "trade-routes": [
+    "uncategorized-interstellar-trade-and-economics-2-define-the-medium-of-exchange"
+  ],
+  "currency-design": [
+    "uncategorized-interstellar-trade-and-economics-2-define-the-medium-of-exchange"
+  ],
+  "transportation": [
+    "uncategorized-interstellar-trade-and-economics-think-about"
+  ],
+  "spatial-physics": [
+    "uncategorized-interstellar-trade-and-economics-think-about"
+  ],
+  "magical-infrastructure": [
+    "uncategorized-interstellar-trade-and-economics-think-about"
+  ],
+  "strategic-geography": [
+    "uncategorized-interstellar-trade-and-economics-think-about"
+  ],
+  "conflict-management": [
+    "uncategorized-interstellar-trade-and-economics-think-about"
+  ],
+  "magic-technology": [
+    "uncategorized-interstellar-trade-and-economics-4-mix-magical-and-technological-interdependence"
+  ],
+  "security": [
+    "uncategorized-interstellar-trade-and-economics-4-mix-magical-and-technological-interdependence"
+  ],
+  "collaboration": [
+    "uncategorized-interstellar-trade-and-economics-4-mix-magical-and-technological-interdependence"
+  ],
+  "interoperability": [
+    "uncategorized-interstellar-trade-and-economics-4-mix-magical-and-technological-interdependence"
+  ],
+  "trade-regulation": [
+    "uncategorized-interstellar-trade-and-economics-questions-to-explore"
+  ],
+  "law": [
+    "uncategorized-interstellar-trade-and-economics-questions-to-explore"
+  ],
+  "guilds": [
+    "uncategorized-interstellar-trade-and-economics-questions-to-explore"
+  ],
+  "logistics": [
+    "uncategorized-interstellar-trade-and-economics-7-logistics-magic-and-sci-fi-workhorses"
+  ],
+  "conflict-drivers": [
+    "uncategorized-interstellar-trade-and-economics-8-conflict-breeds-story"
+  ],
+  "trade-mechanics": [
+    "uncategorized-interstellar-trade-and-economics-8-conflict-breeds-story"
+  ],
+  "content design": [
+    "guides-how-to-create-worldbuilding-bibles-2026-depth-vs-info-dumping"
+  ],
+  "authoring": [
+    "guides-how-to-create-worldbuilding-bibles-2026-what-readers-need-vs-what-you-need"
+  ],
+  "content-selection": [
+    "guides-how-to-create-worldbuilding-bibles-2026-what-readers-need-vs-what-you-need"
+  ],
+  "storycraft": [
+    "guides-how-to-create-worldbuilding-bibles-2026-what-readers-need-vs-what-you-need",
+    "blogs-writing-tips-fantasy-worldbuilding-guide-4-develop-a-history",
+    "fantasy-world-building-world-building-is-not-decoration",
+    "blog-worldbuilding-template-what-worldbuilding-actually-is-and-is-not",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-2-make-it-personal"
+  ],
+  "story_structure": [
+    "guides-how-to-create-worldbuilding-bibles-2026-the-relevance-test"
+  ],
+  "character_development": [
+    "guides-how-to-create-worldbuilding-bibles-2026-the-relevance-test"
+  ],
+  "literary-structure": [
+    "guides-how-to-create-worldbuilding-bibles-2026-show-don-t-tell-for-world-building"
+  ],
+  "AI-tools": [
+    "guides-how-to-create-worldbuilding-bibles-2026-show-don-t-tell-for-world-building"
+  ],
+  "magic-design": [
+    "guides-how-to-create-worldbuilding-bibles-2026-limitations-over-abilities"
+  ],
+  "game-mechanics": [
+    "guides-how-to-create-worldbuilding-bibles-2026-limitations-over-abilities"
+  ],
+  "magicsystem": [
+    "guides-how-to-create-worldbuilding-bibles-2026-costs-and-consequences"
+  ],
+  "consistency": [
+    "guides-how-to-create-worldbuilding-bibles-2026-costs-and-consequences",
+    "guides-how-to-create-worldbuilding-bibles-2026-key-takeaways",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-be-consistent",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-consistency-system",
+    "blog-worldbuilding-guide-for-fiction-authors-the-one-rule-that-covers-everything"
+  ],
+  "writingguide": [
+    "guides-how-to-create-worldbuilding-bibles-2026-costs-and-consequences"
+  ],
+  "fantasy literature": [
+    "guides-how-to-create-worldbuilding-bibles-2026-j-r-r-tolkien-middle-earth"
+  ],
+  "lore": [
+    "guides-how-to-create-worldbuilding-bibles-2026-j-r-r-tolkien-middle-earth",
+    "post-dark-fantasy-world-building-why-place-is-power-in-dark-fantasy"
+  ],
+  "continuity": [
+    "guides-how-to-create-worldbuilding-bibles-2026-brandon-sanderson-cosmere",
+    "blog-worldbuilding-guide-for-fiction-authors-geography-the-layer-that-touches-everything"
+  ],
+  "serialization": [
+    "guides-how-to-create-worldbuilding-bibles-2026-brandon-sanderson-cosmere"
+  ],
+  "narrative-management": [
+    "guides-how-to-create-worldbuilding-bibles-2026-george-r-r-martin-westeros"
+  ],
+  "tracking": [
+    "guides-how-to-create-worldbuilding-bibles-2026-george-r-r-martin-westeros"
+  ],
+  "authoring workflow": [
+    "guides-how-to-create-worldbuilding-bibles-2026-key-takeaways"
+  ],
+  "exposition": [
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-understanding-why-info-dumping-happens"
+  ],
+  "reader engagement": [
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-understanding-why-info-dumping-happens"
+  ],
+  "narrative technique": [
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-revealing-world-through-character-pov",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-5-establish-and-respect-the-rules",
+    "post-dark-fantasy-world-building-show-don-t-tell-sensory-immersion"
+  ],
+  "characterization": [
+    "guides-how-to-write-epic-fantasy-without-info-dumping-worldbuilding-2026-integrating-political-structures-through-conflict",
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-3-forget-unique-go-for-specific"
+  ],
+  "conceptualization": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-2-define-your-world-s-core-premise"
+  ],
+  "world design": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-4-develop-a-history"
+  ],
+  "cultural-design": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-5-create-authentic-cultures"
+  ],
+  "conflict-dynamics": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-8-use-geography-to-create-conflict"
+  ],
+  "cultural-dynamics": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-9-craft-languages-slang-and-naming-conventions"
+  ],
+  "naming-conventions": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-9-craft-languages-slang-and-naming-conventions"
+  ],
+  "character-design": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-10-connect-worldbuilding-to-character-development"
+  ],
+  "plot design": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-11-link-worldbuilding-to-plot-structure"
+  ],
+  "storyplanning": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-12-don-t-overbuild-the-80-20-rule-the-iceberg-theory"
+  ],
+  "writingtips": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-12-don-t-overbuild-the-80-20-rule-the-iceberg-theory"
+  ],
+  "characterdevelopment": [
+    "blogs-writing-tips-fantasy-worldbuilding-guide-12-don-t-overbuild-the-80-20-rule-the-iceberg-theory"
+  ],
+  "story-creation": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-start-small-build-only-what-you-need",
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-go-deeper"
+  ],
+  "planning": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-start-small-build-only-what-you-need"
+  ],
+  "novel-writing": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-build-as-you-go"
+  ],
+  "writingtechniques": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-avoid-the-infodump"
+  ],
+  "pacing": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-avoid-the-infodump",
+    "post-dark-fantasy-world-building-example-instead-of-detailing-the-wakes-as-geological-phenomena-i-let-him-stand-at-the-edge-of-one-train-near-it-and-seethe-while-watching-it"
+  ],
+  "readerengagement": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-avoid-the-infodump"
+  ],
+  "revision": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-be-consistent"
+  ],
+  "creative-process": [
+    "worldbuilding-can-be-a-privilege-with-the-right-technique-be-consistent",
+    "blog-worldbuilding-template-pillar-5-magic-technology-or-unique-systems"
+  ],
+  "ai-writing-tools": [
+    "fantasy-world-building-fantasy-world-building-how-to-create-worlds-that-work"
+  ],
+  "setting design": [
+    "fantasy-world-building-world-building-is-not-decoration"
+  ],
+  "AI assistant": [
+    "blog-worldbuilding-template-how-ai-can-help-with-worldbuilding"
+  ],
+  "writing tools": [
+    "blog-worldbuilding-template-how-ai-can-help-with-worldbuilding"
+  ],
+  "consistency-checking": [
+    "blog-worldbuilding-template-how-ai-can-help-with-worldbuilding"
+  ],
+  "content creation": [
+    "blog-worldbuilding-template-how-ai-can-help-with-worldbuilding"
+  ],
+  "narrative techniques": [
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-2-make-it-personal"
+  ],
+  "magic system": [
+    "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-step-5-establish-and-respect-the-rules"
+  ],
+  "environmental-physics": [
+    "post-dark-fantasy-world-building-geography-as-pressure-not-backdrop"
+  ],
+  "theme-engine": [
+    "post-dark-fantasy-world-building-geography-as-pressure-not-backdrop"
+  ],
+  "dark fantasy": [
+    "post-dark-fantasy-world-building-corruption-as-a-thematic-engine"
+  ],
+  "immersion": [
+    "post-dark-fantasy-world-building-corruption-as-a-thematic-engine"
+  ],
+  "theme": [
+    "post-dark-fantasy-world-building-corruption-as-a-thematic-engine"
+  ],
+  "literary device": [
+    "post-dark-fantasy-world-building-show-don-t-tell-sensory-immersion"
+  ],
+  "creature-design": [
+    "post-dark-fantasy-world-building-example-describing-a-shadowhound-from-shardkin-book-1-of-the-wake-saga"
+  ],
+  "content-dynamics": [
+    "post-dark-fantasy-world-building-why-my-first-draft-failed"
+  ],
+  "defense": [
+    "post-dark-fantasy-world-building-example-sovek-asking-about-shardforge-stakes-from-shardkin-book-1-of-the-wake-saga"
+  ],
+  "gameplay": [
+    "post-dark-fantasy-world-building-example-sovek-asking-about-shardforge-stakes-from-shardkin-book-1-of-the-wake-saga"
+  ],
+  "engineer": [
+    "post-dark-fantasy-world-building-example-sovek-asking-about-shardforge-stakes-from-shardkin-book-1-of-the-wake-saga"
+  ],
+  "perimeter": [
+    "post-dark-fantasy-world-building-example-sovek-asking-about-shardforge-stakes-from-shardkin-book-1-of-the-wake-saga"
+  ],
+  "horror": [
+    "post-dark-fantasy-world-building-example-instead-of-detailing-the-wakes-as-geological-phenomena-i-let-him-stand-at-the-edge-of-one-train-near-it-and-seethe-while-watching-it"
+  ],
+  "writing-techniques": [
+    "post-dark-fantasy-world-building-example-instead-of-detailing-the-wakes-as-geological-phenomena-i-let-him-stand-at-the-edge-of-one-train-near-it-and-seethe-while-watching-it"
+  ],
+  "story structure": [
+    "post-dark-fantasy-world-building-the-golden-rule-world-building-serves-the-story",
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-iceberg"
+  ],
+  "guidelines": [
+    "post-dark-fantasy-world-building-the-golden-rule-world-building-serves-the-story"
+  ],
+  "writing-advice": [
+    "post-dark-fantasy-world-building-quick-world-building-checklist-for-dark-fantasy-writers"
+  ],
+  "dark-fantasy": [
+    "post-dark-fantasy-world-building-quick-world-building-checklist-for-dark-fantasy-writers"
+  ],
+  "creative‑writing": [
+    "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-iceberg"
+  ],
+  "plot-pacing": [
+    "blog-worldbuilding-guide-for-fiction-authors-geography-the-layer-that-touches-everything"
+  ],
+  "fantasy writing": [
+    "blog-worldbuilding-guide-for-fiction-authors-magic-and-technology-systems-rules-before-wonder"
+  ],
+  "historical methodology": [
+    "blog-worldbuilding-guide-for-fiction-authors-history-and-society-building-backwards-from-the-present"
+  ],
+  "culture design": [
+    "blog-worldbuilding-guide-for-fiction-authors-history-and-society-building-backwards-from-the-present"
+  ],
+  "narrative development": [
+    "blog-worldbuilding-guide-for-fiction-authors-history-and-society-building-backwards-from-the-present"
+  ],
+  "genre-specific": [
+    "blog-worldbuilding-guide-for-fiction-authors-genre-specific-worldbuilding-priorities"
+  ],
+  "lore-design": [
+    "blog-worldbuilding-guide-for-fiction-authors-genre-specific-worldbuilding-priorities"
+  ],
+  "fiction writing": [
+    "blog-worldbuilding-guide-for-fiction-authors-the-one-rule-that-covers-everything"
+  ],
+  "Writing": [
+    "blog-worldbuilding-guide-for-fiction-authors-frequently-asked-questions"
+  ],
+  "Worldbuilding": [
+    "blog-worldbuilding-guide-for-fiction-authors-frequently-asked-questions"
+  ],
+  "Fantasy": [
+    "blog-worldbuilding-guide-for-fiction-authors-frequently-asked-questions"
+  ],
+  "Magic-system": [
+    "blog-worldbuilding-guide-for-fiction-authors-frequently-asked-questions"
+  ],
+  "Plot": [
+    "blog-worldbuilding-guide-for-fiction-authors-frequently-asked-questions"
+  ],
+  "story-structure": [
+    "worldbuildingsciencefictionandfantasy-the-iceberg-rule-and-the-hollow-iceberg-trap"
+  ],
+  "literary-techniques": [
+    "worldbuildingsciencefictionandfantasy-the-iceberg-rule-and-the-hollow-iceberg-trap"
+  ],
+  "magic systems": [
+    "worldbuildingsciencefictionandfantasy-hard-vs-soft-world-building-and-why-both-belong-in-the-same-book"
+  ],
+  "plot structure": [
+    "worldbuildingsciencefictionandfantasy-hard-vs-soft-world-building-and-why-both-belong-in-the-same-book"
+  ]
+}

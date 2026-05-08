@@ -1,0 +1,33 @@
+{
+  "title": "1. Setting Up Your Endpoint",
+  "path": "open-llm-initiative-open-message-format-1-setting-up-your-endpoint",
+  "url": "https://github.com/open-llm-initiative/open-message-format",
+  "keywords": [
+    "/message",
+    "OMF spec",
+    "OpenAPI",
+    "POST",
+    "Message",
+    "ContentItem",
+    "ResponseMessage",
+    "openapi-generator-cli",
+    "Flask",
+    "JSON payload",
+    "openai.chat.completions.create"
+  ],
+  "use_cases": [
+    "Configure when setting up a custom backend that adheres to the Open Message Format specification.",
+    "Implement when manually creating an API endpoint to handle multi-modal LLM messages including text and images.",
+    "Use when integrating existing LLM providers like OpenAI with a standards-based message schema.",
+    "Configure when local testing and debugging of message handling logic using curl or Postman is required."
+  ],
+  "tags": [
+    "api-reference",
+    "integration",
+    "deployment",
+    "web-services"
+  ],
+  "priority": 10,
+  "content": "#### a. Choose Your Development Environment\n\nYou can use any programming language and web framework that supports OpenAPI specifications. Common choices include:\n\n- **Python**: Flask, FastAPI, or Django.\n- **JavaScript/Node.js**: Express.js.\n- **Java**: Spring Boot.\n- **Go**: Gin or Echo.\n- **Rust**: Actix-web or Rocket.\n\n#### b. Implement the API Endpoints\n\nIf tools like `openapi-generator-cli` are not be viable for creating server stubs, you can manually implement the endpoint described in the OMF spec:\n\n1. **Manually Create the `/message` Endpoint**:\n\n- In your chosen framework, define a POST endpoint `/message`.\n - Ensure that this endpoint accepts and processes the JSON payload as defined in the OMF spec.\n - The endpoint should accept a an array of the [`Message`](https://github.com/open-llm-initiative/open-message-format/blob/main/OMFspec.yml#L41) object. Each message will have a `role` and a `content` field, and the content could be text, base64-encoded images, or image URLs.\n\n1. **Message Handling Logic**:\n\n- Parse the incoming JSON request into appropriate data models. The [`Message`](https://github.com/open-llm-initiative/open-message-format/blob/main/OMFspec.yml#L41) object should be parsed with a `role` and an array of [`ContentItem`](https://github.com/open-llm-initiative/open-message-format/blob/main/OMFspec.yml#L65) objects.\n - Implement logic to handle different types of content, such as text, images, and image URLs.\n - If you want to, you can directly send the array to an LLM by just passing it in the messages parameter for many LLM providers. You may need to create some tools to convert depending on the model you use.\n\n1. **Construct Responses**:\n\n- Based on the request, generate a response that follows the [`ResponseMessage`](https://github.com/open-llm-initiative/open-message-format/blob/main/OMFspec.yml#L106) schema outlined in the specification.\n\n#### c. Example Setup\n\nHere’s a simplified example of how to implement the `/message` endpoint in Python using Flask:\n\n```python\nfrom flask import Flask, request, jsonify\nimport openai\n\napp = Flask(__name__)\n\n@app.route('/message', methods=['POST'])\ndef handle_message():\n    messages = request.json\n\n    try:\n        # Send the received messages directly to OpenAI API using the correct method\n        response = openai.chat.completions.create(\n            model=\"gpt-4o-mini\", messages=messages\n        )\n\n        # Return the first choice's message directly\n        return response.choices[0].message.content, 200\n    except openai.error.OpenAIError as e:\n        # Handle OpenAI API errors\n        return {\"error\": str(e)}, 500\n    \n    return jsonify(response_message)\n\nif __name__ == '__main__':\n    app.run(port=8080)\n```\n\n#### d. Testing Locally\n\nOnce the endpoint is implemented, you can test it locally using `curl`, Postman, or any other HTTP client. For example, you can send the following request with curl:\n\n```bash\ncurl -X POST http://localhost:8080/message \\\n     -H \"Content-Type: application/json\" \\\n     -d '[\n             {\n               \"role\": \"user\",\n               \"content\": \"Hello World\"\n             }\n           ]'\n```\n\nAfter setting up the server, you can test the `/message` endpoint using tools like:\n\n- **curl** (as shown above)\n- **Postman**: Import the OpenAPI specification and generate requests directly to interact with your locally running server.\n\nEnsure that your endpoint processes the incoming messages correctly and returns appropriate responses in line with the OMF specification.\n\nOnce your API is working locally, you can deploy it using your preferred method, such as:\n\n- **Containerization**: Use Docker to containerize your application and deploy it to cloud services like AWS, Azure, or GCP.\n- **Dedicated Server**: Run the application on a dedicated server using a production-ready web server and reverse proxy.",
+  "token_estimate": 659
+}

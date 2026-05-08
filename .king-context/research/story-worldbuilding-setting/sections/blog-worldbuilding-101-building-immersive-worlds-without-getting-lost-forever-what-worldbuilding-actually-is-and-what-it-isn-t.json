@@ -1,0 +1,31 @@
+{
+  "title": "What Worldbuilding Actually Is (And What It Isn’t)",
+  "path": "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-what-worldbuilding-actually-is-and-what-it-isn-t",
+  "url": "https://sudowrite.com/blog/worldbuilding-101-building-immersive-worlds-without-getting-lost-forever/",
+  "keywords": [
+    "worldbuilding",
+    "lore",
+    "rules",
+    "cultures",
+    "systems",
+    "sensory details",
+    "lived experiences",
+    "atmosphere",
+    "maps"
+  ],
+  "use_cases": [
+    "Use when constructing environmental mechanics for immersive storytelling.",
+    "Implement when crafting character interactions that convey world depth.",
+    "Configure when balancing lore density against narrative flow.",
+    "Apply when designing sensory descriptions to evoke atmosphere."
+  ],
+  "tags": [
+    "creative-writing",
+    "worldbuilding",
+    "narrative-design",
+    "storytelling"
+  ],
+  "priority": 8,
+  "content": "Worldbuilding is not about dumping as much lore as possible onto the page. It’s about creating an environment that supports and enhances the story you’re telling.\n\nAt its core, worldbuilding comes down to two things:\n\n1. How the world works. (Rules, cultures, systems, physics.)\n2. How the world feels. (Sensory details, lived experiences, atmosphere.)\n\nBoth matter. A world can be brilliantly designed, but if readers don’t feel it, it won’t stick.\n\nThink about The Lord of the Rings. Yes, Tolkien created an entire mythology with languages, maps, and history—but what makes Middle-earth real isn’t the history books, it’s the way the characters interact with the world. It’s the way Frodo feels the weight of the Ring, the way the Shire feels safe and warm compared to the cold, dangerous wilds.",
+  "token_estimate": 172
+}

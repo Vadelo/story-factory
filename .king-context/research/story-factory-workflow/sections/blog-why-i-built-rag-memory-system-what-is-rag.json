@@ -1,0 +1,32 @@
+{
+  "title": "What is RAG?",
+  "path": "blog-why-i-built-rag-memory-system-what-is-rag",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "Retrieval-Augmented Generation",
+    "RAG",
+    "story chunks",
+    "AI Story Stream",
+    "context retrieval",
+    "summarization",
+    "database indexing",
+    "8000 character chunks",
+    "long-form narrative",
+    "vector memory"
+  ],
+  "use_cases": [
+    "Use when building long-form narratives that exceed standard token limits",
+    "Implement when the AI needs to recall specific events from extensive story history",
+    "Configure when balancing computational efficiency with long-term memory retrieval",
+    "Use when developing complex plot arcs spanning multiple chapters"
+  ],
+  "tags": [
+    "core-concepts",
+    "retrieval-augmented-generation",
+    "context-management",
+    "long-form-text"
+  ],
+  "priority": 10,
+  "content": "RAG stands for Retrieval-Augmented Generation. It's a technique that extends an AI's effective memory by storing information in a searchable database and retrieving relevant pieces when needed.\n\nHere's how it works in AI Story Stream:\n\n1. Your story gets divided into chunks (approximately 8,000 characters each)\n2. Each chunk is summarized by the AI into a condensed version\n3. These summaries are stored in a database along with their position in your story\n4. When you generate new content, the system searches the summaries and retrieves the most relevant ones\n5. The AI receives both your recent story text and the relevant summaries from earlier chapters\n\nThis means even if your story is 100,000 words long, the AI can access what happened 80,000 words ago because the summary system feeds it the relevant context.",
+  "token_estimate": 178
+}

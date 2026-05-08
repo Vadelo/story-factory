@@ -1,0 +1,34 @@
+{
+  "title": "Scene writing prompts (5)",
+  "path": "chatgpt-prompts-for-fiction-writers-scene-writing-prompts-5",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "Scene rewriter",
+    "Sensory immersion",
+    "Action choreographer",
+    "Emotional turning point",
+    "Chapter ending hooks",
+    "POV",
+    "sensory detail",
+    "spatial awareness",
+    "foreshadowing",
+    "cliffhangers",
+    "pacing"
+  ],
+  "use_cases": [
+    "Use when a drafted scene lacks tension or needs a different narrative perspective",
+    "Implement when detailed world-building is required using five-sense sensory immersion",
+    "Configure when choreographing complex physical action sequences with environmental interaction",
+    "Use when drafting pivotal character realizations through structured emotional stages",
+    "Implement when generating high-impact closing lines to increase reader retention"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "scene-construction",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "Get help with specific scenes that are giving you trouble.\n\n36. Scene rewriter\n\nHere is a scene I wrote: [paste scene]. Rewrite it with these changes: [higher tension / different POV / more sensory detail / faster pacing / stronger emotional impact]. Keep the same events but change the execution.\n\n37. Sensory immersion\n\nSet the scene: [location and time]. Write 200 words of pure setting description using all five senses. Prioritize the two senses most relevant to this genre: [genre]. Embed one detail that foreshadows [upcoming event].\n\n38. Action choreographer\n\nChoreograph a [type of action scene: fight, chase, escape] between [characters] in [setting]. Focus on spatial awareness, cause-and-effect, and using the environment. Keep sentences short during peak tension and vary rhythm throughout.\n\n39. Emotional turning point\n\nWrite the scene where [character] realizes [revelation]. Build to this moment through 3 stages: denial, cracking, and collapse. Use physical sensation and environment to mirror the emotional state. Aim for 400 words.\n\n40. Chapter ending hooks\n\nMy chapter covers [events]. Write 5 possible last lines that would make a reader immediately turn to the next chapter. Vary between cliffhangers, emotional gut punches, ominous hints, and perspective shifts.",
+  "token_estimate": 256
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Narrative as Consequence",
+  "path": "craft-form-not-formula-character-design-narrative-as-consequence",
+  "url": "https://www.notmfa.com/craft/form-not-formula-character-design",
+  "keywords": [
+    "narrative design",
+    "conflict",
+    "Character Development Guide",
+    "external want",
+    "internal need",
+    "climax",
+    "backstory",
+    "behavioral bonding",
+    "protagonist transformation"
+  ],
+  "use_cases": [
+    "Use when mapping out the external and internal goals of a protagonist",
+    "Implement when designing the climax of a story through colliding motivations",
+    "Configure when seeking to deepen character engagement through real-time behavior rather than backstory",
+    "Use when applying structure to a character's emotional and narrative arc"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "storytelling-theory"
+  ],
+  "priority": 10,
+  "content": "A character’s past matters, but it is their present that defines them. Readers don’t attach to backstory but they do attach to behavior. They watch a person make a series of choices in real time and ask, would I do that? Could I? Why did they? That questioning is the bond between reader and character, and it is forged in conflict.\n\nCharacter is not built by backstory but by narrative design. The shape of a character is the shape of the story. Conflict doesn't reveal character: it is character. Everything else is furniture.\n\nWant to deepen your protagonist? Map out their external want and internal need. Find the moment where these collide—then turn that moment into your climax. Use the Character Development Guide to structure the transformation.",
+  "token_estimate": 168
+}

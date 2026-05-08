@@ -1,0 +1,31 @@
+{
+  "title": "3.1 Iterative Refinement",
+  "path": "html-2505.23815v1-3-1-iterative-refinement",
+  "url": "https://arxiv.org/html/2505.23815v1",
+  "keywords": [
+    "Iterative Refinement",
+    "p_desc",
+    "Preference Update Prompt",
+    "x_update",
+    "LLM prompting",
+    "w_a",
+    "w_u",
+    "generate function",
+    "preference optimization"
+  ],
+  "use_cases": [
+    "Use when reducing the discrepancy between actual outcomes and user-desired preferences in LLM outputs",
+    "Implement when developing a recursive loop for continuous preference description improvement",
+    "Configure when utilizing prompt-based updates to align system behavior with contrasting examples",
+    "Use when accumulating a history of preference descriptions for sequential model training"
+  ],
+  "tags": [
+    "llm-optimization",
+    "algorithm-design",
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "To improve p^descsubscript^𝑝desc\\hat{p}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT, the LLM is prompted to compare and contrast wasubscript𝑤𝑎w_{a}italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT and wusubscript𝑤𝑢w_{u}italic_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT and then modify p^descsubscript^𝑝desc\\hat{p}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT such that the modification reduces the difference between wasubscript𝑤𝑎w_{a}italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT and wusubscript𝑤𝑢w_{u}italic_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT: p^descs+1=generate⁢(llm,xupdate,p^descs,wu,wa)superscriptsubscript^𝑝desc𝑠1generatellmsubscript𝑥updatesuperscriptsubscript^𝑝desc𝑠subscript𝑤𝑢subscript𝑤𝑎\\hat{p}_{\\text{desc}}^{s+1}=\\texttt{generate}(\\texttt{llm},x_{\\text{update}},% \\hat{p}_{\\text{desc}}^{s},w_{u},w_{a})over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT start_POSTSUPERSCRIPT italic_s + 1 end_POSTSUPERSCRIPT = generate ( llm , italic_x start_POSTSUBSCRIPT update end_POSTSUBSCRIPT , over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT start_POSTSUPERSCRIPT italic_s end_POSTSUPERSCRIPT , italic_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT , italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT ), where xupdate=subscript𝑥updateabsentx_{\\text{update}}=italic_x start_POSTSUBSCRIPT update end_POSTSUBSCRIPT =“Preference Update Prompt” in Figure 1. The updated preference description is accumulated in 𝐩^desc=[p^desc0,…,p^descs]subscript^𝐩descsuperscriptsubscript^𝑝desc0…superscriptsubscript^𝑝desc𝑠\\mathb",
+  "token_estimate": 154
+}

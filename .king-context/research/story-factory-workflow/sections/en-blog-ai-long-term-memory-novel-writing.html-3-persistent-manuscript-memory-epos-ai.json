@@ -1,0 +1,32 @@
+{
+  "title": "3. Persistent Manuscript Memory (EPOS-AI)",
+  "path": "en-blog-ai-long-term-memory-novel-writing.html-3-persistent-manuscript-memory-epos-ai",
+  "url": "https://epos-ai.ch/en/blog/ai-long-term-memory-novel-writing.html",
+  "keywords": [
+    "EPOS-AI",
+    "PostgreSQL",
+    "Persistent Manuscript Memory",
+    "active context",
+    "Studio plan",
+    "Professional plan",
+    "Starter plan",
+    "context window",
+    "manuscript persistence",
+    "worldbuilding notes"
+  ],
+  "use_cases": [
+    "Use when maintaining narrative coherence across a full-length novel manuscript",
+    "Implement when requiring automated retrieval of character profiles and worldbuilding notes",
+    "Configure when scaling context limits based on project size (22,500 to 112,500 words)",
+    "Use when persistent storage across sessions and months is required for long-form creative writing"
+  ],
+  "tags": [
+    "data-storage",
+    "AI-context",
+    "feature-comparison",
+    "persistence"
+  ],
+  "priority": 9,
+  "content": "EPOS-AI stores your actual chapter text in a PostgreSQL database. Every word you write, every character profile you create, every worldbuilding note you add — all of it persists across sessions, across days, across months. When the AI processes your current chapter, it draws on the relevant parts of your entire manuscript, not just the entries you remembered to update in a wiki.\n\nThe practical difference: EPOS-AI's Starter plan holds 22,500 words in active context, Professional holds 60,000, and Studio holds 112,500. Studio's context is roughly half a full-length novel — enough to maintain coherence across most manuscripts. And because the memory is based on your actual text rather than your summaries of your text, it catches details you might not have thought to document.",
+  "token_estimate": 166
+}

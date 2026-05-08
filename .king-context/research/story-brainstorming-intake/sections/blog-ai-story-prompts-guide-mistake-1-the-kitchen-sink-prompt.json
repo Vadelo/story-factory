@@ -1,0 +1,34 @@
+{
+  "title": "Mistake 1: The Kitchen Sink Prompt",
+  "path": "blog-ai-story-prompts-guide-mistake-1-the-kitchen-sink-prompt",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "prompt engineering",
+    "creative writing",
+    "Discovery Template",
+    "Constraint Template",
+    "Format Template",
+    "contradiction pairing",
+    "world-building prompts",
+    "reverse-engineering",
+    "concrete nouns",
+    "action verbs",
+    "narrative tension"
+  ],
+  "use_cases": [
+    "Use when prompting an AI to generate creative fiction without over-specifying plot points",
+    "Implement when the AI output feels generic or trope-heavy",
+    "Configure when seeking to create emotional complexity through conflicting narrative elements",
+    "Use when designing modular prompt templates for systematic testing",
+    "Configure when building a library of reusable prompt structures by genre and mood"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "generative-ai",
+    "creative-writing",
+    "troubleshooting"
+  ],
+  "priority": 9,
+  "content": "Problem prompt: \"Write a 1000-word mystery story set in Paris in the 1920s with a female detective who has a dark past and a pet cat named Whiskers investigating the murder of a wealthy businessman who was secretly involved in art smuggling.\"\n\nWhy it fails: Too many specifics overwhelm the AI. It spends so much effort checking boxes that it forgets to tell an engaging story.\n\nBetter approach: \"1920s Paris: Detective's past collides with case\"\n\nLet the AI decide if the detective has a cat. Focus on the core conflict.\n\nProblem prompt: \"Write something interesting and creative\"\n\nWhy it fails: Without constraints, AI defaults to generic patterns. It's like asking a chef to \"cook something tasty\" without mentioning ingredients or cuisine type.\n\nBetter approach: Pick one specific element and build from there. Even \"Umbrella changes color\" gives more direction than \"be creative.\"\n\nProblem prompt: \"Happy sad funny serious story about life and death\"\n\nWhy it fails: While contrast can spark creativity, too many contradictions paralyze the AI. It tries to be everything at once and ends up being nothing.\n\nBetter approach: Choose one primary contradiction: \"Funeral home's comedy night\" or \"Cheerful obituary writer\"\n\nProblem prompt: \"A man finds a magic ring, uses it to become rich, learns money doesn't buy happiness, gives ring away, finds true love\"\n\nWhy it fails: You've written the entire story already. The AI just fills in dialogue and description. No room for surprise or discovery.\n\nBetter approach: Start the story, don't finish it: \"Pawn shop ring: granted three wishes already\"\n\nOnce you understand the basics, these advanced techniques help you craft prompts for specific story types and effects.\n\nPair conflicting elements to create emotional complexity:\n\n- \"War photographer's wedding album\"\n- \"Executioner's love letters\"\n- \"Child's drawings predict future\"\n\nThe contradiction between the character's role and the situation creates immediate emotional tension that AI explores naturally.\n\nStructure your prompt to suggest one story while enabling another:\n\n- \"Support group discovers shared connection\"\n- \"DNA test results arrive together\"\n- \"Six strangers, identical scars\"\n\nThese prompts set up mystery without telegraphing the solution. The AI has room to develop surprising revelations.\n\nOne specific detail can imply an entire world:\n\n- \"Gravity tax due tomorrow\"\n- \"Memory subscription expires midnight\"\n- \"Emotional weather forecast: turbulent\"\n\nInstead of explaining the world, these prompts drop readers into it. The AI builds the world through story action rather than exposition.\n\nPut ordinary people in extraordinary moments:\n\n- \"Librarian's first murder witness\"\n- \"Accountant inherits circus\"\n- \"Crossing guard stops time\"\n\nCharacter emerges through action. These prompts force characters to reveal themselves through choices.\n\nDeveloping prompt engineering skills is like learning to cook — you start with recipes, then learn to improvise. Here's how to build your skills systematically.\n\nBasic templates give you a foundation to build from:\n\nThe Discovery Template: [Character] finds [unexpected object] Example: \"Archaeologist finds fresh smartphone\"\n\nThe Constraint Template: [Situation] but [limitation] Example: \"Murder mystery but everyone's lying\"\n\nThe Format Template: Story told through [unusual medium] Example: \"Story told through parking tickets\"\n\nUse these templates as starting points, then modify based on what works.\n\nSmall changes create different stories. Take a working prompt and modify one element:\n\nOriginal: \"Taxi driver's final shift\"\n\nVariations:\n\n- Change character: \"Brain surgeon's final shift\"\n- Change timing: \"Taxi driver's first shift\"\n- Change context: \"Taxi driver's night shift, apocalypse\"\n\nEach variation produces wildly different narratives. Testing helps you understand which elements drive which effects.\n\nWhen you get a great story, reverse-engineer why. Was it:\n\n- The specific verb you used?\n- The emotion you included?\n- The constraint you imposed?\n- The contrast you created?\n\nAccording to research from MIT's Computer Science and AI Laboratory, language models respond strongly to concrete nouns and action verbs. \"Detective investigates\" produces more generic output than \"Detective excavates\" because the second verb is more specific and unusual in that context.\n\nKeep a collection of prompts that consistently produce good results. Organize them by:\n\n- Genre (horror, romance, sci-fi, etc.)\n- Mood (tense, uplifting, mysterious)\n- Length (flash fiction, short story, chapter)\n- Style (first-person, epistolary, news format)\n\nYour library becomes a creative toolbox you can draw from and combine in new ways.\n\nEven great prompts sometimes produce mediocre stories. Here's how to diagnose and fix common issues.\n\nDiagnosis: Your prompt uses common tropes or situations Solution: Add one unexpected element\n\nIf \"Detective solves murder\" feels generic, try \"Detective solves own murder\" or \"Toddler detective's first case.\"\n\nDiagnosis: Your prompt focuses only on plot Solution: Add an emotional stake or relationship\n\nChange \"Time traveler prevents disaster\" to \"Time traveler saves stranger who becomes parent.\"\n\nDiagnosis: Your prompt lacks urgency Solution: Add time pressure or consequences\n\nTransform \"Ghost seeks closure\" into \"Ghost has until sunrise\" or \"Ghost's final chance.\"\n\nDiagnosis: Your prompt is too abstract Solution: Ground it in specific actions or objects\n\nReplace \"Story about regret\"",
+  "token_estimate": 1077
+}

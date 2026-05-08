@@ -1,0 +1,32 @@
+{
+  "title": "Crafting Interstellar Trade and Economics in Your World",
+  "path": "uncategorized-interstellar-trade-and-economics-crafting-interstellar-trade-and-economics-in-your-world",
+  "url": "https://natefoy.com/uncategorized/interstellar-trade-and-economics",
+  "keywords": [
+    "InterstellarTradeRoute",
+    "CommodityMarket",
+    "TariffPolicy",
+    "ResourceScarcity",
+    "TradeCostCalculator",
+    "TradeVolume",
+    "EconomyEngine",
+    "ShipCapacity",
+    "DiplomaticAgreement"
+  ],
+  "use_cases": [
+    "Use when creating a dynamic trading system between star systems to reflect realistic commerce.",
+    "Implement when balancing resource scarcity across regions to influence player strategy.",
+    "Configure when setting tariff rates for imported goods to manage interstellar politics.",
+    "Use when calculating cargo transport costs based on fuel consumption and ship mass.",
+    "Deploy when simulating market fluctuations caused by diplomatic agreements and trade wars."
+  ],
+  "tags": [
+    "economics",
+    "simulation",
+    "trade",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "",
+  "token_estimate": 0
+}

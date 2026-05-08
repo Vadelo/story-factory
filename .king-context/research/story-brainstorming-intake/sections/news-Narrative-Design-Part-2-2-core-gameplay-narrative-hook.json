@@ -1,0 +1,31 @@
+{
+  "title": "2. Core Gameplay/Narrative Hook",
+  "path": "news-Narrative-Design-Part-2-2-core-gameplay-narrative-hook",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "gameplay hook",
+    "narrative hook",
+    "core loop",
+    "logline",
+    "gravity-dynamic planetoids",
+    "class builds",
+    "narrative progression",
+    "Cosmorons",
+    "Hades",
+    "survivor shooter"
+  ],
+  "use_cases": [
+    "Use when establishing the primary value proposition of a game design document",
+    "Configure when defining the mechanical differentiators that attract players",
+    "Implement when writing a narrative logline for story-driven projects",
+    "Use when aligning gameplay mechanics with world-building elements"
+  ],
+  "tags": [
+    "game-design",
+    "documentation-standards",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "First, let’s establish the core gameplay hook: What is it about this game that hooks players and sets it apart from others?\n\nIf the designers already have the genre, core mechanics, and core loop figured out, these will help define the hook. For example, here’s the gameplay hook for our game Cosmorons (yes, we are going to engage in some self-promotion, but it’s strictly for educational purposes):\n\n![Cosmorons_02.png](https://blindsquirrel-staging-media.sfo3.cdn.digitaloceanspaces.com/0ca063a5383b25306dd306e0625f6b3d.png)\n\nA co-op survivor shooter where players grapple between gravity-dynamic planetoids, evolve distinct class builds, and collect chaotic abilities in an attempt to conquer the entire universe one galaxy at a time.\n\nTo use another example, here is the gameplay hook for one of my recent favorites, which I unfortunately had nothing to do with, Hades:\n\nFast-paced combat and narrative progression through repeated runs; every failure builds the story and unlocks new abilities.\n\nNow, what is the narrative hook that goes with the gameplay? In a film, this would be a logline. It should be a simple one to two sentences that summarize the most compelling parts of your narrative. For Cosmorons, the narrative hook is:\n\nSquads of dim-witted robots called Drudges attempt to conquer the universe on behalf of their mysterious Overlords. As they rush to claim galaxies, the Drudges realize the Universe is much bigger than they thought… And it fights back!\n\nAnd for Hades:\n\nYou’re the son of Hades, trying to escape the Underworld… and your family drama. Each death advances the plot and reveals more about the Greek gods’ personalities and conflicts.",
+  "token_estimate": 336
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Worldbuilding Consistency System",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-the-worldbuilding-consistency-system",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "world consistency",
+    "travel time table",
+    "magic system rules",
+    "historical layers",
+    "five-category world bible",
+    "geography section",
+    "systems section",
+    "history section",
+    "factions section",
+    "lore section",
+    "diagnostic checklist"
+  ],
+  "use_cases": [
+    "Use when you need to quickly assess if a new scene aligns with your established world rules.",
+    "Implement when creating detailed geographic data, including climate, resources, and travel times.",
+    "Configure when defining a magic or technology system with explicit costs and limits.",
+    "Use when documenting faction goals, methods, and key members for narrative consistency.",
+    "Apply when layering historical events to build causal chains that shape the present world.",
+    "Use when you want an organized world bible split into geography, systems, history, factions, and lore.",
+    "Employ when you need a fast (under thirty seconds) scene check using headers and bullet points."
+  ],
+  "tags": [
+    "worldbuilding",
+    "documentation",
+    "consistency"
+  ],
+  "priority": 10,
+  "content": "Building a world and keeping it consistent across a 100,000-word manuscript are two different problems. Many authors solve the first problem and assume the second follows automatically. It does not.\n\nThe worldbuilding consistency problem is a documentation problem. The rules you invented on page 40 — the cost of magic, the travel time between cities, the religious prohibition that shapes your character's choices — are the constraints you'll violate on page 340 if they aren't written down.\n\nWorld Consistency Check\n\nHow documented is your world right now?\n\nSelect all that apply — get an immediate diagnosis\n\nI have a travel time table for all major locations\n\nJourney durations logged and accessible while writing\n\nMy magic/tech system has written rules, costs, and limits\n\nThree sentences: capability, price, and hard boundaries\n\nI know what caused the current political/social situation\n\nAt least two historical layers behind the story's present\n\nEvery faction's goals and methods are documented\n\nYou can answer: what would this group do if threatened by X?\n\nI log every new world rule when I invent it\n\nRules are recorded before the writing session ends\n\nThe five-category world bible:\n\nEvery worldbuilding note should fall into one of five categories, each maintained as its own section:\n\n1. Geography — Locations with sensory detail, climate, resources, and travel times between all frequently-visited pairs\n2. Systems — Magic, technology, or any rule-governed capability. Rules, costs, limits. Explicitly stated, in writing, not just \"held in mind\"\n3. History — Significant events that shaped the current world, listed chronologically, with cause and effect chains\n4. Factions — Every organization with goals, methods, key members, and current status\n5. Lore — Everything else: deep mythology, religious doctrine, cultural customs, naming conventions, historical figures\n\nThe test for every entry: can you check a new scene against it in under thirty seconds? If finding an entry requires reading through paragraphs of prose notes, the documentation format is wrong. Use headers, bullet points, and specific declarative statements.",
+  "token_estimate": 433
+}

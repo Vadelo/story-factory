@@ -1,0 +1,29 @@
+{
+  "title": "The Ultimate Character Questionnaire and Worksheet (over 200 character questions)",
+  "path": "character-questionnaire-the-ultimate-character-questionnaire-and-worksheet-over-200-character-questions",
+  "url": "https://www.novel-software.com/character-questionnaire/",
+  "keywords": [
+    "Character Questionnaire",
+    "Character Worksheet",
+    "Creative Writing Prompts",
+    "Character Depth",
+    "Character Development",
+    "Narrative Detail",
+    "Story Composition",
+    "Character Profiling"
+  ],
+  "use_cases": [
+    "Use when developing backstories for fictional protagonists or antagonists",
+    "Use when fleshing out secondary characters to add realism and depth",
+    "Implement when brainstorming character motivations and personality traits",
+    "Use when preparing initial drafts or character bibles for long-form fiction"
+  ],
+  "tags": [
+    "Creative Writing",
+    "Character Design",
+    "Documentation"
+  ],
+  "priority": 8,
+  "content": "The Character Questionnaire is a list of questions, put into groups, to help prompt writers to add detail and depth to their characters.",
+  "token_estimate": 30
+}

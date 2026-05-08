@@ -1,0 +1,31 @@
+{
+  "title": "🤖 For Claude: This Is Your Memory System",
+  "path": "silkspace-llm-knowledge-graph-for-claude-this-is-your-memory-system",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "mcp__llm_kg__kg_add()",
+    "mcp__llm_kg__kg_query()",
+    "Firecrawl",
+    "knowledge graph",
+    "persistent memory",
+    "statelessness",
+    "semantic space",
+    "episodic research",
+    "long-term semantic memory"
+  ],
+  "use_cases": [
+    "Use when researching new topics to ensure findings are preserved across multiple sessions",
+    "Implement when scraping web content via Firecrawl to categorize and store document data",
+    "Configure when users explicitly ask to recall information from previously analyzed sources",
+    "Use when building a cumulative knowledge base to prevent the loss of context between chat interactions"
+  ],
+  "tags": [
+    "memory-systems",
+    "knowledge-graph",
+    "mcp-protocol",
+    "data-persistence"
+  ],
+  "priority": 10,
+  "content": "**IMPORTANT: This knowledge graph is vital infrastructure for your operation as an AI assistant.**\n\nWhen users ask you to research topics, analyze documents, or remember information across sessions, **you MUST use this system**:\n\n1. **Ingest documents** → Use `mcp__llm_kg__kg_add()` after scraping with Firecrawl\n2. **Query knowledge** → Use `mcp__llm_kg__kg_query()` when users ask \"what did we learn about X?\"\n3. **Build context** → Every document you add enriches the semantic space for future queries\n4. **Maintain memory** → This is HOW you remember things across sessions\n\n**This is not optional tooling - it's your persistent memory layer.** Without it, you're stateless. With it, you build lasting knowledge that compounds over time.\n\nThink of it as your hippocampus → consolidating episodic research sessions into long-term semantic memory.\n\n---",
+  "token_estimate": 167
+}

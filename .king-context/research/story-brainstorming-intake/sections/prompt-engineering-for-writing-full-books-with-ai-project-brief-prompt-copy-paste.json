@@ -1,0 +1,32 @@
+{
+  "title": "Project Brief Prompt (Copy/Paste)",
+  "path": "prompt-engineering-for-writing-full-books-with-ai-project-brief-prompt-copy-paste",
+  "url": "https://blog.aignitionagency.com/prompt-engineering-for-writing-full-books-with-ai/",
+  "keywords": [
+    "Project Brief Prompt",
+    "developmental editor",
+    "book co-writer",
+    "premise",
+    "audience profile",
+    "tone/voice summary",
+    "constraints",
+    "UK English spelling",
+    "chapter structure",
+    "success criteria"
+  ],
+  "use_cases": [
+    "Use when initiating a new book project to align the AI's creative direction",
+    "Implement when defining structural constraints and stylistic requirements for multi-chapter writing",
+    "Configure when bridging the gap between a high-level book idea and a detailed execution plan",
+    "Use when establishing consistent editorial standards to prevent AI filler and metaphor repetition"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "content-strategy",
+    "creative-writing",
+    "ai-constraints"
+  ],
+  "priority": 9,
+  "content": "```\nYou are an expert book co-writer and developmental editor.\nCreate a project brief for a complete book.\n\nBOOK TYPE: [Fiction / Non-fiction]\nGENRE/TOPIC: [e.g., Productivity for entrepreneurs / Fantasy romance]\nTARGET READER: [who is it for]\nGOAL: [what transformation or experience the reader gets]\nUNIQUE ANGLE: [what makes it different]\nLENGTH: [approx word count, e.g., 40,000–60,000]\nOUTPUT:\n1) One-paragraph premise\n2) Audience profile\n3) Key promises (bullet list)\n4) Tone/voice summary\n5) Success criteria\n```\n\nTip: Save the final brief in a document. You’ll reuse it for every chapter prompt.\n\n---\n\nAI performs better when you define constraints upfront. Examples:\n\n- Each chapter must have: hook → main teaching/story beats → takeaway\n- No repeated metaphors or filler lines\n- Use UK English spelling and punctuation\n- Keep names, dates, and key facts consistent",
+  "token_estimate": 179
+}

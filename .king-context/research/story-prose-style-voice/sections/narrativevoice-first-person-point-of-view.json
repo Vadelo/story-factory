@@ -1,0 +1,31 @@
+{
+  "title": "First Person Point of View",
+  "path": "narrativevoice-first-person-point-of-view",
+  "url": "https://www.lauriegarrison.co.uk/narrativevoice",
+  "keywords": [
+    "First Person Point of View",
+    "Stream of Consciousness",
+    "Pacing",
+    "Narrative Structure",
+    "Gender Politics",
+    "Internal Monologue",
+    "Character Conditioning",
+    "Mental Journey",
+    "Vocal Restraint",
+    "Social Roles"
+  ],
+  "use_cases": [
+    "Use when analyzing how internal monologue shifts between immediate action and broader social commentary",
+    "Implement when explaining the structural function of punctuation like long sentences and dashes in narrative flow",
+    "Configure when teaching the characteristics of stream of consciousness narration",
+    "Use when demonstrating how gender roles influence character perspective and dialogue constraints"
+  ],
+  "tags": [
+    "Literary Analysis",
+    "Creative Writing",
+    "Narrative Theory"
+  ],
+  "priority": 8,
+  "content": "‘He implied it was because of pacing, that he was slowing the run because of pacing, but I knew pacing and for me, walking during running was not that. I could not say so, however, for I could not be fitter than this man, could not be more knowledgeable about my own regime than this man, because the conditioning of males and females here would never have allowed that. This was the “I’m male and your female” territory. This was what you could say if you were a girl to a boy, or a woman to a man, or a girl to a man, and what you were not—least not officially, least not in public, least not often—permitted to say.’\n\nNotice how we move from the encounter taking place at that moment in time to an inner explanation of the encounter to an explanation of gender politics in their city. All of this is told firmly from the point of view of a woman who is very conscious of the potential consequences of not conforming to her gender role. The long sentences, the dashes and all the commas help to pace the reader as she makes her way along this complex mental journey. This portion of the narrative then moves back to the encounter, again to the explanation of the encounter and back to the gender politics of this city. Such seemingly haphazard verbal travels are characteristic of stream of consciousness narration.",
+  "token_estimate": 321
+}

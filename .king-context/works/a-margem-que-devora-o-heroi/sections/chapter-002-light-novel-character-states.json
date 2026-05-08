@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Character States: Resolver Conversa",
+  "path": "chapter-002-light-novel-character-states",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-002-light-novel-character-states",
+  "keywords": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-002-light-novel"
+  ],
+  "use_cases": [
+    "Recall character and relationship states after this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-002-light-novel"
+  ],
+  "priority": 10,
+  "content": "{\n  \"character_states\": [\n    {\n      \"name\": \"Davi Noh\",\n      \"state\": \"Continua sem corpo na margem; aprende que não deve apenas decidir por Yerin e descobre a regra de autoria das falas cortadas.\"\n    },\n    {\n      \"name\": \"Yerin\",\n      \"state\": \"Ferida, viva, com o selo da carruagem; foge para o Pavilhão dos Arquivos e passa a tocar parcialmente a margem por meio de uma fala recuperada.\"\n    },\n    {\n      \"name\": \"Kael\",\n      \"state\": \"Controla comentários na margem, bloqueia permissões e entende que a autoria devolvida a Yerin ameaça sua posse narrativa.\"\n    },\n    {\n      \"name\": \"Assassino da Casa Baek\",\n      \"state\": \"Mostra submissão a Kael e age como agente de correção da cena, tentando impedir a fuga de Yerin.\"\n    }\n  ],\n  \"relationship_changes\": [\n    {\n      \"pair\": [\n        \"Davi\",\n        \"Yerin\"\n      ],\n      \"change\": \"Yerin recebe uma fala cortada de volta, mas exige que Davi pare de decidir por ela.\"\n    },\n    {\n      \"pair\": [\n        \"Davi\",\n        \"Kael\"\n      ],\n      \"change\": \"Kael bloqueia Davi na margem e propõe uma disputa direta de revisão.\"\n    },\n    {\n      \"pair\": [\n        \"Yerin\",\n        \"Kael\"\n      ],\n      \"change\": \"Yerin rejeita a posição de resgatada e critica Kael por chegar tarde.\"\n    }\n  ]\n}",
+  "token_estimate": 239
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Psychology Behind Effective AI Prompts",
+  "path": "blog-ai-story-prompts-guide-the-psychology-behind-effective-ai-prompts",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "AI language models",
+    "prompt engineering",
+    "Human-Computer Interaction",
+    "creative freedom",
+    "specificity",
+    "improv technique",
+    "contextual setup",
+    "prompt length optimization",
+    "conceptual connecting"
+  ],
+  "use_cases": [
+    "Use when balancing detailed instructions with creative model output",
+    "Configure when designing prompts that require imaginative or narrative elements",
+    "Implement when optimizing long, overly complex prompts for better performance",
+    "Use when establishing a persona or specific character profile for the AI"
+  ],
+  "tags": [
+    "best-practices",
+    "prompt-strategy",
+    "theory",
+    "content-creation"
+  ],
+  "priority": 8,
+  "content": "Understanding why certain prompts work helps you craft better ones. Recent research from Stanford's Human-Computer Interaction lab shows that AI language models respond best to prompts that balance specificity with creative freedom.\n\nThink of it like giving directions to an improv actor. Too vague (\"be funny\") and they freeze. Too specific (\"say this exact joke\") and you lose the magic of improvisation. The sweet spot is a clear setup with room to explore: \"You're a perfectionist chef who just burned toast.\"\n\nThis principle explains why shorter prompts often outperform longer ones. A prompt like \"Victorian detective, smartphone found\" gives the AI two concrete elements to connect creatively. A paragraph describing the detective's entire backstory, the smartphone's features, and the plot you want actually limits the AI's ability to make interesting connections.",
+  "token_estimate": 174
+}

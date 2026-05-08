@@ -1,0 +1,32 @@
+{
+  "title": "An Effective Prologue Method",
+  "path": "blog-horror-prologue-gameplay-an-effective-prologue-method",
+  "url": "https://www.prismaticwasteland.com/blog/horror-prologue-gameplay",
+  "keywords": [
+    "Spoiler Problem",
+    "Prologue Method",
+    "villain stat block",
+    "redaction",
+    "metagaming",
+    "mechanical execution",
+    "weaknesses",
+    "resistances",
+    "referee control",
+    "narrative-driven mechanics"
+  ],
+  "use_cases": [
+    "Use when introducing a powerful antagonist early in a campaign without compromising secret vulnerabilities",
+    "Implement when players are roleplaying a prologue or flashback sequence as high-level characters",
+    "Configure when attempting to minimize metagaming by hiding specific resistances and stat details",
+    "Use when transitioning from player intent to referee resolution to maintain cinematic mystery"
+  ],
+  "tags": [
+    "game-mastering",
+    "campaign-design",
+    "player-management",
+    "mechanics"
+  ],
+  "priority": 6,
+  "content": "The Spoiler Problem is simply that letting the players see the stat block for the adventure’s villain spoils the mystery of the villain and also poses the risk of undue metagaming. After all, wasn’t the shark in Jaws so effective because of how sparingly it was used? There are two primary solutions to this issue: (1) give the players a redacted or otherwise incomplete stat block, (2) the players describe what they want the villain to do but the referee then decides how it is mechanically accomplished.\n\nIn the first option, how much information would need to be redacted depends on the villain and the exact situation, but at the very least any of the villain’s weaknesses or resistances would need to be hidden. For instance, if the villain is a vampire, you would need to cover up how devastating sunlight is or you’ll reveal a reliable vampire killing method to the players without the player characters having earned it. Although the example of the vampire maybe shows that this problem isn’",
+  "token_estimate": 228
+}

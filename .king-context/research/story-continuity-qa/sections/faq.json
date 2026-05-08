@@ -1,0 +1,33 @@
+{
+  "title": "FAQ",
+  "path": "faq",
+  "url": "https://lorefoundry.io/",
+  "keywords": [
+    "LoreFoundry Core",
+    "continuity checks",
+    "structured lore",
+    "bulk import",
+    "export tooling",
+    "engine-ready pipelines",
+    "studio onboarding",
+    "role controls",
+    "canon management",
+    "AI system"
+  ],
+  "use_cases": [
+    "Use when evaluating the platform for game world organization and story planning",
+    "Implement when needing to maintain narrative consistency through automated continuity checks",
+    "Configure when importing existing lore documents to train the AI system on specific canon",
+    "Use when setting up workspace privacy via role controls and audit logs",
+    "Use when planning lore-to-engine export workflows for future development"
+  ],
+  "tags": [
+    "general-info",
+    "onboarding",
+    "security-privacy",
+    "product-overview"
+  ],
+  "priority": 10,
+  "content": "Answers for teams evaluating LoreFoundry.\n\nWhat is LoreFoundry?\n\nLoreFoundry is a workspace for organizing your game world, planning story content, and keeping canon consistent with continuity checks. LoreFoundry Core can suggest starting points, but every decision stays with your team.\n\nWhat is LoreFoundry Core?\n\nLoreFoundry Core is the AI system within LoreFoundry.\n\nDo I need experience with AI tools?\n\nNo. You can outline quests, characters, and places manually. When you want a faster starting point, enable LoreFoundry Core and edit any suggestion before it becomes canon.\n\nWhich engines are supported?\n\nExport tooling is in development. Today you can capture structured lore, quests, and events. We will publish engine-ready pipelines as soon as they are stable.\n\nWho can join LoreFoundry?\n\nAnyone building narrative worlds can sign up now. Studio onboarding and advanced role controls are available on request.\n\nDoes LoreFoundry replace writers?\n\nNo. Your team reviews every change and decides what becomes canon.\n\nCan we import our lore?\n\nYes. Upload documents or use bulk import so Core references your canon.\n\nHow is data kept safe?\n\nRole controls and audits keep projects private. Continuity rules stay inside your team.\n\nStill curious? info@lorefoundry.io\n\nFeedback",
+  "token_estimate": 254
+}

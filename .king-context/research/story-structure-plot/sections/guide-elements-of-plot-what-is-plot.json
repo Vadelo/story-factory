@@ -1,0 +1,35 @@
+{
+  "title": "What is plot?",
+  "path": "guide-elements-of-plot-what-is-plot",
+  "url": "https://blog.reedsy.com/guide/elements-of-plot",
+  "keywords": [
+    "plot",
+    "inciting incident",
+    "resolution",
+    "three-act structure",
+    "Hero’s Journey",
+    "plot diagram",
+    "narrative arc",
+    "characterization",
+    "tension building",
+    "story structure",
+    "motivating events"
+  ],
+  "use_cases": [
+    "Use when creating a structured outline for a novel.",
+    "Implement when outlining a story’s inciting incident and resolution.",
+    "Configure when mapping a plot diagram to visualize narrative flow.",
+    "Utilize when applying a three-act structure or Hero’s Journey framework.",
+    "Apply when designing scenes that build tension and develop character."
+  ],
+  "tags": [
+    "storycraft",
+    "narrative",
+    "plot",
+    "writing",
+    "structure"
+  ],
+  "priority": 10,
+  "content": "Plot is the series of events that comprise your novel’s narrative. Crucially, a plot is not just what happens in a story — it’s how and why those things happen. And a story is more than a simple recounting of events; every scene should be carefully arranged to create meaning, build tension, and develop characterization. Each one should build on the events of the last, and set up the one that follows.\n\nA great plot combines various key elements. From the inciting incident to the satisfying resolution, each element should connect to form a cohesive journey. Many writers find inspiration in common story structures, like the three-act structure or the Hero’s Journey, to help shape their narratives. For a more detailed overview on plot, check out our guide!\n\nTo get a better idea of how a plot is structured, let’s take a look at a plot diagram.",
+  "token_estimate": 195
+}

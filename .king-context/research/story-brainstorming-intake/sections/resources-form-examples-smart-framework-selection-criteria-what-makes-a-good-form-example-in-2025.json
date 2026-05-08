@@ -1,0 +1,33 @@
+{
+  "title": "Selection Criteria (What Makes a “Good” Form Example in 2025)",
+  "path": "resources-form-examples-smart-framework-selection-criteria-what-makes-a-good-form-example-in-2025",
+  "url": "https://noteforms.com/resources/form-examples-smart-framework",
+  "keywords": [
+    "outcome clarity",
+    "friction-intent mapping",
+    "data quality by design",
+    "workflow readiness",
+    "dedupe logic",
+    "database schema mapping",
+    "form abandonment",
+    "controlled options",
+    "compliance basics",
+    "triage workflow"
+  ],
+  "use_cases": [
+    "Use when auditing existing web forms for abandonment rates and user drop-off",
+    "Implement when planning lead generation workflows to ensure data quality",
+    "Configure when balancing form length against user intent for high-stakes applications",
+    "Use when designing database schemas to ensure field compatibility with frontend inputs",
+    "Apply when establishing post-submission triage and response protocols"
+  ],
+  "tags": [
+    "ux-design",
+    "data-management",
+    "best-practices",
+    "optimization"
+  ],
+  "priority": 9,
+  "content": "A form example is only useful if it helps you make decisions. Here’s the lens we use when we audit or plan forms:\n\n#### 1) Outcome clarity (forms are not “pages”)\n\nA form should trigger an outcome: lead routed, request queued, approval started, feedback logged, candidate moved forward. If it doesn’t change what happens next, it’s probably noise.\n\n#### 2) Friction matched to intent\n\nPeople tolerate longer forms when stakes are high (loan application, onboarding, incident report). But asking 12 questions for a newsletter signup? That’s how you lose people.\n\nWix cites that roughly 34% of users abandon a form in benchmarking data—often because the form is too long or asks for sensitive info too early (Wix).\n\n#### 3) Data quality by design\n\n“More submissions” is not the same as “usable submissions.” Clean data means:\n\n- controlled options (selects) when possible\n\n- consistent formats (email, phone, dates)\n\n- dedupe logic (at least at the workflow level)\n\n- fields mapped to a database schema you actually use\n\n#### 4) Workflow readiness (the “after submit” plan)\n\nIf your team can’t triage and act on the submission, your form becomes a backlog generator.\n\n#### 5) Trust and compliance basics\n\nSecurity is not a footer link. It’s field order, consent wording, retention habits, and access control. We’ll keep this practical and high-level (not legal advice).\n\n![infographic showing the Form Selection Framework: Goal → Intent → UX pattern → Field strategy → Work](https://www.notion.so/image/attachment:0c473a37-274f-42c4-8e9d-9a8c5988111b:image_1.png?table=block&id=2d6a631b-ec20-816a-b3af-d754e92e7349&cache=v2)\n\ninfographic showing the Form Selection Framework: Goal → Intent → UX pattern → Field strategy → Work",
+  "token_estimate": 339
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Character States: O Homem na Margem da Página",
+  "path": "chapter-001-light-novel-character-states",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-001-light-novel-character-states",
+  "keywords": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-001-light-novel"
+  ],
+  "use_cases": [
+    "Recall character and relationship states after this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-001-light-novel"
+  ],
+  "priority": 10,
+  "content": "{\n  \"character_states\": [\n    {\n      \"name\": \"Davi Noh\",\n      \"state\": \"Consciência sem corpo presa à margem textual; entende que revisão pode alterar destino se entrar discretamente nas frases.\"\n    },\n    {\n      \"name\": \"Yerin\",\n      \"state\": \"Ferida no ombro, viva, fugiu pelo canal inferior e manteve agência própria.\"\n    },\n    {\n      \"name\": \"Kael\",\n      \"state\": \"Herói regressor frustrado; percebe a margem e escreve comentários fora do texto.\"\n    }\n  ],\n  \"relationship_changes\": [\n    {\n      \"pair\": [\n        \"Davi\",\n        \"Yerin\"\n      ],\n      \"change\": \"Davi devolve possibilidades cortadas a Yerin, mas precisa evitar substituir a vontade dela pela dele.\"\n    },\n    {\n      \"pair\": [\n        \"Davi\",\n        \"Kael\"\n      ],\n      \"change\": \"Kael identifica Davi como interferência editorial e ameaça disputar a margem.\"\n    }\n  ]\n}",
+  "token_estimate": 143
+}

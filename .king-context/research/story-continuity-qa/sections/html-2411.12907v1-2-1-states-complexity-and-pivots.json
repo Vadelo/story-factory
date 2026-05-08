@@ -1,0 +1,31 @@
+{
+  "title": "2.1 States, complexity and pivots",
+  "path": "html-2411.12907v1-2-1-states-complexity-and-pivots",
+  "url": "https://arxiv.org/html/2411.12907v1",
+  "keywords": [
+    "pivot measure",
+    "JSD",
+    "Jensen-Shannon Divergence",
+    "emotional shifts",
+    "narrative structures",
+    "emotional dynamics",
+    "emotional rollercoaster metric",
+    "genre-specific patterns",
+    "state complexity"
+  ],
+  "use_cases": [
+    "Use when quantifying the frequency and intensity of emotional shifts in narrative content",
+    "Implement when comparing storytelling techniques between human-authored and AI-generated scripts",
+    "Configure when benchmarking genre-specific pacing such as slow-burn vs. high-volatility structures",
+    "Use when developing metrics for narrative state complexity and pivot analysis"
+  ],
+  "tags": [
+    "data-analysis",
+    "narrative-theory",
+    "metrics",
+    "content-comparison"
+  ],
+  "priority": 7,
+  "content": "Our pivot measure also revealed genre-specific patterns (see Fig. 2 F). Reality and dating shows displayed higher JSD, indicating frequent and stronger emotional shifts – essentially an \"emotional rollercoaster\" metric. This is compared to genres that rely on comparitively more gradual changes like dramas and thrillers - often \"slower burns\". These results demonstrate our framework’s ability to quantify narrative structures and emotional dynamics, providing a basis for comparing storytelling techniques across different genres and between human-created and AI-generated content.",
+  "token_estimate": 105
+}

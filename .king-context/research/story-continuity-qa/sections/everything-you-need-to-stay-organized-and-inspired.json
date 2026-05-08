@@ -1,0 +1,34 @@
+{
+  "title": "Everything you need to stay organized and inspired",
+  "path": "everything-you-need-to-stay-organized-and-inspired",
+  "url": "https://www.mythril.io/",
+  "keywords": [
+    "automated cataloging",
+    "compendium objects",
+    "narrative beats",
+    "plot structure analysis",
+    "relationship mapping",
+    "character tracking",
+    "timeline visualization",
+    "world building",
+    "data entry automation",
+    "social structures",
+    "story progression"
+  ],
+  "use_cases": [
+    "Use when you want to automatically catalog story elements without manual data entry",
+    "Implement when visual timeline tracking of character arcs and narrative beats is required",
+    "Configure when mapping complex relationships between characters, locations, and items",
+    "Use when analyzing plot progression, conflict distribution, and story stakes",
+    "Implement when organizing world-building mechanics and fictional social structures"
+  ],
+  "tags": [
+    "world-building",
+    "content-organization",
+    "narrative-analysis",
+    "character-management"
+  ],
+  "priority": 9,
+  "content": "Mythril instantly catalogs every character, location, item, and plot event into a beautiful, searchable reference guide, with no manual data entry required\n\n#### World concepts, organized\n\nAll of your story’s concepts intuitively grouped and prioritized\n\n#### Visualize every timeline\n\nSee key events and narrative beats for all of your compendium objects\n\n#### Deep character tracking\n\nAutomatic profiles summarizing appearance, personality, dialogue and plot interactions\n\n#### Plot & structure analysis\n\nAssess your story progression and how you are conveying conflict and stakes\n\n#### Relationship mapping\n\nSee how your world’s people, places and things connect at a glance\n\n#### Every setting, recorded\n\nFrom sprawling cities to intimate taverns, browse and inspect all your story locations\n\n#### Track meaningful objects\n\nRecall the tiny details for the many magical and mundane items that drive your plot\n\n#### Mechanics & systems codified\n\nRules, systems and social structures are automatically captured for your review",
+  "token_estimate": 196
+}

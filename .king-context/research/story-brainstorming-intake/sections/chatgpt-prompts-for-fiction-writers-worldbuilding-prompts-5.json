@@ -1,0 +1,34 @@
+{
+  "title": "Worldbuilding prompts (5)",
+  "path": "chatgpt-prompts-for-fiction-writers-worldbuilding-prompts-5",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "magic system architecture",
+    "culture builder",
+    "second-order effects",
+    "history generator",
+    "sensory worldbuilding",
+    "romance beat sheet",
+    "timeline creation",
+    "mythology development",
+    "social structures",
+    "conflict resolution"
+  ],
+  "use_cases": [
+    "Use when designing magic systems with defined sources, costs, and hard rules",
+    "Implement when constructing detailed cultural customs, taboos, and internal tensions",
+    "Configure when tracing the socio-economic impacts of new technologies in a fictional setting",
+    "Use when creating historical timelines and founding myths for long-term world consistency",
+    "Implement when drafting immersive scenes focused on sensory details like ambient sounds and textures",
+    "Use when mapping narrative progression for romantic subplots using established beat sheets"
+  ],
+  "tags": [
+    "creative-writing",
+    "worldbuilding",
+    "narrative-design",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "Build consistent, detailed worlds for fantasy, sci-fi, and speculative fiction.\n\n46. Magic system architect\n\nDesign a magic system for my [genre] world where [basic concept]. Define: the source of power, the cost of using it, 3 hard rules that cannot be broken, how it shapes the society that uses it, and one loophole that my protagonist could exploit.\n\n47. Culture builder\n\nCreate a culture for [world/setting] built around [central value or resource]. Define their greeting customs, conflict resolution, coming-of-age ritual, what they consider taboo, their relationship with [neighboring culture], and one internal tension that could cause a civil conflict.\n\n48. Technology and society\n\nMy world has [technology or magical equivalent]. Trace the second-order effects: How does this change economics? Social structures? Warfare? Daily life for the poor vs. the wealthy? What new crimes or social problems does it create?\n\n49. History generator\n\nCreate a 500-year timeline for [world/region] that leads to the current state of my story. Include 3 major conflicts, 2 technological or magical breakthroughs, 1 catastrophe, and the founding myth that the current population believes (which may or may not be true).\n\n50. Sensory worldbuilding\n\nI’m writing a scene set in [location in your world]. Describe what a character experiences through each sense: What does this place smell like? What ambient sounds are constant? What textures are everywhere? What does the local food taste like? What colors and light define the visual landscape?\n\n51. Romance beat sheet\n\nMap a romance arc between [character A] and [character B] using these beats: meet cute, first barrier, growing attraction, false intimacy, midpoint commitment, dark moment, grand gesture",
+  "token_estimate": 353
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The “Genre-Bending” Screenplay Engine",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-genre-bending-screenplay-engine",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Gemini LLM",
+    "Map-Reduce-Mutate-Execute",
+    "Stateless API",
+    "Client-side Orchestrator",
+    "Screenplay Engine",
+    "Narrative Consistency",
+    "Atomic Units",
+    "Phase Pipeline",
+    "Stylistic Transformation",
+    "Data Processing Engine"
+  ],
+  "use_cases": [
+    "Implement when transforming long-form narrative content while maintaining structural integrity",
+    "Configure when architectural consistency is required across large-scale document processing",
+    "Use when performing deep stylistic genre transformations on existing creative works",
+    "Implement when preventing LLM hallucinations in complex, multi-page text handling"
+  ],
+  "tags": [
+    "AI Architecture",
+    "Data Transformation",
+    "Content Generation",
+    "LLM Orchestration"
+  ],
+  "priority": 9,
+  "content": "The mission sounded simple enough: Build a feature that takes an existing screenplay and fundamentally transforms its genre. We wanted users to be able to take a serious Drama and rewrite it as a slapstick Comedy, or turn a Western into a Film Noir.\n\nBut here’s the kicker: You can’t just tell an LLM to “make it funny.”\n\nIf you treat a 120-page script as one big string of text, the AI will inevitably hallucinate. It might change the genre, but it will lose the plot. We needed a system that ensured narrative consistency and structural integrity while performing a deep stylistic transformation. We needed the AI to understand that even if the setting changes from an office to a spaceship, the emotional subtext of the scene must remain intact.\n\nThe Tech Stack\n\nWe architected this as a client-side orchestrator calling a stateless server-side API.\n\n- The Muscle: A stateless API endpoint that performs distinct actions like “analyze”, “bible”, “mutate”, and “write”.\n- The Orchestrator: A client-side service that manages the long-running process. It handles splitting the screenplay into atomic units (scenes), tracking progress, and stitching the final result back together.\n- The Brains: Google Gemini LLM (via the backend API).\n\nThe breakthrough came when we stopped trying to rewrite the script linearly. Instead, we adopted a Map-Reduce-Mutate-Execute architecture. We realized that to rewrite a story successfully, the AI first had to understand it completely, separating the analysis phase from the writing phase.\n\nPress enter or click to view image in full size\n\nData flow diagram\n\nSo, how do we actually pull this off? We don’t just ask the AI to “rewrite the script.” That’s a rookie move. Instead, we treat the LLM as a sophisticated data processing engine. We break the job down into a 5-Phase Pipeline that separates understanding the story from generating the new version.\n\nHere is how the sausage is made:\n\nFirst, we need to ground the AI. We ingest the entire raw screenplay text just to get a high-level summary.\n\n- Why: You can’t rewrite Scene 1 effectively if you don’t know the movie ends in a tragedy. This summary is injected into every subsequent phase to ensure the AI knows where it is going.\n- The Goal: Establish a “Big Picture” understanding of the narrative arc.",
+  "token_estimate": 508
+}

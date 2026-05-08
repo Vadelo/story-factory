@@ -1,0 +1,31 @@
+{
+  "title": "Author’s Bio",
+  "path": "the-trellis-methods-story-genres-development-workbook-author-s-bio",
+  "url": "https://tameyourbook.com/the-trellis-methods-story-genres-development-workbook/",
+  "keywords": [
+    "Grant P. Ferguson",
+    "Trellis Method",
+    "Author Bio",
+    "genre mashup",
+    "Central Texas",
+    "Fortress of Solitude",
+    "writing research",
+    "commenting system",
+    "Email Required",
+    "Name Required"
+  ],
+  "use_cases": [
+    "Use when displaying biographical information about the content creator",
+    "Implement when requiring user identification for article comments",
+    "Configure when referencing the specific Trellis Method methodology",
+    "Use when providing geographical context for the author's background"
+  ],
+  "tags": [
+    "metadata",
+    "user-profile",
+    "engagement"
+  ],
+  "priority": 3,
+  "content": "Grant P. Ferguson developed his reading superpower as an under-tall kid in grade school. After balancing on tiptoes to pluck a science fiction novel from the library’s top shelf, it was love at first reading. Like a nerd turned super hero, books transformed his ordinary life into an extraordinary genre mashup of thriller, romance, and faith. He studied writing, and like a mad (but not evil) scientist, turned his research into the Trellis Method. From their ‘Fortress of Solitude’ in Central Texas, Grant and wife share their love of writing.\n\n---\n\n---\n\nLoading Comments...\n\nEmail (Required) Name (Required) Website",
+  "token_estimate": 131
+}

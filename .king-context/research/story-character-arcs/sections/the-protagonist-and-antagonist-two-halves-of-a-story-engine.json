@@ -1,0 +1,28 @@
+{
+  "title": "The Protagonist and Antagonist: Two Halves of a Story Engine",
+  "path": "the-protagonist-and-antagonist-two-halves-of-a-story-engine",
+  "url": "https://blog.celtx.com/?p=11874",
+  "keywords": [
+    "narrative function",
+    "Protagonist",
+    "Antagonist",
+    "story engine",
+    "opposing forces",
+    "narrative friction",
+    "goal-oriented journey",
+    "character dynamics"
+  ],
+  "use_cases": [
+    "Use when defining the core conflict of a narrative architecture",
+    "Implement when balancing character roles within a story engine",
+    "Configure when establishing movement and friction in a plot structure"
+  ],
+  "tags": [
+    "narrative-design",
+    "conceptual-framework",
+    "character-architecture"
+  ],
+  "priority": 10,
+  "content": "At its simplest, a story is a journey toward a goal. To make that journey compelling, you need two opposing forces: one to drive the car (the Protagonist) and one to provide the friction that makes the drive difficult (the Antagonist).\n\nInstead of thinking of them as “Good vs. Evil,” think of them in terms of their narrative function.",
+  "token_estimate": 78
+}

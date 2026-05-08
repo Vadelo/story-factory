@@ -1,0 +1,31 @@
+{
+  "title": "Editing Summarized Content",
+  "path": "blog-why-i-built-rag-memory-system-editing-summarized-content",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "AI Story Stream",
+    "Summarized Content",
+    "Reset Summaries",
+    "Continue Anyway",
+    "Cancel Edit",
+    "Story Continuity",
+    "Summary Re-generation",
+    "Inaccurate Summaries",
+    "Conflict Resolution"
+  ],
+  "use_cases": [
+    "Use when minor typos need correction within already archived story segments",
+    "Implement when significant plot changes require synchronization with AI memory",
+    "Configure when starting major revisions that invalidate previous plot summaries",
+    "Use when maintaining strict logical consistency for AI-assisted writing"
+  ],
+  "tags": [
+    "content-management",
+    "ai-integrity",
+    "editor-workflow",
+    "data-consistency"
+  ],
+  "priority": 8,
+  "content": "If you edit parts of your story that have already been summarized, those summaries become outdated.\n\nAI Story Stream will warn you when you try to edit summarized sections and give you three options:\n\n1. Continue Anyway – Edit the content, but know that summaries are now inaccurate\n2. Reset Summaries – Clear all summaries so you can edit freely, then re-summarize later\n3. Cancel Edit – Keep your summaries intact and don't make changes\n\nFor minor edits (fixing typos, tweaking a sentence), you can continue without worry. For major revisions like rewriting entire chapters or changing plot points, it's best to reset summaries and regenerate them after you're done.\n\nWhy this matters: if your summaries say \"Marcus trusted Elena completely\" but you've edited the scene to make him suspicious of her, the AI will get conflicting information. Accurate summaries mean accurate story continuity.",
+  "token_estimate": 191
+}

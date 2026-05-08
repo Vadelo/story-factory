@@ -1,0 +1,33 @@
+{
+  "title": "2: Define your world's core premise",
+  "path": "blogs-writing-tips-fantasy-worldbuilding-guide-2-define-your-world-s-core-premise",
+  "url": "https://www.quillandsteel.com/blogs/writing-tips/fantasy-worldbuilding-guide",
+  "keywords": [
+    "core premise",
+    "worldbuilding",
+    "magic system",
+    "sunlight poisonous",
+    "underground cities",
+    "culture fear light",
+    "heretic or hero",
+    "daily life",
+    "politics",
+    "relationships"
+  ],
+  "use_cases": [
+    "Use when establishing a foundational 'what if' scenario for a fantasy setting.",
+    "Implement when determining how unique environmental rules influence daily life and politics.",
+    "Configure when planning cultures that adapt to unconventional rules, such as fear of light.",
+    "Apply when designing character archetypes (e.g., heretics or heroes) that arise from the core premise.",
+    "Leverage when brainstorming consequences of altering the core rule (e.g., making sunlight harmless)."
+  ],
+  "tags": [
+    "worldbuilding",
+    "fantasy",
+    "narrative-design",
+    "conceptualization"
+  ],
+  "priority": 8,
+  "content": "Before mapping continents or designing magic systems, establish your world's fundamental \"what if\" scenario. This premise becomes the foundation for all other worldbuilding decisions.\n\nKey questions:\n\n- What makes your fantasy world unique?\n- How does this difference affect daily life, politics, and relationships?\n- What would happen if this core rule changed?\n\nExample: What if sunlight is poisonous and underground cities are the norm? → This leads to cultures that fear light, travel by tunnel, and worship darkness. A surface-dwelling character becomes a heretic or hero.",
+  "token_estimate": 115
+}

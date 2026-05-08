@@ -1,0 +1,31 @@
+{
+  "title": "Real-Time Progress Streaming",
+  "path": "jonmartin721-living-story-world-real-time-progress-streaming",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "Server-Sent Events",
+    "EventSource",
+    "onmessage",
+    "real-time progress",
+    "async generation pipeline",
+    "progress",
+    "chapter_complete",
+    "image_complete",
+    "/api/generate/stream"
+  ],
+  "use_cases": [
+    "Implement when you need live UI updates during long-running tasks without page refreshes",
+    "Use when replacing traditional polling to reduce server overhead during chapter generation",
+    "Configure when streaming multi-stage data such as text generation followed by image processing",
+    "Use when providing immediate visual feedback for asynchronous backend pipelines"
+  ],
+  "tags": [
+    "real-time",
+    "frontend-api",
+    "performance",
+    "streaming"
+  ],
+  "priority": 9,
+  "content": "Chapter generation uses Server-Sent Events for live progress updates without polling:\n\n```javascript\n// Frontend code - real-time updates without refreshing\nconst eventSource = new EventSource('/api/generate/stream');\n\neventSource.onmessage = (event) => {\n  const data = JSON.parse(event.data);\n\n  if (data.type === 'progress') {\n    updateProgressBar(data.percent);  // Text generation in progress\n  } else if (data.type === 'chapter_complete') {\n    renderChapter(data.content);      // Chapter ready, now generating image\n  } else if (data.type === 'image_complete') {\n    displayScene(data.image_url);     // All done!\n  }\n};\n```\n\nBackend emits structured events during the async generation pipeline. Feels responsive compared to long-polling.",
+  "token_estimate": 115
+}

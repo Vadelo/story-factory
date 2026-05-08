@@ -1,0 +1,33 @@
+{
+  "title": "4 System Overview",
+  "path": "html-2604.15800v1-4-system-overview",
+  "url": "https://arxiv.org/html/2604.15800v1",
+  "keywords": [
+    "Goal-Text Alignment Evaluation",
+    "Voice Mode",
+    "Self-regulated writing",
+    "Adaptive writing goals",
+    "Self-evaluation cards",
+    "Metacognitive processes",
+    "Wizard-of-Oz study",
+    "Authorial intent",
+    "Outline view",
+    "WriteFlow ProtoPie"
+  ],
+  "use_cases": [
+    "Use when users need to translate verbal writing plans into structured, trackable goals using a conversational agent",
+    "Implement when providing iterative feedback loops for goal refinement through self-evaluation cards",
+    "Configure when tracking the alignment between evolving user intentions and the final written output",
+    "Use when comparing multiple versions of a document outline to visualize the evolution of writing plans",
+    "Implement when conducting design probe studies to measure user agency and AI reliance in academic writing"
+  ],
+  "tags": [
+    "System Overview",
+    "Academic Writing",
+    "AI Interaction",
+    "Goal Management"
+  ],
+  "priority": 10,
+  "content": "Figure 1 presents WriteFlow’s workflow and interface 333WriteFlow ProtoPie prototype: https://cloud.protopie.io/p/3176a8c0ab9ad1f9e99b0910. Users provide writing requirements and upload drafts, which the system uses to contextualize task understanding. Through Voice Mode, users discuss their writing plans with an AI-mediated conversational agent, which generates writing goals aligned with their intentions. Goals are stored on the My Goals page, where users can track progress, receive targeted suggestions, and review post-completion evaluations. WriteFlow also provides an Outline view that supports creating, revising, and comparing multiple outline versions across drafting stages.\n\nGoal Setting and Monitoring. WriteFlow supports planning and self-regulated writing by scaffolding goal articulation, refinement, and progress monitoring. During voice-based interaction, the system helps users externalize ideas and translates them into adaptive writing goals (R1, R3). Self-evaluation cards enable users to iteratively revise goals (R2), while progress tracking (R5) and suggestion cards support focused execution and sub-goal formation.\n\nGoal-Text Alignment Evaluation. Central to WriteFlow’s design is the Goal Completion Evaluation feature, which directly addresses the challenge of tracking alignment between evolving goals and emerging text. After goal completion, the system evaluates alignment between goals, outlines, and written content to support reflective revision and preservation of authorial intent (R4). The Outline view further supports flexible goal evolution by allowing users to create and compare multiple outline versions across drafting stages, enabling tracking of how writing plans change over time.\n\nWe used WriteFlow as a design probe and conducted an exploratory Wizard-of-Oz study to answer the following research questions: RQ1. In what ways does the use of WriteFlow support users’ metacognitive goal-oriented processes during academic writing, and what design refinements are needed, based on their feedback? RQ2. How does using WriteFlow influence writers’ sense of agency and their reliance on AI during academic writing?",
+  "token_estimate": 381
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Want vs Need: The Engine of Plot",
+  "path": "blog-how-to-write-compelling-characters-want-vs-need-the-engine-of-plot",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "External Goal",
+    "Internal Truth",
+    "Positive Arc",
+    "Negative Arc",
+    "Flat Arc",
+    "Thematic Resonance",
+    "Misbelief",
+    "Character Motivation",
+    "Plot Engine",
+    "Bittersweet Ending",
+    "Protagonist Development"
+  ],
+  "use_cases": [
+    "Use when defining a character's conscious objective to drive the narrative forward",
+    "Implement when mapping the internal emotional growth of a protagonist against external events",
+    "Configure when designing a Positive Arc where the character accepts a hard truth to succeed",
+    "Use when creating tragedy by allowing a character's misbelief to override their internal need",
+    "Implement when a protagonist's core belief must remain unchanged while the world adapts around them"
+  ],
+  "tags": [
+    "Narrative Design",
+    "Character Development",
+    "Story Structure",
+    "Thematic Analysis"
+  ],
+  "priority": 10,
+  "content": "The want is the external goal — the specific, achievable objective the character is consciously pursuing. It drives the plot forward. It gives the reader something to track. It should be concrete: get the promotion, find the murderer, win back the person they love, survive the winter.\n\nThe need is the internal truth the character requires to genuinely heal — and which the misbelief is actively preventing them from accepting. The need is usually not consciously known to the character. It's what the story is about, underneath the plot.\n\nThe tension between want and need generates thematic resonance. When a character achieves the want without addressing the need, the ending feels hollow. When a character achieves the need by sacrificing the want, the ending is bittersweet but true. When they achieve both, the arc is complete.\n\nPositive Arc\n\nGets want and need\n\nProtagonist confronts their misbelief, accepts the truth, and achieves or earns what they want as a result of who they've become.\n\nElizabeth Bennet. Elle Woods. Ebenezer Scrooge.\n\nNegative Arc\n\nGets neither, or only the want\n\nStory offers the character the truth. They reject it. The misbelief wins. The cost is catastrophic — to them or to those around them.\n\nMacbeth. Amy Dunne. Michael Corleone.\n\nFlat Arc\n\nAlready has the truth\n\nCharacter's core belief is already correct. The story tests it against a world that wants them to abandon it. They hold. The world changes around them.\n\nAtticus Finch. Katniss Everdeen. Sherlock Holmes.",
+  "token_estimate": 324
+}

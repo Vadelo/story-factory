@@ -1,0 +1,36 @@
+{
+  "title": "Metrics and Parameters",
+  "path": "L-Earthling-temporal-literary-networks-metrics-and-parameters",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "undirected cumulative signed graphs",
+    "Small-world coefficient",
+    "Densification exponent",
+    "Alliance ratio",
+    "Degree entropy",
+    "Balance index",
+    "Inter-appearance burstiness",
+    "Macro-F1",
+    "D(τ)",
+    "B(τ)",
+    "κ",
+    "τ*"
+  ],
+  "use_cases": [
+    "Calculate network density trajectories to track character relationship growth over narrative time",
+    "Identify narrative climax positions by finding the minimum point of the balance index",
+    "Configure small-world coefficient parameters to analyze structural efficiency in character networks",
+    "Implement alliance ratio calculations to quantify the proportion of positive vs negative character interactions",
+    "Use burstiness measures to differentiate between regular and Poisson-distributed character appearances",
+    "Evaluate model performance across genres using the unweighted Macro-F1 classification score"
+  ],
+  "tags": [
+    "graph-theory",
+    "narrative-analytics",
+    "metrics-reference",
+    "network-topology"
+  ],
+  "priority": 9,
+  "content": "All temporal metrics are computed on undirected cumulative signed graphs G_t = (V_t, E_t, σ_t) at each narrative position τ = t/T.\n\n| Symbol | Name | Description |\n| --- | --- | --- |\n| N | Cast size | Number of character nodes |\n| E | Edge count | Number of character-pair edges |\n| δ | Network density | 2E / N(N−1): fraction of possible edges present |\n| C̄ | Clustering coefficient | Fraction of character triples forming closed triangles |\n| ℓ̄ | Average path length | Mean shortest path between character pairs |\n| σ_sw | Small-world coefficient | (C/C_rand) / (L/L_rand); values > 1 = small-world |\n| f+, f−, f₀ | Polarity fractions | Fraction of edges that are positive / negative / neutral |\n| α | Densification exponent | From E ∝ N^α; α > 1 = superlinear growth |\n| τ = t/T | Normalized narrative time | Chapter position mapped to (0, 1] |\n| D(τ) | Density trajectory | Network density at each τ |\n| D+(τ), D−(τ) | Signed density trajectories | Positive / negative edge density over time |\n| R+(τ) | Alliance ratio | D+ / (D+ + D−): fraction of defined relationships that are positive |\n| C(τ) | Clustering trajectory | Average clustering coefficient over time |\n| H(τ) | Degree entropy | Shannon entropy of the degree distribution: how evenly connectivity is spread |\n| B(τ) | Balance index | Fraction of signed triads satisfying strong balance (+++ or +−−) |\n| κ | Inter-appearance burstiness | (σ_Δ − μ_Δ) / (σ_Δ + μ_Δ); κ=−1: regular; κ=0: Poisson; κ=+1: bursty |\n| τ* = argmin B(τ) | Narrative climax position | Position of maximum structural imbalance |\n| Macro-F1 | Classification score | Unweighted mean F1 across all 8 genre classes |\n\n---",
+  "token_estimate": 417
+}

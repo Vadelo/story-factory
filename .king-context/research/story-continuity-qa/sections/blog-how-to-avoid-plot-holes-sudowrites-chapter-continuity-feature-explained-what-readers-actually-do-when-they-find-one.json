@@ -1,0 +1,32 @@
+{
+  "title": "What Readers Actually Do When They Find One",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-readers-actually-do-when-they-find-one",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Story Bible",
+    "Character Card",
+    "linked-chapters.png",
+    "plot hole prevention",
+    "worldbuilding rules",
+    "2,000 character limit",
+    "AI-assisted editing",
+    "revision time reduction",
+    "context-aware generation",
+    "story consistency"
+  ],
+  "use_cases": [
+    "Configure when establishing character consistency like eye color, pronouns, and personality across multiple chapters",
+    "Implement when worldbuilding to ensure magical systems and physical rules remain constant throughout the narrative",
+    "Use when utilizing AI generation features to ensure the output adheres to existing backstory and plot outlines",
+    "Use when managing a complex cast of characters to track detailed backstories for up to 2,000 unique entities"
+  ],
+  "tags": [
+    "creative-writing",
+    "accuracy-check",
+    "content-generation",
+    "configuration"
+  ],
+  "priority": 9,
+  "content": "Picture your ideal reader, three-quarters through your novel, fully invested. They hit a contradiction. The spell that required blood sacrifice in Chapter 5 now works with a wave of the hand in Chapter 30. That reader doesn't think \"oh, the author made a mistake.\" They think the story doesn't respect them. One plot hole is forgivable. Two makes them skeptical. Three, and you've lost them for good. The Alliance of Independent Authors Report found AI-assisted editing reduces revision time by 35%, but only when the AI has enough context to catch these errors before readers do.\n\n---\n\n![](https://sudowrite.com/blog/content/images/2026/03/linked-chapters.png)\n\nSudowrite's approach to plot hole prevention works in three layers, each addressing a different failure point in the writing process.\n\nBefore you write a single chapter, the Story Bible captures your characters (with pronouns, physical descriptions, personality, dialogue style), worldbuilding rules, and plot outline. Every character card can hold detailed backstory. You can store up to 2,000 characters. When any Sudowrite feature generates text, it reads this data first. Your protagonist's eye color doesn't drift because the AI checks the card every time.",
+  "token_estimate": 240
+}

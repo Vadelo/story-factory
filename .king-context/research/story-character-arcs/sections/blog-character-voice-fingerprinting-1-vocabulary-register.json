@@ -1,0 +1,30 @@
+{
+  "title": "1. Vocabulary Register",
+  "path": "blog-character-voice-fingerprinting-1-vocabulary-register",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "Vocabulary Register",
+    "Character Voice",
+    "Active Vocabulary",
+    "Voice Contract",
+    "Register Violations",
+    "Story Bible",
+    "Draft Revision",
+    "Narrative Consistency"
+  ],
+  "use_cases": [
+    "Configure when establishing a character's linguistic profile in a story bible",
+    "Use when auditing dialogue for stylistic consistency",
+    "Implement when differentiating between social classes or educational backgrounds",
+    "Use when identifying and fixing unintentional register shifts during the editing process"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "linguistics",
+    "revision-workflow"
+  ],
+  "priority": 8,
+  "content": "Every character's active vocabulary has a ceiling and a floor. An autodidact who reads voraciously reaches for specific, precise words — \"exacerbate,\" \"liminal,\" \"categorical.\" A working-class character who communicates primarily in practical terms reaches for plain, concrete language — \"worse,\" \"in-between,\" \"absolute.\" Neither is better. Neither is more intelligent. They are different.\n\nThe mistake is mixing registers within a single character without intention. A character established as reaching for plain language who suddenly produces a sentence like \"the situation has become untenable given the circumscribed parameters of our operational context\" has broken their voice contract without narrative cause.\n\nExercise: For each major character, list ten words that character would use and ten words that character would never use. Keep this list in your story bible. It takes fifteen minutes and catches a significant share of register violations during revision.",
+  "token_estimate": 184
+}

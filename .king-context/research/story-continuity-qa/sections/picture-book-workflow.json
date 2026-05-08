@@ -1,0 +1,33 @@
+{
+  "title": "Picture Book Workflow",
+  "path": "picture-book-workflow",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "create_world",
+    "set_art_style",
+    "generate_short_story",
+    "design_book",
+    "generate_page_illustrations",
+    "publish_to_shop",
+    "content_rating",
+    "textOnly",
+    "product_type: poem",
+    "generate_story_image"
+  ],
+  "use_cases": [
+    "Use when creating a structured multi-step workflow for children's picture book generation",
+    "Implement when separate text-only layout approval is required before generating illustrations",
+    "Configure when generating poetry by overriding the product_type parameter",
+    "Use when publishing generated creative assets directly to the integrated shop",
+    "Configure when consistent art styles are critical for visual storytelling consistency"
+  ],
+  "tags": [
+    "workflow",
+    "content-generation",
+    "api-reference",
+    "publishing"
+  ],
+  "priority": 10,
+  "content": "| Step | Action | Name | Description |\n| --- | --- | --- | --- |\n| 1 | `create_world` | Premise | Create world with 3-5 sentence description + `content_rating`. |\n| 2 | `set_art_style` | Art Style | Set the art style — critical for picture books. |\n| 3 | `set_genre` | Genre | Set genre (e.g. Children's / Picture Book). |\n| 4 | `generate_short_story` | Story Generation | Generate the manuscript text. |\n| 5 | `design_book` (textOnly: true) | Text Layout | Pacing plan + text-only layout. Creator approves before illustration. |\n| 6 | `generate_page_illustrations` | Spread Illustrations | Generate illustrations for each spread. |\n| 7 | `generate_story_image` | Cover Generation | Generate the cover. |\n| 8 | `publish_to_shop` | Publish | List on the Shop. |\n\n| Step | Action | Name | Description |\n| --- | --- | --- | --- |\n| 1 | `create_world` | Premise | Create world context for the poem. |\n| 2 | `generate_short_story` (product_type: poem) | Compose | Generate the poem. |\n| 3 | `design_book` | Design | Layout design. |\n| 4 | `publish_to_shop` | Publish | List on the Shop. |",
+  "token_estimate": 272
+}

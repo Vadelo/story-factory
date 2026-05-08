@@ -1,0 +1,33 @@
+{
+  "title": "1. Research",
+  "path": "news-Narrative-Design-Part-2-1-research",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "narrative design",
+    "IP source material",
+    "world-building research",
+    "narrative hook",
+    "story believability",
+    "AI-assisted research",
+    "IP consistency",
+    "fantasy conceptualization",
+    "plagiarism prevention",
+    "mission execution planning"
+  ],
+  "use_cases": [
+    "Use when working with established IP to ensure consistency with films, books, and previous games",
+    "Use when conceptualizing an original IP to investigate similar game mechanics and world-building",
+    "Configure when requiring factual data for story believability such as geography or timelines",
+    "Implement when using AI as a tool for researching bizarre or hypothetical narrative scenarios",
+    "Use when planning mission-specific details to ensure they are executable within the game world"
+  ],
+  "tags": [
+    "narrative-design",
+    "pre-production",
+    "research-methodology",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "This step falls outside of the pipeline because it is ongoing. Often, you need to research before you can conceptualize the narrative hook or fantasy (especially if you’re working with someone else’s IP). You should research similar mechanics, worlds, and games to inform the initial planning for an original IP. You should research as much source material as possible when working with established IP, whether that’s watching the films, reading the books, or playing previous games in a franchise. Research will permeate almost every phase of narrative design to ensure that you stay true to the source material (and not upset fans) or create a believable story and world.\n\nFor example, sometimes you must research the length of time it takes for a body to decompose, the geography of specific locations in the Iraq mountains, where certain real-world terrorist cells are located, and how long it takes to travel to and from those locations, all to ensure the story is believable and executable as a single mission. And sometimes you need to ask your manager to bail you out of jail if you disappear on the job due to a suspicious search history.\n\nConcerning AI: You should not be using it to write material— it can be plagiarized, incorrect, or just plain bad (I have been a lifelong em-dash lover, so get stuffed ChatGPT, I am not giving them up). But it is a helpful tool when researching bizarre, hypothetical scenarios, especially when you’re strapped for time. You can ask AI how long it would take a body to decompose in a desert, or if a mob of 1000 people with 110-degree fevers would create their own weather system. Stuff like that.",
+  "token_estimate": 375
+}

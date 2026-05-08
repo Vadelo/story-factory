@@ -1,0 +1,29 @@
+{
+  "title": "Pillar 1: Geography and Environment",
+  "path": "blog-worldbuilding-template-pillar-1-geography-and-environment",
+  "url": "https://proseengine.app/blog/worldbuilding-template",
+  "keywords": [
+    "climate",
+    "terrain",
+    "natural resources",
+    "trade routes",
+    "borders",
+    "conflict zones",
+    "environmental hazards"
+  ],
+  "use_cases": [
+    "Use when outlining the physical world of a fantasy setting to ensure logical consistency.",
+    "Implement when determining which kingdoms hold strategic resource bases and how that affects power dynamics.",
+    "Configure when mapping trade routes and natural borders to guide plot movement and geopolitical tension.",
+    "Use when exploring how weather patterns influence daily life and societal practices in your story.",
+    "Apply when designing environmental dangers that serve as obstacles or plot catalysts."
+  ],
+  "tags": [
+    "worldbuilding",
+    "fantasy design",
+    "creative writing"
+  ],
+  "priority": 10,
+  "content": "The physical world shapes everything else. Climate determines agriculture. Terrain determines trade routes. Natural resources determine who has power and who does not. Before you develop any other pillar, ask yourself:\n\n- What does the landscape look like where your story takes place?\n- What is the climate? How does weather affect daily life?\n- What natural resources exist, and who controls them?\n- How does geography create natural borders, trade routes, and areas of conflict?\n- What dangers does the environment itself pose?\n\nPro Tip\n\nBase your fictional geography on real-world analogues. If your setting resembles the Mediterranean coast, research how Mediterranean climates shaped real civilizations. This gives you a foundation of logical consistency without having to invent everything from scratch.",
+  "token_estimate": 162
+}

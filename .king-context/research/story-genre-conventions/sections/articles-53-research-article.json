@@ -1,0 +1,26 @@
+{
+  "title": "Research Article",
+  "path": "articles-53-research-article",
+  "url": "https://ssol-journal.com/articles/53",
+  "keywords": [
+    "Chris Gavaler",
+    "Dan Johnson",
+    "authorship",
+    "research article",
+    "contributor metadata",
+    "academic publication"
+  ],
+  "use_cases": [
+    "Use when identifying primary contributors to the research",
+    "Configure when populating bibliographic citations",
+    "Implement when attributing scholarly intellectual property"
+  ],
+  "tags": [
+    "metadata",
+    "academic-writing",
+    "attribution"
+  ],
+  "priority": 4,
+  "content": "Authors\n\n- Chris Gavaler\n- Dan Johnson",
+  "token_estimate": 9
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Project Structure",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-project-structure",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "claim_extractor.py",
+    "constraint_engine.py",
+    "pathway_tables.py",
+    "gemini_client.py",
+    "hierarchical chunking",
+    "narrative-consistency-validator",
+    "backstory_validator",
+    "mit license",
+    "pull request",
+    "claim-evidence analysis"
+  ],
+  "use_cases": [
+    "Use when setting up the development environment and understanding the directory layout",
+    "Configure when adding new LLM interfaces or modifying reasoning logic",
+    "Implement when contributing new features or bug fixes via the GitHub workflow",
+    "Use when mapping claims to evidence passages within the retrieval module",
+    "Configure when adjusting document ingestion and hierarchical chunking strategies"
+  ],
+  "tags": [
+    "project-architecture",
+    "contribution-guide",
+    "nlp-pipeline",
+    "development"
+  ],
+  "priority": 10,
+  "content": "```\nnarrative-consistency-validator/\n├── backstory_validator/\n│   ├── config.py                    # Configuration and enums\n│   ├── extraction/\n│   │   └── claim_extractor.py       # Backstory → claims\n│   ├── retrieval/\n│   │   └── evidence_retriever.py    # Claim → evidence passages\n│   ├── reasoning/\n│   │   ├── constraint_engine.py     # Claim-evidence analysis\n│   │   └── classifier.py            # Final decision logic\n│   ├── pipeline/\n│   │   ├── ingestion.py             # Novel loading\n│   │   ├── chunking.py              # Hierarchical chunking\n│   │   └── pathway_tables.py        # Document store\n│   ├── llm/\n│   │   └── gemini_client.py         # LLM interface (optional)\n│   └── models/\n│       └── schemas.py               # Data models\n├── data/\n│   ├── test.csv                     # Test backstories\n│   ├── train.csv                    # Training data\n│   └── *.txt                        # Novel files\n├── main.py                          # Entry point\n├── requirements.txt                 # Dependencies\n├── results.csv                      # Output (generated)\n├── TRACK_A_SUBMISSION_REPORT.md     # Technical documentation\n└── README.md                        # This file\n```\n\n---\n\nWe welcome contributions! Here's how to get started:\n\n1. **Fork the repository**\n2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)\n3. **Make your changes**\n4. **Run tests** (if available)\n5. **Commit your changes** (`git commit -m 'Add amazing feature'`)\n6. **Push to the branch** (`git push origin feature/amazing-feature`)\n7. **Open a Pull Request**\n\n- Write clear commit messages\n- Add comments for complex logic\n- Update documentation for new features\n- Ensure code follows existing style\n- Test your changes before submitting\n\n---\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n\n---\n\nFor questions, issues, or collaboration opportunities:\n\n- Open an issue on [GitHub](https://github.com/Krish-afk-bot/narrative-consistency-verifier/issues)\n- Project Link: [https://github.com/Krish-afk-bot/narrative-consistency-verifier](https://github.com/Krish-afk-bot/narrative-consistency-verifier)\n\n---\n\n \n\n**Built with 🧠 for long-context narrative reasoning**",
+  "token_estimate": 353
+}

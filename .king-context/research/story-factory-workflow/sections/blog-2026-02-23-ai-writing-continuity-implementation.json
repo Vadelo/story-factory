@@ -1,0 +1,31 @@
+{
+  "title": "Implementation",
+  "path": "blog-2026-02-23-ai-writing-continuity-implementation",
+  "url": "https://docs.bswen.com/blog/2026-02-23-ai-writing-continuity",
+  "keywords": [
+    "grep",
+    "regular expressions",
+    "cli workflow",
+    "continuity checking",
+    "pattern matching",
+    "recursive search",
+    "story bible",
+    "character facts",
+    "inconsistency detection"
+  ],
+  "use_cases": [
+    "Use when validating character physical descriptions across multiple files",
+    "Implement when automating the extraction of character metadata from a story bible",
+    "Configure when searching for conflicting narrative facts within a large manuscript",
+    "Use when performing recursive pattern matching across specific file extensions"
+  ],
+  "tags": [
+    "workflow",
+    "automation",
+    "data-validation",
+    "cli"
+  ],
+  "priority": 6,
+  "content": "Here’s my continuity checking workflow:\n\n```\n# Extract character facts from story biblegrep -E \"(Name|Age|Height|Eye color|Hair color)\" story_bible.md > character_facts.txt# Find all mentions of specific character across chaptersgrep -r \"Elena\" chapters/ --include=\"*.md\" -n > elena_mentions.txt# Check for inconsistent descriptionsgrep -E \"(Elena.*blue eyes|Elena.*green eyes|Elena.*brown eyes)\" chapters/ --include=\"*.md\" -n\n```\n\ncharacter_facts.txtgrep -r \"Elena\" chapters/ --include=\"*.md\" -n > elena_mentions.txtgrep -E \"(Elena.*blue eyes|Elena.*green eyes|Elena.*brown eyes)\" chapters/ --include=\"*.md\" -n\">\n\nWhen I run this:\n\n```\n$ grep -E \"(Elena.*blue eyes|Elena.*green eyes|Elena.*brown eyes)\" chapters/ --include=\"*.md\" -nchapters/045.md:234: Elena opened her piercing blue eyes.chapters/067.md:89: Elena's green eyes scanned the room.chapters/112.md:45: Elena's deep blue eyes filled with tears.\n```\n\nI get this output:\n\n```\nInconsistency found: Elena's eye color changesChapter 045: blue eyesChapter 067: green eyesChapter 112: blue eyes\n```",
+  "token_estimate": 159
+}

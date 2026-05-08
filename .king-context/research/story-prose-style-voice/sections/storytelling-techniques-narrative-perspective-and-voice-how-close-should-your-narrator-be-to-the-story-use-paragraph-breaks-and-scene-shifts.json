@@ -1,0 +1,33 @@
+{
+  "title": "Use Paragraph Breaks and Scene Shifts",
+  "path": "storytelling-techniques-narrative-perspective-and-voice-how-close-should-your-narrator-be-to-the-story-use-paragraph-breaks-and-scene-shifts",
+  "url": "https://digitalphrases.com/storytelling-techniques/narrative-perspective-and-voice/how-close-should-your-narrator-be-to-the-story/",
+  "keywords": [
+    "narrative distance",
+    "scene shifts",
+    "paragraph structure",
+    "sentence construction",
+    "psychic distance",
+    "sensory details",
+    "rhythm",
+    "thematic resonance",
+    "transition grounding",
+    "interiority"
+  ],
+  "use_cases": [
+    "Use when signaling a shift in narrative distance through structural breaks",
+    "Implement when transitioning from specific sensory experience to broader historical reflection",
+    "Configure when adjusting prose length to control emotional immediacy and reflection",
+    "Use when anchoring deep psychic distance with specific physical grounding",
+    "Implement when creating gradual transitions to avoid reader disorientation"
+  ],
+  "tags": [
+    "narrative-technique",
+    "prose-structure",
+    "writing-craft",
+    "stylistics"
+  ],
+  "priority": 8,
+  "content": "One of the simplest ways to signal a shift in distance is through scene and paragraph structure.\n\nAt a scene break, readers are already primed for a shift in time, place, or tone — so they’re more likely to accept a corresponding shift in narrative distance. Similarly, starting a new paragraph with a broader or more reflective voice cues the reader that we’re pulling back.\n\nToni Morrison’s use of this in Beloved is a great model. She’ll move from a character’s immediate sensory experience to a larger historical reflection, often between paragraphs — creating a rhythm that supports both intimacy and thematic resonance.\n\nAnother powerful tool is sentence construction. Short, concrete sentences tend to create a sense of immediacy and closeness. Longer, more abstract or lyrical sentences encourage a more reflective distance.\n\nLook at Cormac McCarthy’s The Road. In moments of terror or physical action, the prose is clipped and sensory-driven. In quieter moments, the sentences stretch out, inviting broader contemplation. This dynamic range contributes hugely to the novel’s emotional power.\n\nWhen moving into deep psychic distance, anchoring the passage with specific sensory details helps pull the reader in smoothly.\n\nRather than stating He was afraid, show us how his breath caught, how sweat trickled down his back, how the sound of footsteps seemed unnaturally loud. This kind of grounding makes the transition feel organic rather than abrupt.\n\nSudden, unprepared shifts in distance — especially within a single sentence or paragraph — can be disorienting. A useful guideline is to move between distances in gradual steps, not leaps.\n\nVirginia Woolf often moves from external observation to deep interiority via intermediate stages — giving the reader tiny cues to follow the shift. This creates a sense of fluidity rather than fracture.",
+  "token_estimate": 385
+}

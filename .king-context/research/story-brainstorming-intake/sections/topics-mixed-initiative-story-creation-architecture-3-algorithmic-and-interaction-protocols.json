@@ -1,0 +1,33 @@
+{
+  "title": "3. Algorithmic and Interaction Protocols",
+  "path": "topics-mixed-initiative-story-creation-architecture-3-algorithmic-and-interaction-protocols",
+  "url": "https://www.emergentmind.com/topics/mixed-initiative-story-creation-architecture",
+  "keywords": [
+    "Critique Loops",
+    "Mixed-initiative architectures",
+    "Thompson Sampling",
+    "IC MAP-Elites",
+    "Adaptive Initiative",
+    "Plan-Simulation Hybridization",
+    "Bayesian reward estimates",
+    "Multi-armed bandit agents",
+    "CritiCS",
+    "Sequential state machines",
+    "StoryVerse"
+  ],
+  "use_cases": [
+    "Implement when iterative multi-round revisions are required between independent critics and a lead director",
+    "Configure when initiative-taking policies need to adapt based on real-time user feedback and Bayesian estimates",
+    "Use when evolving a population of diverse narrative suggestions in parallel with manual designer edits",
+    "Implement when alternating between high-level authorial planning and emergent LLM-driven character simulations"
+  ],
+  "tags": [
+    "algorithmic-protocols",
+    "mixed-initiative",
+    "narrative-design",
+    "agent-behavior"
+  ],
+  "priority": 8,
+  "content": "Interaction protocols in mixed-initiative architectures are formalized as sequential or asynchronous critique loops, dialogue relays, or turn-based state machines.\n\n- Critique Loops: Systems like CritiCS employ multi-round loops where K critics independently propose revisions, a leader selects the most promising suggestion, and the draft is updated accordingly. The process is repeated until a stopping criterion or external evaluation is reached (Bae et al., 2024).\n- Plan and Text Refinement: Both planning and narrative realization are subjected to iterative suggestion–selection–update procedures. Update rules typically take the form:\n\ndraftt+1=draftt+Δ(draftt,c∗)\\text{draft}_{t+1} = \\text{draft}_t + \\Delta(\\text{draft}_t, c^*)\n\nwhere c∗c^* is the selected critique (Bae et al., 2024).\n\n- Adaptive Initiative: Multi-armed bandit agents, as in (Lin et al., 2024), accumulate user feedback on agent actions and adapt initiative-taking policies using Bayesian reward estimates and Thompson Sampling.\n- Evolutionary Suggestion Pools: Story Designer's IC MAP-Elites algorithm continuously evolves a population of narrative graphs in parallel with designer edits, presenting quality-diverse suggestions for manual or automated incorporation (Alvarez et al., 2022).\n- Planning–Simulation Hybridization: StoryVerse alternates between authorial planning of high-level abstract acts and emergent LLM-driven character simulation, mediated by world state and soft constraints (Wang et al., 2024).",
+  "token_estimate": 255
+}

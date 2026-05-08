@@ -1,0 +1,34 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2406.00888v2-1-introduction",
+  "url": "https://arxiv.org/html/2406.00888v2",
+  "keywords": [
+    "DITTO",
+    "Direct Preference Optimization",
+    "DPO",
+    "Few-shot alignment",
+    "Online imitation learning",
+    "Demonstration-grounded comparisons",
+    "Preference tuning",
+    "RLAIF",
+    "Supervised Finetuning",
+    "Mistral 7B",
+    "Sample efficiency"
+  ],
+  "use_cases": [
+    "Implement when you need to align an LLM to a specific individual style with fewer than 10 examples",
+    "Configure when supervised finetuning is impractical due to a lack of large-scale preference datasets",
+    "Use when generic LLM outputs fail to capture fine-grained user preferences or niche task requirements",
+    "Apply when transforming user interaction logs or direct edits into preference comparison data",
+    "Implement when requiring an online imitation learning approach to extrapolate beyond a demonstrator's performance"
+  ],
+  "tags": [
+    "LLM Alignment",
+    "Machine Learning Research",
+    "Optimization",
+    "Fine-tuning"
+  ],
+  "priority": 9,
+  "content": "Large language models (LLMs) are trained for general-purpose use. In practice, however, they are often applied to very specific tasks for very specific users. Consider a task as simple as writing an email: our preferred email depends on personal writing style, the specific email task, or the target audience (a friend, stranger, etc.). As a result, there can be a mismatch between the universal style (Santurkar et al., 2023; Chakrabarty et al., 2023) trained into an LLM via instruction and preference tuning, and the specific style needed for applications. LLM outputs feel unopinionated and generic because of this mismatch.\n\nWhile existing approaches such as supervised or preference finetuning are effective, they can require a large corpus of (un)acceptable behavior (on the order of ≈1⁢Kabsent1𝐾\\approx 1K≈ 1 italic_K samples (Zhou et al., 2024; Ouyang et al., 2022)), which in turn requires unreasonably high effort from an individual. RLAIF methods like Constitutional AI (Bai et al., 2022) automate pairwise preference collection with an LLM, but align models to general principles that may not capture fine-grained preferences. Although prompting is data efficient, finding an effective prompt can be tedious—end-users often rely on brittle prompting heuristics (Zhou et al., 2022; Zamfirescu-Pereira et al., 2023). How might we efficiently communicate preferences and align a language model to a new individual or task?\n\n![Refer to caption](https://arxiv.org/html/extracted/6371199/figures/pull_fig.png)\n\nFigure 1: DITTO iteratively aligns LLMs to demonstrated behavior. When a user supplies demonstrations (through edits to a model’s output, past preferred interaction history, or writing examples from scratch), DITTO treats these demonstrations as preferred to all model behavior, including earlier iterations of the trained model. Using demonstrations as feedback allows for cheap generation of online comparison data and enables few-shot alignment with just a handful of samples.\n\nThis paper introduces a framework for aligning LLMs to specific settings by providing a small number of demonstrations (Fig. 1). Rather than using prompts, principles, or pairwise preferences, we show that we can achieve strong alignment with individuals by leveraging a small number of user-provided examples of desired behavior. These examples can be drawn from a user’s existing interaction logs, or from direct edits made to LLM outputs. Our approach, DITTO, scaffolds a handful of these demonstrations (<10absent10<10< 10) into a substantial dataset of preference comparisons, by treating users’ demonstrations as preferred over model output from both the original LLM and models’ earlier training iterations. This augmented dataset of demonstration-grounded comparisons can then be used to update the language model using an alignment algorithm like DPO (Rafailov et al., 2023). We additionally show that DITTO can be interpreted as an online imitation learning algorithm, where data sampled from the LLM is used to distinguish expert behavior. This perspective allows us to prove that DITTO can extrapolate beyond the performance of the demonstrator (§ 3).\n\nSince DITTO focuses on user/task-specific alignment, we benchmark DITTO through (1) an evaluation on datasets of author-specific writing (§ 4.1) and (2) a user evaluation (§ 4.2) on real-world tasks defined by human participants. Our author-specific datasets include writing from blog posts to emails to articles. We find that win rates for DITTO outperform methods like SFT (avg. 11% pt. increase), self-play methods like SPIN (20.2% pt.), and few-shot prompting (33.4% pt.) on Mistral 7B. DITTO’s advantage holds even when few-shot prompting is done on a more powerful LLM (GPT-4, 18% pt.). Next, we conduct a user study (N=16𝑁16N=16italic_N = 16), asking individuals to edit generations from GPT-4 in an email-writing task. We use finalized demonstrations as inputs for DITTO. In these realistic user evaluations, DITTO’s advantage becomes clearer: DITTO continues to outperform baselines, including few-shot prompting (23.9% pt.), user-constructed prompts (27.9% pt.), and SFT (12% pt.). Finally, in a direct comparison between demonstrations and pairwise feedback, we show that using demonstrations with DITTO is an order of magnitude more sample-efficient for individuals than soliciting pairwise preferences.",
+  "token_estimate": 849
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "King Context"
+  short_description: "Search indexed local corpora."
+  default_prompt: "Use $king-context to search the local King Context corpora for the relevant answer."
+policy:
+  allow_implicit_invocation: true

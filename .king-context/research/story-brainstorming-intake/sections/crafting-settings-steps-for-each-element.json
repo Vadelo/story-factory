@@ -1,0 +1,31 @@
+{
+  "title": "Steps for each element",
+  "path": "crafting-settings-steps-for-each-element",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "SettingSmithy worksheet",
+    "element name",
+    "element type",
+    "compartment",
+    "purpose lines",
+    "antagonist",
+    "lair",
+    "test maps",
+    "crafting content"
+  ],
+  "use_cases": [
+    "Use when documenting narrative elements in a SettingSmithy worksheet",
+    "Configure when defining the specific purpose and role of a setting element",
+    "Implement when transitioning from rough map sketches to a finalized setting layout",
+    "Use when updating or refining character and location descriptions during the writing process"
+  ],
+  "tags": [
+    "world-building",
+    "creative-writing",
+    "documentation-guide",
+    "story-architecture"
+  ],
+  "priority": 8,
+  "content": "1. Write the element name over the word “NAME” in a new compartment.\n2. Write the element type (setting/plot/character/ antagonist/etc.) for the element in gray line.\n3. Write the purpose(s) for the element on the line(s) below. Each line should contain only one purpose though an element might only have one purpose. (Example purposes: “guards fortress”, “lair of antagonist”, “clue leading to antagonist’s lair” etc.).\n4. Add to the purpose lines or change names or update the compartments as needed while crafting your content.\n\n# Crafting Your Setting\n\nTo craft a setting you will need a writing utensil, a SettingSmithy worksheet, and clarity about your setting. You may also want some scrap paper to doodle some test maps before you draw the real one on the sheet.",
+  "token_estimate": 168
+}

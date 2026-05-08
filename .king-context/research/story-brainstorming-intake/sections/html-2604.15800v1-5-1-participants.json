@@ -1,0 +1,27 @@
+{
+  "title": "5.1 Participants",
+  "path": "html-2604.15800v1-5-1-participants",
+  "url": "https://arxiv.org/html/2604.15800v1",
+  "keywords": [
+    "Human–computer interaction",
+    "HCI",
+    "academic writing",
+    "interactive system behavior",
+    "participant demographics",
+    "reflective academic writing",
+    "qualitative study participants"
+  ],
+  "use_cases": [
+    "Configure when describing the methodology and participant recruitment process",
+    "Use when justifying the selection of subject matter experts for a user study",
+    "Implement when outlining the demographic and professional background of a study cohort"
+  ],
+  "tags": [
+    "methodology",
+    "user-study",
+    "research-design"
+  ],
+  "priority": 5,
+  "content": "A total of 12 writers with expertise in human–computer interaction (HCI) participated in the study (9 female, 3 male; ages 23–29). All had experience in English academic writing, and 7 had prior academic publication experience in the HCI field. Participants were intentionally recruited from the HCI domain, as they represent a population for whom reflective academic writing is a routine yet demanding practice and who possess the analytical skills required to critically interrogate interactive system behavior. Their familiarity with academic writing conventions and the design and evaluation of interactive systems enabled an informed as",
+  "token_estimate": 125
+}

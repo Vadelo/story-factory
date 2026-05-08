@@ -1,0 +1,29 @@
+{
+  "title": "1. Global Context",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-global-context",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Global Context",
+    "Source of Truth",
+    "The Bible",
+    "generation call",
+    "stylistic constraints",
+    "structured object",
+    "hard lock",
+    "reversion prevention",
+    "character consistency"
+  ],
+  "use_cases": [
+    "Use when maintaining strict character and location naming across multiple generation cycles",
+    "Configure when setting global rules and stylistic constraints for a creative project",
+    "Implement when preventing data drift in state-dependent narrative outputs"
+  ],
+  "tags": [
+    "configuration",
+    "data-integrity",
+    "generative-ai"
+  ],
+  "priority": 10,
+  "content": "This is the stuff that must never drift, no matter what page you are on. In a screenplay, this is your “Source of Truth”: character names, the rules of the world, and the specific stylistic constraints you’ve set.\n\n- The Fix: We call this The Bible. It is a structured object passed to every single generation call to put a hard lock on names, props, and locations.\n- The Problem: If “John” becomes “ZEUS” in Scene 1, he better not revert to “John” in Scene 50.",
+  "token_estimate": 114
+}

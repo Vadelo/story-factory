@@ -1,0 +1,33 @@
+{
+  "title": "3 PROSE",
+  "path": "html-2505.23815v1-3-prose",
+  "url": "https://arxiv.org/html/2505.23815v1",
+  "keywords": [
+    "PROSE",
+    "preference description",
+    "iterative refinement",
+    "consistency verification",
+    "interaction memory",
+    "p_desc",
+    "w_u",
+    "x_task",
+    "preference alignment",
+    "demonstration-based learning"
+  ],
+  "use_cases": [
+    "Use when aligning an AI writing assistant with specific user stylistic preferences.",
+    "Implement when mimicking a user's writing style based on prior task demonstrations.",
+    "Configure when iterative refinement is needed to bridge the gap between LLM output and user style.",
+    "Use when retrieving and aggregating task-relevant demonstrations from interaction memory.",
+    "Implement when pruning inconsistent preference components through verification steps."
+  ],
+  "tags": [
+    "personalization",
+    "machine-learning",
+    "llm-conditioning",
+    "iterative-refinement"
+  ],
+  "priority": 9,
+  "content": "PROSE aligns an AI writing assistant with a user’s preferences 𝐩¯usubscript¯𝐩𝑢\\mathbf{\\bar{p}}_{u}over¯ start_ARG bold_p end_ARG start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT by learning a preference description p^descsubscript^𝑝desc\\hat{p}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT that allows the assistant (an LLM) to mimic the user’s demonstrations 𝐰usubscript𝐰𝑢\\mathbf{w}_{u}bold_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT, which are determined by 𝐩¯usubscript¯𝐩𝑢\\mathbf{\\bar{p}}_{u}over¯ start_ARG bold_p end_ARG start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT . For example, learning that articles should be summarized in the style of an old timey radio broadcast.\n\nEach time the user gives the assistant a new task or provides a new task-description and demonstration pair (xtask,wu)subscript𝑥tasksubscript𝑤𝑢(x_{\\text{task}},w_{u})( italic_x start_POSTSUBSCRIPT task end_POSTSUBSCRIPT , italic_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT ), following (Gao et al., 2024) PROSE retrieves up to three previously observed demonstrations relevant to the given task along with the preferences inferred from those demonstrations from its interaction memory. The retrieved preferences are then aggregated to form the preference description p^descsubscript^𝑝desc\\hat{p}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT using the prompt in Figure 8(Section F.1), which is used to condition the assistant during generation: wa=generate⁢(llm,xtask,p^desc)subscript𝑤𝑎generatellmsubscript𝑥tasksubscript^𝑝descw_{a}=\\texttt{generate}(\\texttt{llm},x_{\\text{task}},\\hat{p}_{\\text{desc}})italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT = generate ( llm , italic_x start_POSTSUBSCRIPT task end_POSTSUBSCRIPT , over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT ). If no demonstrations have been seen, the AI assistant is not conditioned on any preferences, wa=generate⁢(llm,xtask)subscript𝑤𝑎generatellmsubscript𝑥taskw_{a}=\\texttt{generate}(\\texttt{llm},x_{\\text{task}})italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT = generate ( llm , italic_x start_POSTSUBSCRIPT task end_POSTSUBSCRIPT ).\n\nIf the AI assistant’s generation, wasubscript𝑤𝑎w_{a}italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT does not match the user’s demonstration, wusubscript𝑤𝑢w_{u}italic_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT, the inferred preference description p^desc0superscriptsubscript^𝑝desc0\\hat{p}_{\\text{desc}}^{0}over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT start_POSTSUPERSCRIPT 0 end_POSTSUPERSCRIPT is updated via iterative refinement (Section 3.1) steps and a preference consistency verification (Section 3.2) step – PROSE’s contributions. Iterative refinement alternates between updating the inferred preference description p^descs+1subscriptsuperscript^𝑝𝑠1desc\\hat{p}^{s+1}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUPERSCRIPT italic_s + 1 end_POSTSUPERSCRIPT start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT by comparing the agent’s generation, wasubscript𝑤𝑎w_{a}italic_w start_POSTSUBSCRIPT italic_a end_POSTSUBSCRIPT, to the user’s demonstration, wusubscript𝑤𝑢w_{u}italic_w start_POSTSUBSCRIPT italic_u end_POSTSUBSCRIPT, and rerunning generation conditioned on the updated p^descs+1subscriptsuperscript^𝑝𝑠1desc\\hat{p}^{s+1}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUPERSCRIPT italic_s + 1 end_POSTSUPERSCRIPT start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT until either the maximum number of iterative refinement steps (S𝑆Sitalic_S) is reached or no updates to the inferred preference description are made. Consistency verification breaks the final p^descsubscript^𝑝desc\\hat{p}_{\\text{desc}}over^ start_ARG italic_p end_ARG start_POSTSUBSCRIPT desc end_POSTSUBSCRIPT into preference components and prunes components that are not supported by previously seen demonstrations.\n\nA visualization of PROSE (top) and the prompt summaries (bottom) for each of its preference inference steps are provided in Figure 1. The algorithm is provided in Appendix A, and the complete prompts are in Figure 8(Section F.1)111code coming soon!.",
+  "token_estimate": 550
+}

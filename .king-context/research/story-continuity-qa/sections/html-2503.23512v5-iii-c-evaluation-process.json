@@ -1,0 +1,32 @@
+{
+  "title": "III-C Evaluation Process",
+  "path": "html-2503.23512v5-iii-c-evaluation-process",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "GPT-4o",
+    "Retrieval-Augmented Generation",
+    "FAISS",
+    "cosine similarity",
+    "narrative coherence",
+    "narrative evaluation",
+    "GPT prompts",
+    "continuity error detection",
+    "semantic alignment",
+    "story evaluation stability"
+  ],
+  "use_cases": [
+    "Use when evaluating narrative consistency and character behavior across multi-episode datasets",
+    "Implement when leveraging RAG for context-enriched LLM prompt construction",
+    "Configure when using FAISS and cosine similarity for semantic episode retrieval",
+    "Use when benchmarking story evaluation stability across different GPT models"
+  ],
+  "tags": [
+    "benchmarking",
+    "llm-evaluation",
+    "data-retrieval",
+    "narrative-analysis"
+  ],
+  "priority": 8,
+  "content": "For each episode in the dataset, the evaluation process involved several key steps. First, we conducted an initial evaluation by directly uploading the files to ChatGPT, testing if GPT could assess the story correctly without any prompts. We used GPT-4o-mini, GPT-4o, and GPT-4 for narrative evaluation.\n\nNext, we configured the LLM for a more detailed evaluation, using our preprocessed files to ensure accurate tracking of key items across episodes. We also employed the Retrieval-Augmented Generation (RAG) framework to retrieve episodes similar to the one being evaluated. By using FAISS to calculate cosine similarity scores between episodes, the system was able to retrieve episodes that were semantically and emotionally aligned with the current one, providing additional context. This enriched context was then used to construct GPT prompts, enabling a more thorough evaluation of the episode.\n\nWe evaluated the framework based on several key metrics. Narrative coherence was assessed by examining how well the framework maintains the logic of the story. Specifically, we tracked the consistency of character behavior and plot development across episodes to ensure that continuity errors (especially those involving critical content) were detected. Finally, we scored the story evaluations obtained by the two methods to measure the stability of the framework.",
+  "token_estimate": 268
+}

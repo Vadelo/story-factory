@@ -1,0 +1,36 @@
+{
+  "title": "Example #1: Forbidden Realms",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-1-forbidden-realms",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "cantrips",
+    "level 1 spells",
+    "spell slots",
+    "magic schools",
+    "elemental planes",
+    "personal resource cost",
+    "daily spell limits",
+    "warlock listed spells",
+    "wizard schools",
+    "resurrection spell",
+    "cloudkill",
+    "delayed blast fireball"
+  ],
+  "use_cases": [
+    "Use when designing a campaign setting where magic is a ubiquitous, everyday resource.",
+    "Configure when adjusting daily spell limits for each spellcasting class to maintain balance.",
+    "Implement when incorporating magical laws and regulations into the game’s rule set.",
+    "Apply when balancing spell costs so that powerful spells like resurrection do not break the narrative economy.",
+    "Use when defining social and legal repercussions for magical usage in different regions."
+  ],
+  "tags": [
+    "game-design",
+    "magic-system",
+    "rules",
+    "balance",
+    "fantasy"
+  ],
+  "priority": 7,
+  "content": "Extremely high ubiquity, low to gargantuan impact, moderate cost\n\nD&D. It’s a great version of an aggressively magic-rich environment.\n\nA world where portals to the Elemental Planes open on street corners, scrolls hang around in dingy boxes in dungeons, and even the thieves can cast a good spell or two. Magic schools are correspondence courses, sometimes people wake up in the morning with new magical powers, and Tiefling Sorcerers order visit from the best restaurants. Magic isn’t just ubiquitous. It’s a required survival skill to get down to the corner store. The state loves magic. The Church is into it.\n\nEarlier versions of the game had magic slightly less ubiquitous. Now all the classes have some sort of magic. We can assume magic starts in kindergarten and works up from there.\n\nAs for impact — it depends! A vast majority of introductory available spells are localized effects or single point to point spells. Then we get into the 5th level of spells and there’s cloudkill and delayed blast fireballs and it goes downhill from there. On average most spell usages are things like identify and barkskin and healing spells. At the high end of the bell curve, it’s blasty time.\n\nAnd on to cost. Honestly, costs for most spells simply aren’t that much out of the average adventurer budget. A few extremely evil plot spells cost a bit of humanity here and there. Resurrection sure isn’t cheap. For the most part, though, while casting isn’t free, it doesn’t break the bank either.\n\nCost becomes more interesting when we consider personal resource cost. A mage can only cast X spells per day. A sorcerer and a warlock have a limited list but easier access. The other classes have an even more limited range than that. Magic is more of a personal resource management game than a worldly one. There’s choice, but there’s so much choice.\n\n| Usability | Cantrips and Level 1 spells are gateway spells. |\n| --- | --- |\n| Literacy | Scrolls are everywhere: in stores, dungeons, storerooms, libraries. |\n| Education | Wizard schools are ubiquitous enough to kick out wizards who get eaten in dungeons. |\n| Acceptance | No overarching social repercussions while used in an acceptable manner. |\n| Social | Society generally doesn’t like magic used for evil. Beyond that, cantrips for everyone. |\n| Legal | The law assumes everyone has magic. Laws more tuned to the effects (murder, theft, etc.) then magic use. |\n| Religious | Entire Gods and religions are dedicated to magic. |\n| Effect | Tiny to enormous. |\n| Magnitude | Tiny to enormous. |\n| Resources | Surprising cheap! |\n| Humanity | As long as you don’t become a lich, magic is light on the humanity. |",
+  "token_estimate": 617
+}

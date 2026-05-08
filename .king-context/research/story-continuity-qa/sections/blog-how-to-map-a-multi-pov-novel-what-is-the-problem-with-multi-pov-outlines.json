@@ -1,0 +1,29 @@
+{
+  "title": "What is the problem with multi-POV outlines?",
+  "path": "blog-how-to-map-a-multi-pov-novel-what-is-the-problem-with-multi-pov-outlines",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "multi-POV outlines",
+    "linear outlining",
+    "intercut structure",
+    "POV character arcs",
+    "narrative tension",
+    "three-dimensional structure",
+    "storyline threads",
+    "chronological planning",
+    "novel planning"
+  ],
+  "use_cases": [
+    "Use when planning complex narratives with multiple perspectives",
+    "Implement when checking for narrative pacing across intercut storylines",
+    "Use when evaluating the limitations of standard linear outlining tools"
+  ],
+  "tags": [
+    "narrative-design",
+    "planning",
+    "structural-analysis"
+  ],
+  "priority": 8,
+  "content": "Open a standard outlining tool or a Word document and try to plan a novel with four POV characters. You will immediately face a choice that has no good answer: whose story goes on the list first?\n\nHowever you arrange it, you end up with one character's arc as the spine and the others as interruptions. You might write Arya's chapters from start to finish, then Tyrion's, then Jon's. But that is not how the reader experiences the book. The reader lives in the intercut, moving from one character to the next, feeling the tension between storylines, watching the threads pull tighter until they snap together.\n\nA linear outline cannot represent that intercut. It forces you to flatten a three-dimensional structure into one dimension. The result is that crucial multi-POV problems become invisible.",
+  "token_estimate": 176
+}

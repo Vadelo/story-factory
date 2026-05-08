@@ -1,0 +1,32 @@
+{
+  "title": "Overall Structure of the UNM",
+  "path": "overall-structure-of-the-unm",
+  "url": "https://narrativecontextprotocol.com/",
+  "keywords": [
+    "UNM",
+    "story",
+    "narratives",
+    "subtext",
+    "storytelling",
+    "logline",
+    "perspectives",
+    "storybeats",
+    "dynamics",
+    "genre",
+    "moments"
+  ],
+  "use_cases": [
+    "Configure when defining the global metadata for a psychological drama project",
+    "Implement when nesting narrative structures within a high-level story object",
+    "Use when setting up the initial JSON schema for a story management system",
+    "Configure when tracking subtextual elements such as players and storypoints"
+  ],
+  "tags": [
+    "schema-definition",
+    "data-structure",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "```json\n\"story\": {\n  \"id\": \"story_123e4567\",\n  \"title\": \"The Journey Within\",\n  \"narratives\": [\n    {\n        \"id\": \"narrative_AbnHJ147\",\n        \"title\": \"Central Form\",\n        \"subtext\": {\n            \"perspectives\": [],\n            \"players\": [],\n            \"storypoints\": [],\n            \"storybeats\": [],\n            \"dynamics\": []\n        },\n        \"storytelling\": {\n            \"overviews\": [],\n            \"moments\": []\n        }\n    }\n  ]\n}\n\n```\n\nThe highest-level object representing the entire story, containing its metadata and core narrative structures.\n\n```json\n{\n  \"story\": {\n    \"id\": \"story_123e4567\",\n    \"title\": \"The Journey Within\",\n    \"genre\": \"Psychological Drama\",\n    \"logline\": \"A psychologist struggling with his past helps a patient uncover a hidden trauma, only to confront his own.\",\n    \"narratives\": [],\n    \"created_at\": \"2025-02-05T14:30:00Z\"\n  }\n}\n\n```",
+  "token_estimate": 125
+}

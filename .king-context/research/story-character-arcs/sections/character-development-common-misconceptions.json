@@ -1,0 +1,33 @@
+{
+  "title": "Common misconceptions",
+  "path": "character-development-common-misconceptions",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "backstory",
+    "characterization",
+    "flat arc",
+    "round characters",
+    "protagonist blankness",
+    "narrative obligation",
+    "dramatization",
+    "E.M. Forster",
+    "functional fitness",
+    "character development"
+  ],
+  "use_cases": [
+    "Use when distinguishing between a character's history and their active dramatization in a scene",
+    "Implement when designing a protagonist that needs to serve as a vessel for reader identification",
+    "Configure when deciding between a dynamic change-based arc and a consistent flat arc structure",
+    "Use when deploying memorable secondary characters that do not require complex psychological development",
+    "Configure when balancing the narrative workload between a plot-driving protagonist and vivid supporting cast"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-theory",
+    "creative-writing",
+    "literary-analysis"
+  ],
+  "priority": 8,
+  "content": "\"A good backstory is the same as good characterization.\" Backstory explains behavior; it doesn't replace dramatization. A character's traumatic childhood doesn't become resonant just because it exists in the outline. It has to do something — change how they speak, what they avoid, what they misread. Backstory is infrastructure, not character.\n\n\"Character development means the character must change.\" A flat arc is a legitimate and often powerful structure. Some of the most enduring protagonists in literature — Sherlock Holmes, Philip Marlowe, James Bond — don't change in any meaningful psychological sense. The arc is a tool, not a requirement.\n\n\"Round characters are always better than flat ones.\" This conflates literary value with functional fitness. In flash fiction and genre fiction, a perfectly deployed flat character is more useful than an underdeveloped round one. Forster himself described flat characters as having distinct advantages: they're recognizable, memorable, and easy for readers to hold in mind.\n\n\"The protagonist must be the most interesting character.\" In practice, supporting characters are often more vivid because they carry less narrative obligation. The protagonist has to drive the plot forward; the supporting cast gets to be weird. Numerous writers — including the novelist Zadie Smith in various craft lectures — have noted that protagonists require a certain blankness to function as vessels for reader identification.\n\n---",
+  "token_estimate": 291
+}

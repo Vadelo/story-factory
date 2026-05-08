@@ -1,0 +1,31 @@
+{
+  "title": "The Hobbit",
+  "path": "analyzing-story-structure-global-fiction-the-hobbit",
+  "url": "https://www.irismarshedits.com/analyzing-story-structure-global-fiction",
+  "keywords": [
+    "Bilbo",
+    "Thorin",
+    "Gandalf",
+    "Elvenking",
+    "mirror resolution",
+    "dwarves",
+    "trolls",
+    "treasure",
+    "wealth",
+    "hobbit"
+  ],
+  "use_cases": [
+    "Use when illustrating Bilbo’s transformation from selfish hobbit to generous adventurer",
+    "Use when discussing Tolkien’s moral theme about the value of sharing over hoarding gold",
+    "Use to explain the concept of mirrored resolution in narrative structure",
+    "Use as an example of character arc development in fantasy literature"
+  ],
+  "tags": [
+    "literature",
+    "fantasy",
+    "character-development"
+  ],
+  "priority": 4,
+  "content": "So, Bilbo failed to prevent the battle. However, he’s knocked out during the fight (as the fight itself wasn’t really his climax moment).\n\nWhen Bilbo comes to, Thorin lies dying. He forgives Bilbo and learns the theme (\"if more people valued food and cheer and sun above hoarded gold, it would be a merrier world.\"), but too late.\n\nGandalf and Bilbo go home, and Tolkien puts in a lot of reminders of the theme, with Bilbo giving a necklace to the Elvenking, saying he doesn't need the treasure they find from the trolls, and even using his earned fortune on presents for others.\n\nAnd Gandalf very explicitly states that Bilbo is no longer the same hobbit that he used to be.\n\nThen we come to the mirror element of the resolution: Gandalf visits Bilbo with Balin, one of the dwarves. At the start of the novel, Bilbo was trying to get Gandalf to leave (but trying to stay polite), and the same when he was visited by the dwarves. He no longer does that here; it's not even a question for discussion.\n\nBilbo now embraces new things, experiences, and people instead of only the comforts o",
+  "token_estimate": 260
+}

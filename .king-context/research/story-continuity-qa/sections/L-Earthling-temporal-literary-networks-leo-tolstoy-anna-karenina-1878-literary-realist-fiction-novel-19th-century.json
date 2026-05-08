@@ -1,0 +1,32 @@
+{
+  "title": "Leo Tolstoy: *Anna Karenina* (1878) — Literary/Realist Fiction · Novel · 19th Century",
+  "path": "L-Earthling-temporal-literary-networks-leo-tolstoy-anna-karenina-1878-literary-realist-fiction-novel-19th-century",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "structural signature",
+    "f+",
+    "f−",
+    "balance trajectory",
+    "alliance ratio",
+    "polarity heatmap",
+    "Freytag climax window",
+    "σ_sw",
+    "cumulative edges",
+    "network evolution"
+  ],
+  "use_cases": [
+    "Use when analyzing character relationship dynamics through a realist fiction lens",
+    "Implement when correlating narrative progression with monotonic declines in alliance ratios",
+    "Configure when visualizing social network fluctuations around the midpoint moral crisis",
+    "Use when comparing network density and sign distribution in 19th-century literature"
+  ],
+  "tags": [
+    "literary-analysis",
+    "network-science",
+    "data-visualization",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "![Anna Karenina profile](figures/G_per_book/Leo-Tolstoy_Anna-Karenina.png)\n\n*Anna Karenina* exemplifies the Literary/Realist Fiction structural signature. With N=21 characters and E=51 cumulative edges (σ_sw=2.56, δ=0.243), the network is moderately sized and predominantly positive (f+ = 0.47, f− = 0.24). The balance trajectory fluctuates around B≈0.77 with a mild trough near τ≈0.55 — within the Freytag climax window — consistent with the novel's moral crisis at its midpoint. The alliance ratio R+ declines gradually and monotonically across the narrative, a structural correlate of the progressive social deterioration that defines the plot. The polarity heatmap shows a mixed-signal social world in which individual relationship trajectories diverge: some pairs sustain stable alliances; others show late-narrative conflict.\n\nThe network evolution GIF below illustrates how the cast assembles and relationship signs shift across chapters:\n\n![Network evolution](figures/Leo-Tolstoy_Anna-Karenina_network.gif)\n\n---",
+  "token_estimate": 168
+}

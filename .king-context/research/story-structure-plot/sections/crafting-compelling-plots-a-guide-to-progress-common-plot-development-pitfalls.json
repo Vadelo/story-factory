@@ -1,0 +1,31 @@
+{
+  "title": "Common Plot Development Pitfalls",
+  "path": "crafting-compelling-plots-a-guide-to-progress-common-plot-development-pitfalls",
+  "url": "https://writersdigestonline.com/crafting-compelling-plots-a-guide-to-progress/",
+  "keywords": [
+    "Second Act",
+    "Stakes",
+    "Conflict",
+    "Deus Ex Machina",
+    "Setup",
+    "Causality",
+    "Predictability",
+    "Plot Beats",
+    "Story Twists"
+  ],
+  "use_cases": [
+    "Use when tightening narrative momentum by ensuring every scene escalates stakes in the second act.",
+    "Implement when eliminating deus ex machina by investing in character-led resolutions.",
+    "Configure when reinforcing causality to avoid empty 'and then' plotting.",
+    "Apply when crafting plot twists that were inevitable yet surprising to the reader.",
+    "Use when teaching writers to maintain escalating conflict and real consequences throughout the story."
+  ],
+  "tags": [
+    "storytelling",
+    "plot development",
+    "writing techniques"
+  ],
+  "priority": 8,
+  "content": "The Sagging Middle: Many stories lose momentum in the second act. The fix isn’t adding scenes — it’s ensuring each existing scene has real conflict and consequences, and that stakes continue escalating rather than staying flat.\n\nDeus Ex Machina: When problems get solved by convenient coincidence rather than character action, readers feel cheated, even if they can’t immediately articulate why. Earn your resolutions through setup and character development.\n\nLack of Causality: Events should flow from previous events. “And then” plotting (this happened, and then this happened) feels episodic and hollow. Aim for “therefore” and “but” plotting: this happened, therefore this happened, but then this complicated things.\n\nPredictability: If readers see every plot beat coming, they disengage. The best plot twists are ones readers didn’t predict but, in retrospect, make perfect sense — the story was telling them all along, they just weren’t reading it yet.",
+  "token_estimate": 192
+}

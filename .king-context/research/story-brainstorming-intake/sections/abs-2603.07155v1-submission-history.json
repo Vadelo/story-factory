@@ -1,0 +1,30 @@
+{
+  "title": "Submission history",
+  "path": "abs-2603.07155v1-submission-history",
+  "url": "https://arxiv.org/abs/2603.07155v1",
+  "keywords": [
+    "Submission history",
+    "BibTeX citation",
+    "cs.HC",
+    "Creative Commons License",
+    "Full-text links",
+    "UTC timestamp",
+    "Semantic Scholar",
+    "Google Scholar",
+    "arXiv identifiers"
+  ],
+  "use_cases": [
+    "Use when citing a research paper using BibTeX notation",
+    "Use when tracking historical versions of a manuscript submission",
+    "Use when navigating between sequentially indexed research papers",
+    "Use when verifying the publication date and file size of a document"
+  ],
+  "tags": [
+    "metadata",
+    "citation",
+    "navigation"
+  ],
+  "priority": 6,
+  "content": "From: Yuxi Ma [view email] [v1] Sat, 7 Mar 2026 11:34:03 UTC (5,017 KB)\n\nFull-text links:\n\n![license icon](https://arxiv.org/icons/licenses/by-4.0.png)\n\ncs.HC\n\n< prev| next >\n\nChange to browse by:\n\n- Google Scholar\n- Semantic Scholar\n\nexport BibTeX citation",
+  "token_estimate": 47
+}

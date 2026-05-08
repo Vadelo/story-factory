@@ -1,0 +1,32 @@
+{
+  "title": "Alternation Patterns",
+  "path": "blog-how-to-map-a-multi-pov-novel-alternation-patterns",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "Alternation Patterns",
+    "POV chapters",
+    "ABCDABCD",
+    "strict alternation",
+    "thematic alternation",
+    "tension-matching alternation",
+    "chapter headings",
+    "storylines",
+    "narrative rhythm",
+    "character-driven shifts"
+  ],
+  "use_cases": [
+    "Use when building narrative predictability and structural stability through strict rotation",
+    "Implement when grouping multiple character viewpoints by specific plot events or functional consequences",
+    "Configure when managing reader engagement by cutting between high-energy and low-energy subplots",
+    "Use when designing chapter headers to signal shifts in perspective or thematic focus"
+  ],
+  "tags": [
+    "narrative-structure",
+    "creative-writing",
+    "pacing",
+    "content-strategy"
+  ],
+  "priority": 8,
+  "content": "How you sequence POV chapters creates a rhythm that readers feel even if they do not consciously track it. Some patterns to understand:\n\nA strict alternation, ABCDABCD, creates predictability. Readers know who is coming next. This can feel reassuring or mechanical depending on execution. George R.R. Martin uses named chapter headings precisely so readers can prepare for each shift, but even he does not strictly alternate.\n\nA thematic alternation groups chapters by function. All the \"consequence of the battle\" scenes, regardless of POV, come together. Then all the \"preparation for the next crisis\" scenes. This creates coherence around events rather than around characters.\n\nA tension-matching alternation cuts between storylines based on their current energy levels. When Character A's scene ends at a high, you cut to Character B at a low. When Character B rises, you cut to Character C. This is the technique that makes a reader feel unable to put the book down.",
+  "token_estimate": 206
+}

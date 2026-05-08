@@ -1,0 +1,33 @@
+{
+  "title": "Key Features",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-key-features",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "Claim Decomposition",
+    "Long-Context Retrieval",
+    "Constraint Reasoning",
+    "Deterministic Classification",
+    "Pathway Integration",
+    "hierarchical chunking",
+    "temporal logic",
+    "atomic claims",
+    "timeline-aware indexing",
+    "causal inconsistencies"
+  ],
+  "use_cases": [
+    "Use when breaking complex narratives into atomic beliefs, events, and relationships",
+    "Implement when processing documents exceeding 100,000 words with hierarchical indexing",
+    "Configure when requiring rule-based, reproducible classification outputs",
+    "Use when detecting temporal contradictions or causal inconsistencies in text",
+    "Implement when requiring human-readable rationales for every automated prediction"
+  ],
+  "tags": [
+    "information-extraction",
+    "search-and-retrieval",
+    "logic-reasoning",
+    "data-processing"
+  ],
+  "priority": 10,
+  "content": "| Feature | Description |\n| --- | --- |\n| **Claim Decomposition** | Breaks backstories into atomic claims with categories (beliefs, events, relationships) and importance levels (core, significant, surface) |\n| **Long-Context Retrieval** | Handles 100k+ word novels through hierarchical chunking with overlap and timeline-aware indexing |\n| **Constraint Reasoning** | Detects contradictions, support, and causal inconsistencies using pattern matching and temporal logic |\n| **Deterministic Classification** | Rule-based decisions ensure reproducibility—same input always produces same output |\n| **Pathway Integration** | Uses Pathway for document ingestion, indexing, and retrieval orchestration |\n| **Explainable Outputs** | Every prediction includes a human-readable rationale derived from decision logic |\n\n---",
+  "token_estimate": 144
+}

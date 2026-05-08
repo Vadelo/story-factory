@@ -1,0 +1,31 @@
+{
+  "title": "3. Information Framing",
+  "path": "mystery-reader-misinterpretation-guide-3-information-framing",
+  "url": "https://www.jeanneriedelbooks.com/mystery-reader-misinterpretation-guide/",
+  "keywords": [
+    "Information Framing",
+    "Hiding Clues in Plain Sight",
+    "Power of Assumption",
+    "Selective Point of View",
+    "Narrative Misinterpretation",
+    "Misdirection",
+    "Logical Leap",
+    "Character Perspective",
+    "Contextual Masking"
+  ],
+  "use_cases": [
+    "Implement when hiding critical information inside action-heavy sequences to prevent immediate detection",
+    "Configure when allowing readers to form incorrect logical conclusions based on juxtaposed facts",
+    "Use when restricting reader knowledge to a specific character's limited perspective",
+    "Implement when building long-term narrative payoffs through subtle foreshadowing"
+  ],
+  "tags": [
+    "narrative-techniques",
+    "mystery-writing",
+    "clue-integration",
+    "storytelling-theory"
+  ],
+  "priority": 8,
+  "content": "This is a subtle but powerful trick. It’s how and when a clue is presented.\n\n- Hiding Clues in Plain Sight: A vital piece of information is given during a tense, action-packed scene. Readers are so focused on the drama that they gloss over the important detail. Later, they realize they saw it but didn’t observe it.\n- The Power of Assumption: The writer lets readers make a logical leap. For example: “He heard a gunshot and ran into the room. Mr. Smith was dead on the floor, a gun in his hand.” Many readers will assume suicide. But the text never says that. It just says the gun was in his hand. Who put it there?\n- Selective Point of View: The story only shows us what one character sees and knows. If they don’t have all the information, neither do we. This naturally leads to misinterpretation.",
+  "token_estimate": 196
+}

@@ -1,0 +1,32 @@
+{
+  "title": "2 ConStory-Bench",
+  "path": "html-2603.05890v1-2-constory-bench",
+  "url": "https://arxiv.org/html/2603.05890v1",
+  "keywords": [
+    "ConStory-Bench",
+    "LLM-as-judge",
+    "consistency errors",
+    "narrative generation",
+    "error taxonomy",
+    "Timeline & Plot Logic",
+    "World-building & Setting",
+    "automated evaluation pipeline",
+    "Characterization",
+    "Factual & Detail Consistency"
+  ],
+  "use_cases": [
+    "Use when evaluating the long-form narrative consistency of large language models",
+    "Implement when categorizing narrative errors into fine-grained taxonomies",
+    "Configure when setting up an automated LLM-as-judge pipeline for story validation",
+    "Use when benchmarking a model's ability to maintain world-building and characterization integrity"
+  ],
+  "tags": [
+    "benchmarking",
+    "natural-language-generation",
+    "quality-assurance",
+    "automated-evaluation"
+  ],
+  "priority": 9,
+  "content": "We present ConStory-Bench, a benchmark for evaluating consistency in long-form narrative generation. The benchmark uses an LLM-as-judge pipeline to detect consistency errors and classify them into fine-grained categories. Section 2.1 describes the data collection and prompt construction procedure, Section 2.2 introduces the error taxonomy, and Section 2.3 presents the automated evaluation pipeline.\n\nFigure 2: Representative consistency error examples sampled from real LLM-generated stories on ConStory-Bench. Highlighted segments show contradictions in Timeline & Plot Logic, Characterization, World-building & Setting, Factual & Detail Consistency, and Narrative & Style.\n\n![Refer to caption](https://arxiv.org/html/2603.05890v1/figs/Consistency_Error_Examples.png)",
+  "token_estimate": 118
+}

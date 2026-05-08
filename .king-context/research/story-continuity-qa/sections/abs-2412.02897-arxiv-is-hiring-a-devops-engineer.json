@@ -1,0 +1,33 @@
+{
+  "title": "arXiv Is Hiring a DevOps Engineer",
+  "path": "abs-2412.02897-arxiv-is-hiring-a-devops-engineer",
+  "url": "https://arxiv.org/abs/2412.02897",
+  "keywords": [
+    "MLD-EA",
+    "narrative coherence",
+    "Large Language Models",
+    "cs.CL",
+    "logical flow",
+    "emotional consistency",
+    "arXiv:2412.02897",
+    "story generation",
+    "logical logic checker",
+    "narrative gap identification"
+  ],
+  "use_cases": [
+    "Implement when checking logical coherence in AI-generated stories",
+    "Use when identifying missing narrative gaps in existing text",
+    "Configure when integrating emotion-based logic into narrative understanding tasks",
+    "Use when developing sophisticated story-generation systems",
+    "Implement when benchmarking LLMs on narrative consistency and emotional flow"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "artificial-intelligence",
+    "computation-and-language",
+    "research-paper"
+  ],
+  "priority": 8,
+  "content": "Work on one of the world's most important websites and make an impact on open science.\n[**View Jobs**](https://info.arxiv.org/hiring/index.html)\n[Skip to main content](#content)\n[![Cornell University](https://arxiv.org/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg)](https://www.cornell.edu/)\narXiv Is Hiring a DevOps Engineer\n[View Jobs](https://info.arxiv.org/hiring/index.html)\nWe gratefully acknowledge support from the Simons Foundation,[member institutions](https://info.arxiv.org/about/ourmembers.html), and all contributors.[Donate](https://info.arxiv.org/about/donate.html)\n[](https://arxiv.org/IgnoreMe)\n[![arxiv logo](https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg)](https://arxiv.org/)>[cs](https://arxiv.org/list/cs/recent)>arXiv:2412.02897\n[Help](https://info.arxiv.org/help)|[Advanced Search](https://arxiv.org/search/advanced)\nAll fieldsTitleAuthorAbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDarXiv author IDHelp pagesFull text\nSearch\n[![arXiv logo](https://arxiv.org/static/browse/0.3.4/images/arxiv-logomark-small-white.svg)](https://arxiv.org/)\n[![Cornell University Logo](https://arxiv.org/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg)](https://www.cornell.edu/)\nopen search\nGO\nopen navigation menu\n# Computer Science \\> Computation and Language\n**arXiv:2412.02897**(cs)\n[Submitted on 3 Dec 2024]\n# Title:MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions\nAuthors:[Jinming Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+J),[Yunfei Long](https://arxiv.org/search/cs?searchtype=author&query=Long,+Y)\nView a PDF of the paper titled MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions, by Jinming Zhang and 1 other authors\n[View PDF](https://arxiv.org/pdf/2412.02897)[HTML (experimental)](https://arxiv.org/html/2412.02897v1)> > Abstract:\n> Narrative understanding and story generation are critical challenges in natural language processing (NLP), with much of the existing research focused on summarization and question-answering tasks. While previous studies have explored predicting plot endings and generating extended narratives, they often neglect the logical coherence within stories, leaving a significant gap in the field. To address this, we introduce the Missing Logic Detector by Emotion and Action (MLD-EA) model, which leverages large language models (LLMs) to identify narrative gaps and generate coherent sentences that integrate seamlessly with the story's emotional and logical flow. The experimental results demonstrate that the MLD-EA model enhances narrative understanding and story generation, highlighting LLMs' potential as effective logic checkers in story writing with logical coherence and emotional consistency. This work fills a gap in NLP research and advances border goals of creating more sophisticated and reliable story-generation systems. Subjects:|Computation and Language (cs.CL); Artificial Intelligence (cs.AI)|\nCite as:|[arXiv:2412.02897](https://arxiv.org/abs/2412.02897)[cs.CL]|\n|(or[arXiv:2412.02897v1](https://arxiv.org/abs/2412.02897v1)[cs.CL]for this version)|\n|[https://doi.org/10.48550/arXiv.2412.02897](https://doi.org/10.48550/arXiv.2412.02897)\nFocus to learn more\narXiv-issued DOI via DataCite\n|\n\nFrom: Jinming Zhang [[view email](https://arxiv.org/show-email/0423f379/2412.02897)]\n**[v1]**Tue, 3 Dec 2024 23:01:21 UTC (1,331 KB)\nFull-text links:## Access Paper:\nView a PDF of the paper titled MLD-EA: Check and Complete Narrative Coherence by Introducing Emotions and Actions, by Jinming Zhang and 1 other authors\n* [View PDF](https://arxiv.org/pdf/2412.02897)\n* [HTML (experimental)](https://arxiv.org/html/2412.02897v1)\n* [TeX Source](https://arxiv.org/src/2412.02897)\n* [Other Formats](https://arxiv.org/format/2412.02897)\n[view license](http://arxiv.org/licenses/nonexclusive-distrib/1.0/)\nCurrent browse context:\ncs.CL\n[<<prev](https://arxiv.org/prevnext?id=2412.02897&function=prev&context=cs.CL) | [next>>](https://arxiv.org/prevnext?id=2412.02897&function=next&context=cs.CL)\n[new](https://arxiv.org/list/cs.CL/new)|[recent](https://arxiv.org/list/cs.CL/recent)|[2024-12](https://arxiv.org/list/cs.CL/2024-12)\nChange to browse by:\n[cs](https://arxiv.org/abs/2412.02897?context=cs)\n[cs.AI](https://arxiv.org/abs/2412.02897?context=cs.AI)\n\n* [NASA ADS](https://ui.adsabs.harvard.edu/abs/arXiv:2412.02897)\n* [Google Scholar](https://scholar.google.com/scholar_lookup?arxiv_id=2412.02897)\n* [Semantic Scholar](https://api.semanticscholar.org/arXiv:2412.02897)\n[a](https://arxiv.org/static/browse/0.3.4/css/cite.css)export BibTeX citationLoading...\n\n×\nloading...\nData provided by:",
+  "token_estimate": 506
+}

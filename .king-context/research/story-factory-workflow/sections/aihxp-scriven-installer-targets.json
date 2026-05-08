@@ -1,0 +1,32 @@
+{
+  "title": "Installer Targets",
+  "path": "aihxp-scriven-installer-targets",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "scriven-cli",
+    "bin/install.js",
+    "Claude Code",
+    "installer targets",
+    "Node.js 20+",
+    "SKILL.md",
+    "local-MCP",
+    "command surface",
+    "runtime compatibility matrix",
+    "npx scriven-cli"
+  ],
+  "use_cases": [
+    "Configure when deploying Scriven into Claude Code or Cursor AI environments",
+    "Implement when requiring a fallback manual installation via SKILL.md",
+    "Use when setting up a local-MCP bridge for Perplexity Desktop",
+    "Configure when running the scriven-cli installer via Node.js"
+  ],
+  "tags": [
+    "installation",
+    "configuration",
+    "compatibility",
+    "deployment"
+  ],
+  "priority": 9,
+  "content": "Scriven currently ships installer targets for these AI tooling environments:\n\n- **Claude Code** (primary reference runtime)\n- **Cursor**\n- **Gemini CLI**\n- **Codex**\n- **OpenCode**\n- **GitHub Copilot**\n- **Windsurf**\n- **Antigravity**\n- **Manus Desktop**\n- **Perplexity Desktop** (guided local-MCP setup)\n- **Generic (SKILL.md)** fallback\n\n**Installer baseline:** `Node.js 20+` for `npx scriven-cli@latest` and `bin/install.js`.\n\n**Support note:** Claude Code is the primary reference runtime and now installs a flat `/scr-*` command surface. The environments listed above are installer targets, not a claim that every host runtime has verified parity today. Codex currently installs a skill-native `$scr-*` surface, while Perplexity Desktop is a guided local-MCP target rather than a writable command runtime. See the [runtime compatibility matrix](docs/runtime-support.md) for install type, support level, and verification status.\n\n---",
+  "token_estimate": 164
+}

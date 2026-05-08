@@ -1,0 +1,31 @@
+{
+  "title": "Common Mistakes ​",
+  "path": "docs-use-ncp-common-mistakes",
+  "url": "https://dramatica.com/docs/use/ncp",
+  "keywords": [
+    "NCP object",
+    "Storyform Builder",
+    "Narrova Context",
+    "Subtxt Writing Downloads",
+    "Storyform-backed surface",
+    "Sync model",
+    "Portable package",
+    "Partial NCP updates",
+    "Conversation memory model"
+  ],
+  "use_cases": [
+    "Use when maintaining an active working object throughout the development lifecycle",
+    "Implement when synchronizing Subtxt and Narrova story records via a shared Storyform",
+    "Configure when carrying story structure into external environments without losing narrative integrity",
+    "Use when saving decision-making prose into structural surfaces for portability"
+  ],
+  "tags": [
+    "troubleshooting",
+    "best-practices",
+    "data-management",
+    "workflow"
+  ],
+  "priority": 8,
+  "content": "- Treating NCP as only a final export. Correction: use it as an active working object throughout development, then download it when you need a portable package.\n- Assuming omitted fields mean deletion. Correction: in normal notebook-driven work, partial NCP updates are treated as partial saves unless you intentionally request a full replacement workflow.\n- Leaving important decisions only in chat prose. Correction: save them into the notebook or Storyform-backed surfaces so the structure can travel with the idea.\n- Treating Subtxt and Narrova as separate story records. Correction: attach both to the same Storyform and let the sync model keep them aligned.\n\nUse NCP when you want to stay focused on developing the story rather than managing handoffs between tools. Build or refine the Storyform in Storyform Builder or Subtxt, develop meaning and notes inside Narrova, then download the NCP object when you want to carry that work into another environment.\n\nWriting use: Treat NCP as the object that lets the story travel without losing its spine. That is the practical benefit of the whole methodology.\n\n- Go to Narrova Context if you want the broader Story, Storyform, and conversation memory model\n- Go to Storyform Builder if you want to generate or download a Storyform-backed NCP directly\n- Go to Subtxt Writing Downloads if you want the full package from an existing Subtxt workspace",
+  "token_estimate": 300
+}

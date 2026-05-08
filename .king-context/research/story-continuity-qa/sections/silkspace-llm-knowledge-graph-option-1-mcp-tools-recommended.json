@@ -1,0 +1,34 @@
+{
+  "title": "Option 1: MCP Tools (Recommended)",
+  "path": "silkspace-llm-knowledge-graph-option-1-mcp-tools-recommended",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "MCP",
+    "mcp__llm_kg__kg_add",
+    "mcp__llm_kg__kg_query",
+    "mcp__llm_kg__kg_stats",
+    "mcp__llm_kg__kg_get_document",
+    "mcp__llm_kg__kg_list_clusters",
+    "knowledge graph",
+    "area_code",
+    "top_k",
+    "semantic clustering"
+  ],
+  "use_cases": [
+    "Use when adding scraped markdown content and metadata to a persistent knowledge graph",
+    "Implement when performing semantic searches over stored documents using natural language queries",
+    "Configure when retrieving groups of documents based on hierarchical semantic area codes",
+    "Use when monitoring the size and status of the knowledge graph via statistics and cluster lists",
+    "Implement when direct document retrieval by unique identifier is required"
+  ],
+  "tags": [
+    "knowledge-graph",
+    "mcp-protocol",
+    "api-reference",
+    "data-ingestion",
+    "search-retrieval"
+  ],
+  "priority": 10,
+  "content": "If the MCP server is configured, use these tools:\n\n**Add to knowledge graph:**\n\n```python\n# After scraping with Firecrawl\nmcp__llm_kg__kg_add(\n    content=scraped[\"markdown\"],\n    url=scraped[\"url\"],\n    title=scraped[\"metadata\"][\"title\"]\n)\n```\n\n**Search the knowledge graph:**\n\n```python\nmcp__llm_kg__kg_query(\n    query=\"quantum mechanics entanglement\",\n    top_k=5\n)\n```\n\n**Get statistics:**\n\n```python\nmcp__llm_kg__kg_stats()\n```\n\n**Get document(s):**\n\n```python\n# By unique document ID - returns single document\nmcp__llm_kg__kg_get_document(doc_id=\"1234567890\")\n\n# By area_code - returns ALL documents in that semantic area (like all houses in a neighborhood)\nmcp__llm_kg__kg_get_document(doc_id=\"physics.cosmology.desitter\")\n# → Returns list of all de Sitter papers\n```\n\n**List clusters:**\n\n```python\nmcp__llm_kg__kg_list_clusters()\n```",
+  "token_estimate": 117
+}

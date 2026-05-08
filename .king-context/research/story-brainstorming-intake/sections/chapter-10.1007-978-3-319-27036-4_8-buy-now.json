@@ -1,0 +1,33 @@
+{
+  "title": "Buy Now",
+  "path": "chapter-10.1007-978-3-319-27036-4_8-buy-now",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-319-27036-4_8?error=cookies_not_supported&code=ba29ff9b-226e-48cb-9853-9ed94c0f359b",
+  "keywords": [
+    "VAT",
+    "EPUB",
+    "PDF",
+    "Softcover",
+    "International Shipping",
+    "Tax calculation",
+    "Institutional subscriptions",
+    "Personal use license",
+    "eBook",
+    "Instant download"
+  ],
+  "use_cases": [
+    "Use when selecting between digital (PDF/EPUB) and physical (Softcover) fulfillment options",
+    "Configure when processing regional tax requirements such as VAT for Japan",
+    "Implement when providing immediate access to scholarly content through digital downloads",
+    "Use when distinguishing between individual personal purchases and institutional licensing"
+  ],
+  "tags": [
+    "ecommerce",
+    "licensing",
+    "fulfillment",
+    "billing",
+    "product-delivery"
+  ],
+  "priority": 9,
+  "content": "Chapter\nJPY3498\nPrice includes VAT (Japan)\n* Available as PDF\n* Read on any device\n* Instant download\n* Own it foreverBuy Chapter\neBookJPY5719Price includes VAT (Japan)\n* Available as EPUB and PDF\n* Read on any device\n* Instant download\n* Own it foreverBuy eBook\nSoftcover BookJPY7149Price includes VAT (Japan)\n* Compact, lightweight edition\n* Dispatched in 3 to 5 business days\n* Free shipping worldwide -[see info](https://support.springernature.com/en/support/solutions/articles/6000233448-coronavirus-disease-covid-19-delivery-information)Buy Softcover Book\nTax calculation will be finalised at checkout\nPurchases are for personal use only\n[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/ebooks)",
+  "token_estimate": 114
+}

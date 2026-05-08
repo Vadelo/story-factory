@@ -1,0 +1,33 @@
+{
+  "title": "Brainstorming prompts (10)",
+  "path": "chatgpt-prompts-for-fiction-writers-brainstorming-prompts-10",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "Genre mashup",
+    "Theme explorer",
+    "Plot twists",
+    "Inciting incident",
+    "Moral dilemmas",
+    "Conflict brainstorm",
+    "Setting as character",
+    "What-if scenarios",
+    "Subgenre deep dive",
+    "Opening line factory"
+  ],
+  "use_cases": [
+    "Use when generating raw story premises and character obstacles for creative writing sessions",
+    "Implement when struggling with writer's block or needing to escalate stakes in an existing narrative",
+    "Configure when exploring complex moral dilemmas or diverse character paths within a specific genre",
+    "Use when developing unique plot twists that recontextualize previous story events",
+    "Configure when attempting to integrate specific themes across different genres or time periods"
+  ],
+  "tags": [
+    "creative-writing",
+    "ideation",
+    "prompt-library",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "These prompts generate raw material: premises, concepts, and what-if scenarios to build from.\n\n1. Genre mashup generator\n\nI write [genre]. Give me 10 story premises that combine [genre] with [unexpected genre or setting]. Each premise should include a protagonist with a clear want, an obstacle, and a tonal hook. Keep each to 2-3 sentences.\n\n2. Theme explorer\n\nMy story explores the theme of [theme, e.g., “the cost of ambition”]. Generate 5 different story scenarios that examine this theme through completely different genres, time periods, and character types.\n\n3. Opening line factory\n\nWrite 10 opening lines for a [genre] novel. Each should establish voice, raise a question, and hint at conflict. Vary between action openings, dialogue openings, and atmospheric openings.\n\n4. Conflict brainstorm\n\nMy protagonist is a [character description] who wants [goal]. Generate 10 obstacles that could prevent them from achieving this, ranging from personal flaws to external forces. Make each obstacle suggest a different story direction.\n\n5. Twist generator\n\nMy story follows [brief setup]. Give me 8 possible plot twists that would recontextualize the events so far. Rank them from subtle (reader might not notice on first read) to dramatic (changes the entire premise).\n\n6. Setting as character\n\nCreate 5 unique settings for a [genre] story where the location itself functions as an antagonist or ally. For each, describe the setting in one paragraph and explain how it actively shapes the plot.\n\n7. Moral dilemma builder\n\nGenerate 5 moral dilemmas for a [character type] in a [genre] story. Each dilemma should have no clear right answer, force the character to sacrifice something important, and reveal character through the choice they make.\n\n8. “What if” escalator\n\nStart with this premise: [your basic idea]. Now escalate it through 5 levels: personal stakes, community stakes, societal stakes, existential stakes, and an unexpected inversion of the original premise.\n\n9. Subgenre deep dive\n\nI want to write [subgenre, e.g., “cozy mystery”]. Give me 10 story concepts that hit the expected conventions of this subgenre while adding one unexpected element each. Explain which convention each story subverts.\n\n10. Inciting incident generator\n\nMy protagonist is [character description] living [current situation]. Generate 8 inciting incidents that would force them out of their routine. Vary between subtle disruptions and catastrophic events.",
+  "token_estimate": 494
+}

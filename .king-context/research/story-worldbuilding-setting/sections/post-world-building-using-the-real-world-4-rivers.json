@@ -1,0 +1,32 @@
+{
+  "title": "4. Rivers",
+  "path": "post-world-building-using-the-real-world-4-rivers",
+  "url": "https://www.grmatthews.com/post/world-building-using-the-real-world",
+  "keywords": [
+    "tributary",
+    "discharge",
+    "lowest points",
+    "sea level",
+    "waterfall",
+    "cascade",
+    "tidal river",
+    "delta",
+    "River Thames",
+    "River Avon",
+    "New Orleans"
+  ],
+  "use_cases": [
+    "Use when analyzing river discharge dynamics and predicting flood risks.",
+    "Use when modeling river erosion patterns along low-lying terrain.",
+    "Use when identifying tidal influence on coastal urban development such as London on the Thames.",
+    "Use when studying river course development from source to mouth for watershed management."
+  ],
+  "tags": [
+    "geography",
+    "hydrology",
+    "environmental science"
+  ],
+  "priority": 8,
+  "content": "Water always flows downhill, striving to reach sea level. Keep this in mind, and understanding how rivers change from their source (where they start) to their mouths (where they flow into the sea) becomes easier.\n\n![](https://static.wixstatic.com/media/5e5df4_f841b30060984e9b8a83148cce8d7468~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/5e5df4_f841b30060984e9b8a83148cce8d7468~mv2.png)\n\nRivers begin small and grow as tributaries join in, adding volume and increasing discharge. They follow the lowest points on the terrain. As they seek sea level, they erode downwards, often creating the lowest points. Near the source, you’ll find waterfalls and cascades. In the lower course, rivers slow down and deepen. This is where major towns and cities often develop.\n\nThink about London on the River Thames, which is still tidal. Or Bristol on the River Avon, and New Orleans on the Mississippi Delta. New York is on the Hudson.\n\nWhen you combine the factors above with the climate, you get…",
+  "token_estimate": 183
+}

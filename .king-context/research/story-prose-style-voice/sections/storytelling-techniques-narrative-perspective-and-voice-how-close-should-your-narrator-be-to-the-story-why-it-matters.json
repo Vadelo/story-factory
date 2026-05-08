@@ -1,0 +1,30 @@
+{
+  "title": "Why It Matters",
+  "path": "storytelling-techniques-narrative-perspective-and-voice-how-close-should-your-narrator-be-to-the-story-why-it-matters",
+  "url": "https://digitalphrases.com/storytelling-techniques/narrative-perspective-and-voice/how-close-should-your-narrator-be-to-the-story/",
+  "keywords": [
+    "narrative point of view",
+    "narrative distance",
+    "third-person limited",
+    "unreliable narrator",
+    "interiority",
+    "modulation",
+    "tone and structure",
+    "narrative shifting"
+  ],
+  "use_cases": [
+    "Use when determining the narrative distance required for emotional resonance or suspense",
+    "Implement when shifting between external observation and deep interior character states",
+    "Configure when modulating narrative pace to distinguish between action and political intrigue",
+    "Use when building a textured and dynamic perspective using the 'chessboard' technique"
+  ],
+  "tags": [
+    "narrative-theory",
+    "creative-writing",
+    "literary-analysis",
+    "storytelling-structure"
+  ],
+  "priority": 9,
+  "content": "When we choose where to place the narrator, we’re influencing how the reader experiences the story. Are they watching events unfold from a safe distance? Are they trapped inside the protagonist’s fear during a chase scene? Are they seeing the world with the ironic detachment of an unreliable narrator? These choices impact not only tone, but structure, pacing, and theme.\n\nTake Virginia Woolf’s Mrs. Dalloway. The narrative fluidly shifts between external observation and deep interiority, often within the same paragraph. This allows Woolf to present a complex, layered reality where the inner lives of characters feel as rich as the physical world they inhabit.\n\nCompare this to George R. R. Martin’s A Song of Ice and Fire series. Martin writes in third-person limited, but the narrative distance varies considerably. During action scenes, he often zooms in close, giving us sensory overload from a character’s perspective. At other times — especially in political intrigue scenes — he pulls back, allowing us to see the chessboard with a cool, calculating eye. That modulation is part of what makes the series feel so textured and dynamic.",
+  "token_estimate": 243
+}

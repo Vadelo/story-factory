@@ -1,0 +1,33 @@
+{
+  "title": "What vector stores are good at",
+  "path": "blog-persistent-memory-for-ai-agents-what-vector-stores-are-good-at",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "semantic recall",
+    "vector store",
+    "RAG",
+    "retrieval-augmented generation",
+    "embedding model",
+    "unstructured content",
+    "append workloads",
+    "schema evolution",
+    "indexing",
+    "vector query"
+  ],
+  "use_cases": [
+    "Use when implementing semantic search for documents, emails, or web pages",
+    "Implement when building a Retrieval-Augmented Generation (RAG) pipeline",
+    "Configure when handling high-throughput data ingestion with minimal write costs",
+    "Use when content types are frequently evolving and require a schema-less storage architecture",
+    "Apply when needing to retrieve relevant context without manual rule curation"
+  ],
+  "tags": [
+    "vector-search",
+    "database-architecture",
+    "RAG",
+    "data-storage"
+  ],
+  "priority": 10,
+  "content": "Semantic recall. The signature use case. \"What have we previously written about the topic this prompt is about\" is a one-line vector query. No schema decisions, no hand-written rules, no manual curation. The embedding model does the work.\n\nUnstructured content at scale. Documents, emails, transcripts, web pages, PDF excerpts — anything that can be embedded can be stored, indexed, and retrieved. This is the substrate that makes RAG (retrieval-augmented generation) work.\n\nCheap writes. Most vector stores handle high-throughput append workloads well. Embedding cost is the constraint, not write cost.\n\nDecoupling from schema evolution. A vector store does not care about your entity types. New domains, new content types, new agents writing to it — the store ingests them all the same way. There is no migration burden.",
+  "token_estimate": 168
+}

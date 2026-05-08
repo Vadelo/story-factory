@@ -1,0 +1,30 @@
+{
+  "title": "1. Three-Act Structure",
+  "path": "blog-how-to-write-story-proven-storytelling-frameworks-1-three-act-structure",
+  "url": "https://storyflow.so/blog/how-to-write-story-proven-storytelling-frameworks",
+  "keywords": [
+    "Three-Act Structure",
+    "Inciting Incident",
+    "Midpoint Reversal",
+    "Dark Night of the Soul",
+    "Climax",
+    "The Matrix Example",
+    "Storyflow Mapping",
+    "Protagonist Transformation",
+    "Resolution"
+  ],
+  "use_cases": [
+    "Use when establishing the foundational pacing and ratio for a new narrative",
+    "Implement when dividing a story into Setup, Confrontation, and Resolution phases",
+    "Configure when visualizing story beats and turning points within Storyflow",
+    "Use when defining the protagonist's arc from status quo to new equilibrium"
+  ],
+  "tags": [
+    "storytelling-frameworks",
+    "narrative-structure",
+    "beginner-guide"
+  ],
+  "priority": 10,
+  "content": "Best for: Beginners, any story format, flexible application\n\nThree-Act Structure is the foundation. Every other framework builds on it. If you learn nothing else, learn this.\n\nThree-Act Structure divides any story into Setup (25%), Confrontation (50%), and Resolution (25%). This ratio creates the pacing audiences expect.\n\nAct One: Setup (25% of story)\n\n- Introduce your protagonist and their world\n- Establish the status quo (what's \"normal\")\n- Present the inciting incident that disrupts everything\n- End with the protagonist committing to action\n\nAct Two: Confrontation (50% of story)\n\n- Rising stakes and escalating obstacles\n- Midpoint reversal that changes everything\n- Character tests and transformations\n- End with the \"dark night of the soul\" - lowest point\n\nAct Three: Resolution (25% of story)\n\n- Climax and final confrontation\n- Resolution of all plot threads\n- Show the transformation complete\n- New equilibrium established\n\nExample: The Matrix\n\nAct One: Neo's boring office life, meets Trinity and Morpheus, takes the red pill. Act Two: Training, first missions, Cypher's betrayal, Morpheus captured, Neo decides to save him. Act Three: Rescue, confrontation with agents, Neo becomes The One, defeats Smith.\n\n![A story outline in Storyflow showing a three-act structure mapped visually with protagonist, inciting incident, and key turning points](https://storyflow.so/images/Blog%20images/Story%20outline%20lightmode.jpg)\n\nMapping a Three-Act Structure in Storyflow — beginning state, midpoint, and transformation visualized before writing",
+  "token_estimate": 292
+}

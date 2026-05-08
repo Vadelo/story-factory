@@ -1,0 +1,34 @@
+{
+  "title": "How to run Cosmic Horror",
+  "path": "five-types-of-horror-and-how-to-run-them-at-the-table-how-to-run-cosmic-horror",
+  "url": "https://www.questandcartridge.com/five-types-of-horror-and-how-to-run-them-at-the-table/",
+  "keywords": [
+    "Cosmic Horror",
+    "impossible geometry",
+    "sanity systems",
+    "Call of Cthulhu",
+    "sanity track",
+    "unsettling descriptions",
+    "irreversible unravelling",
+    "NPC",
+    "cultist",
+    "non-combat encounter",
+    "statless monsters"
+  ],
+  "use_cases": [
+    "Use when designing encounters where survival is the primary victory condition",
+    "Implement when creating a sense of dread through environmental storytelling and 'impossible' elements",
+    "Configure when introducing sanity mechanics to track psychological deterioration",
+    "Use when building non-traditional boss battles that cannot be defeated through hit-point reduction",
+    "Implement when planting narrative breadcrumbs like obsessive journals or suspicious NPCs"
+  ],
+  "tags": [
+    "game design",
+    "narrative-systems",
+    "horror",
+    "encounter-design"
+  ],
+  "priority": 8,
+  "content": "Make your players feel small and out of place before you make them feel overly threatened.\n\nBegin with the weird and the wrong. Start with strange angles in architecture, impossible geometry, or ancient books that shouldn’t exist.\n\nLet them win small battles but never really understand what’s out there, only that it’s something bigger. The big monster, when it eventually arrives, should be fundamentally incomprehensible.\n\nResist the urge to figure it out like a regular encounter. Don’t bother with stats. Give it vague, unsettling and even contradictory descriptions. Never reveal that it has stats. Make it big. Slow. Lumbering. Hard to understand.\n\nMechanically, sanity systems suit this flavour well. Call of Cthulhu’s approach is the most developed, but even a simplified sanity track where witnessing certain things causes a gradual, irreversible unravelling rather than a simple debuff can reinforce the\n\nThe goal shouldn’t be to defeat the horror, as it’s too monstrous, but to survive it, seal it away, or merely delay it. When players use weapons, it just slows it down and gives them a chance to escape.\n\nMake sure you don’t encourage them to stand and fight (another common mistake). If it is damaged, it needs to basically shrug it off or become more volatile.\n\nLet the players who just plain escaped feel like they succeeded at enormous cost, even if nothing is truly resolved.\n\n#### Ideas for Implementation\n\n- The players find a journal written by a previous explorer. The entries start normally, then become increasingly fractured and obsessive, until the final pages are just the same phrase repeated hundreds of times, with the last line reading suggesting it’s not over.\n- A seemingly helpful NPC gives the party accurate, useful information about the threat they’re facing. Later, the players realize there was no possible way that person could have known any of it. Unless he wasn’t who he appeared to be.\n- The party defeats a cultist and discovers a strange tattooed on their body. Most of the locations are identifiably nearby, but one looks like it’s directly underneath… the library, the church, or other marker.",
+  "token_estimate": 465
+}

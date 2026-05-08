@@ -1,0 +1,34 @@
+{
+  "title": "Foreshadowing and Plant-Payoff",
+  "path": "crafting-compelling-plots-a-guide-to-progress-foreshadowing-and-plant-payoff",
+  "url": "https://writersdigestonline.com/crafting-compelling-plots-a-guide-to-progress/",
+  "keywords": [
+    "foreshadowing",
+    "subplots",
+    "plot arc",
+    "non-linear structure",
+    "flashback",
+    "flash-forward",
+    "plot resolution",
+    "character detail",
+    "theme",
+    "pacing variety"
+  ],
+  "use_cases": [
+    "Use foreshadowing to subtly hint at future plot points without revealing them outright",
+    "Implement subplots that thematically support the main plot while maintaining their own narrative arc",
+    "Configure flashbacks or flash-forwards to deepen character backstories or create mystery",
+    "Design a non-linear timeline to enhance thematic resonance rather than serve as a gimmick",
+    "Use pacing variety from subplot resolutions to balance emotional peaks throughout the story"
+  ],
+  "tags": [
+    "plotting",
+    "story-structure",
+    "writing-technique",
+    "character-development",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "Effective plotting requires planting information early that becomes significant later. Foreshadowing creates anticipation and makes later events feel earned rather than arbitrary. The key is being subtle enough that readers don’t feel manipulated — they should feel like they almost saw it coming, not like the author was waving a flag.\n\nIn Of Mice and Men, the shooting of Candy’s old dog foreshadows the story’s tragic ending. In context, it feels like character detail. In retrospect, it’s preparation.\n\nComplex narratives weave together multiple threads. Your main plot answers the central story question, while subplots develop themes, explore character, or provide contrast and pacing variety.\n\nSubplot best practices:\n\n- Connect thematically to the main plot even if not directly related\n- Have their own arc with beginning, middle, and end\n- Resolve before or during the main plot’s resolution\n- Provide pacing variety and emotional range\n\nNot all stories progress chronologically. Flashbacks, flash-forwards, and fragmented timelines can create mystery, develop character backstory, or show how past events shape present action. Cloud Atlas and The Time Traveler’s Wife demonstrate how non-linear structure can become integral to meaning rather than just a formal trick.",
+  "token_estimate": 254
+}

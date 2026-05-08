@@ -1,0 +1,8 @@
+{
+  "name": "story-factory-workflow",
+  "display_name": "AI-assisted fiction creation workflow, including story intake, brainstorming, premise refinement, story bible design, outline creation, drafting, revision, continuity tracking, work memory corpora, chapter memory packets, Markdown and JSON exports, and long-form continuation without context loss",
+  "version": "v1",
+  "base_url": "",
+  "section_count": 277,
+  "indexed_at": "2026-05-07T19:24:29.728979+00:00"
+}

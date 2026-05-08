@@ -1,0 +1,27 @@
+{
+  "title": "Prohibitions",
+  "path": "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-prohibitions",
+  "url": "https://github.com/hilyfux/knowledge-graph/blob/8a6917faab4b089f700c321f6b083defb3ff9504/README.md",
+  "keywords": [
+    "token refresh",
+    "CI stability",
+    "flaky tests",
+    "session logic",
+    "CLAUDE.md",
+    "token maintenance",
+    "bypass"
+  ],
+  "use_cases": [
+    "Configure when writing unit or integration tests involving authentication",
+    "Implement when refactoring session or token handling logic",
+    "Use when debugging flaky Continuous Integration (CI) pipelines"
+  ],
+  "tags": [
+    "testing",
+    "authentication",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "- Don't bypass token refresh in tests -> causes flaky CI (source: commit a1b2c3d)\n\n- Modifying token logic -> also check @../session/CLAUDE.md",
+  "token_estimate": 29
+}

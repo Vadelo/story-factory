@@ -1,0 +1,33 @@
+{
+  "title": "Key takeaways",
+  "path": "blog-how-to-map-a-multi-pov-novel-key-takeaways",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "network structures",
+    "POV character arc",
+    "convergence points",
+    "cross-storyline connections",
+    "visual mapping",
+    "multi-POV infrastructure",
+    "structural payoff",
+    "protagonist transformation",
+    "cross-track connections",
+    "simultaneous storytelling"
+  ],
+  "use_cases": [
+    "Implement when designing the underlying architecture of a multi-POV novel beyond linear outlines",
+    "Use when evaluating if a secondary character qualifies for a full POV protagonist arc",
+    "Configure when mapping the density of cross-track connections between storylines toward the climax",
+    "Use when identifying structural errors like disappearing characters or disconnected subplots using visual aids",
+    "Configure when planning convergence points to ensure storylines cohere into a single reader experience"
+  ],
+  "tags": [
+    "narrative-structure",
+    "story-architecture",
+    "protagonist-development",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "- Multi-POV novels are network structures, not sequences, and linear outlines cannot represent the cross-storyline connections that hold them together.\n- Each POV character needs a full protagonist arc with their own wants, obstacles, and transformation; otherwise they belong in a supporting role.\n- Convergence points, where two or more storylines come together, are the structural payoff of the multi-POV format and should be clearly identified early.\n- Common problems like disappearing characters, disconnected subplots, and forced convergences become obvious on a visual map but hide easily in lists.\n- Cross-track connections between storylines should get denser as the story approaches the climax, with loose threading at the start and tight weaving at the end.\n\nWriting a multi-POV novel is not a scaling problem. It is a structural one. You are not just writing one story longer. You are writing several stories simultaneously, and they need to cohere into a single experience for the reader.\n\nThe tools most writers reach for, linear outlines and chapter lists, are not built for that job. They are designed for sequences. A multi-POV novel is not a sequence. It is a network.",
+  "token_estimate": 250
+}

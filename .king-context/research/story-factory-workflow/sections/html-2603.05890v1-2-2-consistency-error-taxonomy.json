@@ -1,0 +1,33 @@
+{
+  "title": "2.2 Consistency Error Taxonomy",
+  "path": "html-2603.05890v1-2-2-consistency-error-taxonomy",
+  "url": "https://arxiv.org/html/2603.05890v1",
+  "keywords": [
+    "ConStory-Bench",
+    "Consistency Error Taxonomy",
+    "Timeline & Plot Logic",
+    "Characterization Memory Contradictions",
+    "World-building Setting",
+    "Nomenclature Confusions",
+    "Narrative Style Shifts",
+    "Causal Logic Violations",
+    "Simultaneity Contradictions",
+    "Temporal Logic"
+  ],
+  "use_cases": [
+    "Use when evaluating the narrative integrity of LLM-generated stories",
+    "Implement when benchmarking long-form creative writing models",
+    "Configure when setting up automated quality gates for character consistency",
+    "Use when categorizing specific failures in world-building or setting logic",
+    "Implement when developing error-detection pipelines for synthetic narrative data"
+  ],
+  "tags": [
+    "benchmarking",
+    "narrative-analysis",
+    "quality-assurance",
+    "error-taxonomy"
+  ],
+  "priority": 9,
+  "content": "To enable systematic evaluation, we develop a hierarchical taxonomy grounded in narrative theory and prior research on story understanding (Ismayilzada et al., 2024; Xie et al., 2023). The taxonomy comprises five top-level categories and 19 fine-grained error types (Table 2), encompassing contradictions that emerge across temporal logic, character memory, world-building rules, factual details, and narrative style. Representative error cases with detailed annotations are presented in Figure 2.\n\nTable 2: Consistency-error taxonomy used by ConStory-Bench, comprising five categories and 19 subtypes.\n\n| Error Type | Sub Error Type |\n| --- | --- |\n| Timeline & Plot | Absolute Time Contradictions |\n| Logic | Duration Contradictions |\n| Simultaneity Contradictions |\n| Causeless Effects |\n| Causal Logic Violations |\n| Abandoned Plot Elements |\n| Characterization | Memory Contradictions |\n| Knowledge Contradictions |\n| Skill Fluctuations |\n| Forgotten Abilities |\n| World-building & | Core Rules Violations |\n| Setting | Social Norms Violations |\n| Geographical Contradictions |\n| Factual & Detail | Appearance Mismatches |\n| Consistency | Nomenclature Confusions |\n| Quantitative Mismatches |\n| Narrative & Style | Perspective Confusions |\n| Tone Inconsistencies |\n| Style Shifts |",
+  "token_estimate": 262
+}

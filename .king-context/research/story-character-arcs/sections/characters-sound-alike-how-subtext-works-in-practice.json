@@ -1,0 +1,30 @@
+{
+  "title": "How Subtext Works In Practice",
+  "path": "characters-sound-alike-how-subtext-works-in-practice",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "subtext",
+    "unspoken tension",
+    "character performance",
+    "dialogue dynamics",
+    "indirect communication",
+    "emotional irony",
+    "character conflict",
+    "narrative tension"
+  ],
+  "use_cases": [
+    "Use when developing authentic character interactions that avoid 'on-the-nose' dialogue",
+    "Implement when creating narrative tension between competing characters",
+    "Configure when showing emotional truth through actions rather than direct statements",
+    "Use when illustrating shifts in power dynamics or status between peers"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "dialogue-techniques",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "Two coworkers. One just got the promotion the other wanted.\n\nNo subtext (boring): “Congratulations on the promotion. I wanted it, but you deserved it more.” “Thanks. I know you wanted it too. I hope this doesn’t hurt our friendship.”\n\nWith subtext (alive): “So. Corner office.” “It’s not that big.” “No, it’s great. Really. You’ll do great.” “We should grab lunch sometime. Catch up.” “Sure. Yeah. Let me know when you’re free.”\n\nNeither character says what they feel. The passed-over coworker performs graciousness badly. The promoted one tries to minimize and reconnect but knows the relationship just changed. Readers feel the tension in what’s not said.",
+  "token_estimate": 139
+}

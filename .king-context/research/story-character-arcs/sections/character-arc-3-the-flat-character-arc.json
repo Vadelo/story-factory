@@ -1,0 +1,32 @@
+{
+  "title": "3. The flat character arc",
+  "path": "character-arc-3-the-flat-character-arc",
+  "url": "https://thewordling.com/character-arc/",
+  "keywords": [
+    "flat character arc",
+    "external arc",
+    "internal vs external change",
+    "static personality",
+    "catalyst character",
+    "moral clarity",
+    "structural arc",
+    "systemic impact",
+    "tested convictions",
+    "character consistency"
+  ],
+  "use_cases": [
+    "Use when the protagonist's core beliefs are already solidified at the start of the narrative",
+    "Implement when the story's focus is on how a character changes their environment or other people",
+    "Configure when writing a world-builder or series where the protagonist must remain a fixed point",
+    "Use when exploring the tension between a rigid moral code and a chaotic or corrupt system"
+  ],
+  "tags": [
+    "character-development",
+    "narrative-structure",
+    "storytelling-theory",
+    "literary-device"
+  ],
+  "priority": 8,
+  "content": "In a flat arc, the character’s beliefs don’t shift—but the world around them does. These characters act as a fixed point in a chaotic system. The arc is external, not internal.\n\nKey traits:\n\n- The character begins the story with clear, tested convictions.\n- Their role is to confront and challenge the world, not themselves.\n- The arc focuses on impact: how others react to or are changed by them.\n- Precision is critical—without nuance, these characters can read as static.\n\nExamples:\n\n- James Bond: Doesn’t evolve, but his consistency influences outcomes.\n- Sherlock Holmes: Unmoved in his logic, but his presence disrupts and reveals.\n- Indiana Jones: Resourceful, confident, morally unshakable—his arc isn’t internal, but structural.\n- Katniss Everdeen (Mockingjay): Doesn’t grow so much as endure. Her presence alters the system, not herself.\n\nFlat arcs are easy to misunderstand. They require tension, contradiction, and moral clarity—not just a character who stays the same, but one who matters by doing so.",
+  "token_estimate": 214
+}

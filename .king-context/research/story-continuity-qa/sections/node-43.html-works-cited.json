@@ -1,0 +1,33 @@
+{
+  "title": "Works Cited",
+  "path": "node-43.html-works-cited",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "Narratology",
+    "Morphology of the French Folktale",
+    "BRUTUS storytelling machine",
+    "Character-based Interactive Storytelling",
+    "Computational Model of Narrative Generation",
+    "Extracting Social Networks",
+    "Narrative Discourse",
+    "Freytag's Technique",
+    "Interactive Digital Storytelling",
+    "Narrative Models"
+  ],
+  "use_cases": [
+    "Use when researching academic foundations of computational narratology",
+    "Use when implementing structuralist models like Propp or Bremond in code",
+    "Use when citing historical precedents for interactive storytelling systems",
+    "Use when benchmarking modern NLP narrative extraction against baseline literature",
+    "Use when designing suspense mechanisms based on psychological reader models"
+  ],
+  "tags": [
+    "references",
+    "academic-theory",
+    "computational-linguistics",
+    "interactive-narrative"
+  ],
+  "priority": 4,
+  "content": "- Bremond, Claude (1970). “Morphology of the French Folktale.” Semiotica 2, 347–75.\n- Bringsjord, Selmer & David A. Ferrucci (2000). Artificial Intelligence and Literary Creativity: Inside the Mind of BRUTUS, a Storytelling Machine. Mahwah: Lawrence Erlbaum.\n- Campbell, Joseph ([1949] 1990). The Hero with a Thousand Faces. New York: Harper & Row.\n- Cavazza, M. & F. Charles (2005). “Dialogue Generation in Character-based Interactive Storytelling.” AAAI First Annual Artificial Intelligence and Interactive Digital Entertainment Conference, Marina del Rey, California [1] (http://www.scm.tees.ac.uk/f.charles/publications/conferences/2005/AIIDE05CavazzaM.pdf).\n- Cavazza, M. & D. Pizzi (2006). “Narratology for Interactive Storytelling: A Critical Introduction.” S. Gobel et al. (eds.), Technologies for Interactive Digital Storytelling and Entertainment. Third International Conference. Lecture Notes in Computer Science, 4326. Berlin: Springer.\n- Cheong, Y. G. (2007). A Computational Model of Narrative Generation for Suspense. PhD Thesis, Department of Computer Science, North Carolina State University.\n- Genette, Gérard ([1972] 1980). Narrative Discourse: An Essay in Method. Ithaca: Cornell UP.\n- Elson, David K. et al. (2010). “Extracting Social Networks from Literary Fiction.” Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (ACL’2010), 138–47.\n- Freytag, Gustav (1900). Freytag's Technique of the drama : an exposition of dramatic composition and art. Transl. by Elias J. MacEwan. Chicago: Scott, Foresman.\n- Gerrig, R. & D. Bernardo (1994) Readers as problem-solvers in the experience of suspense. Poetics 22, 459–72.\n- Gervás, Pablo et al. (2006). “Narrative Models: Narratology Mee",
+  "token_estimate": 312
+}

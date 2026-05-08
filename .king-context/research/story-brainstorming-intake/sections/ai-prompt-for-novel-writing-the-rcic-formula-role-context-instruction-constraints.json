@@ -1,0 +1,33 @@
+{
+  "title": "The RCIC Formula: Role + Context + Instruction + Constraints",
+  "path": "ai-prompt-for-novel-writing-the-rcic-formula-role-context-instruction-constraints",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "RCIC Formula",
+    "Roleplay calibration",
+    "Context mapping",
+    "Scene-level briefs",
+    "Negative constraints",
+    "Master prompt header",
+    "Stylistic choices",
+    "Comparative titles",
+    "Prompt scaffolding",
+    "Constraint-based output"
+  ],
+  "use_cases": [
+    "Use when drafting a novel-writing prompt to ensure all necessary structural components are present",
+    "Implement when the AI output is too generic or lacks specific genre-appropriate voice",
+    "Configure when creating a reusable master prompt header to maintain consistency throughout a manuscript",
+    "Use when transitioning from vague story-level requests to actionable scene-level instructions",
+    "Apply when needing to restrict the AI from using undesirable writing habits like purple prose or adverbs"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "creative-writing",
+    "frameworks",
+    "best-practices"
+  ],
+  "priority": 10,
+  "content": "Every effective novel-writing prompt contains four parts. Miss one and the quality drops. Get all four right and you’ve essentially hired a very talented, very literal co-writer who never gets tired.\n\nPart 1 Role\n\n+\n\nPart 2 Context\n\n+\n\nPart 3 Instruction\n\n+\n\nPart 4 Constraints\n\n1\n\n#### Role — Give the AI an identity before it writes a single word\n\nStart every prompt with who the AI is, not what it should do. “You are a bestselling psychological thriller novelist” changes the quality, register, and stylistic choices of everything that follows. When the AI adopts a role, it draws on patterns consistent with that expertise. Roleplay isn’t a trick — it’s calibration. Be specific: genre, experience level, comparable authors if you have them.\n\n2\n\n#### Context — Tell it exactly what you’re building and who it’s for\n\nThe AI has no memory of your manuscript, your readers, your intent. You have to reconstruct that every time. Mention your genre, your comparative titles (the “comps” agents ask for), your protagonist’s name and situation. “I’m writing a YA dystopian novel for readers who loved The Hunger Games” gives the model a target audience with established expectations it can aim for.\n\n3\n\n#### Instruction — Be scene-level specific, not story-level vague\n\nThis is where most writers lose the game. “Write Chapter 3” is not an instruction — it’s a blank check. “Write the scene where Maya first realizes her mentor has been lying to her — she finds the letters hidden behind the fireplace, reads the first one, and the chapter ends before she reads the second” is a scene-level brief. The tighter this gets, the better the output. Think in scenes, not chapters.\n\n4\n\n#### Constraints — Set the rules before the AI invents them\n\nUnconstrained, the model will default to its statistical average. Constraints are what make the output yours. Word count. Point of view. Tense. Tone. What to avoid. What must be included. Even a constraint like “no purple prose, no adverbs in action sequences, no on-the-nose dialogue” will noticeably improve output quality. Think of constraints as negative space — they define the shape of what you want by ruling out what you don’t.\n\nPro Tip\n\nSave your RCIC framework as a reusable “master prompt header” for your novel. Every new scene prompt starts with the same Role + Context block, so you only rewrite the Instruction + Constraints each time. This alone cuts prompt-writing time by 60% across a full manuscript.\n\nThese are ready to use. Replace the brackets with your specifics. The structure is already calibrated — don’t strip out the constraints or the Role framing, even if you’re tempted. That scaffolding is doing real work.",
+  "token_estimate": 597
+}

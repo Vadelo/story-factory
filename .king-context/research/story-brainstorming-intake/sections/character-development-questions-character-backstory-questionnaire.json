@@ -1,0 +1,33 @@
+{
+  "title": "Character backstory questionnaire",
+  "path": "character-development-questions-character-backstory-questionnaire",
+  "url": "https://nownovel.com/character-development-questions/",
+  "keywords": [
+    "character arc",
+    "backstory",
+    "formative experiences",
+    "emotional triggers",
+    "avoidance behavior",
+    "character development",
+    "narrative catharsis",
+    "character growth",
+    "inciting trauma",
+    "relational dynamics"
+  ],
+  "use_cases": [
+    "Use when establishing a character's internal motivation and historical context",
+    "Implement when designing a character arc that requires internal transformation",
+    "Configure when identifying specific psychological triggers for plot-driven tension",
+    "Use when creating secondary characters that shaped the protagonist's worldview",
+    "Implement when plotting scenes intended to provide emotional catharsis"
+  ],
+  "tags": [
+    "world-building",
+    "character-design",
+    "narrative-theory",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "1. What was the biggest catastrophe for your character growing up? Will they feel the same about this experience at the end of the story as at the start?\n2. Who was the most important person in your character's formative years, and why? Does this relationship change over the course of the story? If yes, why?\n3. What's something your character did once and will never do again? Do their feelings about this change? If yes, what changes them?\n4. What is your character's happiest memory, and why? Do they realize anything about this memory in the course of your story that changes how they feel about it? Perhaps they got stuck in a lift and now they have claustrophobia. Will this be part of the story? Can it drive development?\n5. What triggers your character or makes them overreact or show avoidance behavior due to past experiences? Does this reactive behavior change as the story progresses, and in what way?\n6. How did the character's first romantic relationship shape them? Is there any encounter in the story that makes them recall this relationship or see it in a new light?\n7. What's your character's most embarrassing memory? Do they carry this experience with them still? Does anything in the story act as catharsis for it, helping them to leave it behind?\n8. What would the adult version of your character tell the kid them if they could go back in time?\n9. Who caused your character the greatest pain in their past, and why? Do their feelings towards this person shift over the story's course?\n10. Who encouraged or supported your character most in the past? Are they still around during the story? How has their role or the relationship changed, if at all?",
+  "token_estimate": 392
+}

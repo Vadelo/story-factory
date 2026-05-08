@@ -1,0 +1,31 @@
+{
+  "title": "The Consistency Challenge at Novel Length",
+  "path": "point-of-view-the-consistency-challenge-at-novel-length",
+  "url": "https://thewritingking.com/point-of-view/",
+  "keywords": [
+    "POV violations",
+    "Viewpoint characters",
+    "POV continuity",
+    "Narrative modes",
+    "First person",
+    "Second person",
+    "Series consistency",
+    "Omniscient POV",
+    "AI-Enhanced Point of View Handbook"
+  ],
+  "use_cases": [
+    "Use when auditing a manuscript for character knowledge gaps and perception violations",
+    "Implement when tracking character-specific information across multiple chapters or volumes",
+    "Configure when transitioning between different perspective types in a book series",
+    "Use when defining narrator-reader relationships using first or second person address"
+  ],
+  "tags": [
+    "narrative-theory",
+    "quality-assurance",
+    "author-workflow",
+    "structural-editing"
+  ],
+  "priority": 9,
+  "content": "The only way to catch POV violations is to read specifically looking for them. Go through your manuscript asking one question about every sentence: Can this character perceive this? Know this? Interpret this way? If the answer is no, you have a violation.\n\nWhen you are working with multiple viewpoint characters, you need to track not just who has POV in each chapter, but what each character knows, believes, and misunderstands at that point in the story. I keep notes on what each viewpoint character has learned and when. Before writing a scene from someone’s perspective, I check those notes. Characters who mysteriously know things they have not been told break the reader’s reality, and readers catch it every time.\n\nSeries writers face an additional challenge. If you change your POV approach between books, readers need to understand why. A sequel from a different character’s perspective can work beautifully if the first book established that character. But a sudden shift to omniscient after three books of tight first person will confuse an audience expecting continuity.\n\nMy AI-Enhanced Point of View Handbook covers POV theory comprehensively with AI-assisted prompts for choosing, maintaining, and verifying POV across novel length. You can also read my short stories and serialized fiction to see these POV techniques in practice across different genres and narrative modes.\n\nWhat are the four types of point of view in fiction?\n\nFirst person uses “I” and locks readers into the narrator’s direct experience. Second person uses “you” and addresses the reader as protagonist.",
+  "token_estimate": 336
+}

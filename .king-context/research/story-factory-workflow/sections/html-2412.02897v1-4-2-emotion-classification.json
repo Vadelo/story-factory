@@ -1,0 +1,30 @@
+{
+  "title": "4.2 Emotion Classification",
+  "path": "html-2412.02897v1-4-2-emotion-classification",
+  "url": "https://arxiv.org/html/2412.02897v1",
+  "keywords": [
+    "MLD-EA",
+    "Plutchik’s model",
+    "emotion classification",
+    "Affected boolean",
+    "e(c,s)",
+    "character-affect detection",
+    "joy",
+    "anticipation",
+    "multi-label emotion categorization"
+  ],
+  "use_cases": [
+    "Use when categorizing character-specific emotional states based on textual sentence context",
+    "Implement when needing to filter unaffected characters from emotion analysis using boolean logic",
+    "Configure when mapping narrative events to late-stage psychological categories from the Plutchik model"
+  ],
+  "tags": [
+    "machine-learning",
+    "nlp",
+    "emotion-analysis",
+    "classification"
+  ],
+  "priority": 9,
+  "content": "The emotion classification module in the MLD-EA categorizes characters’ emotions based on given sentences. This classification is based on eight basic emotion types from Plutchik’s model Plutchik (2001) —joy, trust, fear, surprise, sadness, disgust, anger, and anticipation—plus an additional \"none\" category for cases where no emotion is detected.\n\nBefore classifying emotions, the model first checks whether each character $c$ in the list $C=\\{c_{1},c_{2},\\dots,c_{m}\\}$ is affected by the events described in each sentence $s$ . If the model determines that a character $c$ is not affected, the emotion for that character is classified as none. In addition to the emotion classification, the model also outputs whether or not each character is affected by the sentence.\n\nThe model’s output for each character $c$ includes the result of the ’affected’ and the emotion classification in (Affected, $e(c,s))$, where Affected is a boolean value indicating whether the character $c$ is affected by any event in the sentence $s$ and $e(c,s)$ represents the emotion associated with the character in sentence $s$ , where $e\\in\\{\\texttt{joy},\\texttt{trust},\\texttt{fear},\\texttt{surprise},\\texttt{% sadness},\\texttt{disgust},\\\\ \\texttt{anger},\\texttt{anticipation},\\texttt{none}\\}$ .",
+  "token_estimate": 228
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Other Successful Applications",
+  "path": "story-spine-other-successful-applications",
+  "url": "https://storytellingdb.com/story-spine/",
+  "keywords": [
+    "Story Spine",
+    "Story Skeleton",
+    "Once upon a time",
+    "Every day",
+    "Until one day",
+    "Because of that",
+    "Until finally",
+    "And ever since then",
+    "narrative structure",
+    "outlining process"
+  ],
+  "use_cases": [
+    "Use when developing a narrative arc for creative writing",
+    "Implement when outlining the primary plot points of a story",
+    "Configure when simplifying complex character journeys into a structured format",
+    "Use when teaching basic storytelling mechanics to new writers"
+  ],
+  "tags": [
+    "creative-writing",
+    "outlining",
+    "narrative-design",
+    "storytelling-framework"
+  ],
+  "priority": 9,
+  "content": "Beyond Pixar, countless successful stories follow this pattern:\n\nThe Lion King begins with Simba as a young cub (Once upon a time…), enjoying his royal status (Every day…), until Mufasa dies (Until one day…). Simba runs away, the Pride Lands fall into ruin, until finally, Simba returns to claim his throne. Ever since then, the Pride Lands prosper under his rule.\n\nHarry Potter starts with a boy living under the stairs, suffering mistreatment until one day he learns he’s a wizard. Because of that, he attends Hogwarts and discovers the truth about his parents and Voldemort. Ultimately, he defeats the dark lord, bringing peace to the wizarding world.\n\nStart your outlining process by filling in the seven Story Spine statements. This creates an instant story skeleton you can build upon:\n\n1. Fill in each of the seven Story Spine elements as simply as possible\n2. Add detail to each segment (characters, settings, specific plot points)\n3. Keep your outline visible while drafting to maintain focus\n\nThe Story Spine Template\n\n1. Once upon a time ___________________________\n\n2. Every day ___________________________\n\n3. Until one day ___________________________\n\n4. Because of that ___________________________\n\n5. Because of that ___________________________\n\n6. Until finally ___________________________\n\n7. And ever since then ___________________________",
+  "token_estimate": 271
+}

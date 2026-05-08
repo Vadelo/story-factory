@@ -1,0 +1,29 @@
+{
+  "title": "The Mental Model",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-mental-model",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Context Management",
+    "LLM Architecture",
+    "Mental Model",
+    "Convert Screenplay",
+    "Context Overflow",
+    "Layer Cake Pattern",
+    "Model Consistency",
+    "Context Categorization"
+  ],
+  "use_cases": [
+    "Use when designing data structures for Large Language Model prompts",
+    "Implement when architecture requires separating different types of input data",
+    "Configure when troubleshooting model confusion or performance degradation",
+    "Use when scaling a complex application feature like screenplay conversion"
+  ],
+  "tags": [
+    "conceptual-overview",
+    "best-practices",
+    "llm-integration"
+  ],
+  "priority": 10,
+  "content": "Before we write a single line of code, we need to redefine what “Context” actually means. In the world of LLMs, we often treat context like a bucket: you just pour everything in until it overflows.\n\nBut for complex apps, context isn’t a liquid, it’s a layer cake. Through building the Convert Screenplay feature, we realized that “context” actually breaks down into three distinct categories. If you mix them up, your model gets confused. If you manage them separately, you get consistency.\n\nHere is the mental model we use:",
+  "token_estimate": 118
+}

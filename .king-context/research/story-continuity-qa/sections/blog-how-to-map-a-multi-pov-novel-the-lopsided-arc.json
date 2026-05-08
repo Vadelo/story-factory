@@ -1,0 +1,30 @@
+{
+  "title": "The Lopsided Arc",
+  "path": "blog-how-to-map-a-multi-pov-novel-the-lopsided-arc",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "POV character",
+    "story real estate",
+    "narrative weight",
+    "structural imbalance",
+    "lopsided arc",
+    "multi-POV novels",
+    "event distribution",
+    "unintentional lopsidedness"
+  ],
+  "use_cases": [
+    "Use when auditing the distribution of scenes across multiple viewpoint characters",
+    "Configure when balancing the emotional and narrative weight of supporting cast members",
+    "Implement when intentionally creating a primary protagonist supported by secondary perspectives",
+    "Use when troubleshooting pacing issues caused by character scene inequality"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-development",
+    "pacing",
+    "storytelling-theory"
+  ],
+  "priority": 7,
+  "content": "One POV character has fifteen events on the map. Another has four. A third has seven. The distribution of story real estate across your characters is unequal in ways that distort the reader's experience.\n\nThis is not automatically a problem. Some multi-POV novels are deliberately lopsided: one character carries sixty percent of the narrative weight and the others provide context and counterpoint. Normal People is primarily Connell and Marianne, with no real supporting POVs. The Hours gives roughly equal weight to its three women, but even there, Laura Brown's sections carry a specific emotional weight the others do not.\n\nThe problem is unintentional lopsidedness. When you planned to give two characters equal weight but one of them is doing five times as much on the map, you have a structural imbalance that needs a deliberate fix.",
+  "token_estimate": 180
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Definition",
+  "path": "node-43.html-definition",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "computational narratology",
+    "algorithmic processes",
+    "computable representations",
+    "automatic story generation",
+    "narrative structure mining",
+    "cognitive computing",
+    "sociolinguistics",
+    "semiotics",
+    "Meister (2003)",
+    "Harrell (2007)",
+    "discourse narratology",
+    "formalisms"
+  ],
+  "use_cases": [
+    "Use when modeling narrative structures into formal, computable representations for software development.",
+    "Implement when developing artificial intelligence systems for automatic story generation or interpretation.",
+    "Configure when mining large text corpora to test literary or narratological hypotheses.",
+    "Use when integrating cognitive linguistics and semiotics into computational artwork or video games.",
+    "Implement when importing humanities-based narratological constructs into computational linguistics systems."
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "computational-linguistics",
+    "narrative-theory",
+    "data-mining",
+    "cognitive-science"
+  ],
+  "priority": 10,
+  "content": "Computational narratology is the study of narrative from the point of view of computation and information processing. It focuses on the algorithmic processes involved in creating and interpreting narratives, modeling narrative structure in terms of formal, computable representations. Its scope includes the approaches to storytelling in artificial intelligence systems and computer (and video) games, the automatic interpretation and generation of stories, and the exploration and testing of literary hypotheses through mining of narrative structure from corpora.\n\nThe use of the term ‘Computational Narratology’ covers several senses: (i) a ‘humanities narratology’ sense, used in Meister (2003) to designate a methodological instrument in the construction of narratological theories, from the standpoint of automatically extending narratological models to larger bodies of text, providing empirical testing of their predictions in actual corpora, and precise and consistent explication of concepts; (ii) a ‘cognitive computing’ sense, used as a title for a course (Goguen 2004) covering artefacts such as narrative texts, video games, and computational artworks, and integrating insights from semiotics, sociolinguistics and cognitive linguistics. Fox Harrell has characterized it further, as providing “techniques from computer science to provide a language to describe cognitive insights and to implement narrative effects of the type analyzed in discourse narratology” (Harrell 2007: 7); (iii) a ‘computational implementation of narratology’ sense (cf. Cavazza & Pizzi [2006] and many others), referring to the importation of constructs from humanities narratology for implementation in computer systems that carry out storytelling, along the lines of computational linguistics, where formalisms from linguistic theories are implemented in systems.",
+  "token_estimate": 335
+}

@@ -1,0 +1,33 @@
+{
+  "title": "How to Watch It's Lit!",
+  "path": "video-the-evolution-of-ya-nrwqnz-how-to-watch-it-s-lit",
+  "url": "https://www.pbs.org/video/the-evolution-of-ya-nrwqnz/",
+  "keywords": [
+    "PBS App",
+    "pbs.org",
+    "Smart TV integration",
+    "Single Sign-On (SSO)",
+    "Authentication",
+    "Member Stations",
+    "Google Login",
+    "Facebook Login",
+    "Apple ID Login",
+    "My List Management",
+    "Broadcast Schedules"
+  ],
+  "use_cases": [
+    "Use when identifying compatible streaming hardware and operating systems for the service.",
+    "Implement when providing users with third-party social authentication options during account creation.",
+    "Configure when managing user watchlists and personal content preferences.",
+    "Use when explaining data sharing policies between the platform and local member stations."
+  ],
+  "tags": [
+    "User Authentication",
+    "Platform Availability",
+    "Privacy & Policy",
+    "Content Delivery"
+  ],
+  "priority": 8,
+  "content": "It's Lit! is available to stream on pbs.org and the free PBS App, available on iPhone, Apple TV, Android TV, Android smartphones, Amazon Fire TV, Amazon Fire Tablet, Roku, Samsung Smart TV, LG TV, and Vizio.\n\n- Stream Here on PBS.org\n- Download the PBS App\n- Check Your Local Listings for Broadcast Schedules\n\nSupport for PBS provided by:\n\nMade possible in part by the National Endowment for the Humanities.\n\nSign in with Email\n\nNew to PBS? Create an account\n\nor\n\nContinue with GoogleContinue with FacebookContinue with Apple\n\nBy creating an account, you acknowledge that PBS may share your information with our member stations and our respective service providers, and that you have read and understand the Privacy Policy and Terms of Use.\n\nAre you sure you want to remove null from My List?\n\nRemoveCancel",
+  "token_estimate": 179
+}

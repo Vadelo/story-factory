@@ -1,0 +1,33 @@
+{
+  "title": "Architectural Foundations",
+  "path": "posts-lab-0-architectural-foundations",
+  "url": "https://kennethwolters.com/posts/lab-0/",
+  "keywords": [
+    "multi-layered sequential architecture",
+    "narrative structure theory",
+    "hierarchical state management",
+    "decoder-only transformers",
+    "autoregressive text generation",
+    "directional information flow",
+    "dramatic conflict",
+    "value change",
+    "atomic units",
+    "structural divisions"
+  ],
+  "use_cases": [
+    "Use when designing hierarchical narrative generation systems",
+    "Implement when state must be maintained across multiple abstraction layers",
+    "Configure when mapping dramatic structure to decoder-only transformer models",
+    "Use when requiring discrete units of action from macro-acts to micro-beats",
+    "Implement when textual output must be constrained by high-level narrative goals"
+  ],
+  "tags": [
+    "architecture",
+    "narrative-design",
+    "state-management",
+    "theoretical-framework"
+  ],
+  "priority": 10,
+  "content": "The system is built on a multi-layered sequential architecture that maps to narrative structure theory. Each layer maintains specialized state representing distinct narrative levels:\n\n```\nAct → Sequence → Scene → Beat → Line\n\n```\n\nUnlike conventional LLM text generation, this approach:\n\n1. Maintains hierarchical state outside model parameters\n2. Implements directional information flow between sequential layers\n3. Leverages the autoregressive nature of decoder-only transformers\n\nEach layer serves a specific narrative function:\n\nActs: Major structural divisions marking fundamental shifts in narrative terrain. Each act serves a distinct dramatic function (establishment, complication, resolution) while maintaining coherence with the controlling idea.\n\nSequences: Intermediate structures containing multiple scenes unified by a tactical objective. Sequences create momentum toward act-level goals while maintaining their own dramatic integrity. Most professional screenwriters consider 8-10 sequences the structural foundation of feature films.\n\nScenes: The fundamental battlegrounds of dramatic conflict. Each scene represents a discrete unit of dramatic action occurring in continuous time and space, containing a measurable value change (positive to negative or vice versa).\n\nBeats: Atomic units of dramatic action—the smallest divisible moments of meaning. Each beat represents a single action/reaction exchange or emotional shift that accumulates into scene-level change.\n\nLines: The actual textual elements—dialogue, action description, interior thought—that manifest the beat-level intentions in language. Word choice, syntax, and rhythm operate at this resolution.",
+  "token_estimate": 288
+}

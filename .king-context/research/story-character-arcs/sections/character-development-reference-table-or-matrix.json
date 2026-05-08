@@ -1,0 +1,32 @@
+{
+  "title": "Reference table or matrix",
+  "path": "character-development-reference-table-or-matrix",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "Growth arc",
+    "Flat/Steadfast arc",
+    "Corruption arc",
+    "Disillusionment arc",
+    "Protagonist",
+    "Antagonist",
+    "Threshold guardian",
+    "Character Belief",
+    "Misbelief",
+    "Dimensionality"
+  ],
+  "use_cases": [
+    "Use when mapping character transformations across a story's narrative structure",
+    "Implement when defining secondary character roles like foils or mentors to support the protagonist",
+    "Configure when establishing the thematic shift from naivety to negative truth in disillusionment arcs",
+    "Use when benchmarking character archetypes against classic literary examples"
+  ],
+  "tags": [
+    "character-development",
+    "story-architecture",
+    "literary-theory",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "| Arc Type | Character Belief at Start | Character Belief at End | Classic Example |\n| --- | --- | --- | --- |\n| Growth arc | Misbelief constrains behavior | Misbelief abandoned, flaw healed | Ebenezer Scrooge, A Christmas Carol |\n| Fall arc | Misbelief partially held | Misbelief entrenched, flaw fatal | Macbeth, Macbeth |\n| Flat/Steadfast arc | Core truth held correctly | Core truth affirmed despite pressure | Atticus Finch, To Kill a Mockingbird |\n| Corruption arc | Neutral or positive belief | Belief actively corrupted by choice | Walter White, Breaking Bad |\n| Disillusionment arc | Positive misbelief (naivety) | Negative truth accepted | Nick Carraway, The Great Gatsby |\n\n| Character Type | Dimensionality | Primary Function | Typical Arc |\n| --- | --- | --- | --- |\n| Protagonist | Round | Drive central conflict | Growth, fall, or flat |\n| Antagonist | Round or flat | Oppose protagonist's goal | Fall or none |\n| Foil | Flat | Illuminate protagonist by contrast | None |\n| Mentor | Flat or round | Provide knowledge, die usefully | Often sacrificial |\n| Threshold guardian | Flat | Test protagonist's resolve | None |\n\nWriters looking to extend this work into specific genres will find world-building and theme and symbolism address the structural contexts that give character development its full meaning. The broader landscape of craft resources — including exercises, form-specific guidance, and practitioner communities — is catalogued at creativewritingauthority.com.\n\n---\n\n- National Endowment for the Arts\n- U.S. Copyright Office\n- Library of Congress\n- Smithsonian American Art Museum\n\nFiction Writing: Novels, Short Stories, and BeyondANA › Life Services Authority › Creative Writing Authority Fiction Writing: Novels, Short Stories, and Beyond Fiction writing...\n\nCreative Nonfiction: Memoir, Essays, and Personal NarrativeANA › Life Services Authority › Creative Writing Authority Creative Nonfiction: Memoir, Essays, and Personal Narrative...\n\nScreenwriting: Writing for Film and TelevisionANA › Life Services Authority › Creative Writing Authority Screenwriting: Writing for Film and Television Screenwriting is the...",
+  "token_estimate": 458
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Memory System (NovelAI-Inspired)",
+  "path": "jonmartin721-living-story-world-memory-system-novelai-inspired",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "Context Layering",
+    "Server-Sent Events",
+    "SSE",
+    "JSON persistence",
+    "FastAPI",
+    "Entity Context",
+    "Preset System Directive",
+    "Author's Note",
+    "Multi-provider support",
+    "Textual",
+    "PyWebView"
+  ],
+  "use_cases": [
+    "Use when building complex narrative contexts using tiered injection priority",
+    "Implement when real-time unidirectional streaming is required without WebSocket overhead",
+    "Configure when multiple LLM providers like Groq, Together AI, or Gemini need to be compared",
+    "Use when a human-readable, dependency-light document store is preferred over a database",
+    "Implement when creating cross-platform interfaces across CLI, TUI, and desktop-wrapped web views"
+  ],
+  "tags": [
+    "Architecture",
+    "Context Management",
+    "API Reference",
+    "UI/UX"
+  ],
+  "priority": 10,
+  "content": "Context is built via layered injection:\n\n1. **Memory** (always included) - World lore, background, key facts\n2. **Author's Note** (inserted at strategic point) - Style guidance, tone directives\n3. **World Instructions** - Custom world-specific rules\n4. **Preset System Directive** - Genre-specific generation guidance\n5. **Chapter History** - Recent chapter summaries for continuity\n6. **Entity Context** - Active characters and locations in scene\n\nThis gives you control over different \"levels\" of context like NovelAI's lorebooks, but simpler.\n\n---\n\nSimpler server implementation and automatic reconnect handling. Generation is unidirectional (server → client), so WebSockets would be overkill. SSE gives you real-time updates without the complexity of bidirectional channels.\n\nJSON persistence keeps the project dependency-light and makes the world files human-readable. For a narrative tool, being able to `cat world.json` and see your entity graph is genuinely useful for debugging. Also avoids the overhead of an ORM for what's essentially a document store.\n\nI wanted to build three interfaces (CLI, TUI, web) from one backend. FastAPI's async support made SSE easy, Textual handles the terminal UI, and PyWebView wraps the web interface for a \"desktop app\" feel without Electron bloat.\n\nVendor lock-in sucks. Also, different providers have different strengths—Groq is blazingly fast, Together AI has open models, Gemini has a generous free tier. Being able to compare outputs side-by-side is valuable.\n\n---",
+  "token_estimate": 291
+}

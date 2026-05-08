@@ -1,0 +1,32 @@
+{
+  "title": "4. Visual Timeline View (3 Viewing Modes)",
+  "path": "features-4-visual-timeline-view-3-viewing-modes",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Story Timeline",
+    "Historical Timeline",
+    "Combined View",
+    "Smart Filtering",
+    "narrative threads",
+    "cross-references",
+    "character badges",
+    "scene cards",
+    "non-linear narratives",
+    "multi-book arcs"
+  ],
+  "use_cases": [
+    "Use when visualizing narrative events alongside worldbuilding backstory",
+    "Configure when tracking individual character arcs across multiple acts",
+    "Implement when identifying pacing issues or character distribution imbalances",
+    "Use when planning complex non-linear structures or series-level timelines"
+  ],
+  "tags": [
+    "visualization",
+    "narrative-planning",
+    "feature-guide",
+    "data-filtering"
+  ],
+  "priority": 9,
+  "content": "See your entire story chronologically with filtering and visualization.\n\nVisualize your complete narrative timeline. Three viewing modes let you see story events, historical background, or both together. Filter by act or character to focus on specific narrative threads. Perfect for complex plots with multiple timelines.\n\n#### 3 Timeline Modes\n\n- Story Timeline: All scenes from your outline in chronological order\n- Historical Timeline: Worldbuilding history events and backstory\n- Combined View: See how backstory relates to current events\n\n#### Smart Filtering\n\n- Filter by act to focus on specific story sections\n- Filter by character to track individual arcs\n- Combine filters for precise narrative analysis\n- Summary statistics show scene count and character involvement\n\n#### Visual Design\n\n- Vertical timeline with color-coded dots\n- Purple for story events, blue for history\n- Scene cards show title, description, and cross-references\n- Character and location badges for quick scanning\n\n#### Writer Benefits\n\n- Spot pacing issues before drafting\n- Ensure even character distribution across acts\n- Perfect for non-linear narratives and flashbacks\n- Ideal for series planning and multi-book arcs\n- Great for historical fiction and epic fantasy\n\n🆕 NEW FEATURE",
+  "token_estimate": 252
+}

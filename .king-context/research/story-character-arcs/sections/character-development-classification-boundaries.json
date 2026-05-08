@@ -1,0 +1,32 @@
+{
+  "title": "Classification boundaries",
+  "path": "character-development-classification-boundaries",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "Protagonist",
+    "Antagonist",
+    "Foil",
+    "Round characters",
+    "Flat characters",
+    "Stock characters",
+    "Narrative theory",
+    "E.M. Forster",
+    "Dimensionality",
+    "Aspects of the Novel"
+  ],
+  "use_cases": [
+    "Use when defining a character's mechanical role within the plot structure",
+    "Implement when selecting the appropriate level of complexity for secondary or tertiary characters",
+    "Configure when creating high-contrast relationships between characters to illuminate traits",
+    "Use when evaluating whether a character's archetype meets the structural needs of a specific genre"
+  ],
+  "tags": [
+    "structural-analysis",
+    "literary-theory",
+    "character-design",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "Characters in narrative theory are typically classified along 2 axes: function and dimensionality.\n\nBy function: - Protagonist — the central consciousness, whose desire drives the main plot - Antagonist — the force (human, institutional, or internal) opposing the protagonist's goal - Supporting characters — those who complicate, assist, challenge, or reveal the protagonist - Foil — a character whose contrast illuminates the protagonist's traits by difference\n\nBy dimensionality: - Round characters (E.M. Forster's term, from Aspects of the Novel, 1927) — complex, contradictory, capable of surprising the reader - Flat characters — defined by a single dominant trait, useful for satire, comedy, and genre efficiency - Stock characters — archetypal figures that carry cultural shorthand (the wise mentor, the lovable rogue)\n\nThe important boundary: flatness is not automatically a failure. Genre fiction, comedy, and allegory often require flat or stock characters for structural reasons. A thriller's nameless assassin doesn't need an interior life. A Dickensian grotesque is supposed to be exaggerated. Flatness becomes a problem when the story demands dimensionality and the writer substitutes archetype instead.\n\n---",
+  "token_estimate": 235
+}

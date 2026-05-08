@@ -1,0 +1,32 @@
+{
+  "title": "Common Mistakes When Using Frameworks",
+  "path": "blog-how-to-write-story-proven-storytelling-frameworks-common-mistakes-when-using-frameworks",
+  "url": "https://storyflow.so/blog/how-to-write-story-proven-storytelling-frameworks",
+  "keywords": [
+    "structural frameworks",
+    "Hero's Journey",
+    "Three-Act Structure",
+    "emotional arc",
+    "plot points",
+    "Mentor character",
+    "Catalyst",
+    "Midpoint",
+    "All Is Lost moment",
+    "storytelling templates"
+  ],
+  "use_cases": [
+    "Use when deciding between simple or complex structural templates",
+    "Implement when checking if story beats align with reader resonance",
+    "Configure when adapting rigid frameworks to unique narrative needs",
+    "Use when analyzing external media to understand structural application"
+  ],
+  "tags": [
+    "narrative-design",
+    "best-practices",
+    "troubleshooting",
+    "structural-theory"
+  ],
+  "priority": 7,
+  "content": "Mistake 1: Following the framework too rigidly\n\nFrameworks are guides, not rules. Some stories skip stages. Others combine them. If your story works without a traditional \"Mentor\" character, don't force one in. Trust your instincts when something feels artificial.\n\nMistake 2: Choosing complexity over clarity\n\nBeginners often pick the Hero's Journey when Three-Act would work better. Start simple. Add complexity only when the simple version isn't working. You can always layer in more detail later.\n\nMistake 3: Forgetting the emotional arc\n\nFrameworks map plot points, but readers connect to emotions. Each beat should create a specific feeling. The \"All Is Lost\" moment needs to feel devastating, not just check a box.\n\nMistake 4: Not studying how others use the framework\n\nWatch your favorite films with the framework in mind. Where's the Catalyst? Where's the Midpoint? Seeing frameworks in action teaches you more than reading about them.",
+  "token_estimate": 194
+}

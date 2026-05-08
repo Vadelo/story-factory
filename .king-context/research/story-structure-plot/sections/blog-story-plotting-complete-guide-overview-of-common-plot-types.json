@@ -1,0 +1,34 @@
+{
+  "title": "Overview of common plot types",
+  "path": "blog-story-plotting-complete-guide-overview-of-common-plot-types",
+  "url": "https://www.nownovel.com/blog/story-plotting-complete-guide/",
+  "keywords": [
+    "episodic plot",
+    "self-contained sequences",
+    "character continuity",
+    "story universe",
+    "theme consistency",
+    "dramatic plot",
+    "climactic plot",
+    "primary conflict resolution",
+    "plot archetypes",
+    "mythic archetypes"
+  ],
+  "use_cases": [
+    "Use when structuring a TV series with self-contained episodes that share characters.",
+    "Implement when creating an adventure series where each episode is set in a new location.",
+    "Configure when designing a mystery show focused on solving separate crimes within a consistent theme.",
+    "Use when planning a dramatic story arc that builds toward a single climactic resolution.",
+    "Apply when drawing from mythic archetypes to craft modern tales."
+  ],
+  "tags": [
+    "story structure",
+    "plot design",
+    "genre conventions",
+    "storytelling",
+    "writing"
+  ],
+  "priority": 10,
+  "content": "#### Episodic plots\n\nEpisodic storytelling is one of the most common types of plot in TV and film.\n\nIn episodic plots, self-contained sequences of events may connect to other episodes because the events:\n\n- Feature the same characters as other episodes (for example, the books and films in Ian Fleming's James Bond series)\n- Unfold in the same story setting or universe as other episodes\n- Explore similar themes to other episodes (for example, in a cozy mystery series like Murder, She Wrote, each episode revolves around the solving of an unexplained disappearance, death or other mystery)\n\nGenres that often feature episodic plots include action, mystery and adventure (for example in Homer's Odyssey, in which the titular hero Odysseus has many adventures, each recounted as separate episodes in different locations).\n\n#### Dramatic or climactic plots\n\nDramatic or climactic plots, compared to episodic formats, typically focus on a single main event.\n\nThey typically build towards the resolution of a primary conflict or unknown, rather than having mini episodic story arcs, each with their own build-up and resolution.\n\nIn a story cycle such as Tolkien's Lord of the Rings cycle, for example, the storyline revolves around the core conflict - the threat of Sauron's return to power, and the necessity of destroying the One Ring to prevent this (though many subplots unfold, most serve this one, overarching goal).\n\n#### Plot archetypes in storytelling\n\nIn fiction writing, there are plot archetypes that recur and are recycled across time. Myths, legends and folk tales acquire new life in modern stories that draw on age-old archetypes.",
+  "token_estimate": 347
+}

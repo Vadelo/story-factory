@@ -1,0 +1,35 @@
+{
+  "title": "I Introduction",
+  "path": "html-2503.23512v5-i-introduction",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "SCORE",
+    "Retrieval-Augmented Generation",
+    "RAG",
+    "long-form narratives",
+    "episode-level summaries",
+    "sentiment analysis",
+    "similarity-based retrieval",
+    "narrative coherence",
+    "character development",
+    "memory mechanisms",
+    "logical tracking",
+    "GPT model"
+  ],
+  "use_cases": [
+    "Use when evaluating character consistency and emotional depth in AI-generated novels",
+    "Implement when detecting continuity errors or narrative inconsistencies in long texts",
+    "Configure when integrating memory mechanisms for LLM-based narrative agents",
+    "Use when applying Retrieval-Augmented Generation to maintain logical plot states",
+    "Implement when simulating human-like behavior with key item and state tracking"
+  ],
+  "tags": [
+    "narrative-generation",
+    "evaluation-framework",
+    "llm-architecture",
+    "rag"
+  ],
+  "priority": 10,
+  "content": "Deep learning has transformed multiple domains including NLP, time series analysis and computer vision [3, 4, 5, 6, 7, 8]. Large Language Models (LLMs) have demonstrated significant capabilities in generating long-form narratives, such as serialized stories or novels, by leveraging large-scale architectures and vast amounts of training data [9]. However, maintaining narrative consistency over extended texts, especially in terms of character development and emotional coherence, remains a major challenge [10]. For instance, [11] pointed out that achieving thematic consistency and managing dynamic plot states is crucial for maintaining the logical flow of a story. In practice, LLMs often struggle with inconsistencies when characters or key plot items reappear without proper explanation, disrupting the overall narrative structure.\n\nSimilarly, [12] highlight the difficulties in managing multimodal elements within long-form narratives, noting that inconsistencies in character behavior or emotional tone can negatively impact reader engagement. These challenges indicate a need for more structured approaches in narrative generation that can better manage character arcs, plot developments, and emotional progression throughout the story.\n\nIn addition, recent works have highlighted the importance of memory mechanisms in LLM-based agents. [13] conducted a comprehensive survey on these mechanisms, identifying effective memory designs that help mitigate inconsistencies in narrative development—a challenge common to both interactive agents and narrative generation tasks. Additionally, [14] introduced generative agents that simulate human-like behavior using memory modules. These agents track the state of a wide array of interactable objects in a sandbox environment, ensuring consistent reasoning and enabling the smooth functioning of a simulated society. These researches inspired the design of our new framework.\n\nIn this work, we build upon recent advancements in Retrieval-Augmented Generation (RAG) [15], which dynamically incorporates relevant context to enhance narrative coherence. Expanding on these developments, we propose SCORE, a framework designed to evaluate three critical aspects of long-form narrative generation: character consistency, emotional coherence, and logical tracking of key plot elements. Our key contributions are:\n\n•\n\nWe introduce SCORE, an LLM-based evaluation framework that detects narrative inconsistencies in AI-generated stories.\n\n•\n\nWe incorporate a Retrieval-Augmented Generation (RAG) approach, utilizing episode-level summaries and key item tracking to improve narrative coherence.\n\n•\n\nWe demonstrate enhanced story consistency and emotional depth by integrating sentiment analysis and similarity-based episode retrieval.\n\n•\n\nWe outperform baseline GPT model [16] in detecting continuity errors and maintaining overall narrative coherence.",
+  "token_estimate": 509
+}

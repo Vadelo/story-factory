@@ -1,0 +1,33 @@
+{
+  "title": "",
+  "path": "narrative-first-narrative-context-protocol-blob-main-AGENTS.md-content",
+  "url": "https://github.com/narrative-first/narrative-context-protocol/blob/main/AGENTS.md",
+  "keywords": [
+    "Dramatica storyform",
+    "Narrative Context Protocol (NCP)",
+    "ncp-schema.json",
+    "ncp-schema.yaml",
+    "ajv",
+    "validate-schema.js",
+    "snake_case",
+    "authorial intent",
+    "JSON schema validation",
+    "YAML-JSON synchronization"
+  ],
+  "use_cases": [
+    "Configure when setting up a local development environment with Node 18+ and AJV for schema validation",
+    "Implement when extending the core Narrative Context Protocol schema with new fields while maintaining YAML/JSON parity",
+    "Use when validating custom story examples against the standardized NCP reference schema",
+    "Use when submitting a pull request to ensure adherence to naming conventions and commit style",
+    "Configure when adding automated test scripts to guard against breaking changes in narrative agents"
+  ],
+  "tags": [
+    "configuration",
+    "standards",
+    "testing",
+    "schema-definition"
+  ],
+  "priority": 8,
+  "content": "# File: narrative-first/narrative-context-protocol/AGENTS.md\n\n- Repository: narrative-first/narrative-context-protocol | A standardized, application-agnostic narrative structure schema designed for reliably transporting authorial intent across multi-agentic narrative systems. | 60 stars | JavaScript\n- Branch: main\n\n```md\n# Repository Guidelines\n\nThis repository is the open-source Dramatica storyform (Narrative Context Protocol) intended for capturing and preserving authorial intent across mediums. It is not a standalone app—treat it as the reference schema and examples for anyone building tools on top of NCP.\n\n## Project Structure & Module Organization\n- Core schema lives in `schema/ncp-schema.json` with a YAML twin in `schema/ncp-schema.yaml`. Keep both in sync when making changes.\n- Examples used for validation are in `examples/` (e.g., `example-story.json`, `example-mapping.json`).\n- Formal reference docs sit in `SPECIFICATION.md` and `docs/`, with terminology notes under `docs/terminology/`.\n- Lightweight automated checks reside in `tests/`; update or add scripts there when extending coverage.\n\n## Build, Test, and Development Commands\n- Install runtime deps locally (Node 18+ recommended): `npm install ajv` (or `pnpm add ajv`) before running tests.\n- Validate examples against the schema: ensure `tests/validate-schema.js` points to `schema/ncp-schema.json`, then run `node tests/validate-schema.js`.\n- When adding a new validation script, prefer Node-based runners kept in `tests/` and commit them alongside any new fixtures.\n\n## Coding Style & Naming Conventions\n- JSON/YAML: 4-space indentation, no tabs; keep keys in snake_case to align with current schema fields.\n- File naming: use hyphenated lowercase for documents (`example-story.json`) and numeric prefixes for ordered docs (`docs/terminology/01.perspectives.md`).\n- Schema updates should mirror between JSON and YAML; regenerate both before committing.\n- Write concise descriptions inside schema entries; avoid schema-breaking renames unless documented in `HISTORY.md`.\n\n## Testing Guidelines\n- Add a representative sample under `examples/` whenever you extend the schema; wire it into a validation script in `tests/`.\n- For breaking or optional fields, include both positive and negative cases to guard intent.\n- Capture validation output in your PR description (e.g., `node tests/validate-schema.js` → “Narrative JSON is valid!”).\n\n## Commit & Pull Request Guidelines\n- Follow the repo’s short, action-first commit style (e.g., `fix: ...`, `updates: ...`). Keep one concern per commit.\n- PRs should summarize the change scope, link any relevant sections of `SPECIFICATION.md`, and note validation results. Attach updated examples or screenshots of docs when helpful.\n- Call out backward-incompatible schema changes clearly and update `HISTORY.md` with a brief rationale.\n\n```",
+  "token_estimate": 509
+}

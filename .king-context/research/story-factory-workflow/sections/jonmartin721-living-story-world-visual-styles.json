@@ -1,0 +1,33 @@
+{
+  "title": "Visual Styles",
+  "path": "jonmartin721-living-story-world-visual-styles",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "storybook-ink",
+    "pixel-rpg",
+    "lowpoly-iso",
+    "watercolor-dream",
+    "noir-sketch",
+    "art-nouveau",
+    "comic-book",
+    "oil-painting",
+    "base prompt",
+    "negative prompt",
+    "style modifiers"
+  ],
+  "use_cases": [
+    "Use when applying specific artistic aesthetics to AI-generated images",
+    "Configure when consistent visual output is required across multiple generations",
+    "Implement when creating assets for 16-bit JRPG themes or isometric scenes",
+    "Use when overriding default generation settings with pre-defined style packs"
+  ],
+  "tags": [
+    "visual-styles",
+    "image-generation",
+    "configuration",
+    "ui-design"
+  ],
+  "priority": 9,
+  "content": "These affect how generated images look to a very high degree.\n\nAvailable illustration styles:\n\n- `storybook-ink` - Ink and wash illustrations with subtle color accents\n- `pixel-rpg` - 16-bit pixel art style (classic JRPG aesthetic)\n- `lowpoly-iso` - Isometric low-poly scenes\n- `watercolor-dream` - Soft watercolor paintings with bleeding edges\n- `noir-sketch` - High contrast ink drawings (black and white)\n- `art-nouveau` - Art Nouveau poster style with flowing lines\n- `comic-book` - Classic comic book look with halftone dots\n- `oil-painting` - Classical oil paintings with visible brushstrokes\n\nEach style pack includes base prompt, negative prompt, and style modifiers for consistent output.\n\n---",
+  "token_estimate": 138
+}

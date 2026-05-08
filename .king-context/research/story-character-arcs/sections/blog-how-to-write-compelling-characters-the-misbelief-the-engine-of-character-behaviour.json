@@ -1,0 +1,32 @@
+{
+  "title": "The Misbelief: The Engine of Character Behaviour",
+  "path": "blog-how-to-write-compelling-characters-the-misbelief-the-engine-of-character-behaviour",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "misbelief",
+    "character flaw",
+    "internal logic",
+    "wound",
+    "dramatic irony",
+    "psychological path",
+    "character behaviour",
+    "visceral truth",
+    "scene interpretation",
+    "narrative arc"
+  ],
+  "use_cases": [
+    "Use when establishing the psychological motivation behind a character's negative traits",
+    "Implement when constructing a character's backstory to ensure a logical bridge between trauma and belief",
+    "Configure when designing scenes to create dramatic irony between the reader's perspective and the character's lens",
+    "Use when attempting to generate empathy for an otherwise unlikeable or flawed protagonist"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-theory",
+    "psychology",
+    "storytelling-fundamentals"
+  ],
+  "priority": 10,
+  "content": "The misbelief is the false conclusion the wound produced — what the character believes about themselves or the world that isn't true, but that feels completely and viscerally true to them because it was formed from real experience.\n\nThis distinction matters: the misbelief must be internally logical. A character whose wound was public humiliation and whose misbelief is \"I am fundamentally unworthy of respect\" follows a plausible psychological path from experience to conclusion. A character whose wound was public humiliation and whose misbelief is \"all buildings are dangerous\" does not. Readers sense the arbitrariness of the second and disengage.\n\nMisbelief vs character flaw:\n\nA character flaw is a trait — arrogance, cowardice, cruelty. A misbelief is the belief that drives the flaw. Arrogance often stems from a misbelief like \"I must prove my superiority because otherwise the people who treated me as inferior were right.\" Understanding the misbelief explains the flaw rather than labelling it — and that understanding produces empathy for a character who might otherwise be simply unlikeable.\n\nThe misbelief operates in every significant scene. It's the lens through which the character interprets events. It's the reason they misread situations that readers can see clearly. It's why they make decisions that produce the opposite of what they actually need. In a well-constructed story, the reader is frequently a step ahead of the character — they can see the misbelief operating — which creates dramatic irony and sustained investment.",
+  "token_estimate": 319
+}

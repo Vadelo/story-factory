@@ -1,0 +1,31 @@
+{
+  "title": "3.1Experimental setup",
+  "path": "html-2312.17296v2-3-1experimental-setup",
+  "url": "https://arxiv.org/html/2312.17296v2",
+  "keywords": [
+    "RedPajama mixture",
+    "Focused Transformer",
+    "FoT objective",
+    "context size extension",
+    "long-context perplexity scaling",
+    "270M model architecture",
+    "pre-training protocol",
+    "32K context length",
+    "input data organization"
+  ],
+  "use_cases": [
+    "Use when extending the context window of a pre-trained language model from 2K to 32K tokens",
+    "Implement when training small-scale models (270M) to evaluate data organization strategies",
+    "Configure when balancing original training data with long-context datasets during secondary pre-training",
+    "Use when applying the Focused Transformer (FoT) objective to improve long-range dependencies"
+  ],
+  "tags": [
+    "model-training",
+    "long-context",
+    "neural-architectures",
+    "experimental-setup"
+  ],
+  "priority": 8,
+  "content": "To investigate the impact of input data organization on enabling language models to leverage extended context, we employ270270270270M models following a specific protocol. Initially, we pre-train a270270270270M model on6.36.36.36.3B tokens from the original RedPajama mixture> (TogetherComputer, [> 2023\n](#bib.bib33)> )\n, using a context size of2222K. Subsequently, we continue pretraining this model on1111B tokens with an extended context length of32323232K, employing the Focused Transformer (FoT) objective> Tworkowski et al. (\n[> 2023\n](#bib.bib35)> )\n, on a balanced mixture of the original RedPajama data> (TogetherComputer, [> 2023\n](#bib.bib33)> )\nand long-context data assembled using the specified method. This approach is driven by practical factors: training with a shorter context expedites the process, and as demonstrated by> (Chen et al., [> 2023\n](#bib.bib7)> ; Tworkowski et al., [> 2023\n](#bib.bib35)> )\n, the model training can be continued on longer documents from the original data source while maintaining the desired long-context perplexity scaling. During the long-context pretraining phase, only the latter half of the mixture is altered, retaining the original RedPajama portion intact. This",
+  "token_estimate": 230
+}

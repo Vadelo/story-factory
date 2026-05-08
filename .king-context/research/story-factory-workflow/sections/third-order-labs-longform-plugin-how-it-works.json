@@ -1,0 +1,35 @@
+{
+  "title": "How It Works",
+  "path": "third-order-labs-longform-plugin-how-it-works",
+  "url": "https://github.com/third-order-labs/longform-plugin",
+  "keywords": [
+    "/start-project",
+    "/plan-chapter",
+    "/write-chapter",
+    "/review",
+    "/wrap",
+    "/voice-session",
+    "AGENTS.md",
+    "foreshadowing seeds",
+    "continuity records",
+    "thread tracking",
+    "longform plugin",
+    "authorial consciousness"
+  ],
+  "use_cases": [
+    "Use when starting a new fiction project to scaffold directory structures and character profiles",
+    "Implement when needing to maintain narrative continuity across manuscripts exceeding 100k words",
+    "Configure when capturing specific authorial or character voices to ensure stylistic consistency",
+    "Use when automating updates to scene logs and glossaries during the drafting process",
+    "Execute when performing audit checks for narrative contradictions or unresolved plot threads"
+  ],
+  "tags": [
+    "creative-writing",
+    "content-generation",
+    "project-lifecycle",
+    "workflow-automation"
+  ],
+  "priority": 10,
+  "content": "Long-form fiction breaks without external memory. An AI agent can't hold an entire novel in context simultaneously, so structured documents become the memory system. This plugin implements a workflow loop proven across 116k words of published fiction:\n\n**Plan → Draft → Log → Verify → Repeat**\n\nEvery chapter gets an outline before drafting. Every draft triggers automatic updates to scene logs, continuity records, glossary, thread tracking, and foreshadowing checklists. The documents grow with the manuscript, not before it.\n\n```\nclaude plugins add longform\n```\n\n```\nclaude plugins add longform\n```\n\n```\n/start-project\n```\n\nThis walks you through defining your concept — pitch, characters, world, tone, scope — and scaffolds the full document structure. It's a conversation, not a questionnaire.\n\n```\n/plan-chapter\n```\n\nCreates a detailed outline with scene breakdowns, lived-in targets, thread assignments, and foreshadowing seeds.\n\n```\n/write-chapter\n```\n\nDrafts the chapter, then automatically updates all tracking documents — scene log, continuity, glossary, threads, foreshadowing.\n\n```\n/review\n```\n\nAudits continuity, thread health, foreshadowing status, and glossary consistency. Catches drift before it becomes a problem.\n\n```\n/wrap\n```\n\nSummarizes progress, verifies all documents are current, and previews the next session's work.\n\nInteractive project setup. Walks through defining your concept and scaffolds the full document structure: pitch, north-star, world, characters, outline, tracking docs, style guide, AGENTS.md, and directory structure.\n\n```\n/start-project\n/start-project \"noir detective novel set in 1940s LA\"\n```\n\nCreates a detailed chapter outline before drafting. Checks thread health, foreshadowing needs, and recent scene log for context. Produces a spec the agent can execute against.\n\n```\n/plan-chapter\n/plan-chapter next\n/plan-chapter 12\n/plan-chapter \"The Crossing\"\n```\n\nThe core workflow loop. Drafts from the outline, then automatically updates scene log, continuity, glossary, threads, and foreshadowing checklist. Reports what was written and what was updated.\n\n```\n/write-chapter\n/write-chapter next\n/write-chapter 12\n```\n\nHealth check across all tracking documents. Scans for continuity contradictions, stale threads, unplanted foreshadowing seeds, scene log gaps, and glossary inconsistencies. Produces a severity-ranked report.\n\n```\n/review                    # Full audit\n/review recent             # Last 5 chapters\n/review threads            # Thread health only\n/review continuity         # Continuity check only\n```\n\nClean session boundary. Verifies all living documents are current, summarizes what was accomplished, flags documents needing attention, and previews the next session's work.\n\n```\n/wrap\n```\n\nConversational voice capture session. Produces the authorial consciousness layer — what makes this novel sound like it was written by one mind. Two modes: full session for the narrator's worldview, or character-focused session for individual POV character profiles.\n\n```\n/voice-session\n/voice-session character \"Elena\"\n```",
+  "token_estimate": 554
+}

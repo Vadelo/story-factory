@@ -1,0 +1,37 @@
+{
+  "title": "Features",
+  "path": "zaphodsdad-GhostWriter3000-features",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "Critique-revision loop",
+    "YAML frontmatter",
+    "OpenRouter",
+    "MCP tools",
+    "Staleness detection",
+    "DeepSeek",
+    "Claude",
+    "BYOK",
+    "Causal chains",
+    "Structured outline import",
+    "Series memory layer",
+    "LLM contradiction detection"
+  ],
+  "use_cases": [
+    "Use when importing existing manuscripts in .docx, .txt, or .md formats for structured editing",
+    "Configure when managing long-form narrative consistency using memory layers and causal chains",
+    "Implement when setting up automated character extraction from prose using metadata extraction",
+    "Use when optimizing generation costs by switching between OpenRouter models like DeepSeek and Claude",
+    "Configure when requiring style alignment through fine-tuned per-series style guides and tone examples",
+    "Implement when building complex workflows requiring MCP tool integration across multiple modules"
+  ],
+  "tags": [
+    "Product Overview",
+    "AI Models",
+    "Asset Management",
+    "Workflow",
+    "Data Portability"
+  ],
+  "priority": 10,
+  "content": "| Category | What |\n| --- | --- |\n| **Generation** | Critique-revision loop, polish mode, evaluate-only, batch queue, floating inline revision bubble |\n| **Structure** | Acts, chapters, scenes with beats. Manual creation or auto-generated outlines |\n| **Import** | Manuscript import (.docx/.txt/.md), structured outline import with full metadata extraction |\n\n![Structured outline import](docs/screenshots/outline-import.png)\n![Create a new book](docs/screenshots/create-book.png)\n| **Characters** | Markdown + YAML frontmatter, portrait support, bulk import, chapter-by-chapter extraction from existing prose |\n| **World** | World context files, automatic extraction, location/magic/politics/creature categorization |\n| **Memory** | Series memory layer, causal chains, decay, staleness detection, tiered summaries |\n| **Continuity** | Cross-scene summaries, LLM contradiction detection, series-level knowledge |\n| **Style** | Style learning from edits, per-series style guides, reference library for tone/voice examples |\n| **Models** | 300+ models via OpenRouter with live pricing. DeepSeek for cost, Claude for quality. BYOK |\n| **Backup** | Auto-backup before destructive ops, scene version history, project snapshots, full data export |\n| **UI** | Dark/light themes, generation queue with review panel, word count goals, credit alerts |\n| **MCP** | 74 MCP tools across 10 modules (see below) |",
+  "token_estimate": 254
+}

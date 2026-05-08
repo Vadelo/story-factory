@@ -1,0 +1,36 @@
+{
+  "title": "How It Works",
+  "path": "blog-2026-02-23-ai-writing-continuity-how-it-works",
+  "url": "https://docs.bswen.com/blog/2026-02-23-ai-writing-continuity",
+  "keywords": [
+    "grep",
+    "git",
+    "Claude Code",
+    "pattern recognition",
+    "version control",
+    "systematic cross-referencing",
+    "automated continuity checking",
+    "parallel agents",
+    "Galleys system",
+    "continuity errors",
+    "programmatic consistency checks",
+    "LLM writing patterns"
+  ],
+  "use_cases": [
+    "Use when treating a manuscript as a codebase to apply software engineering principles to writing",
+    "Implement when needing to detect repetitive AI-generated language patterns using regex and grep",
+    "Configure when version controlling novel chapters to track changes and roll back problematic edits",
+    "Use when scaling long-form AI writing to ensure timeline and character consistency across 100k+ words",
+    "Implement when transitioning from manual spreadsheets to automated continuity testing"
+  ],
+  "tags": [
+    "workflow",
+    "automation",
+    "version-control",
+    "quality-assurance",
+    "ai-writing"
+  ],
+  "priority": 9,
+  "content": "The key insight is treating your manuscript like a codebase. I use Claude Code for grep operations and programmatic consistency checks.\n\nHere’s a practical example using pattern recognition:\n\n```\n# Find repetitive LLM patterns in the manuscriptgrep -E \"(He looked at her|She looked at him|The room was small)\" chapters/ --include=\"*.md\" -c | sort -nr\n```\n\nWhen I run this:\n\n```\n$ grep -E \"(He looked at her|She looked at him|The room was small)\" chapters/ --include=\"*.md\" -c | sort -nrchapters/032.md:15chapters/087.md:12chapters/156.md:10\n```\n\nI get patterns that reveal repetitive AI writing behavior. These patterns aren’t immediately obvious but degrade reader experience over time.\n\nI treat my novel development like software engineering:\n\n```\n# Version control all manuscript changesgit add chapters/git commit -m \"Update chapter 237: fight scene refinement\"# Branch for continuity fixesgit checkout -b fix-elenas-eye-color\n```\n\nThis approach lets me:\n\n- Track changes systematically\n- Roll back problematic chapters\n- Use parallel agents for batch processing\n- Implement automated testing for continuity\n\nI tried manual tracking first:\n\n- Spreadsheets with character sheets\n- Manual cross-referencing in documents\n- Checking only recent chapters instead of full manuscript\n- Ignoring subtle LLM writing patterns\n\nThese approaches failed because:\n\n- Spreadsheets can’t handle 300k words\n- Manual checking is error-prone and slow\n- Recent chapters miss historical inconsistencies\n- Subtle patterns require programmatic detection\n\nThe Galleys system transformed my AI writing from chaotic to可控. Before implementing it, I spent 30% of my time fixing continuity errors. Now I catch 95% of issues before they’re written.\n\nAutomated continuity checking is essential for:\n\n- Maintaining reader immersion\n- Preserving character authenticity\n- Ensuring timeline consistency\n- Identifying AI pattern repetition\n- Scaling to novel-length manuscripts\n\nIn this post, I showed how to build automated continuity checking for long-form AI writing. The key point is that treating your manuscript like a codebase and implementing systematic cross-referencing prevents consistency errors from compromising your story.",
+  "token_estimate": 417
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Story vs. Plot",
+  "path": "plot-story-vs-plot",
+  "url": "https://thewritepractice.com/plot",
+  "keywords": [
+    "story",
+    "plot",
+    "cause and effect",
+    "chronological sequence",
+    "E. M. Forster",
+    "Aspects of the Novel",
+    "Hemingway six‑word story",
+    "baby shoes"
+  ],
+  "use_cases": [
+    "Use when distinguishing between simple event narration and causal narrative structures",
+    "Use when outlining story arcs that require explicit causal links",
+    "Implement when teaching literary analysis of plot versus story",
+    "Configure when creating interactive fiction that relies on logical consequences"
+  ],
+  "tags": [
+    "literature",
+    "narrative theory",
+    "plot structure"
+  ],
+  "priority": 9,
+  "content": "There's a difference between story and plot, something author E.M. Forster makes a distinction between in his book, Aspects of the Novel.\n\nA story is just an event, almost a recitation of facts. The mouse ate a cookie isn’t a plot—it’s just a story (albeit a cute story).\n\nA plot requires cause and effect. The mouse ate a cookie and then asked for a glass of milk is a plot because it’s causal. I’ll let Forster explain it better:\n\n“Let us define plot. We have defined a story as a narrative of events arranged in their time-sequence. A plot is also a narrative of events, the emphasis falling on causality. ‘The king died and then the queen died,’ is a story. ‘The king died, and then the queen died of grief,’ is a plot. The time-sequence is preserved, but the sense of causality overshadows it. Or again: ‘The queen died, no one knew why, until it was discovered that it was through grief at the death of the king.’ This is a plot with a mystery in it…” – E. M. Forster\n\nTo trim that down:\n\n- The king died and then the queen died is a story.\n- The king died and then the queen died of grief is a plot because it’s causal and connected.\n\nHemingway’s ‎famous six-word story is an amazing example of plot: “For sale: baby shoes, never worn.” Why are they for sale? Because the baby never wore them (and oh, it’s so sad). These aren’t disconnected facts; this is actually a miniature plot. More on that in a moment.",
+  "token_estimate": 352
+}

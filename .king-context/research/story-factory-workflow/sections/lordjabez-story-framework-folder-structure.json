@@ -1,0 +1,35 @@
+{
+  "title": "Folder Structure",
+  "path": "lordjabez-story-framework-folder-structure",
+  "url": "https://github.com/lordjabez/story-framework",
+  "keywords": [
+    "folder structure",
+    "timeline.md",
+    "style-guide.md",
+    "editing-markup",
+    "git tag",
+    "continuity tracking",
+    "canonical details",
+    "source of truth",
+    "markdown file naming",
+    "scene chronology",
+    "subplot tracking",
+    "drafting workflow"
+  ],
+  "use_cases": [
+    "Use when setting up a new creative writing project repository",
+    "Configure when establishing a source of truth for story consistency and AI referencing",
+    "Implement when tracking character arcs, plot threads, and world-building rules",
+    "Use when managing version control milestones for story drafts using Git tags",
+    "Configure when defining inline editing conventions and style guidelines for collaborative or AI-assisted revision"
+  ],
+  "tags": [
+    "project-organization",
+    "best-practices",
+    "version-control",
+    "content-management"
+  ],
+  "priority": 10,
+  "content": "```\nyour-story/\n├── Characters/\n│   └── characters.md      # Character profiles and relationships\n├── Plot/\n│   ├── outline.md         # Story structure and scene breakdown\n│   └── threads.md         # Subplots, foreshadowing, payoffs\n├── Themes/\n│   └── themes.md          # Central themes, motifs, and symbols\n├── Setting/\n│   └── world.md           # Locations, time period, world rules\n├── Continuity/\n│   ├── timeline.md        # Scene-by-scene chronology\n│   └── facts.md           # Canonical details (names, descriptions, etc.)\n├── Drafts/\n│   └── (your story files) # One file per chapter/act, numbered: 01-chapter-one.md\n├── Notes/\n│   ├── style-guide.md     # Voice, tone, formatting conventions\n│   └── editing-markup.md  # How to leave inline edit notes\n└── Final/\n    └── README.md          # Checklist for finalizing\n```\n\n1. Fill out character profiles in `Characters/characters.md`\n2. Develop your plot structure in `Plot/outline.md`\n3. Define themes and motifs in `Themes/themes.md`\n4. Build your world in `Setting/world.md`\n5. Establish voice and conventions in `Notes/style-guide.md`\n6. **Review and approve** all planning docs before moving to drafting\n\nThese planning documents are the **source of truth** for your story. Complete them first.\n\nAs you write, maintain these documents to prevent inconsistencies:\n\n- `Continuity/timeline.md` - Log each scene's date/time as you write it\n- `Continuity/facts.md` - Record canonical details (physical descriptions, addresses, object locations)\n- `Plot/threads.md` - Track subplots, foreshadowing, and payoffs\n\nUpdate these incrementally—don't wait until revision. The AI assistant will reference them to maintain consistency.\n\n1. Create one file per chapter/act in `Drafts/`: `01-title.md`, `02-title.md`, etc.\n2. Commit regularly with descriptive messages\n3. Use `git tag` to mark milestones: `git tag v1-first-draft`\n\n1. Add inline edit notes using the markup in `Notes/editing-markup.md`\n2. Ask your AI assistant to \"process edit notes\"\n3. Review and approve changes\n4. Commit after each revision pass",
+  "token_estimate": 375
+}

@@ -1,0 +1,32 @@
+{
+  "title": "How to use this template",
+  "path": "guides-character-profile-template-how-to-use-this-template",
+  "url": "https://hearth.sh/guides/character-profile-template",
+  "keywords": [
+    "Goals & Motivation",
+    "Character Profile",
+    "Physical Attributes",
+    "Socioeconomic Background",
+    "Demographics",
+    "Drafting Reference",
+    "Character Inconsistency",
+    "Visual Identity",
+    "Backstory Development"
+  ],
+  "use_cases": [
+    "Use when building a foundational character profile for creative writing",
+    "Implement when mapping out physical and demographic details for story consistency",
+    "Use when developing internal motivations and behavioral contradictions for realistic personas",
+    "Configure when establishing a character's socioeconomic and political standing",
+    "Use when drafting first impressions and sensory details for a protagonist or antagonist"
+  ],
+  "tags": [
+    "character-development",
+    "creative-writing",
+    "storytelling",
+    "templates"
+  ],
+  "priority": 10,
+  "content": "- ✦ Pay close attention to the Goals & Motivation section — it's the engine of your story\n- ✦ Contradict yourself intentionally — real people are inconsistent\n- ✦ Keep answers in a document and reference them while drafting\n- ✦ Some answers will surprise you and change your story in good ways\n- ✦ You don't need to answer every question — answer what serves your story\n\n01\n\nFull name (and any nicknames or aliases)\n\n02\n\nAge and date of birth\n\n03\n\nGender identity and pronouns\n\n04\n\nNationality and ethnicity\n\n05\n\nReligion or spiritual beliefs\n\n06\n\nPolitical views\n\n07\n\nOccupation / job title\n\n08\n\nAnnual income (or financial status)\n\n09\n\nCurrent living situation\n\n01\n\nHeight and build (lean, stocky, athletic, etc.)\n\n02\n\nEye color and any distinctive features\n\n03\n\nHair color, length, and style\n\n04\n\nSkin tone\n\n05\n\nDistinguishing marks (scars, tattoos, birthmarks)\n\n06\n\nHow they dress (style, preferred colors)\n\n07\n\nHow they carry themselves (posture, gait)\n\n08\n\nFirst impression — what do strangers notice first?\n\n09\n\nHow do they feel about their appearance?",
+  "token_estimate": 234
+}

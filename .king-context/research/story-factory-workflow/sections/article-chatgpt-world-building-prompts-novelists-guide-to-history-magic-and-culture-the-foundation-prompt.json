@@ -1,0 +1,30 @@
+{
+  "title": "The Foundation Prompt",
+  "path": "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-foundation-prompt",
+  "url": "https://impressifyai.com/article/chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture",
+  "keywords": [
+    "Foundation Prompt",
+    "temporal scope",
+    "timeline generation",
+    "Khrell",
+    "Starting Conditions",
+    "historical parameters",
+    "fantasy world building",
+    "century-by-century breakdown",
+    "forgotten history elements",
+    "political borders evolution"
+  ],
+  "use_cases": [
+    "Use when establishing the chronological backbone of a new fictional setting",
+    "Implement when simulating long-term geopolitical and technological evolution",
+    "Configure when seeking consistent historical context for current plot devices"
+  ],
+  "tags": [
+    "world-building",
+    "prompt-engineering",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "Start by establishing your world's temporal scope and major forces:\n\n```\n\"Create a 1,000-year history timeline for my fantasy world with \nthese parameters:\n\nSTARTING CONDITIONS:\n- Five rival kingdoms sharing one continent\n- Magic was discovered 1,200 years ago\n- A non-human race (the Khrell) arrived 800 years ago from \n  across the sea\n- Climate: Temperate north, desert south\n\nREQUIREMENTS:\n- Include at least three major wars and their causes\n- Show technological/magical evolution over time\n- Explain current political borders through historical events\n- Include one civilization that rose and fell completely\n- Add 2-3 'forgotten history' elements that could become plot \n  devices\n\nFormat: Century-by-century breakdown with key events, major \nfigures, and lasting impacts.\"\n```",
+  "token_estimate": 154
+}

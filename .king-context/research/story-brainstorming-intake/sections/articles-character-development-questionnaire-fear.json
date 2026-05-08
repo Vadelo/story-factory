@@ -1,0 +1,31 @@
+{
+  "title": "Fear",
+  "path": "articles-character-development-questionnaire-fear",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "character motivation",
+    "fear manifestations",
+    "character strength",
+    "outstanding flaw",
+    "motivational spectrum",
+    "character justification",
+    "psychological profiling",
+    "character arc",
+    "deep-seated phobias",
+    "internal conflict"
+  ],
+  "use_cases": [
+    "Use when developing a character's internal conflict and psychological depth",
+    "Implement when determining a character's reaction to stress or high-stakes scenarios",
+    "Configure when establishing the opposing forces of a character's strengths and weaknesses",
+    "Use when drafting backstory to explain the origin of character flaws or fears"
+  ],
+  "tags": [
+    "character-development",
+    "narrative-design",
+    "storytelling-framework"
+  ],
+  "priority": 10,
+  "content": "Fear opposes desire on the motivational spectrum, and is often the more powerful of the two. Stories are often about a character overcoming their greatest fear, and you can often solve problems of how your character would respond in a given scenario by figuring out which direction their fear would drive them. Again, think deep. Phobias like darkness or snakes belong more properly to manifestations or quirks. A good fear might be loss of a loved one or humiliation.\n\n- How does that fear manifest itself?\n- What gave birth to that fear?\n- What is the character’s greatest fear?\n\nAdvanced Tip: As with desire, you can have more than one fear, and these fears can feed or fight each other.\n\nBy strength, I mean a character strength rather than a physical or psychological advantage. Is he brave? Compassionate? A natural leader?\n\n- How does that strength manifest itself?\n- Is the character aware of that strength?\n- What is the character’s greatest strength?\n\nFlaw is opposed to your character’s strength, and once again we’re more concerned with weakness of character rather than weakness of body. An uncontrolled temper, lack of compassion, overconfidence—that sort of thing.\n\n- How does that flaw manifest itself?\n- Assume you answered yes to the previous question; how would the character justify that flaw?\n- Is the character aware of that flaw?\n- What is the character’s most outstanding flaw?",
+  "token_estimate": 312
+}

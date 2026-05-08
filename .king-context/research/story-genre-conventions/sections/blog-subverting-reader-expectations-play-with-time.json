@@ -1,0 +1,30 @@
+{
+  "title": "Play with Time",
+  "path": "blog-subverting-reader-expectations-play-with-time",
+  "url": "https://www.richellebraswell.com/blog/subverting-reader-expectations",
+  "keywords": [
+    "chronological narrative",
+    "event sequencing",
+    "timeline merging",
+    "non-linear storytelling",
+    "reader anticipation",
+    "subverting expectations",
+    "narrative structure",
+    "flashforwards",
+    "interlocking stories"
+  ],
+  "use_cases": [
+    "Use when building suspense by revealing outcomes before their causes",
+    "Implement when managing multiple complex timelines that converge in a finale",
+    "Configure when seeking to subvert standard chronological story structures",
+    "Use when the mystery of 'how' it happened is more important than 'what' happened"
+  ],
+  "tags": [
+    "narrative-design",
+    "pacing",
+    "storytelling-theory"
+  ],
+  "priority": 7,
+  "content": "When you play with time, you play with the reader’s anticipation. Many books have event A lead to event B, which leads to event C. Showing your reader a hint of event C, then switching to part of A, and then transitioning to the middle of B will keep the reader wanting to know how it all connects. You can reverse or mix up the order of events to slowly reveal the full picture. You can also merge different timelines and even completely different stories—that connect somehow in the end of course. This arrangement subverts reader expectations by breaking from a standard chronological narrative.",
+  "token_estimate": 138
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Why Character Voice Collapses",
+  "path": "blog-character-voice-fingerprinting-why-character-voice-collapses",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "Character Voice",
+    "Authorial Intrusion",
+    "Sentence Rhythms",
+    "Vocabulary Range",
+    "Character Intro vs Plot Focus",
+    "Disambiguation Bias",
+    "Five Dimensions of Voice",
+    "Voice Collapse",
+    "Samey Characters",
+    "Dialogue Distinctiveness"
+  ],
+  "use_cases": [
+    "Use when diagnosing why secondary characters sound identical to the protagonist",
+    "Implement when revising mid-novel chapters where plot progression has overtaken character detail",
+    "Configure when establishing a baseline for character speech patterns in a series bible",
+    "Use when interpreting negative reader feedback regarding dialogue craft or continuity"
+  ],
+  "tags": [
+    "Character Development",
+    "Creative Writing",
+    "Editing",
+    "Dialogue",
+    "Craft Theory"
+  ],
+  "priority": 9,
+  "content": "The mechanism is predictable. You write a character's introduction with full attention to their distinctive speech — you're establishing them, you're thinking about who they are, you're making choices. Their voice is intentional. By chapter 15, you're inside the plot. You're thinking about what needs to happen, what information needs to get across, how to build the tension in this specific scene. The character's voice becomes a vehicle for the scene's work rather than the subject of active attention. The author's natural voice — your default sentence rhythms, your vocabulary range, your relationship with qualification — bleeds in.\n\nThe 2022 Alliance of Independent Authors survey found that \"characters who sounded the same\" appeared in 28% of craft-specific negative reviews, making it the second most common craft complaint after continuity errors. It's also one of the hardest problems to see in your own work because you know who's speaking — you wrote the scene. The disambiguation your brain provides automatically isn't available to your reader.\n\nCharacter voice lives in five dimensions. Characters who feel samey are usually too similar across too many of them. The goal isn't to make every dimension maximally different — that produces caricature. The goal is to make at least three of the five consistently, recognizably distinct.",
+  "token_estimate": 279
+}

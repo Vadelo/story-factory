@@ -1,0 +1,33 @@
+{
+  "title": "Abstract",
+  "path": "PeterSalvato-voice-governance-abstract",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "voice governance",
+    "generation constraint architecture",
+    "accommodation design framework",
+    "voice extraction methodology",
+    "statistical center",
+    "generation constraints",
+    "Salvato 2026",
+    "voice protocol",
+    "post-generation filtering",
+    "scaffolding instruction"
+  ],
+  "use_cases": [
+    "Implement when moving from post-generation style filtering to active generation constraints",
+    "Configure when attempting to mitigate the 'default statistical voice' of generic AI outputs",
+    "Use when developing custom voice protocols based on conversation transcripts rather than formal writing",
+    "Apply when aiming for human-like authenticity in AI-generated prose under informal review",
+    "Implement when utilizing the accommodation design framework to solve AI voice disability"
+  ],
+  "tags": [
+    "architecture",
+    "AI-ethics",
+    "voice-engineering",
+    "content-generation"
+  ],
+  "priority": 9,
+  "content": "AI-generated text exhibits a consistent voice problem: competent prose that sounds like everyone else's competent prose. The industry's dominant approach treats voice as a post-generation concern: produce output, then check it against style guidelines, then revise. This paper argues that the generate-then-filter architecture is an accommodation failure, equivalent to letting a student attempt a compound task without scaffolding and then correcting their work. It proposes voice governance as a generation constraint architecture where codified rules, extracted from how the practitioner actually talks in unguarded conversation rather than from published writing, are applied during production. The paper presents a voice protocol developed over three years of applied practice, including forty discrete generation constraints, a voice extraction methodology using over 4,500 conversation transcripts as source material, and applied results where the output consistently reads as human-written under informal review. It situates voice governance within the accommodation design framework (Salvato, 2026): the model's voice disability (defaulting to the statistical center of its training data) is accommodated by constraining generation to prevent the default patterns from activating, the same way a teacher scaffolds instruction to prevent processing failures before they occur.\n\n---",
+  "token_estimate": 250
+}

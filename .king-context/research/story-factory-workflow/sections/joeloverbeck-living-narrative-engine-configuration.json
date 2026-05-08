@@ -1,0 +1,33 @@
+{
+  "title": "Configuration",
+  "path": "joeloverbeck-living-narrative-engine-configuration",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "actionTracing",
+    "trace-config.json",
+    "outputFormats",
+    "rotationPolicy",
+    "maxFileAge",
+    "textFormatOptions",
+    "tracedActions",
+    "performanceSummary",
+    "includeComponentData",
+    "verbosity"
+  ],
+  "use_cases": [
+    "Configure when programmatic analysis or tool integration is required via JSON output",
+    "Implement when human-readable logs are needed for quick debugging using text format",
+    "Use when specific action triggers like 'core:move' need granular performance tracing",
+    "Configure when managing disk space via rotationPolicy and maxTraceFiles limits",
+    "Use when detailed component state and prerequisites need to be captured for troubleshooting"
+  ],
+  "tags": [
+    "configuration",
+    "logging",
+    "performance-monitoring",
+    "debugging"
+  ],
+  "priority": 8,
+  "content": "Action tracing is configured via `config/trace-config.json`:\n\n#### Basic Configuration (JSON-only)\n\n```json\n{\n  \"actionTracing\": {\n    \"enabled\": true,\n    \"tracedActions\": [\"core:move\", \"intimacy:fondle_ass\"],\n    \"outputDirectory\": \"./traces\",\n    \"verbosity\": \"verbose\",\n    \"includeComponentData\": true,\n    \"includePrerequisites\": true,\n    \"includeTargets\": true,\n    \"maxTraceFiles\": 100,\n    \"rotationPolicy\": \"age\",\n    \"maxFileAge\": 86400\n  }\n}\n```\n\n#### Dual-Format Configuration (JSON + Human-Readable Text)\n\n```json\n{\n  \"actionTracing\": {\n    \"enabled\": true,\n    \"tracedActions\": [\"intimacy:fondle_ass\"],\n    \"outputDirectory\": \"./traces/fondle-ass\",\n    \"verbosity\": \"verbose\",\n    \"includeComponentData\": true,\n    \"includePrerequisites\": true,\n    \"includeTargets\": true,\n    \"maxTraceFiles\": 100,\n    \"rotationPolicy\": \"age\",\n    \"maxFileAge\": 86400,\n    \"outputFormats\": [\"json\", \"text\"],\n    \"textFormatOptions\": {\n      \"enableColors\": false,\n      \"lineWidth\": 120,\n      \"indentSize\": 2,\n      \"sectionSeparator\": \"=\",\n      \"includeTimestamps\": true,\n      \"performanceSummary\": true\n    }\n  }\n}\n```\n\n#### JSON Format\n\nPerfect for programmatic analysis, tool integration, and detailed debugging:\n\n- Machine-readable structured data\n- Complete component state information\n- Prerequisite and target analysis\n- Performance timing data\n\n#### Text Format (Human-Readable)\n\nOptimized for quick debugging and human review:\n\n- Formatted for readability\n- Configurable line width and indentation\n- Optional performance summaries\n- No ANSI color codes in file output\n\nWhen `outputFormats` includes multiple formats, files are generated with appropriate extensions:\n\n```\ntraces/\n├── trace_discovery_p_erotica_silvia_instance_2025-08-22T19-52-51_621Z.json\n├── trace_discovery_p_erotica_silvia_instance_2025-08-22T19-52-51_621Z.txt\n├── trace_fondle_ass_player_20250822_143045.json\n└── trace_fondle_ass_player_20250822_143045.txt\n```",
+  "token_estimate": 232
+}

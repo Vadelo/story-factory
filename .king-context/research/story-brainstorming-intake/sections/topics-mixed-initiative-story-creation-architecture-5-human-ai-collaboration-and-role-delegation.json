@@ -1,0 +1,32 @@
+{
+  "title": "5. Human–AI Collaboration and Role Delegation",
+  "path": "topics-mixed-initiative-story-creation-architecture-5-human-ai-collaboration-and-role-delegation",
+  "url": "https://www.emergentmind.com/topics/mixed-initiative-story-creation-architecture",
+  "keywords": [
+    "Mixed-initiative architecture",
+    "Role Delegation",
+    "Arbitration layers",
+    "Multi-armed bandit (MAB) agents",
+    "Protocol-enforced turn-taking",
+    "Human-AI co-authorship",
+    "Modular role assignment",
+    "Control policies",
+    "Initiative arbitration",
+    "Adaptive creative workflows"
+  ],
+  "use_cases": [
+    "Use when designing systems that require alternating contributions between humans and AI agents",
+    "Configure when human expertise needs to override or modulate AI proactivity levels",
+    "Implement when creating uniform interfaces that treat human feedback and LLM outputs as interchangeable protocol events",
+    "Use when developing personalized agent behavior based on user-defined initiative arbitration"
+  ],
+  "tags": [
+    "human-computer-interaction",
+    "system-architecture",
+    "agentic-workflows",
+    "collaboration-protocols"
+  ],
+  "priority": 8,
+  "content": "Mixed-initiative architectures support deep human–AI co-authorship through explicit, modular role assignment:\n\n- Any critique, selection, or evaluation task can be fulfilled by either a human participant or an agent, with protocol-enforced turn-taking and time constraints enabling synchronous collaboration (Bae et al., 2024).\n- The protocol for human intervention is structurally identical to that for LLMs: prompt templates, feedback solicitation, and suggestion formats are shared across roles.\n- Control policies such as arbitration layers (e.g., via initiative arbitration or MAB agents) allow user preferences and expertise to modulate the system’s proactivity and proposal types, enabling adaptive, personalized creative workflows (Lin et al., 2024, Lin et al., 2023).",
+  "token_estimate": 140
+}

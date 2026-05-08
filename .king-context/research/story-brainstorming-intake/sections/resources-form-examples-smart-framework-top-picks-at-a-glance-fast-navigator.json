@@ -1,0 +1,33 @@
+{
+  "title": "Top Picks at a Glance (Fast Navigator)",
+  "path": "resources-form-examples-smart-framework-top-picks-at-a-glance-fast-navigator",
+  "url": "https://noteforms.com/resources/form-examples-smart-framework",
+  "keywords": [
+    "NoteForms",
+    "Notion database",
+    "Lead capture",
+    "Application flows",
+    "NPS/CSAT",
+    "Incident report",
+    "Service intake",
+    "Notion-connected forms",
+    "Workflow controls",
+    "Field types"
+  ],
+  "use_cases": [
+    "Use when building lead capture or demo request workflows inside Notion",
+    "Implement when creating qualification assessments and quote request forms",
+    "Configure when automating client onboarding or service intake processes",
+    "Use when tracking support requests, bug reports, and IT incidents",
+    "Implement when collecting product feedback or conducting post-event evaluations"
+  ],
+  "tags": [
+    "Integrations",
+    "Form-Builder",
+    "Data-Capture",
+    "Notion-Automation"
+  ],
+  "priority": 8,
+  "content": "This isn’t a “best tools” list. It’s a best-use-case list—the form types we see drive real outcomes in teams using Notion databases.\n\n#### 5 high-impact form categories (with examples inside)\n\n1) Lead capture & sales (contact, demo request, referral)\n\n2) Qualification & estimation (quote request, audit/assessment, product finder)\n\n3) Onboarding & intake (client onboarding, service intake, application flows)\n\n4) Support & operations (support request, bug report, IT request, incident report)\n\n5) Research & feedback (product feedback, NPS/CSAT, post-event evaluation)\n\nIf you want to build these as Notion-connected forms, NoteForms is built for that: submissions write directly into your Notion database, with extra field types and workflow controls beyond Notion’s native forms.",
+  "token_estimate": 147
+}

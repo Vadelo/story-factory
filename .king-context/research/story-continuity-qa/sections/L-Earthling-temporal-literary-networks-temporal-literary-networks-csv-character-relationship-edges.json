@@ -1,0 +1,32 @@
+{
+  "title": "`temporal_literary_networks.csv` — Character relationship edges",
+  "path": "L-Earthling-temporal-literary-networks-temporal-literary-networks-csv-character-relationship-edges",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "temporal_literary_networks.csv",
+    "character-pair observation",
+    "semicolon-delimited",
+    "book identifier",
+    "Relationship classification",
+    "pd.read_csv",
+    "temporal networks",
+    "Character A",
+    "Character B",
+    "Chapter-indexed data"
+  ],
+  "use_cases": [
+    "Use when mapping character interactions across successive book chapters",
+    "Implement when performing sentiment analysis on literary relationship types",
+    "Configure when loading datasets requiring specific semicolon delimiters in Python",
+    "Use when building dynamic network graphs for literary character evolution"
+  ],
+  "tags": [
+    "dataset-schema",
+    "network-analysis",
+    "nlp-datasets",
+    "csv-reference"
+  ],
+  "priority": 10,
+  "content": "The core dataset. One row = one character-pair observation in one chapter.\n\n| Column | Type | Description |\n| --- | --- | --- |\n| `Book` | string | `\"Author: Title\"` — unique book identifier |\n| `Chapter` | int | Chapter number (1-indexed) |\n| `Character A` | string | First character name |\n| `Character B` | string | Second character name |\n| `Relationship` | string | `positive`, `negative` or `neutral` |\n\n**Size:** 75,482 rows · 5 columns · semicolon-delimited (`;`)\n\n```python\nimport pandas as pd\ndf = pd.read_csv(\"temporal_literary_networks.csv\", sep=\";\")\n```\n\n---",
+  "token_estimate": 129
+}

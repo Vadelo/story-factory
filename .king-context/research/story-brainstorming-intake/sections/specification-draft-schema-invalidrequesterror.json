@@ -1,0 +1,28 @@
+{
+  "title": "`InvalidRequestError`",
+  "path": "specification-draft-schema-invalidrequesterror",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "InvalidRequestError",
+    "JSON-RPC 2.0",
+    "-32600",
+    "jsonrpc",
+    "method",
+    "Error Object",
+    "data member",
+    "message structure"
+  ],
+  "use_cases": [
+    "Implement when a client sends a message that does not conform to the JSON-RPC 2.0 specification",
+    "Configure when validating the presence and type of required fields like jsonrpc or method",
+    "Use when returning detailed error information and nested errors via the data property"
+  ],
+  "tags": [
+    "error-handling",
+    "api-reference",
+    "json-rpc"
+  ],
+  "priority": 8,
+  "content": "interface InvalidRequestError {\n   message: string;\n   data?: unknown;\n   code: -32600;\n}A JSON-RPC error indicating that the request is not a valid request object. This error is returned when the message structure does not conform to the JSON-RPC 2.0 specification requirements for a request (e.g., missing required fields like `jsonrpc` or `method`, or using invalid types for these fields). See JSON-RPC 2.0 Error Object message: string A short description of the error. The message SHOULD be limited to a concise single sentence. Inherited from Error. message data?: unknown Additional information about the error. The value of this member is defined by the sender (e.g. detailed error information, nested errors etc.). Inherited from Error. data code: -32600 The error type that occurred. Overrides Error. code",
+  "token_estimate": 162
+}

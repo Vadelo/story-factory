@@ -1,0 +1,30 @@
+{
+  "title": "7: Establish your economic systems",
+  "path": "blogs-writing-tips-fantasy-worldbuilding-guide-7-establish-your-economic-systems",
+  "url": "https://www.quillandsteel.com/blogs/writing-tips/fantasy-worldbuilding-guide",
+  "keywords": [
+    "primary resources",
+    "trade routes",
+    "resource scarcity",
+    "currency system",
+    "bartering system",
+    "silk production",
+    "rare spices"
+  ],
+  "use_cases": [
+    "Use when defining a region's primary resource to shape local economy.",
+    "Implement when creating trade routes that limit or enable access to scarce goods.",
+    "Configure when modelling a currency or barter system for factions.",
+    "Use when outlining trade and travel risks to add tension to worldbuilding scenarios.",
+    "Use when describing how resource abundance or scarcity influences political power dynamics."
+  ],
+  "tags": [
+    "worldbuilding",
+    "economics",
+    "resource-management",
+    "trade"
+  ],
+  "priority": 8,
+  "content": "Economics may sound dull to some (like me), but it shapes everything from politics to personal goals. Resources influence power dynamics and trade relationships, so take time to consider what regions have or lack, and how this scarcity or abundance impacts your world.\n\n#### Economic worldbuilding questions to consider:\n\n- Primary resources → What does each area produce? Some places might be known for unique resources like healing herbs, and others survive by trading luxury items like gemstones.\n- Trade and travel → Is travel safe, or do traders risk their lives to carry goods? Dangerous roads add excitement and limit access to certain resources.\n- Currency or bartering system → In some cultures, currency might be traditional coins, but others might trade in rare spices or even favors.\n\nExample: A kingdom known for silk production might be wealthy but vulnerable, as other factions may seek to control this highly sought-after resource.",
+  "token_estimate": 202
+}

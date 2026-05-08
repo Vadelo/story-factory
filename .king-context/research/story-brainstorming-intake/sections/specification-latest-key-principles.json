@@ -1,0 +1,33 @@
+{
+  "title": "Key Principles",
+  "path": "specification-latest-key-principles",
+  "url": "https://modelcontextprotocol.io/specification/latest",
+  "keywords": [
+    "User Consent",
+    "Data Privacy",
+    "LLM Sampling Controls",
+    "Tool Safety",
+    "Prompt Visibility",
+    "Model Context Protocol",
+    "Arbitrary Code Execution",
+    "Authorization Flows",
+    "Access Control",
+    "Data Exfiltration Prevention"
+  ],
+  "use_cases": [
+    "Implement when designing user authorization flows for data access",
+    "Configure when setting up safe tool invocation environments",
+    "Use when developing LLM sampling request interfaces to ensure transparency",
+    "Configure when managing privacy boundaries between host and server components",
+    "Implement when establishing trust models for server-provided tool annotations"
+  ],
+  "tags": [
+    "Security",
+    "Compliance",
+    "Protocol Design",
+    "Privacy"
+  ],
+  "priority": 10,
+  "content": "1. User Consent and Control\n\n- Users must explicitly consent to and understand all data access and operations\n- Users must retain control over what data is shared and what actions are taken\n- Implementors should provide clear UIs for reviewing and authorizing activities\n\n1. Data Privacy\n\n- Hosts must obtain explicit user consent before exposing user data to servers\n- Hosts must not transmit resource data elsewhere without user consent\n- User data should be protected with appropriate access controls\n\n1. Tool Safety\n\n- Tools represent arbitrary code execution and must be treated with appropriate\ncaution.\n- In particular, descriptions of tool behavior such as annotations should be\nconsidered untrusted, unless obtained from a trusted server.\n- Hosts must obtain explicit user consent before invoking any tool\n- Users should understand what each tool does before authorizing its use\n\n1. LLM Sampling Controls\n\n- Users must explicitly approve any LLM sampling requests\n- Users should control:\n- Whether sampling occurs at all\n- The actual prompt that will be sent\n- What results the server can see\n- The protocol intentionally limits server visibility into prompts\n\nWhile MCP itself cannot enforce these security principles at the protocol level,\nimplementors SHOULD:\n\n1. Build robust consent and authorization flows into their applications\n2. Provide clear documentation of security implications\n3. Implement appropriate access controls and data protections\n4. Follow security best practices in their integrations\n5. Consider privacy implications in their feature designs\n\nExplore the detailed specification for each protocol component:",
+  "token_estimate": 332
+}

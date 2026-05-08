@@ -1,0 +1,33 @@
+{
+  "title": "The Recurring Cast Problem",
+  "path": "blog-series-bible-the-recurring-cast-problem",
+  "url": "https://www.bindercraft.net/blog/series-bible",
+  "keywords": [
+    "Recurring Cast Problem",
+    "secondary characters",
+    "character bible",
+    "reverse-engineering",
+    "last seen entry",
+    "protagonist seeding",
+    "narrative constraints",
+    "continuity tracking",
+    "Tasha L. Harrison",
+    "relationship states",
+    "organic series growth"
+  ],
+  "use_cases": [
+    "Use when managing continuity for shared-world series where secondary characters become future protagonists",
+    "Implement when tracking physical details and personal facts across multiple books to avoid contradictions",
+    "Configure when creating a 'last seen' entry to document a character's role and status at the end of each appearance",
+    "Use when reverse-engineering a character profile from existing published references and offhand comments"
+  ],
+  "tags": [
+    "world-building",
+    "character-management",
+    "series-continuity",
+    "narrative-strategy"
+  ],
+  "priority": 8,
+  "content": "This challenge is genre-specific but affects a huge portion of series authors, especially in romance, cozy mystery, and small-town fiction. In these genres, the series often features a different protagonist in each book, drawn from a shared community of characters. The couple who starred in Book 1 appears at the bakery in Book 3. The detective's partner from Books 1 through 4 gets her own story in Book 5. The barista who was a background character for six books becomes the lead in Book 7.\n\nThe problem is that secondary characters are, by definition, less carefully documented than protagonists. When you wrote the barista into Book 2, you gave her red hair and a sarcastic sense of humor and didn't think much more about it. You didn't plan her backstory because she wasn't the story. But now she is the story, and you need a coherent past for her, and that past has to fit seamlessly with every offhand comment you made about her in the previous six books. Did you mention her family? Did another character reference her dating history? Did you describe her apartment? Any of these details, dropped casually into earlier books, are now constraints on the story you want to tell.\n\nRomance author Tasha L. Harrison has written candidly about this challenge. Some of her series were planned from the start, with secondary characters intentionally seeded as future protagonists. Others grew organically, with spin-off series emerging because she became obsessed with a secondary character. The difference in difficulty is significant. When you plan ahead, you control what details you establish about future protagonists. When a series evolves organically (which, let's be honest, is how most of them work), you're reverse-engineering a character bible from scattered references across multiple published books.\n\nThe practical strategy is to maintain a \"last seen\" entry for every named character who appears in more than one book. Not a full profile. Just the essentials: which books they appeared in, what role they played, any physical details mentioned, any personal facts established, and their relationship state at the end of each appearance. When that character steps into a larger role, you have a starting inventory of the constraints you need to work within.",
+  "token_estimate": 492
+}

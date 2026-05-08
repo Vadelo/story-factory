@@ -1,0 +1,34 @@
+{
+  "title": "3.2 Membox Linking: The Trace Weaver",
+  "path": "html-2601.03785v1-3-2-membox-linking-the-trace-weaver",
+  "url": "https://arxiv.org/html/2601.03785v1",
+  "keywords": [
+    "Trace Weaver",
+    "Membox",
+    "Topic Loom",
+    "P_init",
+    "P_verify",
+    "Event-to-Trace Voting",
+    "LLM Batch Verification",
+    "cosine similarity",
+    "E_unlinked",
+    "macro-topic re-occurrence",
+    "embedding search"
+  ],
+  "use_cases": [
+    "Implement when needing to link related events across long-range temporal gaps in agent memory",
+    "Configure when seeking to distinguish between lost local context and genuine thematic shifts in conversation",
+    "Use when agentic systems require persistent event timeline traces for macro-topic modeling",
+    "Configure when semantic similarity voting needs to be reinforced by LLM-based batch verification",
+    "Use when building architectures that separate local thematic cohesion from global discourse continuity"
+  ],
+  "tags": [
+    "memory-systems",
+    "agentic-ai",
+    "data-persistence",
+    "natural-language-processing"
+  ],
+  "priority": 9,
+  "content": "Most prior agent memory systems attempt to reconstruct long-range continuity after having stored locally incoherent fragments, typically by retrieving semantically similar pieces via embedding search. This post‑hoc stitching approach conflates two cases: (1) messages that were originally part of a continuous discourse but had their coherence disrupted by storage segmentation, and (2) messages that are genuinely discontinuous due to natural thematic shifts in conversation.\n\nIn contrast, our architecture cleanly separates these concerns. The Topic Loom (§ 3.1) already preserves all locally continuous messages within each membox, ensuring that micro‑level thematic cohesion is maintained at storage time. The Trace Weaver operates only on the second case: linking memboxes across true discontinuities, where macro‑topics recur after intervening shifts. In other words, we do not “repair” lost local context — we explicitly model the macro‑topic re‑occurrence process, producing persistent event timeline traces that reflect the natural fabric of extended conversations.\n\nFormally, after the Topic Loom seals a membox $B_{new}$ , we obtain its set of extracted events\n\n| $$E^{(new)}=\\{e_{1},e_{2},\\dots,e_{p}\\}.$$ |\n| --- |\n\nLet $\\mathcal{T}=\\{T_{1},T_{2},\\dots,T_{q}\\}$ denote the set of existing traces, and $E^{(T_{i})}$ the events stored in trace $T_{i}$ .\n\n#### Trace Initialization (if $\\mathcal{T}=\\varnothing$ ).\n\nIf there are no existing traces, we pass $E^{(new)}$ to an LLM with the initialization prompt $P_{\\mathrm{init}}$ , clustering the events into one or more new traces:\n\n| $$\\mathcal{T}\\leftarrow\\mathcal{T}\\cup\\mathrm{LLM}\\big(E^{(new)}\\,\\|\\,P_{\\mathrm{init}}\\big).$$ |\n| --- |\n\nThis establishes initial timelines for subsequent macro‑topic linking.\n\n#### Event-to-Trace Voting.\n\nFor each event $e_{k}\\in E^{(new)}$ , we locate the trace containing the most semantically similar stored event:\n\n| $$T^{*}(e_{k})=\\arg\\max_{T_{i}\\in\\mathcal{T}}\\ \\Big[\\max_{e^{\\prime}\\in E^{(T_{i})}}\\ \\mathrm{sim}(e_{k},e^{\\prime})\\Big],$$ |\n| --- |\n\nwhere $\\mathrm{sim}(\\cdot,\\cdot)$ is cosine similarity in embedding space. This step can be viewed as each event “voting” for the trace it best matches, producing a set of candidate traces for LLM verification.\n\n#### LLM Batch Verification.\n\nFor each distinct candidate trace $T^{*}$ derived above, we pass both (a) the trace’s existing events $E^{(T^{*})}$ and (b) the full set of events in the current box $E^{(new)}$ to the LLM with the verification prompt $P_{\\mathrm{verify}}$ . The LLM jointly considers topic context and event semantics to decide which events from $E^{(new)}$ should be appended to $T^{*}$ . This batch decision process allows cross‑event reasoning within the same box, capturing cases where related events reinforce each other’s topical fit.\n\n#### Secondary Trace Initialization.\n\nEvents from $E^{(new)}$ not accepted into any existing traces form $E_{\\mathrm{unlinked}}$ . If $E_{\\mathrm{unlinked}}\\neq\\varnothing$ , they are re‑passed to $P_{\\mathrm{init}}$ to form new traces.\n\nIn our design, traces do not form a single linear",
+  "token_estimate": 554
+}

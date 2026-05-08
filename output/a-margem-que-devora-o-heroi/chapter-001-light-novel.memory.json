@@ -1,0 +1,81 @@
+{
+  "work_slug": "a-margem-que-devora-o-heroi",
+  "chapter_id": "chapter-001-light-novel",
+  "chapter_number": 1,
+  "title": "O Homem na Margem da Página",
+  "content_md": "# A Margem que Devora o Herói\n\n## Capítulo 1. O Homem na Margem da Página\n\nNo dia em que morreu, Davi Noh não acordou em um castelo.\n\nTambém não acordou no corpo de um príncipe, de um vilão, de um extra condenado, de um dragão ancestral ou de qualquer outra coisa que fizesse sentido dentro do catálogo cansado de fantasias de reencarnação que ele revisava para pagar o aluguel.\n\nEle acordou na margem.\n\nDavi está preso no espaço branco ao lado da página de A Lança do Imperador Regressor. Ele reconhece notas de revisão antigas, incluindo uma recomendação sua para reduzir a agência da princesa Yerin. Ao descobrir que pode alterar texto como revisor, não como autor, ele insere pequenas mudanças que permitem a Yerin agir, escapar do assassino e frustrar a entrada perfeita do herói regressor Kael.\n\nKael percebe a margem e escreve nela como comentário de revisão. O capítulo termina quando o título muda de O Herói Chega para O Herói Chega Tarde.",
+  "summary": "Versão revisada em estilo light novel/webnovel. Davi acorda na margem textual de uma light novel/manhwa de regressão que revisou. Em vez de manipular painéis diretamente, ele altera frases, notas de revisão e versões cortadas. Ele devolve pequenas possibilidades a Yerin, fazendo-a reagir, escapar pelo canal inferior e impedir que Kael tenha sua cena de salvamento perfeita. Kael revela conseguir escrever na margem como comentário de revisão.",
+  "canon_changes": [
+    "A direção principal mudou para light novel/webnovel em texto, não manhwa visual puro.",
+    "O poder de Davi é edição textual: inserir, deslocar, recuperar variações cortadas e alterar peso de frases.",
+    "Davi não é autor absoluto; ele age como revisor preso na margem.",
+    "Yerin escapa pelo canal inferior usando uma variação descartada do roteiro.",
+    "Kael pode escrever comentários na margem e percebe a interferência de Davi."
+  ],
+  "character_states": [
+    {
+      "name": "Davi Noh",
+      "state": "Consciência sem corpo presa à margem textual; entende que revisão pode alterar destino se entrar discretamente nas frases."
+    },
+    {
+      "name": "Yerin",
+      "state": "Ferida no ombro, viva, fugiu pelo canal inferior e manteve agência própria."
+    },
+    {
+      "name": "Kael",
+      "state": "Herói regressor frustrado; percebe a margem e escreve comentários fora do texto."
+    }
+  ],
+  "relationship_changes": [
+    {
+      "pair": ["Davi", "Yerin"],
+      "change": "Davi devolve possibilidades cortadas a Yerin, mas precisa evitar substituir a vontade dela pela dele."
+    },
+    {
+      "pair": ["Davi", "Kael"],
+      "change": "Kael identifica Davi como interferência editorial e ameaça disputar a margem."
+    }
+  ],
+  "world_updates": [
+    "A história funciona como texto com camadas: versão publicada, notas de revisão, variações descartadas e comentários.",
+    "A margem é uma camada real onde Davi existe.",
+    "Alterações pequenas em frases podem alterar causalidade.",
+    "A página tenta restaurar cenas obrigatórias, especialmente a cena de resgate do herói."
+  ],
+  "timeline_updates": [
+    "Davi morre no mundo real.",
+    "Davi acorda na margem da página.",
+    "Ele reconhece a obra que revisou.",
+    "Ele altera 'Não havia força em suas mãos' para 'Não havia força em suas mãos ainda'.",
+    "Yerin joga lama nos olhos do assassino.",
+    "Davi recupera uma variação cortada em que Yerin usa o canal inferior.",
+    "Kael chega tarde e escreve na margem."
+  ],
+  "new_threads": [
+    "Kael sempre pôde escrever comentários de revisão?",
+    "Quem criou a camada de restauração?",
+    "Quais variações cortadas ainda existem sob a versão publicada?",
+    "Davi pode recuperar capítulos inteiros descartados?",
+    "Yerin vai perceber que suas possibilidades vêm de edições externas?"
+  ],
+  "resolved_threads": [
+    "A obra fica melhor em formato light novel/webnovel textual para o momento atual."
+  ],
+  "callbacks": [
+    "A frase 'Quase. A palavra mais cruel da edição.' deve voltar em cenas de versões descartadas.",
+    "A alteração de uma única palavra deve ser padrão de poder inicial de Davi.",
+    "O botão de 'resolver conversa' pode virar ameaça real: comentários resolvidos apagam conflitos."
+  ],
+  "continuity_risks": [
+    "Não voltar para linguagem excessivamente visual de manhwa se a direção atual é light novel.",
+    "Não permitir que Davi reescreva tudo livremente; preservar limites de revisor.",
+    "Não tornar Yerin passiva outra vez.",
+    "Kael deve ser antagonista estrutural com lógica própria, não apenas vilão vaidoso."
+  ],
+  "style_notes": [
+    "Light novel/webnovel em pt-BR.",
+    "Metalinguagem textual: margem, comentários, notas de revisão, frases cortadas, variações descartadas.",
+    "Prosa clara, visual e fluida, com frases curtas em momentos de impacto.",
+    "Evitar janelas de sistema e status."
+  ]
+}

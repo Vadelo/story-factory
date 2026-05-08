@@ -1,0 +1,33 @@
+{
+  "title": "References",
+  "path": "html-2411.12907v1-references",
+  "url": "https://arxiv.org/html/2411.12907v1",
+  "keywords": [
+    "Information theory",
+    "Story arc quantification",
+    "Multi-modal Trailerness",
+    "Moment-to-Moment Unstructured Data",
+    "Soap Operas modeling",
+    "In-Consumption Social Listening",
+    "Cliffhanger detection",
+    "Behavioral Science",
+    "Marketing Science",
+    "J. E. Cohen",
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "use_cases": [
+    "Use when citing research regarding the application of information theory to music and narrative",
+    "Implement when analyzing the mathematical shape of stories to predict commercial success",
+    "Configure when referencing multi-modal models for media cliffhanger detection",
+    "Use when establishing a literature review for social listening and unstructured data analysis"
+  ],
+  "tags": [
+    "bibliography",
+    "academic-references",
+    "data-science",
+    "multimedia-modeling"
+  ],
+  "priority": 3,
+  "content": "- [22] J. E. Cohen, “Information theory and music,” Behavioral Science, vol. 7, no. 2, pp. 137–163, 1962. _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/bs.3830070202.\n- [21] O. Toubia, J. Berger, and J. Eliashberg, “How quantifying the shape of stories predicts their success,” Proceedings of the National Academy of Sciences, vol. 118, p. e2011695118, June 2021.\n- [20] C. Bretti, P. Mettes, H. V. Koops, D. Odijk, and N. van Noord, “Find the Cliffhanger: Multi-modal Trailerness in Soap Operas,” in MultiMedia Modeling (S. Rudinac, A. Hanjalic, C. Liem, M. Worring, B. P. Jónsson, B. Liu, and Y. Yamakata, eds.), (Cham), pp. 199–212, Springer Nature Switzerland, 2024.\n- [19] Q. Zhang, W. Wang, and Y. Chen, “Frontiers: In-Consumption Social Listening with Moment-to-Moment Unstructured Data: The Case of Movie Appreciation and Live Comments,” Marketing Science, vol. 39, pp. 285–2",
+  "token_estimate": 175
+}

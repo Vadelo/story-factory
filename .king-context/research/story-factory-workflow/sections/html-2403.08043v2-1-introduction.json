@@ -1,0 +1,34 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2403.08043v2-1-introduction",
+  "url": "https://arxiv.org/html/2403.08043v2",
+  "keywords": [
+    "Astrapop",
+    "authorship style transfer",
+    "Policy Optimization (PO)",
+    "In-Context Learning (ICL)",
+    "STYLL",
+    "Supervised Fine-Tuning (SFT)",
+    "low-resource style transfer",
+    "style critic model",
+    "STRAP",
+    "reference model"
+  ],
+  "use_cases": [
+    "Implement when transferring text to a specific target author's style using minimal example data.",
+    "Configure when training a style critic model to optimize text generation objectives via policy optimization.",
+    "Use when anonymizing text to prevent detection by authorship identification models.",
+    "Apply when existing ICL or SFT methods fail to adequately move text toward a target author style.",
+    "Implement when a computationally efficient alternative to RL-based style transfer is required."
+  ],
+  "tags": [
+    "machine-learning",
+    "style-transfer",
+    "natural-language-processing",
+    "policy-optimization",
+    "model-training"
+  ],
+  "priority": 10,
+  "content": "Given a text authored by an arbitrary source author, can we make it look like it is written by an arbitrary target author without changing its meaning? This is the domain of authorship style transfer. In the era of large language models (LLMs), the promise of authorship style transfer can turn any LLM into our own personalized model by transferring the outputs into our own style, and also prevent our text from being identified by authorship identification models through transferring our texts into the style of another author. This task is first studied as a classic text style transfer task that requires a large number of texts in the target style to develop the transfer model, which limits its application to only famous authors like Shakespeare (Xu et al., 2012; Krishna et al., 2020).\n\nRecently, Patel et al. (2023) propose a more general and practical task, low-resource authorship style transfer which can apply to non-famous authors who only have a limited number of texts. To solve this new task, they develop an LLM-based approach, STYLL which transfers a text by prompting LLMs with several texts written by the target author. Though intended to be a simple baseline, STYLL proves remarkably adept at style alteration. Deeper investigation by Patel et al. (2023) shows that while the alteration does manage to remove, or move away from the original author’s style, it is rather unable to adopt, or move toward, the intended target author.\n\nSTYLL is an entirely in-context learning (ICL) method; it uses no model training or modification. This is justified by Patel et al. (2023) as, due to small amounts of style-relevant training data, methods that use supervised fine-tuning (SFT) such as STRAP Krishna et al. (2020) do not outperform ICL. In this work we instead consider whether this limited data can be repurposed, specifically as training for a style critic model, thereby enabling a policy optimization (PO) approach to directly encourage text generation in the desired style. Rather than train the model on pseudo-parallel data with the language modeling loss, we could use policy optimization (PO) approaches to directly optimize the model to maximize the authorship style transfer objective.\n\n![Refer to caption](https://arxiv.org/html/x1.png)\n\nFigure 1: Overview of Astrapop.\n\nIn this work, we propose Authorship Style TRAnsfer with Policy OPtimization (Astrapop), a lightweight two-stage PO training framework for authorship style transfer, in which the first supervised fine-tuning stage prepares a reference model for the second stage, and the policy optimization in the second stage further improves the performance of the reference model by directly optimizing it on the authorship style transfer objective. Unlike more complicated RL-based approaches like Hallinan et al. (2023), Astrapop is more computationally efficient and flexible, and works well with a variety of both RL-based and RL-free PO algorithms. We evaluate Astrapop on two authorship style transfer tasks, a low-resource individual authorship style transfer task222with as few as five examples per author. and a medium-resource community authorship style transfer task. The evaluation results show that Astrapop is more effectively able to leverage few-shot style transfer than ICL or SFT methods alone on the former task and also outperforms the state-of-the-art style transfer model with much less training time on the latter.\n\nIn this section we formalize the authorship style transfer task and introduce Astrapop.",
+  "token_estimate": 724
+}

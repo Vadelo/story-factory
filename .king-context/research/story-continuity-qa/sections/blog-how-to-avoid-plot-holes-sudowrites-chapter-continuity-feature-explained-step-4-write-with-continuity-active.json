@@ -1,0 +1,33 @@
+{
+  "title": "Step 4: Write with Continuity Active",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-4-write-with-continuity-active",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Chapter Continuity",
+    "Story Bible",
+    "Auto mode",
+    "Guided mode",
+    "context window",
+    "link documents",
+    "POV settings",
+    "reading chain",
+    "character cards",
+    "Chat feature"
+  ],
+  "use_cases": [
+    "Use when drafting new prose that must respect character deaths, lost items, or past plot points",
+    "Configure when managing multiple narrative viewpoints to ensure consistent POV and Tense settings per chapter",
+    "Implement when auditing a manuscript for internal contradictions or timeline inconsistencies using Chat",
+    "Use when scaling novel production to ensure AI memory spans across up to 25 linked documents",
+    "Configure when setting up character cards with pronouns and relationships to prevent AI-generated halluncinations"
+  ],
+  "tags": [
+    "content-generation",
+    "narrative-consistency",
+    "configuration",
+    "ai-memory"
+  ],
+  "priority": 10,
+  "content": "What you'll accomplish: New prose that respects everything you've already established.\n\n![](https://sudowrite.com/blog/content/images/2026/03/write-function.png)\n\nWith chapters linked and Story Bible populated, use the Write feature in Auto or Guided mode. The AI reads your prior chapters, character cards, worldbuilding, and outline. That sword your protagonist lost? The AI knows it's gone. That character who died in Chapter 8? They won't show up alive in Chapter 22.\n\n> \"I've been able to go from taking six months to a couple of years to write a novel... to about one or two months.\"— Joe Vasicek, Author of Genesis Earth\n\n---\n\nDon't build your Story Bible retroactively. The Writer's Digest Survey found 73% of fiction writers report AI helps overcome writer's block, but that help only works if the AI knows your characters. Fill out every character card with pronouns, physical description, and key relationships before Chapter 1. Think of it as briefing your co-writer.\n\nIf your novel uses multiple viewpoints, check that your POV settings match the current chapter. Sudowrite's POV and Tense system lets you set these per chapter, so your first-person narrator doesn't accidentally slip into third person limited because the previous linked chapter used a different voice.\n\nAfter drafting a sequence of chapters, open Sudowrite's Chat feature and ask it to check for inconsistencies. Chat reads your entire Story Bible and full document text. Ask specific questions: \"Does Elena's timeline make sense between Chapters 4 and 9?\" The chat reads what you wrote, not what you intended.\n\n---\n\nMany writers jump straight into drafting because they think they'll remember everything. You won't. At 80,000 words, even meticulous writers lose track of eye colors, street names, and which character knows what. Build the Story Bible first. Your future self will be grateful.\n\nDumping your entire manuscript into a single file defeats Chapter Continuity. The feature needs separate, linked documents to create the reading chain. One document means the AI can only look backward within that file, with no structured chapter awareness.\n\nYou rewrite Chapter 6, split Chapter 10 into two parts, and add a new prologue. If you don't verify your chapter links still follow the correct sequence, the AI reads your story out of order and generates prose based on a scrambled timeline.\n\n---\n\nA plot hole is any internal contradiction, logical gap, or unresolved element that breaks the consistency of your story. Common examples include characters knowing information they shouldn't have, timeline impossibilities, and abandoned subplots. They range from minor (wrong eye color) to story-breaking (dead character reappearing).\n\nOnly if the AI has memory of your full story. Generic tools like ChatGPT reset every session and have no awareness of your previous chapters. Sudowrite's Chapter Continuity maintains context across up to 25 linked documents, giving the AI access to 20,000 words of your prior narrative each time it generates text.\n\nYou link chapter documents in sequence, and Sudowrite's Write feature reads the preceding text automatically. Combined with Story Bible data for characters, worldbuilding, and plot outlines, the AI generates prose that's consistent with everything you've already established. No manual re-pasting between sessions.\n\nChapter Continuity supports up to 25 linked documents with a context window of 20,000 words. For most novels, that covers the recent narrative history the AI needs to maintain consistency. The Story Bible supplements this with persistent character and worldbuilding data across the entire project.\n\nYes, but your job gets significantly easier. Sudowrite's Sudowrite User Survey shows 92% of users complete manuscripts faster. Chapter Continuity prevents the most common AI-generated contradictions, but a final human read-through catches nuances no tool can. Use Chat to audit specific continuity questions during revision.\n\nStory Bible stores reference data (characters, worldbuilding, plot outlines), while Chapter Continuity links your actual chapter text into a reading chain. They work together. The Story Bible tells the AI who your characters are. Chapter Continuity tells the AI what those characters have done so far in the actual manuscript.\n\n---",
+  "token_estimate": 868
+}

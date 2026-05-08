@@ -1,0 +1,31 @@
+{
+  "title": "Pillar 3: Politics and Power Structures",
+  "path": "blog-worldbuilding-template-pillar-3-politics-and-power-structures",
+  "url": "https://proseengine.app/blog/worldbuilding-template",
+  "keywords": [
+    "government structure",
+    "monarchy",
+    "democracy",
+    "theocracy",
+    "tribal council",
+    "power transfer",
+    "factions",
+    "laws enforcement",
+    "official power",
+    "unofficial power"
+  ],
+  "use_cases": [
+    "Use when creating a government system for a fictional kingdom.",
+    "Use when designing conflict scenes involving faction rivalry.",
+    "Use when modeling how power shifts from ruler to successor.",
+    "Use when exploring the relationship between law enforcement and crime syndicates."
+  ],
+  "tags": [
+    "worldbuilding",
+    "politics",
+    "conflict"
+  ],
+  "priority": 10,
+  "content": "Every group of people larger than a family develops power structures. Understanding who holds power in your world and how that power is maintained, challenged, and transferred is essential for generating conflict.\n\n- What form does government take? Monarchy, democracy, theocracy, tribal councils?\n- How is power transferred? Inheritance, election, combat, divine selection?\n- Who are the factions? What do they want? Where do they clash?\n- What laws exist, and how are they enforced?\n- What is the relationship between official power and unofficial power (crime, religion, wealth)?\n\n![An old compass on a map — navigating the rules of your fictional world](https://proseengine.app/blog/images/world-2.jpg)\n\nPhoto credit: Flickr (free commercial license)",
+  "token_estimate": 144
+}

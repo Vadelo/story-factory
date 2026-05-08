@@ -1,0 +1,32 @@
+{
+  "title": "Physical / Appearance",
+  "path": "character-questionnaire-physical-appearance",
+  "url": "https://www.novel-software.com/character-questionnaire/",
+  "keywords": [
+    "physical characteristics",
+    "character appearance",
+    "visual attributes",
+    "facial features",
+    "manerisms",
+    "physical disabilities",
+    "distinguishing marks",
+    "clothing style",
+    "bodily build",
+    "health status"
+  ],
+  "use_cases": [
+    "Use when developing detailed character profiles for creative writing or game design",
+    "Implement when building a comprehensive character creation system",
+    "Configure when defining visual assets for character 3D modeling",
+    "Use when establishing physical consistency for NPCs in narrative development"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-assets",
+    "creative-writing",
+    "appearance-modeling"
+  ],
+  "priority": 8,
+  "content": "8. How tall are they?9. How much do they weigh?10. What is their physical shape/build?11. What colour hair do they have?12. What style of hair do they have?13. What colour eyes do they have?14. What shape are their eyes?15. Do they wear glasses or contact lenses?16. What are their teeth like?17. Do they have any distinguishing facial features?18. Which facial feature is most prominent?19. Which bodily feature is most prominent?20. Do they have any other distinguishing features?21. What is their skin like?22. What are their hands like?23. What are their feet like?24. Do they tend to wear makeup?25. Do they wear any jewellery?26. Do they have any scars?27. Do they have any birthmarks?28. Do they have any tattoos?29. Do they have any physical disabilities?30. What type of clothes do they wear?31. How do they style their clothes?32. Are they right or left-handed?33. Do they have any mannerisms?34. What is their health like?",
+  "token_estimate": 202
+}

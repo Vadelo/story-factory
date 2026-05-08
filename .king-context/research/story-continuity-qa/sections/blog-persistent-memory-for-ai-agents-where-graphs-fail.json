@@ -1,0 +1,32 @@
+{
+  "title": "Where graphs fail",
+  "path": "blog-persistent-memory-for-ai-agents-where-graphs-fail",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    ":Document node",
+    "semantic search",
+    "schema rigidity",
+    "embedding-shaped questions",
+    "vector index lookups",
+    "write performance",
+    "high-frequency append-mostly writes",
+    "batching",
+    "agent fleet",
+    "read traversal"
+  ],
+  "use_cases": [
+    "Use when evaluating the limitations of graph databases for unstructured content",
+    "Configure when designing write-heavy agent architectures that require batching",
+    "Implement when deciding between graph-based and vector-based retrieval strategies",
+    "Use when planning schema migration strategy for evolving agent stacks"
+  ],
+  "tags": [
+    "architecture-guidelines",
+    "performance-tuning",
+    "database-selection",
+    "limitations"
+  ],
+  "priority": 8,
+  "content": "Unstructured content. A graph is bad at storing documents. You can put a`:Document` node with a`text` property, but you have no way to retrieve \"all documents that talk about X\" without scanning. Graphs do not do semantic search out of the box.\n\nSchema rigidity. Every new entity type, every new relationship type, is a schema decision. In an evolving agent stack, this turns into ongoing maintenance. The graph that was right six months ago needs migrations now.\n\nEmbedding-shaped questions. When the question is \"give me the five most semantically similar past examples to this one,\" a graph is the wrong tool. You can store embeddings on nodes, but the database is not optimized for vector index lookups at scale.\n\nWrite performance under heavy concurrent load. Graphs are typically optimized for read traversal, not for high-frequency append-mostly writes. An agent fleet that produces thousands of small graph writes per minute will need careful batching.\n\nFor the longer argument that the cross-agent shared graph is the moat behind a real fleet, see the agentic operating system business piece.\n\n---",
+  "token_estimate": 235
+}

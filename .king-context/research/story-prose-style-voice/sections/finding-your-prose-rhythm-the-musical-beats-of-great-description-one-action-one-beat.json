@@ -1,0 +1,29 @@
+{
+  "title": "One Action, One Beat",
+  "path": "finding-your-prose-rhythm-the-musical-beats-of-great-description-one-action-one-beat",
+  "url": "https://writewithseth.com/finding-your-prose-rhythm-the-musical-beats-of-great-description/",
+  "keywords": [
+    "One Action One Beat",
+    "rhythm",
+    "pacing",
+    "sentence structure",
+    "narrative flow",
+    "beat processing",
+    "cluttered sentences",
+    "simultaneous actions"
+  ],
+  "use_cases": [
+    "Use when a sentence contains more than one distinct action or observation",
+    "Implement when narrative pacing feels chaotic or overwhelming to the reader",
+    "Configure when seeking to establish a steady and engaging rhythmic flow",
+    "Use when revising prose to ensure readers can process information sequentially"
+  ],
+  "tags": [
+    "editing",
+    "style-guide",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "One of the most common rhythm problems occurs when writers try to cram too many actions into a single sentence. Consider this example:\n\nOriginal:\n\nOpening the door, I smelled the pungent mix of printing oils and cleaning solutions, the main area was spacious with several windows along the sides and in the back, an office with large windows facing the main floor.\n\nThis sentence asks the reader to process four distinct actions or observations simultaneously. It’s like trying to listen to four different musical parts at once—chaotic and overwhelming.\n\nRevised:\n\nI opened the door. The pungent mix of printing oils and cleaning solutions sparked my sinuses. The main area was spacious with windows along the walls. A big counter served as a desk for the receptionist.\n\nEach sentence now contains one clear beat. The reader can process each piece of information before moving to the next, creating a steady, engaging rhythm.",
+  "token_estimate": 200
+}

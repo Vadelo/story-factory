@@ -1,0 +1,30 @@
+{
+  "title": "Sequential vs. Simultaneous Actions",
+  "path": "finding-your-prose-rhythm-the-musical-beats-of-great-description-sequential-vs-simultaneous-actions",
+  "url": "https://writewithseth.com/finding-your-prose-rhythm-the-musical-beats-of-great-description/",
+  "keywords": [
+    "Sequential Actions",
+    "Simultaneous Actions",
+    "Prose Rhythm",
+    "Information Processing",
+    "Sentence Structure",
+    "Action Sequence",
+    "Rhythmic Beats",
+    "Visualization",
+    "Syntactic Clarity"
+  ],
+  "use_cases": [
+    "Use when describing a complex series of physical movements",
+    "Configure when rhythmic clutter obscures the reader's visualization",
+    "Implement when transitioning between distinct character reactions",
+    "Use when correcting physically impossible simultaneous actions"
+  ],
+  "tags": [
+    "Writing Style",
+    "Structural Clarity",
+    "Prose Technique"
+  ],
+  "priority": 7,
+  "content": "A key insight about prose rhythm is understanding that readers process information sequentially, not simultaneously. When you write, “Shaking his head, he turned, walking away, mumbling something about wasting his time,” you’re suggesting all these actions happen at once—which is both physically impossible and rhythmically cluttered.\n\nInstead, create a clear sequence:\n\nHe turned and walked away, shaking his head. Then he slammed the office door.\n\nThis approach gives each action its own beat, allowing the reader to visualize the sequence clearly.",
+  "token_estimate": 107
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Voice Fingerprint Method",
+  "path": "blog-character-voice-fingerprinting-the-voice-fingerprint-method",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "voice fingerprint",
+    "story bible",
+    "vocabulary ceiling",
+    "vocabulary floor",
+    "sentence patterns",
+    "verbal tics",
+    "voice drift",
+    "character speech patterns",
+    "grammatical constructions",
+    "dialogue validation"
+  ],
+  "use_cases": [
+    "Use when defining a unique speech profile for a new character in a story bible",
+    "Implement when auditing extended dialogue passages to prevent voice drift",
+    "Configure when establishing a character's vocabulary limits and sentence structure styles",
+    "Use when documenting specific speech habits and verbal tics for consistent narrative execution"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-theory",
+    "documentation-standards",
+    "dialogue-validation"
+  ],
+  "priority": 8,
+  "content": "A voice fingerprint is a short document — 100 to 200 words — that captures the defining features of a specific character's speech. It lives in your story bible's Characters section.\n\nA well-built voice fingerprint covers:\n\n- Vocabulary ceiling and floor — the highest-register and lowest-register words this character uses\n- Characteristic sentence patterns — short and declarative, long and subordinate, fragmented, qualified\n- Speech habits and verbal tics — specific phrases they return to, words they overuse, grammatical constructions that are theirs\n- What they say directly — the topics they address without deflection\n- What they avoid — the topics they route around or redirect\n\nExample fingerprint:\n\nMarcus: Vocabulary is practical and specific rather than formal — concrete nouns, active verbs, nothing abstract unless he's forced into it. Sentences are short. He never uses \"perhaps\" or \"might\" — if he's uncertain he says \"I don't know\" or says nothing. He ends conversations abruptly when he has what he came for. He doesn't apologize. He doesn't ask for permission. He will say a hard thing once; he won't repeat it. In emotional conversations, his sentences get shorter, not longer. Under stress, he moves to single words and fragments.\n\nWith this document in hand, you can check any passage of extended Marcus dialogue against it. Voice drift becomes visible.",
+  "token_estimate": 291
+}

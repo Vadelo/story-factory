@@ -1,0 +1,32 @@
+{
+  "title": "4. Dan Harmon's Story Circle",
+  "path": "blog-how-to-write-story-proven-storytelling-frameworks-4-dan-harmon-s-story-circle",
+  "url": "https://storyflow.so/blog/how-to-write-story-proven-storytelling-frameworks",
+  "keywords": [
+    "Dan Harmon's Story Circle",
+    "Hero's Journey",
+    "8 steps",
+    "episodic content",
+    "narrative structure",
+    "zone of comfort",
+    "order and chaos",
+    "thresholds",
+    "character adaptation",
+    "character arc"
+  ],
+  "use_cases": [
+    "Use when drafting scripts for television episodes or short stories",
+    "Implement when simplifying complex Hero's Journey structures for quick application",
+    "Configure when mapping a character's transition from a state of order to chaos and back",
+    "Use when defining a character's internal change in relation to their external goals"
+  ],
+  "tags": [
+    "narrative-theory",
+    "screenwriting",
+    "creative-frameworks",
+    "storytelling"
+  ],
+  "priority": 9,
+  "content": "Best for: TV episodes, short stories, simpler narratives, quick application\n\nDan Harmon (creator of Community and Rick and Morty) distilled the Hero's Journey into 8 simple steps. It's easier to apply and works great for episodic content.\n\nDan Harmon's Story Circle simplifies the Hero's Journey into 8 steps. Every episode of Community and Rick and Morty follows this structure.\n\nThe 8 Steps:\n\n1. You: A character is in a zone of comfort\n2. Need: But they want something\n3. Go: They enter an unfamiliar situation\n4. Search: Adapt to it, search for what they want\n5. Find: Get what they wanted\n6. Take: Pay a heavy price for it\n7. Return: Return to their familiar situation\n8. Change: Having changed\n\nHarmon draws this as a circle. The top half represents order (steps 1, 2, 8). The bottom half represents chaos (steps 4, 5, 6). Steps 3 and 7 are the thresholds between them.\n\nExample: A typical sitcom episode\n\nCharacter at home (You) → Wants a promotion (Need) → Goes to job interview (Go) → Faces unexpected challenges (Search) → Gets the job offer (Find) → Realizes it means leaving friends (Take) → Returns home (Return) → Decides what really matters (Change)",
+  "token_estimate": 267
+}

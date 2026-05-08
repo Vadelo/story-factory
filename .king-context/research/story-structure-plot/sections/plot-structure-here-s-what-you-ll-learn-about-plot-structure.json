@@ -1,0 +1,33 @@
+{
+  "title": "Here’s what you’ll learn about plot structure:",
+  "path": "plot-structure-here-s-what-you-ll-learn-about-plot-structure",
+  "url": "https://self-publishingschool.com/plot-structure/",
+  "keywords": [
+    "Book Outline Generator",
+    "Fiction",
+    "Non-fiction",
+    "chapter-by-chapter outline",
+    "email template",
+    "Book Outline Challenge",
+    "free outline",
+    "book type selection",
+    "outline template",
+    "writing workflow"
+  ],
+  "use_cases": [
+    "Use when you need a structured outline for a fiction novel.",
+    "Use when you require a chapter-by-chapter framework for a nonfiction book.",
+    "Configure when selecting your book type before generating the outline.",
+    "Implement when integrating the outline into your writing workflow.",
+    "Use when sending the generated outline to your inbox."
+  ],
+  "tags": [
+    "content-generation",
+    "writing-tools",
+    "productivity",
+    "book-writing"
+  ],
+  "priority": 8,
+  "content": "Book Outline Generator\n\nChoose your Fiction or Nonfiction book type below to get your free chapter by chapter outline!\n\nPlease select your book type FictionNon-Fiction\n\nGENERATE\n\nBook Outline Generator\n\nEnter your details below and get your pre-formatted outline in your inbox and start writing today!\n\nCONGRATULATIONS\n\nThanks for submitting! Check your email for your book outline template.\n\nIn the meantime, check out our Book Outline Challenge.\n\nJoin The Challenge Today",
+  "token_estimate": 93
+}

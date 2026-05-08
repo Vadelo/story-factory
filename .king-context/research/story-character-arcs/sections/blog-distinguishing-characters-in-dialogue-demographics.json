@@ -1,0 +1,32 @@
+{
+  "title": "Demographics",
+  "path": "blog-distinguishing-characters-in-dialogue-demographics",
+  "url": "https://mythcreants.com/blog/distinguishing-characters-in-dialogue/",
+  "keywords": [
+    "dialogue differentiation",
+    "character demographics",
+    "cultural idiolects",
+    "demographic stereotypes",
+    "linguistic markers",
+    "world-building dialogue",
+    "age-specific vernacular",
+    "subculture linguistic patterns",
+    "social class registers"
+  ],
+  "use_cases": [
+    "Configure when establishing distinct character voices based on age or socioeconomic background",
+    "Implement when world-building to ensure variety within fictional cultures and belief systems",
+    "Use when writing dialogue for characters of different genders in various social structures",
+    "Use when auditing character scripts to avoid offensive or bland stereotypes",
+    "Implement when providing narrative justification for a character's unusual speech patterns"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "narrative-design",
+    "linguistics"
+  ],
+  "priority": 8,
+  "content": "This is what you’ll hear about in most discussions of dialogue. Age, ethnicity, and subculture all change which words and phrases your characters use. Gender will create subtle differences in a culture where gender roles are largely absent, and more obvious ones where gender roles are strict.\n\nWriting your story in another world doesn’t get you off the hook for distinguishing your character dialogue by demographic. Every culture has variety within it – between the rich and poor, the young and old, and different regions or belief systems.\n\nHowever, if your story isn’t in another world, be careful when distinguishing character dialogue by demographic. It’s easy to give in to stereotypes, and if you do, you could end up with bland or offensive characters. Characters that don’t fit into a stereotype are more interesting. Just make sure that if your 15-year-old talks like someone who’s in their sixties, there’s an explanation.\n\nIn this case, Annie and Pete live in an alternate Detroit. Pete is in his late seventies, and he was raised to behave like a gentlemen. Annie is young and urban. Annie’s voice is probably pretty similar to my starting voice, since I’m also young and urban, but Pete speaks a little different. To start, he’s going to say “Pardon me, Miss” instead of “Excuse me.” Pardon is old-fashioned, and people generally use “Miss” to address women significantly younger than themselves.",
+  "token_estimate": 308
+}

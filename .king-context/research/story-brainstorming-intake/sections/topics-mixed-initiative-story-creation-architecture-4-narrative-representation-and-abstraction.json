@@ -1,0 +1,34 @@
+{
+  "title": "4. Narrative Representation and Abstraction",
+  "path": "topics-mixed-initiative-story-creation-architecture-4-narrative-representation-and-abstraction",
+  "url": "https://www.emergentmind.com/topics/mixed-initiative-story-creation-architecture",
+  "keywords": [
+    "Narrative State Formalism",
+    "Structured Outlines",
+    "Abstract Acts",
+    "Semantic Graphs",
+    "Story Prototypes",
+    "Narrative Tropes",
+    "Segmented Text",
+    "MI-CC systems",
+    "Global Arc Formation",
+    "CreAgentive",
+    "Story Designer"
+  ],
+  "use_cases": [
+    "Use when decoupling high-level story planning from low-level natural language generation",
+    "Implement when encoding complex character and event relationships through dual semantic graphs",
+    "Configure when enforcing structural coherence and plot diversity using trope-based subgraph patterns",
+    "Use when modeling stories as segmented text arrays to optimize local and global narrative properties",
+    "Implement when requiring non-linear narrative references like foreshadowing or retrospection"
+  ],
+  "tags": [
+    "narrative-theory",
+    "knowledge-representation",
+    "computational-storytelling",
+    "data-structures"
+  ],
+  "priority": 8,
+  "content": "Formalisms for intermediate narrative state serve as the substrate for initiative exchange and critique. Typical abstractions include:\n\n- Structured Outlines and Plans: High-level story plans or \"abstract acts\" parameterize narrative intent and dependencies, decoupling global arc formation from low-level language realization (Bae et al., 2024, Wang et al., 2024).\n- Semantic Graphs/Story Prototypes: Systems such as CreAgentive encode the narrative as dual graphs over characters, events, and their relations; role and plot graphs persist across chapters and support non-linear references (retrospection, foreshadowing) (Cheng et al., 30 Sep 2025).\n- Narrative Graphs of Tropes: Story Designer leverages graphs whose nodes instantiate narrative tropes; subgraph patterns define constraints on structure, coherence, and diversity(Alvarez et al., 2022).\n- Segmented Text: MI-CC systems often model stories as tuples or arrays of text segments, optimizing over both local and global properties (Lin et al., 2024, Lin et al., 2023).",
+  "token_estimate": 191
+}

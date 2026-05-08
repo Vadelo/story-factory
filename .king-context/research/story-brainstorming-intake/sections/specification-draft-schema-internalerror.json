@@ -1,0 +1,29 @@
+{
+  "title": "`InternalError`",
+  "path": "specification-draft-schema-internalerror",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "InternalError",
+    "JSON-RPC 2.0",
+    "-32603",
+    "interface",
+    "error handling",
+    "message",
+    "data",
+    "code",
+    "Unexpected error"
+  ],
+  "use_cases": [
+    "Use when the receiver encounters an unexpected condition that prevents request fulfillment",
+    "Configure when implementing standard JSON-RPC 2.0 error responses",
+    "Implement when detailed nested error information needs to be passed via the data property"
+  ],
+  "tags": [
+    "error-handling",
+    "api-reference",
+    "json-rpc"
+  ],
+  "priority": 8,
+  "content": "interface InternalError {\n   message: string;\n   data?: unknown;\n   code: -32603;\n}A JSON-RPC error indicating that an internal error occurred on the receiver. This error is returned when the receiver encounters an unexpected condition that prevents it from fulfilling the request. See JSON-RPC 2.0 Error Object Example: Unexpected error\n\n```\n<code class=\"json\"><span class=\"hl-0\">\\{</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"code\"</span><span class=\"hl-0\">: </span><span class=\"hl-3\">-32603</span><span class=\"hl-0\">,</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"message\"</span><span class=\"hl-0\">: </span><span class=\"hl-2\">\"Internal error\"</span><br /><span class=\"hl-0\">}</span> </code><button type=\"button\">Copy</button>\n\n```\n\nmessage: string A short description of the error. The message SHOULD be limited to a concise single sentence. Inherited from Error. message data?: unknown Additional information about the error. The value of this member is defined by the sender (e.g. detailed error information, nested errors etc.). Inherited from Error. data code: -32603 The error type that occurred. Overrides Error. code",
+  "token_estimate": 175
+}

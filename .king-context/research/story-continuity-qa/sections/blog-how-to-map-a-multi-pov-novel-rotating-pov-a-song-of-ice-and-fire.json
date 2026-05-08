@@ -1,0 +1,31 @@
+{
+  "title": "Rotating POV (A Song of Ice and Fire)",
+  "path": "blog-how-to-map-a-multi-pov-novel-rotating-pov-a-song-of-ice-and-fire",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "parallel-tracks model",
+    "rotating POV",
+    "causal network",
+    "thematic connection",
+    "character-to-character connections",
+    "convergence points",
+    "geographical separation",
+    "structural commitment",
+    "consequence links",
+    "named character attribution"
+  ],
+  "use_cases": [
+    "Implement when narrative scope requires exploring multiple geographically isolated plotlines simultaneously",
+    "Use when building complex causal dependencies where one character's actions indirectly impact distant protagonists",
+    "Configure when seeking to maintain a single cohesive story through thematic unity rather than direct character interaction"
+  ],
+  "tags": [
+    "narrative-structure",
+    "world-building",
+    "character-management",
+    "storytelling-framework"
+  ],
+  "priority": 9,
+  "content": "Martin's approach is the purest expression of the parallel-tracks model. Each chapter is attributed to a named character. The characters are geographically separated for most of the series. Their storylines connect causally and thematically, but the characters themselves rarely share a scene.\n\nThe structural commitment here is enormous. Martin trusts that the causal network, the fact that Cersei's decisions have consequences for Dany's situation, which has consequences for Jon's situation, which feeds back to Westeros, is sufficient to make the reader experience these as one story.\n\nOn a visual map, the A Song of Ice and Fire structure would show multiple horizontal tracks with relatively few direct character-to-character connections but dense causal and consequence links running across all tracks. The convergence points are primarily off-page: the same world being shaped by everyone's actions.",
+  "token_estimate": 176
+}

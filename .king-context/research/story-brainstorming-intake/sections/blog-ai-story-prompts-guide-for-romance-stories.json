@@ -1,0 +1,28 @@
+{
+  "title": "For Romance Stories",
+  "path": "blog-ai-story-prompts-guide-for-romance-stories",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "prompt engineering",
+    "narrative conflict",
+    "romance story prompts",
+    "character dynamics",
+    "inherent conflict",
+    "storytelling AI",
+    "creative writing prompts",
+    "contextual constraints"
+  ],
+  "use_cases": [
+    "Use when developing creative writing prompts that avoid clichés or standard 'meet-cutes'",
+    "Implement when testing LLM capabilities for nuance, professional ethics, and tension",
+    "Configure when training users to provide specific narrative constraints rather than generic instructions"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-engineering",
+    "narrative-design"
+  ],
+  "priority": 5,
+  "content": "Basic prompt: \"Write a love story\" Better prompt: \"Divorce lawyers, opposite sides, same café\"\n\nThis prompt sets up inherent conflict — two people who professionally end relationships, meeting repeatedly in a neutral space. The AI created a story about gradual recognition, professional ethics, and unexpected connection.\n\nExplore more romance story prompts and examples that go beyond typical meet-cutes.\n\nMore winning romance prompts:\n\n- \"Competing food trucks, shared generator\"\n- \"Anonymous advice columnist, discovers identity\"\n- \"Last two humans, incompatible\"",
+  "token_estimate": 105
+}

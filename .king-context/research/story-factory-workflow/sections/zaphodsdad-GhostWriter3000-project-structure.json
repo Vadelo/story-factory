@@ -1,0 +1,33 @@
+{
+  "title": "Project Structure",
+  "path": "zaphodsdad-GhostWriter3000-project-structure",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "ghostwriter3000",
+    "prose_mcp",
+    "Pydantic models",
+    "docker-compose.yml",
+    "Makefile",
+    "LLM services",
+    "vanilla javascript",
+    "route modules",
+    ".env.example",
+    "prose_mcp tools"
+  ],
+  "use_cases": [
+    "Use when navigating the repository to locate business logic within the services directory",
+    "Configure when setting up the environment using Docker Compose for one-command deployment",
+    "Implement when extending the system with new MCP tools in the prose_mcp module",
+    "Use when identifying the entry point for frontend styles and vanilla JavaScript logic"
+  ],
+  "tags": [
+    "architecture",
+    "deployment",
+    "project-setup",
+    "backend",
+    "frontend"
+  ],
+  "priority": 10,
+  "content": "```\nghostwriter3000/\n├── backend/\n│   ├── app/\n│   │   ├── api/routes/      # 20 route modules\n│   │   ├── models/          # Pydantic data models\n│   │   ├── services/        # Business logic, LLM, memory, style\n│   │   └── utils/           # Prompts, backup, file I/O\n│   ├── prose_mcp/           # MCP wrapper (74 tools, 10 modules)\n│   └── requirements.txt\n├── frontend/\n│   ├── css/styles.css       # Single stylesheet, CSS variables\n│   ├── js/app.js            # Single JS file, no framework\n│   └── index.html           # Single HTML file\n├── data/                    # Demo data (characters, scenes, world)\n├── docker/                  # Dockerfile\n├── docker-compose.yml       # One-command deployment\n├── Makefile                 # make run | make docker | make stop\n└── .env.example             # Configuration template\n```",
+  "token_estimate": 152
+}

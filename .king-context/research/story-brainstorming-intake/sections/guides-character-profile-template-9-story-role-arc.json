@@ -1,0 +1,34 @@
+{
+  "title": "9. Story Role & Arc",
+  "path": "guides-character-profile-template-9-story-role-arc",
+  "url": "https://hearth.sh/guides/character-profile-template",
+  "keywords": [
+    "character arc",
+    "protagonist",
+    "antagonist",
+    "internal obstacle",
+    "external obstacle",
+    "conscious want",
+    "unconscious need",
+    "central lie",
+    "character profile",
+    "internal conflict",
+    "meaningful contradiction"
+  ],
+  "use_cases": [
+    "Use when defining a character's transformation from the start to the end of a narrative",
+    "Implement when establishing the emotional stakes and thematic elements of a story",
+    "Configure when contrasting a character's external desires with their internal psychological requirements",
+    "Use when mapping out the primary internal and external forces opposing a character's goals",
+    "Implement when resolving creative blocks or correcting scenes that lack narrative tension"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "storytelling-framework",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "01\n\nWhat is their role in this story (protagonist, antagonist, mentor, foil)?\n\n02\n\nWhat does the story need them to do?\n\n03\n\nWhat are they like at the start of the story?\n\n04\n\nWhat are they like at the end of the story?\n\n05\n\nWhat is the main thing they need to learn or accept?\n\n06\n\nWhat is the central lie they believe about themselves or the world?\n\n07\n\nWhat is the truth they will (or won't) accept by the end?\n\n08\n\nWhat is their biggest internal obstacle?\n\n09\n\nWhat is their biggest external obstacle?\n\n10\n\nWill they succeed, fail, or something in between — and why?\n\nMany writers use character profiles as a procrastination tool — spending weeks building a perfect character and never writing the actual story. Answer the questions that feel urgent, start writing, and return to the template when a scene feels off.\n\nThe most important questions in any character template are what a character wants and what they fear. Desire drives the plot forward. Fear creates resistance and internal conflict. A character who wants nothing and fears nothing is impossible to write compellingly.\n\nThe most interesting characters have a conscious want and an unconscious need that are different — or even opposed. A character might want money (conscious desire) but need to learn to trust people (unconscious need). The story is often about the journey from want to need.\n\nReal people contain contradictions. A character who is generous to strangers but cruel to their family is interesting. A villain who loves their dog is more frightening, not less. Build at least one meaningful contradiction into every major character.",
+  "token_estimate": 363
+}

@@ -1,0 +1,37 @@
+{
+  "title": "3 Theoretical lineage and computational counterparts",
+  "path": "html-2605.02475v1-3-theoretical-lineage-and-computational-counterparts",
+  "url": "https://arxiv.org/html/2605.02475v1",
+  "keywords": [
+    "WorldStateV1",
+    "EventNode",
+    "world_id",
+    "VersionRow",
+    "AMWN tag",
+    "RelationshipEdge.power_dynamic",
+    "causal_topology",
+    "GlobalTrait",
+    "do-calculus",
+    "Belief{value, confidence, inertia}",
+    "fabula",
+    "syuzhet"
+  ],
+  "use_cases": [
+    "Configure when implementing formal narratological structures like fabula and syuzhet indices",
+    "Implement when forking state for counterfactual queries using shadow world_id",
+    "Use when modeling character Theory of Mind with discrete belief and confidence fields",
+    "Configure when defining actant topologies using RelationshipEdge power dynamics",
+    "Use when materializing situational model fields for cognitive narrative comprehension",
+    "Implement when performing causal-inference operations or consistency checks on event chains"
+  ],
+  "tags": [
+    "theoretical-framework",
+    "data-model",
+    "causal-inference",
+    "narratology",
+    "ai-logic"
+  ],
+  "priority": 10,
+  "content": "The system has been built theory-first: every named field in WorldStateV1 corresponds to a specific narratological, cognitive, or causal-inference construct, and every field has a prior computational instantiation that the design either generalises or borrows from. The pairings the design depends on are summarised below; an extended mapping lives in the project’s academic-foundations document.\n\n#### Fabula vs syuzhet (Shklovsky, 1965; Tomashevsky, 1965; Genette, 1980; Bordwell, 1985; Bal, 2009).\n\nTwo integer indices on every EventNode: chronological $f(e)$ and presentation $s(e)$ . The four affective scorers reduce to set operations between the two projections (App. A.5).\n\n#### Possible-worlds narratology (Ryan, 1991, 2001; Doležel, 1998; Pavel, 1986), modal-logical roots (Lewis, 1973), and counterfactual graphical models (Balke and Pearl, 1994; Shpitser and Pearl, 2008; Correa et al., 2021; Correa and Bareinboim, 2025).\n\nEvery node and edge carries $\\texttt{world\\_id}\\in\\{\\text{factual},\\text{shadow}\\}$ ; counterfactual queries fork a sibling VersionRow. The AMWN tag and three-rule mental model (consistency, independence, exclusion) come from Correa and Bareinboim (2025); I adopt the naming and architecture even though the typed narrative graph used here is not a rigorous SCM. AMWN supersedes the Twin-Network construction (Balke and Pearl, 1994) and the multi-network machinery of Shpitser and Pearl (2008), and is the counterfactual-completeness counterpart to do-calculus (Pearl, 1995, 2009; Bareinboim et al., 2022).\n\n#### Greimas (Greimas, 1983), Propp (Propp, 1968), Bremond (Bremond, 1973), and the symbolic story-grammar tradition (Rumelhart, 1975; Mandler and Johnson, 1977; Kintsch and van Dijk, 1978; Schank and Abelson, 1977; Lehnert, 1981; Meehan, 1977; y Pérez and Sharples, 2001; Bringsjord and Ferrucci, 2000; Chambers and Jurafsky, 2008).\n\nGlobalTrait (WORLD_) realises Greimas’s “Power” actant; RelationshipEdge.power_dynamic mirrors the sender / receiver / helper / opponent topology; EventNode.event_type $\\in\\{\\text{choice, outcome, revelation, utterance}\\}$ is a coarse generalisation of Propp’s functions, closer in spirit to Bremond’s triad. The plot-unit and script traditions prefigure both the typed-event graph (Schank and Abelson, 1977; Lehnert, 1981) and the goal-directed planner / generator pipeline (Meehan, 1977; y Pérez and Sharples, 2001); the unsupervised narrative event chains of Chambers and Jurafsky (2008) are a direct precursor to the typed causal_topology maintained at runtime.\n\n#### Cognitive narratology (Herman, 2002; Fludernik, 1996; Zwaan and Radvansky, 1998; Gerrig, 1993) and constructionist comprehension (Trabasso and van den Broek, 1985; Graesser et al., 1994; Kintsch and van Dijk, 1978).\n\nThe five fields of the situation-model (time, space, protagonist, causation, intention) are nearly the field set on EventNode; that readers materialise causal links explicitly during comprehension is the empirical justification for materialising them explicitly in storage.\n\n#### Theory of mind (Premack and Woodruff, 1978; Wimmer and Perner, 1983; Baron-Cohen et al., 1985; Zunshine, 2006; Baker et al., 2009) and its modern LLM benchmarks (Kim et al., 2023; Gu et al., 2026; Cross et al., 2024).\n\nBelief{value, confidence, inertia, established_at_fabula, acquired_via_event_id, acquired_via_channel_id} is a discrete approximation of recursive ToM with provenance. The benchmarks above motivate the auditor’s separate behaviour-given-belief consistency check.\n\n#### Sternberg’s curiosity / suspense / surpris",
+  "token_estimate": 637
+}

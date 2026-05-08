@@ -1,0 +1,31 @@
+{
+  "title": "Abstract",
+  "path": "doi-10.1073-pnas.2011695118-abstract",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2011695118",
+  "keywords": [
+    "natural language processing",
+    "machine-learning",
+    "high-dimensional semantic space",
+    "latent semantic paths",
+    "discourse analysis",
+    "cultural success metrics",
+    "semantic trajectory",
+    "cross-domain analysis",
+    "text sequencing"
+  ],
+  "use_cases": [
+    "Implement when quantifying the semantic movement or progression of narratives",
+    "Use when predicting the popularity or success of content based on textual structure",
+    "Configure when representing text as sequences of points in high-dimensional vectors",
+    "Use when comparing stylistic or structural differences across movies, TV shows, and academic papers"
+  ],
+  "tags": [
+    "data-science",
+    "natural-language-processing",
+    "machine-learning",
+    "research-framework"
+  ],
+  "priority": 8,
+  "content": "Narratives, and other forms of discourse, are powerful vehicles for informing, entertaining, and making sense of the world. But while everyday language often describes discourse as moving quickly or slowly, covering a lot of ground, or going in circles, little work has actually quantified such movements or examined whether they are beneficial. To fill this gap, we use several state-of-the-art natural language-processing and machine-learning techniques to represent texts as sequences of points in a latent, high-dimensional semantic space. We construct a simple set of measures to quantify features of this semantic path, apply them to thousands of texts from a variety of domains (i.e., movies, TV shows, and academic papers), and examine whether and how they are linked to success (e.g., the number of citations a paper receives). Our results highlight some important cross-domain differences and provide a general framework that can be applied to study many types of discourse. The findings shed light on why things become popular and how natural language processing can provide insight into cultural success.",
+  "token_estimate": 226
+}

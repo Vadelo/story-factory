@@ -1,0 +1,32 @@
+{
+  "title": "5. Consider theme and genre",
+  "path": "character-arc-5-consider-theme-and-genre",
+  "url": "https://thewordling.com/character-arc/",
+  "keywords": [
+    "character arc",
+    "theme reinforcement",
+    "genre alignment",
+    "romance arc",
+    "tragedies",
+    "satire",
+    "emotional truth",
+    "transformation",
+    "narrative structure",
+    "storytelling formulas"
+  ],
+  "use_cases": [
+    "Use when aligning character growth with the central theme of a narrative",
+    "Configure when defining the emotional progression specific to a genre",
+    "Implement when designing a tragic arc that focuses on the refusal to change",
+    "Use when establishing the thematic questions an arc must explore",
+    "Configure when seeking to deliver a genre-appropriate emotional conclusion"
+  ],
+  "tags": [
+    "narrative-design",
+    "creative-writing",
+    "story-architecture"
+  ],
+  "priority": 8,
+  "content": "A well-built arc reinforces the story’s theme. If your book asks questions about power, freedom, or illusion, the arc should explore those questions from the inside out. What the character learns (or refuses to learn) should tie directly into the story’s larger ideas.\n\nGenre matters, too. Romance arcs are built around vulnerability and intimacy. Tragedies punish the refusal to change. In satire, transformation may be a punchline. A happy ending in one genre can feel like a betrayal in another.\n\n📌 Pro Tip: Good storytelling isn’t about universal formulas. It’s about knowing what kind of story you’re telling—and building an arc that delivers the emotional truth of that genre.",
+  "token_estimate": 144
+}

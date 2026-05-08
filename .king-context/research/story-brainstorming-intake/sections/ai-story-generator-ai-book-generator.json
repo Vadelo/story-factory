@@ -1,0 +1,30 @@
+{
+  "title": "AI Book Generator",
+  "path": "ai-story-generator-ai-book-generator",
+  "url": "https://smithbook.com/ai-story-generator/",
+  "keywords": [
+    "AI story generation",
+    "creative workflow",
+    "storytelling rhythm",
+    "selective drafting",
+    "iterative revision",
+    "story design",
+    "human-centered AI",
+    "outlining",
+    "ideation constraints"
+  ],
+  "use_cases": [
+    "Use when developing a structured approach to prevent uncontrolled AI content generation",
+    "Implement when balancing human creative input with automated storytelling tools",
+    "Configure when establishing a multi-phase workflow involving ideation, selection, and expansion",
+    "Use when transitioning from exploratory AI prompting to specific scene drafting"
+  ],
+  "tags": [
+    "creative-workflow",
+    "content-strategy",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "None of these problems make AI story generation useless. They simply define the work the human storyteller still needs to do.\n\n#### 9. A Creative Workflow That Makes an AI Story Generator More Useful\n\nA productive AI Story Generator workflow usually follows a rhythm: ideate, constrain, outline, draft selectively, evaluate, revise, and only then expand. That rhythm keeps the story intentional. It prevents the common trap of letting generation outrun design.\n\nFor many writers, it helps to divide the process into separate creative modes. In the first mode, you are exploring. You want lots of options. In the second, you are selecting. You decide which concept, outline, or scene version is actually w",
+  "token_estimate": 150
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Worldbuilding Needs",
+  "path": "storytelling-techniques-narrative-perspective-and-voice-how-close-should-your-narrator-be-to-the-story-worldbuilding-needs",
+  "url": "https://digitalphrases.com/storytelling-techniques/narrative-perspective-and-voice/how-close-should-your-narrator-be-to-the-story/",
+  "keywords": [
+    "worldbuilding",
+    "narrative distance",
+    "omniscient exposition",
+    "immersion",
+    "limited knowledge",
+    "framing devices",
+    "close narrator",
+    "interspersed narrative",
+    "context delivery",
+    "mystery and tension"
+  ],
+  "use_cases": [
+    "Use when balancing exposition with character-driven immersion",
+    "Configure when implementing framing devices for lore delivery",
+    "Implement when shifting between close and distant narrative voices",
+    "Use when leveraging character ignorance to build reader mystery"
+  ],
+  "tags": [
+    "narrative-technique",
+    "worldbuilding",
+    "creative-writing",
+    "storytelling-structure"
+  ],
+  "priority": 8,
+  "content": "Finally, consider how much worldbuilding your story requires, and how you want to deliver it.\n\nA close narrator limits your ability to provide omniscient exposition without breaking immersion. If your protagonist wouldn’t naturally think about the political history of the empire or the workings of a starship engine, you’ll need to find creative ways to convey that information.\n\nSome writers embrace this limitation — using limited knowledge to create mystery and tension. Others strategically shift to a more distant narrative voice at times, or introduce framing devices, to provide needed context.\n\nLook at how Ursula K. Le Guin handles this in The Left Hand of Darkness. The primary narration comes from the protagonist’s perspective, but interspersed with mythic stories and reports, giving the reader a broader understanding of the culture and world.\n\n---\n\nOnce you start thinking in terms of narrative distance, you’ll probably notice a new challenge: how do you change distance without jarring the reader?\n\nHere’s where the craft gets subtle — but also really exciting. Let’s explore a few techniques.",
+  "token_estimate": 230
+}

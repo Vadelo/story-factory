@@ -1,0 +1,31 @@
+{
+  "title": "Voice Drift: How to Catch It",
+  "path": "blog-character-voice-fingerprinting-voice-drift-how-to-catch-it",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "voice drift",
+    "narrative context",
+    "internal monologue",
+    "dialogue collection",
+    "consecutive character reading",
+    "sequential chapter reading",
+    "character study",
+    "revision targets",
+    "cross-manuscript analysis"
+  ],
+  "use_cases": [
+    "Use when evaluating character consistency across a long-form manuscript",
+    "Implement when checking if a character's speech patterns have changed unintentionally",
+    "Configure when establishing a baseline for a character's linguistic style",
+    "Use when local scene adjustments have obscured the overall character arc"
+  ],
+  "tags": [
+    "editing",
+    "character-development",
+    "revision-strategy",
+    "narrative-quality"
+  ],
+  "priority": 8,
+  "content": "Voice drift is easiest to catch by reading across rather than through. Instead of reading your manuscript in chapter order, collect all dialogue and internal monologue for a single character across the entire manuscript and read it consecutively.\n\nThis removes the narrative context that makes each individual line feel plausible and exposes the accumulated drift. The character who spoke in fragments in chapter 3 and now speaks in fully punctuated complex sentences stands out immediately when you read their lines back to back. In sequential chapter reading, each drift is small enough to seem like a scene-specific adjustment. Consecutive character reading shows you what the cumulative adjustments have produced.\n\nThe practical steps:\n\n1. Search your manuscript for every line of dialogue and every passage of internal monologue attributed to a specific character.\n2. Copy them in order to a separate document, stripping surrounding prose and context.\n3. Read that document as if it were a character study. Does it sound like one person? Where does it shift?\n4. Note the chapter numbers where the voice breaks from its established pattern. Those are your revision targets.",
+  "token_estimate": 246
+}

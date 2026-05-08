@@ -1,0 +1,32 @@
+{
+  "title": "Genre-Specific Worldbuilding Priorities",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-genre-specific-worldbuilding-priorities",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "Epic Fantasy",
+    "Sci-Fi",
+    "Historical Fiction",
+    "Contemporary Thriller",
+    "Urban Fantasy",
+    "Geography",
+    "Magic / Tech",
+    "History",
+    "Society / Culture"
+  ],
+  "use_cases": [
+    "Use when crafting a contemporary thriller set in a real city to ensure minimal geography invention and thorough institution research.",
+    "Configure when building deep lore for an epic fantasy world with essential geography, magic, and history.",
+    "Implement when designing a near-future science fiction setting that extrapolates from real science while maintaining consistent tech.",
+    "Apply when writing historical fiction requiring research rigour equivalent to academic history.",
+    "Use when developing urban fantasy that balances essential magic, research-oriented geography, and moderate societal elements."
+  ],
+  "tags": [
+    "worldbuilding",
+    "genre-specific",
+    "creative-writing",
+    "lore-design"
+  ],
+  "priority": 10,
+  "content": "Different genres demand different worldbuilding depths. A contemporary thriller set in a real city needs minimal geography invention but extensive research into real institutions, procedures, and subcultures. A secondary-world epic fantasy needs deep geography, history, and systems but can invent freely. Science fiction near-future requires consistent extrapolation from real science. Historical fiction requires research rigour equivalent to academic history.\n\n| Layer | Epic Fantasy | Sci-Fi | Historical Fiction | Contemporary Thriller | Urban Fantasy |\n| --- | --- | --- | --- | --- | --- |\n| Geography | Essential | Essential | Research | Research | Research |\n| Magic / Tech | Essential | Essential | N/A | N/A | Essential |\n| History | Essential | Moderate | Research | Moderate | Moderate |\n| Society / Culture | Essential | Essential | Research | Essential | Moderate |\n| Deep Lore | Moderate | Moderate | Moderate | Light | Moderate |",
+  "token_estimate": 211
+}

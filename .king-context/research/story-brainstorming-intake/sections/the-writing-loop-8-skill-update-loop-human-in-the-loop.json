@@ -1,0 +1,30 @@
+{
+  "title": "8. Skill update loop (human-in-the-loop)",
+  "path": "the-writing-loop-8-skill-update-loop-human-in-the-loop",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "Skill update loop",
+    "human-in-the-loop",
+    "constraint files",
+    "voice file",
+    "guardrail file",
+    "recurring failure mode",
+    "encoding patterns",
+    "agent system"
+  ],
+  "use_cases": [
+    "Implement when AI models consistently produce hallucinations or philosophical pontification",
+    "Configure when global constraints need to be applied across every agent in the system",
+    "Use when a human mediator is required to distinguish between one-off errors and recurring patterns",
+    "Update when specific brand voice or compliance guardrails need refinement"
+  ],
+  "tags": [
+    "configuration",
+    "human-in-the-loop",
+    "guardrails",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "When feedback reveals a pattern — not a one-off typo, but a recurring failure mode — a human updates the constraint files:\n\n```\nPattern observed: AI generates philosophical pontification in author's voice\n  ↓\nUpdate voice file: \"Pontification must come from the author\"\nUpdate guardrail file: \"Never generate philosophical positions attributed to a real person\"\n```\n\nThis is deliberately manual. The human decides which patterns are worth encoding. The system handles everything else.\n\nEvery update to the constraint files applies to future articles written by every agent in the system.",
+  "token_estimate": 118
+}

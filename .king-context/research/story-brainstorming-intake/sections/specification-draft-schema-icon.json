@@ -1,0 +1,33 @@
+{
+  "title": "`Icon`",
+  "path": "specification-draft-schema-icon",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "Icon",
+    "mimeType",
+    "LoggingLevel",
+    "InputResponseRequestParams",
+    "RFC-5424",
+    "data: URI",
+    "SVG security",
+    "RequestMetaObject",
+    "JSONValue",
+    "syslog severity"
+  ],
+  "use_cases": [
+    "Use when defining icon metadata for light or dark mode user interfaces",
+    "Configure when specifying standard WxH dimensions for scalable or raster image resources",
+    "Implement when handling user input responses within a request-state machine",
+    "Use when mapping application log events to RFC-5424 compliant severity levels",
+    "Configure when delivering Base64-encoded image data via data URIs"
+  ],
+  "tags": [
+    "UI-Components",
+    "Logging",
+    "API-Reference",
+    "Data-Types"
+  ],
+  "priority": 8,
+  "content": "interface Icon {\n   src: string;\n   mimeType?: string;\n   sizes?: string[];\n   theme?: \"light\" | \"dark\";\n}An optionally-sized icon that can be displayed in a user interface. src: string A standard URI pointing to an icon resource. May be an HTTP/HTTPS URL or a `data:` URI with Base64-encoded image data. Consumers SHOULD take steps to ensure URLs serving icons are from the\nsame domain as the client/server or a trusted domain. Consumers SHOULD take appropriate precautions when consuming SVGs as they can contain\nexecutable JavaScript. mimeType?: string Optional MIME type override if the source MIME type is missing or generic.\nFor example: `\"image/png\"`, `\"image/jpeg\"`, or `\"image/svg+xml\"`. sizes?: string[] Optional array of strings that specify sizes at which the icon can be used.\nEach string should be in WxH format (e.g., `\"48x48\"`, `\"96x96\"`) or `\"any\"` for scalable formats like SVG. If not provided, the client should assume that the icon can be used at any size. theme?: \"light\" | \"dark\" Optional specifier for the theme this icon is designed for. `\"light\"` indicates\nthe icon is designed to be used with a light background, and `\"dark\"` indicates\nthe icon is designed to be used with a dark background. If not provided, the client should assume the icon can be used with any theme.\n\ninterface InputResponseRequestParams {\n  _meta?: RequestMetaObject;\n   inputResponses?: InputResponses;\n   requestState?: string;\n}Common params for any request. _meta?: RequestMetaObject Inherited from RequestParams._meta inputResponses?: InputResponses requestState?: string\n\nJSONArray: JSONValue []\n\nJSONObject: { [key: string]: JSONValue }Type Declaration[key: string]: JSONValue\n\nJSONValue: string | number | boolean | null | JSONObject | JSONArray\n\nLoggingLevel:\n  | \"debug\"\n  | \"info\"\n  | \"notice\"\n  | \"warning\"\n  | \"error\"\n  | \"critical\"\n  | \"alert\"\n  | \"emergency\"The severity of a log message. These map to syslog message severities, as specified in RFC-5424: [https://datatracker.ietf.org/doc/html/rfc5424#section-6.2.1](https://datatracker.ietf.org/doc/html/rfc5424#section-6.2.1)",
+  "token_estimate": 383
+}

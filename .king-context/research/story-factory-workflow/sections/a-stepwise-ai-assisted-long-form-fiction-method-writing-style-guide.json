@@ -1,0 +1,32 @@
+{
+  "title": "Writing Style Guide",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-writing-style-guide",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "Style Guide",
+    "Voice",
+    "Tonal Registers",
+    "Sentence Rhythms",
+    "Story Inputs",
+    "AI-Generated Drafts",
+    "Genre Conventions",
+    "Literary Influences",
+    "Lyrical Archaism",
+    "Prose Output"
+  ],
+  "use_cases": [
+    "Implement when defining the unique authorial voice for AI-assisted writing",
+    "Configure when setting tonal constraints and genre-specific conventions",
+    "Use when fleshing out story ideas or building world outlines prior to drafting",
+    "Use when filtering AI outputs to avoid clichés and default generic language"
+  ],
+  "tags": [
+    "documentation",
+    "creative-writing",
+    "configuration",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "Voice is your signature, and in collaboration with AI, the boundary between \"distinctive\" and \"default\" can easily blur. A style guide serves as your safeguard—think of it as a field manual for your story, a living document that defines genre conventions, tonal registers, literary influences, and the subtle constraints that keep your prose authentic. Specify your preferred sentence rhythms, approaches to dialogue, degrees of irony, and even words or phrases to avoid. If you want your mystery to channel Raymond Chandler or your fantasy to embrace lyrical archaism, articulate these preferences clearly. The more precisely you define your stylistic boundaries, the less likely you'll encounter that unsettling \"almost-but-not-quite-right\" feeling when reviewing AI-generated drafts.\n\n(Tip: An AI can help draft initial style guidelines based on your favorite authors or genres, but never accept these suggestions without careful review. Revise thoroughly, eliminate clichés, and use the guide as a creative filter rather than fixed doctrine.)\n\nThe reason the style guide is first on the list of inputs is because it is useful for fleshing out story ideas, working on outlines, and on building every other story input, not just the prose output.",
+  "token_estimate": 252
+}

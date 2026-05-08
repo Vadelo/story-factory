@@ -1,0 +1,32 @@
+{
+  "title": "The Forced Convergence",
+  "path": "blog-how-to-map-a-multi-pov-novel-the-forced-convergence",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "Forced Convergence",
+    "multi-POV pacing",
+    "story logic",
+    "intermediate connections",
+    "causal links",
+    "cross-connections",
+    "parallel tracks",
+    "narrative rhythm",
+    "intercut management",
+    "visual map"
+  ],
+  "use_cases": [
+    "Use when evaluating the organic progression of parallel character arcs",
+    "Implement when auditing multi-POV pacing and narrative density",
+    "Configure when designing plot intersections to avoid convenience-based resolutions",
+    "Use when mapping causal links between disparate storyline tracks"
+  ],
+  "tags": [
+    "narrative-structure",
+    "pacing",
+    "creative-writing",
+    "plot-design"
+  ],
+  "priority": 8,
+  "content": "Two storylines that have had no genuine connection for four hundred pages suddenly bring their characters together. The convergence happens because the plot requires it, not because the story logic has been building toward it.\n\nOn a visual map, a forced convergence looks like two parallel tracks with almost no cross-connections, and then a single point where they snap together. The absence of intermediate connections is the tell. A well-prepared convergence will have a series of increasingly dense connections in the chapters leading up to it, causal links being drawn tighter and tighter until the meeting feels inevitable rather than convenient.\n\nPacing in a multi-POV novel operates differently than pacing in a single-POV story. You are managing not just the energy within each storyline but the rhythm of the intercut itself.",
+  "token_estimate": 174
+}

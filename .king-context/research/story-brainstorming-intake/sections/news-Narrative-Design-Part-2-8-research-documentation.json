@@ -1,0 +1,33 @@
+{
+  "title": "8. Research Documentation",
+  "path": "news-Narrative-Design-Part-2-8-research-documentation",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "IP Lore Bible",
+    "Narrative Bible",
+    "World-building documentation",
+    "Mural",
+    "Miro",
+    "Source material research",
+    "Narrative tools",
+    "Onboarding developers",
+    "Consistency and verisimilitude",
+    "Original IP research"
+  ],
+  "use_cases": [
+    "Use when onboarding developers to a project using an existing external intellectual property",
+    "Implement when organizing ongoing research materials for world-building and narrative development",
+    "Configure when selecting narrative design tools like Mural, Miro, or script-writing software",
+    "Use when establishing a single source of truth for the project's lore and story parameters",
+    "Use when differentiating between universal IP lore and the specific narrative of the current game project"
+  ],
+  "tags": [
+    "narrative-design",
+    "documentation",
+    "knowledge-management",
+    "game-design"
+  ],
+  "priority": 8,
+  "content": "If working with an existing IP, I write an IP Lore Bible to familiarize developers with the source material when onboarding.\n\nThis is different from the game’s Narrative Bible, which is all about OUR game concept, story, and characters. The IP Lore Bible is about the world that we need to stay in sync with. Consistency and verisimilitude are tantamount to fans.\n\nIf working on an original IP, research documentation can include any sites, book excerpts, film or YouTube clips, etc., that help inform world-building. It’s best to keep track of all this research in one place.\n\nThis step is ongoing from the very start. I start researching immediately and gradually compile my notes, links, etc., eventually sitting down to write this, often very large, document.\n\nYou need to decide what narrative tools to use for the project – from brainstorming software such as Mural or Miro, to script-writing software like Final",
+  "token_estimate": 202
+}

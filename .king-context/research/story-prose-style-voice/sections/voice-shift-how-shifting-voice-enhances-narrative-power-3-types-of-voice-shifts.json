@@ -1,0 +1,31 @@
+{
+  "title": "3. Types of Voice Shifts",
+  "path": "voice-shift-how-shifting-voice-enhances-narrative-power-3-types-of-voice-shifts",
+  "url": "https://literarydevices.net/voice-shift-how-shifting-voice-enhances-narrative-power/",
+  "keywords": [
+    "First-Person POV",
+    "Third-Person Limited",
+    "Omniscient Narrator",
+    "Multiple POVs",
+    "Internal Monologue",
+    "Unreliable Narrator",
+    "Narrative Voice",
+    "Perspective Transition",
+    "Character Accountability"
+  ],
+  "use_cases": [
+    "Implement when alternating between diverse character viewpoints to provide a broader story context",
+    "Use when shifting from single-character perspective to an all-knowing narrator to reveal hidden motives",
+    "Configure when distinguishing between objective narrator commentary and subjective character monologue",
+    "Use when transitioning from an unreliable to a reliable narrator to build plot tension"
+  ],
+  "tags": [
+    "narrative-structure",
+    "thematic-elements",
+    "content-strategy",
+    "literary-techniques"
+  ],
+  "priority": 8,
+  "content": "1. First‑Person to Third‑Person (or vice versa)Example: “I walked into the room” → “He walked into the room.” This shift can broaden context or focus on a character’s actions.\n2. Third‑Person Limited to Omniscient Shift from a single character’s perspective to an all‑knowing narrator, revealing hidden motives or future events.\n3. Multiple First‑Persons (Multiple POVs)Alternating between different characters’ first‑person accounts allows readers to experience diverse viewpoints within the same story.\n4. Narrator’s Voice vs. Character’s VoiceDistinguishing the narrator’s commentary from a character’s internal monologue clarifies who is speaking and why.\n5. Unreliable Narrator to ReliableChanging credibility or perspective over time can create tension and surprise when truth emerges.",
+  "token_estimate": 143
+}

@@ -1,0 +1,32 @@
+{
+  "title": "2.3 Relation Arcs and Character Arcs",
+  "path": "html-2510.18201v1-2-3-relation-arcs-and-character-arcs",
+  "url": "https://arxiv.org/html/2510.18201v1",
+  "keywords": [
+    "Relation Arcs",
+    "Character Arcs",
+    "MARCUS",
+    "Modelling Arcs for Understanding Stories",
+    "actor arcs",
+    "experiencer arcs",
+    "shift in circumstance",
+    "quantitative aggregations",
+    "NLP pipeline",
+    "event-centric"
+  ],
+  "use_cases": [
+    "Use when modeling the evolution of character relationships throughout a narrative",
+    "Implement when tracking shifts in character circumstances as both actors and recipients of actions",
+    "Configure when generating quantitative visualizations of plot progression using MARCUS",
+    "Use when analyzing the discrepancy between a character's actions and their external environment"
+  ],
+  "tags": [
+    "narrative-theory",
+    "nlp-pipeline",
+    "data-visualization",
+    "computational-linguistics"
+  ],
+  "priority": 8,
+  "content": "As the story progresses, the relationship between a pair of characters evolves. A relation arc is a plot of the shift in circumstance of a directed pair of characters across their participatory events in a narrative. While the actor of an event influences the circumstances that affect the experiencer, the latter’s subsequent actions are captured in other relation arcs, allowing the effect of events to trickle through multiple connected arcs forming the plot of a narrative. We posit that a character’s journey at any point in the narrative can be represented by contextually assessing the amalgamated effect of their interactions with both themselves and other characters on their circumstance; a character arc is thus defined as a pair of quantitative aggregations of all the corresponding relation arcs of a character as both actor and experiencer respectively.\n\nFig 1 shows the character arc for the protagonist of the Lord of the Rings, Frodo Baggins, capturing the shift of circumstances he experiences as both an actor and experiencer. The events Frodo participates in change his circumstances - a drop to the valleys (minimas) represents a deterioration of circumstances, whereas a rise to the peaks (maximas) denotes an improvement. It is evident from C and the arc slice between D and E that actor and experiencer arcs of a character are not always aligned, allowing for the intuitive explanation of instances when characters oppose the circumstances they find themselves in, for better or for worse.\n\nWe present MARCUS (Modelling Arcs for Understanding Stories), an event-centric NLP pipeline111 https://github.com/darthbhyrava/MARCUS that generates character arcs from narratives. In this section, we will elaborate upon the various components of the pipeline.",
+  "token_estimate": 364
+}

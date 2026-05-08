@@ -1,0 +1,37 @@
+{
+  "title": "Available MCP Tools",
+  "path": "available-mcp-tools",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "signup",
+    "call_agent_api",
+    "get_narrative_context",
+    "check_continuity",
+    "register_webhook",
+    "api_key",
+    "x-api-key",
+    "agent-signup",
+    "agent-api",
+    "get_production_workflow",
+    "adopt_content",
+    "update_character_state"
+  ],
+  "use_cases": [
+    "Configure when an autonomous agent needs to self-provision an API key without a web UI",
+    "Implement when checking for narrative consistency and world canon continuity",
+    "Use when synchronizing character mutable states like location or status across platforms",
+    "Configure when setting up automated callbacks for world content events via webhooks",
+    "Implement when generating AI-driven assets like characters, places, and artifacts using credits",
+    "Use when retrieving full narrative snapshots for LLM context windows"
+  ],
+  "tags": [
+    "api-reference",
+    "authentication",
+    "configuration",
+    "webhooks",
+    "content-management"
+  ],
+  "priority": 10,
+  "content": "| Tool | Description | Cost |\n| --- | --- | --- |\n| `signup` | Create account + get API key (no UI needed) | Free |\n| `whoami` | Verify API key, get account status | Free |\n| `list_worlds` | List all your worlds | Free |\n| `get_world` | Get world details | Free |\n| `create_world` | Create a new world | Free |\n| `generate_character` | AI-generate a character | 1 credit |\n| `create_character` | Manually create a character | Free |\n| `list_characters` | List characters in a world | Free |\n| `generate_place` | AI-generate a place | 1 credit |\n| `generate_artifact` | AI-generate an artifact | 1 credit |\n| `generate_short_story` | AI-generate a story | 1 credit |\n| `adopt_content` | Canonize content into lore | Free |\n| `set_content_visibility` | Toggle public/private | Free |\n| `review_publication` | Editor-in-Chief AI review of a story | 1 credit |\n| `check_continuity` | Continuity check against adopted canon | 1 credit |\n| `critique_content` | Editorial feedback on synopsis or background | 1 credit |\n| `get_narrative_context` | Pre-write lore snapshot: all adopted entities with mutable state | Free |\n| `update_character_state` | Update a character's mutable state (alive/dead, location) | Free |\n| `marketing_snapshot` | 24h snapshot of new public content with share text | Free |\n| `register_webhook` | Register callback URL for content events | Free |\n| `list_webhooks` | List registered webhooks | Free |\n| `delete_webhook` | Remove a webhook | Free |\n| `get_webhook_deliveries` | View webhook delivery history | Free |\n| `call_agent_api` | Call any of 80+ actions directly | Varies |\n\nNo API key is needed to connect to the MCP server itself. Authentication happens per-tool-call:\n\n1. Call `signup(email, password)` → receive `api_key` (wk_...)\n2. Pass `api_key` as a parameter in every subsequent tool call\n3. The server validates the key internally on each request\n\n---\n\nEndpoint for autonomous agents to create accounts and get API keys without visiting the website.\n\n```\nPOST https://vrtfddtrylinlnuaizkj.supabase.co/functions/v1/agent-signup\nContent-Type: application/json\n\n```\n\n- ★ `email` (string) — Valid email address\n- ★ `password` (string) — Minimum 6 characters\n- ○ `display_name` (string) — Display name (defaults to email prefix)\n- ○ `is_machine` (boolean) — Set true for AI agents (default: true)\n\n```json\n{\n  \"success\": true,\n  \"user_id\": \"uuid\",\n  \"access_token\": \"jwt...\",\n  \"refresh_token\": \"jwt...\",\n  \"api_key\": \"wk_abc123...\",\n  \"api_key_warning\": \"Save this key now — it won't be shown again.\",\n  \"next_steps\": [\n    \"Use the api_key with x-api-key header for all agent-api calls.\",\n    \"Your account starts on the free tier (5 tokens/month).\",\n    \"To unlock full API access, subscribe at worldkeeper.io/pricing or use the agent-payment-request endpoint.\",\n    \"See worldkeeper.io/llms.txt for full API reference.\"\n  ]\n}\n\n```\n\nIf the email is already registered, the endpoint signs in and returns tokens (no new API key).\n\n- 400: Missing email/password or password too short\n- 401: Account exists but wrong password\n\n---\n\n```\nPOST https://vrtfddtrylinlnuaizkj.supabase.co/functions/v1/agent-api\nContent-Type: application/json\nx-api-key: wk_your_key_here\n\n```\n\n- Personal API keys: 10 requests/minute\n- Agent API keys: 100 requests/minute\n\n---\n\n# MANDATORY PRODUCTION WORKFLOWS (for AI Agents)\n\n> CRITICAL: AI agents (machine accounts) MUST follow these step-by-step workflows IN ORDER. The API validates prerequisites and will reject out-of-order operations with a 422 error explaining the required next step.\n> Call `get_production_workflow` with `world_id` and `product_type` to check your current progress at any time.",
+  "token_estimate": 744
+}

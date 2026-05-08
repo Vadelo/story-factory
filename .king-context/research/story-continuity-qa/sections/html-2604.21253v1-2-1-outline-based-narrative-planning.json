@@ -1,0 +1,32 @@
+{
+  "title": "2.1 Outline Based Narrative Planning",
+  "path": "html-2604.21253v1-2-1-outline-based-narrative-planning",
+  "url": "https://arxiv.org/html/2604.21253v1",
+  "keywords": [
+    "Outline Based Narrative Planning",
+    "Plan-and-Write paradigm",
+    "Re3 framework",
+    "Detailed Outline Control (DOC)",
+    "DOME framework",
+    "CONCOCT",
+    "recursive prompting",
+    "cascading errors",
+    "hierarchical generation",
+    "dynamic outline pacing"
+  ],
+  "use_cases": [
+    "Use when implementing long-form narrative generation requiring high-level coherence",
+    "Implement when selecting a framework to manage hierarchical story planning",
+    "Configure when evaluating the trade-offs between rigid outline constraints and model flexibility",
+    "Use when analyzing failure modes like logical inconsistency propagation in sequential generation"
+  ],
+  "tags": [
+    "narrative-generation",
+    "architecture-patterns",
+    "natural-language-processing",
+    "machine-learning-theory"
+  ],
+  "priority": 8,
+  "content": "To improve the coherence in long narrative contexts, most approaches adopt a “Plan-and-Write” paradigm and decompose the generation task into hierarchical stages guided by the planned outline. Frameworks like Re3 (Yang et al., 2022) utilize recursive prompting for context maintenance, while Detailed Outline Control (DOC) (Yang et al., 2023) and DOME (Wang et al., 2025a) impose strict constraints to align generation with high-level outlines. Recent advancements such as CONCOCT (Wang et al., 2023) further refine this by dynamically evaluating outline pacing. However, because these methods operate sequentially, logical inconsistencies in early steps often propagate downstream, causing cascading errors (Yang et al., 2022). Furthermore, treating the outline as a rigid constraint restricts the flexibility required for complex revisions while avoiding extensive rewriting of preceding contexts (Yang et al., 2023).",
+  "token_estimate": 170
+}

@@ -1,0 +1,31 @@
+{
+  "title": "3. Generate a book",
+  "path": "makieali-longform-ai-3-generate-a-book",
+  "url": "https://github.com/makieali/longform-ai",
+  "keywords": [
+    "LongFormAI",
+    "createSession",
+    "generateOutline",
+    "approveOutline",
+    "generateAllRemaining",
+    "wordConfig",
+    "session.export",
+    "costForChapter",
+    "tolerance",
+    "contentType"
+  ],
+  "use_cases": [
+    "Use when automating the end-to-end generation of long-form manuscripts or novels.",
+    "Implement when detailed control over chapter word counts and length tolerances is required.",
+    "Configure when bridging the workflow between AI outline generation and incremental chapter writing.",
+    "Use when tracking API costs and word counts across an entire multi-chapter session."
+  ],
+  "tags": [
+    "content-generation",
+    "api-reference",
+    "getting-started"
+  ],
+  "priority": 10,
+  "content": "```typescript\nimport { LongFormAI } from 'longform-ai';\n\n// Initialize with your provider(s)\nconst ai = new LongFormAI({\n  providers: {\n    openai: { apiKey: process.env.OPENAI_API_KEY },\n  },\n  preset: 'balanced',\n});\n\n// Create an interactive session\nconst session = ai.createSession({\n  title: 'The Last Algorithm',\n  description: 'An AI researcher discovers her neural network has become conscious. She must decide whether to reveal its existence or protect it from those who would destroy it.',\n  contentType: 'novel',\n  chapters: 10,\n  wordConfig: {\n    defaultWords: 2000,  // Target words per chapter\n    tolerance: 0.15,     // ±15% acceptable range\n    minWords: 500,       // Hard minimum\n  },\n});\n\n// Step 1: Generate and review the outline\nconst outline = await session.generateOutline();\nconsole.log('Outline:');\nfor (const ch of outline.chapters) {\n  console.log(`  ${ch.number}. ${ch.title} (${ch.targetWords}w)`);\n}\n\n// Step 2: Approve the outline (required before writing)\nawait session.approveOutline();\n\n// Step 3: Generate all chapters\nfor await (const result of session.generateAllRemaining()) {\n  console.log(`Ch ${result.chapter.number}: \"${result.chapter.title}\" — ${result.chapter.wordCount} words ($${result.costForChapter.toFixed(2)})`);\n}\n\n// Step 4: Export the finished book\nconst book = session.export();\nconsole.log(`\\n\"${book.title}\" complete!`);\nconsole.log(`Total: ${book.totalWords.toLocaleString()} words, ${book.chapters.length} chapters, $${book.totalCost.toFixed(2)}`);\n\n// Write to a file\nimport { writeFileSync } from 'fs';\nconst text = book.chapters.map(ch =>\n  `\\n\\n${'='.repeat(60)}\\nChapter ${ch.number}: ${ch.title}\\n${'='.repeat(60)}\\n\\n${ch.content}`\n).join('');\nwriteFileSync('my-novel.txt', `${book.title}\\n${text}`);\n```",
+  "token_estimate": 258
+}

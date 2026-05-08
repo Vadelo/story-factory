@@ -1,0 +1,33 @@
+{
+  "title": "How to design a story-driven theme",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-how-to-design-a-story-driven-theme",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "story-driven theme",
+    "Multi-Brand",
+    "One Form System",
+    "CTAs",
+    "progress indicators",
+    "error states",
+    "high-stakes consent flow",
+    "reusable themes",
+    "trust-heavy flows",
+    "growth-focused flows"
+  ],
+  "use_cases": [
+    "Use when refreshing a brand identity across multiple digital forms",
+    "Configure when designing high-stakes payment, healthcare, or hiring workflows",
+    "Implement when creating high-conversion waitlists or promotional signups",
+    "Use when mapping emotional responses like trust or urgency to UI components",
+    "Configure when scaling a theme system across multiple product lines or brands"
+  ],
+  "tags": [
+    "UX design",
+    "branding",
+    "theming",
+    "configuration"
+  ],
+  "priority": 8,
+  "content": "When you’re refreshing your brand, ask:\n\n- What should someone feel at the start of this form? Reassured? Energized? Curious? Urgent?\n- What’s the single most important action here? Submitting a request? Selecting a plan? Choosing a use case?\n- What’s the risk level? Is this a casual newsletter signup or a high-stakes consent flow?\n\nThen translate those answers into specific theme decisions:\n\nFor trust-heavy flows (payments, healthcare, hiring):\n\n- Softer colors, generous whitespace, minimal distractions\n- Clear, high-contrast labels and error states\n- Subtle brand accents instead of aggressive gradients\n\nFor growth-focused flows (waitlists, promos, early access):\n\n- Bolder accent colors on CTAs\n- Strong hierarchy: one hero headline, one primary button\n- Progress indicators that make the flow feel quick, not endless\n\nIf you’re running multiple brands or product lines, this is where a shared system shines. The patterns in Multi-Brand, One Form System map directly to rebrands: you define a small set of reusable themes and roll them out across forms instead of one-off redesigns.",
+  "token_estimate": 223
+}

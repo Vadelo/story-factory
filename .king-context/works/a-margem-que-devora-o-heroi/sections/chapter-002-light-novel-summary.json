@@ -1,0 +1,21 @@
+{
+  "title": "Chapter Summary: Resolver Conversa",
+  "path": "chapter-002-light-novel-summary",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-002-light-novel-summary",
+  "keywords": [
+    "chapter",
+    "summary",
+    "chapter-002-light-novel"
+  ],
+  "use_cases": [
+    "Recall what happened in this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "summary",
+    "chapter-002-light-novel"
+  ],
+  "priority": 10,
+  "content": "Kael usa a caixa de comentário da margem para bloquear Davi e ameaça resolver a conversa, sugerindo que comentários resolvidos podem apagar conflitos da camada de revisão. Yerin sobrevive no canal inferior, ferida e segurando o selo da carruagem. Davi recupera uma fala cortada de Yerin e descobre que devolver uma fala também devolve autoria: Yerin passa a tocar parcialmente a margem. Ela escapa pela grade rumo ao Pavilhão dos Arquivos, confronta Kael por chegar tarde e confronta Davi por decidir por ela. A camada de restauração tenta restaurar a relação principal.",
+  "token_estimate": 122
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Aligned",
+  "path": "dual-pov-aligned",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "Aligned structure",
+    "dual POV",
+    "plot points",
+    "inciting incident",
+    "climax",
+    "story shape",
+    "structural alignment",
+    "narrative divergence"
+  ],
+  "use_cases": [
+    "Implement when characters share major milestones and narrative goals",
+    "Configure when multiple-POV characters participate in a singular quest",
+    "Use when bringing disparate character arcs together for a centralized climax",
+    "Apply when exploring a single story event from two different architectural angles"
+  ],
+  "tags": [
+    "narrative-structure",
+    "story-architecture",
+    "plot-design"
+  ],
+  "priority": 8,
+  "content": "Aligned structure means that characters do share major plot points. If the story shape is one in which the characters begin together, diverge, and then come back together later, then an aligned inciting incident is likely. I’d guess that the majority of dual POV stories bring the characters together in the climax. But two characters on a quest together may indeed share almost every major plot point of the story.\n\nThere is definitely no requirement to align the characters structurally, however. Some dual-POV stories essentially feel like two stories. Some feel like one story explored from two different angles. Neither approach is more “correct” than the other.",
+  "token_estimate": 142
+}

@@ -1,0 +1,33 @@
+{
+  "title": "3 Assessing GPT-4o’s Ability to Extract Isotopies",
+  "path": "abs-2510.04400-3-assessing-gpt-4o-s-ability-to-extract-isotopies",
+  "url": "https://arxiv.org/abs/2510.04400",
+  "keywords": [
+    "GPT-4o",
+    "isotopy extraction",
+    "semantic isotopy",
+    "zero-shot Chain of Thought (CoT)",
+    "XLM-RoBERTa",
+    "cosine similarity",
+    "multilingual semantic embedding",
+    "structured output",
+    "temperature = 0",
+    "Json format",
+    "isotopy benchmark"
+  ],
+  "use_cases": [
+    "Use when validating an LLM's ability to identify recurring semantic themes across multilingual texts",
+    "Implement when comparing LLM-generated isotopies against specialist linguistic benchmarks",
+    "Configure when requiring structured JSON outputs from GPT-4o for qualitative semantic analysis",
+    "Use when applying semantic embeddings like XLM-RoBERTa to match noun phrases beyond literal string comparison"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "semantic-analysis",
+    "model-evaluation",
+    "benchmarking"
+  ],
+  "priority": 8,
+  "content": "In this section, we first establish the ability for LLMs to extract semantic isotopies from texts, in particular GPT-4o which will be used to analyze semantically the story completions provided by the other LLMs. In the absence of standard isotopy benchmark, we have collected a set of published isotopies in the specialist literature, which spans across several disciplines in linguistics, poetics and media studies, using the JSTOR111www.jstor.org bibliographic database.\n\nFigure 3: GPT-4o performance on the isotopy benchmark. 50% of isotopy labels are literal matches, with a further 19.4% matching with a multilingual embedding.\n\n![Refer to caption](https://arxiv.org/html/Iso_bench.png)\n\nAt the end of the process, we have assembled a test set of 26 texts in French (14), Spanish (6) and English (6), corresponding to a total of 36 isotopies. Examples of isotopies include analysis of excerpts from French novels Rastier (1997) Dolores and García (2006), English verses from the Jerusalem Bible Galofaro (2020), or from Shakespeare’s Richard III Ungelenk (2023), South American Spanish tales Lins (2023), or statements from the head of a central bank Modena (2017). Their underlying texts encompass various styles, while being representative of the challenges faced when extracting isotopies. Our test system relies on running an isotopy-extraction GPT-4o Prompt on the above benchmark, producing up to two isotopies in a Json format, using structured output and temperature $=0$ parameters, with a zero-shot Chain of Thought (CoT) Wei et al. (2022) instruction, both in the user and system prompt.\n\nOur quantitative analysis focuses in the first instance on the correct identification by GPT-4o of the isotopy label, which captures how well the LLM has analyzed semantic occurrences, since the isotopy is established via its constituent lexical units, and only subsequently ‘named’. The set of resulting isotopies is then matched to the benchmark, using a comparison procedure that avoids spurious matches when more than two isotopies need to be compared, by exiting upon successful comparison. Each isotopy label is first matched literally to the reference and, should no match be found, it is compared via a multilingual semantic embedding (XLM-RoBERTa Conneau et al. (2020)), setting a cosine similarity threshold of $0.70$ for a positive match. Figure 3 reports results, with a literal match level of 50.0% and an additional 19.4% embedding similarity, resulting in correct identification in 69.4% of cases, a conclusive result considering the very challenging nature of the benchmark. We still checked that calculated isotopies contained similar lexical units to those from the reference benchmark, using semantic embeddings. The average cosine similarity between isotopy wordlists across the full test set remains highly significant at $0.76$ . Recall based on literal matches achieves an average score of 0.59, while using partial matches, in particular for noun phrases, raises this value to $0.77$ . Overall, considering the highly challenging nature of the benchmark, these results confirm the ability of GPT-4o to extract complex isotopies, and support its use across our story completion dataset.",
+  "token_estimate": 641
+}

@@ -1,0 +1,34 @@
+{
+  "title": "3.1 Notation and Background",
+  "path": "html-2406.00888v2-3-1-notation-and-background",
+  "url": "https://arxiv.org/html/2406.00888v2",
+  "keywords": [
+    "RLHF",
+    "KL-divergence constraint",
+    "reward function r(x,y)",
+    "policy π(y|x)",
+    "comparison dataset",
+    "expert demonstrations D_E",
+    "π_ref",
+    "π_E",
+    "objective J_KL",
+    "DITTO",
+    "SFT",
+    "distribution of completions"
+  ],
+  "use_cases": [
+    "Configure when training a language model to maximize a reward function while maintaining proximity to a reference model",
+    "Implement when data-limited expert demonstrations are available instead of large-scale human comparison datasets",
+    "Use when designing a loss function that incorporates KL-constraint modulation via alpha",
+    "Apply when aiming to overcome priors induced by standard RLHF training through synthetic comparison generation"
+  ],
+  "tags": [
+    "Reinforcement Learning",
+    "Model Training",
+    "Algorithm Foundations",
+    "LLM Optimization"
+  ],
+  "priority": 10,
+  "content": "A language model can be viewed as policy π⁢(y|x)𝜋conditional𝑦𝑥\\pi(y|x)italic_π ( italic_y | italic_x ) that produces a distribution over completions y𝑦yitalic_y to a prompt x𝑥xitalic_x. In RLHF, our objective is to train an LLM to maximize a reward function r⁢(x,y)𝑟𝑥𝑦r(x,y)italic_r ( italic_x , italic_y ) that measures the quality of a prompt-completion pair (x,y)𝑥𝑦(x,y)( italic_x , italic_y ). Typically, a KL-divergence constraint is added to prevent the updated model from straying too far from a base LM (Ziegler et al., 2019), which we denote as πrefsubscript𝜋ref\\pi_{\\textrm{ref}}italic_π start_POSTSUBSCRIPT ref end_POSTSUBSCRIPT. Altogether, RLHF methods optimize the following objective,\n\n| 𝒥KL⁢(π)=𝔼y∼π(⋅|x),x∼p⁢[r⁢(x,y)−α⁢log⁡π⁢(y|x)πref⁢(y|x)]\\mathcal{J}_{\\text{{KL}}}(\\pi)=\\mathbb{E}_{y\\sim\\pi(\\cdot|x),x\\sim p}\\left[r(x% ,y)-\\alpha\\log\\frac{\\pi(y|x)}{\\pi_{\\textrm{ref}}(y|x)}\\right]caligraphic_J start_POSTSUBSCRIPT KL end_POSTSUBSCRIPT ( italic_π ) = blackboard_E start_POSTSUBSCRIPT italic_y ∼ italic_π ( ⋅ | italic_x ) , italic_x ∼ italic_p end_POSTSUBSCRIPT [ italic_r ( italic_x , italic_y ) - italic_α roman_log divide start_ARG italic_π ( italic_y | italic_x ) end_ARG start_ARG italic_π start_POSTSUBSCRIPT ref end_POSTSUBSCRIPT ( italic_y | italic_x ) end_ARG ] | (1) |\n| --- | --- |\n\nwhich maximizes the expected reward over the prompt distribution p𝑝pitalic_p subject to a KL-constraint modulated by α𝛼\\alphaitalic_α. Usually, this objective is optimized using a comparison dataset of the form {(x,yw,yl)}𝑥superscript𝑦𝑤superscript𝑦𝑙\\{(x,y^{w},y^{l})\\}{ ( italic_x , italic_y start_POSTSUPERSCRIPT italic_w end_POSTSUPERSCRIPT , italic_y start_POSTSUPERSCRIPT italic_l end_POSTSUPERSCRIPT ) }, where the “win” completion ywsuperscript𝑦𝑤y^{w}italic_y start_POSTSUPERSCRIPT italic_w end_POSTSUPERSCRIPT is preferred to the “loss” completion ylsuperscript𝑦𝑙y^{l}italic_y start_POSTSUPERSCRIPT italic_l end_POSTSUPERSCRIPT, which we write as yw⪰ylsucceeds-or-equalssuperscript𝑦𝑤superscript𝑦𝑙y^{w}\\succeq y^{l}italic_y start_POSTSUPERSCRIPT italic_w end_POSTSUPERSCRIPT ⪰ italic_y start_POSTSUPERSCRIPT italic_l end_POSTSUPERSCRIPT.\n\nWhile this objective is ubiquitous in prior work (Ouyang et al., 2022; Rafailov et al., 2023), it is typically applied in the context of population-based reward functions learned from large comparison datasets collected via a multitude of annotators. In contrast, we consider r⁢(x,y)𝑟𝑥𝑦r(x,y)italic_r ( italic_x , italic_y ) to be the objective of a single individual. In this regime, collecting thousands of comparisons from one user is infeasible. Instead, we assume access to a small dataset of expert demonstrations, denoted 𝒟Esubscript𝒟𝐸\\mathcal{D}_{E}caligraphic_D start_POSTSUBSCRIPT italic_E end_POSTSUBSCRIPT. We assume these demonstrations to be generated from the expert policy πE=arg⁢maxπ⁡𝔼y∼π(⋅|x),x∼p⁢[r⁢(x,y)]\\pi_{E}=\\operatorname*{arg\\,max}_{\\pi}\\mathbb{E}_{y\\sim\\pi(\\cdot|x),x\\sim p}[r% (x,y)]italic_π start_POSTSUBSCRIPT italic_E end_POSTSUBSCRIPT = start_OPERATOR roman_arg roman_max end_OPERATOR start_POSTSUBSCRIPT italic_π end_POSTSUBSCRIPT blackboard_E start_POSTSUBSCRIPT italic_y ∼ italic_π ( ⋅ | italic_x ) , italic_x ∼ italic_p end_POSTSUBSCRIPT [ italic_r ( italic_x , italic_y ) ], which maximizes reward in expectation. While demonstrations are typically used for SFT, such approaches typically struggle in data-limited settings. On the other hand, it can be difficult to prompt a model to “overcome” the priors induced by its RLHF training. DITTO, as described in the next section, addresses these problems by directly generating comparison data using LM outputs and expert demonstrations. This means that unlike synthetic data generation paradigms (Lee et al.,",
+  "token_estimate": 586
+}

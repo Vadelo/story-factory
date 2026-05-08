@@ -1,0 +1,32 @@
+{
+  "title": "Example #2: Harry Potter",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-example-2-harry-potter",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "magic users",
+    "muggles",
+    "wizards",
+    "social network",
+    "population",
+    "schools",
+    "wands",
+    "libraries",
+    "spells",
+    "demographics"
+  ],
+  "use_cases": [
+    "Use when developing a fantasy-based online community that mirrors real-world demographics.",
+    "Implement when creating narrative settings that require a split between magical and non-magical societies.",
+    "Configure when building game mechanics involving a magic-sensitive population.",
+    "Use when modeling educational systems for magical youth in a fictional universe."
+  ],
+  "tags": [
+    "worldbuilding",
+    "fantasy",
+    "demographics",
+    "social-network"
+  ],
+  "priority": 3,
+  "content": "Extremely high ubiquity, low impact, very low cost.\n\nThe world of Harry Potter is broken into two — the world of magic (magical) and the world of muggles (normies). Even if only 10% of the population is capable of magic, and it sure seems that way, it’s still a vast world population who are either magic sensitive or magic aware. Even if it’s only 0.01% of the world, that’s still 60 million magic users. That’s a viable secret online social network.\n\nEveryone in the magical world is aware of magic and its everyday presence.\n\nThe magical world conforms to magic. Spells are written in books and books are commonly available in libraries and bookstores. Children are sent to (free, state-supported) schools where teachers perform instruction with clear goals and objectives to integrate wizards into society. Also children, on an appointed day, receive wands to channel their magic — appar",
+  "token_estimate": 198
+}

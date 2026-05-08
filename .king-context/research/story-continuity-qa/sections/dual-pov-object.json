@@ -1,0 +1,32 @@
+{
+  "title": "Object",
+  "path": "dual-pov-object",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "shared artifact",
+    "causality",
+    "thematic echoes",
+    "multiple-viewpoint story",
+    "narrative linkage",
+    "literary fiction",
+    "overstory",
+    "multi-plot structure",
+    "central object",
+    "causal connections"
+  ],
+  "use_cases": [
+    "Use when structuring a narrative around a central object or artifact like a map or manuscript",
+    "Implement when connecting disparate plot lines through underlying themes rather than direct cause-and-effect",
+    "Configure when designing a multiple-viewpoint story that requires a unifying physical or conceptual anchor",
+    "Use when targeting a 'literary' style that encourages reader analysis of thematic parallels"
+  ],
+  "tags": [
+    "narrative-structure",
+    "thematic-design",
+    "storytelling-techniques",
+    "literary-theory"
+  ],
+  "priority": 7,
+  "content": "And finally, a shared artifact/object might be a big part of how the characters come together. The Overstory is a multiple-viewpoint story that centers around trees. The Cartographers revolves around a map. Cloud Cuckoo Land unites various plots via a rare manuscript.\n\nA big lesson to come out of the above is that the linkage between the two plots in the story can be based in causality or in thematic echoes. There’s perhaps a cost for linking via thematic echoes: you’ll essentially be presenting two distinct stories, and so you’ll have to create an engaging narrative in both, asking readers to draw thematic connections but not giving them the more-expected causal connections. It’s an option that tends to be more “literary,” but it can work.",
+  "token_estimate": 166
+}

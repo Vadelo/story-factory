@@ -1,0 +1,19 @@
+{
+  "title": "Genre Contract",
+  "path": "genre-contract",
+  "url": "local://works/a-margem-que-devora-o-heroi#genre-contract",
+  "keywords": [
+    "genre",
+    "promise"
+  ],
+  "use_cases": [
+    "Recall genre contract for story continuation"
+  ],
+  "tags": [
+    "genre",
+    "promise"
+  ],
+  "priority": 8,
+  "content": "{\n  \"primary\": \"isekai manhwa metalinguístico\",\n  \"secondary\": [\n    \"fantasia sombria\",\n    \"thriller narrativo\",\n    \"subversão de regressão\"\n  ],\n  \"promise\": \"Um isekai sem sistema, sem reencarnação nobre e sem fantasia de poder direta, onde o conflito é disputar a autoria, a margem e as versões cortadas de uma história.\",\n  \"anti_promises\": [\n    \"não virar harém\",\n    \"não usar janela de status convencional\",\n    \"não fazer protagonista overpower em combate\",\n    \"não transformar a protagonista feminina em prêmio emocional\"\n  ]\n}",
+  "token_estimate": 95
+}

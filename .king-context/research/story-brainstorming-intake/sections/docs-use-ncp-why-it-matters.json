@@ -1,0 +1,33 @@
+{
+  "title": "Why It Matters ​",
+  "path": "docs-use-ncp-why-it-matters",
+  "url": "https://dramatica.com/docs/use/ncp",
+  "keywords": [
+    "Storyform Context",
+    "NCP (Narrova Conversation Protocol)",
+    "Subtxt",
+    "Storyform Builder",
+    "Narrova",
+    "Bidirectional Sync",
+    "Storytelling Refinement",
+    "Throughline selection",
+    "Storypoint update",
+    "Active NCP notebook",
+    "Portable workspace object"
+  ],
+  "use_cases": [
+    "Configure when you need to keep brainstroming sessions in Narrova aligned with structural changes in Subtxt",
+    "Implement when managing dual-layer synchronization between portable NCP objects and platform-native saved states",
+    "Use when developing story architecture across multiple platform interfaces without version drift",
+    "Use when reconciling structured story development from a dialogue-based workspace back into a core Storyform"
+  ],
+  "tags": [
+    "system-architecture",
+    "data-synchronization",
+    "workflow-integration",
+    "documentation"
+  ],
+  "priority": 9,
+  "content": "The platform deliberately keeps two synchronized representations of the same work:\n\n- Storyform Context is the platform-native saved record used by Subtxt, Storyform Builder, and related app surfaces.\n- NCP is the portable workspace object used in Narrova conversations and downloads.\n\nThis distinction matters because each layer solves a different problem. Storyform Context gives you stable saved application state. NCP gives you a portable object that can travel outside the platform without collapsing everything into loose prose.\n\nThat is why the workflow can stay fluid. You can brainstorm in Narrova, tighten structure in Storyform Builder, refine Storytelling in Subtxt, and still end up with one evolving Storyform instead of three drifting versions of the same idea.\n\nThe sync is also bidirectional. Changes saved in Narrova can be reflected back into Storyform-backed platform state, and changes saved in Subtxt or Storyform Builder can refresh the active NCP object in Narrova. In plain language, the Storyform and the notebook stay aligned while you work.\n\nWhen a conversation is attached to a Storyform, Narrova uses the active NCP notebook as the writable conversation workspace. Subtxt and Storyform Builder continue to save against the Storyform Context. The system then keeps those two surfaces synchronized.\n\n- Location:`Storyform Builder` or`Subtxt`.\n- Action: Save a Storyform change such as a Throughline selection, a Perspective summary, or a Storypoint update.\n- Outcome: The Storyform Context updates, and any active Storyform-backed NCP notebook can refresh to reflect the new state.\n- Validation: Open Narrova on the same Storyform. The conversation should continue from the revised Storyform state rather than the older one.\n\n- Location:`Narrova → conversation attached to a Storyform`.\n- Action: Use the active notebook workflow to save structured story development into the NCP workspace.\n- Outcome: Narrova updates the current NCP object immediately, and matching Storyform-backed fields can be reconciled back into the saved Storyform Context.\n- Validation: Open the same Storyform in Subtxt or Storyform Builder and confirm the corresponding structured material is now available there as well.",
+  "token_estimate": 441
+}

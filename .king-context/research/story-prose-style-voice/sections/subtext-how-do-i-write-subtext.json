@@ -1,0 +1,31 @@
+{
+  "title": "How do I write subtext?",
+  "path": "subtext-how-do-i-write-subtext",
+  "url": "https://thewritepractice.com/subtext/",
+  "keywords": [
+    "subtext",
+    "character conflict",
+    "scene structure",
+    "indirect dialogue",
+    "character motivation",
+    "narrative stakes",
+    "emotional subtext",
+    "setting",
+    "action beats"
+  ],
+  "use_cases": [
+    "Use when a character's true emotions must be expressed indirectly rather than through literal dialogue",
+    "Implement when developing high-stakes scenes that require narrative depth beyond the surface plot",
+    "Configure when bridging the gap between a character's internal desires and their external actions",
+    "Use when setting and atmosphere need to reinforce the underlying tension of a scene"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "character-development",
+    "literary-techniques"
+  ],
+  "priority": 8,
+  "content": "Start with a character in conflict. If your characters are blissfully married, and nothing is going to interrupt that happiness, there’s no conflict or need for subtext (or the scene, likely). Begin with a strong scene (a character who desperately wants something but can’t get it).\n\nOnce you have a strong scene, think about how the setting can heighten the stakes and create subtext. Then create dialogue and action that indirectly expresses the characters’ messages, emotions, and needs.",
+  "token_estimate": 103
+}

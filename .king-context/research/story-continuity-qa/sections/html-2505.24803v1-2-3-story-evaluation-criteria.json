@@ -1,0 +1,33 @@
+{
+  "title": "2.3. Story Evaluation Criteria",
+  "path": "html-2505.24803v1-2-3-story-evaluation-criteria",
+  "url": "https://arxiv.org/html/2505.24803v1",
+  "keywords": [
+    "narrative quality",
+    "evaluation framework",
+    "Freytag’s model",
+    "plot structure",
+    "character development",
+    "narrative coherence",
+    "thematic clarity",
+    "survey experiments",
+    "literary theory",
+    "Yang and Jin (2024)",
+    "Abrams and Harpham (2009)"
+  ],
+  "use_cases": [
+    "Use when developing a systematic framework for narrative quality assessment",
+    "Implement when comparing story effectiveness across diverse genres",
+    "Configure when designing survey experiments to measure narrative coherence",
+    "Apply when using Freytag’s model to analyze plot structural integrity"
+  ],
+  "tags": [
+    "narrative-theory",
+    "evaluation-methodology",
+    "data-analysis",
+    "quality-metrics"
+  ],
+  "priority": 8,
+  "content": "The evaluation of narrative quality involves diverse subjective criteria, as proposed in established literary and narrative theories. To systematically understand and compare the quality of stories, particularly across various genres, researchers often utilise survey experiments guided by specific evaluation frameworks (Yang and Jin, 2024).\n\nEvaluation methodologies focus on elements such as plot structure, character development, thematic clarity, and overall coherence. For instance, Freytag’s model is utilised for analysing plot effectiveness (Freytag, 1894), while character development is examined through practical writing guides (Bova, 1994). The clarity of a story’s theme is assessed using literary standards set forth by Abrams (Abrams and Harpham, 2009), and narrative coherence is considered through Todor",
+  "token_estimate": 144
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Positive Arc (Change Arc — Growth)",
+  "path": "guides-the-psychology-of-unforgettable-characters-positive-arc-change-arc-growth",
+  "url": "https://cipherwrite.com/guides/the-psychology-of-unforgettable-characters",
+  "keywords": [
+    "Positive Arc",
+    "Negative Arc",
+    "Flat Arc",
+    "The Lie",
+    "The Truth",
+    "Internal Conflict",
+    "Character Growth",
+    "Commercial Fiction",
+    "Tragic Figures",
+    "Antiheroes",
+    "Protagonist Transformation"
+  ],
+  "use_cases": [
+    "Use when drafting a protagonist who needs to overcome a personal flaw during the narrative",
+    "Implement when creating a tragic or cautionary tale where the hero succumbs to their darker impulses",
+    "Configure when designing a static hero in a series format who acts as a catalyst for external change",
+    "Use when structuring the midpoint shift and climax decisions based on thematic internal conflict"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-development",
+    "story-theory",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "The protagonist begins believing The Lie, is challenged by the story's events, and ultimately overcomes it to embrace The Truth. This is the most common arc in commercial fiction.\n\n- Beginning: Character lives according to The Lie, which provides a false sense of comfort\n- Midpoint: An event forces them to glimpse The Truth, creating internal conflict\n- Climax: The character must choose between The Lie and The Truth — they choose growth\n- Example: Ebenezer Scrooge in A Christmas Carol — from \"money is all that matters\" to \"human connection is everything\"\n\nThe protagonist encounters The Truth but rejects it, doubling down on The Lie. They deteriorate, often becoming the very thing they once opposed. This arc creates antiheroes and tragic figures.\n\n- Example: Walter White in Breaking Bad — from a powerless teacher to a drug lord who justifies murder\n- Example: Anakin Skywalker in Star Wars — from a hopeful Jedi to Darth Vader\n\nThe protagonist already knows The Truth at the beginning and never wavers. Instead of changing internally, they change the world around them by challenging others' Lies. This is common in mystery, thriller, and series fiction where the protagonist is a constant.\n\n- Example: Sherlock Holmes — never changes; instead, his certainty forces truth onto every case\n- Example: Captain America — his moral conviction is the constant that changes those around him",
+  "token_estimate": 304
+}

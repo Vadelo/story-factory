@@ -1,0 +1,31 @@
+{
+  "title": "1. Introduction",
+  "path": "html-2505.24803v1-1-introduction",
+  "url": "https://arxiv.org/html/2505.24803v1",
+  "keywords": [
+    "knowledge graphs",
+    "LLM-based story generation",
+    "long-form narratives",
+    "bidirectional communication",
+    "character arcs",
+    "plot development",
+    "story engine",
+    "writer agency",
+    "hallucination reduction"
+  ],
+  "use_cases": [
+    "Use when integrating structured knowledge into large language models to reduce content hallucinations",
+    "Implement when developing interactive fiction tools that require fine-grained user control over plot elements",
+    "Configure when seeking to maintain long-term narrative consistency in multi-scene story generation",
+    "Use when evaluating the creative impact of knowledge-graph-driven pipelines via user studies"
+  ],
+  "tags": [
+    "storytelling",
+    "knowledge-representation",
+    "LLM-pipeline",
+    "narrative-AI"
+  ],
+  "priority": 10,
+  "content": "Building on these ideas, our research integrates knowledge graphs into LLM-based story generation to pursue two key objectives: producing higher-quality stories (e.g. richer character arcs, better plot development, and fewer hallucinations) and offering user-friendly control for editing story elements. Specifically, we propose a pipeline in which the story engine and knowledge graph modules communicate bidirectionally, ensuring that newly generated scenes align with previously established details. Users can modify the graph to introduce radical changes or subtle tweaks, instantly reflect those edits in regenerated or subsequent scenes. To rigorously evaluate this approach, we formulated the following research questions:\n\n•\n\nRQ1 (Effectiveness of Knowledge Graph): How effective is the knowledge graph in enhancing the quality of generated long-form stories?\n\n•\n\nRQ2 (Control over Story Generation): Does the knowledge graph grant the editor more control during the story generation process?\n\nWe conducted a user study with 15 participants from a range of backgrounds, inviting them to create and edit stories across different genres and scenarios. We make three main contributions in this paper:\n\n(1)\n\nWe introduce a novel knowledge graph-based pipeline that enhances LLM-driven story generation, emphasising longer-form narratives and user control.\n\n(2)\n\nWe demonstrate, through user experiments, how editing the knowledge graph can increase writer agency and creative freedom, especially in action-oriented storytelling contexts.\n\n(3)\n\nWe conduct both qualitative and quantitative evaluations of narrative quality and user satisfaction, revealing the strengths and limitations of our approach across different genres, and storytelling styles, and evaluation criteria.",
+  "token_estimate": 323
+}

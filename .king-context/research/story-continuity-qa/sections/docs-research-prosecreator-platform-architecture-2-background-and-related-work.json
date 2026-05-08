@@ -1,0 +1,36 @@
+{
+  "title": "2. Background and Related Work",
+  "path": "docs-research-prosecreator-platform-architecture-2-background-and-related-work",
+  "url": "https://adverant.ai/docs/research/prosecreator-platform-architecture",
+  "keywords": [
+    "Transformer Architecture",
+    "Generative Language Models",
+    "Dynamic Hierarchical Outlining",
+    "Knowledge Graphs",
+    "Multi-Agent Frameworks",
+    "MageAgent Orchestration",
+    "GraphRAG",
+    "Neo4j",
+    "Qdrant",
+    "StoRM Framework",
+    "Vector Embeddings",
+    "DOME System"
+  ],
+  "use_cases": [
+    "Configure when implementing long-form narrative generation systems that require structural coherence",
+    "Implement when mitigating hallucinations in LLM-based storytelling using structured knowledge representation",
+    "Use when designing multi-agent orchestration for specialized creative writing roles",
+    "Configure when integrating knowledge graphs with vector search for hybrid retrieval-augmented generation",
+    "Implement when tracking character relationships and plot threads in million-word scale manuscripts"
+  ],
+  "tags": [
+    "AI-Writing",
+    "Architecture",
+    "Knowledge-Graphs",
+    "Multi-Agent-Systems",
+    "Literature-Review"
+  ],
+  "priority": 8,
+  "content": "#### 2.1 AI-Assisted Creative Writing Systems\n\nThe intersection of artificial intelligence and creative writing has attracted sustained research interest since the earliest days of computational linguistics. Rule-based systems gave way to statistical approaches, which in turn yielded to neural methods. The transformer architecture (Vaswani et al., 2017) marked a decisive transition, enabling language models of unprecedented fluency.\n\nGoogle's Wordcraft (Yuan et al., 2022) represents a landmark in human-AI co-writing research. Developed as a text editor in which users collaborate with a generative language model, Wordcraft demonstrated that LLMs enable novel co-writing experiences where the model can engage in open-ended conversation about the story and respond to writers' custom requests expressed in natural language. The user study showed that participants made more requests and incorporated more AI suggestions when using Wordcraft, and writers who found the LLM helpful reported greater enjoyment and ease. However, Wordcraft was designed for short story writing and did not address the structural challenges of novel-length manuscripts.\n\nMore recent work has focused specifically on long-form generation. Wang and Hu (2024) proposed DOME (Dynamic Hierarchical Outlining with Memory-Enhancement), which generates long-form stories with coherent content and plot by incorporating writing theory into outline planning and fusing plan and writing stages. The dynamic hierarchical outline mechanism adapts to the uncertainty of previously generated content, improving plot completeness. Measuring information distortion in hierarchical ultra-long novel generation, Zhao et al. (2025) examined the optimal expansion ratio for maintaining coherence at the million-word scale, finding that challenges at this scale are \"qualitatively and quantitatively different\" from those at shorter lengths.\n\nThe SCORE system (Story Coherence and Retrieval Enhancement for AI Narratives) achieved 23.6% higher coherence on the NCI-2.0 benchmark, 89.7% emotional consistency, and 41.8% fewer hallucinations versus baseline GPT models through modular knowledge graph construction for persistent story memory. This result validates our architectural intuition that structured knowledge representation is essential for narrative coherence.\n\nA multi-agent framework for long story generation (ACL 2025) demonstrated that character simulation through specialized agent roles can improve narrative quality, particularly in dialogue consistency and character development. This approach influenced our MageAgent orchestration design, though our implementation extends it to encompass 50 specialized agent roles operating across the full generation pipeline.\n\n#### 2.2 Knowledge Graphs for Narrative Representation\n\nKnowledge graphs have emerged as a natural representation for the structured relationships that underlie narrative fiction. Characters know other characters, inhabit locations, participate in events, and drive plot threads---all fundamentally graph-structured relationships that are poorly served by flat text or even vector embeddings alone.\n\nGuan et al. (2025) demonstrated that knowledge graphs can systematically track story elements, mitigating hallucination and reinforcing narrative coherence in LLM-based storytelling. Their KG-assisted storytelling pipeline was evaluated through a user study showing measurable improvements in narrative quality and enabling user-driven modifications to the story structure.\n\nThe StoRM framework (Guiding Neural Story Generation with Reader Models, Brahman et al., 2021) used a reader model to reason about story progression by inferring what humans believe about concepts, entities, and relations in the fictional world, represented as a knowledge graph. This approach demonstrated that knowledge graph representations afford story coherence by making the model's world state explicit and queryable.\n\nNarrative Graph (Li et al., 2023) proposed event-centric temporal knowledge graphs for telling evolving stories, representing news documents as graphs and compressing them into salient complex events in temporal order. While focused on journalism rather than fiction, the temporal ordering and event-centric approach directly informed our timeline validation and event node design in Neo4j.\n\nThe integration of knowledge graphs with vector search represents a particularly promising direction. GraphRAG approaches combining Neo4j and Qdrant have demonstrated 20--25% accuracy improvements in retrieval-augmented generation tasks across regulated domains (Lettria, 2024). Our tri-store architecture extends this hybrid approach to the creative writing domain, where the graph captures narrative structure while vectors capture semantic similarity and stylistic fingerprints.\n\n#### 2.3 Multi-Agent Content Generation\n\n```\nThe use of multiple specialized agents for complex content generation has gained significant traction. Multi-Agent Collaboration Mechanisms: A Survey of LLMs (Zhang et al., 2025) characterizes collaboration mechanisms along key dimensions including actors, types (cooperation, competition, coopetitio",
+  "token_estimate": 901
+}

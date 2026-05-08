@@ -1,0 +1,34 @@
+{
+  "title": "Character Arcs and Emotional Through Lines",
+  "path": "learn-building-screenplay-structure-character-arcs-and-emotional-through-lines",
+  "url": "https://www.finaldraft.com/learn/building-screenplay-structure/",
+  "keywords": [
+    "character arc",
+    "emotional through line",
+    "Beat Board",
+    "Flow Lines",
+    "connect",
+    "disconnect",
+    "context menu",
+    "right-click",
+    "Control-click",
+    "connection color menu",
+    "color-coded flow line"
+  ],
+  "use_cases": [
+    "Use to track the protagonist’s transformation over the story",
+    "Use to connect beats that influence character changes",
+    "Use to color‑code flow lines for different narrative threads",
+    "Implement when needing to disconnect beats that are no longer relevant",
+    "Use when visualizing emotional through lines in the Beat Board"
+  ],
+  "tags": [
+    "storytelling",
+    "character-development",
+    "visualization",
+    "workflow"
+  ],
+  "priority": 7,
+  "content": "In addition to being mindful of cause and effect, you should always be tracking your protagonist’s character arc and emotional through line. A character arc is the change your character goes through during your story. An emotional through line is how they’re feeling throughout.\n\nThink of some of your favorite films and ask yourself: how is the protagonist different at the beginning of the movie than they are at the end? Are there any scenes when we don’t know how they’re feeling about a sudden plot turn or important event? The more you do this, the more you’ll start to see discernible patterns.\n\nNow with this in mind, think about your protagonist when structuring your beats. How are they feeling about what’s happening? How are events changing them?\n\nIf you want to connect certain character beats with coinciding story beats, you can use Flow Lines in the Beat Board. Right-click or Control-click to open the beat context menu and choose “connect”:\n\nYou can also connect beats by dragging one beat on top of another beat until the bottom beat dims, and then let go. You can disconnect beats the same way: simply drag one connected beat above another connected beat until it dims to disconnect them. You can also select the beats to be disconnected by right-clicking or Control-clicking to open the context menu, and choose “disconnect.”\n\nThe color of a flow line can be changed by right-clicking or Control-clicking on the line itself and selecting a color from the connection color menu that pops up to the right. This is helpful if you’re tracking different things in beats via color coding.\n\nPerhaps you have assigned a color to all your beats tracking your protagonist’s character arc and you want to connect them to a story beat that inspires a change in them (whether it’s a failure or success). A color-coded flow line will help you connect the character arc with the desired story beat:",
+  "token_estimate": 432
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Three Question Shapes That Decide Your Architecture",
+  "path": "blog-persistent-memory-for-ai-agents-three-question-shapes-that-decide-your-architecture",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "vector store",
+    "knowledge graph",
+    "semantic similarity",
+    "relational traversal",
+    "hybrid memory architecture",
+    "metadata filtering",
+    "multi-agent fleets",
+    "substrate",
+    "relational database"
+  ],
+  "use_cases": [
+    "Use when selecting a memory architecture based on specific fleet query patterns",
+    "Implement when semantic similarity search is the primary requirement for information retrieval",
+    "Configure when complex relational traversal and network mapping are necessary for decision tracing",
+    "Use when building multi-agent systems that require both content retrieval and structural enrichment",
+    "Implement when literal field-value retrieval is better suited for a traditional database than a graph or vector layer"
+  ],
+  "tags": [
+    "architecture",
+    "data-storage",
+    "infrastructure-design",
+    "knowledge-management"
+  ],
+  "priority": 9,
+  "content": "A pragmatic way to pick a memory architecture is to write down the three or four shapes of questions your fleet will actually ask, then choose the substrate each shape needs.\n\nShape 1: \"Find me X like this.\" Semantic similarity. Vector store. Examples: \"find prior outbound emails that worked for similar accounts,\" \"show me past research notes on companies in this industry,\" \"retrieve the best examples of how we previously framed this objection.\" If your fleet asks mostly questions of this shape, a vector store with good metadata filtering is enough.\n\nShape 2: \"Who is connected to whom, through what?\" Relational traversal. Knowledge graph. Examples: \"who in our network has a relationship with this CFO,\" \"what other accounts share a board member with this one,\" \"trace the chain of decisions that led to this outcome.\" If your fleet asks mostly questions of this shape, a graph is the only substrate that works at all.\n\nShape 3: \"Find me X like this, and tell me how it relates to the rest of what we know.\" Hybrid. The vector layer finds the candidates; the graph layer enriches them with structure. Examples: \"find research notes similar to this prompt and tell me which ones reference the target account or its competitors,\" \"retrieve relevant past decisions and show me who approved them and what came of them.\" This is the regime most multi-agent fleets operate in.\n\nThere is also a degenerate fourth shape: \"give me the literal value of this field.\" That is not a memory problem; it is a database problem. A traditional relational database (or the structured side of your application stack) handles it better than either graph or vector layer.\n\n---",
+  "token_estimate": 372
+}

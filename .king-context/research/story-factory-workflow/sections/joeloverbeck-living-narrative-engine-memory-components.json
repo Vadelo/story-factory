@@ -1,0 +1,31 @@
+{
+  "title": "Memory Components",
+  "path": "joeloverbeck-living-narrative-engine-memory-components",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "core:short_term_memory",
+    "core:perception_log",
+    "core:notes",
+    "movement:goals",
+    "maxEntries",
+    "runtime entity IDs",
+    "short_term_memory.component.json",
+    "perception_log.component.json",
+    "notes.component.json"
+  ],
+  "use_cases": [
+    "Use when storing ephemeral first-person internal monologues for character reasoning",
+    "Implement when tracking a chronological log of environmental events perceived by an NPC",
+    "Configure when persistent, crucial character facts need to be maintained without a size cap",
+    "Use when designers need to define specific short-term or long-term movement objectives for actors"
+  ],
+  "tags": [
+    "memory-management",
+    "character-development",
+    "api-reference",
+    "configuration"
+  ],
+  "priority": 9,
+  "content": "We now have three distinct memory-related components attachable to any core:actor. Below is a concise reference:\n\ncore:short_term_memory\n\nPurpose: Stores ephemeral, first-person internal monologue (e.g., “I can’t believe they did that!”). \nLifecycle: Capped by maxEntries (default 10). \nIncluded in Prompt: Under “Your Thoughts”. \nSchema ID: core:short_term_memory → `./data/mods/core/short_term_memory.component.json`\n\ncore:perception_log\n\nPurpose: Chronological log of events the character perceives (e.g., “Player X entered the room”). \nLifecycle: Capped by maxEntries (default 50). \nIncluded in Prompt: Under “Perception Log”. \nSchema ID: core:perception_log → `./data/mods/core/perception_log.component.json`\nEntries reference runtime entity IDs and aren’t resolved to instances.\n\ncore:notes\n\nPurpose: Persistent “mental notes”—important items or facts the character deems crucial (e.g., “Joel Overbeck is\nuntrustworthy”). \nLifecycle: Uncapped; duplicates filtered out on merge. \nIncluded in Prompt: Under “ ” (only if non-empty). \nSchema ID: core:notes → `./data/mods/core/notes.component.json`\n\nmovement:goals\n\nPurpose: Short- or long-term goals defined by designers (not LLM-generated). \nLifecycle: Uncapped; only designer-driven. \nIncluded in Prompt: Under \" \" (only if non-empty). \nSchema ID: movement:goals → `./data/mods/core/goals.component.json`\n\nThe Living Narrative Engine includes several specialized tools for character creation and development:",
+  "token_estimate": 224
+}

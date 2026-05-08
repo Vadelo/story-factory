@@ -1,0 +1,31 @@
+{
+  "title": "4. Thriller / Suspense",
+  "path": "genre-expectations-4-thriller-suspense",
+  "url": "https://self-publishingschool.com/genre-expectations/",
+  "keywords": [
+    "Thriller",
+    "Suspense",
+    "genre expectations",
+    "tension",
+    "excitement",
+    "anxiety",
+    "higher stakes",
+    "adrenaline",
+    "uncertainty",
+    "narrative energy"
+  ],
+  "use_cases": [
+    "Use when defining structural differences between high-tension genres",
+    "Implement when crafting plot points centered on adrenaline and excitement",
+    "Configure when seeking to induce specific emotional responses like anxiety or fear in the audience",
+    "Use when establishing the baseline intensity and stakes for a long-form narrative"
+  ],
+  "tags": [
+    "genre-theory",
+    "narrative-design",
+    "creative-writing"
+  ],
+  "priority": 7,
+  "content": "Overall Genre expectations: Both of these genres will contain many elements of excitement and higher states of energy by using higher stakes and more extreme situations. The difference between the two is that thrillers will be more focused on elements of excitement and adrenaline whereas suspense uses more elements to induce anxiety, fear, and uncertainty. A good way to think about it is this:\n\nThriller = Excitement\n\nSuspense = Anxiety\n\nThere is plenty of thrill in none-thriller stories and the same with suspense. All stories have tension if they’re written well. But the thriller and suspense genre have the majority of the plot taking place with tension, whereas other genres only have it included in certain moments.",
+  "token_estimate": 155
+}

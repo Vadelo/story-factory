@@ -1,0 +1,34 @@
+{
+  "title": "What is a Model?",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-model",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "scientific modeling",
+    "fidelity",
+    "d20",
+    "D&D5th Ed",
+    "Blades in the Dark",
+    "Night's Black Agents",
+    "world balance",
+    "uncanny valley",
+    "role‑playing game",
+    "simulation model"
+  ],
+  "use_cases": [
+    "Use when creating a role‑playing game that requires realistic physics or spell mechanics.",
+    "Use when designing a narrative world that needs consistent internal logic and balancing.",
+    "Implement when you want to approximate a real‑world phenomenon for educational or analytical purposes.",
+    "Configure when building a simulation model that must avoid unrealistic outcomes, such as die rolls that destabilize balance.",
+    "Apply when you need to choose the appropriate fidelity level for the target audience or platform."
+  ],
+  "tags": [
+    "game-design",
+    "simulation",
+    "rpg",
+    "world-building",
+    "modeling"
+  ],
+  "priority": 10,
+  "content": "What the heck is a model? Encyclopedia Brittanica gives this as the definition of a scientific model:\n\nScientific modeling, the generation of a physical, conceptual, or mathematical representation of a real phenomenon that is difficult to observe directly. Scientific models are used to explain and predict the behaviour of real objects or systems and are used in a variety of scientific disciplines, ranging from physics and chemistry to ecology and the Earth sciences. Although modeling is a central component of modern science, scientific models at best are approximations of the objects and systems that they represent—they are not exact replicas.\n\nYou can think of an RPG, any interactive constructed world including an online world, or a fictional world as a simulation model describing a theoretical world and the rules that govern that world. Good or bad — that depends on how well we build up the model and what fidelity. Sometimes we don’t need that much fidelity. Broad strokes are fine. The long sets of sourcebooks and expansions on my shelf are a testament that we like fidelity, though.\n\nIn game design parlance, we build up models using established systems. Those systems have agreed-upon internal mechanics with boundaries and failure conditions — i.e., we roll a d20 in D&D5th Ed to model an action like swinging an axe or a bit of parkour. We tune those worlds so that they’re not wildly out of balance and don’t drop into uncanny valleys. We want our model to work and not allow a die roll to knock the whole thing out of whack.\n\nWe have some popular models:\n\n- Want a modeled world inspired by Tolkein’s Middle Earth but with hella more stuff? Play D&D5th Ed.\n- Want to tinker with and inhabit a model of a decaying world taken over by cool criminal gangs? Play Blades in the Dark.\n- Want to model a world where secret government societies hunt down and destroy horrible hidden vampire societies? Play Night’s Black Agents.",
+  "token_estimate": 438
+}

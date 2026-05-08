@@ -1,0 +1,32 @@
+{
+  "title": "The Want vs Need Framework",
+  "path": "guides-the-psychology-of-unforgettable-characters-the-want-vs-need-framework",
+  "url": "https://cipherwrite.com/guides/the-psychology-of-unforgettable-characters",
+  "keywords": [
+    "External Goal",
+    "Internal Truth",
+    "Character Arc",
+    "The Lie Your Character Believes",
+    "Internal Conflict",
+    "Want vs Need Framework",
+    "Plot Motivation",
+    "Thematic Resonance",
+    "Emotional Need",
+    "Conscious Goal"
+  ],
+  "use_cases": [
+    "Use when drafting a character arc to create a disconnect between a character's desires and their requirements for growth",
+    "Implement when developing the internal conflict necessary to bridge the gap between plot and theme",
+    "Configure when identifying the 'Lie' a character believes to drive their decision-making process",
+    "Use when analyzing established narratives like The Great Gatsby to understand the synergy between external goals and internal truths"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "story-structure",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "The engine of internal conflict in every compelling character\n\nTHE WANTConscious Goal\"I want to find the treasure\"External, tangible,drives the PLOTTHE NEEDUnconscious Truth\"I need to forgive myself\"Internal, emotional,drives the THEMETENSIONThe gap creates the arc\n\n- The Want (External Goal): What the character consciously pursues. It drives the plot. It is tangible. In The Great Gatsby, Gatsby wants Daisy.\n- The Need (Internal Truth): What the character must learn or accept to become whole. It drives the theme. Gatsby needs to accept that the past cannot be recreated.\n- The Tension: The gap between Want and Need is the source of all meaningful internal conflict. When they collide, the character must choose — and that choice is their arc.\n\nReference: Robert McKee, Story: Substance, Structure, Style, and the Principles of Screenwriting (1997). K.M. Weiland, Creating Character Arcs (2016).\n\nK.M. Weiland calls this \"The Lie Your Character Believes\" — a deeply held, incorrect belief about themselves or the world that fundamentally shapes their decisions. The entire character arc is the process of confronting and either overcoming or succumbing to this lie.",
+  "token_estimate": 236
+}

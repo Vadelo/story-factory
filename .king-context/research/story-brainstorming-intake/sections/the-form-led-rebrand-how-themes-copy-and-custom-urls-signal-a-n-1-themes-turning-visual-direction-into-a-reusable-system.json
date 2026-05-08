@@ -1,0 +1,31 @@
+{
+  "title": "1. Themes: Turning Visual Direction into a Reusable System",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-1-themes-turning-visual-direction-into-a-reusable-system",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "Themes",
+    "Typography",
+    "Density",
+    "Spacing",
+    "Visual Direction",
+    "Brand Identity",
+    "Emphasis",
+    "Reusable System",
+    "Color Psychology"
+  ],
+  "use_cases": [
+    "Implement when translating brand guidelines into a functional form system",
+    "Configure when adjusting UI density for different user types like power-users",
+    "Use when establishing a visual hierarchy through typography and emphasis",
+    "Configure when wanting to align form aesthetics with a specific product story or mood"
+  ],
+  "tags": [
+    "design-system",
+    "configuration",
+    "ui-ux",
+    "theming"
+  ],
+  "priority": 9,
+  "content": "Your theme is the quickest way to make a form feel like it belongs to your new brand—even if the rest of your site hasn’t caught up yet.\n\nThink beyond “make it pretty.” A strong theme encodes your product story into:\n\n- Color choices (calm vs energetic, playful vs serious)\n- Typography (friendly vs technical, large vs compact)\n- Density and spacing (airy and focused vs data-dense and power-user oriented)\n- Emphasis (what gets color, what stays neutral, where the eye is drawn)",
+  "token_estimate": 110
+}

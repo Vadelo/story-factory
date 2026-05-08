@@ -1,0 +1,34 @@
+{
+  "title": "About The Project",
+  "path": "joeloverbeck-living-narrative-engine-about-the-project",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "Entity Component System",
+    "Data-Driven Architecture",
+    "LLM Proxy Server",
+    "Clothing Coverage System",
+    "Narrative Director",
+    "JSON Data Packs",
+    "Moddability",
+    "Emergent Gameplay",
+    "Adventure Game Engine",
+    "Dynamic NPC Interactions"
+  ],
+  "use_cases": [
+    "Use when building browser-based adventure games that require high modifiability.",
+    "Implement when creating simulation games with complex item layering and clothing coverage rules.",
+    "Configure when integrating Large Language Models (LLMs) to drive dynamic NPC behaviors.",
+    "Use when developing data-driven game logic to separate core mechanics from hard-coded scripts.",
+    "Apply when using an ECS pattern to manage game objects and their associated behaviors."
+  ],
+  "tags": [
+    "Core Concept",
+    "Game Engine",
+    "Architecture",
+    "Modding",
+    "AI Integration"
+  ],
+  "priority": 10,
+  "content": "Living Narrative Engine is a browser-based platform designed for creating and playing highly moddable, data-driven\nadventure games and immersive simulations. The core philosophy is **extreme moddability** achieved through:\n\n- **Data-Driven Logic:** Game content, rules, and behaviors are primarily defined in JSON files rather than being\n\nhard-coded. This allows creators to add or modify items, characters, quests, and even core mechanics simply by editing\n data files.\n\n- **Entity Component System (ECS):** The architecture uses an ECS pattern, where game objects (entities) are defined by\n\nthe data components attached to them. This promotes flexibility and emergent gameplay.\n\n- **Mod Support:** The engine is built from the ground up to support mods, treating even core content as potentially\n\nreplaceable data packs.\n\n- **Intelligent Clothing Coverage System:** Advanced clothing resolution system that considers item layering, coverage priorities, and realistic clothing interactions for immersive gameplay.\n\nThe long-term vision includes integrating AI agents (LLMs) to drive dynamic NPC interactions and behaviours, creating\ntruly living narratives.\n\nAn upcoming feature introduces an AI-driven \"Narrative Director\" that can\ndynamically suggest plot twists and quest hooks based on the current game state.\nIt communicates with the LLM proxy server to keep stories fresh and reactive.",
+  "token_estimate": 259
+}

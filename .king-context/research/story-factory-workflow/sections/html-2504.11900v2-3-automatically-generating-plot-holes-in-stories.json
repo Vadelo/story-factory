@@ -1,0 +1,34 @@
+{
+  "title": "3 Automatically Generating Plot Holes in Stories",
+  "path": "html-2504.11900v2-3-automatically-generating-plot-holes-in-stories",
+  "url": "https://arxiv.org/html/2504.11900v2",
+  "keywords": [
+    "FlawedFictionsMaker",
+    "ThreeActExtract",
+    "PropExtract",
+    "PropScore",
+    "Counterfact",
+    "three-act structure",
+    "proposition scoring",
+    "counterfactual story generation",
+    "story patching",
+    "Likert scale scoring",
+    "continuity error",
+    "LLM prompting"
+  ],
+  "use_cases": [
+    "Use when evaluating the robustness of LLMs in detecting narrative inconsistencies or plot holes.",
+    "Implement when needing to automatically generate synthetic datasets of flawed fiction for training purposes.",
+    "Configure when seeking to introduce controlled counterfactual elements into a structured three-act narrative.",
+    "Use when needing to extract and score the plot relevance of specific story propositions."
+  ],
+  "tags": [
+    "natural-language-generation",
+    "narrative-analysis",
+    "machine-learning-pipelines",
+    "content-augmentation"
+  ],
+  "priority": 8,
+  "content": "Conceptually, FlawedFictionsMaker is a story-editing approach that introduces an inconsistency by selecting one of the propositions stated earlier in the story and negating it in the later parts. Our method, summarized in Figure 1, consists of a 5-staged pipeline:\n\n1. Three Act Structure Extraction. We start by dividing the story into the traditional three act structure Aristotle (1902), consisting of Act One ( $A_{1}$ ), where the main characters and setting of the story are introduced, Act Two ( $A_{2}$ ), where the main conflict is developed, and Act Three ( $A_{3}$ ), which builds to the climax and resolves the main conflict. This division aids to control where the original proposition is established in the story and when it gets contradicted in the later parts of our pipeline. We perform the three-act extraction of an original story $f$ through LLM prompting, and denote it $\\{A_{1},A_{2},A_{3}\\}\\leftarrow\\texttt{ThreeActExtract}(f)$ . Note that $f$ is the concatenation $f=A_{1}\\cdot A_{2}\\cdot A_{3}$ of the resulting three acts $\\{A_{1},A_{2},A_{3}\\}$ .\n\n2. Proposition Extraction and Scoring. Next, we retrieve the set of propositions that are stated in the first act $A_{1}$ of the the story through LLM prompting: $\\{\\phi_{1},\\phi_{2},\\ldots\\}~{}\\leftarrow~{}\\texttt{PropExtract}(A_{1})$ . Specifically, these propositions contain the information established about the characters (foreground) and the setting (background) of the story222We choose to extract the propositions only from the first act because we want to consider information that is established earlier in the story but later contradicted. Doing this help us controllably create plot holes in the later acts.. These propositions help us to control the specific continuity error that we wish to introduce. We also include a proposition scoring step, which determines how relevant is a proposition $\\phi$ to the plot in the second and third acts using a 4-point Likert scale: $s_{\\phi}~{}\\leftarrow~{}\\texttt{PropScore}(\\phi;A_{1},A_{2},A_{3})$ . We only retain the propositions that are moderately important ( $s_{\\phi}\\in\\{2,3\\}$ ) to avoid negating statements that lead to no change in the story, or changing a fundamental aspect which would render the final story completely nonsensical.\n\n3. Counterfactual Story Generation. We rewrite the story while negating an original proposition $\\phi$ with LLM prompting (Qin et al., 2019), $A_{1}^{\\neg\\phi}\\!\\cdot\\!A_{2}^{\\neg\\phi}\\!\\cdot\\!A_{3}^{\\neg\\phi}\\!\\leftarrow% \\!\\texttt{Counterfact}(\\phi,A_{1},A_{2},A_{3})$ . Note that negating $\\phi$ does not just negate that single statement in the story, but may also lead to modifying other existing propositions to maintain coherence and plausibility (e.g., when changing a character’s nationality, their name might need to be changed).\n\n4. Re-building Story (“Patching”). Now, given the original story $f~{}=~{}A_{1}\\cdot A_{2}\\cdot A_{3}$ and its counterfactual $f^{\\neg\\phi}~{}=~{}A_{1}^{\\neg\\phi}\\cdot A_{2}^{\\neg\\phi}\\cdot A_{3}^{\\neg\\phi}$ , we create a story with a potential continuity error by concatenating $A_{1}$ from the original story and the subsequent acts from the counterfactual: $f^{\\text{patch}}:=A_{1}\\cdot A_{2}^{\\neg\\phi}\\cdot A_{3}^{\\neg\\phi}$ .333We select this patching method for simplicity. Note that other choices such as $A_{1}\\cdot A_{2}^{\\neg\\phi}\\cdot A_{3}$ or $A_{1}^{\\neg\\phi}\\cdot A_{2}\\cdot A_{3}$ might also have been appropriate.\n\n5. Filtering. As a final step, we ensure that the patched story results in an inherent story inconsistency. This includes removing obvious LLM prompting issues, such as cases where $A",
+  "token_estimate": 659
+}

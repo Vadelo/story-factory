@@ -1,0 +1,31 @@
+{
+  "title": "Favourites",
+  "path": "character-questionnaire-favourites",
+  "url": "https://www.novel-software.com/character-questionnaire/",
+  "keywords": [
+    "character-profiling",
+    "personal-preferences",
+    "daily-routines",
+    "lifestyle-mapping",
+    "possessions-inventory",
+    "habits",
+    "allergies",
+    "value-systems",
+    "behavioral-patterns",
+    "creative-writing-prompts"
+  ],
+  "use_cases": [
+    "Use when building detailed character biographies for creative writing or role-playing games",
+    "Implement when developing backstories to ensure character consistency and depth",
+    "Configure when creating personality profiles for psychological or social simulation models",
+    "Use when generating unique identifiers or traits for fictional entities"
+  ],
+  "tags": [
+    "character-development",
+    "conceptual-framework",
+    "content-creation"
+  ],
+  "priority": 5,
+  "content": "136. What is their favourite animal?137. Which animal do they dislike the most?138. What is their favourite place to be?139. What is the most beautiful thing they’ve ever seen?140. What is their favourite song?141. Do they prefer music, art or reading?142. What is their favourite colour?143. What is their most used password?144. What is their favourite food?145. What is their favourite work of art?146. Who is their favourite artist?147. What is their favourite day of the week?\n\n148. What is in their fridge?149. What is on their bedside table?150. What is in their car?151. What is in their bin?152. What is in their purse or wallet?153. What is in their pockets?154. What is their most treasured possession?\n\n155. What are their eating habits?156. Do they have any allergies?157. What is their home like?158. Are they minimalist or a hoarder?159. What do they do first thing on a weekday morning?160. What do they do on a Sunday afternoon?161. What do they do on a Friday night?162. What is their soft drink of choice?163. What is their alcoholic drink of choice?\n\n164. What is their view of ‘freedom’?165",
+  "token_estimate": 247
+}

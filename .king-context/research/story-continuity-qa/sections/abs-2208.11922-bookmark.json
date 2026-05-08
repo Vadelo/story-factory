@@ -1,0 +1,35 @@
+{
+  "title": "Bookmark",
+  "path": "abs-2208.11922-bookmark",
+  "url": "https://arxiv.org/abs/2208.11922",
+  "keywords": [
+    "arXivLabs",
+    "Bibliographic Explorer",
+    "Connected Papers",
+    "scite Smart Citations",
+    "CatalyzeX",
+    "DagsHub",
+    "Hugging Face Spaces",
+    "CORE Recommender",
+    "Influence Flower",
+    "alphaXiv",
+    "MathJax"
+  ],
+  "use_cases": [
+    "Use when seeking external bibliographic and citation analysis tools for a specific paper",
+    "Implement when visualising paper relationships through Connected Papers or Litmaps",
+    "Configure when linking research papers to source code repositories or datasets",
+    "Use when exploring interactive demos or model spaces associated with research",
+    "Configure when seeking AI-powered research recommendations based on author or topic",
+    "Use when needing to verify author endorsers or toggle MathJax rendering"
+  ],
+  "tags": [
+    "integrations",
+    "user-interface",
+    "bibliographic-tools",
+    "community-projects"
+  ],
+  "priority": 7,
+  "content": "[![BibSonomy logo](https://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png)]()[![Reddit logo](https://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png)]()\nBibliographic Tools\n# Bibliographic and Citation Tools\nBibliographic Explorer Toggle\nBibliographic Explorer*([What is the Explorer?](https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer))*\nConnected Papers Toggle\nConnected Papers*([What is Connected Papers?](https://www.connectedpapers.com/about))*\nLitmaps Toggle\nLitmaps*([What is Litmaps?](https://www.litmaps.co/))*\nscite.ai Toggle\nscite Smart Citations*([What are Smart Citations?](https://www.scite.ai/))*\nCode, Data, Media\n# Code, Data and Media Associated with this Article\nalphaXiv Toggle\nalphaXiv*([What is alphaXiv?](https://alphaxiv.org/))*\nLinks to Code Toggle\nCatalyzeX Code Finder for Papers*([What is CatalyzeX?](https://www.catalyzex.com))*\nDagsHub Toggle\nDagsHub*([What is DagsHub?](https://dagshub.com/))*\nGotitPub Toggle\nGotit.pub*([What is GotitPub?](http://gotit.pub/faq))*\nHuggingface Toggle\nHugging Face*([What is Huggingface?](https://huggingface.co/huggingface))*\nLinks to Code Toggle\nPapers with Code*([What is Papers with Code?](https://paperswithcode.com/))*\nScienceCast Toggle\nScienceCast*([What is ScienceCast?](https://sciencecast.org/welcome))*\nDemos\n# Demos\nReplicate Toggle\nReplicate*([What is Replicate?](https://replicate.com/docs/arxiv/about))*\nSpaces Toggle\nHugging Face Spaces*([What is Spaces?](https://huggingface.co/docs/hub/spaces))*\nSpaces Toggle\nTXYZ.AI*([What is TXYZ.AI?](https://txyz.ai))*\nRelated Papers\n# Recommenders and Search Tools\nLink to Influence Flower\nInfluence Flower*([What are Influence Flowers?](https://influencemap.cmlab.dev/))*\nCore recommender toggle\nCORE Recommender*([What is CORE?](https://core.ac.uk/services/recommender))*\n* Author\n* Venue\n* Institution\n* Topic\nAbout arXivLabs\n# arXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community?[**Learn more about arXivLabs**](https://info.arxiv.org/labs/index.html).\n[Which authors of this paper are endorsers?](https://arxiv.org/auth/show-endorsers/2208.11922)|[Disable MathJax](javascript:setMathjaxCookie())([What is MathJax?](https://info.arxiv.org/help/mathjax.html))",
+  "token_estimate": 319
+}

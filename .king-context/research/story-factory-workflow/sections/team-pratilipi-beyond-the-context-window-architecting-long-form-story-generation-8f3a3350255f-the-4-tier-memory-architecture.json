@@ -1,0 +1,33 @@
+{
+  "title": "The 4-Tier Memory Architecture",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-4-tier-memory-architecture",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "4-Tier Memory Architecture",
+    "Rolling Summary",
+    "Dynamic Entity Registry",
+    "Iterative Drafting Loop",
+    "High Fidelity Memory",
+    "Medium Fidelity Memory",
+    "Low Fidelity Memory",
+    "Recursion Depth",
+    "Rubric metrics",
+    "Macro-events"
+  ],
+  "use_cases": [
+    "Use when maintaining narrative consistency across multiple chapters",
+    "Configure when balancing token window constraints with long-term plot awareness",
+    "Implement when automated character and location tracking is required for evolving drafts",
+    "Use when setting up an iterative critique-and-regeneration workflow for content quality",
+    "Configure when needing to strip dialogue while preserving core story beats for memory efficiency"
+  ],
+  "tags": [
+    "Architecture",
+    "State Management",
+    "Content Generation",
+    "Memory Systems"
+  ],
+  "priority": 9,
+  "content": "After every chapter, we update the Rolling Summary:\n\n- Recent Chapters (High Fidelity): last 1–3 chapters with vivid detailIf someone is bleeding in Chapter 19, they should still be injured in Chapter 20.\n- Short-Term Memory (Medium Fidelity): the current arc’s key beats and decisions (dialogue stripped)\n- Long-Term Memory (Low Fidelity): heavily compressed macro-events that still matter\n- Dynamic Entity Registry: tracks newly introduced characters/places/items so they don’t vanish or mutate\n\n(We keep the entity registry logic high-level here, implementation details vary, but the main point is: new, on the fly entities are captured immediately.)\n\nDrafting also runs as an iterative loop:\n\n1. Generate chapter draft\n2. Critique against artifacts + rolling summary + outline\n3. Regenerate with critique(Rubric metrics)\n4. Repeat until approval or max recursion depth",
+  "token_estimate": 171
+}

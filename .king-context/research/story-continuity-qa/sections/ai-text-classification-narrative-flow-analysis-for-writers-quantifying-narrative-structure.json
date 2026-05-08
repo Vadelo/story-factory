@@ -1,0 +1,33 @@
+{
+  "title": "Quantifying Narrative Structure",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-quantifying-narrative-structure",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "directed graph",
+    "adjacency matrix",
+    "eigenvalues",
+    "event density",
+    "narrative velocity",
+    "discrete Fourier transform",
+    "Markov process",
+    "transition matrix",
+    "stationary distribution",
+    "power-law distribution"
+  ],
+  "use_cases": [
+    "Implement when modeling causal or temporal plot structures as mathematical graphs",
+    "Configure when calculating narrative cohesion using the dominant eigenvalue of an adjacency matrix",
+    "Use when quantifying story pacing through event density and narrative velocity metrics",
+    "Implement when analyzing narrative rhythms and three-act structures using frequency decomposition",
+    "Use when simulating narrative flow and identifying equilibrium points through Markov chain transitions"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "mathematical-modeling",
+    "data-science",
+    "computational-linguistics"
+  ],
+  "priority": 8,
+  "content": "Narrative structure can be modeled as a directed graph G = (V, E), where vertices V represent plot points and edges E denote causal or temporal relationships. The adjacency matrix A of this graph encodes transition probabilities between plot points:\n\n$$ A_{ij} = \\begin{cases} p_{ij} & \\text{if transition } i \\rightarrow j \\text{ exists} \\\\ 0 & \\text{otherwise} \\end{cases} $$\n\nwhere pij represents the conditional probability of moving from plot point i to j. The eigenvalues of A reveal structural properties - a dominant eigenvalue close to 1 indicates strong narrative cohesion.\n\nPacing can be quantified through event density ρ and narrative velocity v:\n\n$$ \\rho = \\frac{N_e}{T} $$ $$ v(t) = \\frac{dD}{dt} $$\n\nwhere Ne is the number of significant events, T is total narrative duration, and D is the plot progression distance at time t. Optimal pacing follows a power-law distribution with exponent α ≈ 1.5 for event intervals.\n\nTension curves can be decomposed into frequency components using discrete Fourier transform:\n\n$$ X_k = \\sum_{n=0}^{N-1} x_n e^{-i2\\pi kn/N} $$\n\nwhere xn represents tension values at discrete narrative points. The power spectrum reveals dominant narrative rhythms - successful stories typically show peaks at 1/3 and 2/3 points (corresponding to three-act structure harmonics).\n\nNarrative flow can be simulated as a Markov process with transition matrix P:\n\n$$ P_{ij} = \\frac{C_{ij}}{\\sum_k C_{ik}} $$\n\nwhere Cij counts transitions between states in training data. The stationary distribution π satisfying πP = π identifies narrative equilibrium points.",
+  "token_estimate": 323
+}

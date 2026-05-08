@@ -1,0 +1,35 @@
+{
+  "title": "Causal relationships or drivers",
+  "path": "character-development-causal-relationships-or-drivers",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "wound-fear-misbelief",
+    "character arc",
+    "John Truby",
+    "The Anatomy of Story",
+    "fatal flaw",
+    "growth arc",
+    "fall arc",
+    "flat arc",
+    "steadfast arc",
+    "show don't tell",
+    "external circumstances",
+    "narrative structure"
+  ],
+  "use_cases": [
+    "Use when designing a protagonist's internal psychological evolution",
+    "Implement when mapping the causal relationship between external conflict and personality change",
+    "Configure when differentiating between growth, fall, and steadfast character trajectories",
+    "Use when applying the 'wound-fear-misbelief' model to narrative beats",
+    "Implement when using dialogue and action to manifest interior psychological shifts"
+  ],
+  "tags": [
+    "narrative-theory",
+    "character-development",
+    "story-architecture",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Character change — what's sometimes called the arc — is caused by pressure. Specifically, by external circumstances that expose the gap between who the character believes themselves to be and who they actually are. This gap is what dramatists and narrative theorists call the \"wound-fear-misbelief\" structure, a model developed extensively by John Truby in The Anatomy of Story (2007).\n\nThe chain works roughly like this: a character holds a misbelief about the world (e.g., \"I must be in control to be safe\"), which generates a fatal flaw (rigidity, inability to trust), which creates a specific pattern of behavior, which eventually collides with the story's central conflict. The collision forces a reckoning. The character either transforms by abandoning the misbelief, or fails to transform and pays a cost.\n\nNot all arcs are growth arcs. The fall arc (Walter White in Breaking Bad) inverts the structure — the character entrenches the flaw rather than healing it. The flat arc or steadfast arc (Atticus Finch in To Kill a Mockingbird) keeps the protagonist's core values stable while the world around them changes. All 3 arc types require the same foundational mechanics; they differ only in direction.\n\nDialogue writing and show don't tell are the primary delivery mechanisms through which character psychology becomes visible on the page — the arc is meaningless if the reader can't see it happening in real time.\n\n---",
+  "token_estimate": 304
+}

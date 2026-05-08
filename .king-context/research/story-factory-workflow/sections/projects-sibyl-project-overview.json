@@ -1,0 +1,29 @@
+{
+  "title": "Project Overview",
+  "path": "projects-sibyl-project-overview",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "Sibyl AI",
+    "Misenous integration",
+    "narrative intelligence",
+    "character consistency",
+    "timeline tracking",
+    "manuscript analysis",
+    "contextual understanding",
+    "story engine"
+  ],
+  "use_cases": [
+    "Use when identifying narrative contradictions across long-form manuscripts",
+    "Implement when tracking complex character histories and relationships",
+    "Configure when integrating AI-driven story intelligence into the Misenous platform",
+    "Use when surfacing hidden thematic connections within a novel's structure"
+  ],
+  "tags": [
+    "product-overview",
+    "architecture",
+    "ai-capabilities"
+  ],
+  "priority": 10,
+  "content": "Writing a novel means holding an entire universe in your head - every character's history, every timeline, every relationship, every contradiction. Sibyl is an AI guide designed to know that universe as deeply as the author does, and to surface the connections, inconsistencies, and opportunities that no human can track across hundreds of thousands of words. Sibyl is designed to work hand-in-hand with Misenous, our novel-writing platform. Where Misenous provides the structure and tools for writing, Sibyl provides the intelligence - the deep, persistent understanding of what a story is and how all its pieces fit together.",
+  "token_estimate": 129
+}

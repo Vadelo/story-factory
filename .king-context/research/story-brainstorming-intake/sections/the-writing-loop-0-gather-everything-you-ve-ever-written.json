@@ -1,0 +1,32 @@
+{
+  "title": "0. Gather everything you’ve ever written",
+  "path": "the-writing-loop-0-gather-everything-you-ve-ever-written",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "corpus development",
+    "constraint files",
+    "voice profiling",
+    "raw material",
+    "prose extraction",
+    "pattern recognition",
+    "system foundation",
+    "write like me",
+    "semantic analysis",
+    "data gathering"
+  ],
+  "use_cases": [
+    "Use when initiating the voice cloning process for a custom AI model",
+    "Configure when centralizing writing history for linguistic pattern detection",
+    "Implement when prepping data for the creation of style constraint files",
+    "Use when transitioning from generic AI outputs to personalized brand voices"
+  ],
+  "tags": [
+    "onboarding",
+    "data-preparation",
+    "content-strategy",
+    "voice-modeling"
+  ],
+  "priority": 10,
+  "content": "Gather everything you’ve ever written before writing any constraint files. Articles, blog posts, newsletters, emails, journal entries, notes, tweets, talks, Slack messages, Google Docs, Notion pages, that graph-based note-taking app you loved in 2021 but stopped using — anything with your actual voice in it. Published or not. Polished or not. The raw material matters more than the finish.\n\nThe more the better. 20 pieces is a minimum, 50+ is where patterns get reliable. Dump it all into a single directory. Strip navigation, headers, footers — just the prose.\n\nThis corpus is the foundation of everything. You’ll analyze it to build a “write like me” skill file — the constraint that keeps your first drafts from being generic AI slop. Without a real corpus derived from your real words, the voice file is fiction and the system produces garbage.",
+  "token_estimate": 184
+}

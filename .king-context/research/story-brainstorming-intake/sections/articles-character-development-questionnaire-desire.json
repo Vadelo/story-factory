@@ -1,0 +1,29 @@
+{
+  "title": "Desire",
+  "path": "articles-character-development-questionnaire-desire",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "primary motivator",
+    "surface-level desire",
+    "character motivation",
+    "internal conflict",
+    "conflicting desires",
+    "character development",
+    "driving force",
+    "Advanced Tip"
+  ],
+  "use_cases": [
+    "Use when defining a character's core psychological foundation",
+    "Implement when creating narrative tension through conflicting internal goals",
+    "Use when moving beyond surface-level tropes to establish deep character history",
+    "Configure when determining character limitations and moral boundaries"
+  ],
+  "tags": [
+    "character-creation",
+    "narrative-design",
+    "storytelling"
+  ],
+  "priority": 10,
+  "content": "Desire is one of your character’s primary motivators. As stated above, avoid surface-level desires. A greedy character may want money, but why? Maybe what they really want is power or security.\n\n- How does that desire manifest itself?\n- Is there anything the character wouldn’t do to achieve that desire?\n- What fuels that desire?\n- What is the character’s greatest desire?\n\nAdvanced Tip: While you can pick just one big desire, real people are rarely so straightforward. For instance, the character may think they want one thing while ignoring a deeper, more important desire. It’s especially interesting if the desires conflict with each other.",
+  "token_estimate": 139
+}

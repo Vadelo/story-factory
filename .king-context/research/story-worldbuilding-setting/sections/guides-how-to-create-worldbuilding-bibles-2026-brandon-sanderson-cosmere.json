@@ -1,0 +1,34 @@
+{
+  "title": "Brandon Sanderson - Cosmere",
+  "path": "guides-how-to-create-worldbuilding-bibles-2026-brandon-sanderson-cosmere",
+  "url": "https://rivereditor.com/guides/how-to-create-worldbuilding-bibles-2026",
+  "keywords": [
+    "hard magic system",
+    "cosmology",
+    "cross-series character",
+    "planetary physical laws",
+    "cultural development",
+    "world bible",
+    "internal documentation",
+    "continuity team",
+    "canonical consistency",
+    "magic system rules"
+  ],
+  "use_cases": [
+    "Use when building a multi-series fantasy universe to ensure cohesive lore.",
+    "Implement when needing continuity across multiple books and authors.",
+    "Configure when drafting planet-specific physical laws for a setting.",
+    "Use when creating hard magic systems with explicit rules for each world.",
+    "Design when documenting cosmology that connects interconnected series."
+  ],
+  "tags": [
+    "worldbuilding",
+    "documentation",
+    "continuity",
+    "fantasy",
+    "serialization"
+  ],
+  "priority": 8,
+  "content": "What Sanderson documents: • Detailed hard magic systems with specific rules for each world • Shared cosmology connecting all series • Cross-series character appearances requiring continuity • Physical laws of each planet • Cultural development informed by magic system\n\nApproach: Publishes partial world bibles as appendices. Maintains internal full documentation. Has continuity team checking each book against established canon.\n\nLesson: For complex multi-series worlds, professional continuity checking is essential. Document everything and have team verify consistency.",
+  "token_estimate": 101
+}

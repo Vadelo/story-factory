@@ -1,0 +1,33 @@
+{
+  "title": "Revision prompts (5)",
+  "path": "chatgpt-prompts-for-fiction-writers-revision-prompts-5",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "AI-ism detector",
+    "Show-don’t-tell converter",
+    "Pacing tightener",
+    "Consistency checker",
+    "Opening chapter audit",
+    "revision prompts",
+    "manuscript refinement",
+    "character consistency",
+    "prose tightening",
+    "narrative pacing"
+  ],
+  "use_cases": [
+    "Use when identifying and replacing overused AI vocabulary and structures",
+    "Implement when moving from abstract thematic statements to concrete sensory details",
+    "Configure when reducing scene length to meet a specific word count target",
+    "Use when auditing a character's physical and behavioral traits across different chapters",
+    "Implement when evaluating the hook and pacing of a manuscript's introduction"
+  ],
+  "tags": [
+    "creative-writing",
+    "editing-workflow",
+    "content-refinement",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "Use these after your draft exists to sharpen and refine.\n\n41. AI-ism detector\n\nReview this passage for AI-typical writing patterns: [paste text]. Flag any instances of these: “delve,” “tapestry,” “landscape,” “multifaceted,” “it’s worth noting,” unnecessary hedging, list-heavy structures, and generic sensory descriptions. Suggest specific replacements.\n\n42. Show-don’t-tell converter\n\nHere are 5 “telling” sentences from my manuscript: [paste sentences]. Rewrite each one to show the same information through action, dialogue, or sensory detail instead of direct statement.\n\n43. Pacing tightener\n\nThis scene is [word count] words and feels slow: [paste scene]. Cut it to [target word count] while keeping the essential beats. Show me what you cut and why.\n\n44. Consistency checker\n\nHere are descriptions of my character from 3 different chapters: [paste excerpts]. Identify any inconsistencies in physical description, voice, behavior patterns, or knowledge that the character should or should not have at each point.\n\n45. Opening chapter audit\n\nHere is my opening chapter: [paste chapter]. Evaluate it against these criteria: Does it establish voice in the first paragraph? Does it raise a question within the first page? Is the protagonist active (not passive)? Is there conflict or tension within 500 words? What would you put down the book at?",
+  "token_estimate": 266
+}

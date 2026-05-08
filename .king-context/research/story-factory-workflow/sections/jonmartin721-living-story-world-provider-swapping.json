@@ -1,0 +1,33 @@
+{
+  "title": "Provider Swapping",
+  "path": "jonmartin721-living-story-world-provider-swapping",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "TextProvider",
+    "ABC",
+    "generate",
+    "validate_model",
+    "estimate_cost",
+    "OpenAI",
+    "Groq",
+    "Together AI",
+    "OpenRouter",
+    "abstractmethod",
+    "Gemini"
+  ],
+  "use_cases": [
+    "Use when you need to avoid vendor lock-in by abstracting AI provider implementation",
+    "Implement when comparing cost and performance across OpenAI, Groq, or Together AI",
+    "Configure when setting up fallback logic to switch providers if primary services go down",
+    "Use when A/B testing different model outputs side-by-side using a unified interface"
+  ],
+  "tags": [
+    "architecture",
+    "api-reference",
+    "integration",
+    "best-practices"
+  ],
+  "priority": 10,
+  "content": "One design goal: don't get locked into a single AI provider. OpenAI might be expensive, Groq might be fast, Together AI might have a better model next month.\n\nThe solution is abstract base classes that let you swap providers without touching generation logic:\n\n```python\nclass TextProvider(ABC):\n    \"\"\"All text providers implement this interface\"\"\"\n\n    @abstractmethod\n    async def generate(self, prompt: str, **kwargs) -> str:\n        \"\"\"Generate text. Each provider handles retries differently.\"\"\"\n        ...\n\n    @abstractmethod\n    def validate_model(self, model: str) -> bool:\n        \"\"\"Check if a model name is valid for this provider.\"\"\"\n        ...\n\n    @abstractmethod\n    def estimate_cost(self, tokens: int) -> float:\n        \"\"\"Ballpark cost estimate—useful for comparing providers.\"\"\"\n        ...\n```\n\nNow I can A/B test providers side-by-side or switch when one goes down. Currently supports: OpenAI, Groq, Together AI, HuggingFace, OpenRouter, Gemini.\n\nSame pattern for image providers (Replicate, HuggingFace, Pollinations, Fal.ai).",
+  "token_estimate": 176
+}

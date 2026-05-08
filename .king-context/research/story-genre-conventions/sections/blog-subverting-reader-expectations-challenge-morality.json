@@ -1,0 +1,30 @@
+{
+  "title": "Challenge Morality",
+  "path": "blog-subverting-reader-expectations-challenge-morality",
+  "url": "https://www.richellebraswell.com/blog/subverting-reader-expectations",
+  "keywords": [
+    "Challenge Morality",
+    "Ethical Expectations",
+    "Character Motivation",
+    "Villain Redeeming Qualities",
+    "Moral Ambiguity",
+    "Protagonist Flaws",
+    "Antagonist Justification",
+    "Subverting Expectations"
+  ],
+  "use_cases": [
+    "Use when developing complex characters that resist simple 'hero' or 'villain' labels",
+    "Implement when attempting to foster reader empathy for a primary antagonist",
+    "Configure when layering moral dilemmas that force readers to question a character's intentions",
+    "Use when subverting traditional narrative tropes regarding good and evil"
+  ],
+  "tags": [
+    "character-development",
+    "narrative-theory",
+    "thematic-elements",
+    "literary-techniques"
+  ],
+  "priority": 8,
+  "content": "Challenge your readers’ perceptions of moral and ethical expectations by making characters act against their own principles or our modern standards. When a protagonist does something against our moral code, we may end up wondering whether their bad actions can be justified by their good intentions. Or perhaps you layer redeeming qualities on your villain so your readers connect with them and their motivations. This would subvert the expected novel-reading experience where the bad guy is solely the bad guy. It can make readers understand the antagonist has good intentions but is going about it the wrong way.",
+  "token_estimate": 130
+}

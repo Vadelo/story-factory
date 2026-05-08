@@ -1,0 +1,34 @@
+{
+  "title": "TL;DR",
+  "path": "blog-persistent-memory-for-ai-agents-tl-dr",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "persistent memory",
+    "knowledge graphs",
+    "vector stores",
+    "hybrid memory architecture",
+    "Neo4j",
+    "semantic similarity",
+    "embeddings",
+    "canonical IDs",
+    "institutional knowledge",
+    "graph traversal",
+    "KV cache"
+  ],
+  "use_cases": [
+    "Implement when agents need to maintain information across multiple sessions",
+    "Configure when queries require traversing complex entity relationships and account histories",
+    "Use when performing semantic retrieval or fuzzy matching on unstructured document chunks",
+    "Deploy a shared memory layer to enable a fleet of agents to build institutional knowledge",
+    "Design a hybrid architecture to combine structured reasoning with semantic recall"
+  ],
+  "tags": [
+    "architecture",
+    "memory-management",
+    "agent-frameworks",
+    "data-storage"
+  ],
+  "priority": 10,
+  "content": "- Persistent memory is the part of the agent stack that survives across sessions: facts about entities, relationships between them, decisions made, outcomes observed, embeddings that let semantic recall work. It is distinct from the in-session scratchpad and from the model's KV cache.\n- Knowledge graphs (Neo4j-style) win when the questions you need to answer are about relationships — \"who in our network has worked with this account before,\" \"which opportunities co-occur with this signal,\" \"what did we learn the last time we tried this.\" Graphs make traversal cheap and reasoning explicit.\n- Vector stores (Pinecone, Weaviate, pgvector) win when the questions you need to answer are about semantic similarity — \"find every document that talks about this idea,\" \"retrieve the most relevant context for this query.\" Vectors make fuzzy retrieval cheap and embedding-based recall work.\n- Hybrid memory (graph for entities and relations, vector for unstructured chunks, both indexed by the same canonical IDs) is what most production fleets converge on. The graph carries structure; the vector store carries semantic surface area; together they cover the question shapes a real fleet asks.\n- The architecture that compounds is one where every agent in the fleet writes to the same memory layer. A federated set of per-agent memories does not turn into institutional knowledge. A shared memory layer does.\n\n---",
+  "token_estimate": 292
+}

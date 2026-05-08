@@ -1,0 +1,35 @@
+{
+  "title": "Sign up for PNAS alerts.",
+  "path": "doi-10.1073-pnas.2011695118-sign-up-for-pnas-alerts",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2011695118",
+  "keywords": [
+    "semantic path",
+    "natural language processing",
+    "multidimensional space",
+    "speed",
+    "volume",
+    "circuitousness",
+    "semantic progression",
+    "PNAS alerts",
+    "machine learning",
+    "citation impact",
+    "discourse analysis",
+    "textual quantification"
+  ],
+  "use_cases": [
+    "Configure when users need to receive notifications for new articles or citation updates",
+    "Implement when quantifying the speed and volume of semantic movement in textual data",
+    "Use when analyzing the relationship between narrative structure and viewer evaluations",
+    "Use when measuring the circuitousness of academic papers to predict citation success",
+    "Use when plotting sequential chunks of text into multidimensional vector spaces"
+  ],
+  "tags": [
+    "user-preferences",
+    "data-science",
+    "research-tools",
+    "nlp"
+  ],
+  "priority": 8,
+  "content": "Get alerts for new articles, or get an alert when an article is cited.\n[Manage alerts](https://www.pnas.org/action/showPreferences?menuTab=Alerts)\nNarratives and other forms of discourse are powerful vehicles for informing, entertaining, maintaining social order, and making sense of the world ([1](#core-r1)–[5](#core-r5)). People watch movies, read books, and consume other narratives, and politicians, journalists, and even academics craft discourse when communicating and sharing ideas.\nBut why are some narratives, or other types of discourse, more successful? And could a simple set of measures help explain variation in success in different domains?\nAcross disciplines, researchers have long been interested in features of narratives ([6](#core-r6)–[9](#core-r9)). While some narratives seem to move faster, for example, others seem to move slower ([10](#core-r10),[11](#core-r11)). Similarly, some stories are described as “covering lots of ground” and some narratives are described as “going in circles” (i.e., returning to similar themes again and again). But while researchers and laypeople alike often describe narratives as expressing movement in some abstract space, little empirical work has actually attempted to measure such movements ([8](#core-r8),[9](#core-r9),[12](#core-r12)). Further, even less work has examined whether such movements have any impact ([13](#core-r13),[14](#core-r14)). Might certain ways of unfurling a set of ideas increase their success? Are movies that cover a lot of ground, for example, evaluated more positively?\nNote that these questions are not restricted to narratives. Narratives usually involve temporality ([15](#core-r15),[16](#core-r16)), or a sequence of events and actions, but similar questions could be asked of other types of discourse. Some academic papers or legal arguments, for example, seem to cover more ground than others and some textbooks move quickly through disparate ideas while others move more slowly. Might these features shape success (e.g., the number of citations an academic paper receives) and, if so, how?\nAttempts to answer such questions have been hindered by quantification. It is difficult to measure, for example, whether one text moves quickly or slowly. While manually coding such aspects might be possible for a small number of texts ([17](#core-r17),[18](#core-r18)), it is often subjective and difficult to scale.\nWe fill this gap using natural language processing and machine learning. In any given text, some content appears earlier in the text and other content later. Using several state-of-the-art techniques, we plot chunks of texts as sequential points in a multidimensional space and extract features of the semantic path (i.e., speed, volume, and circuitousness). We examine tens of thousands of texts from a variety of domains (i.e., movies, TV shows, and academic papers) and test how speed, volume, and circuitousness relate to success (e.g., evaluations or citations).\nImportantly, we do not mean to suggest that academic papers are narratives or that what makes a movie successful is the same as what makes an academic paper successful. In fact, our findings suggest the drivers are quite different. Rather, our goal is to provide simple measures that help quantify the semantic progression of texts and illustrate how such measures relate to success in different domains.",
+  "token_estimate": 643
+}

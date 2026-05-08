@@ -1,0 +1,32 @@
+{
+  "title": "Built for authors, by authors",
+  "path": "built-for-authors-by-authors",
+  "url": "https://www.mythril.io/",
+  "keywords": [
+    "intellectual property",
+    "commercial rights",
+    "AI model training",
+    "data retention",
+    "privacy policy",
+    "content ownership",
+    "compendium data",
+    "permanent deletion",
+    "data mining",
+    "third-party sharing"
+  ],
+  "use_cases": [
+    "Use when evaluating the security of creative intellectual property",
+    "Use when assessing if platform content is utilized for LLM training",
+    "Implement when commercializing stories or visualizations created within the tool",
+    "Configure when managing data lifecycle and permanent deletion of drafts"
+  ],
+  "tags": [
+    "privacy",
+    "compliance",
+    "data-governance",
+    "legal"
+  ],
+  "priority": 9,
+  "content": "Your drafts and creations belong to you—always. Mythril is a tool to fuel your creativity by letting you focus on what you love: writing stories\n\n#### You own everything you create\n\nAll visualizations, compendium data, and content generated in Mythril remain your intellectual property, with full commercial rights.\n\n#### Your drafts stay private\n\nWe never train AI models on your work, share your content with third parties, or use your stories for any purpose beyond providing you service.\n\n#### Delete anytime, truly gone\n\nWhen you delete your work from Mythril, it's permanently removed from our systems. No hidden copies, no backups being data mined.",
+  "token_estimate": 138
+}

@@ -1,0 +1,33 @@
+{
+  "title": "3.2 Stage 1: Graph-based Script Planning",
+  "path": "html-2604.21253v1-3-2-stage-1-graph-based-script-planning",
+  "url": "https://arxiv.org/html/2604.21253v1",
+  "keywords": [
+    "Joint Graph Generator",
+    "Title Generator",
+    "Causal Network Theory",
+    "Event Graph",
+    "Character Graph",
+    "narrative relation labels",
+    "persona slots",
+    "G^{(0)}",
+    "Prompt:story_graph",
+    "sociodynamics",
+    "causal event dependencies"
+  ],
+  "use_cases": [
+    "Use when deriving thematic titles from a baseline premise using a Title Generator.",
+    "Implement when constructing structured event graphs with causal, foreshadowing, or suspense attributes.",
+    "Configure when modeling character sociodynamics including persona slots and typed relationship categories.",
+    "Use when aligning character goals and conflicts with a narrative's causal event skeleton."
+  ],
+  "tags": [
+    "narrative-generation",
+    "graph-modeling",
+    "script-planning",
+    "character-design"
+  ],
+  "priority": 9,
+  "content": "First, a Title Generator 𝒩\\mathcal{N} derives a thematic title from the premise PP (see Prompt LABEL:prompt:title in Appendix). Subsequently, a Joint Graph Generator 𝒢\\mathcal{G} constructs the initial event and character graph representation, explicitly delineating both causal event dependencies and the web of character relationships (see Prompt LABEL:prompt:story_graph in Appendix):\n\n| G(0)=𝒢​(𝒩​(P),P)\\qquad G^{(0)}=\\mathcal{G}(\\mathcal{N}(P),P) | (1) |\n| --- | --- |\n\nwhere G(0)=(Ge(0),Gc(0))G^{(0)}=(G_{e}^{(0)},G_{c}^{(0)}) denotes the initial joint graph structure.\n\n##### Event Graph Construction.\n\nFollowing Causal Network Theory Trabasso and van den Broek (1985), the Event Graph Ge=(Ve,Ee)G_{e}=(V_{e},E_{e}) functions as the causal skeleton. Each node ve∈Vev_{e}\\in V_{e} represents a distinct plot event with explicit attributes, including event ID, event description, narrative stage (e.g., Rising Action, Climax), and time index. The directed edges EeE_{e} are not merely temporal links but encode narrative relation labels ρ​(e)∈{Causal,Foreshadowing,Suspense}\\rho(e)\\in\\{\\textsc{Causal},\\textsc{Foreshadowing},\\textsc{Suspense}\\}. The Event Graph is generated through a structured prompt that instantiates these node attributes and edge relations under the above constraints (see Prompt LABEL:prompt:story_graph in Appendix).\n\n##### Character Graph Construction.\n\nThe Character Graph Gc=(Vc,Ec)G_{c}=(V_{c},E_{c}) captures the sociodynamics of the narrative world. Each node vcv_{c} encodes multi-dimensional persona slots—including core personality trait, internal conflict, external goal, and hidden secret—while edges EcE_{c} represent evolving relationships with typed categories (Conflict, Cooperative, Emotional, Hidden) Spilka (1973). The Character Graph is generated simultaneously with the Event Graph using Prompt LABEL:prompt:story_graph in the Appendix, ensuring alignment between character relationships and plot events.",
+  "token_estimate": 303
+}

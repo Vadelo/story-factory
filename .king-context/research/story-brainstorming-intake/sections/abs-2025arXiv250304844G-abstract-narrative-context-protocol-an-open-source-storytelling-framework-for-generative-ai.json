@@ -1,0 +1,32 @@
+{
+  "title": "Narrative Context Protocol: An Open-Source Storytelling Framework for Generative AI",
+  "path": "abs-2025arXiv250304844G-abstract-narrative-context-protocol-an-open-source-storytelling-framework-for-generative-ai",
+  "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250304844G/abstract",
+  "keywords": [
+    "Narrative Context Protocol",
+    "Storyform",
+    "emerent narrative",
+    "narrative interoperability",
+    "intent-based constraints",
+    "generative AI guardrails",
+    "narrative coherence",
+    "player agency",
+    "structured register",
+    "NCP"
+  ],
+  "use_cases": [
+    "Use when developing AI-driven authoring tools that require consistent narrative structure",
+    "Implement when porting complicated story metadata across different generative systems",
+    "Configure when natural language input from users needs to be constrained by predefined narrative goals",
+    "Apply when building playable text-based experiences that balance emergent storytelling with author intent"
+  ],
+  "tags": [
+    "generative-ai",
+    "narrative-design",
+    "protocal-standards",
+    "artificial-intelligence"
+  ],
+  "priority": 8,
+  "content": "Here we introduce Narrative Context Protocol (NCP), an open-source narrative standard designed to enable narrative interoperability, AI-driven authoring tools, real-time emergent narratives, and more. By encoding a story's structure in a \"Storyform,\" which is a structured register of its narrative features, NCP enables narrative portability across systems as well as intent-based constraints for generative storytelling systems. We demonstrate the capabilities of NCP through a year-long experiment, during which an author used NCP and a custom authoring platform to create a playable, text-based experience based on her pre-existing novella. This experience is driven by generative AI, with unconstrained natural language input. NCP functions as a set of \"guardrails\" that allows the generative system to accommodate player agency while also ensuring that narrative context and coherence are maintained.\n\nPublication:\n\narXiv e-prints\n\nPub Date: March 2025 DOI:\n\narXiv: arXiv:2503.04844 Bibcode: 2025arXiv250304844G Keywords:\n\n- Computation and Language;\n- Artificial Intelligence\n\nfull text sources\n\nPreprint\n\n|\n\n🌓",
+  "token_estimate": 202
+}

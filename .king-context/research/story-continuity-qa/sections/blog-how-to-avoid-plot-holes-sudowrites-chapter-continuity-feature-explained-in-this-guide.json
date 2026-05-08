@@ -1,0 +1,31 @@
+{
+  "title": "In This Guide",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-in-this-guide",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Chapter Continuity",
+    "Plot Holes",
+    "Manuscript Context",
+    "Linked Documents",
+    "Sudowrite",
+    "Context Window",
+    "Document Linking",
+    "Story Continuity",
+    "Memory Management"
+  ],
+  "use_cases": [
+    "Implement when maintaining narrative consistency across a long-form novel",
+    "Use when syncing character details and plot points between up to 25 separate documents",
+    "Configure when seeking to provide the AI with up to 20,000 words of background context",
+    "Use when transitioning from writing isolated fragments to a continuous manuscript structure"
+  ],
+  "tags": [
+    "continuity",
+    "best-practices",
+    "getting-started",
+    "writing-tools"
+  ],
+  "priority": 10,
+  "content": "- What Are Plot Holes, Really?\n- Why Plot Holes Matter More Than You Think\n- How Chapter Continuity Prevents Plot Holes\n- Getting Started with Sudowrite\n- Best Practices\n- Common Mistakes\n- FAQ\n- Key Takeaways\n\nTL;DR: Plot holes happen because no one — human or AI — can hold an entire novel in memory at once. Sudowrite's Chapter Continuity links up to 25 documents with 20,000 words of context, so the AI treats your manuscript as one continuous story instead of isolated fragments.\n\n---",
+  "token_estimate": 115
+}

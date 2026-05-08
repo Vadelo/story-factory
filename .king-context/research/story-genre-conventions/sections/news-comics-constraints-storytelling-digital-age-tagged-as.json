@@ -1,0 +1,24 @@
+{
+  "title": "Tagged as",
+  "path": "news-comics-constraints-storytelling-digital-age-tagged-as",
+  "url": "https://www.brynmawr.edu/news/comics-constraints-storytelling-digital-age",
+  "keywords": [
+    "360°",
+    "East Asian Languages and Cultures",
+    "Categorization",
+    "Metadata Tagging",
+    "Content Classification"
+  ],
+  "use_cases": [
+    "Use when filtering content related to 360-degree viewing or spatial media",
+    "Use when organizing resources under East Asian studies",
+    "Implement when creating a searchable index for academic departments"
+  ],
+  "tags": [
+    "Classification",
+    "Information Architecture"
+  ],
+  "priority": 4,
+  "content": "- 360°\n- East Asian Languages and Cultures",
+  "token_estimate": 10
+}

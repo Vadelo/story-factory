@@ -1,0 +1,30 @@
+{
+  "title": "Purpose",
+  "path": "blog-2026-02-23-ai-writing-continuity-purpose",
+  "url": "https://docs.bswen.com/blog/2026-02-23-ai-writing-continuity",
+  "keywords": [
+    "long-form AI writing",
+    "Claude Code",
+    "automated continuity checking",
+    "Grep tools",
+    "pattern recognition",
+    "cross-referencing scripts",
+    "narrative consistency",
+    "300k-word AI novel"
+  ],
+  "use_cases": [
+    "Implement when maintaining narrative consistency in massive literary datasets",
+    "Use when building automated validation pipelines for AI-generated text",
+    "Configure when applying Grep-based pattern matching to verify factual continuity across chapters",
+    "Implement when scaling AI writing workflows to novel-length proportions"
+  ],
+  "tags": [
+    "AI-writing",
+    "automation",
+    "quality-assurance",
+    "content-generation"
+  ],
+  "priority": 7,
+  "content": "This post demonstrates how to build automated continuity checking for long-form AI writing.\n\n- Claude Code\n- Grep tools for pattern recognition\n- Custom scripts for cross-referencing\n- Reddit discussion of 300k-word AI novel",
+  "token_estimate": 45
+}

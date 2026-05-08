@@ -1,0 +1,37 @@
+{
+  "title": "Detailed Reviews: Form Examples Grouped by Goal (So You Don’t Drown in Lists)",
+  "path": "resources-form-examples-smart-framework-detailed-reviews-form-examples-grouped-by-goal-so-you-don-t-drown-in-lists",
+  "url": "https://noteforms.com/resources/form-examples-smart-framework",
+  "keywords": [
+    "DSAR",
+    "CSAT",
+    "NPS",
+    "Notion databases",
+    "conditional logic",
+    "audit checklist",
+    "data retention",
+    "multi-step wizard",
+    "lead capture",
+    "incident reporting",
+    "workflow automation",
+    "file upload"
+  ],
+  "use_cases": [
+    "Use when mapping form submissions to Notion databases with statuses and assignees",
+    "Configure when implementing Compliance and Risk forms like DSAR or safety inspections",
+    "Implement when designing Research and Feedback surveys for product decisions",
+    "Use when building a multi-step onboarding wizard for high field counts",
+    "Configure when setting up lead capture forms with fast validation and simple labels",
+    "Implement when creating structured operations forms for support and file attachments"
+  ],
+  "tags": [
+    "form-design",
+    "workflow-automation",
+    "compliance",
+    "user-experience",
+    "data-collection"
+  ],
+  "priority": 9,
+  "content": "1. Audit/inspection checklist form\n\n1. Hiring/interview evaluation form\n\n1. Performance review form\n\n1. Time off/leave request form\n\nNotice how many of these map cleanly to Notion databases with statuses, assignees, and due dates. That’s basically a workflow waiting to happen.\n\n#### G) Compliance & Risk Form Examples (Comply)\n\nWe’ll keep this informational. The goal is reducing risk, not collecting “everything.”\n\nExamples (compliance/risk):\n\n1. Consent form\n\n1. Waiver/release form\n\n1. Data/privacy request intake (DSAR)\n\n1. Safety inspection form\n\n1. Incident + corrective action form\n\n1. Policy acknowledgement form\n\n1. Whistleblowing/reporting form (anonymous option where appropriate)\n\nHigh-level guidance:\n\n- collect the minimum needed\n\n- separate marketing consent from terms acceptance\n\n- document retention and access internally\n\n#### H) Research & Feedback Form Examples (Learn)\n\nThese forms are about decision-quality learning, not “nice comments.”\n\nExamples (research/feedback):\n\n1. Product feedback form\n\n1. Customer satisfaction survey (CSAT)\n\n1. NPS survey\n\n1. Post-event evaluation form\n\n1. Employee engagement survey\n\n1. Usability test screener form\n\n1. Market research questionnaire\n\n1. Course/training evaluation form\n\nIf you want a big library of example categories (more for browsing than strategy), template galleries like Jotform’s can help spark ideas (Jotform templates library).\n\nHere’s the cheat sheet our team uses when advising Notion-first teams.\n\nGoal\n\nBest pattern\n\nTypical field count\n\nMust-have UX elements\n\nLead capture\n\nSingle-page / embedded\n\n1–6\n\nClear value, fast validation, simple labels\n\nQualification\n\nMulti-step wizard\n\n6–20\n\nProgress indicator, conditional logic, result/next step\n\nTransaction\n\nMulti-step or single-page\n\n8–25\n\nError recovery, trust copy, confirmation receipt\n\nOnboarding/intake\n\nMulti-step wizard\n\n10–40\n\nSave/return, file upload, “why we ask” microcopy\n\nSupport/ops\n\nSingle-page structured\n\n6–18\n\nCategorization, atta",
+  "token_estimate": 347
+}

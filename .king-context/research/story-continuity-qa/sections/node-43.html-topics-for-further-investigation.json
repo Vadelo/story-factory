@@ -1,0 +1,32 @@
+{
+  "title": "Topics for Further Investigation",
+  "path": "node-43.html-topics-for-further-investigation",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "computational narratology",
+    "interactive narrative",
+    "narratological markup",
+    "computer-assisted annotation",
+    "corpus-level annotation",
+    "narrative embedding",
+    "metalepsis",
+    "aesthetic response theory",
+    "crowd-sourcing",
+    "narratological patterns"
+  ],
+  "use_cases": [
+    "Use when developing novel constructs for hybrid game and narrative media",
+    "Implement when designing collaborative crowd-sourcing workflows for corpus annotation",
+    "Configure when training models for computer-based research of narratological patterns",
+    "Use when formulating computational frameworks for empirical aesthetic response"
+  ],
+  "tags": [
+    "computational-humanities",
+    "narratology",
+    "data-annotation",
+    "theoretical-framework"
+  ],
+  "priority": 5,
+  "content": "(1) As a hybrid of game and narrative that spans multiple media, interactive narrative represents a new and evolving genre. What novel constructs from computational narratology are applicable here, and which old ones need refinement? (2) The computer-assisted annotation of large-scale corpora with narratological information bearing on time, place, plot, character, emotion, point-of-view, narrative embedding, metalepsis, etc. is feasible when carried out as collaborative projects. In this respect the “crowd-sourcing” of narratological markup aims to serve human readers by providing more comprehensive narratological descriptions of narratives across an entire corpus, while at the same time facilitating computer-based research into their narratological patterns (cf. Meister 2012). Assuming that such efforts can advance computational narratology and also test more foundational theories, which models should be elaborated for corpus-level annotation efforts by the community? (3) How should an empirical theory of aesthetic response be formulated, and can this be exploited computationally?",
+  "token_estimate": 196
+}

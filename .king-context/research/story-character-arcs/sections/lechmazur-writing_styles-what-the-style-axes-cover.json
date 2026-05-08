@@ -1,0 +1,33 @@
+{
+  "title": "What the style axes cover",
+  "path": "lechmazur-writing_styles-what-the-style-axes-cover",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "voice and diction",
+    "rhythm and syntax",
+    "point of view",
+    "narrative modality",
+    "fabulism",
+    "free indirect style",
+    "metafictional devices",
+    "ending valence",
+    "prompt dependence",
+    "style axes",
+    "neutral prompting"
+  ],
+  "use_cases": [
+    "Use when evaluating the linguistic and structural choices made by a generative model",
+    "Configure when defining scoring parameters for creative writing or narrative assessment",
+    "Implement when analyzing the difference between fixed model tendencies and prompt-induced shifts",
+    "Use when categorizing literary elements like cadence, subtext, and chronological handling"
+  ],
+  "tags": [
+    "content-analysis",
+    "stylometry",
+    "model-evaluation",
+    "narrative-design"
+  ],
+  "priority": 9,
+  "content": "We score what’s visible on the page. The axes summarize choices in:\n\n- **Voice and diction:** distinctiveness, concreteness, register.\n- **Rhythm and syntax:** sentence cadence, complexity, paragraphing, linkage style.\n- **Point of view and discourse:** POV person and distance, scope, tense, reliability, use of free indirect style.\n- **Structure and pacing:** scene vs. summary balance, chronology handling, narrative modality, how background is delivered, what drives the read.\n- **Tone and mood:** intensity and range, rhetorical stance.\n- **Imagery:** density of sensory detail, sensory bias, motif strategy.\n- **Dialogue:** amount, subtext, tagging style.\n- **Experimentation:** degree of formal play, associative gaps, metafictional devices.\n- **Closure:** cadence and ending type.\n- **Content choices:** genre family, topic domain, time and place band, conflict frame, stakes level, cast size, realism vs. fabulism, ending valence, and how dependent the piece feels on the prompt.\n\nAll results reflect models under a neutral, minimally directive prompt; targeted prompting can shift register, structure, and voice substantially, so read these style patterns as tendencies rather than fixed traits.\n\n---",
+  "token_estimate": 226
+}

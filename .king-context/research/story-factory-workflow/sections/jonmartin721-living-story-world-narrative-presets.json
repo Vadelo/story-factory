@@ -1,0 +1,32 @@
+{
+  "title": "Narrative Presets",
+  "path": "jonmartin721-living-story-world-narrative-presets",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "Narrative Presets",
+    "cozy-adventure",
+    "epic-fantasy",
+    "solarpunk-explorer",
+    "noir-mystery",
+    "gothic-horror",
+    "cosmic-horror",
+    "temperature",
+    "system instructions",
+    "content maturity level",
+    "pacing"
+  ],
+  "use_cases": [
+    "Use when defining a specific genre-based tone for story generation",
+    "Configure when seeking to adjust temperature and system instructions automatically",
+    "Implement when setting structural boundaries for narrative pacing and maturity",
+    "Use when creating a world with consistent atmospheric dread or hopeful eco-futurism"
+  ],
+  "tags": [
+    "configuration",
+    "narrative-design",
+    "api-reference"
+  ],
+  "priority": 9,
+  "content": "These affect pacing, tone, maturity level, and how the story is told. Large effect on narrative output!\n\nStory genres:\n\n- `cozy-adventure` - Character-driven stories with gentle stakes (think Stardew Valley)\n- `epic-fantasy` - High fantasy with kingdoms, magic, and large-scale conflicts\n- `solarpunk-explorer` - Hopeful eco-futurism and community building\n- `whimsical-fairy-tale` - Modern fairy tales with charm and moral elements\n- `noir-mystery` - Urban crime stories with cynical detectives\n- `gothic-horror` - Atmospheric horror with family secrets and dread\n- `cosmic-horror` - Existential stories about incomprehensible forces (Lovecraftian)\n- `cyberpunk-noir` - Near-future tech noir with corporate intrigue\n- `slice-of-life` - Everyday moments and character relationships\n- `historical-intrigue` - Period stories with political maneuvering\n- `post-apocalyptic` - Survival and rebuilding after societal collapse\n- `space-opera` - Grand interstellar adventures\n\nEach preset specifies temperature, system instructions, pacing, and content maturity level.\n\n---",
+  "token_estimate": 186
+}

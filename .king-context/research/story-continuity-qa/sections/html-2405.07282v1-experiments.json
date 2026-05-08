@@ -1,0 +1,33 @@
+{
+  "title": "Experiments",
+  "path": "html-2405.07282v1-experiments",
+  "url": "https://arxiv.org/html/2405.07282v1",
+  "keywords": [
+    "CHADPOD",
+    "DeBERTa-v3-large",
+    "BERT-base",
+    "ALBERT-v2-base",
+    "GPT-4-turbo",
+    "test accuracy",
+    "zero-shot",
+    "grid search",
+    "confusion matrix",
+    "GPU RTX 4090",
+    "Vast.ai"
+  ],
+  "use_cases": [
+    "Use when comparing state-of-the-art transformer models against CHADPOD benchmarks",
+    "Implement when setting baseline hyperparameters for text classification on balanced datasets",
+    "Configure when evaluating the performance of LLMs in a zero-shot capacity for specific domain tasks",
+    "Use when analyzing model error patterns via confusion matrices to identify false negative trends"
+  ],
+  "tags": [
+    "benchmarking",
+    "model-training",
+    "machine-learning",
+    "text-classification"
+  ],
+  "priority": 8,
+  "content": "To validate the usefulness of our dataset, we trained several models for the CHADPOD tasks. We used the DeBERTa model He et al. (2021) as a strong baseline, known for its state-of-the-art performance in many text classification tasks 555 https://huggingface.co/altsoph/chadpod. Additionally, we included older but widely used models such as BERT Devlin et al. (2019) and ALBERT Lan et al. (2020) as weaker baselines. We chose accuracy as the metric due to our data being class-balanced. The training was conducted on a GPU RTX 4090 on the Vast.ai platform, with each model trained with a batch size of 4 and a learning rate of 5.5×10−65.5superscript1065.5\\times 10^{-6}5.5 × 10 start_POSTSUPERSCRIPT - 6 end_POSTSUPERSCRIPT until accuracy on a validation split began to decline. A full training run for one task required at most 30 minutes. We also added results for GPT-3.5-turbo666https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates and GPT-4-turbo777https://openai.com/blog/new-models-and-developer-products-announced-at-devday tested in a zero-shot manner with hyperparamteres (temperature, probability threshold) obtained by a grid search on the validation set.\n\nThe results are presented in the Table 2.\n\nTable 2: Test Accuracy of Models on CHADPOD\n\n| model | test acc | size |\n| --- | --- | --- |\n| DeBERTa-v3-large | 89% | 340M |\n| DeBERTa-v3-base | 85% | 110M |\n| ALBERT-v2-base | 84% | 11M |\n| BERT-base | 79% | 110M |\n| GPT-4-turbo, 0-shot | 62% | unknown |\n| GPT-3.5-turbo, 0-shot | 55% | unknown |\n\nAs seen, the task is solvable but remains quite complex for simpler and smaller models. The presented results are on a test dataset without overlap with the training set in terms of games, minimizing the risk of overfitting. As for LLMs, it seems that using them in a 0-shot manner is not a silver bullet for this task, though results could likely be improved through fine-tuning or prompt engineering. Analysis of the confusion matrix revealed that LLMs underperform on the positive class, leading to a high number of false negatives.",
+  "token_estimate": 432
+}

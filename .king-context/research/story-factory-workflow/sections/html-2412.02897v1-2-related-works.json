@@ -1,0 +1,36 @@
+{
+  "title": "2 Related Works",
+  "path": "html-2412.02897v1-2-related-works",
+  "url": "https://arxiv.org/html/2412.02897v1",
+  "keywords": [
+    "MLD-EA",
+    "recursive inference strategy",
+    "CHAE model",
+    "COMMA framework",
+    "logic coherence",
+    "action guidance",
+    "symbolic planning",
+    "iterative prompting",
+    "emotion-action interaction",
+    "narrative understanding",
+    "story generation",
+    "LLM cognitive modeling"
+  ],
+  "use_cases": [
+    "Use when developing AI models that require logical coherence between character emotions and actions.",
+    "Implement when addressing disjointed or inconsistent storylines in complex narrative plots.",
+    "Configure when seeking to identify logical loopholes in AI-generated stories through multi-character interaction analysis.",
+    "Use when benchmarking current story generation models against traditional frameworks like CHAE or COMMA.",
+    "Implement when building narrative completion engines that utilize missing sentence prediction (s_k)."
+  ],
+  "tags": [
+    "natural-language-processing",
+    "narrative-generation",
+    "cognitive-modeling",
+    "large-language-models",
+    "artificial-intelligence"
+  ],
+  "priority": 8,
+  "content": "Several innovative approaches have been developed to enhance AI-generated narratives’ logical coherence, emotional depth in narrative understanding, and story generation within NLP. Paul and Frank (2021) framework introduces a recursive inference strategy that dynamically generates contextualized rules to guide narrative completion, focusing on maintaining coherence and logical flow throughout the story. Similarly, the CHAE model Wang et al. (2022) offers fine-grained control over narrative elements, creating customized stories with specific characters, actions, and emotions, enhancing the personalization and richness of the narratives. Similarly, the COMMA Xie et al. (2022) explores the relationships among motivations, emotions, and actions, providing a cognitive framework that deepens the understanding of narrative construction by modeling these interrelated factors. However, these traditional models often struggle to consistently integrate actions and emotions to maintain logical coherence throughout the entire narrative, leading to disjointed or emotionally inconsistent storylines when handling more complex plots Kambhampati et al. (2024). Additionally, they may lack the flexibility to dynamically understand nuanced shifts in a character’s behavior or emotional progression.\n\nExploring LLMs, cognitive frameworks, and hybrid planning strategies has paved the way for more engaging and human-like stories. Alvarez (2023) used ChatGPT in interpreting narrative structures, which further extends the potential for generating stories based on predefined structures, offering new methods for narrative development. Notably, approaches such as iterative prompting-based planning for suspenseful story generation Xie and Riedl (2024), the combination of symbolic planning with neural models Farrell and Ware (2024), and the SWAG method Patel et al. (2024), which utilizes action guidance in storytelling, have significantly improved the quality and engagement of AI-generated narratives. Additionally, comprehensive evaluations like \"The Next Chapter\" Xie et al. (2023) and knowledge-enhanced pre-training models Guan et al. (2020) have shown that LLMs can produce stories of high quality, sometimes approaching the level of human authors. LLMs often struggle to maintain consistent plots on generation, but they cannot check their generated stories by themselves Huang et al. (2024b). In our approach, MLD-EA is able to find such logical loopholes by introducing the interaction between emotions and actions to keep stories coherent.\n\nFigure 2: MLD-EA model overview. Each Input Story contains $n$ sentences and $m$ characters, which have a missing sentence $s_{k}$ before index $k$ . $e(c,s)$ and $a(c,s)$ denote the character’s emotion and action in the sentence, respectively; $\\hat{e}$ and $\\hat{a}$ denotes the predicted emotion and action.\n\n![Refer to caption](https://arxiv.org/html/extracted/6043385/MLD_EA_pipeline_fig_v3.png)",
+  "token_estimate": 521
+}

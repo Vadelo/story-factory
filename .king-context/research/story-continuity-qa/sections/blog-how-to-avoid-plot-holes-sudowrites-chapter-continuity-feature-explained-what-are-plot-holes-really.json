@@ -1,0 +1,32 @@
+{
+  "title": "What Are Plot Holes, Really?",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-are-plot-holes-really",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "plot hole",
+    "continuity errors",
+    "Story Bible",
+    "Chapter Continuity",
+    "Write feature",
+    "persistent reference",
+    "narrative contradiction",
+    "memory management",
+    "linked chapters",
+    "worldbuilding rules"
+  ],
+  "use_cases": [
+    "Use when you need to maintain consistency in character traits and worldbuilding across a long novel",
+    "Implement when transitioning between chapters to prevent logical gaps in the narrative",
+    "Configure when training the AI to reference up to 20,000 words of prior story context",
+    "Use when migrating from generic AI tools to a persistent context narrative environment"
+  ],
+  "tags": [
+    "content-generation",
+    "narrative-continuity",
+    "story-bible",
+    "feature-overview"
+  ],
+  "priority": 10,
+  "content": "A plot hole is any contradiction, gap, or logical impossibility in your narrative that breaks the reader's trust in your story world. Plot holes range from minor continuity errors (a character's eye color changing) to story-breaking contradictions (a locked-room mystery where the door was unlocked two chapters earlier). They're the cracks in your story's foundation, and every reader who spots one starts looking for more.\n\nThe real problem? Traditional writing tools don't track continuity at all, and generic AI tools like ChatGPT reset their memory every session. You paste in Chapter 20, the AI has zero knowledge of Chapters 1 through 19, and suddenly it's generating text that contradicts your established world. AI doesn't create plot holes out of malice. It creates them out of amnesia.\n\nSudowrite approaches this differently. The Story Bible stores character details, worldbuilding rules, and plot outlines in a persistent reference the AI reads every time it generates text. Chapter Continuity goes further by chaining your actual chapter documents together, giving the Write feature access to 20,000 words of prior narrative across up to 25 linked chapters. The AI doesn't guess what happened before. It reads it.\n\n---",
+  "token_estimate": 255
+}

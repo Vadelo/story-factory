@@ -1,0 +1,33 @@
+{
+  "title": "The Voice Engine: AI that writes like you",
+  "path": "the-voice-engine-ai-that-writes-like-you",
+  "url": "https://www.plotforge.app/",
+  "keywords": [
+    "PlotForge Voice Engine",
+    "style metrics",
+    "voice-matched AI",
+    "Cast intelligence",
+    "relationship mapping",
+    "style DNA",
+    "character dynamics",
+    "Starfall Odyssey",
+    "literary vocabulary",
+    "pacing metrics"
+  ],
+  "use_cases": [
+    "Use when uploading personal writing samples to calibrate AI prose generation",
+    "Configure when mapping complex character relationships with strength ratings and connection types",
+    "Implement when comparing authorial style against established writers like Ted Chiang or Blake Crouch",
+    "Use when tracking literary metrics such as dialogue percentage and sentence length",
+    "Explore when navigating the 'Starfall Odyssey' demo to understand feature integration"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "character-management",
+    "content-generation",
+    "product-tour"
+  ],
+  "priority": 9,
+  "content": "Upload your writing samples, discover your unique style, and generate prose that sounds authentically like you with voice-matched AI.\n\n![PlotForge Voice Engine showing author style matching with Ted Chiang 85%, Blake Crouch 80%, Jeff VanderMeer 70%, plus style metrics including 18 words per sentence, 35% dialogue, literary vocabulary, and measured pacing](https://www.plotforge.app/images/features/voice-engine/voice-engine-showcase.png)\n\n85%\n\nTed Chiang\n\n80%\n\nBlake Crouch\n\n70%\n\nJeff VanderMeer\n\nYour writing DNA: See which authors you write like, then let AI match your unique voice in all generated prose.\n\nCast intelligence\n\nMap relationships with 8 connection types, strength ratings, and status tracking. Build everything manually or invite AI to suggest dynamics based on your story.\n\n![PlotForge character relationship mapping showing multiple characters with connection types, strength ratings, and status indicators for tracking complex character dynamics](https://www.plotforge.app/images/landing/character-relationships.png)\n\nVisual relationship cards show connections at a glance. Track allies, rivals, mentors, love interests, and more with detailed notes.\n\nLive preview\n\nTry our demo project “Starfall Odyssey” — a complete sci-fi story with generated outline, chapters, and characters.\n\nGuided Demo • Starfall Odyssey",
+  "token_estimate": 224
+}

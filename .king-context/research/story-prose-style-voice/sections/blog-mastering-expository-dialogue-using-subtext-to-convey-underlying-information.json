@@ -1,0 +1,32 @@
+{
+  "title": "Using Subtext to Convey Underlying Information",
+  "path": "blog-mastering-expository-dialogue-using-subtext-to-convey-underlying-information",
+  "url": "https://www.numberanalytics.com/blog/mastering-expository-dialogue",
+  "keywords": [
+    "subtext",
+    "exposition",
+    "non-verbal cues",
+    "dialogue",
+    "implied information",
+    "character motivation",
+    "info dumping",
+    "organic narration",
+    "body language",
+    "character arc"
+  ],
+  "use_cases": [
+    "Use when you need to convey character depth without over-explaining",
+    "Implement when delivering essential background information through natural dialogue",
+    "Configure when balancing scene pacing to avoid static monologues",
+    "Use when integrating non-verbal character traits into a narrative sequence"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "dialogue-optimization",
+    "pacing"
+  ],
+  "priority": 8,
+  "content": "Subtext refers to the underlying emotions, motivations, or information that exist beneath the surface of a character's dialogue. By using subtext, you can convey essential information without explicitly stating it.\n\nFor example, consider the following dialogue:\n\n\"I'm fine.\" - Character A \"Really? You seem a bit off.\" - Character B \"I'm just tired, that's all.\" - Character A\n\nIn this example, Character A is saying one thing (\"I'm fine\"), but the subtext suggests that they're actually struggling with something. This subtlety allows the audience to infer information without being hit over the head with exposition.\n\nTo avoid info dumping, it's essential to integrate exposition naturally into conversations. This can be achieved by:\n\n- Using action, body language, and other non-verbal cues to support exposition.\n- Avoiding long, exposition-heavy monologues or dialogue exchanges.\n- Using everyday conversations as a starting point, and then weaving in exposition in a way that feels organic.",
+  "token_estimate": 200
+}

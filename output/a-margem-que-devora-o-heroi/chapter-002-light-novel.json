@@ -1,0 +1,40 @@
+{
+  "work_slug": "a-margem-que-devora-o-heroi",
+  "chapter_id": "chapter-002-light-novel",
+  "chapter_number": 2,
+  "title": "Resolver Conversa",
+  "language": "pt-BR",
+  "form": "light novel/webnovel",
+  "content_file": "output/a-margem-que-devora-o-heroi/chapter-002-light-novel.md",
+  "summary": "Kael bloqueia a margem usando uma caixa de comentário e ameaça resolver a conversa, o que pode apagar a interferência de Davi. Davi recupera uma fala cortada de Yerin, devolvendo a ela autoria parcial na margem. Yerin foge para a passagem que leva ao Pavilhão dos Arquivos, confronta Kael por chegar tarde e também confronta Davi por decidir por ela. O capítulo estabelece que falas cortadas devolvidas podem permitir que seus donos alcancem a margem.",
+  "canon_changes": [
+    "Comentários na margem podem bloquear permissões de escrita.",
+    "O botão 'resolver conversa' pode apagar ou neutralizar conflitos da camada de revisão.",
+    "Falas cortadas recuperadas carregam autoria do personagem original.",
+    "Quando uma fala cortada volta ao texto, seu dono pode alcançar parcialmente a margem.",
+    "O canal inferior conecta a cena ao Pavilhão dos Arquivos.",
+    "A camada de restauração tenta restaurar relações principais, não apenas eventos isolados."
+  ],
+  "continuity_notes": [
+    "Davi continua sem corpo e não pode criar do nada; ele altera, desloca e recupera material cortado.",
+    "Yerin preserva agência e critica Davi por decidir por ela.",
+    "Kael permanece ameaça estrutural e aprende as regras junto com Davi.",
+    "A camada de restauração é uma força separada de Kael e de Davi."
+  ],
+  "retrieval_used": {
+    "works": [
+      "canon-premise",
+      "style-guide",
+      "chapter-001-light-novel-summary",
+      "chapter-001-light-novel-canon-delta",
+      "chapter-001-light-novel-character-states",
+      "chapter-001-light-novel-timeline",
+      "chapter-001-light-novel-threads"
+    ],
+    "permanent_corpora": [
+      "story-structure-plot",
+      "story-character-arcs",
+      "story-continuity-qa"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Current Progress",
+  "path": "posts-lab-0-current-progress",
+  "url": "https://kennethwolters.com/posts/lab-0/",
+  "keywords": [
+    "reverse inference",
+    "few-shot prompting",
+    "narrative hierarchy",
+    "base models",
+    "sequential narrative elements",
+    "corpus analysis",
+    "generation pipeline",
+    "evaluation set",
+    "pattern communication",
+    "interactive guidance"
+  ],
+  "use_cases": [
+    "Implement when needing to guide base model behavior without fine-tuning",
+    "Use when decomposing full-length novels into structural narrative layers",
+    "Configure when building evaluation datasets based on professional literary works",
+    "Use when benchmarking story extension quality through human evaluation",
+    "Implement when developing a hierarchical narrative generation system"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "prompt-engineering",
+    "content-generation",
+    "data-analysis"
+  ],
+  "priority": 8,
+  "content": "I’m currently working on reverse inference through the hierarchy using existing novels. This involves:\n\n1. Taking complete works and decomposing them into their sequential narrative elements\n2. Creating examples at each narrative level to use for few-shot prompting\n3. Analyzing the transitions between layers to understand optimal sequencing\n\nThis reverse engineering serves two purposes:\n\n- Creating a robust evaluation set based on professional writing\n- Building a curated selection of examples for few-shot prompting that implicitly guide generation\n\nThe most challenging aspect has been selecting the right few-shot examples that effectively communicate the desired pattern to the base model without explicit instructions. Since I’m using base models rather than fine-tuned ones, the selection of examples becomes critical for guiding the model’s behavior at each layer.\n\nNear-term objectives include:\n\n1. Completing the reverse inference analysis on a corpus of 5-10 novels\n2. Implementing the first complete generation pipeline\n3. Generating fan-fiction extensions of existing stories for evaluation by friends familiar with the source material\n\nLonger term, the system will evolve to generate original stories based on high-level user inputs, potentially with interactive guidance during the generation process.",
+  "token_estimate": 247
+}

@@ -1,0 +1,32 @@
+{
+  "title": "How the QC Report Looks",
+  "path": "en-blog-detecting-plot-holes-with-qc-how-the-qc-report-looks",
+  "url": "https://symban.de/en/blog/detecting-plot-holes-with-qc",
+  "keywords": [
+    "QC Report",
+    "structured verdict",
+    "PASS",
+    "WARNING",
+    "FAIL",
+    "automatic correction",
+    "manual review",
+    "inventory validation",
+    "world rules",
+    "dashboard"
+  ],
+  "use_cases": [
+    "Use when interpreting quality control results to determine if manual intervention is required",
+    "Configure when defining threshold rules for automatic data correction",
+    "Use when reviewing flagged inconsistencies in the system dashboard",
+    "Implement when auditing system-wide data integrity against defined world rules"
+  ],
+  "tags": [
+    "monitoring",
+    "validation",
+    "data-integrity",
+    "reporting"
+  ],
+  "priority": 8,
+  "content": "Each check produces a structured verdict:\n\n| Severity | Meaning | Action |\n| --- | --- | --- |\n| PASS | Everything consistent | No correction needed |\n| WARNING | Possible inconsistency, not clear-cut | Flagged for manual review |\n| FAIL | Clear contradiction against inventory or world rules | Triggers automatic correction |\n\nYou can see the full QC report in the dashboard and judge warnings yourself. For failures, the next step kicks in automatically.",
+  "token_estimate": 106
+}

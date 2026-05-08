@@ -1,0 +1,29 @@
+{
+  "title": "What Is Prompt Engineering (for Book Writing)?",
+  "path": "prompt-engineering-for-writing-full-books-with-ai-what-is-prompt-engineering-for-book-writing",
+  "url": "https://blog.aignitionagency.com/prompt-engineering-for-writing-full-books-with-ai/",
+  "keywords": [
+    "prompt engineering",
+    "structured drafting",
+    "continuity management",
+    "stochasticity reduction",
+    "voice stabilization",
+    "instruction design",
+    "iterative prompting",
+    "AI-assisted authorship"
+  ],
+  "use_cases": [
+    "Use when designing a systematic workflow to generate cohesive book chapters",
+    "Configure when seeking to maintain consistent character traits and timelines across long-form content",
+    "Implement when needing to reduce repetitive phrasing or unpredictable outputs in AI-generated drafts",
+    "Use when developing a multi-step prompting system for professional-grade creative writing"
+  ],
+  "tags": [
+    "concept-overview",
+    "content-generation",
+    "best-practices"
+  ],
+  "priority": 10,
+  "content": "Prompt engineering is the process of designing instructions that guide an AI model towards a specific output. For book writing, that means:\n\n- Reducing randomness and repetition\n- Maintaining a stable voice across chapters\n- Keeping continuity (characters, facts, timelines)\n- Producing structured, publishable draft sections\n\nIn other words: you’re not asking AI to “write a book”. You’re directing AI to write your book, step by step, using prompts as a system.\n\n---",
+  "token_estimate": 97
+}

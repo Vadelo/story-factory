@@ -1,0 +1,33 @@
+{
+  "title": "Memory System",
+  "path": "EdwardAThomson-StoryDaemon-memory-system",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "Story Foundation",
+    "Plot Outline",
+    "Goal Hierarchy",
+    "Open Loops",
+    "Vector Index",
+    "Lore",
+    "Semantic search",
+    "Contradiction detection",
+    "Context retrieval",
+    "Dynamic character data"
+  ],
+  "use_cases": [
+    "Use when tracking unresolved narrative threads and mention history",
+    "Configure when defining immutable constraints like genre, premise, and tone",
+    "Implement when needing semantic search for relevant context retrieval",
+    "Use when managing evolving character goals and emotional states",
+    "Implement when preventing narrative inconsistencies via contradiction detection"
+  ],
+  "tags": [
+    "architecture",
+    "state-management",
+    "narrative-engine",
+    "data-structure"
+  ],
+  "priority": 10,
+  "content": "Each novel maintains its own working directory with:\n\n- **Story Foundation** - Optional immutable constraints (genre, premise, protagonist, setting, tone, themes, primary goal)\n- **Plot Outline** - Optional emergent plot beats for forward momentum (plot-first mode)\n- **Characters** - Dynamic character data with goals, relationships, emotional state\n- **Locations** - Evolving location descriptions with sensory details\n- **Scenes** - Scene metadata and summaries\n- **Open Loops** - Unresolved narrative threads with mention tracking\n- **Goal Hierarchy** - Protagonist immediate/arc/story goals with progress tracking\n- **Lore** - World rules, constraints, and capabilities with contradiction detection\n- **Vector Index** - Semantic search for context retrieval",
+  "token_estimate": 136
+}

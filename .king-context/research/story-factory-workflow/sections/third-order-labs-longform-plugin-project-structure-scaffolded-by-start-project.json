@@ -1,0 +1,35 @@
+{
+  "title": "Project Structure (scaffolded by `/start-project`)",
+  "path": "third-order-labs-longform-plugin-project-structure-scaffolded-by-start-project",
+  "url": "https://github.com/third-order-labs/longform-plugin",
+  "keywords": [
+    "/start-project",
+    "07-continuity.md",
+    "08-voice.md",
+    "04-outline.md",
+    "13-threads.md",
+    "I/D/P/S markers",
+    "longform-plugin",
+    "AGENTS.md",
+    "precedence hierarchy",
+    "project-scaffolding",
+    "narrative-craft",
+    "00-pitch.md"
+  ],
+  "use_cases": [
+    "Configure when initializing a new creative writing repository using the /start-project command",
+    "Use when resolving narrative conflicts between documentation files via the defined precedence order",
+    "Implement when tracking story progression using narrative thread markers like I/D/P/S",
+    "Configure when defining agent workflow rules and authorial voice constraints",
+    "Use when organizing novel-length manuscripts into drafts, outlines, and final versions"
+  ],
+  "tags": [
+    "architecture",
+    "configuration",
+    "project-scaffolding",
+    "workflow"
+  ],
+  "priority": 10,
+  "content": "```\nyour-novel/\n├── AGENTS.md                         # Agent workflow rules\n├── docs/\n│   ├── 00-pitch.md                   # Hook, synopsis, core contrasts\n│   ├── 01-north-star.md              # Guardrails and open decisions\n│   ├── 02-world.md                   # Setting, geography, society\n│   ├── 03-characters.md              # Cast with arcs\n│   ├── 04-outline.md                 # Act structure and beats\n│   ├── 05-glossary.md                # Names, terms, places\n│   ├── 06-scene-log.md               # Running ledger of what happened\n│   ├── 07-continuity.md              # Canon facts (highest precedence)\n│   ├── 08-voice.md                   # Authorial consciousness + character voices\n│   ├── 09-chapter-outline-template.md # Reusable chapter outline format\n│   ├── 13-threads.md                 # Thread tracking with I/D/P/S markers\n│   ├── 19-foreshadowing-checklist.md # Seeds and payoff targets\n│   └── 25-style-guide.md            # Prose register, POV, tone\n├── outlines/\n│   └── book-one/                     # Chapter outlines\n├── draft/\n│   └── book-one/                     # Draft chapters\n└── manuscript/                       # Final assembled manuscript\n```\n\nWhen documents conflict, resolve in this order (highest precedence first):\n\n1. **Continuity** (`07-continuity.md`) — canon facts that must not be broken\n2. **Voice** (`08-voice.md`) — authorial consciousness + character voice profiles\n3. **Outline** (`04-outline.md`) — the structural plan\n4. **Threads** (`13-threads.md`) — active narrative threads\n5. **Scene log** (`06-scene-log.md`) — what actually happened\n6. **Style guide** (`25-style-guide.md`) — prose and tone targets\n7. **Pitch** (`00-pitch.md`) — the original vision\n\n```\nlongform-plugin/\n├── .claude-plugin/plugin.json\n├── README.md\n├── commands/\n│   ├── start-project.md\n│   ├── plan-chapter.md\n│   ├── write-chapter.md\n│   ├── review.md\n│   ├── wrap.md\n│   └── voice-session.md\n└── skills/\n    ├── authorial-voice/SKILL.md\n    ├── long-form-methodology/SKILL.md\n    ├── continuity-management/SKILL.md\n    ├── narrative-craft/SKILL.md\n    ├── scene-craft/SKILL.md\n    └── project-scaffolding/SKILL.md\n```",
+  "token_estimate": 328
+}

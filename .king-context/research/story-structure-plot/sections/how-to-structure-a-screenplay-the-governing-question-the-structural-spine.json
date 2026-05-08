@@ -1,0 +1,33 @@
+{
+  "title": "The Governing Question: The Structural Spine",
+  "path": "how-to-structure-a-screenplay-the-governing-question-the-structural-spine",
+  "url": "https://scriptserious.com/how-to-structure-a-screenplay/",
+  "keywords": [
+    "governing dramatic question",
+    "structural spine",
+    "irreversible action",
+    "screenplay structure",
+    "protagonist sacrifice",
+    "relationship survival",
+    "lie exposed",
+    "page ten",
+    "momentum",
+    "scene convergence"
+  ],
+  "use_cases": [
+    "Use when you need to establish the core conflict within the first ten pages of a screenplay.",
+    "Implement when structuring scenes so each one advances toward resolving the governing dramatic question.",
+    "Configure when you want to avoid scene accumulation and ensure narrative momentum.",
+    "Use when analyzing why scenes fail to converge early in a script.",
+    "Apply when revising a screenplay to strengthen the central irreversible action."
+  ],
+  "tags": [
+    "screenwriting",
+    "story structure",
+    "plot development",
+    "narrative design"
+  ],
+  "priority": 10,
+  "content": "Every screenplay that holds is built around a governing dramatic question.\n\nNot a theme.\n\nNot a message.\n\nA question that can only be answered through irreversible action.\n\nExamples:\n\nWill the protagonist sacrifice X to achieve Y\n\nCan this relationship survive Z\n\nWill the lie be exposed before it destroys everything\n\nBy page ten, the reader does not need the answer. They need to know what they are watching for.\n\nWithout a governing question, scenes accumulate instead of converge.\n\nFor how early structural instability destroys momentum, read Why Most Scripts Fail Before Page Ten.",
+  "token_estimate": 123
+}

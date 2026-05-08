@@ -1,0 +1,32 @@
+{
+  "title": "Examples of Fatal Flaws (The Lie)",
+  "path": "guides-the-psychology-of-unforgettable-characters-examples-of-fatal-flaws-the-lie",
+  "url": "https://cipherwrite.com/guides/the-psychology-of-unforgettable-characters",
+  "keywords": [
+    "Fatal Flaws",
+    "The Lie",
+    "Character Arcs",
+    "Positive Arc",
+    "Flat Arc",
+    "Negative Arc",
+    "K.M. Weiland",
+    "Story Structure",
+    "Protagonist Development",
+    "Character Growth"
+  ],
+  "use_cases": [
+    "Use when defining a protagonist's internal psychological misbelief",
+    "Implement when selecting one of the three fundamental arc shapes for a narrative",
+    "Configure when mapping the trajectory of a character's internal change from beginning to end",
+    "Use when referencing literary examples of fatal flaws like pride or self-doubt"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-design",
+    "narrative-structure",
+    "literary-theory"
+  ],
+  "priority": 10,
+  "content": "- Elizabeth Bennet (Pride and Prejudice): \"My first impressions of people are always right.\" (Pride/Prejudice)\n- Walter White (Breaking Bad): \"I deserve more recognition than life has given me.\" (Pride/Entitlement)\n- Frodo Baggins (The Lord of the Rings): \"I am too small and weak to matter.\" (Self-doubt)\n- Jay Gatsby (The Great Gatsby): \"If I become rich enough, I can recreate the past.\" (Obsession/Denial)\n- Katniss Everdeen (The Hunger Games): \"I can protect everyone I love if I sacrifice enough.\" (Control/Self-sacrifice)\n\nReference: K.M. Weiland, Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure, Plot, and Character Development (2016).\n\nNot every character changes in the same direction. Weiland identifies three fundamental arc shapes that determine how the protagonist's relationship with The Lie evolves:\n\nHow your protagonist changes (or doesn't) over the course of the story\n\nGrowthNeutralDeclineBeginningMidpointEndPositive ArcFlat ArcNegative ArcProtagonist overcomes flawProtagonist changes the worldProtagonist succumbs to flaw",
+  "token_estimate": 196
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Kabir Ahuja, Melanie Sclar, Yulia Tsvetkov",
+  "path": "forum-kabir-ahuja-melanie-sclar-yulia-tsvetkov",
+  "url": "https://openreview.net/forum?id=ptmgWRCWmu",
+  "keywords": [
+    "plot hole detection",
+    "FlawedFictionsMaker",
+    "FlawedFictions benchmark",
+    "synthetic data generation",
+    "test time scaling",
+    "narrative reasoning",
+    "entity tracking",
+    "theory of mind",
+    "internal logic consistency",
+    "COLM 2025"
+  ],
+  "use_cases": [
+    "Use when evaluating the narrative consistency and logical reasoning limitations of LLMs",
+    "Implement when synthesizing datasets of stories containing intentional logical inconsistencies",
+    "Configure when testing model performance degradation relative to increasing story length",
+    "Use when benchmarks for surface-level comprehension are insufficient for deep reasoning assessment",
+    "Apply when auditing LLM-based summarization or generation for introduced factual errors"
+  ],
+  "tags": [
+    "evaluation",
+    "natural-language-generation",
+    "synthetic-data",
+    "reasoning"
+  ],
+  "priority": 8,
+  "content": "Published: 08 Jul 2025, Last Modified: 26 Aug 2025\n\nCOLM 2025Everyone Revisions BibTeX CC BY 4.0\n\nKeywords: narrative understanding, reasoning, synthetic data generation, test time scaling, evaluation, natural language generation\n\nTL;DR: We propose an automatic method to generate stories with logical inconsistencies, which we then use to curate a benchmark to evaluate capabilities of LLMs towards reasoning for plot holes in stories.\n\nAbstract: Stories are a fundamental aspect of human experience. Engaging deeply with stories and spotting plot holes—inconsistencies in a storyline that break the internal logic or rules of a story’s world—requires nuanced reasoning skills, including tracking entities and events and their interplay, abstract thinking, pragmatic narrative understanding, commonsense and social reasoning, and theory of mind. As Large Language Models (LLMs) increasingly generate, interpret, and modify text, rigorously assessing their narrative consistency and deeper language understanding becomes critical. However, existing benchmarks focus mainly on surface-level comprehension. In this work, we propose plot hole detection in stories as a proxy to evaluate language understanding and reasoning in LLMs. We introduce FlawedFictionsMaker, a novel algorithm to controllably and carefully synthesize plot holes in human-written stories. Using this algorithm, we construct a benchmark to evaluate LLMs’ plot hole detection abilities in stories —FlawedFictions—robust to contamination, with human filtering ensuring high quality. We find that state-of-the-art LLMs struggle in accurately solving FlawedFictions regardless of the reasoning effort allowed, with performance significantly degrading as story length increases. Finally, we show that LLM-based story summarization and story generation are prone to introducing plot holes, with 50%+ and 100%+ increases in plot hole detection rates with respect to human-written originals.\n\nCode Of Ethics: I acknowledge that I and all co-authors of this work have read and commit to adhering to the COLM Code of Ethics on https://colmweb.org/CoE.html\n\nAuthor Guide: I certify that this submission complies with the submission instructions as described on https://colmweb.org/AuthorGuide.html\n\nSubmission Number: 1693\n\nLoading\n\nOpenReview is a long-term project to advance science through improved peer review with legal nonprofit status. We gratefully acknowledge the support of the OpenReview Sponsors. © 2026 OpenReview",
+  "token_estimate": 450
+}

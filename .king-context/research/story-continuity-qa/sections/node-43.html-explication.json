@@ -1,0 +1,32 @@
+{
+  "title": "Explication",
+  "path": "node-43.html-explication",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "computational narratology",
+    "narrative representation",
+    "narratological constructs",
+    "interactive games",
+    "human-like narrative behavior",
+    "linguistic theories",
+    "humanities discipline",
+    "digital media",
+    "intelligent interfaces",
+    "empirical approaches"
+  ],
+  "use_cases": [
+    "Use when mapping narratological constructs to computational architectures in AI design",
+    "Configure when designing intelligent computer-based interfaces for narrative interaction",
+    "Implement when developing life-like characters for interactive entertainment and games",
+    "Use when researching the intersection of linguistic theories and narrative systems"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "narratology",
+    "computational-theory",
+    "game-design"
+  ],
+  "priority": 8,
+  "content": "As “a humanities discipline dedicated to the study of the logic, principles, and practices of narrative representation” (Meister→ Narratology), narratology has a natural and substantial overlap with the (scientific and engineering) disciplines involved in the development of artificial intelligence systems aiming for human-like narrative behavior, as well as the (engineering and aesthetic) practices involved in the design of intelligent computer-based interfaces and game environments for interacting with narratives. In the course of developing such systems, researchers have mapped narratological constructs to computational ones and elucidated interactions among them, formulating (sometimes implicitly) theoretical and empirical approaches to narrative. Computational narratology has also been strongly influenced by linguistic theories.\n\nComputational narratology is a fast-evolving field, motivated in part by the surge in popular interest in interactive games and entertainment and their promise of offering engaging narratives with life-like characters. The pervasiveness of computer technology and digital media in everyday life and cultural activity has substantially raised expectations about their future involvement. The advent of the new millennium has accordingly seen a spate of books, journal articles and conferences on topics related to this subject.",
+  "token_estimate": 242
+}

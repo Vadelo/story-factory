@@ -1,0 +1,30 @@
+{
+  "title": "Steps for each puzzle",
+  "path": "crafting-settings-steps-for-each-puzzle",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "ID column",
+    "PUZZLE column",
+    "NICKNAME column",
+    "SOLVED column",
+    "identification number",
+    "horizontal solid line",
+    "incremental ID",
+    "puzzle documentation",
+    "ideation process"
+  ],
+  "use_cases": [
+    "Use when documenting new puzzle scenarios within a structured logging system",
+    "Implement when transitioning a puzzle status from an idea to a solved state",
+    "Configure when organizing multi-line puzzle statements for better readability"
+  ],
+  "tags": [
+    "documentation",
+    "workflow",
+    "logging",
+    "data-entry"
+  ],
+  "priority": 8,
+  "content": "1. Write the ID number in the ID column. The first one will start with 1 and increment numerically as you create more puzzles.\n2. Write the puzzle in the form of a question or statement in the PUZZLE column, keeping one statement or question per ID number. Keep the puzzle in the PUZZLE column. If you run out of space in the PUZZLE column, continue writing on line below. Keep doing this as you need to in order to finish writing the puzzle.\n3. Draw a horizontal, solid line over the dots under the final row taken up by the puzzle.\n4. In the NICKNAME column, write a one-to-three word nickname for this puzzle.\n5. You will eventually come to clarity in the puzzle after ideating and expanding. Once that happens, the puzzle is solved which can be documented by writing an X in the SOLVED column.",
+  "token_estimate": 196
+}

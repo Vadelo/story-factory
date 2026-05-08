@@ -1,0 +1,34 @@
+{
+  "title": "How can a screenplay's structure be broken down into sequences?",
+  "path": "screenplay-structure-how-can-a-screenplay-s-structure-be-broken-down-into-sequences",
+  "url": "https://www.scriptreaderpro.com/screenplay-structure/",
+  "keywords": [
+    "sequence climax",
+    "Act 1",
+    "Act 2",
+    "Act 3",
+    "call to action",
+    "big decision",
+    "midpoint",
+    "all is lost",
+    "overall climax",
+    "sequence A",
+    "sequence G",
+    "screenplay structure"
+  ],
+  "use_cases": [
+    "Use when mapping a screenplay's beats to the seven-letter sequence framework (A–G).",
+    "Implement when aligning each sequence climax to the traditional five plot points: call to action, big decision, midpoint, all is lost/all is joy, and overall climax.",
+    "Configure when teaching screenwriting students to identify how sequences distribute across acts.",
+    "Apply when analyzing a film to explain how its sequence climaxes reinforce the overall screenplay arc.",
+    "Use when drafting a storyboard or outline that requires explicit act-level segmentation."
+  ],
+  "tags": [
+    "screenwriting",
+    "story structure",
+    "plot analysis"
+  ],
+  "priority": 9,
+  "content": "We give each of the seven sequences a letter from A to G and break them down like this:\n\n• Act 1 contains sequences A and B.\n\n• Act 2 contains sequences C, D, E, and F.\n\n• Act 3 contains sequence G.\n\nScreenplay structure climaxes:\n\nLet’s check out the five sequence climaxes which share a climax with the traditional five major plot points:\n\n• The climax to sequence A is also the call to action plot point in the overall screenplay. In Legally Blonde, Elle spends the first sequence excited about possibly getting engaged to Warner. The end of the sequence is the same plot point as the call to action in the overall structure. Instead of asking Elle to marry him, Warner dumps her.\n\n• The climax to sequence B is also the big decision plot point in the overall screenplay. In The Truman Show, Truman spends the second sequence reminiscing about Sylvia and growing increasingly suspicious of the world around him. The end of the sequence is the screenplay’s big decision when Truman tells Marlon he wants to leave.\n\n• The climax to sequence D is also the midpoint in the overall screenplay. In Raiders of the Lost Ark, Indy spends this sequence finding the Well of Souls and then the Ark itself. The end of the sequence coincides with the overall Midpoint of the film as Indy and Marion are locked in the Well of Souls.\n\n• The climax to sequence F is also the all is lost/all is joy plot point in the overall screenplay. In Collateral, Max hits the gas in this sequence after being goaded by Vincent about his pathetic life. The sequence ends at the end of Act 2 when Max crashes the cab. Annie’s life is now in danger.\n\n• The climax to sequence G is also the overall climax in the screenplay. In The Shining, Jack spends this final sequence chasing Danny through the maze. The sequence ends with the climax to the whole film when Jack is outfoxed by Danny.",
+  "token_estimate": 453
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "blog-how-to-write-compelling-characters-frequently-asked-questions",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "character arc",
+    "internal logic",
+    "wound",
+    "misbelief",
+    "positive arc",
+    "negative arc",
+    "flat arc",
+    "antagonist architecture",
+    "thematic resonance",
+    "ghost"
+  ],
+  "use_cases": [
+    "Use when establishing a character's internal logic and decision-making framework",
+    "Implement when designing character arcs to ensure consistency between plot and transformation",
+    "Configure when building an antagonist to mirror and challenge the protagonist's beliefs",
+    "Use when defining a character's wound to provide a foundation for their misbeliefs",
+    "Configure when distinguishing between positive, negative, and flat character arcs"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "storytelling-theory"
+  ],
+  "priority": 9,
+  "content": "What makes a character compelling?\n\nCompelling characters have an internal logic that readers understand, even when — especially when — that logic produces decisions readers wouldn't make themselves. The foundation of this logic is the character's wound: a formative experience that damaged their understanding of themselves or the world. From that wound they developed a misbelief — something they believe that isn't true but feels true. Every significant decision they make is either a product of that misbelief or a step toward abandoning it. When readers understand the wound and the misbelief, character behaviour becomes coherent and engaging rather than arbitrary.\n\nWhat is a character arc?\n\nA character arc is the internal transformation a character undergoes across the story, driven by the events of the plot. In a positive arc, the character moves from believing their misbelief to accepting a truth that contradicts it. In a negative arc, the story forces them toward the truth but they reject it and double down on the misbelief, often with tragic consequences. In a flat arc, the character's belief is already true, and the story tests it against a world that wants them to abandon it. All three are valid; all three require the wound and misbelief to be clearly defined.\n\nHow do you write a compelling antagonist?\n\nGive them the same architecture as your protagonist: wound, misbelief, want, need, and a ghost. The most memorable antagonists share the protagonist's wound but drew a different conclusion from it. Magneto and Professor X both survived persecution; they simply disagree about what that experience implies about humanity. The antagonist's misbelief is often a dark mirror of the protagonist's own — which is what creates thematic resonance rather than simple conflict.\n\nWhat is the difference between what a",
+  "token_estimate": 388
+}

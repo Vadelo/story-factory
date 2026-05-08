@@ -1,0 +1,32 @@
+{
+  "title": "Where copy matters most in a rebrand",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-where-copy-matters-most-in-a-rebrand",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "rebrand",
+    "UX copy",
+    "form titles",
+    "section headers",
+    "field labels",
+    "helper text",
+    "error messages",
+    "confirmation states",
+    "brand tone",
+    "microcopy"
+  ],
+  "use_cases": [
+    "Use when updating product branding and identity",
+    "Configure when designing form-heavy user flows",
+    "Implement when auditing system-generated error messages for tone and voice",
+    "Use when standardizing button labels and post-action success messages"
+  ],
+  "tags": [
+    "content-strategy",
+    "ux-design",
+    "branding",
+    "accessibility"
+  ],
+  "priority": 8,
+  "content": "Focus on the moments users actually read carefully:\n\n- Form title & subtitle The clearest place to state your new promise.\n- Section headers How you group questions signals what you care about.\n- Field labels & helper text Show how you talk about your product, your users, and their context.\n- Error messages A huge opportunity to express tone—supportive vs scolding.\n- Buttons & confirmation states The last words someone sees before and after committing.",
+  "token_estimate": 101
+}

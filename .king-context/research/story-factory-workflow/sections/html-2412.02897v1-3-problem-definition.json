@@ -1,0 +1,31 @@
+{
+  "title": "3 Problem Definition",
+  "path": "html-2412.02897v1-3-problem-definition",
+  "url": "https://arxiv.org/html/2412.02897v1",
+  "keywords": [
+    "MLD-EA",
+    "character action abstraction",
+    "emotion classification",
+    "logical loophole detection",
+    "narrative coherence",
+    "logic gap identification",
+    "Action(Target, Object)",
+    "sentence-level emotion mapping",
+    "sequence-based story completion"
+  ],
+  "use_cases": [
+    "Configure when automating the identification of missing narrative elements in generated text",
+    "Implement when character-centric action and emotion tracking is required for storytelling models",
+    "Use when evaluating the logical consistency and structural gaps of short-form fiction",
+    "Configure when character interactions (Target/Object) need to be formalised into structured metadata"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "narrative-analysis",
+    "problem-definition",
+    "logic-evaluation"
+  ],
+  "priority": 10,
+  "content": "The primary goal of MLD-EA is to identify whether the input story is logically completed, as Figure 1 shows. We divided the model into four main sub-tasks: 1), abstracting characters’ actions. 2), classifying their emotions for each sentence. 3), then locate the logical loopholes of the narrative in which the missing part should be inserted. 4), we complete the tale consistently by predicting the characters’ actions and emotions. Thereby preserving the narrative’s overall coherence and logical structure. The tasks are defined as follows:\n\nFor any input $n$ sentences story ( $S=s_{1},\\cdots,s_{n}$ ) with $m$ characters appeared in this story ( $C=c_{1},\\cdots,c_{m}$ ), MLD-EA abstract characters’ actions $a$ and classify their emotions $e$ for each sentence, denoted as $\\{(c,s)\\rightarrow(a(c,s),e(c,s))\\mid c\\in C,s\\in S\\}$ , where $a(c,s)$ represents the action of character $c$ in sentence $s$ and $e(c,s)$ represents the emotion of character $c$ in sentence $s$ .\n\nSequently, given the story and characters’ actions and emotions, MLD-EA will use the provided information to review the story and find inconsistencies. Notably, our task is to find the logic gap in the inner story. We suppose the start and end of the story are always complete. The process involves identifying points where the characters’ actions or emotions exhibit abrupt changes that the preceding context cannot logically explain. After that, MLD-EA outputs the index $k$ which the missing part should be inserted before it:\n\n| $$k=\\begin{cases}1 Action(Target, Object), where $c$ represents the character acting; Action denotes the action the character performs; Target is the target of the action (who or what the action is directed towards); Object specifies any object associated with the action (if applicable). If a character $c$ does not perform any action in the sentence $s$ , the model needs to output: None.",
+  "token_estimate": 387
+}

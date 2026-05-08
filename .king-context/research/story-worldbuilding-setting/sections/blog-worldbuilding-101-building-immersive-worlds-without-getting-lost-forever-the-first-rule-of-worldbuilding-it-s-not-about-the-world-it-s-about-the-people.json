@@ -1,0 +1,32 @@
+{
+  "title": "The First Rule of Worldbuilding: It’s Not About the World, It’s About the People",
+  "path": "blog-worldbuilding-101-building-immersive-worlds-without-getting-lost-forever-the-first-rule-of-worldbuilding-it-s-not-about-the-world-it-s-about-the-people",
+  "url": "https://sudowrite.com/blog/worldbuilding-101-building-immersive-worlds-without-getting-lost-forever/",
+  "keywords": [
+    "worldbuilding",
+    "character-driven narrative",
+    "geopolitical structure",
+    "timeline",
+    "Middle-earth",
+    "hobbits",
+    "Arrakis",
+    "sandstorms",
+    "thirst",
+    "legend"
+  ],
+  "use_cases": [
+    "Use when focusing worldbuilding on character perspective rather than lore details",
+    "Implement when aligning geopolitical structures with character arcs to increase engagement",
+    "Configure when simplifying complex timelines to mirror narrative relevance",
+    "Apply when designing a setting that emphasizes the emotional impact on characters",
+    "Use when illustrating world scale through the eyes of relatable protagonists"
+  ],
+  "tags": [
+    "storytelling",
+    "worldbuilding",
+    "content-creation"
+  ],
+  "priority": 9,
+  "content": "Readers won’t invest in a complex geopolitical structure unless it directly influences the characters, nor will they remember a ten-thousand-year war timeline unless its consequences impact the current narrative.\n\nWorldbuilding should always be character-driven. It's not just what exists—it’s how it shapes the people who live in it.\n\nThink about it: In The Lord of the Rings, we learn about Middle-earth through the eyes of the hobbits. We see how massive the world is because they feel small in it. In Dune, Arrakis doesn’t feel like just another sci-fi planet because we experience how brutal it is to survive there—through thirst, through sandstorms, through whispered legends.\n\nThe world exists, but the story makes it matter.",
+  "token_estimate": 152
+}

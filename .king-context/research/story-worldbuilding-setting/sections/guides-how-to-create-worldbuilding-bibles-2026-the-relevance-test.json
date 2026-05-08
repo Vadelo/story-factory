@@ -1,0 +1,32 @@
+{
+  "title": "The Relevance Test",
+  "path": "guides-how-to-create-worldbuilding-bibles-2026-the-relevance-test",
+  "url": "https://rivereditor.com/guides/how-to-create-worldbuilding-bibles-2026",
+  "keywords": [
+    "world-building detail",
+    "plot relevance",
+    "character behavior",
+    "atmosphere",
+    "sensory details",
+    "reader confusion",
+    "magic explanation",
+    "cultural description",
+    "fantasy travelogue"
+  ],
+  "use_cases": [
+    "Use when adding world-building elements to maintain plot momentum",
+    "Implement when drafting scenes to ensure details are conveyed through action or dialogue",
+    "Configure when deciding whether to cut or keep historical exposition",
+    "Apply when testing if readers will be confused without certain world-building info",
+    "Use when determining if a detail should be saved in the bible only"
+  ],
+  "tags": [
+    "writing",
+    "worldbuilding",
+    "story_structure",
+    "character_development"
+  ],
+  "priority": 10,
+  "content": "Before adding world-building detail to your actual story, ask:\n\n• Does this affect the plot? If no, consider cutting. • Does this explain character behavior? If yes, include it but through action/dialogue, not exposition. • Does this create atmosphere? If yes, a few sensory details, not paragraphs of history. • Will readers be confused without this? If yes, find natural way to convey it. • Is this just cool world-building I love? If yes and it doesn't serve story, save for bible only.\n\nWatch for these in your draft:\n\n• Paragraphs of historical explanation with no character reaction • Characters explaining things to each other they both already know • Narrator stopping the action to describe how magic works • Multiple pages of cultural description before plot events • Fantasy travelogue (describing every region in detail as characters pass through)\n\nWhen you find these, ask: \"Can I show this through character experience instead?\" Usually yes.",
+  "token_estimate": 206
+}

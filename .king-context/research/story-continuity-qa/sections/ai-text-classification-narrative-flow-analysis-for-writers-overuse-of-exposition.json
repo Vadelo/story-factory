@@ -1,0 +1,30 @@
+{
+  "title": "Overuse of Exposition",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-overuse-of-exposition",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "exposition-to-action ratio",
+    "EAR",
+    "narrative flow",
+    "dynamic storytelling",
+    "front-loaded worldbuilding",
+    "scene momentum",
+    "narrative tension",
+    "exposition density",
+    "optimal flow metrics"
+  ],
+  "use_cases": [
+    "Use when calculating the density of static information versus active engagement in a manuscript",
+    "Implement when auditing narrative flow to identify pace-breaking sections",
+    "Configure when setting automated constraints for advanced writing quality standards",
+    "Use when diagnosticating plot delays caused by excessive character biographies"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "writing-standards",
+    "content-metrics"
+  ],
+  "priority": 8,
+  "content": "Excessive exposition disrupts narrative flow by introducing static information dumps rather than dynamic storytelling. A common metric for evaluating exposition density is the exposition-to-action ratio (EAR), defined as:\n\n$$ EAR = \\frac{T_e}{T_a + T_d} $$\n\nwhere Te is exposition time, Ta is action time, and Td is dialogue time. Advanced writers should maintain EAR < 0.3 for optimal flow. Violations manifest as:\n\n- Front-loaded worldbuilding that delays plot progression\n- Character biographies interrupting scene momentum\n- Technical explanations breaking narrative tension",
+  "token_estimate": 107
+}

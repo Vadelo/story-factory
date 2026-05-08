@@ -1,0 +1,32 @@
+{
+  "title": "AI as Your Consistency Safety Net",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-ai-as-your-consistency-safety-net",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "character bible",
+    "consistency safety net",
+    "voice consistency",
+    "cross-referencing",
+    "manuscript scanning",
+    "character knowledge tracking",
+    "series management",
+    "integrated story bible",
+    "dialogue style drift",
+    "narrative contradictions"
+  ],
+  "use_cases": [
+    "Use when validating current manuscript details against an established series character bible",
+    "Implement when monitoring character dialogue for unintended shifts in tone or style",
+    "Configure when tracking internal character knowledge to prevent logical fallacies",
+    "Use when auditing a multi-book series for continuity breaks across installments"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "editing-tools",
+    "quality-assurance",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "The human brain is remarkably bad at tracking hundreds of details across hundreds of thousands of words. AI is remarkably good at it.\n\nModern AI-powered writing tools can:\n\n- Scan your manuscript against your character bible and flag contradictions\n- Track character knowledge — alerting you when a character acts on information they shouldn't have\n- Monitor voice consistency — detecting when a character's dialogue style drifts\n- Cross-reference across books — checking the current manuscript against details established in previous installments\n\nThis doesn't replace careful writing. It's a safety net — catching the errors that slip through even the most diligent writer's process.\n\nThe key requirement: the AI tool must have access to your full character bible and previous manuscripts. A chatbot with no memory of your series can't help with consistency. A dedicated writing tool with an integrated story bible and series management can.",
+  "token_estimate": 194
+}

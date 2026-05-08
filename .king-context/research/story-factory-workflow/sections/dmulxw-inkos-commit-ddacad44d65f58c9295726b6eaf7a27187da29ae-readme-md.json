@@ -1,0 +1,35 @@
+{
+  "title": "‎README.md‎",
+  "path": "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-md",
+  "url": "https://github.com/dmulxw/inkos/commit/ddacad44d65f58c9295726b6eaf7a27187da29ae",
+  "keywords": [
+    "WriterAgent",
+    "ReviserAgent",
+    "StyleProfile",
+    "inkos style analyze",
+    "inkos detect",
+    "pnpm workspaces",
+    "fatigueWordsOverride",
+    "StyleProfile",
+    "chapter_summaries.md",
+    "subplot_board.md",
+    "character_matrix.md"
+  ],
+  "use_cases": [
+    "Implement when long-term narrative consistency and foreshadowing tracking are required across multiple chapters.",
+    "Configure when custom stylistic guardrails or specific 'fatigue word' overrides are needed for niche genres.",
+    "Use when detecting and rewriting AI-generated content patterns to bypass AIGC detection filters.",
+    "Use when extracting stylistic fingerprints from reference texts to guide the WriterAgent's prose style.",
+    "Implement when seeking to automate chapter summaries and character interaction matrices via a truth-file system."
+  ],
+  "tags": [
+    "AIGC Detection",
+    "Creative Writing",
+    "Agent Orchestration",
+    "Stylistic Analysis",
+    "State Management"
+  ],
+  "priority": 10,
+  "content": "`@@ -23,9 +23,41 @@`\n\n`@@ -83,13 +115,13 @@ fatigueWordsOverride: [\"瞳孔骤缩\", \"不可置信\"] # 覆盖题材默认`\n\n`@@ -101,12 +133,12 @@ OOC检查、时间线、设定冲突、伏笔、节奏、文风、信息越界`\n\n`@@ -145,15 +177,19 @@ OOC检查、时间线、设定冲突、伏笔、节奏、文风、信息越界`\n\n`@@ -280,6 +316,9 @@ inkos up # 守护进程模式`\n\n`@@ -327,7 +366,7 @@ inkos up # 守护进程模式`\n\n`@@ -339,14 +378,14 @@ inkos up # 守护进程模式`\n\n`@@ -357,7 +396,7 @@ TypeScript 单仓库，pnpm workspaces 管理。`\n\n`@@ -366,10 +405,12 @@ TypeScript 单仓库，pnpm workspaces 管理。`\n\n| `23` | `23` |\n| --- | --- |\n| `24` | `24` | `Agent 写小说。写、审、改，全程接管。` |\n| `25` | `25` |\n| `26` | `-## v0.3 更新 (2026-03-13)` |\n| `26` | `+## v0.3 更新` |\n| `27` | `27` |\n| `28` | `-创作规则三层分离：基础护栏 → 题材特性 → 用户自定义规则。` |\n| `28` | `+创作规则三层分离 + 跨章记忆 + AIGC 检测 + Webhook。` |\n| `29` | `+` |\n| `30` | `+### 跨章记忆与写作质量` |\n| `31` | `+` |\n| `32` | `+Writer 每章自动生成摘要、更新支线/情感/角色矩阵，全部追加到真相文件。后续章节加载全量上下文，长线伏笔不再丢失。` |\n| `33` | `+` |\n| `34` | `+| 真相文件 | 用途 |` |\n| `35` | `+|----------|------|` |\n| `36` | `+| `chapter_summaries.md` | 各章摘要：出场人物、关键事件、状态变化、伏笔动态 |` |\n| `37` | `+| `subplot_board.md` | 支线进度板：A/B/C 线状态追踪 |` |\n| `38` | `+| `emotional_arcs.md` | 情感弧线：按角色追踪情绪、触发事件、弧线方向 |` |\n| `39` | `+| `character_matrix.md` | 角色交互矩阵：相遇记录、信息边界 |` |\n| `40` | `+` |\n| `41` | `+### AIGC 检测` |\n| `42` | `+` |\n| `43` | `+| 功能 | 说明 |` |\n| `44` | `+|------|------|` |\n| `45` | `+| AI 痕迹审计 | 纯规则检测（不走 LLM）：段落等长、套话密度、公式化转折、列表式结构，自动合并到审计结果 |` |\n| `46` | `+| AIGC 检测 API | 外部 API 集成（GPTZero / Originality / 自定义端点），`inkos detect` 命令 |` |\n| `47` | `+| 文风指纹学习 | 从参考文本提取 StyleProfile（句长、TTR、修辞特征），注入 Writer prompt |` |\n| `48` | `+| 反检测改写 | ReviserAgent `anti-detect` 模式，检测→改写→重检测循环 |` |\n| `49` | `+| 检测反馈闭环 | `detection_history.json` 记录每次检测/改写结果，`inkos detect --stats` 查看统计 |` |\n| `50` | `+` |\n| `51` | `+```bash` |\n| `52` | `+inkos style analyze reference.txt # 分析参考文本文风` |\n| `53` | `+inkos style import reference.txt 吞天魔帝 # 导入文风到书` |\n| `54` | `+inkos detect 吞天魔帝 --all # 全书 AIGC 检测` |\n| `55` | `+inkos detect --stats # 检测统计` |\n| `56` | `+```` |\n| `57` | `+` |\n| `58` | `+### Webhook + 智能调度` |\n| `59` | `+` |\n|",
+  "token_estimate": 502
+}

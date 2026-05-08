@@ -1,0 +1,36 @@
+{
+  "title": "MCP Integration",
+  "path": "zaphodsdad-GhostWriter3000-mcp-integration",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "Model Context Protocol",
+    "FastMCP",
+    "streamable-http",
+    "OpenRouter API",
+    "FastAPI",
+    "CRUD",
+    "programmatic writing workflow",
+    "http://localhost:8000/mcp/",
+    "Pydantic",
+    "YAML frontmatter",
+    "Markdown",
+    "Claude Desktop"
+  ],
+  "use_cases": [
+    "Use when integrating GhostWriter 3000 tools into MCP-compatible clients like Claude Desktop",
+    "Implement when automating the book structure creation (acts, chapters, beats) via API",
+    "Configure when setting up programmatic scene generation and AI prose evaluation",
+    "Use when synchronizing series memory and continuity checks through external agents",
+    "Configure when deploying the GhostWriter backend via Docker or bare Python environments"
+  ],
+  "tags": [
+    "integration",
+    "api-reference",
+    "automation",
+    "mcp",
+    "deployment"
+  ],
+  "priority": 10,
+  "content": "GhostWriter 3000 exposes its full API as **74 MCP (Model Context Protocol) tools** across 10 modules. This means any MCP-compatible client — Claude Desktop, custom agents, bots — can drive the entire writing workflow programmatically.\n\n| Module | Tools | Coverage |\n| --- | --- | --- |\n| Projects | 11 | Project + series CRUD, export |\n| Structure | 16 | Acts, chapters, beats CRUD |\n| Scenes | 11 | Scene CRUD, prose, evaluate, edit mode, selection revise |\n| Characters | 5 | Character CRUD |\n| World | 5 | World context CRUD |\n| Generation | 7 | Start, poll, approve, accept, reject, list, queue |\n| Memory | 6 | Series memory, continuity, summaries, scene extraction |\n| Extraction | 3 | Manuscript import, analysis, health check |\n| Style | 4 | Project + series style guides |\n| Outline | 6 | Outline generation, cost estimation, scopes, apply |\n\nMCP endpoint: `http://localhost:8000/mcp/` (trailing slash required).\n\n| Layer | Technology |\n| --- | --- |\n| Backend | Python 3.11+, FastAPI, Pydantic, uvicorn |\n| Frontend | Vanilla HTML/CSS/JavaScript (no build step) |\n| AI | OpenRouter API (300+ models), optional Persona MCP |\n| Data | File-based (Markdown + YAML frontmatter, JSON) |\n| MCP | FastMCP (streamable-http transport) |\n| Deploy | Docker, docker-compose, or bare Python |",
+  "token_estimate": 307
+}

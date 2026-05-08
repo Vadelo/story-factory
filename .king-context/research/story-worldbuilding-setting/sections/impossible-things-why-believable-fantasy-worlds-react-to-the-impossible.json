@@ -1,0 +1,36 @@
+{
+  "title": "Why Believable Fantasy Worlds React to the Impossible",
+  "path": "impossible-things-why-believable-fantasy-worlds-react-to-the-impossible",
+  "url": "https://fictionphile.com/impossible-things/",
+  "keywords": [
+    "food chain",
+    "behavior",
+    "hierarchy",
+    "ripple effects",
+    "benefits",
+    "control",
+    "fear",
+    "laws",
+    "rituals",
+    "weapons",
+    "illusion",
+    "cosmetic"
+  ],
+  "use_cases": [
+    "Use when adding a new predator, resource, or climate pressure to stimulate ecosystem changes",
+    "Implement when introducing an impossible element to create expected ripple effects in characters and societies",
+    "Configure when determining who benefits from a supernatural or speculative technology",
+    "Use when deciding which factions control a newfound power source",
+    "Implement when modeling reactions of populations that fear a new magical threat",
+    "Configure when designing laws, rituals, or weapons that arise around the impossible element"
+  ],
+  "tags": [
+    "worldbuilding",
+    "narrative-design",
+    "storytelling",
+    "fantasy-design"
+  ],
+  "priority": 10,
+  "content": "In real ecosystems, nothing exists alone. Add a new predator, a new resource, or a new climate pressure, and food chains, behaviors, and hierarchies change. Believable fantasy and science fiction worlds follow the same logic.\n\nWhen a story introduces an impossible element, readers subconsciously expect ripple effects:\n\n- Who benefits from it?\n- Who controls it?\n- Who fears it?\n- Who builds laws, rituals, or weapons around it?\n\nIf the world doesn’t react, the illusion breaks. The impossible begins to feel cosmetic rather than structural.",
+  "token_estimate": 114
+}

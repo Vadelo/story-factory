@@ -1,0 +1,29 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2411.12907v1-1-introduction",
+  "url": "https://arxiv.org/html/2411.12907v1",
+  "keywords": [
+    "information-theoretic framework",
+    "narrative structures",
+    "GenAI benchmarking",
+    "novelty and surprise",
+    "human-in-the-loop AI",
+    "narrative creation",
+    "agnostic framework"
+  ],
+  "use_cases": [
+    "Use when developing formal methods to evaluate AI-generated storytelling content",
+    "Implement when benchmarking machine-told stories against human narrative nuances",
+    "Configure when quantifying storytelling devices like novelty and surprise in media corpora",
+    "Use when building tools for machine learning scientists to analyze multi-modal narrative structures"
+  ],
+  "tags": [
+    "information-theory",
+    "generative-ai",
+    "machine-learning",
+    "narrative-analysis"
+  ],
+  "priority": 9,
+  "content": "As AI systems begin to tell their own stories [1, 2], it becomes crucial to develop formal methods for understanding and evaluating the content they produce [3, 4, 5, 6]. We introduce a general information-theoretic framework to measure narratives, capturing key storytelling elements like novelty and surprise [7, 8, 9]. This work provides tools for creatives and for applied machine learning scientists to analyse narrative structures and for GenAI researchers to benchmark stories told by machines. It thereby also offers a foundation for developing human-in-the-loop AI systems assisting in narrative creation while maintaining the nuanced human understanding of stories [10].\n\nNarratives represent a key higher-level representation of how a story gets told [3] and are crucial to how we understand worlds, both fictional and real. Previous machine learning work on detecting narratives has focussed on specific content and modalities [11, 12, 13, 14, 15, 16]. We build on this by introducing a general information-theoretic narrative framework that is agnostic to content and modality and lets us intuitively capture crucial storytelling devices, like novelty and surprise – which have thus far seen less attention in the study of narratives. We illustrate our measures in a corpus of over 3000 minutes of TV shows, one of the most popular forms of contemporary storytelling.\n\n![Refer to caption](https://arxiv.org/html/extracted/5993258/Fig1_ultrawide.png)\n\nFigure 1: Overview – information-theoretic measures of narratives.",
+  "token_estimate": 295
+}

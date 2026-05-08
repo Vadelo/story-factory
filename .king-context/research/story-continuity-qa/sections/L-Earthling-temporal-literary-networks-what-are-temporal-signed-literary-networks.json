@@ -1,0 +1,30 @@
+{
+  "title": "What are Temporal Signed Literary Networks?",
+  "path": "L-Earthling-temporal-literary-networks-what-are-temporal-signed-literary-networks",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "Temporal Signed Literary Networks",
+    "character relationship extraction",
+    "polarity dynamics",
+    "most-recent-wins",
+    "normalized time index",
+    "node-edge character mapping",
+    "LLM-powered pipeline",
+    "literary narrative social systems"
+  ],
+  "use_cases": [
+    "Use when modeling character relationship evolution across narrative chapters",
+    "Configure when analyzing signed networks with positive, negative, and neutral edge valences",
+    "Implement when studying social dynamics in large-scale literary datasets",
+    "Use when time-normalization is required to compare works of varying lengths"
+  ],
+  "tags": [
+    "data-science",
+    "natural-language-processing",
+    "network-analysis",
+    "literature-studies"
+  ],
+  "priority": 10,
+  "content": "Literary narratives are intentionally constructed social systems: characters form alliances, rivalries emerge and resolve and relational structures evolve systematically across chapters. Our framework operationalizes this as a collection of **temporal signed networks**, one per literary work, where:\n\n- **Nodes** = named characters\n- **Edges** = character relationships, labeled positive, negative, or neutral\n- **Time** = chapter number, normalized to $\\tau \\in (0,1]$\n- **Polarity dynamics** = most-recently-observed edge valence per character pair (most-recent-wins)\n\nCharacter relationships were extracted from publicly available chapter-level book summaries using an LLM-powered pipeline. The resulting dataset covers **626 works** by **382 authors**, yielding **75,482 character-relationship observations**.\n\n| Statistic | Value |\n| --- | --- |\n| Works | 626 |\n| Authors | 382 |\n| Total edges | 75,482 |\n| Genres | 8 |\n| Epochs | 6 |\n| Median cast size | 15.5 characters |\n| Median chapter count | 17 |\n\n---\n\n**[→ Download Temporal Character Relationship Networks v1](https://github.com/L-Earthling/temporal-literary-networks/releases/latest)**\n\nThe release package contains both files below as a single `.zip`.\n\n---",
+  "token_estimate": 227
+}

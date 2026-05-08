@@ -1,0 +1,33 @@
+{
+  "title": "1. Core Principles and Dimensions",
+  "path": "topics-mixed-initiative-story-creation-architecture-1-core-principles-and-dimensions",
+  "url": "https://www.emergentmind.com/topics/mixed-initiative-story-creation-architecture",
+  "keywords": [
+    "mixed-initiative architecture",
+    "control of initiative",
+    "generative vs critical edits",
+    "design dimensions",
+    "scrutability",
+    "narrative spans",
+    "arbitration policy",
+    "explainability",
+    "reinforcement learning mechanisms",
+    "role flexibility"
+  ],
+  "use_cases": [
+    "Implement when designing collaborative human-AI workflows for creative writing",
+    "Configure when balancing agency between automated systems and human users",
+    "Use when developing transparent UI affordances for AI rationale inspection",
+    "Apply when defining local versus global narrative editing permissions",
+    "Implement when users need to switch between roles like critic, leader, or author dynamically"
+  ],
+  "tags": [
+    "architecture",
+    "ui-ux",
+    "human-ai-interaction",
+    "generative-ai"
+  ],
+  "priority": 9,
+  "content": "Mixed-initiative story creation architectures operationalize the division and alternation of creative responsibilities between humans and AI agents along several axes. Key design dimensions, as distilled from the literature, include:\n\n- Control of Initiative: Systems differentiate between human-initiated, agent-initiated, and dynamically negotiated turns. For example, arbitration may employ explicit policies, heuristics, or reinforcement learning mechanisms to decide when the agent proposes a change or defers to human input (Lin et al., 2024, Lin et al., 2023).\n- Type and Scope of Edits: Contributions may be generative (elaboration) or critical (reflection), applied over local (e.g., a sentence) or global (e.g., full story) narrative spans. Systems expand the design space by supporting both critique and direct generation in multiple granularities (Lin et al., 2023).\n- Transparency and Explainability: Advanced UI affordances allow humans to scrutinize AI reasoning, inspect attention or topic distributions, and request rationale for agent actions—thereby increasing scrutability and explainability (Lin et al., 2023).\n- Role Flexibility: Architectures permit participants to dynamically alternate among critic, leader, evaluator, or author roles, making the protocol highly adaptable to both solo and collaborative creative workflows (Bae et al., 2024).",
+  "token_estimate": 246
+}

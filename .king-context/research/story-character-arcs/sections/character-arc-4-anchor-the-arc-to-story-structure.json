@@ -1,0 +1,33 @@
+{
+  "title": "4. Anchor the arc to story structure",
+  "path": "character-arc-4-anchor-the-arc-to-story-structure",
+  "url": "https://thewordling.com/character-arc/",
+  "keywords": [
+    "story structure",
+    "inciting incident",
+    "midpoint",
+    "turning point",
+    "climax",
+    "character arc",
+    "three-act structure",
+    "Hero’s Journey",
+    "emotional logic",
+    "plot points",
+    "transformation"
+  ],
+  "use_cases": [
+    "Use when aligning character development with narrative beats",
+    "Configure when mapping internal emotional logic to external plot milestones",
+    "Implement when designing a protagonist's reaction to an inciting incident",
+    "Use when structuring the emotional climax of a three-act narrative"
+  ],
+  "tags": [
+    "storytelling",
+    "narrative-design",
+    "character-development",
+    "structure"
+  ],
+  "priority": 8,
+  "content": "A compelling arc usually unfolds in tandem with the story’s key plot points. The inciting incident forces a shift. The midpoint complicates their worldview. A turning point pushes them toward transformation—or collapse. And by the climax, the consequences of their choices are unavoidable.\n\nThis doesn’t mean the character arc must mirror your plot exactly. But if you’re working with a three-act structure, the Hero’s Journey, or even a short, minimalist format, the emotional movement should track with the course of the story.\n\nIt’s not about neatness—it’s about emotional logic.",
+  "token_estimate": 118
+}

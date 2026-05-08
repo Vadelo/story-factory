@@ -1,0 +1,33 @@
+{
+  "title": "Implementation Details",
+  "path": "posts-lab-0-implementation-details",
+  "url": "https://kennethwolters.com/posts/lab-0/",
+  "keywords": [
+    "Sequential processing architecture",
+    "decoder-only transformers",
+    "Ollama",
+    "Mistral models",
+    "Hetzner GEX44",
+    "narrative layers",
+    "CLI implementation",
+    "state persistence",
+    "autoregressive",
+    "directional sequences"
+  ],
+  "use_cases": [
+    "Implement when deploying Mistral models via Ollama on specialized hardware",
+    "Configure when designing a hierarchical transformation flow for narrative context",
+    "Use when state persistence is required across sequential field storage",
+    "Apply when building a Python-based CLI for autoregressive transformer management"
+  ],
+  "tags": [
+    "infrastructure",
+    "architecture",
+    "deployment",
+    "transformers",
+    "cli"
+  ],
+  "priority": 8,
+  "content": "The current implementation consists of:\n\nSequential processing architecture:\n\n- Recognizes the autoregressive nature of decoder-only transformers\n- Implements narrative layers as directional sequences rather than holographic scaffolds\n- Simplifies reconciliation by appending new elements to existing sequences\n\nTransformation flow:\n\n- Higher layers provide context for generating lower layers\n- Each layer’s output becomes the input context for the next layer down\n\nInfrastructure:\n\n- Python-based CLI implementation\n- Mistral models deployed on Hetzner GEX44 with Ollama\n- State persistence using sequential field storage",
+  "token_estimate": 109
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Introduction",
+  "path": "html-2510.05188v1-introduction",
+  "url": "https://arxiv.org/html/2510.05188v1",
+  "keywords": [
+    "Dramaturge",
+    "Large Language Models",
+    "Multi-agent Collaboration",
+    "Iterative Narrative Script Refinement",
+    "Divide-and-Conquer Strategy",
+    "Hierarchical Coordinated Revision",
+    "Global Review",
+    "Scene-level Review",
+    "Long-form Narrative Generation",
+    "Contextual Consistency",
+    "Structural Analysis"
+  ],
+  "use_cases": [
+    "Use when long-form narrative scripts require structural improvement beyond superficial text editing.",
+    "Implement when coordinating complex revisions across multiple scenes to maintain global narrative consistency.",
+    "Configure when deploying a multi-agent workflow to emulate human-like script review and revision cycles.",
+    "Use when existing single-pass LLM generation methods fail to produce coherent or nuanced storytelling.",
+    "Implement when looking for a plug-and-play framework to enhance the quality of pre-generated creative writing."
+  ],
+  "tags": [
+    "creative-writing",
+    "multi-agent-systems",
+    "narrative-generation",
+    "llm-framework",
+    "content-refinement"
+  ],
+  "priority": 10,
+  "content": "Large Language Models (LLMs) have demonstrated remarkable capabilities in generating diverse and engaging stories (Mirowski et al. 2023; Yang et al. 2023; Li et al. 2024; Zhao et al. 2024; Feng et al. 2025). However, existing LLM-based methods generate narratives from scratch using a single-pass workflow, even when multiple attempts are applied during generation. This overlooks a fundamental characteristic of creative practice: human scriptwriters craft scripts through multiple cycles of review and revision. As a result, current methods often struggle to produce high-quality scripts with coherent and nuanced storytelling(Tian et al. 2024a; Marco et al. 2024). This discrepancy highlights the importance of script refinement—a critical yet underexplored area in LLM-based creative writing, especially for long-form narrative generation (Tian et al. 2024b; Zhang et al. 2025).\n\nHow to effectively revise and improve long narrative scripts using LLMs remains a significant challenge because (Wu et al. 2025b, a; Chen et al. 2025):\n\n(1) Comprehensively understanding long scripts and accurately identifying fundamental structural weaknesses along with their associated localized flaws is difficult. Without such insight, revisions tend to be superficial text editing and fail to resolve deeper narrative issues.\n\n(2) It is challenging to coordinate revisions across multiple granularities and locations to maintain consistency between the global narrative and local modifications, while newly introduced contradictions may degrade script quality.\n\nTo address these challenges, we propose Dramaturge, a divide-and-conquer approach for iterative narrative script refinement via collaborative LLM agents. This approach emulates humans’ workflow of initial reading, detailed reading, and in-depth revision, as illustrated in Figure 1. The strategy is applied across task and feature dimensions. First, the complex task is decomposed into three hierarchical stages: (1) a Global Review stage that performs a holistic analysis to grasp the storyline and identify structural issues; (2) a Scene-level Review stage that pinpoints local flaws and generates concrete, actionable suggestions for each scene; (3) a Hierarchical Coordinated Revision stage that revises the script coordinately across multiple locations. Second, through feature decomposition, each stage deploys a team of specialized agents, each focusing on a distinct dimension. The individual suggestions are consolidated to resolve conflicts and are then routed to the relevant agents in subsequent stages. The top-down task flow ensures that high-level strategies from the Global Review guide the detailed suggestions during the Scene-level Review, both of which jointly direct the local edits in the revision stage. Such coordination ensures that local modifications are aligned with the global narrative objectives. Finally, the entire workflow follows coarse-to-fine iterations by multiple rounds until the script quality stabilizes. This prevents superficial revisions by first adjusting the fundamental storyline before refining details, thereby achieving deep and comprehensive script enhancements.\n\nIn summary, the main contributions of this paper include:\n\n•\n\nWe introduce Dramaturge, a plug-and-play framework for iterative coarse-to-fine narrative script refinement, which can be easily integrated into existing methods to facilitate in-depth reviews and revisions.\n\n•\n\nWe propose a task and feature oriented divide-and-conquer strategy to achieve coordinated review and revision across multiple granularities and locations in scripts. This approach enables high-level strategies to guide local modifications while preserving contextual consistency.\n\n•\n\nComprehensive experiments show that Dramaturge significantly outperforms all strong baselines, improving upon the original scripts by 53.4% in script-level overall quality and 66.7% in scene-level details, and surpassing the strongest baseline by 8.3% and 19.9%, respectively.\n\n- F Appendix F: Statistics of the Experimental Dataset\n\n![Refer to caption](https://arxiv.org/html/figures/framework.png)\n\nFigure 2: The Architecture of Dramaturge. A task and feature oriented divide-and-conquer strategy is adopted, leveraging collaborative LLM agents to perform coarse-to-fine iterative refinement, while coordinating local edits and global structural adjustments and maintaining contextual consistency.",
+  "token_estimate": 791
+}

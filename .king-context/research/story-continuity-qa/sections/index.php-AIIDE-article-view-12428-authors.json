@@ -1,0 +1,29 @@
+{
+  "title": "Authors",
+  "path": "index.php-AIIDE-article-view-12428-authors",
+  "url": "https://ojs.aaai.org/index.php/AIIDE/article/view/12428",
+  "keywords": [
+    "cpocl",
+    "conflict",
+    "planning",
+    "narrative",
+    "Stephen Ware",
+    "R. Young",
+    "aiide.v7i1.12428",
+    "DOI",
+    "North Carolina State University"
+  ],
+  "use_cases": [
+    "Use when citing the authors of the CPOCL planning framework",
+    "Use when referencing conflict and narrative research from NCSU",
+    "Use when attribute academic material to the AIIDE 2011 conference series"
+  ],
+  "tags": [
+    "metadata",
+    "citation",
+    "academic-reference"
+  ],
+  "priority": 3,
+  "content": "- Stephen Ware North Carolina State University\n- R. Young North Carolina State University\n\nhttps://doi.org/10.1609/aiide.v7i1.12428\n\nconflict, planning, narrative, cpocl",
+  "token_estimate": 25
+}

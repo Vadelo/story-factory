@@ -1,0 +1,29 @@
+{
+  "title": "What Is Plot? Plot Definition",
+  "path": "plot-what-is-plot-plot-definition",
+  "url": "https://thewritepractice.com/plot",
+  "keywords": [
+    "plot",
+    "sequence of events",
+    "main character",
+    "challenging situation",
+    "difficult choices",
+    "climactic event",
+    "resolution"
+  ],
+  "use_cases": [
+    "Use when crafting a narrative arc to guide a story from introduction to resolution",
+    "Implement when defining character growth through escalating challenges",
+    "Configure when mapping out plot beats for screenplay or novel outline",
+    "Use when analyzing a story’s structure to identify key turning points",
+    "Apply when designing interactive fiction to ensure player decisions lead to a climax"
+  ],
+  "tags": [
+    "storytelling",
+    "narrative-structure",
+    "literature"
+  ],
+  "priority": 10,
+  "content": "Plot is a sequence of events in a story in which the main character is put into a challenging situation that forces them to make increasingly difficult choices, driving the story toward a climactic event and resolution.",
+  "token_estimate": 49
+}

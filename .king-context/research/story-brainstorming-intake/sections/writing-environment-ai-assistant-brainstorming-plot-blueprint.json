@@ -1,0 +1,32 @@
+{
+  "title": "Plot blueprint​",
+  "path": "writing-environment-ai-assistant-brainstorming-plot-blueprint",
+  "url": "https://docs.shyeditor.com/writing-environment/ai-assistant/brainstorming",
+  "keywords": [
+    "Plot blueprint",
+    "Novel projects",
+    "Story projects",
+    "Chapter-by-chapter plan",
+    "Story beats",
+    "Brainstorming style",
+    "Academic paper outline",
+    "Chapter story beats",
+    "Plot summary"
+  ],
+  "use_cases": [
+    "Use when mapping out the high-level narrative and chapter structure for a novel",
+    "Implement when generating sequential story beats for an individual chapter based on narrative flow",
+    "Configure when sketching initial plot points and genre constraints for a short story",
+    "Use when iterating on book premises and chapter counts with AI-assisted suggestions",
+    "Implement when creating structured outlines or drafts for academic papers"
+  ],
+  "tags": [
+    "content-generation",
+    "creative-writing",
+    "brainstorming",
+    "planning"
+  ],
+  "priority": 9,
+  "content": "This mode is available in`Novel` projects.\n\nThe mode follow a multi-step process to map out a books key points and story structure.\n\n- First, enter the book premise, estimated number of chapters (from 1 to 25), genre, plot structure, and brainstorming style.\n- Next, the AI will suggest a plot summary based on the input. You can iterate on this summary with the AI, or edit it directly.\n- Finally, the AI will generate a high-level chapter-by-chapter plan for your book. You can iterate on this plan with the AI, or edit any of the chapters manually. When you are happy with the results, click \"Use this chapter plan\" to insert the final chapter structure into your project.\n\nThis mode is available in`Novel` projects. It will generate the story beats for an individual chapter, in a way that fits the overall narrative of your book.\n\nEnter a chapter description, role in the overall story, genre, and brainstorming style. You can also specify the preceding chapter. The AI will suggest the story beats for this chapter, which you can then review and use AI to iterate until you are happy with the result.\n\nThis mode is available in`Story` projects. It will generate the key plot points for a short story.\n\nEnter a story description, genre, and brainstorming style. The AI will suggest the plot points for such story, which you can then review and use AI to iterate until you are happy with the result.\n\nSpecialized brainstorming modes\n\n- Academic paper outline\n- Academic paper draft\n- Plot blueprint\n- Chapter story beats\n- Story beats",
+  "token_estimate": 352
+}

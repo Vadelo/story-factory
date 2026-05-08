@@ -1,0 +1,32 @@
+{
+  "title": "Template 3: Scene Writing",
+  "path": "ai-prompt-for-novel-writing-template-3-scene-writing",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "Template 3",
+    "Scene Writing",
+    "Element balance",
+    "balance of elements",
+    "prompt engineering",
+    "fiction writing",
+    "internal thought",
+    "physical action",
+    "dialogue ratio",
+    "word count constraints"
+  ],
+  "use_cases": [
+    "Use when drafting long-form fiction that requires a balance of dialogue and narrative action",
+    "Implement when the AI produces overly dialogue-heavy content or lacks internal character depth",
+    "Configure when specific emotional beats or plot reveals need to be hit within a defined word count",
+    "Use when adapting a scene setup to a specific voice or style like spare and tense or lyrical"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-templates",
+    "content-generation",
+    "fiction-workflow"
+  ],
+  "priority": 10,
+  "content": "This is the workhorse template — the one you’ll use most. The “balance of elements” constraint is the sneaky weapon here: forcing a ratio of dialogue, action, and interiority prevents the AI from defaulting to dialogue-heavy scenes (its statistical comfort zone) and produces output that reads more like published fiction.\n\nPrompt Template — Scene Writing\n\nYou are a [genre] fiction writer. Write the following scene in [first/third]-person [past/present] tense. Scene setup: Time and place: [specific setting details] Characters present: [list with brief relationship context] What just happened before this scene: [immediate preceding events] Purpose of this scene: [what it must accomplish for plot and character] Scene requirements: Word count: [number, e.g., 800-1000 words] Voice/style: [e.g., spare and tense / lyrical and introspective / darkly comic] Element balance: [e.g., 40% dialogue, 30% physical action, 30% internal thought] Must include: [a specific line of dialogue, a physical detail, an emotional beat, or a plot reveal] Must avoid: [e.g., on-the-nose dialogue, telling instead of showing, scene-ending summaries] End the scene on: [a moment of action / unresolved tension / a quiet revelation / a question]\n\nCommon Mistake\n\nDon’t use these templates and then accept the first output. That’s half the process. The second half is treating AI output as a first draft — something to react against, rewrite, and shape. Writers who get the best results spend more time editing AI drafts than writing fresh prompts. The AI gives you material. You give it a soul.",
+  "token_estimate": 323
+}

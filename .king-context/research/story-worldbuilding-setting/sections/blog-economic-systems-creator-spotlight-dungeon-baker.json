@@ -1,0 +1,30 @@
+{
+  "title": "Creator Spotlight: Dungeon Baker",
+  "path": "blog-economic-systems-creator-spotlight-dungeon-baker",
+  "url": "https://www.worldsunending.com/blog/economic-systems",
+  "keywords": [
+    "subscription",
+    "mailing list",
+    "blog updates",
+    "development progress",
+    "beta invitations",
+    "newsletter",
+    "user engagement"
+  ],
+  "use_cases": [
+    "Use when you want to stay informed about upcoming blog posts",
+    "Use when you want to receive exclusive updates on development progress",
+    "Configure when adding a sign‑up form to a website or app",
+    "Implement when targeting early adopters for beta testing",
+    "Use when collecting user data for marketing campaigns"
+  ],
+  "tags": [
+    "communication",
+    "marketing",
+    "user-engagement",
+    "beta-program"
+  ],
+  "priority": 7,
+  "content": "Sign up to receive updates on our blog posts, our development progress, and invitations to be involved in our beta!",
+  "token_estimate": 26
+}

@@ -1,0 +1,33 @@
+{
+  "title": "The Ghost: The Past That Won't Stay Past",
+  "path": "blog-how-to-write-compelling-characters-the-ghost-the-past-that-won-t-stay-past",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "ghost",
+    "narrative structure",
+    "character motivation",
+    "the wound",
+    "misbelief resolution",
+    "external motivation",
+    "character arc",
+    "subtext",
+    "literary device",
+    "character backstory"
+  ],
+  "use_cases": [
+    "Use when defining a character's internal conflict and underlying trauma",
+    "Implement when structuring a story's climax to force character growth",
+    "Configure when bridging the gap between a character's past and their current motivations",
+    "Use when developing subtle behavioral textures in literary fiction",
+    "Implement when creating an inciting incident that feels personally inevitable for the protagonist"
+  ],
+  "tags": [
+    "characteristization",
+    "storytelling-theory",
+    "narrative-design",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "The ghost is the specific moment, memory, or relationship from the character's past that they haven't resolved. It is more particular than the wound — it's the clearest, most painful instance of the wound in action.\n\nThe ghost resurfaces at the worst narrative moments. In a well-constructed story, the climax is often structured around forcing the character to finally face the ghost rather than evade it. The resolution of the ghost is frequently the resolution of the misbelief.\n\nIn literary fiction, the ghost may never be explicitly addressed. It surfaces only in the texture of behaviour, in what the character notices, in the subjects they avoid. The ghost in The Remains of the Day is everything Stevens chose professional duty over. It is never named directly. It is present in every decision he makes and every word he cannot bring himself to say.\n\nIn commercial fiction, the ghost is often the reason the protagonist is in this story at all. The detective who cannot stop working missing persons cases because of the sister they could not find. The lawyer who takes the impossible case because of the client they failed to defend years ago. The ghost explains the motivation without requiring exposition.",
+  "token_estimate": 268
+}

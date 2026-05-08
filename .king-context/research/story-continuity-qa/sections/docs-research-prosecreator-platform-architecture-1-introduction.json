@@ -1,0 +1,31 @@
+{
+  "title": "1. Introduction",
+  "path": "docs-research-prosecreator-platform-architecture-1-introduction",
+  "url": "https://adverant.ai/docs/research/prosecreator-platform-architecture",
+  "keywords": [
+    "two-tier workflow dispatch",
+    "stateless horizontal scaling",
+    "humanization pipeline",
+    "genre-specific profiles",
+    "tri-store memory architecture",
+    "living blueprint system",
+    "multi-format export pipeline",
+    "workflow orchestration",
+    "AI detection mitigation"
+  ],
+  "use_cases": [
+    "Implement when designing stateless systems requiring high horizontal scalability",
+    "Use when content generation requires human-like stylistic profiles to bypass AI detection",
+    "Configure when routing multiple job types across logical queues to external workflow engines",
+    "Apply when managing complex narrative generation through a tri-store memory architecture"
+  ],
+  "tags": [
+    "system-architecture",
+    "workflow-management",
+    "content-generation",
+    "scalability"
+  ],
+  "priority": 10,
+  "content": "A two-tier workflow dispatch architecture that routes 48 distinct job types across seven logical queues to an external workflow engine, eliminating all in-process job state and enabling truly stateless horizontal scaling.\n\nA fifteen-technique humanization pipeline with twelve genre-specific profiles, addressing the growing concern of AI-generated content detection in creative markets.\n\nThe remainder of this paper is organized as follows. Section 2 surveys related work in AI-assisted creative writing, knowledge graphs for narrative, multi-agent generation, and workflow orchestration. Section 3 describes the overall system architecture. Section 4 presents the tri-store memory architecture in detail. Section 5 covers the living blueprint system. Section 6 describes the content generation pipeline. Section 7 discusses story architecture features. Section 8 details the workflow dispatch architecture. Section 9 analyzes horizontal scalability. Section 10 covers the multi-format export pipeline. Section 11 provides evaluation and comparative analysis. Section 12 discusses limitations, and Section 13 concludes with future directions.\n\n---",
+  "token_estimate": 200
+}

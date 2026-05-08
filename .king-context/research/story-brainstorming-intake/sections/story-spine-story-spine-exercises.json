@@ -1,0 +1,33 @@
+{
+  "title": "Story Spine Exercises",
+  "path": "story-spine-story-spine-exercises",
+  "url": "https://storytellingdb.com/story-spine/",
+  "keywords": [
+    "Story Spine",
+    "structural foundation",
+    "collaborative storytelling",
+    "narrative structure",
+    "plot events",
+    "character growth",
+    "Story Spine elements",
+    "linear narrative",
+    "internal consequences",
+    "architectural blueprints"
+  ],
+  "use_cases": [
+    "Use when sketching the foundational logic of a new narrative",
+    "Implement when analyzing existing media to understand structural beats",
+    "Configure when facilitating collaborative creative writing exercises",
+    "Use when troubleshooting a plot that feels mechanical or lacks logical flow",
+    "Apply when mapping character growth to specific plot-driven events"
+  ],
+  "tags": [
+    "creative-writing",
+    "content-strategy",
+    "narrative-design",
+    "storyboarding"
+  ],
+  "priority": 8,
+  "content": "1. Analyze a favorite story: Take a favorite movie or book and identify each Story Spine element within it. Write one sentence per element, creating a summary that follows the spine structure.\n2. Create from scratch: Start with just an interesting character and setting. Complete a Story Spine without planning ahead. Let each statement naturally suggest the next.\n3. Collaborative storytelling: Create a story with friends where each person contributes one element of the Story Spine in order.\n\nWatch out for these common mistakes:\n\nThe biggest mistake is treating the Story Spine as the entire story rather than its foundation. The spine provides structure but lacks the depth, detail, and dimension that make stories compelling.\n\nThink of it as architectural blueprints. They show where the walls go, but don’t include furniture, paint colors, or decorations. Those elements – the details that make your story unique – must be added after the basic structure is in place.\n\nSome writers try to force complicated or non-linear stories into the Story Spine format when they might benefit from different approaches. While it works for most traditional narratives, experimental fiction or complex time-jumping stories might need modified structures.\n\nPay attention to resistance when filling out your Story Spine. If certain elements feel awkward or don’t seem to fit, consider whether you need a different structure or a customized version.\n\nThe Story Spine focuses primarily on plot events rather than character growth. Without careful attention to character development, you risk creating stories that feel mechanical despite their logical structure.\n\nFor each Story Spine element, ask how your character feels, what they learn, and how they change in response to events. The “Because of that…” sections should show not just external consequences but internal ones.",
+  "token_estimate": 384
+}

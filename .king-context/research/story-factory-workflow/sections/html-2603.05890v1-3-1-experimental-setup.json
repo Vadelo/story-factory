@@ -1,0 +1,32 @@
+{
+  "title": "3.1 Experimental Setup",
+  "path": "html-2603.05890v1-3-1-experimental-setup",
+  "url": "https://arxiv.org/html/2603.05890v1",
+  "keywords": [
+    "long-form story generation",
+    "agent-enhanced systems",
+    "multi-step generation pipelines",
+    "proprietary models",
+    "open-source models",
+    "capability-enhanced models",
+    "experimental setup",
+    "evaluation methodology",
+    "task scenarios",
+    "model benchmarking"
+  ],
+  "use_cases": [
+    "Use when designing a benchmarking framework for large language models",
+    "Implement when comparing proprietary versus open-source model capabilities",
+    "Configure when setting up multi-step generation pipelines for agentic workflows",
+    "Use when evaluating long-form creative writing performance across different model architectures"
+  ],
+  "tags": [
+    "experimental-design",
+    "benchmarking",
+    "model-evaluation",
+    "content-generation"
+  ],
+  "priority": 8,
+  "content": "##### Models and Data.\n\nWe evaluate a comprehensive set of models spanning four categories. Proprietary models are from OpenAI OpenAI (2025), Google Comanici et al. (2025), Anthropic Anthropic (2025), xAI xAI (2025) and others. Open-source models cover Qwen Yang et al. (2025), DeepSeek Guo et al. (2025), GLM GLM-4.5 Team (2025), Kimi Kimi Team (2025), and others. We also include capability-enhanced models fine-tuned for long-form story generation Wu et al. (2025a); Pham et al. (2024); Bai et al. (2024a) and agent-enhanced systems Wu et al. (2025b); Wang et al. (2025a) that employ multi-step generation pipelines. Each model generates outputs for all 2,000 prompts across the four task scenarios (Figure 7) under comparable settings.",
+  "token_estimate": 150
+}

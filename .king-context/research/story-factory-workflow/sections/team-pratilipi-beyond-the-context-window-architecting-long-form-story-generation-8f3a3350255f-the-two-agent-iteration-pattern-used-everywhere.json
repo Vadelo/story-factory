@@ -1,0 +1,31 @@
+{
+  "title": "The Two-Agent Iteration Pattern (Used Everywhere)",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-two-agent-iteration-pattern-used-everywhere",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "Two-Agent Iteration Pattern",
+    "Generator",
+    "Critic/Reviewer",
+    "recursion depth constraint",
+    "Rolling Summary",
+    "dynamic memory object",
+    "context window management",
+    "signal-to-noise ratio",
+    "iterative feedback loop"
+  ],
+  "use_cases": [
+    "Implement when iterative output refinement is required through separate generation and critique agents",
+    "Configure when managing long-form content generation where context window overflow is a risk",
+    "Use when preventing infinite loops and runaway API costs via recursion depth limits",
+    "Apply when maintaining temporal consistency across sequential story chapters using dynamic memory"
+  ],
+  "tags": [
+    "agentic-patterns",
+    "content-generation",
+    "memory-management",
+    "system-architecture"
+  ],
+  "priority": 10,
+  "content": "Each layer doesn’t run once. It runs in an iterative generate → critique → regenerate loop.\n\n- Every layer uses two agents:\n- Generator: produces an output (goals, expanded beats, fixes, etc.)\n- Critic/Reviewer: critiques against constraints, artifacts, and layer-specific quality rules\n\nThe loop repeats until: the critic approves, or we hit a recursion depth constraint (to avoid infinite loops and runaway costs)\n\nWe apply the same pattern in chapter drafting too (more on that below).\n\nDrafting is sequential (Chapter 1 → Chapter 2 → …), while drafting nth chapter we need some context about what happened so far in story, but we cannot keep feeding raw text of prior chapters indefinitely. Context windows overflow, and the signal-to-noise ratio collapses.\n\nSo we built a dynamic memory object: Rolling Summary.",
+  "token_estimate": 171
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Environmental Factors",
+  "path": "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-environmental-factors",
+  "url": "https://myersfiction.com/2024/08/20/crafting-believable-magic-systems-with-limits-and-costs/",
+  "keywords": [
+    "Natural Phenomena",
+    "Tides",
+    "Seasons",
+    "Solstices",
+    "Geographical Constraints",
+    "Weather Dependency",
+    "Rain",
+    "Storms",
+    "Sunlight",
+    "Magic System"
+  ],
+  "use_cases": [
+    "Use when tying character abilities to environmental cycles like tides or seasons.",
+    "Implement when designing magic that alters with geography, such as forest stronghold vs desert weakness.",
+    "Configure when creating spells that shift potency with weather patterns such as rain or storms.",
+    "Apply when adding immersion through environmental constraints that affect gameplay.",
+    "Use when integrating classic nature motifs, mirroring concepts like Pokemon’s Nature Power attack.",
+    "Apply when balancing magic with unpredictable environmental changes for realism. "
+  ],
+  "tags": [
+    "magic-system",
+    "world-building",
+    "game-design",
+    "rule-system"
+  ],
+  "priority": 8,
+  "content": "Environmental Factors create a more unpredictable magic system to where your character’s magic becomes a best-case scenario plan. Otherwise, it’s up to the characters and who their with to solve the problem. These magic systems can create realism and immersion, symbolize cycles, or layering in further world-building.\n\n- Natural Phenomena: Your magic is tied to the tides, seasons, solstices, or any other naturally occurring phenomena respective to your world.\n- Geographical Constraints: Magic behaves differently in different locations. This can be like a forest druid’s abilities, being strong within dense woods, but weak in the desert. Or you could have the magic change with the location, much like Pokemon’s Nature Power attack.\n- Weather Dependency: If you’re using weather, then your world is most likely constantly affected by extremes. The spells here will be influenced by rain, storms, and sunlight. This will make your magic system harder to use on desired days and could change, well, with the weather.",
+  "token_estimate": 211
+}

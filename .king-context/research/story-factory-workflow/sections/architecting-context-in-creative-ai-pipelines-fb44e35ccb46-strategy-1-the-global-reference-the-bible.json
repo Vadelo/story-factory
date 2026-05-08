@@ -1,0 +1,31 @@
+{
+  "title": "Strategy 1: The Global Reference (“The Bible”)",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-1-the-global-reference-the-bible",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Global Reference",
+    "Source of Truth",
+    "Prop Map",
+    "Location Map",
+    "Character Profiles",
+    "JSON object",
+    "Scene generation",
+    "Phase 2",
+    "Drift mitigation"
+  ],
+  "use_cases": [
+    "Use when content consistency needs to be maintained across long-form generation",
+    "Implement when mapping modern real-world terms to fictional or thematic equivalents",
+    "Configure when character names and locations must remain immutable across multiple scenes",
+    "Apply when combating AI output drift in high-volume creative workflows"
+  ],
+  "tags": [
+    "Content Strategy",
+    "Data Consistency",
+    "Prompt Engineering",
+    "Creative Automation"
+  ],
+  "priority": 9,
+  "content": "- The Fix: We create a rigid JSON object called the Bible during Phase 2, and we pass it to every single scene generation call.\n- The Problem: Drift. Over 120 pages, “John” becomes “Jon,” “Office” becomes “Headquarters,” and the tone slowly reverts to the original.\n\nHow it works: This isn’t a suggestion box; it’s a hard lock. The Bible contains explicit maps:\n\n- The Result: By forcing the model to reference this “Source of Truth” every time it picks up the pen, we ensure that the fundamental facts of the universe never change.\n- Prop Map: “iPhone” is now “Scroll”.\n- Location Map: “OFFICE” is now “THRONE ROOM”.\n- Character Profiles: “John” is now “ZEUS” (and he must stay “ZEUS” in Scene 50).",
+  "token_estimate": 164
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Quirk",
+  "path": "articles-character-development-questionnaire-quirk",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "quirk",
+    "wild card",
+    "personality trait",
+    "mannerism",
+    "character development",
+    "distinguishing quirk",
+    "superficial trait",
+    "character manifestation",
+    "zany traits"
+  ],
+  "use_cases": [
+    "Use when developing distinguishing personality traits for a narrative character",
+    "Implement when seeking to differentiate secondary or main cast members through mannerisms",
+    "Configure when bridging a character's backstory with their external behaviors",
+    "Use when establishing a character's most recognizable physical or behavioral habit"
+  ],
+  "tags": [
+    "character-design",
+    "creative-writing",
+    "narrative-design"
+  ],
+  "priority": 7,
+  "content": "You can think of the quirk as a wild card. A personality trait or mannerism that helps them stand out from the rest of the cast. Unlike the other questions, the quirk can be relatively superficial. But don’t just pick something zany for the sake of being different. Tie it into the rest of the character somehow.\n\n- How does that quirk manifest itself?\n- How did the character develop that quirk?\n- What is the character’s most distinguishing quirk?",
+  "token_estimate": 106
+}

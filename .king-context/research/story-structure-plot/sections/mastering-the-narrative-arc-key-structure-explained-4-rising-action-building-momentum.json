@@ -1,0 +1,32 @@
+{
+  "title": "4. Rising Action: Building Momentum",
+  "path": "mastering-the-narrative-arc-key-structure-explained-4-rising-action-building-momentum",
+  "url": "https://literarydevices.net/mastering-the-narrative-arc-key-structure-explained/",
+  "keywords": [
+    "Rising Action",
+    "Conflict Development",
+    "Internal conflict",
+    "External conflict",
+    "Escalation of Stakes",
+    "Subplots",
+    "Foreshadowing",
+    "Suspense",
+    "Climax"
+  ],
+  "use_cases": [
+    "Use when building narrative tension toward the climax",
+    "Implement when expanding character arcs through internal and external conflicts",
+    "Configure when adding secondary threads that enrich the main storyline",
+    "Use when hinting at future events to maintain reader interest",
+    "Implement when balancing stakes to raise reader investment"
+  ],
+  "tags": [
+    "storytelling",
+    "narrative-structure",
+    "plot-development",
+    "writing"
+  ],
+  "priority": 10,
+  "content": "This is where the story’s engine turns up, pushing toward the climax.\n\n- Conflict Development: Internal vs external conflicts. Example: In To Kill a Mockingbird, Scout faces internal guilt and external racism.\n- Escalation of Stakes: What’s at risk for characters. Example: In The Lord of the Rings, destroying the One Ring threatens all of Middle‑Earth.\n- Subplots: Secondary threads that enrich main narrative. Example: The romance subplot in Pride and Prejudice adds depth to Elizabeth’s character.\n- Foreshadowing& Suspense: Hints toward future events, maintaining interest. Example: In Harry Potter, the recurring mention of “the dark lord” foreshadows Voldemort’s return.",
+  "token_estimate": 133
+}

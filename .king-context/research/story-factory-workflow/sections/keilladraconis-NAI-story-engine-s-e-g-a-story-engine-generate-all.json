@@ -1,0 +1,34 @@
+{
+  "title": "S.E.G.A. (Story Engine Generate All)",
+  "path": "keilladraconis-NAI-story-engine-s-e-g-a-story-engine-generate-all",
+  "url": "https://github.com/keilladraconis/NAI-story-engine",
+  "keywords": [
+    "S.E.G.A.",
+    "ATTG & Style",
+    "Lorebook",
+    "Crucible",
+    "DULFS",
+    ".naiscript",
+    "NovelAI",
+    "bidirectional sync",
+    "reconciliation pass",
+    "natural language refinements"
+  ],
+  "use_cases": [
+    "Use when you want to automate the entire narrative setup from metadata to world-building with a single click",
+    "Configure when syncing Author/Title/Tags/Genre and Style Guidelines across story containers",
+    "Implement when generating map-informed Lorebook keys and relational content for complex world settings",
+    "Use when a new story document is empty to generate an initial opening scene via the Bootstrap stage",
+    "Configure when performing real-time bidirectional synchronization between DULFS entries and NovelAI's backend"
+  ],
+  "tags": [
+    "automation",
+    "content-generation",
+    "synchronization",
+    "configuration",
+    "installation"
+  ],
+  "priority": 10,
+  "content": "One-button scenario completion. Runs through: ATTG & Style → Canon → Bootstrap → Lorebook. Each stage can also be run individually.\n\n- **ATTG & Style** — Author/Title/Tags/Genre syncs to Memory; Style Guidelines syncs to Author's Note.\n- **Canon** — Authoritative world summary synthesized from your Crucible elements.\n- **Bootstrap** — Generates an opening scene instruction into the document if it's empty.\n- **Lorebook** — Content generation → relational maps → keys generation (map-informed, with reconciliation pass for complex entries).\n\nDramatis Personae, Universe Systems, Locations, Factions, Situational Dynamics, and Topics. Every DULFS entry is bidirectionally synced with the NovelAI Lorebook — edits in either direction are reflected immediately.\n\nGenerate content, keys, and refinements for any lorebook entry directly from the Lorebook view. Natural language refinements: \"make her taller,\" \"add a rivalry with the Silver Court.\"\n\n1. **Download** the latest `.naiscript` file from the [Releases](https://github.com/your-repo/releases) page.\n2. **Create a new story** in NovelAI for this script.\n3. **Open the Script Editor** in NovelAI, import the `.naiscript` file.\n4. **Enable the script.** The Brainstorm, Crucible, and Story Engine panels will appear.\n\nFor the full workflow walkthrough, see `WALKTHROUGH.md`.\n\n```bash\nnpm install\nnpm run build    # Outputs to dist/NAI-story-engine.naiscript\nnpm run test     # Run tests\n```\n\nMIT",
+  "token_estimate": 269
+}

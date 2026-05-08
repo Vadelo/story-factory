@@ -1,0 +1,33 @@
+{
+  "title": "What graphs are good at",
+  "path": "blog-persistent-memory-for-ai-agents-what-graphs-are-good-at",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "Cypher",
+    "GQL",
+    "multi-hop graph traversal",
+    "explainable retrieval",
+    "relational reasoning",
+    "type filters",
+    "cross-vertical reasoning",
+    "pattern detection",
+    "substrate",
+    "network queries"
+  ],
+  "use_cases": [
+    "Use when performing network analysis such as shared investors or alumni overlaps",
+    "Implement when complex pattern detection across multiple entities and signals is required",
+    "Configure when AI agents need transparent, inspectable reasonings for recommendations",
+    "Use when connecting disparate data silos like sales, recruiting, and operations into a single substrate",
+    "Implement when row-based query languages cannot cleanly express multi-hop relationships"
+  ],
+  "tags": [
+    "data-modeling",
+    "graph-theory",
+    "query-optimization",
+    "knowledge-representation"
+  ],
+  "priority": 10,
+  "content": "Relational reasoning. Anything that has the shape \"who is connected to whom, through what, with what context\" is a graph problem. Network queries — warm intros, shared investors, co-investors-of-co-investors, alumni overlaps, shared advisors — are the canonical example.\n\nPattern detection across entities. When the question is \"find the cluster of accounts that share a hiring pattern, a tech stack signal, and a regulatory filing within the last 90 days\" — that is a multi-hop graph traversal with type filters. You can express it cleanly in Cypher or GQL. You cannot express it cleanly in any query language that thinks about rows.\n\nExplainable retrieval. When an agent asks \"why is this account being recommended to me,\" the graph can produce the path: the signal that triggered the score, the relationship that propagated it, the prior decisions that biased the weighting. Vector similarity scores are opaque; graph paths are inspectable.\n\nCross-vertical reasoning. When the same graph holds entities from sales, recruiting, marketing, and operations — and the same person can show up as a contact in one vertical and a candidate in another — the graph is the substrate that lets a query traverse those domains as one connected world.",
+  "token_estimate": 263
+}

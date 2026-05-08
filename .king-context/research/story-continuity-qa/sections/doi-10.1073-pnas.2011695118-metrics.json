@@ -1,0 +1,29 @@
+{
+  "title": "Metrics",
+  "path": "doi-10.1073-pnas.2011695118-metrics",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2011695118",
+  "keywords": [
+    "Total Views",
+    "Total Citations",
+    "DOI",
+    "Digital Object Identifier",
+    "Citation Alert",
+    "Reading List",
+    "PDF/EPUB",
+    "Metrics Tracking"
+  ],
+  "use_cases": [
+    "Use when evaluating the academic impact and visibility of a specific publication",
+    "Implement when users need to receive notifications for new citations of a study",
+    "Configure when allowing users to save documents to a personalized reading list",
+    "Use when generating usage reports for institutional research or publishing audits"
+  ],
+  "tags": [
+    "analytics",
+    "bibliometrics",
+    "publication-data"
+  ],
+  "priority": 7,
+  "content": "#### Total Views21,552\n* Last 12 Months2,835\n#### Total Citations40\n* Last 12 Months13\n[View all metrics](?doi=10.1073/pnas.2011695118#tab-metrics-inner)\n[**Track Citations](https://www.pnas.org/action/addCitationAlert?doi=10.1073/pnas.2011695118)[**Add to Reading List](https://www.pnas.org/personalize/addFavoritePublication?doi=10.1073/pnas.2011695118)\n[**](#tab-citations)\n[PDF/EPUB](https://www.pnas.org/doi/reader/10.1073/pnas.2011695118)\n**Contents",
+  "token_estimate": 33
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Canon: Themes",
+  "path": "canon-themes",
+  "url": "local://works/a-margem-que-devora-o-heroi#canon-themes",
+  "keywords": [
+    "canon",
+    "themes"
+  ],
+  "use_cases": [
+    "Recall canon: themes for story continuation"
+  ],
+  "tags": [
+    "canon",
+    "themes"
+  ],
+  "priority": 8,
+  "content": "[\n  \"agência contra destino narrativo\",\n  \"culpa criativa\",\n  \"personagens tratados como funções\",\n  \"edição como poder e violência\",\n  \"o espaço invisível que sustenta histórias\"\n]",
+  "token_estimate": 30
+}

@@ -1,0 +1,31 @@
+{
+  "title": "7. Internal Game Concept One Sheet",
+  "path": "news-Narrative-Design-Part-2-7-internal-game-concept-one-sheet",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "One Sheet",
+    "Narrative Hook",
+    "Core Conflict",
+    "Player Character",
+    "Antagonist",
+    "Game Pillars",
+    "Internal Concept",
+    "Tone",
+    "Development Pitch"
+  ],
+  "use_cases": [
+    "Use when pitching a new game idea to internal stakeholders or executive leadership",
+    "Implement when defining the core narrative and conflict during pre-production",
+    "Configure when establishing game pillars and tone for the development team",
+    "Use when alignning the character design team with story requirements"
+  ],
+  "tags": [
+    "game-design",
+    "documentation",
+    "pre-production",
+    "planning"
+  ],
+  "priority": 8,
+  "content": "This is a sheet to show your fellow developers and higher-ups. It’s essentially a pitch to ensure everyone is on the same page (har har) and approves the concept. What we include:\n\nNarrative Hook\n\nThe Fantasy\n\nCore Conflict\n\n- Who wants what from whom?\n\nMain Character (Player Character)\n\n- Who is our main character? What do they want? What do they need? What are their attributes, powers, and/or skills? Flaws?\n\nAntagonist\n\n- Who is our main baddie? What do they want (and how is it at odds with our main character’s wants)? What powers and skills do they have?\n\nThe World What sort of world do our characters inhabit?\n\nWhy Now? Why is this conflict happening now? What is the urgency? Why must the player character act now?\n\nPillars\n\nTone",
+  "token_estimate": 172
+}

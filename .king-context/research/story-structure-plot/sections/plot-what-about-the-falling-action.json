@@ -1,0 +1,33 @@
+{
+  "title": "What about the Falling Action?",
+  "path": "plot-what-about-the-falling-action",
+  "url": "https://thewritepractice.com/plot",
+  "keywords": [
+    "falling action",
+    "climax",
+    "denouement",
+    "plot point",
+    "The Write Practice",
+    "Write Structure",
+    "rising action",
+    "shortcut story",
+    "short story",
+    "plot framework"
+  ],
+  "use_cases": [
+    "Use when explaining why a plot framework omits falling action",
+    "Implement when constructing a story outline that merges falling action with denouement",
+    "Configure when aligning each scene with a climax near the story's end",
+    "Use when teaching writers that rising action can be abbreviated in short stories",
+    "Configure when designing educational materials for plot analysis"
+  ],
+  "tags": [
+    "plot-structure",
+    "writing",
+    "fiction",
+    "education"
+  ],
+  "priority": 6,
+  "content": "In The Write Structure, the plot framework we've developed at The Write Practice, we don't use the plot point falling action, which you might see in other frameworks.\n\nWhy do we exclude it?\n\nFalling action is usually described as the events that wind down the plot after the climax, but in most stories, the climax happens near the end of a story, usually in the third to last scene. Thus, the falling action and denouement are virtually indistinguishable.\n\nTo avoid confusion, we believe the falling action should be phased out of use as an element of plot.\n\nYou can learn more about why we don't consider falling action a plot element here.\n\nYes! In fact, every scene and every act in a story should have each of these elements as well.\n\nIn a short story, however, these elements will be necessarily abbreviated. For example, where rising action might have many complications in a novel, it might only have one complication in a short story.",
+  "token_estimate": 218
+}

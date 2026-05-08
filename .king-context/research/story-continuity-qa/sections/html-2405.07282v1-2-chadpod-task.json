@@ -1,0 +1,32 @@
+{
+  "title": "2. CHADPOD task",
+  "path": "html-2405.07282v1-2-chadpod-task",
+  "url": "https://arxiv.org/html/2405.07282v1",
+  "keywords": [
+    "CHADPOD",
+    "Choose Your Own Adventure",
+    "CYOA game graphs",
+    "nonlinear narratives",
+    "binary classification",
+    "narrative macro-structures",
+    "interactive fiction",
+    "character choice identification",
+    "text segmentation",
+    "generative agents"
+  ],
+  "use_cases": [
+    "Use when developing benchmarks for narrative point identification in NLP",
+    "Implement when training agents to recognize significant plot-driving decisions",
+    "Configure when processing nonlinear gamebook structures into machine learning datasets",
+    "Use when analyzing temporal constraints and narrative branching in generative writing tools"
+  ],
+  "tags": [
+    "benchmarking",
+    "natural-language-processing",
+    "narrative-analysis",
+    "dataset-specification"
+  ],
+  "priority": 8,
+  "content": "In NLP research, analysts and creators frequently utilize Gamebook genre games, also widely known as Choose Your Own Adventure222It is a registered trademark of Chooseco LLC. (CYOA) books, named after one of the earliest popular series in this genre. These sources are crucial for studying nonlinear narratives, alongside interactive fiction games.\n\nFor instance, the data from such sources has been used to train systems that generate suggestions for people writing short stories Clark and Smith (2021). Another study employs CYOA as a medium for training generative agents to enforce temporal constraints Rothkopf et al. (2024). In the MACHIAVELLI paper Pan et al. (2023), authors use a collection of CYOA games to create a game environment for training text agents. Some researchers333https://heterogenoustasks.wordpress.com/2015 /01/26/standard-patterns-in-choice-based-games/ explore them to analyze a variety of narrative macro-structures.\n\nIn this work, we introduce the CHADPOD task, which focuses on identifying narrative points where a character makes a choice that determines the further course of the story. We utilize CYOA game graphs to create a new CHADPOD benchmark, consisting of 1,462 binary classification tasks, with 731 tasks in each class. Each task comprises two text segments—a prefix and a postfix. The positive class includes narrative points where a character makes a choice that significantly influences the story’s direction. The negative class consists of randomly segmented texts (we take a continuous text from a single node and split it at some random point between sentences), as well as text points where a character takes some action, but it does not significantly affect the story’s progression.",
+  "token_estimate": 340
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Features",
+  "path": "andrew36999-AIDungeon_Exporter-features",
+  "url": "https://github.com/andrew36999/AIDungeon_Exporter",
+  "keywords": [
+    "aidungeon_exporter.py",
+    "Auto Token Refresh",
+    "Dual Format Output",
+    "Remote Debugging",
+    "Chrome automation",
+    "URL Export",
+    "Story Cards",
+    "Python 3.8",
+    "Export Statistics",
+    "Metadata",
+    "AIDungeon"
+  ],
+  "use_cases": [
+    "Use when you need to archive entire adventure histories in both raw and readable formats",
+    "Implement when migrating AI Dungeon content to offline storage with folder-based organization",
+    "Configure when needing to batch export specific stories via search terms or direct URLs",
+    "Use when generating book-like novel equivalents of digital roleplay sessions",
+    "Configure when performing long-running exports that require automated session token management"
+  ],
+  "tags": [
+    "data-export",
+    "automation",
+    "utility",
+    "external-tools"
+  ],
+  "priority": 10,
+  "content": "- **Full Story Export** - All actions/text from your adventures\n- **Dual Format Output** - Raw (with tags) and Readable (clean book-like) versions\n- **Metadata** - Plot Essentials, Author's Notes, AI Instructions, Story Cards\n- **Cover Images** - Automatically downloads adventure thumbnails\n- **Organized Output** - Adventures sorted by year with clean folder structure\n- **Export Statistics** - Total characters, words, tokens, and novel equivalents\n- **URL Export** - Export any adventure by pasting its URL\n- **Auto Token Refresh** - Keeps session alive during long exports\n- **Zero Setup** - Script handles Chrome automation automatically\n\n- **AI-Generated Images** - In-game generated images are not exported (because I can't be bothered)\n- **Summary Function** - Adventure summaries are not included (because I can't be bothered)\n- **Dynamic Memory** - Dynamic memory content is not exported (because I can't be bothered)\n\n- **Python 3.8+** - [Download Python](https://www.python.org/downloads/)\n- **Google Chrome** - [Download Chrome](https://www.google.com/chrome/)\n\nJust run:\n\n```cmd\npython aidungeon_exporter.py\n```\n\nThe script will automatically:\n\n1. Close any existing Chrome windows\n2. Launch Chrome with the required debugging connection\n3. Open AI Dungeon for you to log in\n4. Detect your login and capture your session\n5. Present a menu with export options\n\n| Option | Description |\n| --- | --- |\n| 1. Export ALL Adventures | Export every adventure in your account |\n| 2. Search & Export | Find and export specific adventures by name |\n| 3. Debug Export | Quick test with your most recent adventure |\n| 4. Export by URL | Paste any AI Dungeon adventure URL to export |\n| 5. Exit | Close the program |",
+  "token_estimate": 363
+}

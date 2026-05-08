@@ -1,0 +1,29 @@
+{
+  "title": "Causality Over Coincidence",
+  "path": "en-ca-blogs-news-story-structure-complete-guide-causality-over-coincidence",
+  "url": "https://writingworkshops.com/en-ca/blogs/news/story-structure-complete-guide",
+  "keywords": [
+    "coincidence",
+    "cause and effect",
+    "inevitability",
+    "character choices",
+    "plot",
+    "scene",
+    "information discovery"
+  ],
+  "use_cases": [
+    "Use when structuring main plot arcs to ensure logical progression",
+    "Use when defining character motivations to drive actions",
+    "Implement when revising early drafts to reduce structural weaknesses",
+    "Configure when editing scenes to reinforce cause and effect relationships"
+  ],
+  "tags": [
+    "writing",
+    "story-development",
+    "plot-structure",
+    "character-arc"
+  ],
+  "priority": 8,
+  "content": "One of the most common structural weaknesses in early drafts is an over-reliance on coincidence. When events happen because the plot requires them rather than because the characters' choices set them in motion, the story loses its sense of inevitability. Each scene should connect to the next through a chain of cause and effect: this happened, and therefore this happened, and because of that, this happened. The word to listen for is \"therefore,\" not \"and then.\"\n\nThis principle applies not just to major plot events but to small moments as well. If a character discovers a crucial piece of information, it should be because they went looking for it (driven by their desir",
+  "token_estimate": 150
+}

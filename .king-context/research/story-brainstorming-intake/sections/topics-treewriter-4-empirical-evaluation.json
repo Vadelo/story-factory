@@ -1,0 +1,34 @@
+{
+  "title": "4. Empirical Evaluation",
+  "path": "topics-treewriter-4-empirical-evaluation",
+  "url": "https://www.emergentmind.com/topics/treewriter",
+  "keywords": [
+    "TreeWriter",
+    "Creativity Support Index",
+    "NASA-TLX",
+    "within-subjects study",
+    "hierarchical mental modeling",
+    "agentic assistant",
+    "LLM hallucinations",
+    "post-task Likert questionnaires",
+    "creative writing from outline",
+    "field deployment",
+    "structural navigation",
+    "workflow integration"
+  ],
+  "use_cases": [
+    "Use when evaluating the efficacy of hierarchical writing interfaces against standard word processors",
+    "Configure when measuring cognitive load and creative expression in long-form writing tasks",
+    "Implement when identifying integration gaps for academic workflows like LaTeX or Zotero",
+    "Use when assessing how tree-based data structures facilitate collaborative grant writing and review"
+  ],
+  "tags": [
+    "empirical-evaluation",
+    "user-study",
+    "writing-tools",
+    "human-computer-interaction"
+  ],
+  "priority": 7,
+  "content": "Two empirical studies assessed TreeWriter:\n\nControlled Lab Study (N=12, within-subjects): Compared TreeWriter to Google Docs + Gemini across two tasks:\n\n- Article modification (∼4,000 words, spanning expansion, nuance, summarization, reorganization, reframing, coherence),\n- Creative writing from outline (∼800 words).\n\nMetrics encompassed post-task Likert questionnaires (7-point scale) on AI helpfulness, section splitting, outline expansion, control, structural overview; the Creativity Support Index (CSI: Exploration, Expressiveness, Immersion, Enjoyment, Results-Worth-Effort); and NASA-TLX cognitive load.\n\nQuantitative findings: TreeWriter outperformed the baseline across all seven dimensions (e.g., AI helpfulness 6.33 vs. 4.83; breaking sections 6.08 vs. 4.42; control 5.00 vs. 3.75). On creative writing, improvements remained statistically significant in Exploration (q=0.01), Creativity (q=0.033), and Idea Tracking (q=0.033). NASA-TLX indicated moderate reductions in cognitive load.\n\nQualitatively, the hierarchy aided navigation and mental modeling of large texts; the agentic assistant was effective for both fine-grained and global edits. Users reported a learning curve, excessive interface interaction for short documents, and occasional LLM hallucinations (Zhang et al., 19 Jan 2026).\n\nField Deployment (N=8; 2 months): In collaborative settings (25,000-word review, grant proposals), the tree structure facilitated division and assignment of writing responsibilities (Likert M=6.5/7), accelerated drafting from outlines, and improved brainstorming. Limitations included verbose AI output, indistinguishability of AI and human text, and workflow integration issues—specifically absent LaTeX equation handling, reference/figure management, and export to platforms like Zotero or Overleaf.",
+  "token_estimate": 293
+}

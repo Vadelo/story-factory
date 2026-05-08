@@ -1,0 +1,32 @@
+{
+  "title": "8: Use geography to create conflict",
+  "path": "blogs-writing-tips-fantasy-worldbuilding-guide-8-use-geography-to-create-conflict",
+  "url": "https://www.quillandsteel.com/blogs/writing-tips/fantasy-worldbuilding-guide",
+  "keywords": [
+    "geography-based conflict",
+    "natural barriers",
+    "resource scarcity",
+    "strategic locations",
+    "river crossings",
+    "mountain pass",
+    "harbor control",
+    "territorial disputes"
+  ],
+  "use_cases": [
+    "Use when modeling territorial disputes in a strategy game",
+    "Implement when creating dynamic battle maps with natural barriers",
+    "Configure when assigning AI aggression based on resource scarcity",
+    "Apply when designing alliance mechanics tied to strategic locations",
+    "Employ when balancing gameplay around fertile land shortages"
+  ],
+  "tags": [
+    "conflict-dynamics",
+    "geography",
+    "worldbuilding",
+    "strategy",
+    "game-design"
+  ],
+  "priority": 10,
+  "content": "Geography can serve as a catalyst for tension (as we see in the real world). Physical boundaries, resource scarcity, and strategic locations drive alliances and hostilities, and that creates layers of conflict.\n\n#### Consider these scenarios:\n\n- Natural barriers → A river could separate two feuding factions, with secret crossings known only to smugglers.\n- Resource scarcity → If a drought-stricken kingdom eyes a neighboring territory’s fertile lands, tension brews, leading to possible invasions or alliances.\n- Strategic locations → The kingdom controlling a mountain pass or harbor wields immense power. Such areas could be fiercely contested, creating ongoing battles.\n\nExample: A realm with limited fertile soil can turn to conquest or aggressive trade to meet its people’s needs, affecting the balance of power in the region.",
+  "token_estimate": 168
+}

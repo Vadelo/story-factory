@@ -1,0 +1,33 @@
+{
+  "title": "1 Foundations of Narrative Distance",
+  "path": "mastering-narrative-distance-perspective-in-storytelling-1-foundations-of-narrative-distance",
+  "url": "https://literarydevices.net/mastering-narrative-distance-perspective-in-storytelling/",
+  "keywords": [
+    "narrative distance",
+    "internal focalization",
+    "external focalization",
+    "first-person narrator",
+    "second-person narrator",
+    "limited third-person",
+    "omniscient third-person",
+    "viewpoint",
+    "emotional engagement",
+    "sensory details",
+    "narrative voice"
+  ],
+  "use_cases": [
+    "Use when determining the level of intimacy and emotional access the reader has to a character",
+    "Configure when deciding between internal and external focalization for specific plot points",
+    "Implement when selecting a narrative perspective to control the flow of information and suspense",
+    "Use when distinguishing between the stylistic tone of a voice and its physical distance from the events"
+  ],
+  "tags": [
+    "literary-theory",
+    "narratology",
+    "structural-foundations",
+    "writing-techniques"
+  ],
+  "priority": 10,
+  "content": "Definition\n\n> The gap between the narrator’s viewpoint and the events or characters being described. It determines whether the reader feels like a confidant or an observer.\n\nPurpose\n\n- Shapes reader experience by setting intimacy level.\n- Controls information flow—what is revealed, what remains hidden.\n- Influences emotional engagement and suspense.\n\n| Type | Characteristics | Typical Uses | Close (Intimate) | Narrator shares thoughts, feelings, sensory details; often first‑person or close third‑person. | Personal diaries, introspective novels, character‑driven stories. | Distant (Detached) | Narrator observes events without internal commentary; often omniscient or limited third‑person. | Historical epics, broad social dramas, objective reportage. |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\nI narrator: immediate access to inner life; limited to what the narrator knows. Variants include first‑person plural and a distinct narrator voice.\n\n> Example: In “ The Catcher in the Rye,” Holden’s voice is unmistakably first‑person, giving readers direct insight into his thoughts.\n\nYou narrator: rare, creates direct address. Can be immersive or instructive.\n\n> Example: The novel“If on a winter’s night you could see the world” uses second person to pull readers into the protagonist’s experience.\n\nHe/She/They narrator: subdivided into limited and omniscient.\n\n- Limited Third‑Person – follows one character; close to that character’s thoughts.\n- Omniscient Third‑Person – all‑knowing, can jump between characters and scenes.\n\nDefinition\n\n> The focus of the narrative: the perspective through which events are filtered.\n\nTypes\n\n- Internal Focalization – narrator’s own thoughts/feelings.\n- External Focalization – narrator observes others’ actions without internal commentary.\n\nThe voice is the tone, style, personality of the narrator; the distance is how far that voice is from the story’s events. A sarcastic voice can still be close or distant depending on focalization.",
+  "token_estimate": 395
+}

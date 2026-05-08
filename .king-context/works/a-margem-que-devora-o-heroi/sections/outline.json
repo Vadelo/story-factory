@@ -1,0 +1,19 @@
+{
+  "title": "Outline",
+  "path": "outline",
+  "url": "local://works/a-margem-que-devora-o-heroi#outline",
+  "keywords": [
+    "outline",
+    "plot"
+  ],
+  "use_cases": [
+    "Recall outline for story continuation"
+  ],
+  "tags": [
+    "outline",
+    "plot"
+  ],
+  "priority": 9,
+  "content": "[\n  {\n    \"chapter\": 1,\n    \"title\": \"O Homem na Margem da Página\",\n    \"purpose\": \"Apresentar Davi como revisor preso na margem textual, Yerin como personagem que recupera agência e Kael como herói que chega tarde e invade a margem.\"\n  },\n  {\n    \"chapter\": 2,\n    \"title\": \"Resolver Conversa\",\n    \"purpose\": \"Transformar comentários de revisão em ameaça, devolver uma fala cortada a Yerin e estabelecer o Pavilhão dos Arquivos como próximo destino.\"\n  },\n  {\n    \"chapter\": 3,\n    \"title\": \"O Pavilhão dos Arquivos\",\n    \"purpose\": \"Explorar versões descartadas, registros de revisão e as consequências de Yerin tocar a margem.\"\n  }\n]",
+  "token_estimate": 122
+}

@@ -1,0 +1,33 @@
+{
+  "title": "The “Source of Truth” Artifacts",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-source-of-truth-artifacts",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "Source of Truth",
+    "Story Bible",
+    "Character Arcs",
+    "Character Dynamics",
+    "Starting Point",
+    "Artifacts",
+    "Markdown",
+    "Lore constraints",
+    "Story drift",
+    "Behavioral constraints",
+    "Relationship edges"
+  ],
+  "use_cases": [
+    "Use when establishing boundaries for AI content generation to prevent foundational errors",
+    "Configure when defining character motivations and internal conflicts to maintain consistency",
+    "Implement when transitioning between story batches to preserve the exact narrative state",
+    "Use when standardizing documentation structure across multiple writers using Markdown"
+  ],
+  "tags": [
+    "documentation-strategy",
+    "content-integrity",
+    "narrative-design",
+    "ai-alignment"
+  ],
+  "priority": 9,
+  "content": "All our artifacts are pure markdown text, which gives us two things at once:\n\n- Structure: we standardize which artifacts exist and the sections each artifact must include.\n- Flexibility: within those sections, writers can add notes, nuance, and exceptions in plain text without fighting a rigid schema.\n\nConceptually each artifact follows a template like:\n\nStory Bible: World rules (only if needed), tone, baseline lore, what cannot happen etc\n\nCharacter Arcs: Who they are, their current motivation, internal confilcts etc.\n\nCharacter Dynamics: Relationship “edges” (rivalry, loyalty, resentment, romance, etc.), behavioral constraints etc\n\nStarting Point: The exact current state of the story at the beginning of this batch\n\nThese artifacts reduce drift and prevent the AI from “making up” foundational truth.",
+  "token_estimate": 159
+}

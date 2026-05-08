@@ -1,0 +1,34 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2604.21253v1-1-introduction",
+  "url": "https://arxiv.org/html/2604.21253v1",
+  "keywords": [
+    "PLOTTER",
+    "Event Graph",
+    "Character Graph",
+    "Evaluate-Plan-Revise cycle",
+    "narrative topology",
+    "atomic graph-editing operations",
+    "multi-agent critique module",
+    "Constrained Graph Editor",
+    "long-form narrative generation",
+    "causal structure modeling",
+    "graph-based reasoning"
+  ],
+  "use_cases": [
+    "Implement when long-form narrative generation requires global coherence and contextual logical consistency.",
+    "Use when modeling complex plot dependencies and cause-and-effect webs in storytelling.",
+    "Configure when character development and inter-character relationships need explicit structural modeling.",
+    "Apply when diagnosing and repairing structural inconsistencies at a symbolic level before textual realization.",
+    "Implement when moving beyond sequential text planning to dynamic graph generation and refinement."
+  ],
+  "tags": [
+    "narrative-generation",
+    "graph-reasoning",
+    "llm-agents",
+    "structural-planning"
+  ],
+  "priority": 10,
+  "content": "Although LLMs demonstrate remarkable proficiency in storytelling, long-form complex narrative generation remains challenging. It requires not only linguistic fluency but also the construction of a logically grounded narrative structure (Mirowski et al., 2023; Chen et al., 2024; Guo et al., 2023). To realize coordinated planning for long-form narratives, recent work has introduced iterative hierarchical planning (Yang et al., 2022, 2023; Xie et al., 2026) or role-playing strategies (Chen et al., 2024; Han et al., 2024) via LLM agents.\n\nHowever, these methods still struggle to maintain global narrative coherence, contextual logical consistency, and smooth character development, often producing monotonous scripts with structural fractures such as insufficient character motivation and a lack of necessary twists (Marco et al., 2024; Spangher et al., 2024; Wang et al., 2025b). We argue the primary reason is that narrative planning directly on text representations is inefficient. Without explicit modeling of plot dependencies, such systems cannot effectively reason about the underlying cause-and-effect web or the evolving relationships among characters and events, ultimately limiting their ability to produce rigorous narrative structures (Sun et al., 2023; Zhang et al., 2024).\n\nTo address this issue, we introduce PLOTTER, which stands for PLanning BeyOnd Text: Graph-based Reasoning for Complex NarraTive GenERation. Unlike prior methods that plan on text directly, we plan narratives on graph structures, transforming script generation from a sequence planning problem into a dynamic graph generation and refinement problem. By applying the Evaluate-Plan-Revise cycle onto the narrative topology, PLOTTER enables the model to diagnose and repair structural inconsistencies at the causal level before textual realization.\n\nWe represent narrative dynamics through two interacting structures: an Event Graph, capturing the causal structure and skeleton of the plot, and a Character Graph, modeling inter-character relationships. This design draws inspiration from classic narratological theories regarding action logic (Barthes and Miller, 1970) and character networks (Moretti, 2011). Consequently, the challenge of script writing is decomposed into atomic graph-editing operations—adding, deleting, or re-linking nodes and edges—to resolve causal gaps and character inconsistencies.\n\nTo enforce structural integrity, we deploy a graph-grounded refinement cycle with a multi-agent critique module to audit symbolic structures rather than raw text. These agents identify weaknesses—such as disconnected causal paths—and formulate revision strategies. A Constrained Graph Editor then executes atomic operations to repair the narratives.\n\nWe evaluate our framework across diverse narrative scenarios using multiple mainstream LLM backbones. Results show that our graph-based narrative reasoning approach significantly outperforms existing methods.\n\nOur main contributions are as follows:\n\n•\n\nWe propose PLOTTER, the first framework to perform narrative planning on structural graph representations rather than the direct sequential text, enhancing long context causal reasoning in complex narrative generation.\n\n•\n\nWe construct an LLM agent system for the iterative structural refinement of event and character graphs. By coordinating specialized agents to execute the Evaluate-Plan-Revise cycle on the graph topology, we achieve precise structural diagnosis and repairs that are inaccessible to text-based narrative planners.\n\n•\n\nExperiments show that PLOTTER significantly outperforms strong existing methods, verifying that elevating narrative planning from direct text representations to explicit graph representations is crucial for enhancing long-range reasoning in complex narratives.\n\n- A.7 Cross-Genre Generalization\n\nThe landscape of automated narrative generation has evolved from sequence-to-sequence generation to LLM-based planning. We categorize existing literature into two streams: outline-based and role-play based narrative planning.",
+  "token_estimate": 719
+}

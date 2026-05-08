@@ -1,0 +1,33 @@
+{
+  "title": "5. Relationships",
+  "path": "guides-character-profile-template-5-relationships",
+  "url": "https://hearth.sh/guides/character-profile-template",
+  "keywords": [
+    "relationship dynamics",
+    "social archetypes",
+    "conflict expression",
+    "love languages",
+    "character motivations",
+    "mentor-mentee",
+    "group hierarchy",
+    "interpersonal traits",
+    "crisis management",
+    "character development"
+  ],
+  "use_cases": [
+    "Use when establishing interpersonal connections between characters",
+    "Configure when defining character behavior in high-stress social situations",
+    "Implement when outlining a character's social circle and support system",
+    "Use when determining character reactions to love and anger",
+    "Configure when balancing group dynamics and leadership roles"
+  ],
+  "tags": [
+    "character-creation",
+    "narrative-design",
+    "social-mechanics",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "01\n\nClosest friend (and why)\n\n02\n\nRomantic partner or past relationships\n\n03\n\nA person they hate or fear\n\n04\n\nA mentor or role model\n\n05\n\nHow do they make new friends?\n\n06\n\nAre they a leader or a follower in groups?\n\n07\n\nHow do they show love? (Words, actions, gifts, time?)\n\n08\n\nHow do they show anger?\n\n09\n\nWhat kind of friend are they — loyal, fun, advice-giver?\n\n10\n\nWho would they call at 3am in a crisis?",
+  "token_estimate": 103
+}

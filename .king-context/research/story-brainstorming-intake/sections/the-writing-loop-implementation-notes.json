@@ -1,0 +1,34 @@
+{
+  "title": "Implementation notes",
+  "path": "the-writing-loop-implementation-notes",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "Convex",
+    "Inngest",
+    "Vercel Workflow",
+    "revalidateTag",
+    "Durable pipeline",
+    "Constraint files",
+    "ISR",
+    "SSR framework",
+    "LLM instruction-following",
+    "Supabase realtime",
+    "MDX"
+  ],
+  "use_cases": [
+    "Configure when selecting a technology stack for content storage and durable processing",
+    "Implement when setting up real-time feedback status updates using websockets or subscriptions",
+    "Use when architecting a multi-step pipeline for LLM content generation",
+    "Configure when implementing cache revalidation strategies across different CDN providers",
+    "Use when designing rendering layers with MDX and Incremental Static Regeneration"
+  ],
+  "tags": [
+    "Architecture",
+    "System Design",
+    "Deployment",
+    "Performance"
+  ],
+  "priority": 9,
+  "content": "Use whatever tools match your stack. The architecture is:\n\n| Concern | Options |\n| --- | --- |\n| Content store | Convex, Supabase, PlanetScale, Turso, Postgres |\n| Durable pipeline | Inngest, Vercel Workflow, Temporal, AWS Step Functions, Trigger.dev |\n| Rendering | Next.js + MDX, Astro, Remix, any SSR framework with ISR |\n| Real-time feedback status | Convex subscriptions, Supabase realtime, websockets |\n| Cache revalidation | Next.js`revalidateTag`, Cloudflare purge API, Fastly surrogate keys |\n| LLM | Any instruction-following model via any provider |\n\nThe constraint files are plain markdown. The feedback table is five columns. The pipeline is eight steps.",
+  "token_estimate": 140
+}

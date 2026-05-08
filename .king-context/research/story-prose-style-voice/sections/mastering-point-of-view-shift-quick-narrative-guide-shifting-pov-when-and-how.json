@@ -1,0 +1,33 @@
+{
+  "title": "Shifting POV: When and How",
+  "path": "mastering-point-of-view-shift-quick-narrative-guide-shifting-pov-when-and-how",
+  "url": "https://literarydevices.net/mastering-point-of-view-shift-quick-narrative-guide/",
+  "keywords": [
+    "Scene‑Based Shift",
+    "Character‑Driven Shift",
+    "Temporal Shift",
+    "First‑person narrator",
+    "Third‑person limited",
+    "Narrative cues",
+    "Voice consistency",
+    "POV orientation",
+    "Narrative flow",
+    "Antagonist POV"
+  ],
+  "use_cases": [
+    "Use when revealing hidden character motives to create suspense",
+    "Implement when the narrative scope requires multiple perspectives across different scenes",
+    "Configure when transitioning between different time periods or states of character growth",
+    "Use when switching to a central character's viewpoint during a narrative climax",
+    "Implement when distinct stylistic voices are needed to differentiate narrators"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-structure",
+    "character-development",
+    "storytelling-methods"
+  ],
+  "priority": 8,
+  "content": "Narrative Purpose\n\n- Reveal hidden motives, create suspense, or broaden scope.\n\nTiming\n\n- Early (setup), mid (conflict), late (resolution).\n\nMethodologies\n\n1. Scene‑Based Shift – Each scene uses a different POV. Example: In a mystery novel, the opening scene is first‑person from the detective; the next scene switches to third‑person limited of the suspect.\n2. Character‑Driven Shift – Switch to another character’s viewpoint when their story becomes central. Example: A thriller starts with the protagonist’s POV, then moves to the antagonist’s POV during the climax.\n3. Temporal Shift – Use past/future perspectives to show growth or hindsight. Example: A memoir narrates a pivotal event in present tense, then revisits it years later in past tense for reflection.\n\n- Maintain distinct voice per POV; avoid blending styles. Example: The first‑person narrator uses colloquial slang, while the third‑person limited narrator adopts a more formal tone.\n\nChapter breaks, headings, or explicit narrator cues (“From the perspective of…”) help readers orient. Example: “\n\n- ” signals a new POV.\n\nAvoid Confusion\n\n- Keep pronouns and tense consistent within each POV block. Example: In a first‑person scene, use “I” consistently; in a third‑person limited scene, use “he/she.”\n\nMaintain Narrative Flow\n\n- Ensure shifts don’t interrupt pacing; use natural narrative beats. Example: Transition after a cliffhanger or at the end of a paragraph.",
+  "token_estimate": 287
+}

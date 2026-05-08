@@ -1,0 +1,32 @@
+{
+  "title": "Related Books",
+  "path": "qa-question-great-writers-cinematic-style-related-books",
+  "url": "https://www.novelflow.app/qa/question/great-writers-cinematic-style",
+  "keywords": [
+    "Related Books section",
+    "novelflow.app",
+    "x-oss-process",
+    "image resizing",
+    "webp format",
+    "view count metric",
+    "book cover metadata",
+    "Alpha Darrell",
+    "Luna",
+    "Sable"
+  ],
+  "use_cases": [
+    "Use when displaying recommendations based on current content proximity",
+    "Configure when implementing CDN-based dynamic image transformations",
+    "Implement when tracking reader engagement through view count icons",
+    "Use when providing content previews for romance or werewolf genre fiction"
+  ],
+  "tags": [
+    "content-delivery",
+    "media-optimization",
+    "user-interface",
+    "recommendation-engine"
+  ],
+  "priority": 4,
+  "content": "![From Substitute To Queen](https://cover-v1.novelflow.app/prod/img/cover/ceeadaf4ab574bccbb90696afd972ac6.jpg?x-oss-process=image/resize,m_lfit,w_113,h_151/quality,q_80/format,webp)\n\nFor three years, Sable loved Alpha Darrell with everything she had, spending her salary to support their household while being called an orphan and gold-digger. But just as Darrell was about to mark her as his Luna, his ex-girlfriend returned, texting: \"I'm not wearing underwear. My plane lands soon—pick me up and fuck me immediately.\" Heartbroken, Sable discovered Darrell having sex with his ex ...\n\n![count-icon](https://www.novelflow.app/phone/view-1.png)\n\n481.1K Views\n\n![The Shadow Of A Luna](https://cover-v1.novelflow.app/prod/img/cover/658bec642d244de99961d049d3c06e68.jpg?x-oss-process=image/resize,m_lfit,w_113,h_151/quality,q_80/format,webp)",
+  "token_estimate": 102
+}

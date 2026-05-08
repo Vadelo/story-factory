@@ -1,0 +1,32 @@
+{
+  "title": "Your work, your rights",
+  "path": "your-work-your-rights",
+  "url": "https://www.mythril.io/",
+  "keywords": [
+    "intellectual property",
+    "copyright ownership",
+    "work for hire",
+    "open source contribution",
+    "moral rights",
+    "licensing agreement",
+    "employment contract",
+    "proprietary rights",
+    "public domain",
+    "derivative works"
+  ],
+  "use_cases": [
+    "Use when determining the legal owner of newly created software assets",
+    "Configure when drafting employment agreements regarding intellectual property",
+    "Implement when assigning copyright for open source project contributions",
+    "Use when auditing company assets for copyright compliance"
+  ],
+  "tags": [
+    "legal",
+    "compliance",
+    "intellectual-property",
+    "contribution-guidelines"
+  ],
+  "priority": 8,
+  "content": "",
+  "token_estimate": 0
+}

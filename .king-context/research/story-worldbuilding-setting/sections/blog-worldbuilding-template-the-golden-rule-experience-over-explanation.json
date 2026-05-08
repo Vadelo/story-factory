@@ -1,0 +1,32 @@
+{
+  "title": "The Golden Rule: Experience Over Explanation",
+  "path": "blog-worldbuilding-template-the-golden-rule-experience-over-explanation",
+  "url": "https://proseengine.app/blog/worldbuilding-template",
+  "keywords": [
+    "character action",
+    "dialogue",
+    "sensory detail",
+    "conflict",
+    "world rules",
+    "caste system",
+    "magic system",
+    "political history",
+    "worldbuilding"
+  ],
+  "use_cases": [
+    "Use when you want to reveal cultural norms through a character's actions",
+    "Implement when illustrating the cost of magic via narrative events",
+    "Configure when portraying political divisions through dialogue exchange",
+    "Apply when showing environmental texture through sensory descriptions",
+    "Employ when demonstrating world restrictions through conflict scenarios"
+  ],
+  "tags": [
+    "writing",
+    "worldbuilding",
+    "narrative",
+    "storytelling"
+  ],
+  "priority": 8,
+  "content": "Instead of explaining the caste system, show your character being refused service at a restaurant. Instead of describing the magic system, show a character paying the price for a spell. Instead of narrating the political history, let two characters argue about it from opposing sides.\n\nEvery piece of world information should reach the reader through one of these channels:\n\n1. Character action: What people do reveals how the world works\n2. Dialogue: What people argue about reveals what matters in this world\n3. Sensory detail: What a character sees, smells, tastes, and hears reveals the texture of the world\n4. Conflict: When the world's rules create problems for your character, the reader learns those rules naturally\n\n![A city skyline — even modern worlds need careful building](https://proseengine.app/blog/images/world-3.jpg)\n\nPhoto credit: Flickr (free commercial license)",
+  "token_estimate": 175
+}

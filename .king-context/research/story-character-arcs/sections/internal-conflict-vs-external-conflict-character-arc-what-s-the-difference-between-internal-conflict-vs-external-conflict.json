@@ -1,0 +1,35 @@
+{
+  "title": "What’s the Difference Between Internal Conflict vs. External Conflict?",
+  "path": "internal-conflict-vs-external-conflict-character-arc-what-s-the-difference-between-internal-conflict-vs-external-conflict",
+  "url": "https://www.helpingwritersbecomeauthors.com/internal-conflict-vs-external-conflict-character-arc/",
+  "keywords": [
+    "External conflict",
+    "Internal conflict",
+    "Character arc",
+    "Protagonist's concrete goal",
+    "The Lie the Character Believes",
+    "The Thing the Character Needs",
+    "Antagonist",
+    "Thematic Truth",
+    "Moral struggles",
+    "Story structure",
+    "Narrative causality",
+    "Plot versus character"
+  ],
+  "use_cases": [
+    "Use when designing a narrative structure that braids external plot events with internal character growth",
+    "Implement when defining a protagonist's core motivations through the tension between their 'Want' and 'Need'",
+    "Configure when balancing genre-specific requirements for action-heavy versus character-driven storytelling",
+    "Use when troubleshooting a plot that lacks emotional weight or contextual meaning",
+    "Configure when creating obstacles that force a character to confront their internal misconceptions"
+  ],
+  "tags": [
+    "Narrative Theory",
+    "Character Development",
+    "Plot Construction",
+    "Storytelling Fundamentals"
+  ],
+  "priority": 10,
+  "content": "External conflict and internal conflict function as interdependent layers of story. The outer struggle creates the visible plot events; the inner struggle creates contextual meaning for why the plot matters.\n\n- External conflict arises from the intersection of the protagonist’s concrete goal and the obstacles (often created by an antagonist) that stand in the way.\n- Internal conflict arises from the character’s competing desires, misconceptions, or emotional needs, which are often framed as the tension between what the Thing the Character Wants(which is based on the limited perspective of the Lie the Character Believes) and the Thing the Character Needs (in order to grow into harmony with the story’s greater thematic Truth).\n\nResonant stories braid these together so that the external conflict pressures characters into confronting their inner conflict, while the resolution of the inner conflict allows for a satisfactory resolution of the outer conflict (morally, practically, or both).\n\nDepending on genre, stories may place greater or lesser emphasis on external conflict vs. internal conflict. What’s important to realize is that, first, most stories require both to some degree. There should not be a question of “ plot vs. character” in the sense that one is more important than the other. Both are required to create a forward-moving narrative.\n\nGenerally, we might think of plot as “proving” a character’s arc. Plot dramatizes the consequences of the character’s internal moral struggles. It proves how functional the character’s internal belief systems and virtuous capacities are by demonstrating their causality in the external world.\n\nAn action-heavy story can demonstrate a character’s inner conflict without ever directly referencing it, simply by showing us how well the character’s actions (resulting implicitly from the character’s choices, which result implicitly from the character’s internal perspective and capacity) are operating in the external conflict.\n\nEven the most plot-heavy stories can still function as resonant and penetrating external metaphors of a character’s inner struggles. Likewise, even the most plot-light stories still generally require at least the trappings of some external action—which, in turn, offer causal proof and consequences for the character’s internal ponderings.",
+  "token_estimate": 457
+}

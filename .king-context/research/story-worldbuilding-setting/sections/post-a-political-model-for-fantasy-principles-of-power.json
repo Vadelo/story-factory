@@ -1,0 +1,35 @@
+{
+  "title": "Principles of Power:",
+  "path": "post-a-political-model-for-fantasy-principles-of-power",
+  "url": "https://www.mariemullany.com/post/a-political-model-for-fantasy",
+  "keywords": [
+    "Principle of Equality",
+    "Principle of Interaction",
+    "Principle of Power-Movement",
+    "Principle of Power-Split",
+    "Individual Power Unit",
+    "Committed Power Units",
+    "committed power",
+    "latent power",
+    "Stripping power",
+    "Hannah Arendt",
+    "Action in Concert",
+    "identity"
+  ],
+  "use_cases": [
+    "Use when designing governance models that require equal authority distribution among members",
+    "Implement when building systems that need to enforce that power is only active in interactions between multiple parties",
+    "Configure when allocating power units to roles or identities within an organization",
+    "Use when modeling scenarios where power can be transferred or stripped, reflecting real-world authority dynamics",
+    "Apply when quantifying committed power towards collective projects or leadership structures"
+  ],
+  "tags": [
+    "social-science",
+    "political-philosophy",
+    "authority-structures",
+    "theoretical-framework"
+  ],
+  "priority": 8,
+  "content": "The Principle of Equality: Every human within a polity possesses exactly one unit.\n\nThe Principle of Interaction: Building on Hannah Arendt, specifically with regard to Action in Concert, this power is latent in a vacuum; it only becomes active (and therefore usable) when it exists between two or more people.\n\nThe Principle of Power-Movement: Power can be given from one person to another, or from a person into an identity. A person can also be forced to yield their power, they still make the choice to yield their power, but the other options open to them seems untenable, creating a perceived “no choice” situation. This is also called \"stripping power\" as discussed later in the blog.\n\nThe Principle of Power-Split: Power can be split between people and identities, however, that results in fractions of power being given to each identity. We refer to this as the \"committed power\" of the individual, i.e. how much of their power they're willing to commit to a given identity or person.\n\nIndividual Power Unit (p): The power each individual holds when they interact with others.\n\nCommitted Power Units (cps): The power individuals have committed to an organization or identity or the leadership of another person.",
+  "token_estimate": 267
+}

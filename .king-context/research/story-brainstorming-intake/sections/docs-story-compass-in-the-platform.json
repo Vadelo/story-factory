@@ -1,0 +1,36 @@
+{
+  "title": "In The Platform ​",
+  "path": "docs-story-compass-in-the-platform",
+  "url": "https://dramatica.com/docs/story-compass",
+  "keywords": [
+    "Story Decoder",
+    "Throughline Perspectives",
+    "First Look",
+    "Subtxt",
+    "Narrova",
+    "Storyform Builder",
+    "Dramatica theory",
+    "Main Character Perspective",
+    "Influence Character Perspective",
+    "Objective Story Throughline",
+    "Relationship Story Throughline",
+    "Inequity"
+  ],
+  "use_cases": [
+    "Use when generating a structural read from a one-sentence logline",
+    "Use when validating if a story idea contains four functional Throughline Perspectives",
+    "Use when transitioning from initial discovery to specific workspaces like Narrova or Subtxt",
+    "Configure when central conflict feels unbalanced by revising specific idea notes to refine Throughline splits",
+    "Implement when designing the internal struggle and personal vulnerability of a protagonist",
+    "Implement when building the 'we' perspective to track dynamic systems of trust and resentment between characters"
+  ],
+  "tags": [
+    "narrative-design",
+    "product-workflow",
+    "story-structure",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "1. `Story Decoder` Action: Select a Genre and enter a one- to three-sentence logline, story idea, or a few idea variants. Outcome: Story Decoder generates a first structural read. Validation: You see all four Throughline Perspectives plus audience dynamics in the result panel.\n2. `First Look` Action: Read the Throughline summaries first, then read Character Evolution and Story Ending. Outcome: You understand what conflict each Perspective carries and what emotional resolution the audience is being guided toward. Validation: You can explain each Throughline in one sentence without re-reading your input.\n3. `Open in Subtxt` Action: Choose`Open in Subtxt`,`Open in Narrova`, or`Open in Storyform Builder`. Outcome: You choose the right next workspace for your process: Subtxt to get right to Storyform development, Narrova to explore the story further, or Storyform Builder if you are fluent in Dramatica theory and want to inspect thematic structure immediately. Validation: The selected workspace opens with the same structural baseline from Story Decoder so you can continue without re-entering setup.\n\nTIP\n\nIf the result feels close but not right, revise only the sentence (or idea note) that states the central conflict and run Story Decoder again. Small wording changes often reveal a cleaner Throughline split.\n\nIMPORTANT\n\nStory Decoder is a discovery layer, not final proof. Treat results as a strong first model, then validate in full Storyform development before committing to major draft decisions.\n\nEach Throughline is a different lens on the same inequity. You need all four for a complete argument.\n\nThis is the`they` perspective: the external conflict everyone is caught inside. It defines the shared problem space, pressures, and stakes at the societal, institutional, or situational level.\n\nWriting use: Use this Throughline to design plot pressure and group-level consequences.\n\nThis is the`I` perspective: the personal, first-person experience of pressure. It tracks the Main Character's internal justification, pain, fear, and coping posture.\n\nWriting use: Use this Throughline to shape internal struggle, decision tension, and personal vulnerability.\n\nThis is the`you` perspective: the challenger to the Main Character's current way of seeing or being. The Influence Character does not need to be a mentor; they need to pressure change.\n\nWriting use: Use this Throughline to create scenes that force worldview friction, not just external obstacle.\n\nThis is the`we` perspective: the conflict inside the bond between Main Character and Influence Character. It tracks trust, alignment, resentment, attraction, dependence, or rupture as a dynamic system.\n\nWriting use: Use this Throughline to write the emotional engine of the story, independent of plot mechanics.",
+  "token_estimate": 549
+}

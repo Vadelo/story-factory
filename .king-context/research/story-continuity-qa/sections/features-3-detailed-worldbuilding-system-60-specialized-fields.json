@@ -1,0 +1,33 @@
+{
+  "title": "3. Detailed Worldbuilding System (60+ Specialized Fields)",
+  "path": "features-3-detailed-worldbuilding-system-60-specialized-fields",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "PlotForge",
+    "world bibles",
+    "specialized fields",
+    "cross-reference",
+    "element types",
+    "magic systems",
+    "field counter badges",
+    "category filtering",
+    "series bibles",
+    "collapsible sections"
+  ],
+  "use_cases": [
+    "Use when developing detailed fantasy or sci-fi world bibles with interconnected lore",
+    "Implement when organizing climate, government, and economy data for fictional locations",
+    "Configure when defining formal rules, limitations, and sources for magic systems",
+    "Use when documenting cultural traditions, taboos, and religions for worldbuilding consistency",
+    "Use when tracking historical eras, key figures, and the cultural impact of past events"
+  ],
+  "tags": [
+    "worldbuilding",
+    "content-organization",
+    "character-development",
+    "serialization"
+  ],
+  "priority": 9,
+  "content": "Create comprehensive world bibles with type-specific fields for every element.\n\nGo beyond simple descriptions. PlotForge provides 60+ specialized fields across 6 worldbuilding categories. Create locations with climate and government, factions with leaders and goals, magic systems with rules and limitations—everything organized and interconnected.\n\n#### 6 Element Types with Specialized Fields\n\n- Locations (10 fields): Climate, population, government, economy, geography, landmarks, atmosphere, dangers, resources\n- Factions (12 fields): Leader, goals, methods, allies, enemies, territory, structure, beliefs, reputation\n- Magic Systems (11 fields): Source, rules, limitations, users, visual effects, learning method, rarity, cultural significance\n- History (8 fields): Date/era, key figures, causes, events, consequences, cultural impact\n- Culture (10 fields): Language, religion, customs, traditions, taboos, art, clothing, food, social structure\n- Technology (10 fields): Function, inventor, rarity, power source, limitations, appearance, military use\n\n#### Organization Features\n\n- Collapsible detailed sections keep UI clean\n- Field counter badges show completion status\n- Category filtering for quick navigation\n- Cross-reference with scenes and characters\n- Export complete world bibles\n\n#### Writer Benefits\n\n- Create immersive, consistent worlds\n- Never forget important worldbuilding details\n- Perfect for fantasy, sci-fi, and historical fiction\n- Build series bibles that span multiple books\n- Share worldbuilding docs with co-authors or editors\n\n🆕 NEW FEATURE",
+  "token_estimate": 273
+}

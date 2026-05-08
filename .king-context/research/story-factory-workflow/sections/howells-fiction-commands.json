@@ -1,0 +1,37 @@
+{
+  "title": "Commands",
+  "path": "howells-fiction-commands",
+  "url": "https://github.com/howells/fiction",
+  "keywords": [
+    "/fiction:go",
+    "/fiction:plan",
+    "/fiction:outline",
+    "/fiction:review",
+    "/fiction:critique",
+    "/fiction:build",
+    "/fiction:reconcile",
+    "## ⚓ Anchored",
+    "EPUB",
+    "Scene Economy",
+    "narrative architecture",
+    "context loading"
+  ],
+  "use_cases": [
+    "Use when starting a new creative writing project to establish foundational story architecture",
+    "Implement when iterative feedback is needed on individual chapters regarding craft and tone",
+    "Configure when specific plot points or world rules must remain non-negotiable for AI agents using the Anchored tag",
+    "Use when preparing a manuscript for professional submission including synopsis generation and EPUB building",
+    "Implement when performing line-level editing to eliminate word echoes and grammar issues",
+    "Configure when seeking a high-level editorial review modeled after prestigious literary styles"
+  ],
+  "tags": [
+    "creative-writing",
+    "workflow-automation",
+    "plugin-commands",
+    "manuscript-management",
+    "ai-editing"
+  ],
+  "priority": 10,
+  "content": "| Command | What It Does |\n| --- | --- |\n| `/fiction:go` | Resume a project (load context + suggest what to do next) |\n| `/fiction:new` | Start a new fiction project from scratch |\n| `/fiction:plan` | Design story architecture (premise, theme, ending) |\n| `/fiction:outline` | Create chapter and scene breakdown |\n| `/fiction:character` | Develop a character document |\n| `/fiction:review` | Review current chapter |\n| `/fiction:critique` | Full manuscript review (NYT/New Yorker style) |\n| `/fiction:synopsis` | Generate synopsis (short/medium/long) |\n| `/fiction:edit` | Line-level editing (spelling, grammar, word echoes) |\n| `/fiction:naming` | Generate and validate book title options |\n| `/fiction:cover` | Generate cover art prompts for image generation |\n| `/fiction:build` | Build EPUB from your manuscript |\n| `/fiction:reconcile` | Update project to current plugin conventions |\n| `/fiction:next` | Get suggestion for what to work on next |\n\n```\n/my-novel\n├── README.md           # Overview, status, key decisions\n├── progress.md         # Session tracking, continuity state\n├── themes.md           # Central question, thematic content\n├── characters/         # Character documents\n├── world/              # Setting documents\n├── craft/              # Tone guide\n├── chapters/           # Chapter files\n├── critiques/          # Saved critiques\n├── synopses/           # Saved synopses\n├── builds/             # EPUB builds\n└── covers/             # Cover art iterations\n```\n\nFiction writing isn't linear—it's iterative. Here's how to use the plugin effectively:\n\nStart with `/fiction:new` for a guided project setup, or build manually:\n\n```bash\n/fiction:plan          # Define premise, theme, ending, tone\n/fiction:character     # Develop protagonist and key characters\n/fiction:outline       # Break into chapters with scene beats\n```\n\n**Don't skip this.** A weak foundation creates problems that compound with every chapter. Know your ending before you start writing.\n\nWrite chapters one at a time. After each chapter:\n\n```bash\n\"Write chapter 3\"      # Write the chapter\n/fiction:review        # Get craft-focused feedback\n# Revise based on feedback\n/fiction:review        # Review again if needed\n```\n\nThe review → revise → review loop is where the real work happens. Don't move on until a chapter is solid.\n\nOnce all chapters are drafted:\n\n```bash\n/fiction:edit          # Line-level editing (all chapters)\n/fiction:review        # Re-review after edits\n```\n\nThe editor catches spelling, grammar, word echoes, and awkward phrasing. Review again afterward—editing can introduce new issues.\n\nWhen the full draft is complete:\n\n```bash\n/fiction:critique      # Full manuscript critique (NYT/New Yorker style)\n```\n\nThis is a comprehensive review of the entire work: structure, character arcs, themes, pacing, prose quality. Use it to identify what needs revision before calling the manuscript done.\n\nWhen the manuscript is final:\n\n```bash\n/fiction:synopsis      # Generate query letter synopses\n/fiction:naming        # Find the right title\n/fiction:cover         # Generate cover art prompts\n/fiction:build         # Export to EPUB\n```\n\n```\n/fiction:new or /fiction:plan\n         ↓\n    Foundation work (characters, outline)\n         ↓\n┌──→ Write chapter\n│        ↓\n│    /fiction:review\n│        ↓\n└─── Revise (loop until solid)\n         ↓\n    /fiction:edit (all chapters)\n         ↓\n    /fiction:critique (full manuscript)\n         ↓\n    Publishing prep (synopsis, naming, cover, build)\n```\n\n```bash\n/fiction:go            # Load project and get recommendation for what to do next\n```\n\nThe plugin enforces these craft principles:\n\n1. **Story = Character + Change** — Plot is what happens; story is what it means\n2. **Scene Economy** — Every scene must do at least two things\n3. **Specificity Creates Universality** — Concrete details create resonance\n4. **Earned Moments** — Plant before harvest\n5. **Trust the Reader** — Show, don't tell. Imply, don't explain\n6. **Write for the Ear** — Modern books become audiobooks\n\nMark immutable decisions with `## ⚓ Anchored` in any document. Review agents treat these as non-negotiable.\n\n```markdown\n## ⚓ Anchored\n\n- The protagonist never learns the truth about her father\n- The ending is ambiguous\n- No magic system explanations; it stays mysterious\n```",
+  "token_estimate": 819
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Motorboat Example",
+  "path": "2017-02-the-structure-of-character.html-motorboat-example",
+  "url": "https://blog.karenwoodward.org/2017/02/the-structure-of-character.html",
+  "keywords": [
+    "character development",
+    "motivation",
+    "goals",
+    "internal desires",
+    "external desires",
+    "character flaw",
+    "wound",
+    "psychological flaw",
+    "physical imperfection",
+    "narrative structure"
+  ],
+  "use_cases": [
+    "Use when defining structural motivations for characters in a story",
+    "Implement when distinguishing between internal desires and external goals",
+    "Configure when establishing a character's physical or psychological flaws to increase narrative tension",
+    "Use when visualizing the relationship between threats, goals, and driving forces"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "character-theory"
+  ],
+  "priority": 8,
+  "content": "To make things easier, I’m going to refer to the following diagram in what follows:\n\n![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6a2Z5mlPnd4V4AgateSmQ0mw9AF8V5JQT18mNgKzy-yfev6DTE1pANQmm9IoH4ZwT3ksRz8SBxNyIXO7UJzdHRmBpPs_HMh5MAYrtc9-sOr2xJwhd6fVzFB8mtQNH8Hg1Go4e3I_TwY90/s400/shark-rowboat-island.jpg)\n\nIn this figure you see three things: - A shark - A man driving a motorboat - An island When we talk about character, the following terms are often used: - Motivation - Goals - Desires (internal & external) - Flaw - Wound I want to try and explain what I mean by each of these terms with reference to the above diagram. MOTIVATION: The shark is the man’s motivation for heading to the island. DESIRE: The man’s desire sets his goal. We can’t actually see the man’s desire. In this case it’s something like, “Stay alive!” GOAL: The island is the man’s goal. If the man reaches the island he’ll be safe from the shark. FLAW/WOUND: Flaws come in many different varieties. The character can have a physical imperfection: a sprained leg, a scar, a physical wound, and so on. The character can also have a psychological flaw. He could be depressed or his anxiety levels could be so high he can’t think straight. Or perhaps he’s lost someone he loves. In terms of the motorboat example, if the man had a broken arm it would be more difficult to steer the boat toward the island.",
+  "token_estimate": 283
+}

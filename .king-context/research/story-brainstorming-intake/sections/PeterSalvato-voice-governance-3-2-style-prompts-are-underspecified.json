@@ -1,0 +1,31 @@
+{
+  "title": "3.2 Style Prompts Are Underspecified",
+  "path": "PeterSalvato-voice-governance-3-2-style-prompts-are-underspecified",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "Style Prompts",
+    "Underspecified Instructions",
+    "Model Interpretation",
+    "Practitioner Tone",
+    "Mechanical Parallelism",
+    "AI-generated text patterns",
+    "Qualifiers",
+    "Instructional Clarity",
+    "Tone Adjustment",
+    "Operational Meaning"
+  ],
+  "use_cases": [
+    "Use when diagnosing why model output feels artificial or robotic despite style instructions",
+    "Implement when developing prompt engineering guidelines for professional personas",
+    "Configure when refining editorial standards for AI-generated content",
+    "Use when moving beyond generic descriptors to structural constraints in prompting"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "best-practices",
+    "content-strategy"
+  ],
+  "priority": 8,
+  "content": "\"Write like a practitioner\" is not actionable for a model. The model interprets it as a tone adjustment: slightly more direct, slightly less formal. The underlying structure remains the same. The model does not know what \"practitioner authority\" means operationally. It does not know that a practitioner leads with what happened before explaining why it matters. It does not know that a practitioner never opens with an abstract concept. It does not know that mechanical parallelism (three consecutive sections with the same skeleton) is a signature of AI-generated text that no human writer produces at that density.\n\n\"Write with authority\" translates, for the model, to shorter sentences and fewer qualifiers. The authority is performed rather than demonstrated. The result sounds like a model trying to sound authoritative, which is a recognizable pattern.",
+  "token_estimate": 175
+}

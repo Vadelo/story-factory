@@ -1,0 +1,32 @@
+{
+  "title": "3.2 Supervised Fine-Tuning (SFT)",
+  "path": "html-2402.03483v1-3-2-supervised-fine-tuning-sft",
+  "url": "https://arxiv.org/html/2402.03483v1",
+  "keywords": [
+    "Supervised Fine-Tuning (SFT)",
+    "shifted sparse attention (S2-Attn)",
+    "LongLoRA",
+    "Llama-2-7B",
+    "maximum likelihood objective",
+    "LoRA",
+    "low rank adaptation",
+    "action discrimination",
+    "long-context fine-tuning",
+    "preference dataset"
+  ],
+  "use_cases": [
+    "Implement when fine-tuning open-source LLMs like Llama-2 for context windows exceeding their default length limits",
+    "Configure when training models on action discrimination or story generation tasks using preference data",
+    "Use when seeking to approximate full self-attention with O(n) computational efficiency via shifted group partitions",
+    "Apply when performing two-stage supervised fine-tuning to transition from general long-context generation to specific preference modeling"
+  ],
+  "tags": [
+    "fine-tuning",
+    "transformer-architecture",
+    "model-optimization",
+    "natural-language-processing"
+  ],
+  "priority": 9,
+  "content": "In the SFT phase, we follow the typical set up of starting with a pre-trained LLM and fine-tuning it with supervised learning, effectively using a maximum likelihood objective. We fine-tune the LLM on our downstream task of action discrimination on the preference dataset we curated using GPT-4 and Mixtral-8×\\times×7B.\n\nOne problem with using open source LLMs is that they are not necessarily prepared to handle long-context inputs. For example, the Llama-2-7B model has a max context length of 4096 by default. In order to alleviate this issue, we use the approach to SFT presented in LongLoRA (Chen et al., 2023). We replace the default Llama-2-7B attention with shifted sparse attention to enable computationally efficient long-context fine-tuning. The standard self-attention algorithm requires 𝒪⁢(n2)𝒪superscript𝑛2\\mathcal{O}(n^{2})caligraphic_O ( italic_n start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT ) computations, which results in high memory and time costs for long-context fine-tuning. The authors suggest that by using short attention across smaller groups of tokens, and by shifting the group partition by half group size in half attention heads, we can effectively approximate full self-attention at a much lower cost. This S2superscript𝑆2S^{2}italic_S start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT-Attn approach is easy to implement and removes any possibilities of overfitting on specific attention patterns due to the shifting mechanism (Chen et al., 2023). We set the embedding and normalization to be trainable parameters during the low rank adaptation (LoRA) training (Hu et al., 2021). This technique allows our model to better understand the best next story direction for longer stories without the need for extensive compute resources.\n\nWe conduct SFT in two stages. During the first stage, we fine-tune the AD LLM on a dataset of long stories. We train the model to take a prompt as an input and generate a long-context story. This process ensures that models like Llama-2-7B, with their shorter default context length, can accurately process longer data sequences. In the second stage, we fine-tune our new long-context AD LLM on a preference dataset with chosen and rejected actions for the next story direction. This stage helps the model better understand the downstream task for which we want to build a preference model.",
+  "token_estimate": 466
+}

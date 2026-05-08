@@ -1,0 +1,36 @@
+{
+  "title": "Build Your Premise",
+  "path": "novel-structure-build-your-premise",
+  "url": "https://www.storymastermind.com/novel-structure",
+  "keywords": [
+    "premise",
+    "elevator pitch",
+    "logline",
+    "one-sentence hook",
+    "query",
+    "characters",
+    "main story conflict",
+    "climax",
+    "stakes",
+    "universal theme",
+    "timeliness angle",
+    "what-if question"
+  ],
+  "use_cases": [
+    "Use when crafting a brief query letter to attract editors or agents.",
+    "Implement when outlining the core narrative structure of a novel.",
+    "Configure when creating a logline for marketing materials.",
+    "Apply when defining the central conflict and stakes early in the drafting process.",
+    "Use when summarizing the story for potential readers or collaborators.",
+    "Apply when testing different premise variations during the ideation phase."
+  ],
+  "tags": [
+    "writing",
+    "novel-structure",
+    "storytelling",
+    "pitch"
+  ],
+  "priority": 7,
+  "content": "Figuring out and being able to articulate your novel premise is crucial to building a novel structure from scratch. The premise is the answer to the question of, “What is your story about?” You might also have heard it called the elevator pitch or logline. It’s basically the one-sentence hook you include in your query. It generally gives a hint about:\n\nThe characters,\n\nThe main story conflict,\n\nThe climax or stakes (ideally both, as the stakes give it the “so what?” factor),\n\nThe universal theme or a timeliness angle (optional).\n\nThe premise for our purposes can also be in the form of a what-if question. For example:\n\nIn a world that pits tweens in a horrific fight to the death, one girl must not only prevail in the arena … but take down the entire system. (The Hunger Games)\n\nWhat would happen if two teens from rival families met at a party and fell in love? (Romeo and Juliet)\n\nWhat if a man obsessed with travel and status discovered that he wanted to put down roots, after all? (the book and movie Up in the Air)",
+  "token_estimate": 247
+}

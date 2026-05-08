@@ -1,0 +1,32 @@
+{
+  "title": "2. Choose Your Relationship Model",
+  "path": "how-to-balance-magic-and-technology-in-fantasy-worlds-2-choose-your-relationship-model",
+  "url": "https://zainahyousef.com/how-to-balance-magic-and-technology-in-fantasy-worlds/",
+  "keywords": [
+    "Contrast model",
+    "Fusion model",
+    "Parallel model",
+    "magic vs. technology",
+    "world-building",
+    "magic-technology relationship",
+    "The Ultimate Guide to World Building",
+    "reference table"
+  ],
+  "use_cases": [
+    "Use when depicting a setting where magic and technology are antagonistic or mutually exclusive.",
+    "Use when you want technology to be powered or enhanced by magic.",
+    "Use when portraying separate domains where magic and tech rarely interact.",
+    "Use when crafting narrative conflicts centered on tech versus spellcraft.",
+    "Use when developing factions that embody one of the relationship models."
+  ],
+  "tags": [
+    "world-building",
+    "fantasy",
+    "magic",
+    "technology",
+    "reference"
+  ],
+  "priority": 9,
+  "content": "| Model | Core Idea | Example |\n| --- | --- | --- |\n| Contrast | Magic and tech are rivals or mutually exclusive. | A low-tech kingdom fears spell-powered automatons from a neighboring empire. |\n| Fusion | Technology is literally driven by magic. | Crystals store mana; guns channel it as plasma. |\n| Parallel | They coexist but rarely touch. | Wizards maintain weather; engineers handle infrastructure. |\n\nWrite one sentence describing how your setting fits or subverts these models.\n\nIf you want more practical applications and exercises in actually creating these sorts of relationship models, then The Ultimate Guide to World Building helps to walk you through the entire idea of technology across time.",
+  "token_estimate": 159
+}

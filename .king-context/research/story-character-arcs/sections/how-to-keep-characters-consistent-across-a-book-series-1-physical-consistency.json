@@ -1,0 +1,30 @@
+{
+  "title": "1. Physical Consistency",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-1-physical-consistency",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "physical description sheet",
+    "consistency tracking",
+    "character attributes",
+    "implied description",
+    "distinguishing features",
+    "sensory details",
+    "visual continuity",
+    "character continuity"
+  ],
+  "use_cases": [
+    "Use when tracking character physical attributes across a multi-part series",
+    "Configure when creating a character bible or reference sheet for named characters",
+    "Implement when auditing a manuscript for continuity errors regarding character appearance",
+    "Use when establishing base features like eye color, height, and scars to prevent contradictions"
+  ],
+  "tags": [
+    "character development",
+    "continuity",
+    "world-building",
+    "writing-best-practices"
+  ],
+  "priority": 9,
+  "content": "The basics that readers notice immediately:\n\n- Eye color, hair color, distinguishing features\n- Height, build, age\n- Injuries, scars, disabilities\n- Style of dress, accessories\n\nCommon pitfall: Giving a character hazel eyes in book one and brown eyes in book three. It sounds trivial, but readers catch it every time.\n\nSystem: Create a physical description sheet for every named character. Include distinguishing features and what hasn't been described (so you don't accidentally contradict an implied description).",
+  "token_estimate": 102
+}

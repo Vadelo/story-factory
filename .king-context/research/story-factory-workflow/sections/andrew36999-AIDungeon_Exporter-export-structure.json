@@ -1,0 +1,32 @@
+{
+  "title": "Export Structure",
+  "path": "andrew36999-AIDungeon_Exporter-export-structure",
+  "url": "https://github.com/andrew36999/AIDungeon_Exporter",
+  "keywords": [
+    "export_stats.txt",
+    "metadata.json",
+    "Estimated Tokens",
+    "Novel Equivalents",
+    "pymongo",
+    "Chrome",
+    "Raw.txt",
+    "Readable.txt",
+    "Story_Cards",
+    "auto-retries"
+  ],
+  "use_cases": [
+    "Use when reviewing the file hierarchy and directory structure of exported AI Dungeon adventures",
+    "Configure when Chrome is installed in a custom location by updating the script path",
+    "Use when calculating total content output including word counts and token estimates",
+    "Implement when setting up environmental dependencies like pymongo for manual execution"
+  ],
+  "tags": [
+    "data-export",
+    "content-management",
+    "configuration",
+    "analytics"
+  ],
+  "priority": 8,
+  "content": "```\nExports/\n├── export_stats.txt          # Total chars, words, tokens, novels\n└── 2024/\n    └── 1_Adventure_Title/\n        ├── Main_Story/\n        │   ├── Raw.txt          # Story with action tags\n        │   └── Readable.txt     # Clean book-like format\n        ├── Context/\n        │   ├── Memory.txt        # Plot Essentials\n        │   ├── Authors_Note.txt  # Author's Note\n        │   └── Instructions.txt  # AI Instructions\n        ├── Info/\n        │   ├── metadata.json     # Full adventure metadata\n        │   └── Statistics.txt    # Chars, words, tokens, etc.\n        ├── Story_Cards/\n        │   └── 1_CardName.txt    # Individual story cards\n        └── Thumbnail/\n            └── Cover.jpg         # Adventure cover image\n```\n\nAfter export, `export_stats.txt` contains:\n\n- **Adventures Exported** - Total count\n- **Total Characters** - Combined character count\n- **Total Words** - Combined word count\n- **Estimated Tokens** - GPT-style token estimate\n- **Novel Equivalents** - Based on 70,000-100,000 words per novel\n\n- Make sure Chrome is installed in the default location\n- If Chrome is in a custom location, update the path in the script\n\n- Make sure you're logged into AI Dungeon in the Chrome window that opens\n- Wait for the page to fully load\n- The script auto-detects login - no need to press Enter\n\n- The script auto-refreshes every 90 seconds\n- If a request fails, it auto-retries up to 3 times\n- Keep Chrome open during long exports\n\nRun manually:\n\n```cmd\npip install pymongo\n```",
+  "token_estimate": 287
+}

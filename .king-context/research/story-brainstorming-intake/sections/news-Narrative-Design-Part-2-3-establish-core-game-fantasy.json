@@ -1,0 +1,30 @@
+{
+  "title": "3. Establish Core Game Fantasy",
+  "path": "news-Narrative-Design-Part-2-3-establish-core-game-fantasy",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "Core Game Fantasy",
+    "Hook",
+    "Player Role",
+    "Core Audience",
+    "Value Proposition",
+    "Game World",
+    "Cosmorons",
+    "Game Design Document",
+    "Player Motivation"
+  ],
+  "use_cases": [
+    "Use when defining the narrative foundation and player identity during pre-production",
+    "Implement when aligning game mechanics with the overarching thematic hook",
+    "Configure when identifying the target demographic and unique selling points",
+    "Use when drafting the high-level design vision for creative stakeholders"
+  ],
+  "tags": [
+    "game-design",
+    "conceptualization",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "A game creates a fantasy that your players inhabit. This needs to be defined. Some questions to consider:\n\n- What does the payer do? What is their role in the game world?\n- How does it support the core hook?\n- Who is our core audience?\n- Why would they play this? What makes it unique?\n\nThe fantasy for Cosmorons:\n\nYou are a Drudge, one of many in an expendable army of hilarious bargain-basement robots attempting to battle aliens, defy gravity, and conquer the universe on behalf of your ornery overlords.",
+  "token_estimate": 121
+}

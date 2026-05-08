@@ -1,0 +1,33 @@
+{
+  "title": "Text Format Options",
+  "path": "joeloverbeck-living-narrative-engine-text-format-options",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "textFormatOptions",
+    "enableColors",
+    "outputFormats",
+    "lineWidth",
+    "indentSize",
+    "sectionSeparator",
+    "performanceSummary",
+    "/api/traces/write",
+    "/api/traces/write-batch",
+    "dual-format tracing"
+  ],
+  "use_cases": [
+    "Configure when human-readable logs are required alongside JSON data",
+    "Implement when trace files need custom formatting like specific line widths or indentation",
+    "Use when performance monitoring requires timestamps and summaries in the output",
+    "Configure when integrating with an LLM proxy server via REST API endpoints",
+    "Implement when batching multiple trace records for high-throughput logging"
+  ],
+  "tags": [
+    "configuration",
+    "api-reference",
+    "logging",
+    "performance"
+  ],
+  "priority": 8,
+  "content": "| Option | Type | Default | Description |\n| --- | --- | --- | --- |\n| `enableColors` | boolean | `false` | ANSI color codes (forced false for files) |\n| `lineWidth` | number | `120` | Maximum line width (80-200) |\n| `indentSize` | number | `2` | Indentation spaces (0-8) |\n| `sectionSeparator` | string | `\"=\"` | Character for section headers |\n| `includeTimestamps` | boolean | `true` | Include timing information |\n| `performanceSummary` | boolean | `true` | Add performance summary |\n\nDual-format tracing has minimal performance overhead:\n\n- JSON generation: ~1-2ms per trace\n- Text generation: ~2-3ms per trace\n- File writing: ~5-10ms per file (network dependent)\n- Total overhead: <10ms additional per trace\n\nExisting configurations continue to work unchanged. To enable dual-format:\n\n1. **Add output formats**: Include `\"outputFormats\": [\"json\", \"text\"]`\n2. **Configure text options**: Add `textFormatOptions` object (optional)\n3. **Update tooling**: Modify any scripts that expect only JSON files\n\nAction tracing integrates with the LLM proxy server running on port 3001. The server provides three endpoints:\n\n#### Single Trace Writing\n\n```bash\nPOST http://localhost:3001/api/traces/write\nContent-Type: application/json\n\n{\n  \"traceData\": \"{\\\"actionId\\\":\\\"core:move\\\",\\\"timestamp\\\":\\\"2025-08-23T10:30:00Z\\\"}\",\n  \"fileName\": \"trace_move_player.json\",\n  \"outputDirectory\": \"./traces\"\n}\n```\n\n#### Batch Trace Writing\n\n```bash\nPOST http://localhost:3001/api/traces/write-batch\nContent-Type: application/json\n\n{\n  \"traces\": [\n    {\n      \"",
+  "token_estimate": 276
+}

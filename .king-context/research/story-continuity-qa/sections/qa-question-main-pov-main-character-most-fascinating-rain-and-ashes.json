@@ -1,0 +1,30 @@
+{
+  "title": "Rain and Ashes",
+  "path": "qa-question-main-pov-main-character-most-fascinating-rain-and-ashes",
+  "url": "https://www.novelflow.app/qa/question/main-pov-main-character-most-fascinating",
+  "keywords": [
+    "prosopagnosia",
+    "Omega",
+    "Crescent Moon Pack",
+    "Safia",
+    "werewolf",
+    "soulmate",
+    "Moon Goddess",
+    "orphan",
+    "rain and ashes"
+  ],
+  "use_cases": [
+    "Use when introducing the main character's physical and mental disabilities",
+    "Implement when describing the status hierarchy of the Crescent Moon Pack",
+    "Configure when establishing the backstory of the fire incident",
+    "Use when setting up the initial conflict between the protagonist and their soulmate"
+  ],
+  "tags": [
+    "character-profile",
+    "lore-backstory",
+    "supernatural-fiction"
+  ],
+  "priority": 8,
+  "content": "Rain is an orphan Omega that lives in the Crescent Moon Pack. She is not like the other werewolves, as she suffers from prosopagnosia and her wolf, Safia, can't speak. Her pack thinks that Rain is cursed by the Moon Goddess because she is the only survivor of a fire that burned the house she was in and killed her parents. When Rain turns eighteen and finds her soulmate, she thinks that she will finally be loved and have a happy ending.But Fate has a strange way to slap Rain in the fa",
+  "token_estimate": 123
+}

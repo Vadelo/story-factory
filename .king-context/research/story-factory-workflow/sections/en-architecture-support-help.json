@@ -1,0 +1,35 @@
+{
+  "title": "Support & Help",
+  "path": "en-architecture-support-help",
+  "url": "https://symban.de/en/architecture",
+  "keywords": [
+    "SYMBAN",
+    "narrative arcs",
+    "series bible",
+    "hierarchy levels",
+    "story skeleton",
+    "scene consistency",
+    "volume structure",
+    "conflict resolution hierarchy",
+    "worldbuilding parameters",
+    "narrative logbook",
+    "inventory management",
+    "character voice"
+  ],
+  "use_cases": [
+    "Use when developing long-form narratives exceeding several hundred pages that require structural integrity",
+    "Implement when character details, locations, or historical facts must remain consistent across a complex series",
+    "Configure when specific writing style instructions or world-building laws must override AI-generated content",
+    "Use when planning new chapters to visualize open plot threads and unresolved conflicts from previous scenes",
+    "Configure when setting hard limits and supreme rulesets to prevent narrative contradictions"
+  ],
+  "tags": [
+    "narrative-architecture",
+    "story-organization",
+    "ai-writing",
+    "consistency-management"
+  ],
+  "priority": 10,
+  "content": "How can we help you?\n\n# Structure that holds even at 1,000 pages.\n\nVolumes, chapters, scenes, narrative arcs — SYMBAN gives your story a skeleton that doesn't collapse under its own weight.\n\nPage 1 is easy. Page 50 gets difficult. Page 200 becomes chaotic. This is where most AI projects lose control: characters appear twice, locations contradict each other, the narrative thread is gone.\n\nThe problem isn't the AI. The problem is missing structure. An 80,000-word novel needs organization that goes beyond individual scenes — a system that knows where every scene sits in the big picture.\n\nSYMBAN doesn't treat your project as a text file, but as a structured system. Every scene knows its place in the overall story. Every chapter has access to everything that happened before. And you keep the overview at all times — even on page 500.\n\nA novel isn't a blog post. It needs hierarchy. SYMBAN organizes your project into volumes, chapters, and scenes — and knows exactly where each scene sits in the overall story. No patchwork, but a coherent whole.\n\nWhen you plan a new chapter, you don't just see a blank page. You see open plot threads, active characters, unresolved conflicts. You don't plan in a vacuum — you plan with the full knowledge of your story.\n\nYour novel naturally shifts between action, introspection, dialogue, and revelation. SYMBAN recognizes the character of a scene and adjusts tone and pacing. No monotonous 50-page blocks — a novel that breathes.\n\nLocations, factions, power dynamics, historical events — everything is captured and evolves. When you destroy a city, it doesn't reappear three chapters later. When a faction falls, the power dynamics shift throughout the entire novel.\n\nWhat happens when two pieces of information conflict? SYMBAN has a clear hierarchy: Your series bible, your concept, your instructions — they always override what the system invents. Your novel, your rules.\n\nWhen two pieces of information collide, the higher level always wins. This keeps your novel consistent — no matter how complex.\n\nClick a level for details\n\nLevel 1\n\nThe system's supreme ruleset\n\nLevel 2\n\nYour writing style as binding reference\n\nLevel 3\n\nThe law of your narrative world\n\nLevel 4\n\nHard limits that are never crossed\n\nLevel 5\n\nEvery character with their own voice and history\n\nLevel 6\n\nThe construction plan for the current volume\n\nLevel 7\n\nLogbook + Inventory — everything that happened so far\n\nLevel 8\n\nThe last lines of the previous scene\n\nLower levels may never override higher ones.\n\n\"Other tools give you a text field. SYMBAN gives you a building — with foundations that hold even at 1,000 pages.\"\n\nSign up now and start immediately with 3 free scenes. No credit card required.\n\nStart for free\n\n3 free scenes. No subscription, no commitment.",
+  "token_estimate": 613
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Trace Bloodlines with the Family Tree",
+  "path": "story-codex-trace-bloodlines-with-the-family-tree",
+  "url": "https://proseengine.app/story-codex",
+  "keywords": [
+    "typed relationships",
+    "multi-generation",
+    "radial layout",
+    "vertical layout",
+    "horizontal layout",
+    "bloodline visualization",
+    "relationship tagging",
+    "auto-built tree"
+  ],
+  "use_cases": [
+    "Use when visualizing complex multi-generational character lineages",
+    "Configure when switching between Royal, Parchment, Modern, Neon, or Forest aesthetic themes",
+    "Implement when distinguishing between varying relationship types like bastards, twins, or lovers",
+    "Use when needing to automatically organize family hierarchies from existing metadata"
+  ],
+  "tags": [
+    "visualization",
+    "character-management",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "Auto-built from typed relationships — spouse, sibling, parent, lover. The tree assembles itself across generations. Five themes, three layouts, one click to switch.\n\n![Family Tree — multi-generation tree auto-built from typed character relationships with theme and layout options](https://proseengine.app/assets/landing-codex-family-tree.png?v=1)\n\n👪\n\nAuto-built Generations\n\nTag relationships once — the tree organises every generation for you\n\n🎨\n\n5 Themes, 3 Layouts\n\nRoyal, Parchment, Modern, Neon, Forest — vertical, horizontal, or radial\n\n💕\n\nLovers, Bastards, Twins\n\nTyped kinds capture the messy, human shape of every bloodline",
+  "token_estimate": 107
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Dialect Without Stereotyping",
+  "path": "characters-sound-alike-dialect-without-stereotyping",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "dialect",
+    "phonetic spelling",
+    "regional markers",
+    "word choice",
+    "characterization",
+    "stereotyping",
+    "non-native English",
+    "transcription",
+    "dialogue flow",
+    "linguistic influence"
+  ],
+  "use_cases": [
+    "Use when drafting dialogue for characters from specific geographic regions",
+    "Implement when writing non-native English speakers to avoid offensive tropes",
+    "Configure when balancing readability with authentic character voice",
+    "Use when selecting specific regional markers to establish setting without caricature"
+  ],
+  "tags": [
+    "style-guide",
+    "inclusive-writing",
+    "creative-writing",
+    "character-design"
+  ],
+  "priority": 8,
+  "content": "Regional speech adds flavor. Overdone, it becomes caricature.\n\nDon’t write this: “Well, I reckon y’all gonna hafta come on down to the holler and fetch some vittles, ya hear?”\n\nNobody can read it. And it reduces the character to an accent.\n\nWrite this instead: “Come by the house. Mama’s cooking.”\n\nRegional flavor comes from word choice (“come by” instead of “visit,” “Mama” instead of “Mom”) not phonetic spelling.\n\nGive readers one or two regional markers and let them hear the rest. “Fixin’ to” tells us Southern without needing every dropped g transcribed.\n\nSame principle applies to non-native English speakers. One or two markers of their first language influence. Not broken English that makes them seem stupid.",
+  "token_estimate": 154
+}

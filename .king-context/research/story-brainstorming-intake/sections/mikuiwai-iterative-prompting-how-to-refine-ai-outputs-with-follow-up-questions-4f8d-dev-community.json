@@ -1,0 +1,32 @@
+{
+  "title": "DEV Community",
+  "path": "mikuiwai-iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d-dev-community",
+  "url": "https://dev.to/mikuiwai/iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d",
+  "keywords": [
+    "iterative prompting",
+    "prompt engineering",
+    "AI output refinement",
+    "follow-up questions",
+    "conversion rate optimization",
+    "marketing copy-generation",
+    "high-conversion marketing",
+    "AI content strategy",
+    "prompt-refinement",
+    "LLM feedback loops"
+  ],
+  "use_cases": [
+    "Use when basic AI outputs feel too generic or off-brand for high-stakes marketing tasks",
+    "Implement when you need to bridge the gap between initial drafts and high-converting copy",
+    "Configure when refining AI-generated headlines to improve specific conversion rates",
+    "Use when developing a feedback loop to improve the accuracy of AI marketing outputs"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "marketing-automation",
+    "artificial-intelligence",
+    "content-creation"
+  ],
+  "priority": 9,
+  "content": "Close\n![](https://assets.dev.to/assets/heart-plus-active-9ea3b22f2bc311281db911d416166c5f430636e76b15cd5df6b3b841d830eefa.svg)Add reaction\n![](https://assets.dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg)Like![](https://assets.dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg)Unicorn![](https://assets.dev.to/assets/exploding-head-daceb38d627e6ae9b730f36a1e390fca556a4289d5a41abb2c35068ad3e2c4b5.svg)Exploding Head![](https://assets.dev.to/assets/raised-hands-74b2099fd66a39f2d7eed9305ee0f4553df0eb7b4f11b01b6b1b499973048fe5.svg)Raised Hands![](https://assets.dev.to/assets/fire-f60e7a582391810302117f987b22a8ef04a2fe0df7e3258a5f49332df1cec71e.svg)Fire\nJump to CommentsSaveBoost\nMore...\nModerate\nCopy linkCopy link\nCopied to Clipboard\n[Share to X]()[Share to LinkedIn]()[Share to Facebook](https://www.facebook.com/sharer.php?u=https://dev.to/mikuiwai/iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d)[Share to Mastodon](https://toot.kytta.dev/?text=https://dev.to/mikuiwai/iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d)\n[Share Post via...](#)[Report Abuse](https://dev.to/report-abuse)\n[![miku iwai](https://media2.dev.to/dynamic/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3263514%2F782f9db4-bc52-45ab-8b17-7ac373ce3c10.jpg)](https://dev.to/mikuiwai)\n[miku iwai](https://dev.to/mikuiwai)\nPosted onJun 13&bull; Originally published at[open.substack.com](https://open.substack.com/pub/mikuiwai/p/iterative-prompting-how-to-refine?r=5trn0p&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)\n# Iterative Prompting: How to Refine AI Outputs with Follow-Up Questions\n[#iterativeprompting](https://dev.to/t/iterativeprompting)[#aimarketingcopy](https://dev.to/t/aimarketingcopy)[#highconversionmarketing](https://dev.to/t/highconversionmarketing)[#promptengineering](https://dev.to/t/promptengineering)\nYou’ve probably felt the frustration: hitting 'generate' on your AI tool and getting something…*almost*right. It’s bland, off-brand, or just plain doesn't sing. In the fast-paced world of marketing, where every word, every headline, and every call-to-action directly impacts your conversion rates, \"almost right\" simply isn't good enough. Generic AI outputs don’t build trust, they don't capture attention, and they certainly don't drive sales.\nSo, how do you bridge the gap between basic AI output and high-converting marketing gold? The answer lies in mastering a powerful technique: iterative prompting.",
+  "token_estimate": 186
+}

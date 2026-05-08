@@ -1,0 +1,32 @@
+{
+  "title": "Extending the Specification",
+  "path": "open-llm-initiative-open-message-format-extending-the-specification",
+  "url": "https://github.com/open-llm-initiative/open-message-format",
+  "keywords": [
+    "OMF extension",
+    "OpenAI roles",
+    "name parameter",
+    "Cohere chat_history",
+    "Message schema",
+    "specification customization",
+    "ContentItem reference",
+    "user role modification",
+    "multi-party chat",
+    "YAML schema"
+  ],
+  "use_cases": [
+    "Use when custom provider parameters like name or chat_history are required",
+    "Implement when extending the base OMF specification to support specific LLM feature sets",
+    "Configure when modeling interactions involving multiple distinct human users in a single chat",
+    "Use when standardizing assistant roles across different platform providers"
+  ],
+  "tags": [
+    "configuration",
+    "api-extensibility",
+    "schema-design",
+    "documentation"
+  ],
+  "priority": 8,
+  "content": "OMF is designed to be flexible and generic, allowing users to extend and expand the specification to fit specific needs. For instance, users can add arguments specific to OpenAI roles or modify the specification for providers like Cohere, who require separate `message` and `chat_history` parameters. An example modification might include adding the `name` parameter for the OpenAI `user` role.\n\n```yaml\nMessage:\n    type: object\n    properties:\n        role:\n            type: string\n            description: |\n                Role of the message sender. Examples include:\n                - `system`: For system messages\n                - `user`: For messages from the user\n                - `assistant`: For messages from the assistant\n        content:\n            oneOf:\n                - type: array\n                  items:\n                      $ref: \"#/components/schemas/ContentItem\"\n                  description: |\n                      Content of the message. It can be a list of content items, such as text and images.\n                - type: string\n                  description: text content of the message,\n        name:\n            type: string\n            description: the name of the user sending this message\n    required:\n        - role\n        - content\n```\n\n*This is a modification to the base spec that adjusts for the name parameter in the OpenAI `user` message, allowing developers to have chats with multiple people*\n\n```yaml\nname:\n    type: string\n    description: |\n                The name of the user sending the message.\n```\n\n*This is the section that was added to the spec in the above*",
+  "token_estimate": 271
+}

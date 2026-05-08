@@ -1,0 +1,37 @@
+{
+  "title": "Abstract",
+  "path": "docs-research-prosecreator-platform-architecture-abstract",
+  "url": "https://adverant.ai/docs/research/prosecreator-platform-architecture",
+  "keywords": [
+    "ProseCreator",
+    "GraphRAG",
+    "Neo4j 5.x",
+    "Qdrant",
+    "PostgreSQL",
+    "tri-store knowledge architecture",
+    "parallel context injection pipeline",
+    "two-tier workflow dispatch",
+    "Big Five personality integration",
+    "series intelligence module",
+    "constitutional AI framework",
+    "living blueprint system"
+  ],
+  "use_cases": [
+    "Implement when maintaining narrative coherence across manuscripts exceeding 100,000 words.",
+    "Configure when requiring unified semantic memory across relational, graph, and vector databases.",
+    "Use when deploying multi-agent workflows that require horizontal pod scaling without in-process state.",
+    "Use when automating voice consistency checks based on psychological profiling.",
+    "Implement when developing long-form series intelligence spanning over one million words.",
+    "Configure when aiming for high-fidelity content humanization with low AI detection probability."
+  ],
+  "tags": [
+    "Architecture",
+    "Generative AI",
+    "Workflow-Orchestration",
+    "Data-Storage",
+    "API-Reference"
+  ],
+  "priority": 10,
+  "content": "Maintaining narrative coherence across novel-length manuscripts (100,000+ words) remains one of the most demanding challenges in AI-assisted creative writing. Existing systems typically rely on sliding context windows or shallow retrieval mechanisms that degrade as manuscript length increases, producing inconsistencies in character behavior, plot logic, and narrative voice that compound across chapters. We present ProseCreator, a production-deployed platform that addresses these limitations through a tri-store knowledge architecture combining PostgreSQL (94 migrations, 91+ relational tables), Neo4j 5.x (10 node types, 16 relationship types), and Qdrant (4 vector collections at 1536, 1024, and 768 dimensions), unified by a GraphRAG semantic memory layer. The system implements a nine-layer parallel context injection pipeline that assembles narrative context in under 500 milliseconds, a ten-dimensional continuity validation framework that operates on generated content in parallel, and an eleven-point voice consistency checker grounded in psychological profiling including Big Five personality integration. Content humanization is achieved through fifteen algorithmic techniques with twelve genre-specific profiles, targeting less than five percent AI detection probability. A two-tier workflow dispatch architecture routes 48 distinct job types across seven logical queues to an external workflow execution engine, enabling horizontal pod scaling without in-process job state. We describe the living blueprint system that evolves story structure in response to narrative divergence, the series intelligence module that maintains cross-book coherence across one million or more words spanning ten or more books, and the constitutional AI framework that encodes author intent as structured system prompt prefixes. The platform exposes 55 REST API route modules and serves twelve specialized format generators spanning novel, screenplay, poetry, comic book, podcast, and academic writing modes.\n\nKeywords: AI-assisted creative writing, knowledge graph, narrative coherence, multi-agent orchestration, vector search, workflow dispatch, anti-AI detection, long-form generation\n\n---",
+  "token_estimate": 376
+}

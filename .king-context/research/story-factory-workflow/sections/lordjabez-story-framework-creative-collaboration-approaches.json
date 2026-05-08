@@ -1,0 +1,34 @@
+{
+  "title": "Creative Collaboration Approaches",
+  "path": "lordjabez-story-framework-creative-collaboration-approaches",
+  "url": "https://github.com/lordjabez/story-framework",
+  "keywords": [
+    "creative-approaches.md",
+    "Author mode",
+    "Muse mode",
+    "Artisan mode",
+    "Debater mode",
+    "Creator mode",
+    "Curator mode",
+    "human-AI collaboration",
+    "adversarial stress-testing",
+    "generative partnership"
+  ],
+  "use_cases": [
+    "Use when seeking critical feedback without automated content generation",
+    "Configure when requiring precise execution of detailed human instructions",
+    "Implement when needing structural scaffolding or outlines for manual writing",
+    "Use when stress-testing creative choices via adversarial logic",
+    "Implement when performing iterative drafting with high AI assistance",
+    "Use when exploring a wide variety of possibilities and options quickly"
+  ],
+  "tags": [
+    "collaboration-modes",
+    "prompt-engineering",
+    "workflow-configuration",
+    "creative-process"
+  ],
+  "priority": 8,
+  "content": "The file `creative-approaches.md` defines six distinct modes for human-AI creative collaboration, ordered by degree of human control:\n\n| Approach | AI Role | Best For |\n| --- | --- | --- |\n| **Author** | Critic only | Getting feedback without AI-generated content |\n| **Muse** | Pure executor | Precise control over every detail |\n| **Artisan** | Scaffolder | Structure and outlines, you write prose |\n| **Debater** | Adversary | Stress-testing creative choices |\n| **Creator** | Generative partner | Iterative drafting with AI assistance |\n| **Curator** | Option generator | Exploring many possibilities quickly |\n\n**To use:** Tell the AI which mode you want—\"Let's work in Author mode\" or \"Curator mode: give me options.\" You can switch modes mid-session.\n\nSee `creative-approaches.md` for full details on each approach's behaviors and sample prompts.",
+  "token_estimate": 182
+}

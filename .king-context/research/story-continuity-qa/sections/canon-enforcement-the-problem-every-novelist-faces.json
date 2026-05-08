@@ -1,0 +1,35 @@
+{
+  "title": "The Problem Every Novelist Faces",
+  "path": "canon-enforcement-the-problem-every-novelist-faces",
+  "url": "https://proseengine.app/canon-enforcement",
+  "keywords": [
+    "Canon enforcement",
+    "Story Codex",
+    "Continuity error",
+    "World-state changes",
+    "Manuscript cross-referencing",
+    "Chronology tracking",
+    "Character progression",
+    "Factual contradictions",
+    "Story logic",
+    "ProseEngine",
+    "Magic system consistency"
+  ],
+  "use_cases": [
+    "Use when validating physical character traits like eye color or scars across long manuscripts",
+    "Implement when checking timeline consistency for events occurring years apart",
+    "Configure when tracking world-state changes such as destroyed locations or deceased characters",
+    "Use when verifying travel time and spatial logic between various map locations",
+    "Implement when auditing magical or technological constraints to prevent convenient plot holes",
+    "Configure when managing evolving character relationships to ensure narrative justification"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "quality-assurance",
+    "feature-guide",
+    "continuity"
+  ],
+  "priority": 9,
+  "content": "The longer your manuscript, the more details you establish — and the more likely you are to contradict yourself. Readers notice. Reviewers notice. And by the time you catch it in editing, the fix cascades across dozens of scenes.\n\n👁\n\nBlue eyes in chapter 3, green eyes in chapter 27. A scar on the left hand that migrates to the right. A backstory detail that quietly changes. These small errors destroy reader trust.\n\n⏰\n\nA character references “three years ago” in scene 40, but the event happened five years before in scene 12. Timelines are the most common source of continuity errors in long fiction.\n\n💠\n\nA character dies in Act 2 but is casually mentioned as alive in Act 3. A destroyed location is described as intact. World-state changes that your prose forgets about.\n\n🌍\n\nCharacters traveling between cities in hours when you established the journey takes days. Rooms described with different layouts. Maps that contradict your prose.\n\n✨\n\nYour magic system has rules — until a scene where the protagonist conveniently breaks them without explanation. Technology that works differently depending on the plot's needs.\n\n👥\n\nCharacters who are enemies in one chapter and allies in the next with no transition. Family relationships that change. Power dynamics that shift without narrative justification.\n\nCanon enforcement isn't a grammar tool or a generic AI feature. It's a purpose-built system that cross-references every scene in your manuscript against the canon you've established in your Story Codex.\n\n1\n\nCreate entries for characters, locations, items, factions, events, and concepts. Define the details that matter — physical descriptions, timelines, relationships, rules, and world-state changes.\n\n2\n\nWrite naturally. Don't worry about checking every detail against your notes. Canon enforcement runs in the background, cross-referencing each scene against your established codex entries.\n\n3\n\nCanon enforcement flags specific contradictions with exact references — what was established, where it was established, and how the current scene conflicts. Fix violations before they compound.\n\n![ProseEngine Story Codex character profile showing scene mentions and character progressions](https://proseengine.app/assets/landing-codex-character.png?v=3)",
+  "token_estimate": 444
+}

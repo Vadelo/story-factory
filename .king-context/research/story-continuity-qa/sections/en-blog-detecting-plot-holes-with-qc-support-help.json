@@ -1,0 +1,28 @@
+{
+  "title": "Support & Help",
+  "path": "en-blog-detecting-plot-holes-with-qc-support-help",
+  "url": "https://symban.de/en/blog/detecting-plot-holes-with-qc",
+  "keywords": [
+    "Quality Control",
+    "QC pass",
+    "Plot Hole Detection",
+    "Logical consistency",
+    "Timeline validation",
+    "Character persistence",
+    "Generative text analysis",
+    "Automated proofreading"
+  ],
+  "use_cases": [
+    "Configure when requiring automated verification of narrative consistency in LLM outputs",
+    "Implement when preventing timeline errors or character disappearance in long-form storytelling",
+    "Use when setting up quality gates for narrative-focused content generation pipelines"
+  ],
+  "tags": [
+    "Quality Assurance",
+    "Automation",
+    "Content Validation"
+  ],
+  "priority": 8,
+  "content": "How can we help you?\n\nSystem\n\n# Detecting Plot Holes Automatically: How Quality Control Works\n\nJanuary 11, 20268 min\n\nOur QC pass analyzes every generated text for logical breaks, forgotten characters, and timeline inconsistencies — before you ever see them.",
+  "token_estimate": 53
+}

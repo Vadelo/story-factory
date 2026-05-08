@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Threads: Resolver Conversa",
+  "path": "chapter-002-light-novel-threads",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-002-light-novel-threads",
+  "keywords": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-002-light-novel"
+  ],
+  "use_cases": [
+    "Recall open and resolved story threads for this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-002-light-novel"
+  ],
+  "priority": 9,
+  "content": "{\n  \"new_threads\": [\n    \"O que existe no Pavilhão dos Arquivos?\",\n    \"O botão 'resolver conversa' apaga Davi, a alteração ou apenas a disputa?\",\n    \"Quantos personagens podem ganhar acesso à margem se suas falas cortadas forem devolvidas?\",\n    \"A camada de restauração é a obra, a plataforma, o algoritmo ou outra entidade?\",\n    \"O assassino da Casa Baek serve Kael conscientemente ou obedece à correção narrativa?\"\n  ],\n  \"resolved_threads\": [\n    \"O botão de 'resolver conversa' foi confirmado como ameaça real dentro da margem.\",\n    \"Kael consegue bloquear a margem por comentário de revisão.\",\n    \"Yerin começou a perceber que suas possibilidades vêm de interferência externa.\"\n  ],\n  \"callbacks\": [\n    \"Retoma 'Quase. A palavra mais cruel da edição.'\",\n    \"Retoma a palavra 'ainda' como intervenção mínima de Davi.\",\n    \"Concretiza o botão 'resolver conversa' como ameaça.\",\n    \"Retoma a fuga pelo canal inferior e o selo da carruagem.\",\n    \"Desenvolve Kael escrevendo na margem como comentário de revisão.\"\n  ]\n}",
+  "token_estimate": 195
+}

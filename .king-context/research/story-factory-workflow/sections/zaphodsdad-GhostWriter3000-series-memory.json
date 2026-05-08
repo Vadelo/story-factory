@@ -1,0 +1,34 @@
+{
+  "title": "Series Memory",
+  "path": "zaphodsdad-GhostWriter3000-series-memory",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "Series Memory",
+    "automatic extraction",
+    "tiered summaries",
+    "memory decay",
+    "continuity checking",
+    "style learning",
+    "Chico AI assistant",
+    "Persona MCP",
+    "context assembly",
+    "canon extraction",
+    "GhostWriter 3000"
+  ],
+  "use_cases": [
+    "Use when maintaining long-term narrative consistency across multiple books",
+    "Implement when automatic character and world-building tracking is required",
+    "Configure when seeking to preserve authorial voice and style through machine learning",
+    "Use when brainstorming plot points with an AI assistant that has full series context",
+    "Configure when integrating persistent AI identity via Persona MCP for emotional memory"
+  ],
+  "tags": [
+    "Core Feature",
+    "Knowledge Management",
+    "AI Assistants",
+    "Creative Writing"
+  ],
+  "priority": 10,
+  "content": "This is the differentiator. Most AI writing tools are stateless — each generation starts from scratch. GhostWriter 3000 accumulates knowledge across your entire series:\n\n- **Automatic extraction** — when scenes become canon, the system extracts characters, world elements, plot events, and causal chains\n- **Tiered summaries** — book-level and scene-level summaries assembled into context for each generation\n- **Memory decay** — older facts deprioritized by book distance so recent events feel more present\n- **Continuity checking** — LLM-based detection of contradictions with established canon\n- **Style learning** — the system learns your voice from your edits (vocabulary, sentence structure, dialogue patterns)\n\nEach series gets a conversational AI assistant (default name: \"Chico\") that knows everything about your series — characters, world, plot, current prose. Ask it questions, check continuity, brainstorm plot points. Supports optional integration with [Persona MCP](https://github.com/zaphodsdad) for persistent AI identity and emotional memory.",
+  "token_estimate": 191
+}

@@ -1,0 +1,32 @@
+{
+  "title": "2.1 Goal Setting for Self-Regulated Academic Writing",
+  "path": "html-2604.15800v1-2-1-goal-setting-for-self-regulated-academic-writing",
+  "url": "https://arxiv.org/html/2604.15800v1",
+  "keywords": [
+    "self-regulated academic writing",
+    "hierarchical goal structures",
+    "metacognition",
+    "process-oriented goals",
+    "product-focused goals",
+    "automated writing evaluation",
+    "proximal goals",
+    "task constraints",
+    "self-efficacy",
+    "transfer learning"
+  ],
+  "use_cases": [
+    "Implement when designing hierarchical frameworks for goal management in academic writing software.",
+    "Configure when balancing process-oriented versus product-focused feedback in educational platforms.",
+    "Use when developing metacognitive support features to help writers reflect on underlying intentions.",
+    "Use when building automated writing evaluation systems that require personalized goal-tracking capabilities."
+  ],
+  "tags": [
+    "education-technology",
+    "pedagogy",
+    "cognitive-psychology",
+    "writing-instruction"
+  ],
+  "priority": 8,
+  "content": "Academic writing is guided by hierarchically structured goal structures that include abstract intentions (e.g., audience awareness) and concrete subgoals (e.g., revising a paragraph) [10, 12]. Expert writers generate richer goal structures and flexibly revise them as task constraints evolve [12]. Research shows planning and quality-oriented goals improve text quality and promote higher-level revision behavior [1]. Specific, proximal, and appropriately challenging goals enhance metacognition, motivation, and overall writing performance [22, 19, 5]. Process-oriented goals are particularly effective, compared to product-focused goals, process goals combined with feedback support learning of writing strategies, strengthen self-efficacy, and promote transfer [22]. Although automated writing evaluation systems provide personalized feedback [13], they offer limited support for reflection on writers’ underlying intentions or monitoring evolving goal structures during the writing process.",
+  "token_estimate": 164
+}

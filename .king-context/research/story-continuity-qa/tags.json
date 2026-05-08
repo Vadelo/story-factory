@@ -1,0 +1,2297 @@
+{
+  "story-systems": [
+    "drafts-inherit-what-the-universe-already-knows"
+  ],
+  "continuity-management": [
+    "drafts-inherit-what-the-universe-already-knows",
+    "ai-story-bible-generator-why-every-novel-needs-a-story-bible-and-why-most-novelists-skip-it"
+  ],
+  "ai-writing": [
+    "drafts-inherit-what-the-universe-already-knows",
+    "ai-story-bible-generator-why-every-novel-needs-a-story-bible-and-why-most-novelists-skip-it"
+  ],
+  "visual-development": [
+    "drafts-inherit-what-the-universe-already-knows"
+  ],
+  "content-workflow": [
+    "drafts-inherit-what-the-universe-already-knows"
+  ],
+  "content-creation": [
+    "everything-your-story-needs-nothing-it-doesn-t",
+    "features-2-scene-by-scene-novel-planner"
+  ],
+  "artificial-intelligence": [
+    "everything-your-story-needs-nothing-it-doesn-t",
+    "publication-FactTrack-content",
+    "node-43.html-definition",
+    "node-43.html-explication",
+    "node-43.html-computational-elaborations-of-narratological-concepts",
+    "node-43.html-trends-in-the-field",
+    "~riedl-pubs-jair.pdf-content",
+    "projects-sibyl-sibyl",
+    "projects-sibyl-project-overview",
+    "the-voice-engine-ai-that-writes-like-you",
+    "html-2505.24803v1-1-introduction",
+    "html-2505.24803v1-2-1-knowledge-graph-and-retrieval-augmented-generation",
+    "abs-2412.02897-arxiv-is-hiring-a-devops-engineer",
+    "index.php-AIIDE-article-view-12428-abstract",
+    "ojs-12836-12836-52-16352-1-2-20201228.pdf-content",
+    "publications-paper-sWZw-abstract",
+    "index.php-AIIDE-article-download-27511-27284-31562-content",
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-applications-in-computational-storytelling",
+    "ocs-index.php-AIIDE-AIIDE15-paper-view-11616-content"
+  ],
+  "knowledge-management": [
+    "everything-your-story-needs-nothing-it-doesn-t",
+    "why-most-fiction-writers-struggle",
+    "docs-research-prosecreator-platform-architecture-prosecreator-a-tri-store-knowledge-architecture-for-ai-assisted-long-form-creative-writing-with-living-blueprints-multi-dimensional-continuity-validation-and-horizontally-scalable-workflow-dispatch",
+    "html-2505.24803v1-2-1-knowledge-graph-and-retrieval-augmented-generation",
+    "blog-persistent-memory-for-ai-agents-three-question-shapes-that-decide-your-architecture",
+    "silkspace-llm-knowledge-graph-what-this-actually-does",
+    "silkspace-llm-knowledge-graph-example-real-session"
+  ],
+  "productivity-tool": [
+    "everything-your-story-needs-nothing-it-doesn-t"
+  ],
+  "getting-started": [
+    "getting-started-takes-three-minutes",
+    "spend-more-time-writing",
+    "board-the-iss-lumen-explore-the-artifact",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-in-this-guide"
+  ],
+  "collaboration": [
+    "getting-started-takes-three-minutes",
+    "frequently-asked-questions",
+    "everything-your-world-needs-structured-and-connected",
+    "features-story-compass-alignment-workspace",
+    "every-canon-safeguard-in-one-command-center"
+  ],
+  "content-management": [
+    "getting-started-takes-three-minutes",
+    "everything-your-world-needs-structured-and-connected",
+    "features-your-story-s-single-source-of-truth",
+    "node-43.html-primary-tabs",
+    "manual-workspace-with-optional-ai-boosts",
+    "every-canon-safeguard-in-one-command-center",
+    "available-mcp-tools",
+    "create-world",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-3-the-comparison-that-makes-it-clear",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-1-build-your-story-bible-first",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-key-takeaways",
+    "qa-question-main-pov-main-character-most-fascinating-in-between-lies"
+  ],
+  "templates": [
+    "getting-started-takes-three-minutes",
+    "features-1-professional-story-structure-templates"
+  ],
+  "data-management": [
+    "frequently-asked-questions"
+  ],
+  "AI-features": [
+    "frequently-asked-questions"
+  ],
+  "general-faq": [
+    "frequently-asked-questions"
+  ],
+  "content-generation": [
+    "ai-story-bible-generator-generate-a-complete-story-bible",
+    "ai-story-bible-generator-from-bible-to-drafted-novel-in-30-days",
+    "intelligent-drafting",
+    "features-6-project-cloning-for-series-continuity",
+    "the-voice-engine-ai-that-writes-like-you",
+    "novel-novella-multi-volume-workflow",
+    "short-story-workflow",
+    "picture-book-workflow",
+    "docs-research-prosecreator-platform-architecture-1-introduction",
+    "html-2505.24803v1-1-introduction",
+    "html-2505.24803v1-2-2-generative-storytelling-using-large-language-models",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-are-plot-holes-really",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-readers-actually-do-when-they-find-one",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-4-write-with-continuity-active",
+    "html-2604.21253v1-2-3-graph-based-llm-reasoning"
+  ],
+  "creative-writing": [
+    "ai-story-bible-generator-generate-a-complete-story-bible",
+    "ai-story-bible-generator-from-bible-to-drafted-novel-in-30-days",
+    "features-core-features-complete-story-development-platform",
+    "projects-sibyl-summary",
+    "html-2601.07033v1-2-1-creative-writing",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-readers-actually-do-when-they-find-one",
+    "pdf-2512.19012-content",
+    "ai-text-classification-narrative-flow-analysis-for-writers-defining-narrative-flow-and-its-importance",
+    "blog-how-to-map-a-multi-pov-novel-key-takeaways",
+    "blog-how-to-map-a-multi-pov-novel-the-forced-convergence",
+    "blog-how-to-map-a-multi-pov-novel-alternation-patterns",
+    "dual-pov-woven",
+    "dual-pov-1-structural-tropes",
+    "dual-pov-2-character-dynamics-relationship-tropes",
+    "dual-pov-3-thematic-emotional-tropes",
+    "dual-pov-5-narrative-device-tropes"
+  ],
+  "onboarding": [
+    "ai-story-bible-generator-generate-a-complete-story-bible",
+    "faq",
+    "quick-start-for-autonomous-agents",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-1-build-your-story-bible-first"
+  ],
+  "world-building": [
+    "ai-story-bible-generator-generate-a-complete-story-bible",
+    "ai-story-bible-generator-why-every-novel-needs-a-story-bible-and-why-most-novelists-skip-it",
+    "ai-story-bible-generator-frequently-asked-questions",
+    "everything-you-need-to-stay-organized-and-inspired",
+    "story-codex-everything-you-need-to-track-your-story-world",
+    "story-codex-trace-bloodlines-with-the-family-tree",
+    "story-codex-place-your-story-on-a-world-map",
+    "story-codex-proseengine-vs-novelcrafter-codex",
+    "everything-your-world-needs-structured-and-connected",
+    "intelligent-drafting",
+    "features-2-character-relationship-mapping-system",
+    "blog-how-to-map-a-multi-pov-novel-rotating-pov-a-song-of-ice-and-fire"
+  ],
+  "narrative-design": [
+    "ai-story-bible-generator-why-every-novel-needs-a-story-bible-and-why-most-novelists-skip-it",
+    "features-5-complete-cross-referencing-system",
+    "every-canon-safeguard-in-one-command-center",
+    "scene-audit-the-mistakes-that-kill-reader-trust",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-five-types-that-destroy-reader-trust",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-numbers-behind-the-problem",
+    "ai-text-classification-narrative-flow-analysis-for-writers-mathematical-modeling-of-narrative-flow",
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-applications-in-computational-storytelling",
+    "blog-how-to-map-a-multi-pov-novel-what-is-the-problem-with-multi-pov-outlines",
+    "blog-how-to-map-a-multi-pov-novel-why-do-linear-outlines-break-down-with-multiple-povs",
+    "blog-how-to-map-a-multi-pov-novel-how-does-visual-mapping-handle-parallel-tracks-and-connected-threads",
+    "blog-how-to-map-a-multi-pov-novel-setting-up-character-tracks",
+    "blog-how-to-map-a-multi-pov-novel-identifying-convergence-points",
+    "blog-how-to-map-a-multi-pov-novel-the-disconnected-subplot",
+    "blog-how-to-map-a-multi-pov-novel-converging-pov-cloud-atlas",
+    "dual-pov-woven",
+    "dual-pov-theme",
+    "dual-pov-a-big-list-of-potential-approaches"
+  ],
+  "creative-workflow": [
+    "ai-story-bible-generator-why-every-novel-needs-a-story-bible-and-why-most-novelists-skip-it",
+    "why-most-fiction-writers-struggle"
+  ],
+  "workflow": [
+    "ai-story-bible-generator-from-bible-to-drafted-novel-in-30-days",
+    "novel-novella-multi-volume-workflow",
+    "short-story-workflow",
+    "picture-book-workflow",
+    "blog-how-to-map-a-multi-pov-novel-setting-up-character-tracks"
+  ],
+  "publishing": [
+    "ai-story-bible-generator-from-bible-to-drafted-novel-in-30-days",
+    "novel-novella-multi-volume-workflow",
+    "short-story-workflow",
+    "picture-book-workflow",
+    "qa-question-page-tournaments-maximum-number-twists-turns-whispers-of-pleasure-games-of-desire"
+  ],
+  "compliance": [
+    "ai-story-bible-generator-sources-and-further-reading",
+    "ai-story-bible-generator-frequently-asked-questions",
+    "your-work-your-rights",
+    "built-for-authors-by-authors",
+    "qa-question-page-tournaments-maximum-number-twists-turns-whispers-of-pleasure-games-of-desire"
+  ],
+  "publishing-guidelines": [
+    "ai-story-bible-generator-sources-and-further-reading"
+  ],
+  "legal": [
+    "ai-story-bible-generator-sources-and-further-reading",
+    "ai-story-bible-generator-frequently-asked-questions",
+    "your-work-your-rights",
+    "built-for-authors-by-authors",
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure"
+  ],
+  "craft-resources": [
+    "ai-story-bible-generator-sources-and-further-reading"
+  ],
+  "planning": [
+    "ai-story-bible-generator-frequently-asked-questions",
+    "blog-how-to-map-a-multi-pov-novel-what-is-the-problem-with-multi-pov-outlines"
+  ],
+  "continuity": [
+    "ai-story-bible-generator-frequently-asked-questions",
+    "canon-enforcement-the-problem-every-novelist-faces",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-in-this-guide"
+  ],
+  "faq": [
+    "ai-story-bible-generator-frequently-asked-questions",
+    "ai-story-bible-generator-frequently-asked-questions"
+  ],
+  "writer-tools": [
+    "ai-story-bible-generator-frequently-asked-questions"
+  ],
+  "licensing": [
+    "ai-story-bible-generator-frequently-asked-questions"
+  ],
+  "intellectual-property": [
+    "your-work-your-rights"
+  ],
+  "contribution-guidelines": [
+    "your-work-your-rights"
+  ],
+  "privacy": [
+    "built-for-authors-by-authors"
+  ],
+  "data-governance": [
+    "built-for-authors-by-authors"
+  ],
+  "data-synchronization": [
+    "spend-more-time-writing"
+  ],
+  "content-analysis": [
+    "spend-more-time-writing",
+    "html-2411.12907v1-3-discussion"
+  ],
+  "organization": [
+    "spend-more-time-writing"
+  ],
+  "content-organization": [
+    "everything-you-need-to-stay-organized-and-inspired",
+    "features-3-detailed-worldbuilding-system-60-specialized-fields",
+    "storykit-hard-rules"
+  ],
+  "narrative-analysis": [
+    "everything-you-need-to-stay-organized-and-inspired",
+    "html-2405.07282v1-1-introduction",
+    "html-2405.07282v1-2-chadpod-task",
+    "html-2405.07282v1-3-data",
+    "publication-FactTrack-content",
+    "ojs-10358-10358-13-13886-1-2-20201228.pdf-content",
+    "html-2510.18201v1-1-introduction",
+    "html-2510.18201v1-2-1-events",
+    "html-2510.18201v1-3-5-circumstance",
+    "html-2510.18201v1-3-6-relation-and-character-arcs",
+    "canon-enforcement-the-problem-every-novelist-faces",
+    "projects-sibyl-project-overview",
+    "projects-sibyl-overview-challenges",
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one",
+    "html-2503.23512v5-ii-method",
+    "html-2503.23512v5-ii-a-continuity-analysis-and-key-item-status-correction",
+    "html-2503.23512v5-ii-b-key-item-interaction-analysis",
+    "html-2503.23512v5-iii-c-evaluation-process",
+    "en-blog-detecting-plot-holes-with-qc-the-most-common-plot-holes",
+    "Krish-afk-bot-narrative-consistency-verifier-mission",
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey",
+    "pdf-2504.11900-content",
+    "html-2605.02475v1-1-introduction",
+    "ai-text-classification-narrative-flow-analysis-for-writers-overuse-of-exposition",
+    "ai-text-classification-narrative-flow-analysis-for-writers-disrupted-temporal-continuity",
+    "ai-text-classification-narrative-flow-analysis-for-writers-quantifying-narrative-structure",
+    "pdf-2601.06445-content",
+    "html-2411.12907v1-1-introduction",
+    "html-2411.12907v1-2-1-states-complexity-and-pivots",
+    "html-2411.12907v1-2-2-prediction-focussed-metrics-suspense-and-plot-twists",
+    "content-pdf-10.1007-s00354-020-00111-1.pdf-content"
+  ],
+  "character-management": [
+    "everything-you-need-to-stay-organized-and-inspired",
+    "story-codex-everything-you-need-to-track-your-story-world",
+    "story-codex-follow-every-thread-with-the-story-timeline",
+    "story-codex-map-your-world-with-the-relationship-web",
+    "story-codex-trace-bloodlines-with-the-family-tree",
+    "the-voice-engine-ai-that-writes-like-you",
+    "blog-how-to-map-a-multi-pov-novel-setting-up-character-tracks",
+    "blog-how-to-map-a-multi-pov-novel-rotating-pov-a-song-of-ice-and-fire"
+  ],
+  "product-overview": [
+    "bring-your-world-to-life",
+    "writers-love-novelworld",
+    "every-canon-safeguard-in-one-command-center",
+    "faq"
+  ],
+  "pricing": [
+    "bring-your-world-to-life",
+    "writers-love-novelworld"
+  ],
+  "ai-generation": [
+    "bring-your-world-to-life",
+    "docs-research-prosecreator-platform-architecture-prosecreator-a-tri-store-knowledge-architecture-for-ai-assisted-long-form-creative-writing-with-living-blueprints-multi-dimensional-continuity-validation-and-horizontally-scalable-workflow-dispatch"
+  ],
+  "features": [
+    "bring-your-world-to-life",
+    "writers-love-novelworld"
+  ],
+  "ai-automation": [
+    "story-codex-everything-you-need-to-track-your-story-world",
+    "features-smart-import-bring-your-existing-work"
+  ],
+  "data-visualization": [
+    "story-codex-everything-you-need-to-track-your-story-world",
+    "story-codex-map-your-world-with-the-relationship-web",
+    "story-codex-proseengine-vs-novelcrafter-codex",
+    "html-2510.18201v1-2-3-relation-arcs-and-character-arcs",
+    "html-2510.18201v1-3-6-relation-and-character-arcs",
+    "L-Earthling-temporal-literary-networks-leo-tolstoy-anna-karenina-1878-literary-realist-fiction-novel-19th-century"
+  ],
+  "manuscript-analysis": [
+    "story-codex-everything-you-need-to-track-your-story-world",
+    "canon-enforcement-what-canon-enforcement-catches",
+    "scene-audit-works-across-entire-series"
+  ],
+  "story-planning": [
+    "story-codex-follow-every-thread-with-the-story-timeline",
+    "pdf-2407.16347-content",
+    "board-the-iss-lumen-explore-the-artifact"
+  ],
+  "narrative-structure": [
+    "story-codex-follow-every-thread-with-the-story-timeline",
+    "blog-how-to-map-a-multi-pov-novel-key-takeaways",
+    "blog-how-to-map-a-multi-pov-novel-drawing-connections-between-storylines",
+    "blog-how-to-map-a-multi-pov-novel-the-lopsided-arc",
+    "blog-how-to-map-a-multi-pov-novel-the-forced-convergence",
+    "blog-how-to-map-a-multi-pov-novel-alternation-patterns",
+    "blog-how-to-map-a-multi-pov-novel-when-to-break-the-pattern",
+    "blog-how-to-map-a-multi-pov-novel-rotating-pov-a-song-of-ice-and-fire",
+    "dual-pov-parallel",
+    "dual-pov-aligned",
+    "dual-pov-staggered",
+    "dual-pov-linked",
+    "dual-pov-opposition",
+    "dual-pov-object",
+    "dual-pov-1-structural-tropes",
+    "dual-pov-2-character-dynamics-relationship-tropes"
+  ],
+  "user-interface": [
+    "story-codex-follow-every-thread-with-the-story-timeline",
+    "html-2505.24803v1-1-introduction",
+    "abs-2208.11922-bookmark",
+    "qa-question-book-w-different-characters-povs-finally-related-books"
+  ],
+  "ai-features": [
+    "story-codex-map-your-world-with-the-relationship-web"
+  ],
+  "analytics": [
+    "story-codex-map-your-world-with-the-relationship-web",
+    "features-your-story-s-single-source-of-truth",
+    "doi-10.1073-pnas.2011695118-metrics",
+    "qa-question-main-pov-main-character-most-fascinating-in-between-lies"
+  ],
+  "visualization": [
+    "story-codex-trace-bloodlines-with-the-family-tree",
+    "story-codex-place-your-story-on-a-world-map",
+    "features-2-character-relationship-mapping-system",
+    "features-4-visual-timeline-view-3-viewing-modes"
+  ],
+  "interactive-maps": [
+    "story-codex-place-your-story-on-a-world-map"
+  ],
+  "codex": [
+    "story-codex-place-your-story-on-a-world-map"
+  ],
+  "feature-comparison": [
+    "story-codex-proseengine-vs-novelcrafter-codex"
+  ],
+  "ai-tools": [
+    "story-codex-proseengine-vs-novelcrafter-codex",
+    "features-your-story-s-single-source-of-truth"
+  ],
+  "project-management": [
+    "story-codex-proseengine-vs-novelcrafter-codex",
+    "features-6-project-cloning-for-series-continuity"
+  ],
+  "ai-integration": [
+    "everything-your-world-needs-structured-and-connected",
+    "projects-sibyl-summary",
+    "projects-sibyl-solution-results"
+  ],
+  "data-structuring": [
+    "everything-your-world-needs-structured-and-connected"
+  ],
+  "feature-overview": [
+    "features-your-story-s-single-source-of-truth",
+    "why-most-fiction-writers-struggle",
+    "Krish-afk-bot-narrative-consistency-verifier-key-features",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-are-plot-holes-really"
+  ],
+  "productivity": [
+    "features-your-story-s-single-source-of-truth"
+  ],
+  "ai-writing-tools": [
+    "why-most-fiction-writers-struggle"
+  ],
+  "AI-writing": [
+    "intelligent-drafting"
+  ],
+  "knowledge-graph": [
+    "intelligent-drafting",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-complete-responses",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-correcting-llm-hallucinations",
+    "silkspace-llm-knowledge-graph-for-claude-this-is-your-memory-system",
+    "silkspace-llm-knowledge-graph-option-1-mcp-tools-recommended",
+    "silkspace-llm-knowledge-graph-option-2-direct-python-api",
+    "html-2605.02475v1-2-pipeline-overview"
+  ],
+  "testimonials": [
+    "writers-love-novelworld"
+  ],
+  "Content-Creation": [
+    "live-from-the-oasis"
+  ],
+  "AI-Writing": [
+    "live-from-the-oasis",
+    "docs-research-prosecreator-platform-architecture-2-background-and-related-work"
+  ],
+  "Workflow-Automation": [
+    "live-from-the-oasis"
+  ],
+  "Product-Overview": [
+    "live-from-the-oasis"
+  ],
+  "core-features": [
+    "features-core-features-complete-story-development-platform"
+  ],
+  "navigation": [
+    "features-core-features-complete-story-development-platform",
+    "blog-how-to-add-persistent-llm-memory-to-your-gpt-bot-developer-guide-navigation"
+  ],
+  "platform-tools": [
+    "features-core-features-complete-story-development-platform"
+  ],
+  "configuration": [
+    "features-story-compass-alignment-workspace",
+    "features-6-project-cloning-for-series-continuity",
+    "storykit-introduction",
+    "option-a-mcp-server-recommended-for-cursor-claude-code-windsurf",
+    "available-mcp-tools",
+    "create-world",
+    "docs-user-guide-memory-overview-basic-memory-usage",
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-conventions",
+    "silkspace-llm-knowledge-graph-quick-start",
+    "silkspace-llm-knowledge-graph-2-install-via-npm-recommended",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-readers-actually-do-when-they-find-one",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-1-build-your-story-bible-first",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-4-write-with-continuity-active"
+  ],
+  "AI-integration": [
+    "features-story-compass-alignment-workspace"
+  ],
+  "content-strategy": [
+    "features-story-compass-alignment-workspace",
+    "blog-how-to-map-a-multi-pov-novel-identifying-convergence-points",
+    "blog-how-to-map-a-multi-pov-novel-alternation-patterns"
+  ],
+  "import": [
+    "features-smart-import-bring-your-existing-work"
+  ],
+  "project-setup": [
+    "features-smart-import-bring-your-existing-work"
+  ],
+  "data-extraction": [
+    "features-smart-import-bring-your-existing-work"
+  ],
+  "storytelling": [
+    "features-1-professional-story-structure-templates",
+    "html-2505.24803v1-1-introduction"
+  ],
+  "product-features": [
+    "features-1-professional-story-structure-templates"
+  ],
+  "writing-tools": [
+    "features-1-professional-story-structure-templates",
+    "features-6-project-cloning-for-series-continuity",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-in-this-guide"
+  ],
+  "character-development": [
+    "features-2-character-relationship-mapping-system",
+    "features-3-detailed-worldbuilding-system-60-specialized-fields",
+    "blog-how-to-map-a-multi-pov-novel-drawing-connections-between-storylines",
+    "blog-how-to-map-a-multi-pov-novel-the-disappearing-character",
+    "blog-how-to-map-a-multi-pov-novel-the-disconnected-subplot",
+    "blog-how-to-map-a-multi-pov-novel-the-lopsided-arc",
+    "dual-pov-staggered",
+    "dual-pov-opposition",
+    "dual-pov-theme"
+  ],
+  "plotting-tools": [
+    "features-2-character-relationship-mapping-system"
+  ],
+  "worldbuilding": [
+    "features-3-detailed-worldbuilding-system-60-specialized-fields",
+    "features-5-complete-cross-referencing-system",
+    "create-world"
+  ],
+  "serialization": [
+    "features-3-detailed-worldbuilding-system-60-specialized-fields"
+  ],
+  "narrative-planning": [
+    "features-4-visual-timeline-view-3-viewing-modes",
+    "features-2-scene-by-scene-novel-planner",
+    "~riedl-pubs-jair.pdf-content",
+    "index.php-AIIDE-article-download-12712-12560-content"
+  ],
+  "feature-guide": [
+    "features-4-visual-timeline-view-3-viewing-modes",
+    "canon-enforcement-the-problem-every-novelist-faces",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-2-chapter-linking-across-25-documents"
+  ],
+  "data-filtering": [
+    "features-4-visual-timeline-view-3-viewing-modes"
+  ],
+  "structuring": [
+    "features-5-complete-cross-referencing-system"
+  ],
+  "continuity-control": [
+    "features-5-complete-cross-referencing-system"
+  ],
+  "editing-tools": [
+    "features-2-scene-by-scene-novel-planner",
+    "board-the-iss-lumen-explore-the-artifact"
+  ],
+  "author-workflow": [
+    "features-2-scene-by-scene-novel-planner"
+  ],
+  "AI Assistance": [
+    "features-4-ai-chat-assistant-your-creative-partner"
+  ],
+  "Creative Writing": [
+    "features-4-ai-chat-assistant-your-creative-partner",
+    "blog-how-to-map-a-multi-pov-novel-balancing-screen-time"
+  ],
+  "Feature Guide": [
+    "features-4-ai-chat-assistant-your-creative-partner"
+  ],
+  "Pro Features": [
+    "features-4-ai-chat-assistant-your-creative-partner"
+  ],
+  "nlp-research": [
+    "html-2405.07282v1-1-introduction"
+  ],
+  "dataset-introduction": [
+    "html-2405.07282v1-1-introduction"
+  ],
+  "machine-learning": [
+    "html-2405.07282v1-1-introduction",
+    "html-2405.07282v1-experiments",
+    "ojs-10358-10358-13-13886-1-2-20201228.pdf-content",
+    "html-2510.18201v1-3-5-circumstance",
+    "silkspace-llm-knowledge-graph-option-2-direct-python-api",
+    "silkspace-llm-knowledge-graph-what-makes-this-rad",
+    "silkspace-llm-knowledge-graph-under-the-hood",
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey",
+    "doi-10.1073-pnas.2011695118-significance",
+    "doi-10.1073-pnas.2011695118-abstract",
+    "doi-10.1073-pnas.2011695118-measures",
+    "L-Earthling-temporal-literary-networks-pipeline",
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-applications-in-computational-storytelling",
+    "ai-text-classification-narrative-flow-analysis-for-writers-cohesion-metrics-for-sentence-transitions",
+    "html-2411.12907v1-1-introduction",
+    "html-2411.12907v1-3-discussion",
+    "P18-4002-novelperspective-identifying-point-of-view-characters",
+    "~miyyer-pubs-2017_relationships_aaai.pdf-content"
+  ],
+  "benchmarking": [
+    "html-2405.07282v1-2-chadpod-task",
+    "html-2405.07282v1-experiments",
+    "html-2405.07282v1-comparison-with-turning-points",
+    "html-2503.23512v5-iii-c-evaluation-process"
+  ],
+  "natural-language-processing": [
+    "html-2405.07282v1-2-chadpod-task",
+    "html-2405.07282v1-3-data",
+    "html-2405.07282v1-comparison-with-turning-points",
+    "publication-FactTrack-content",
+    "pdf-2407.16347-content",
+    "ojs-10358-10358-13-13886-1-2-20201228.pdf-content",
+    "html-2510.18201v1-1-introduction",
+    "html-2510.18201v1-2-1-events",
+    "html-2510.18201v1-3-5-circumstance",
+    "html-2505.24803v1-1-introduction",
+    "html-2505.24803v1-2-2-generative-storytelling-using-large-language-models",
+    "html-2503.23512v5-iii-e-results",
+    "html-2503.23512v5-v-conclusion",
+    "abs-2412.02897-arxiv-is-hiring-a-devops-engineer",
+    "Krish-afk-bot-narrative-consistency-verifier-key-features",
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+    "html-2601.07033v1-2-2-controllable-text-generation",
+    "html-2601.07033v1-3-2-codified-foreshadow-payoff-generation",
+    "html-2604.21253v1-2-1-outline-based-narrative-planning",
+    "html-2604.21253v1-2-2-role-play-based-narrative-planning",
+    "html-2604.21253v1-3-1-task-definition",
+    "doi-10.1073-pnas.2011695118-significance",
+    "doi-10.1073-pnas.2011695118-abstract",
+    "doi-10.1073-pnas.2011695118-measures",
+    "L-Earthling-temporal-literary-networks-what-are-temporal-signed-literary-networks",
+    "ai-text-classification-narrative-flow-analysis-for-writers-cohesion-metrics-for-sentence-transitions",
+    "pdf-2601.06445-content",
+    "html-2411.12907v1-3-discussion",
+    "P18-4002-novelperspective-identifying-point-of-view-characters",
+    "~miyyer-pubs-2017_relationships_aaai.pdf-content",
+    "2020.emnlp-main.47.pdf-content"
+  ],
+  "dataset-specification": [
+    "html-2405.07282v1-2-chadpod-task",
+    "L-Earthling-temporal-literary-networks-corpus-composition",
+    "pdf-2601.06445-content"
+  ],
+  "dataset-creation": [
+    "html-2405.07282v1-3-data"
+  ],
+  "graph-data": [
+    "html-2405.07282v1-3-data"
+  ],
+  "model-training": [
+    "html-2405.07282v1-experiments"
+  ],
+  "text-classification": [
+    "html-2405.07282v1-experiments"
+  ],
+  "dataset-analysis": [
+    "html-2405.07282v1-comparison-with-turning-points"
+  ],
+  "comparative-study": [
+    "html-2405.07282v1-comparison-with-turning-points"
+  ],
+  "Natural Language Processing": [
+    "html-2405.07282v1-5-text-segmentation-study",
+    "publications-White2018NovelPerspective.pdf-content"
+  ],
+  "Machine Learning": [
+    "html-2405.07282v1-5-text-segmentation-study",
+    "docs-user-guide-memory-overview-memory-architecture",
+    "2021.nuse-1.9.pdf-content",
+    "publications-White2018NovelPerspective.pdf-content"
+  ],
+  "Narrative Analysis": [
+    "html-2405.07282v1-5-text-segmentation-study"
+  ],
+  "Algorithm Design": [
+    "html-2405.07282v1-5-text-segmentation-study"
+  ],
+  "narrative-understanding": [
+    "2021.nuse-1.10-towards-a-model-theoretic-view-of-narratives"
+  ],
+  "formal-methods": [
+    "2021.nuse-1.10-towards-a-model-theoretic-view-of-narratives",
+    "publications-paper-sWZw-abstract",
+    "html-2405.10912v3-1-1temporal-causality"
+  ],
+  "computational-linguistics": [
+    "2021.nuse-1.10-towards-a-model-theoretic-view-of-narratives",
+    "node-43.html-definition",
+    "node-43.html-computational-elaborations-of-narratological-concepts",
+    "node-43.html-trends-in-the-field",
+    "node-43.html-works-cited",
+    "html-2510.18201v1-1-introduction",
+    "html-2510.18201v1-2-3-relation-arcs-and-character-arcs",
+    "ai-text-classification-narrative-flow-analysis-for-writers-structural-cohesion",
+    "ai-text-classification-narrative-flow-analysis-for-writers-quantifying-narrative-structure",
+    "ai-text-classification-narrative-flow-analysis-for-writers-cohesion-metrics-for-sentence-transitions",
+    "pdf-2601.06445-content"
+  ],
+  "research-paper": [
+    "2021.nuse-1.10-towards-a-model-theoretic-view-of-narratives",
+    "abs-2412.02897-arxiv-is-hiring-a-devops-engineer",
+    "ocs-index.php-AIIDE-AIIDE15-paper-view-11616-content"
+  ],
+  "consistency-checking": [
+    "publication-FactTrack-content",
+    "en-blog-detecting-plot-holes-with-qc-the-most-common-plot-holes"
+  ],
+  "narratology": [
+    "node-43.html-primary-tabs",
+    "node-43.html-explication",
+    "node-43.html-computational-elaborations-of-narratological-concepts",
+    "node-43.html-topics-for-further-investigation",
+    "html-2605.02475v1-3-theoretical-lineage-and-computational-counterparts"
+  ],
+  "documentation": [
+    "node-43.html-primary-tabs",
+    "abs-2405.15248-submission-history",
+    "L-Earthling-temporal-literary-networks-table-of-contents",
+    "L-Earthling-temporal-literary-networks-repository-structure"
+  ],
+  "digital-humanities": [
+    "node-43.html-primary-tabs",
+    "P18-4002-novelperspective-identifying-point-of-view-characters"
+  ],
+  "narrative-theory": [
+    "node-43.html-definition",
+    "node-43.html-influences-from-humanities-narratology",
+    "node-43.html-influences-from-linguistics",
+    "node-43.html-trends-in-the-field",
+    "html-2510.18201v1-2-3-relation-arcs-and-character-arcs",
+    "html-2505.24803v1-2-3-story-evaluation-criteria",
+    "html-2601.07033v1-2-1-creative-writing",
+    "L-Earthling-temporal-literary-networks-leo-tolstoy-anna-karenina-1878-literary-realist-fiction-novel-19th-century",
+    "ai-text-classification-narrative-flow-analysis-for-writers-defining-narrative-flow-and-its-importance",
+    "ai-text-classification-narrative-flow-analysis-for-writers-case-study-narrative-flow-in-modern-literature",
+    "ai-text-classification-narrative-flow-analysis-for-writers-structural-cohesion",
+    "ai-text-classification-narrative-flow-analysis-for-writers-emotional-resonance-waveform",
+    "html-2411.12907v1-2-1-states-complexity-and-pivots",
+    "dual-pov-3-thematic-emotional-tropes",
+    "dual-pov-5-narrative-device-tropes"
+  ],
+  "data-mining": [
+    "node-43.html-definition",
+    "node-43.html-influences-from-linguistics",
+    "proceedings-2022-0686.pdf-content"
+  ],
+  "cognitive-science": [
+    "node-43.html-definition",
+    "ai-text-classification-narrative-flow-analysis-for-writers-structural-cohesion"
+  ],
+  "computational-theory": [
+    "node-43.html-explication"
+  ],
+  "game-design": [
+    "node-43.html-explication",
+    "ocs-index.php-AIIDE-AIIDE15-paper-view-11616-content"
+  ],
+  "computational-narratology": [
+    "node-43.html-influences-from-humanities-narratology",
+    "node-43.html-influences-from-linguistics"
+  ],
+  "story-generation": [
+    "node-43.html-influences-from-humanities-narratology",
+    "docs-research-prosecreator-platform-architecture-1-introduction",
+    "html-2503.23512v5-ii-c-similarity-based-episode-evaluation-and-sentiment-analysis"
+  ],
+  "nlp": [
+    "node-43.html-influences-from-humanities-narratology",
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge",
+    "pdf-2512.19012-content",
+    "doi-10.1073-pnas.2011695118-sign-up-for-pnas-alerts",
+    "L-Earthling-temporal-literary-networks-pipeline"
+  ],
+  "linguistics": [
+    "node-43.html-influences-from-linguistics",
+    "ai-text-classification-narrative-flow-analysis-for-writers-disrupted-temporal-continuity"
+  ],
+  "humanities-computing": [
+    "node-43.html-computational-elaborations-of-narratological-concepts"
+  ],
+  "interactive-media": [
+    "node-43.html-trends-in-the-field",
+    "html-2505.24803v1-2-2-generative-storytelling-using-large-language-models"
+  ],
+  "natural-language-generation": [
+    "node-43.html-trends-in-the-field",
+    "html-2601.07033v1-2-1-creative-writing"
+  ],
+  "computational-humanities": [
+    "node-43.html-topics-for-further-investigation"
+  ],
+  "data-annotation": [
+    "node-43.html-topics-for-further-investigation"
+  ],
+  "theoretical-framework": [
+    "node-43.html-topics-for-further-investigation",
+    "html-2605.02475v1-3-theoretical-lineage-and-computational-counterparts"
+  ],
+  "references": [
+    "node-43.html-works-cited"
+  ],
+  "academic-theory": [
+    "node-43.html-works-cited"
+  ],
+  "interactive-narrative": [
+    "node-43.html-works-cited"
+  ],
+  "state-tracking": [
+    "pdf-2407.16347-content"
+  ],
+  "factual-consistency": [
+    "pdf-2407.16347-content"
+  ],
+  "temporal-reasoning": [
+    "pdf-2407.16347-content"
+  ],
+  "structured-prediction": [
+    "ojs-10358-10358-13-13886-1-2-20201228.pdf-content"
+  ],
+  "algorithm-reference": [
+    "~riedl-pubs-jair.pdf-content"
+  ],
+  "cognitive-modeling": [
+    "~riedl-pubs-jair.pdf-content"
+  ],
+  "narrative-generation": [
+    "proceedings-2022-0686.pdf-content",
+    "pdf-2604.21253-content",
+    "html-2503.23512v5-i-introduction",
+    "html-2601.07033v1-1-introduction",
+    "html-2601.07033v1-3-2-codified-foreshadow-payoff-generation",
+    "index.php-AIIDE-article-view-12428-abstract",
+    "html-2604.21253v1-1-introduction",
+    "html-2604.21253v1-2-1-outline-based-narrative-planning",
+    "html-2604.21253v1-2-2-role-play-based-narrative-planning",
+    "html-2604.21253v1-3-1-task-definition",
+    "html-2604.21253v1-3-2-stage-1-graph-based-script-planning",
+    "html-2604.21253v1-3-3-stage-2-iterative-graph-refinement",
+    "ojs-12836-12836-52-16352-1-2-20201228.pdf-content"
+  ],
+  "simulation-analysis": [
+    "proceedings-2022-0686.pdf-content"
+  ],
+  "human-computer-interaction": [
+    "proceedings-2022-0686.pdf-content"
+  ],
+  "ai-planning": [
+    "index.php-AIIDE-article-download-12712-12560-content"
+  ],
+  "state-space-search": [
+    "index.php-AIIDE-article-download-12712-12560-content"
+  ],
+  "character-simulation": [
+    "index.php-AIIDE-article-download-12712-12560-content"
+  ],
+  "sentiment-analysis": [
+    "html-2510.18201v1-1-introduction",
+    "html-2510.18201v1-2-1-events",
+    "html-2510.18201v1-3-1-dataset",
+    "html-2510.18201v1-3-5-circumstance",
+    "html-2510.18201v1-3-6-relation-and-character-arcs",
+    "html-2503.23512v5-ii-c-similarity-based-episode-evaluation-and-sentiment-analysis"
+  ],
+  "event-extraction": [
+    "html-2510.18201v1-2-1-events"
+  ],
+  "nlp-pipeline": [
+    "html-2510.18201v1-2-3-relation-arcs-and-character-arcs",
+    "html-2510.18201v1-3-1-dataset"
+  ],
+  "data-preprocessing": [
+    "html-2510.18201v1-3-1-dataset"
+  ],
+  "information-extraction": [
+    "html-2510.18201v1-3-1-dataset"
+  ],
+  "nlp-modeling": [
+    "html-2510.18201v1-3-6-relation-and-character-arcs",
+    "html-2601.07033v1-2-1-creative-writing"
+  ],
+  "quality-assurance": [
+    "canon-enforcement-the-problem-every-novelist-faces",
+    "canon-enforcement-what-canon-enforcement-catches",
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one",
+    "scene-audit-the-mistakes-that-kill-reader-trust",
+    "scene-audit-works-across-entire-series",
+    "en-blog-detecting-plot-holes-with-qc-why-quality-control-matters",
+    "en-blog-detecting-plot-holes-with-qc-the-most-common-plot-holes",
+    "en-blog-detecting-plot-holes-with-qc-what-happens-when-an-error-is-found",
+    "en-blog-detecting-plot-holes-with-qc-why-automated-qc-outperforms-manual-editing-on-consistency",
+    "Krish-afk-bot-narrative-consistency-verifier-mission",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-five-types-that-destroy-reader-trust",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-key-takeaways"
+  ],
+  "validation": [
+    "canon-enforcement-what-canon-enforcement-catches",
+    "en-blog-detecting-plot-holes-with-qc-how-the-qc-report-looks",
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works"
+  ],
+  "author-tools": [
+    "canon-enforcement-what-canon-enforcement-catches"
+  ],
+  "data-analysis": [
+    "projects-sibyl-sibyl",
+    "html-2505.24803v1-2-3-story-evaluation-criteria",
+    "doi-10.1073-pnas.2011695118-significance",
+    "ai-text-classification-narrative-flow-analysis-for-writers-mathematical-modeling-of-narrative-flow",
+    "html-2411.12907v1-2-1-states-complexity-and-pivots"
+  ],
+  "predictive-models": [
+    "projects-sibyl-sibyl"
+  ],
+  "overview": [
+    "projects-sibyl-project-overview"
+  ],
+  "project-architecture": [
+    "projects-sibyl-project-overview"
+  ],
+  "conceptual-overview": [
+    "projects-sibyl-overview-challenges"
+  ],
+  "data-consistency": [
+    "projects-sibyl-overview-challenges",
+    "blog-persistent-memory-for-ai-agents-where-vector-stores-fail",
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge"
+  ],
+  "automation": [
+    "projects-sibyl-overview-challenges",
+    "quick-start-for-autonomous-agents",
+    "silkspace-llm-knowledge-graph-quick-start",
+    "html-2503.23512v5-ii-a-continuity-analysis-and-key-item-status-correction",
+    "en-blog-detecting-plot-holes-with-qc-what-happens-when-an-error-is-found",
+    "en-blog-detecting-plot-holes-with-qc-why-automated-qc-outperforms-manual-editing-on-consistency",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-3-the-comparison-that-makes-it-clear"
+  ],
+  "context-management": [
+    "projects-sibyl-summary"
+  ],
+  "knowledge-base": [
+    "projects-sibyl-summary"
+  ],
+  "product-architecture": [
+    "projects-sibyl-solution-results"
+  ],
+  "data-structure": [
+    "projects-sibyl-solution-results",
+    "storykit-introduction",
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-metadata-csv-per-work-metadata"
+  ],
+  "narrative-intelligence": [
+    "projects-sibyl-solution-results",
+    "index.php-AIIDE-article-download-27511-27284-31562-content"
+  ],
+  "introduction": [
+    "storykit-introduction"
+  ],
+  "semantic-tagging": [
+    "storykit-introduction"
+  ],
+  "lore-engine": [
+    "storykit-introduction"
+  ],
+  "narrative-syntax": [
+    "storykit-final-example-story-engine-v1-9-compliant"
+  ],
+  "v1.9-specification": [
+    "storykit-final-example-story-engine-v1-9-compliant"
+  ],
+  "schema": [
+    "storykit-final-example-story-engine-v1-9-compliant"
+  ],
+  "branching-logic": [
+    "storykit-final-example-story-engine-v1-9-compliant"
+  ],
+  "syntax": [
+    "storykit-hard-rules"
+  ],
+  "structural-rules": [
+    "storykit-hard-rules"
+  ],
+  "standardization": [
+    "storykit-hard-rules"
+  ],
+  "Product Overview": [
+    "how-plotforge-works"
+  ],
+  "Workflow": [
+    "how-plotforge-works"
+  ],
+  "Content Creation": [
+    "how-plotforge-works"
+  ],
+  "AI Integration": [
+    "how-plotforge-works"
+  ],
+  "ai-assistance": [
+    "manual-workspace-with-optional-ai-boosts"
+  ],
+  "data-import-export": [
+    "manual-workspace-with-optional-ai-boosts"
+  ],
+  "writing-workflow": [
+    "manual-workspace-with-optional-ai-boosts"
+  ],
+  "product-tour": [
+    "the-voice-engine-ai-that-writes-like-you"
+  ],
+  "product-demo": [
+    "board-the-iss-lumen-explore-the-artifact"
+  ],
+  "general-info": [
+    "faq",
+    "blog-how-to-add-persistent-llm-memory-to-your-gpt-bot-developer-guide-navigation"
+  ],
+  "security-privacy": [
+    "faq"
+  ],
+  "sdk": [
+    "quick-start-for-autonomous-agents"
+  ],
+  "core-setup": [
+    "quick-start-for-autonomous-agents"
+  ],
+  "integration": [
+    "option-a-mcp-server-recommended-for-cursor-claude-code-windsurf",
+    "option-b-rest-api-for-any-http-capable-agent",
+    "silkspace-llm-knowledge-graph-dependencies"
+  ],
+  "authentication": [
+    "option-a-mcp-server-recommended-for-cursor-claude-code-windsurf",
+    "option-b-rest-api-for-any-http-capable-agent",
+    "available-mcp-tools",
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-prohibitions"
+  ],
+  "MCP": [
+    "option-a-mcp-server-recommended-for-cursor-claude-code-windsurf"
+  ],
+  "api-reference": [
+    "option-b-rest-api-for-any-http-capable-agent",
+    "available-mcp-tools",
+    "novel-novella-multi-volume-workflow",
+    "short-story-workflow",
+    "picture-book-workflow",
+    "key-rules-for-ai-agents",
+    "create-world",
+    "docs-research-prosecreator-platform-architecture-1-introduction",
+    "silkspace-llm-knowledge-graph-option-1-mcp-tools-recommended",
+    "article-10.1007-s11225-023-10076-z-references"
+  ],
+  "mcp": [
+    "option-b-rest-api-for-any-http-capable-agent"
+  ],
+  "webhooks": [
+    "available-mcp-tools"
+  ],
+  "state-management": [
+    "novel-novella-multi-volume-workflow",
+    "html-2503.23512v5-ii-a-continuity-analysis-and-key-item-status-correction",
+    "html-2601.07033v1-3-2-codified-foreshadow-payoff-generation"
+  ],
+  "workflow-management": [
+    "key-rules-for-ai-agents",
+    "docs-research-prosecreator-platform-architecture-1-introduction"
+  ],
+  "ai-governance": [
+    "key-rules-for-ai-agents"
+  ],
+  "asset-management": [
+    "key-rules-for-ai-agents",
+    "qa-question-page-tournaments-maximum-number-twists-turns-related-books"
+  ],
+  "architecture": [
+    "docs-research-prosecreator-platform-architecture-prosecreator-a-tri-store-knowledge-architecture-for-ai-assisted-long-form-creative-writing-with-living-blueprints-multi-dimensional-continuity-validation-and-horizontally-scalable-workflow-dispatch",
+    "docs-research-prosecreator-platform-architecture-1-introduction",
+    "blog-persistent-memory-for-ai-agents-tl-dr",
+    "blog-persistent-memory-for-ai-agents-three-question-shapes-that-decide-your-architecture",
+    "silkspace-llm-knowledge-graph-what-this-actually-does",
+    "silkspace-llm-knowledge-graph-the-flow",
+    "silkspace-llm-knowledge-graph-what-makes-this-rad",
+    "silkspace-llm-knowledge-graph-under-the-hood",
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture",
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure",
+    "dual-pov-convergence-divergence"
+  ],
+  "scalability": [
+    "docs-research-prosecreator-platform-architecture-prosecreator-a-tri-store-knowledge-architecture-for-ai-assisted-long-form-creative-writing-with-living-blueprints-multi-dimensional-continuity-validation-and-horizontally-scalable-workflow-dispatch",
+    "docs-research-prosecreator-platform-architecture-1-introduction"
+  ],
+  "Architecture": [
+    "docs-research-prosecreator-platform-architecture-abstract",
+    "docs-research-prosecreator-platform-architecture-2-background-and-related-work",
+    "blog-persistent-memory-for-ai-agents-why-persistent-memory-is-the-right-framing",
+    "blog-persistent-memory-for-ai-agents-approach-3-hybrid-memory-graph-vector-indexed-together",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-knowledge-graphs-for-your-llm",
+    "docs-user-guide-memory-overview-memory-architecture",
+    "docaohieu2808-Engram-Mem-blob-main-docs-project-overview-pdr.md-content"
+  ],
+  "Generative AI": [
+    "docs-research-prosecreator-platform-architecture-abstract"
+  ],
+  "Workflow-Orchestration": [
+    "docs-research-prosecreator-platform-architecture-abstract"
+  ],
+  "Data-Storage": [
+    "docs-research-prosecreator-platform-architecture-abstract"
+  ],
+  "API-Reference": [
+    "docs-research-prosecreator-platform-architecture-abstract",
+    "docaohieu2808-Engram-Mem-blob-main-docs-project-overview-pdr.md-content"
+  ],
+  "knowledge-retrieval": [
+    "docs-research-prosecreator-platform-architecture-1-introduction",
+    "silkspace-llm-knowledge-graph-the-flow"
+  ],
+  "llm-orchestration": [
+    "docs-research-prosecreator-platform-architecture-1-introduction"
+  ],
+  "system-architecture": [
+    "docs-research-prosecreator-platform-architecture-1-introduction",
+    "html-2605.02475v1-1-introduction"
+  ],
+  "Knowledge-Graphs": [
+    "docs-research-prosecreator-platform-architecture-2-background-and-related-work"
+  ],
+  "Multi-Agent-Systems": [
+    "docs-research-prosecreator-platform-architecture-2-background-and-related-work"
+  ],
+  "Literature-Review": [
+    "docs-research-prosecreator-platform-architecture-2-background-and-related-work"
+  ],
+  "knowledge-representation": [
+    "html-2505.24803v1-1-introduction",
+    "html-2505.24803v1-1-introduction",
+    "blog-persistent-memory-for-ai-agents-what-graphs-are-good-at"
+  ],
+  "LLM-pipeline": [
+    "html-2505.24803v1-1-introduction"
+  ],
+  "narrative-AI": [
+    "html-2505.24803v1-1-introduction"
+  ],
+  "data-architecture": [
+    "html-2505.24803v1-2-1-knowledge-graph-and-retrieval-augmented-generation",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-credible-responses",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-correcting-llm-hallucinations"
+  ],
+  "retrieval-mechanisms": [
+    "html-2505.24803v1-2-1-knowledge-graph-and-retrieval-augmented-generation"
+  ],
+  "generative-ai": [
+    "html-2505.24803v1-2-2-generative-storytelling-using-large-language-models",
+    "html-2411.12907v1-1-introduction",
+    "html-2411.12907v1-3-discussion"
+  ],
+  "evaluation-methodology": [
+    "html-2505.24803v1-2-3-story-evaluation-criteria"
+  ],
+  "quality-metrics": [
+    "html-2505.24803v1-2-3-story-evaluation-criteria"
+  ],
+  "memory-management": [
+    "blog-persistent-memory-for-ai-agents-tl-dr",
+    "docs-user-guide-memory-overview-basic-memory-usage"
+  ],
+  "agent-frameworks": [
+    "blog-persistent-memory-for-ai-agents-tl-dr"
+  ],
+  "data-storage": [
+    "blog-persistent-memory-for-ai-agents-tl-dr",
+    "blog-persistent-memory-for-ai-agents-what-vector-stores-are-good-at",
+    "blog-persistent-memory-for-ai-agents-three-question-shapes-that-decide-your-architecture"
+  ],
+  "Memory Management": [
+    "blog-persistent-memory-for-ai-agents-why-persistent-memory-is-the-right-framing",
+    "docs-user-guide-memory-overview-memory-architecture"
+  ],
+  "Agentic Systems": [
+    "blog-persistent-memory-for-ai-agents-why-persistent-memory-is-the-right-framing"
+  ],
+  "Design Patterns": [
+    "blog-persistent-memory-for-ai-agents-why-persistent-memory-is-the-right-framing"
+  ],
+  "data-modeling": [
+    "blog-persistent-memory-for-ai-agents-approach-1-the-knowledge-graph-neo4j-style",
+    "blog-persistent-memory-for-ai-agents-what-graphs-are-good-at",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-answering-complex-questions",
+    "html-2503.23512v5-ii-b-key-item-interaction-analysis",
+    "html-2601.07033v1-3-1-structured-representation-of-narrative-commitments"
+  ],
+  "agent-memory": [
+    "blog-persistent-memory-for-ai-agents-approach-1-the-knowledge-graph-neo4j-style"
+  ],
+  "graph-databases": [
+    "blog-persistent-memory-for-ai-agents-approach-1-the-knowledge-graph-neo4j-style"
+  ],
+  "query-optimization": [
+    "blog-persistent-memory-for-ai-agents-approach-1-the-knowledge-graph-neo4j-style",
+    "blog-persistent-memory-for-ai-agents-what-graphs-are-good-at",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-complete-responses"
+  ],
+  "graph-theory": [
+    "blog-persistent-memory-for-ai-agents-what-graphs-are-good-at",
+    "html-2604.21253v1-3-1-task-definition",
+    "L-Earthling-temporal-literary-networks-metrics-and-parameters",
+    "ai-text-classification-narrative-flow-analysis-for-writers-mathematical-modeling-of-narrative-flow",
+    "ai-text-classification-narrative-flow-analysis-for-writers-case-study-narrative-flow-in-modern-literature",
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-implementation"
+  ],
+  "architecture-guidelines": [
+    "blog-persistent-memory-for-ai-agents-where-graphs-fail"
+  ],
+  "performance-tuning": [
+    "blog-persistent-memory-for-ai-agents-where-graphs-fail"
+  ],
+  "database-selection": [
+    "blog-persistent-memory-for-ai-agents-where-graphs-fail"
+  ],
+  "limitations": [
+    "blog-persistent-memory-for-ai-agents-where-graphs-fail"
+  ],
+  "Vector Database": [
+    "blog-persistent-memory-for-ai-agents-approach-2-the-vector-store-pinecone-weaviate-pgvector-chroma"
+  ],
+  "Information Retrieval": [
+    "blog-persistent-memory-for-ai-agents-approach-2-the-vector-store-pinecone-weaviate-pgvector-chroma"
+  ],
+  "Agent Memory": [
+    "blog-persistent-memory-for-ai-agents-approach-2-the-vector-store-pinecone-weaviate-pgvector-chroma"
+  ],
+  "Data Architecture": [
+    "blog-persistent-memory-for-ai-agents-approach-2-the-vector-store-pinecone-weaviate-pgvector-chroma"
+  ],
+  "vector-search": [
+    "blog-persistent-memory-for-ai-agents-what-vector-stores-are-good-at",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-complete-responses",
+    "html-2503.23512v5-ii-c-similarity-based-episode-evaluation-and-sentiment-analysis"
+  ],
+  "database-architecture": [
+    "blog-persistent-memory-for-ai-agents-what-vector-stores-are-good-at"
+  ],
+  "RAG": [
+    "blog-persistent-memory-for-ai-agents-what-vector-stores-are-good-at",
+    "blog-persistent-memory-for-ai-agents-approach-3-hybrid-memory-graph-vector-indexed-together",
+    "bazilicum-GraphLTM-blob-main-README.md-content",
+    "html-2503.23512v5-ii-method",
+    "html-2503.23512v5-iii-e-results"
+  ],
+  "vector-databases": [
+    "blog-persistent-memory-for-ai-agents-where-vector-stores-fail"
+  ],
+  "architecture-design": [
+    "blog-persistent-memory-for-ai-agents-where-vector-stores-fail",
+    "html-2605.02475v1-1-introduction"
+  ],
+  "search-relevance": [
+    "blog-persistent-memory-for-ai-agents-where-vector-stores-fail"
+  ],
+  "Database": [
+    "blog-persistent-memory-for-ai-agents-approach-3-hybrid-memory-graph-vector-indexed-together"
+  ],
+  "Graph-Databases": [
+    "blog-persistent-memory-for-ai-agents-approach-3-hybrid-memory-graph-vector-indexed-together"
+  ],
+  "Vector-Search": [
+    "blog-persistent-memory-for-ai-agents-approach-3-hybrid-memory-graph-vector-indexed-together"
+  ],
+  "infrastructure-design": [
+    "blog-persistent-memory-for-ai-agents-three-question-shapes-that-decide-your-architecture"
+  ],
+  "site-map": [
+    "blog-how-to-add-persistent-llm-memory-to-your-gpt-bot-developer-guide-navigation"
+  ],
+  "architecture-patterns": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-answering-complex-questions",
+    "html-2604.21253v1-2-1-outline-based-narrative-planning"
+  ],
+  "search-optimization": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-answering-complex-questions",
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-credible-responses",
+    "index.php-AIIDE-article-download-27511-27284-31562-content"
+  ],
+  "data-retrieval": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-complete-responses",
+    "html-2503.23512v5-iii-c-evaluation-process"
+  ],
+  "knowledge-graphs": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-credible-responses",
+    "html-2604.21253v1-2-3-graph-based-llm-reasoning"
+  ],
+  "ai-reliability": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-credible-responses"
+  ],
+  "llm-reliability": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-correcting-llm-hallucinations"
+  ],
+  "Artificial Intelligence": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-knowledge-graphs-for-your-llm"
+  ],
+  "Knowledge Graphs": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-knowledge-graphs-for-your-llm"
+  ],
+  "Integrations": [
+    "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-knowledge-graphs-for-your-llm"
+  ],
+  "Data Storage": [
+    "docs-user-guide-memory-overview-memory-architecture"
+  ],
+  "vector-stores": [
+    "docs-user-guide-memory-overview-basic-memory-usage"
+  ],
+  "llm-persistence": [
+    "docs-user-guide-memory-overview-basic-memory-usage"
+  ],
+  "agent-state": [
+    "docs-user-guide-memory-overview-basic-memory-usage"
+  ],
+  "AI-Infrastructure": [
+    "docaohieu2808-Engram-Mem-blob-main-docs-project-overview-pdr.md-content"
+  ],
+  "Configuration": [
+    "docaohieu2808-Engram-Mem-blob-main-docs-project-overview-pdr.md-content"
+  ],
+  "Security": [
+    "docaohieu2808-Engram-Mem-blob-main-docs-project-overview-pdr.md-content"
+  ],
+  "testing": [
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-prohibitions"
+  ],
+  "best-practices": [
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-prohibitions",
+    "scene-audit-the-mistakes-that-kill-reader-trust",
+    "en-blog-detecting-plot-holes-with-qc-why-automated-qc-outperforms-manual-editing-on-consistency",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-in-this-guide",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-1-build-your-story-bible-first"
+  ],
+  "documentation-standards": [
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-conventions"
+  ],
+  "developer-tooling": [
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-conventions"
+  ],
+  "workflow-automation": [
+    "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-conventions"
+  ],
+  "installation": [
+    "silkspace-llm-knowledge-graph-dependencies",
+    "silkspace-llm-knowledge-graph-2-install-via-npm-recommended"
+  ],
+  "dependencies": [
+    "silkspace-llm-knowledge-graph-dependencies"
+  ],
+  "environment-setup": [
+    "silkspace-llm-knowledge-graph-dependencies"
+  ],
+  "memory-systems": [
+    "silkspace-llm-knowledge-graph-what-this-actually-does",
+    "silkspace-llm-knowledge-graph-for-claude-this-is-your-memory-system"
+  ],
+  "semantic-search": [
+    "silkspace-llm-knowledge-graph-what-this-actually-does",
+    "silkspace-llm-knowledge-graph-the-flow",
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge"
+  ],
+  "vector-database": [
+    "silkspace-llm-knowledge-graph-the-flow",
+    "silkspace-llm-knowledge-graph-option-2-direct-python-api",
+    "silkspace-llm-knowledge-graph-what-makes-this-rad",
+    "silkspace-llm-knowledge-graph-under-the-hood"
+  ],
+  "mcp-protocol": [
+    "silkspace-llm-knowledge-graph-the-flow",
+    "silkspace-llm-knowledge-graph-for-claude-this-is-your-memory-system",
+    "silkspace-llm-knowledge-graph-option-1-mcp-tools-recommended"
+  ],
+  "data-persistence": [
+    "silkspace-llm-knowledge-graph-for-claude-this-is-your-memory-system"
+  ],
+  "searching": [
+    "silkspace-llm-knowledge-graph-quick-start"
+  ],
+  "data-ingestion": [
+    "silkspace-llm-knowledge-graph-quick-start",
+    "silkspace-llm-knowledge-graph-option-1-mcp-tools-recommended",
+    "silkspace-llm-knowledge-graph-option-2-direct-python-api"
+  ],
+  "search-retrieval": [
+    "silkspace-llm-knowledge-graph-option-1-mcp-tools-recommended",
+    "silkspace-llm-knowledge-graph-example-real-session"
+  ],
+  "python-api": [
+    "silkspace-llm-knowledge-graph-option-2-direct-python-api"
+  ],
+  "performance": [
+    "silkspace-llm-knowledge-graph-what-makes-this-rad"
+  ],
+  "cli-reference": [
+    "silkspace-llm-knowledge-graph-under-the-hood"
+  ],
+  "command-line-interface": [
+    "silkspace-llm-knowledge-graph-example-real-session"
+  ],
+  "persistent-memory": [
+    "silkspace-llm-knowledge-graph-example-real-session"
+  ],
+  "deployment": [
+    "silkspace-llm-knowledge-graph-2-install-via-npm-recommended"
+  ],
+  "mcp-integration": [
+    "silkspace-llm-knowledge-graph-2-install-via-npm-recommended"
+  ],
+  "long-term-memory": [
+    "bazilicum-GraphLTM-blob-main-README.md-content"
+  ],
+  "graph-database": [
+    "bazilicum-GraphLTM-blob-main-README.md-content"
+  ],
+  "agentic-ai": [
+    "bazilicum-GraphLTM-blob-main-README.md-content"
+  ],
+  "document-processing": [
+    "bazilicum-GraphLTM-blob-main-README.md-content",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey"
+  ],
+  "graph-reasoning": [
+    "pdf-2604.21253-content",
+    "html-2604.21253v1-1-introduction"
+  ],
+  "multi-agent-systems": [
+    "pdf-2604.21253-content",
+    "html-2604.21253v1-3-3-stage-2-iterative-graph-refinement"
+  ],
+  "long-context-ai": [
+    "pdf-2604.21253-content"
+  ],
+  "editing": [
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one",
+    "blog-how-to-map-a-multi-pov-novel-the-disappearing-character"
+  ],
+  "manuscript-review": [
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one"
+  ],
+  "series-management": [
+    "scene-audit-works-across-entire-series"
+  ],
+  "content-audit": [
+    "scene-audit-works-across-entire-series"
+  ],
+  "evaluation-framework": [
+    "html-2503.23512v5-i-introduction",
+    "html-2503.23512v5-ii-method",
+    "html-2503.23512v5-ii-c-similarity-based-episode-evaluation-and-sentiment-analysis",
+    "html-2503.23512v5-v-conclusion",
+    "pdf-2512.19012-content",
+    "content-pdf-10.1007-s00354-020-00111-1.pdf-content"
+  ],
+  "llm-architecture": [
+    "html-2503.23512v5-i-introduction"
+  ],
+  "rag": [
+    "html-2503.23512v5-i-introduction",
+    "html-2503.23512v5-v-conclusion"
+  ],
+  "LLM": [
+    "html-2503.23512v5-ii-method"
+  ],
+  "data-validation": [
+    "html-2503.23512v5-ii-a-continuity-analysis-and-key-item-status-correction"
+  ],
+  "logic-correction": [
+    "html-2503.23512v5-ii-a-continuity-analysis-and-key-item-status-correction"
+  ],
+  "content-summarization": [
+    "html-2503.23512v5-ii-b-key-item-interaction-analysis"
+  ],
+  "information-retrieval": [
+    "html-2503.23512v5-ii-b-key-item-interaction-analysis"
+  ],
+  "retrieval-augmented-generation": [
+    "html-2503.23512v5-ii-c-similarity-based-episode-evaluation-and-sentiment-analysis"
+  ],
+  "llm-evaluation": [
+    "html-2503.23512v5-iii-c-evaluation-process",
+    "pdf-2504.11900-content"
+  ],
+  "performance-metrics": [
+    "html-2503.23512v5-iii-e-results",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-numbers-behind-the-problem"
+  ],
+  "evaluation": [
+    "html-2503.23512v5-iii-e-results"
+  ],
+  "Limitations": [
+    "html-2503.23512v5-iv-limitations"
+  ],
+  "Performance": [
+    "html-2503.23512v5-iv-limitations"
+  ],
+  "Sentiment Analysis": [
+    "html-2503.23512v5-iv-limitations"
+  ],
+  "Model Evaluation": [
+    "html-2503.23512v5-iv-limitations"
+  ],
+  "llm-testing": [
+    "html-2503.23512v5-v-conclusion"
+  ],
+  "Quality Assurance": [
+    "en-blog-detecting-plot-holes-with-qc-support-help"
+  ],
+  "Automation": [
+    "en-blog-detecting-plot-holes-with-qc-support-help"
+  ],
+  "Content Validation": [
+    "en-blog-detecting-plot-holes-with-qc-support-help"
+  ],
+  "narrative-engine": [
+    "en-blog-detecting-plot-holes-with-qc-why-quality-control-matters"
+  ],
+  "error-handling": [
+    "en-blog-detecting-plot-holes-with-qc-why-quality-control-matters",
+    "en-blog-detecting-plot-holes-with-qc-the-most-common-plot-holes",
+    "en-blog-detecting-plot-holes-with-qc-what-happens-when-an-error-is-found"
+  ],
+  "long-form-content": [
+    "en-blog-detecting-plot-holes-with-qc-why-quality-control-matters"
+  ],
+  "monitoring": [
+    "en-blog-detecting-plot-holes-with-qc-how-the-qc-report-looks"
+  ],
+  "data-integrity": [
+    "en-blog-detecting-plot-holes-with-qc-how-the-qc-report-looks"
+  ],
+  "reporting": [
+    "en-blog-detecting-plot-holes-with-qc-how-the-qc-report-looks"
+  ],
+  "content-validation": [
+    "en-blog-detecting-plot-holes-with-qc-what-happens-when-an-error-is-found",
+    "Krish-afk-bot-narrative-consistency-verifier-mission"
+  ],
+  "content-editing": [
+    "en-blog-detecting-plot-holes-with-qc-why-automated-qc-outperforms-manual-editing-on-consistency"
+  ],
+  "computation-and-language": [
+    "abs-2412.02897-arxiv-is-hiring-a-devops-engineer"
+  ],
+  "integrations": [
+    "abs-2412.02897-bookmark",
+    "abs-2405.15248-bookmark",
+    "abs-2208.11922-bookmark",
+    "abs-2104.07472-bookmark",
+    "abs-2206.09708-bookmark"
+  ],
+  "community-tools": [
+    "abs-2412.02897-bookmark",
+    "abs-2104.07472-bookmark"
+  ],
+  "discovery": [
+    "abs-2412.02897-bookmark",
+    "qa-question-page-tournaments-maximum-number-twists-turns-related-books"
+  ],
+  "experimentation": [
+    "abs-2412.02897-bookmark"
+  ],
+  "reasoning-engine": [
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge"
+  ],
+  "document-indexing": [
+    "Krish-afk-bot-narrative-consistency-verifier-key-features"
+  ],
+  "logic-reasoning": [
+    "Krish-afk-bot-narrative-consistency-verifier-key-features"
+  ],
+  "fact-checking": [
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works"
+  ],
+  "data-pipeline": [
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture",
+    "L-Earthling-temporal-literary-networks-pipeline"
+  ],
+  "backend": [
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture"
+  ],
+  "rag-framework": [
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey"
+  ],
+  "contributing-guide": [
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure"
+  ],
+  "project-structure": [
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure"
+  ],
+  "benchmark": [
+    "pdf-2504.11900-content",
+    "pdf-2512.19012-content"
+  ],
+  "reasoning": [
+    "pdf-2504.11900-content",
+    "html-2604.21253v1-2-3-graph-based-llm-reasoning"
+  ],
+  "data-generation": [
+    "pdf-2504.11900-content"
+  ],
+  "causal-modeling": [
+    "html-2601.07033v1-1-introduction",
+    "html-2601.07033v1-3-2-codified-foreshadow-payoff-generation",
+    "html-2605.02475v1-1-introduction"
+  ],
+  "framework-introduction": [
+    "html-2601.07033v1-1-introduction"
+  ],
+  "evaluating-llms": [
+    "html-2601.07033v1-1-introduction"
+  ],
+  "model-alignment": [
+    "html-2601.07033v1-2-2-controllable-text-generation"
+  ],
+  "text-generation": [
+    "html-2601.07033v1-2-2-controllable-text-generation"
+  ],
+  "narrative-logic": [
+    "html-2601.07033v1-3-1-structured-representation-of-narrative-commitments"
+  ],
+  "causal-inference": [
+    "html-2601.07033v1-3-1-structured-representation-of-narrative-commitments",
+    "publications-paper-sWZw-abstract",
+    "html-2605.02475v1-1-introduction",
+    "html-2605.02475v1-2-pipeline-overview",
+    "html-2605.02475v1-3-theoretical-lineage-and-computational-counterparts"
+  ],
+  "storytelling-framework": [
+    "html-2601.07033v1-3-1-structured-representation-of-narrative-commitments",
+    "blog-how-to-map-a-multi-pov-novel-rotating-pov-a-song-of-ice-and-fire"
+  ],
+  "symbolic-ai": [
+    "html-2601.07033v1-3-2-codified-foreshadow-payoff-generation",
+    "html-2605.02475v1-1-introduction"
+  ],
+  "narrative-continuity": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-are-plot-holes-really",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-3-the-comparison-that-makes-it-clear",
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-key-takeaways"
+  ],
+  "story-bible": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-are-plot-holes-really"
+  ],
+  "story-architecture": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-five-types-that-destroy-reader-trust",
+    "blog-how-to-map-a-multi-pov-novel-key-takeaways",
+    "blog-how-to-map-a-multi-pov-novel-how-does-visual-mapping-handle-parallel-tracks-and-connected-threads",
+    "dual-pov-woven",
+    "dual-pov-aligned",
+    "dual-pov-linked"
+  ],
+  "reader-trust": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-five-types-that-destroy-reader-trust"
+  ],
+  "case-study": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-numbers-behind-the-problem"
+  ],
+  "ai-best-practices": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-numbers-behind-the-problem"
+  ],
+  "accuracy-check": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-what-readers-actually-do-when-they-find-one"
+  ],
+  "document-management": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-2-chapter-linking-across-25-documents"
+  ],
+  "content-linking": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-2-chapter-linking-across-25-documents"
+  ],
+  "ai-context": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-2-chapter-linking-across-25-documents"
+  ],
+  "workflow-comparison": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-3-the-comparison-that-makes-it-clear"
+  ],
+  "narrative-consistency": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-4-write-with-continuity-active"
+  ],
+  "ai-memory": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-4-write-with-continuity-active"
+  ],
+  "AI-context": [
+    "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-key-takeaways"
+  ],
+  "formal-logic": [
+    "article-10.1007-s11225-023-10076-z-abstract",
+    "ojs-12836-12836-52-16352-1-2-20201228.pdf-content"
+  ],
+  "temporal-logic": [
+    "article-10.1007-s11225-023-10076-z-abstract",
+    "publications-paper-sWZw-abstract",
+    "html-2405.10912v3-1introduction"
+  ],
+  "modal-semantics": [
+    "article-10.1007-s11225-023-10076-z-abstract"
+  ],
+  "philosophical-logic": [
+    "article-10.1007-s11225-023-10076-z-abstract"
+  ],
+  "logic": [
+    "article-10.1007-s11225-023-10076-z-references"
+  ],
+  "philosophy": [
+    "article-10.1007-s11225-023-10076-z-references"
+  ],
+  "formal-semantics": [
+    "article-10.1007-s11225-023-10076-z-references"
+  ],
+  "publication-metadata": [
+    "article-10.1007-s11225-023-10076-z-references"
+  ],
+  "metadata": [
+    "index.php-AIIDE-article-view-12428-authors",
+    "abs-2405.15248-submission-history",
+    "abs-2208.11922-submission-history",
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-metadata-csv-per-work-metadata",
+    "L-Earthling-temporal-literary-networks-corpus-composition",
+    "abs-2104.07472-submission-history",
+    "qa-question-page-tournaments-maximum-number-twists-turns-whispers-of-pleasure-games-of-desire",
+    "qa-question-main-pov-main-character-most-fascinating-in-between-lies",
+    "abs-2206.09708-submission-history"
+  ],
+  "citation": [
+    "index.php-AIIDE-article-view-12428-authors",
+    "abs-2104.07472-submission-history",
+    "abs-2206.09708-submission-history"
+  ],
+  "academic-reference": [
+    "index.php-AIIDE-article-view-12428-authors"
+  ],
+  "planning-algorithms": [
+    "index.php-AIIDE-article-view-12428-abstract"
+  ],
+  "automated-storytelling": [
+    "index.php-AIIDE-article-view-12428-abstract"
+  ],
+  "llm-agents": [
+    "html-2604.21253v1-1-introduction"
+  ],
+  "structural-planning": [
+    "html-2604.21253v1-1-introduction"
+  ],
+  "machine-learning-theory": [
+    "html-2604.21253v1-2-1-outline-based-narrative-planning"
+  ],
+  "multi-agent systems": [
+    "html-2604.21253v1-2-2-role-play-based-narrative-planning"
+  ],
+  "simulation frameworks": [
+    "html-2604.21253v1-2-2-role-play-based-narrative-planning"
+  ],
+  "frameworks": [
+    "html-2604.21253v1-2-3-graph-based-llm-reasoning"
+  ],
+  "machine-learning-framework": [
+    "html-2604.21253v1-3-1-task-definition"
+  ],
+  "graph-modeling": [
+    "html-2604.21253v1-3-2-stage-1-graph-based-script-planning"
+  ],
+  "script-planning": [
+    "html-2604.21253v1-3-2-stage-1-graph-based-script-planning"
+  ],
+  "character-design": [
+    "html-2604.21253v1-3-2-stage-1-graph-based-script-planning",
+    "dual-pov-linked",
+    "dual-pov-2-character-dynamics-relationship-tropes",
+    "dual-pov-3-thematic-emotional-tropes"
+  ],
+  "graph-processing": [
+    "html-2604.21253v1-3-3-stage-2-iterative-graph-refinement"
+  ],
+  "ai-refinement": [
+    "html-2604.21253v1-3-3-stage-2-iterative-graph-refinement"
+  ],
+  "citation-management": [
+    "abs-2405.15248-submission-history",
+    "abs-2208.11922-submission-history"
+  ],
+  "version-control": [
+    "abs-2405.15248-submission-history",
+    "abs-2104.07472-submission-history"
+  ],
+  "bibliometrics": [
+    "abs-2405.15248-bookmark",
+    "doi-10.1073-pnas.2011695118-metrics",
+    "abs-2104.07472-bookmark"
+  ],
+  "research-tools": [
+    "abs-2405.15248-bookmark",
+    "doi-10.1073-pnas.2011695118-sign-up-for-pnas-alerts",
+    "abs-2104.07472-bookmark",
+    "abs-2206.09708-bookmark"
+  ],
+  "community-projects": [
+    "abs-2405.15248-bookmark",
+    "abs-2208.11922-bookmark",
+    "abs-2206.09708-bookmark"
+  ],
+  "story-representation": [
+    "ojs-12836-12836-52-16352-1-2-20201228.pdf-content"
+  ],
+  "logic-programming": [
+    "publications-paper-sWZw-abstract"
+  ],
+  "formal-verification": [
+    "html-2405.10912v3-1introduction"
+  ],
+  "model-checking": [
+    "html-2405.10912v3-1introduction"
+  ],
+  "theory": [
+    "html-2405.10912v3-1introduction"
+  ],
+  "causality": [
+    "html-2405.10912v3-1-1temporal-causality"
+  ],
+  "verification": [
+    "html-2405.10912v3-1-1temporal-causality"
+  ],
+  "trace-analysis": [
+    "html-2405.10912v3-1-1temporal-causality"
+  ],
+  "theoretical-computer-science": [
+    "html-2405.10912v3-1-1temporal-causality"
+  ],
+  "storytelling-algorithms": [
+    "index.php-AIIDE-article-download-27511-27284-31562-content"
+  ],
+  "narrative-systems": [
+    "html-2605.02475v1-1-introduction",
+    "ocs-index.php-AIIDE-AIIDE15-paper-view-11616-content"
+  ],
+  "llm-workflows": [
+    "html-2605.02475v1-1-introduction"
+  ],
+  "nlp-reasoning": [
+    "html-2605.02475v1-1-introduction"
+  ],
+  "pipeline-architecture": [
+    "html-2605.02475v1-2-pipeline-overview"
+  ],
+  "simulation-engine": [
+    "html-2605.02475v1-2-pipeline-overview"
+  ],
+  "data-model": [
+    "html-2605.02475v1-3-theoretical-lineage-and-computational-counterparts"
+  ],
+  "ai-logic": [
+    "html-2605.02475v1-3-theoretical-lineage-and-computational-counterparts"
+  ],
+  "versioning": [
+    "abs-2208.11922-submission-history"
+  ],
+  "academic-publishing": [
+    "abs-2208.11922-submission-history"
+  ],
+  "bibliographic-tools": [
+    "abs-2208.11922-bookmark"
+  ],
+  "model-analysis": [
+    "pdf-2512.19012-content"
+  ],
+  "publication-data": [
+    "doi-10.1073-pnas.2011695118-metrics"
+  ],
+  "data-science": [
+    "doi-10.1073-pnas.2011695118-abstract",
+    "doi-10.1073-pnas.2011695118-sign-up-for-pnas-alerts",
+    "L-Earthling-temporal-literary-networks-table-of-contents",
+    "L-Earthling-temporal-literary-networks-what-are-temporal-signed-literary-networks",
+    "L-Earthling-temporal-literary-networks-repository-structure",
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-applications-in-computational-storytelling",
+    "ai-text-classification-narrative-flow-analysis-for-writers-case-study-narrative-flow-in-modern-literature",
+    "ai-text-classification-narrative-flow-analysis-for-writers-quantifying-narrative-structure",
+    "html-2411.12907v1-2-1-states-complexity-and-pivots",
+    "html-2411.12907v1-2-2-prediction-focussed-metrics-suspense-and-plot-twists",
+    "html-2411.12907v1-3-discussion",
+    "html-2411.12907v1-references"
+  ],
+  "research-framework": [
+    "doi-10.1073-pnas.2011695118-abstract"
+  ],
+  "user-preferences": [
+    "doi-10.1073-pnas.2011695118-sign-up-for-pnas-alerts"
+  ],
+  "semantic-analysis": [
+    "doi-10.1073-pnas.2011695118-measures"
+  ],
+  "text-metrics": [
+    "doi-10.1073-pnas.2011695118-measures"
+  ],
+  "network-analysis": [
+    "L-Earthling-temporal-literary-networks-table-of-contents",
+    "L-Earthling-temporal-literary-networks-what-are-temporal-signed-literary-networks",
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-csv-character-relationship-edges",
+    "L-Earthling-temporal-literary-networks-pipeline",
+    "L-Earthling-temporal-literary-networks-moli-re-tartuffe-1664-comedy-satire-play-early-modern-1600-1800",
+    "L-Earthling-temporal-literary-networks-repository-structure"
+  ],
+  "research": [
+    "L-Earthling-temporal-literary-networks-table-of-contents"
+  ],
+  "literature-studies": [
+    "L-Earthling-temporal-literary-networks-what-are-temporal-signed-literary-networks"
+  ],
+  "dataset-schema": [
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-csv-character-relationship-edges",
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-metadata-csv-per-work-metadata"
+  ],
+  "nlp-datasets": [
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-csv-character-relationship-edges"
+  ],
+  "csv-reference": [
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-csv-character-relationship-edges"
+  ],
+  "literary-analysis": [
+    "L-Earthling-temporal-literary-networks-temporal-literary-networks-metadata-csv-per-work-metadata",
+    "L-Earthling-temporal-literary-networks-corpus-composition",
+    "L-Earthling-temporal-literary-networks-leo-tolstoy-anna-karenina-1878-literary-realist-fiction-novel-19th-century",
+    "ai-text-classification-narrative-flow-analysis-for-writers-case-study-narrative-flow-in-modern-literature",
+    "blog-how-to-map-a-multi-pov-novel-converging-pov-cloud-atlas",
+    "2020.emnlp-main.47.pdf-content"
+  ],
+  "research-methodology": [
+    "L-Earthling-temporal-literary-networks-corpus-composition"
+  ],
+  "network-science": [
+    "L-Earthling-temporal-literary-networks-leo-tolstoy-anna-karenina-1878-literary-realist-fiction-novel-19th-century"
+  ],
+  "literary-theory": [
+    "L-Earthling-temporal-literary-networks-moli-re-tartuffe-1664-comedy-satire-play-early-modern-1600-1800",
+    "dual-pov-object"
+  ],
+  "quantitative-metrics": [
+    "L-Earthling-temporal-literary-networks-moli-re-tartuffe-1664-comedy-satire-play-early-modern-1600-1800"
+  ],
+  "genre-analysis": [
+    "L-Earthling-temporal-literary-networks-moli-re-tartuffe-1664-comedy-satire-play-early-modern-1600-1800"
+  ],
+  "narrative-analytics": [
+    "L-Earthling-temporal-literary-networks-metrics-and-parameters"
+  ],
+  "metrics-reference": [
+    "L-Earthling-temporal-literary-networks-metrics-and-parameters"
+  ],
+  "network-topology": [
+    "L-Earthling-temporal-literary-networks-metrics-and-parameters"
+  ],
+  "repository-structure": [
+    "L-Earthling-temporal-literary-networks-repository-structure"
+  ],
+  "structural-design": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-defining-narrative-flow-and-its-importance",
+    "blog-how-to-map-a-multi-pov-novel-when-to-break-the-pattern"
+  ],
+  "mathematical-modeling": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-mathematical-modeling-of-narrative-flow",
+    "ai-text-classification-narrative-flow-analysis-for-writers-emotional-resonance-waveform",
+    "ai-text-classification-narrative-flow-analysis-for-writers-disrupted-temporal-continuity",
+    "ai-text-classification-narrative-flow-analysis-for-writers-quantifying-narrative-structure"
+  ],
+  "structural-analysis": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-structural-cohesion",
+    "ai-text-classification-narrative-flow-analysis-for-writers-emotional-resonance-waveform",
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-implementation",
+    "blog-how-to-map-a-multi-pov-novel-what-is-the-problem-with-multi-pov-outlines",
+    "blog-how-to-map-a-multi-pov-novel-why-do-linear-outlines-break-down-with-multiple-povs",
+    "blog-how-to-map-a-multi-pov-novel-identifying-convergence-points"
+  ],
+  "prose-optimization": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-emotional-resonance-waveform"
+  ],
+  "writing-standards": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-overuse-of-exposition"
+  ],
+  "content-metrics": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-overuse-of-exposition",
+    "html-2411.12907v1-2-1-states-complexity-and-pivots"
+  ],
+  "structural-editing": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-disrupted-temporal-continuity",
+    "blog-how-to-map-a-multi-pov-novel-the-disconnected-subplot"
+  ],
+  "computational-narrative": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-implementation"
+  ],
+  "data-structures": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-practical-implementation"
+  ],
+  "text-analytics": [
+    "ai-text-classification-narrative-flow-analysis-for-writers-cohesion-metrics-for-sentence-transitions"
+  ],
+  "Natural Language Generation": [
+    "2021.nuse-1.9.pdf-content"
+  ],
+  "Evaluation Metrics": [
+    "2021.nuse-1.9.pdf-content"
+  ],
+  "Narrative Theory": [
+    "2021.nuse-1.9.pdf-content",
+    "blog-how-to-map-a-multi-pov-novel-balancing-screen-time",
+    "publications-White2018NovelPerspective.pdf-content"
+  ],
+  "Linguistics": [
+    "2021.nuse-1.9.pdf-content"
+  ],
+  "benchmark-evaluation": [
+    "pdf-2601.06445-content"
+  ],
+  "academic-publication": [
+    "abs-2104.07472-submission-history"
+  ],
+  "information-theory": [
+    "html-2411.12907v1-1-introduction",
+    "html-2411.12907v1-2-1-states-complexity-and-pivots",
+    "html-2411.12907v1-2-2-prediction-focussed-metrics-suspense-and-plot-twists"
+  ],
+  "metrics": [
+    "html-2411.12907v1-2-1-states-complexity-and-pivots",
+    "html-2411.12907v1-2-2-prediction-focussed-metrics-suspense-and-plot-twists"
+  ],
+  "content-comparison": [
+    "html-2411.12907v1-2-1-states-complexity-and-pivots"
+  ],
+  "predictive-modeling": [
+    "html-2411.12907v1-2-2-prediction-focussed-metrics-suspense-and-plot-twists"
+  ],
+  "bibliography": [
+    "html-2411.12907v1-references"
+  ],
+  "academic-references": [
+    "html-2411.12907v1-references"
+  ],
+  "multimedia-modeling": [
+    "html-2411.12907v1-references"
+  ],
+  "computational-creativity": [
+    "content-pdf-10.1007-s00354-020-00111-1.pdf-content"
+  ],
+  "nlp-and-storytelling": [
+    "content-pdf-10.1007-s00354-020-00111-1.pdf-content"
+  ],
+  "protagonist-development": [
+    "blog-how-to-map-a-multi-pov-novel-key-takeaways"
+  ],
+  "plotting-theory": [
+    "blog-how-to-map-a-multi-pov-novel-why-do-linear-outlines-break-down-with-multiple-povs"
+  ],
+  "visual-mapping": [
+    "blog-how-to-map-a-multi-pov-novel-how-does-visual-mapping-handle-parallel-tracks-and-connected-threads"
+  ],
+  "content-planning": [
+    "blog-how-to-map-a-multi-pov-novel-how-does-visual-mapping-handle-parallel-tracks-and-connected-threads"
+  ],
+  "storyboarding": [
+    "blog-how-to-map-a-multi-pov-novel-setting-up-character-tracks"
+  ],
+  "plotting": [
+    "blog-how-to-map-a-multi-pov-novel-drawing-connections-between-storylines",
+    "dual-pov-linked"
+  ],
+  "editing-workflow": [
+    "blog-how-to-map-a-multi-pov-novel-drawing-connections-between-storylines"
+  ],
+  "storytelling-architecture": [
+    "blog-how-to-map-a-multi-pov-novel-identifying-convergence-points"
+  ],
+  "structure": [
+    "blog-how-to-map-a-multi-pov-novel-the-disappearing-character"
+  ],
+  "outlining": [
+    "blog-how-to-map-a-multi-pov-novel-the-disappearing-character"
+  ],
+  "pacing": [
+    "blog-how-to-map-a-multi-pov-novel-the-disconnected-subplot",
+    "blog-how-to-map-a-multi-pov-novel-the-lopsided-arc",
+    "blog-how-to-map-a-multi-pov-novel-the-forced-convergence",
+    "blog-how-to-map-a-multi-pov-novel-alternation-patterns"
+  ],
+  "storytelling-theory": [
+    "blog-how-to-map-a-multi-pov-novel-the-lopsided-arc",
+    "dual-pov-parallel",
+    "dual-pov-opposition"
+  ],
+  "plot-design": [
+    "blog-how-to-map-a-multi-pov-novel-the-forced-convergence",
+    "dual-pov-aligned"
+  ],
+  "Story Structure": [
+    "blog-how-to-map-a-multi-pov-novel-balancing-screen-time"
+  ],
+  "Reader Psychology": [
+    "blog-how-to-map-a-multi-pov-novel-balancing-screen-time"
+  ],
+  "character-pov": [
+    "blog-how-to-map-a-multi-pov-novel-when-to-break-the-pattern",
+    "dual-pov-parallel"
+  ],
+  "pacing-techniques": [
+    "blog-how-to-map-a-multi-pov-novel-when-to-break-the-pattern"
+  ],
+  "structural-mapping": [
+    "blog-how-to-map-a-multi-pov-novel-converging-pov-cloud-atlas"
+  ],
+  "pov-convergence": [
+    "blog-how-to-map-a-multi-pov-novel-converging-pov-cloud-atlas"
+  ],
+  "distributed-systems": [
+    "dual-pov-convergence-divergence"
+  ],
+  "synchronization": [
+    "dual-pov-convergence-divergence"
+  ],
+  "storytelling-techniques": [
+    "dual-pov-staggered",
+    "dual-pov-object"
+  ],
+  "conflict-design": [
+    "dual-pov-opposition"
+  ],
+  "story-structure": [
+    "dual-pov-theme",
+    "dual-pov-5-narrative-device-tropes"
+  ],
+  "thematic-analysis": [
+    "dual-pov-theme"
+  ],
+  "thematic-design": [
+    "dual-pov-object"
+  ],
+  "character development": [
+    "dual-pov-a-big-list-of-potential-approaches"
+  ],
+  "writing-techniques": [
+    "dual-pov-a-big-list-of-potential-approaches"
+  ],
+  "literary-devices": [
+    "dual-pov-1-structural-tropes"
+  ],
+  "storytelling-frameworks": [
+    "dual-pov-1-structural-tropes"
+  ],
+  "tropes": [
+    "dual-pov-2-character-dynamics-relationship-tropes"
+  ],
+  "genre-conventions": [
+    "dual-pov-3-thematic-emotional-tropes"
+  ],
+  "literature-tropes": [
+    "dual-pov-5-narrative-device-tropes"
+  ],
+  "content-discovery": [
+    "qa-question-book-w-different-characters-povs-finally-related-books"
+  ],
+  "image-optimization": [
+    "qa-question-book-w-different-characters-povs-finally-related-books"
+  ],
+  "Fiction": [
+    "qa-question-book-w-different-characters-povs-finally-two-different-worlds"
+  ],
+  "Romance": [
+    "qa-question-book-w-different-characters-povs-finally-two-different-worlds"
+  ],
+  "Young Adult": [
+    "qa-question-book-w-different-characters-povs-finally-two-different-worlds"
+  ],
+  "Character Summary": [
+    "qa-question-book-w-different-characters-povs-finally-two-different-worlds"
+  ],
+  "literary-content": [
+    "qa-question-book-w-different-characters-povs-finally-she-came-back-different"
+  ],
+  "character-profiles": [
+    "qa-question-book-w-different-characters-povs-finally-she-came-back-different",
+    "qa-question-page-tournaments-maximum-number-twists-turns-wrong-number-right-person"
+  ],
+  "plot-summary": [
+    "qa-question-book-w-different-characters-povs-finally-she-came-back-different",
+    "qa-question-page-tournaments-maximum-number-twists-turns-wrong-number-right-person"
+  ],
+  "thriller-romance": [
+    "qa-question-book-w-different-characters-povs-finally-she-came-back-different"
+  ],
+  "content-catalog": [
+    "qa-question-book-w-different-characters-povs-finally-different-worlds-beware-of-the-crime-boss-s-children",
+    "qa-question-book-w-different-characters-povs-finally-the-billionaire-s-contract",
+    "qa-question-page-tournaments-maximum-number-twists-turns-whispers-of-pleasure-games-of-desire"
+  ],
+  "fiction-synopsis": [
+    "qa-question-book-w-different-characters-povs-finally-different-worlds-beware-of-the-crime-boss-s-children"
+  ],
+  "media-metadata": [
+    "qa-question-book-w-different-characters-povs-finally-different-worlds-beware-of-the-crime-boss-s-children",
+    "qa-question-book-w-different-characters-povs-finally-the-billionaire-s-contract"
+  ],
+  "romance-fiction": [
+    "qa-question-book-w-different-characters-povs-finally-the-billionaire-s-contract",
+    "qa-question-page-tournaments-maximum-number-twists-turns-chains-of-steel-threads-of-silver"
+  ],
+  "literary-tropes": [
+    "qa-question-book-w-different-characters-povs-finally-the-billionaire-s-contract"
+  ],
+  "Content-Catalog": [
+    "qa-question-book-w-different-characters-povs-finally-realms-books"
+  ],
+  "Series-Metadata": [
+    "qa-question-book-w-different-characters-povs-finally-realms-books"
+  ],
+  "Literature-Overview": [
+    "qa-question-book-w-different-characters-povs-finally-realms-books"
+  ],
+  "frontend-components": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-related-books"
+  ],
+  "contemporary-romance": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-wrong-number-right-person"
+  ],
+  "fiction": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-wrong-number-right-person"
+  ],
+  "romance": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-age-is-just-a-number"
+  ],
+  "literary-summary": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-age-is-just-a-number"
+  ],
+  "entertainment-content": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-age-is-just-a-number"
+  ],
+  "contemporary-fiction": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-age-is-just-a-number"
+  ],
+  "Paranormal Romance": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-the-pack-rule-number-1-no-mates"
+  ],
+  "Urban Fantasy": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-the-pack-rule-number-1-no-mates"
+  ],
+  "Shifter Culture": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-the-pack-rule-number-1-no-mates"
+  ],
+  "Character Tropes": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-the-pack-rule-number-1-no-mates"
+  ],
+  "narrative-summary": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-of-glory-and-of-doom"
+  ],
+  "character-bios": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-of-glory-and-of-doom"
+  ],
+  "plot-themes": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-of-glory-and-of-doom"
+  ],
+  "content-metadata": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-chains-of-steel-threads-of-silver"
+  ],
+  "user-engagement": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-chains-of-steel-threads-of-silver"
+  ],
+  "story-cataloging": [
+    "qa-question-page-tournaments-maximum-number-twists-turns-chains-of-steel-threads-of-silver"
+  ],
+  "text-analysis": [
+    "P18-4002-novelperspective-identifying-point-of-view-characters"
+  ],
+  "media-assets": [
+    "qa-question-main-pov-main-character-most-fascinating-in-between-lies"
+  ],
+  "character-profile": [
+    "qa-question-main-pov-main-character-most-fascinating-rain-and-ashes"
+  ],
+  "lore-backstory": [
+    "qa-question-main-pov-main-character-most-fascinating-rain-and-ashes"
+  ],
+  "supernatural-fiction": [
+    "qa-question-main-pov-main-character-most-fascinating-rain-and-ashes"
+  ],
+  "unsupervised-learning": [
+    "~miyyer-pubs-2017_relationships_aaai.pdf-content"
+  ],
+  "computational-narratives": [
+    "~miyyer-pubs-2017_relationships_aaai.pdf-content"
+  ],
+  "social-network-analysis": [
+    "2020.emnlp-main.47.pdf-content"
+  ],
+  "dataset-reference": [
+    "2020.emnlp-main.47.pdf-content"
+  ],
+  "metadata-extraction": [
+    "2020.emnlp-main.47.pdf-content"
+  ],
+  "publication": [
+    "abs-2206.09708-submission-history"
+  ],
+  "archiving": [
+    "abs-2206.09708-submission-history"
+  ],
+  "bibliographic-data": [
+    "abs-2206.09708-bookmark"
+  ],
+  "Information Extraction": [
+    "publications-White2018NovelPerspective.pdf-content"
+  ],
+  "Metadata Generation": [
+    "publications-White2018NovelPerspective.pdf-content"
+  ]
+}

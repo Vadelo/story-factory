@@ -1,0 +1,28 @@
+{
+  "title": "4. Show what narrators see with emotion",
+  "path": "lyrical-writing-richer-prose-4-show-what-narrators-see-with-emotion",
+  "url": "https://www.nownovel.com/lyrical-writing-richer-prose/",
+  "keywords": [
+    "lyrical writing",
+    "subtext",
+    "tone poem",
+    "descriptive imagery",
+    "character perspective",
+    "sensory details",
+    "narrative emotion",
+    "visual metaphors"
+  ],
+  "use_cases": [
+    "Use when conveying character emotions through environmental observations rather than direct dialogue",
+    "Implement when creating atmospheric scenes that require sensory depth",
+    "Configure when drafting subtext to represent a narrator's internal state through external details"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-techniques",
+    "stylistics"
+  ],
+  "priority": 7,
+  "content": "Lyrical writing is descriptive, in the same way a 'tone poem' (a piece of music meant to evoke a scene or image, like 'Poissons D'or') is descriptive.\n\nLyrical writing doesn't tell us, 'This story is about golden fish'. Like Debussy's piece, it shows us something (such as the movement of a fish through water).\n\nLyrical writing may give us good subtext about what a character is feeling, in the details they observe.\n\nFor example, an elated character cresting a hill on a tough 5-day hike might say:\n\nAnd at last, we were there - the summit beneath our feet and the valley's aquamarines, deep greens and chalky grays scaled down into a hushed and sunlit miniature far below.\n\nHere the use of time ('at last') and the sense of space and separation and note of triumph ('we were there') together create the a scene that suggests the triumphant feeling and the pleasure of a new perspective for the hiker.",
+  "token_estimate": 211
+}

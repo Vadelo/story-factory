@@ -1,0 +1,33 @@
+{
+  "title": "What is a Good Model for Magic?",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-what-is-a-good-model-for-magic",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "magic system",
+    "thematic roles",
+    "balanced magic",
+    "worldbuilding",
+    "simulation",
+    "RPG setting",
+    "internal consistency",
+    "game themes",
+    "magic scaling"
+  ],
+  "use_cases": [
+    "Use when designing a magic system that aligns with your RPG’s core themes",
+    "Implement when you need to balance magic so it does not overpower other gameplay elements",
+    "Configure when integrating magic with other game systems to maintain internal consistency",
+    "Use when conducting worldbuilding exercises that involve magical components",
+    "Plan when aligning magic mechanics with broader setting narratives"
+  ],
+  "tags": [
+    "game-design",
+    "worldbuilding",
+    "magic-systems",
+    "rpg",
+    "balance"
+  ],
+  "priority": 8,
+  "content": "Almost all RPGs have a system to simulate magic in their constructed world. Magic, it turns out, is so thematically potent in RPGs — much more so than a system of economics or a system of government — that magic with unclear aims tends to muddle the setting. Magic with active aims with clear thematic roles brings the entire setting up to a higher level. The trick is to keep magic both thematic and balanced so that it doesn’t overpower the world but also act in concert with the rest of the game’s internal themes.\n\nThis model for magic doesn’t provide tools to scale magic up or down from a pure systems simulation perspective but helps to set it in context so that it functions thematically and is internally consistent with the rest of the worldbuilding exercise. It also informs the rest of the world.",
+  "token_estimate": 192
+}

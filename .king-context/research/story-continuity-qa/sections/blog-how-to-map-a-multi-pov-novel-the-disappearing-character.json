@@ -1,0 +1,30 @@
+{
+  "title": "The Disappearing Character",
+  "path": "blog-how-to-map-a-multi-pov-novel-the-disappearing-character",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "POV characters",
+    "list-based outline",
+    "visual map",
+    "spatial gap",
+    "storyline tightening",
+    "pacing",
+    "character tracks",
+    "structural analysis"
+  ],
+  "use_cases": [
+    "Use when diagnosing pacing issues in a multi-protagonist narrative",
+    "Configure when transition from list-based outlining to visual mapping",
+    "Implement when identifying unmentioned or neglected secondary characters",
+    "Use when deciding whether to add content or tighten existing story arcs"
+  ],
+  "tags": [
+    "structure",
+    "editing",
+    "outlining",
+    "character-development"
+  ],
+  "priority": 7,
+  "content": "You have four POV characters. Three of them are doing interesting things. The fourth goes unmentioned for 150 pages.\n\nIn a list-based outline, this can hide easily. You might not notice until you tally up the chapters. On a visual map, the fourth character's track just stops. The gap is spatial. You see the white space where their presence should be.\n\nThe fix is not always to add more chapters for the missing character. Sometimes the right answer is to tighten the other three storylines so the gap closes. But you cannot make that decision until you can see the gap.",
+  "token_estimate": 134
+}

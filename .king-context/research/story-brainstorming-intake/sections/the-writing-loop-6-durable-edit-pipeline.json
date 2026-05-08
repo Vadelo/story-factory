@@ -1,0 +1,33 @@
+{
+  "title": "6. Durable edit pipeline",
+  "path": "the-writing-loop-6-durable-edit-pipeline",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "Durable edit pipeline",
+    "memoization",
+    "LLM verification",
+    "Upsert",
+    "CDN/ISR cache revalidation",
+    "POST /api/revalidate",
+    "shared secret",
+    "concurrency queueing",
+    "retries",
+    "multi-step function"
+  ],
+  "use_cases": [
+    "Implement when automated content rewriting requires guaranteed persistence and survival of system crashes",
+    "Configure when LLM outputs need automated verification against specific feedback points to prevent silent failures",
+    "Use when content updates must reflect on a live site immediately without triggering a full CI/CD deployment",
+    "Configure when managing high-volume feedback where sequential processing per resource is required to avoid race conditions"
+  ],
+  "tags": [
+    "content-management",
+    "artificial-intelligence",
+    "caching",
+    "automation",
+    "api-reference"
+  ],
+  "priority": 9,
+  "content": "A multi-step function that survives crashes. Each step is memoized — retries pick up where they left off, not from the beginning.\n\nSteps:\n\n1. Fetch — pull article content and all pending feedback from the database\n2. Rewrite — send content + feedback to an LLM with instructions: apply the feedback, preserve voice, return full rewritten content\n3. Verify — a separate LLM call reviews the original, the rewrite, and each feedback item. Returns a verdict per item: applied (with evidence) or missed. This catches the LLM quietly ignoring feedback.\n4. Retry missed — if any items were missed, rewrite again with only those items. Max 2 retries.\n5. Upsert — write the verified content back to the database\n6. Revalidate — bust the CDN/ISR cache so the page updates without a deploy\n7. Mark status — update each feedback item to`applied` or`failed` based on verification verdicts\n8. Notify — alert the author that edits landed (Telegram, email, Slack, whatever)\n\nConcurrency: one pipeline execution per article at a time. Queue additional feedback until the current run completes.\n\nThe verification step is non-optional. Without it, the LLM will silently ignore ~15-20% of feedback items. A second LLM call checking the diff is cheaper than a human re-reading the whole article.\n\nAn API route that accepts tags and paths, validates a shared secret, and calls your framework’s revalidation API:\n\n```\nPOST /api/revalidate\n{ secret, tags: [\"post:slug\"], paths: [\"/slug\"] }\n```\n\nFeedback → edit → live in under a minute, no deploy.",
+  "token_estimate": 331
+}

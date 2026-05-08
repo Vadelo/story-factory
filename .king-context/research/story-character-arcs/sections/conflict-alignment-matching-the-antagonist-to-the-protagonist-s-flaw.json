@@ -1,0 +1,29 @@
+{
+  "title": "Conflict Alignment: Matching the Antagonist to the Protagonist’s Flaw",
+  "path": "conflict-alignment-matching-the-antagonist-to-the-protagonist-s-flaw",
+  "url": "https://blog.celtx.com/?p=11874",
+  "keywords": [
+    "Conflict Alignment",
+    "Antagonist Design",
+    "Fatal Flaw",
+    "Hamartia",
+    "Internal Vulnerabilities",
+    "Character Catalyst",
+    "Protagonist Evolution",
+    "Conflict Mapping"
+  ],
+  "use_cases": [
+    "Use when designing an antagonist that serves a specific thematic purpose",
+    "Implement when the protagonist lacks clear motivation or direction for growth",
+    "Configure when mapping narrative conflict to character-specific psychological weaknesses",
+    "Use when developing the internal-to-external conflict loop in a narrative structure"
+  ],
+  "tags": [
+    "narrative-design",
+    "storytelling-theory",
+    "character-development"
+  ],
+  "priority": 9,
+  "content": "The most effective storytelling doesn’t just put two people in a room and make them fight; it uses Conflict Alignment. This is the practice of designing an antagonist specifically to exploit the protagonist’s internal “Fatal Flaw” (or Hamartia).\n\nWithout a compelling antagonist, a protagonist is in danger of lacking direction or purpose, with no reason to adapt, change, or evolve. The antagonist’s role is to act as a catalyst for the protagonist’s growth by attacking their specific vulnerabilities.",
+  "token_estimate": 103
+}

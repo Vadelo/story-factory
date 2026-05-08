@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "path": "using-sudowrite-1ow1qkGqof9rtcyGnrWUBS-brainstorm-5xJUutV75BLU6u9LZndcDs-content",
+  "url": "https://docs.sudowrite.com/using-sudowrite/1ow1qkGqof9rtcyGnrWUBS/brainstorm/5xJUutV75BLU6u9LZndcDs",
+  "keywords": [
+    "Brainstorm",
+    "Keepers List",
+    "History panel",
+    "World building",
+    "Something else",
+    "Seed idea",
+    "Story Bible",
+    "Dialogue generation",
+    "Character ideation",
+    "Plot points"
+  ],
+  "use_cases": [
+    "Use when you have a seed idea and need rapid-fire lists of creative variations",
+    "Implement when you need to generate specific story elements like names, places, or descriptions without manual drafting",
+    "Configure when you want to curate and save specific AI-generated ideas into a History panel for later use",
+    "Use when you want to brainstorm concepts independently of the content in your Story Bible"
+  ],
+  "tags": [
+    "content-generation",
+    "creative-tools",
+    "user-interface",
+    "writing-assistant"
+  ],
+  "priority": 9,
+  "content": "Brainstorm – Sudowrite | Documentation\n\nAsk AI\n\n# Brainstorm\n\nLast updated on January 8, 2026\n\nPrint\n\n![Notion image](https://media.helpkit.co/proxy?url=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F004b3356-19bc-4f3e-aa72-232bb8549261%2F70588291-c390-4d64-9dea-e1d7708f397e%2Fbrainstorm.jpg&blockId=1fd70835-3a6e-4d59-aefc-6cb172f4e304&projectId=2371)\n\n# Brainstorm\n\nSometimes you have a good idea of what you need—a new setting for your fantasy epic perhaps—but are tapped out on creative names or fresh angles. That’s where Brainstorm comes in. With Brainstorm, you bring the seed of an idea and get rapid-fire inspiration in the form of a list.\n\nTo get started, click the Brainstorm button, and choose from:\n\n- Dialogue\n\n- Characters\n\n- World building\n\n- Plot points\n\n- Names\n\n- Places\n\n- Objects\n\n- Descriptions\n\n- Article ideas\n\n- Tweets\n\n- Something else\n\nThen enter your seed. Maybe it’s “Names and descriptions of spaceships”\n\n![Notion image](https://media.helpkit.co/proxy?url=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F004b3356-19bc-4f3e-aa72-232bb8549261%2F07c9cd76-c3f8-4fd2-b9f5-9c7b7f14baa7%2FScreenshot_2023-12-07_at_6.33.12_PM.png&blockId=b21e41ee-b471-4d5e-9920-25df90de90bf&projectId=2371)\n\nClick Start and you’ll have a fresh list of spaceship concepts generated for you. You can use the Thumbs Up (👍) to save the ones you like to your Keepers List, and the Thumbs Down (👎) to clear that suggestion from your list (to make space for a new one). When you’re satisfied with your choices, click Save & Exit, and your Keepers List will be saved to a card in your History panel on the right. Note that Brainstorm works independently, exclusively using the context and examples you provide in the Brainstorm panel. That means it doesn’t see your Story Bible details.\n\n📓\n\nBrainstorm transcript\n\nWhile the visuals in the video above are sort of essential, a transcript of the Brainstorm video above is available by expanding this toggle.\n\nWelcome to the next installment in our Quick Start series. Today, we're exploring the Brainstorm button—a tool designed to get you unstuck and fuel your creativity.\n\nSometimes, you're on the brink of a great idea but need a spark to ignite it. Whether you're dreaming up a new setting for your fantasy saga or searching for the perfect name for your protagonist, Brainstorm can be your creative partner in that process.\n\nGetting started is simple:\n\nClick on the Brainstorm button to unveil a variety of brainstorming categories, including Dialogue, Characters, World Building, Names, and more. Select the category that fits your current need.\n\nNext, input your seed idea. For instance, if you're looking for \"Names and descriptions of spaceships,\" to fill the infinite void of space in your Sci-Fi novel, just type that in.\n\nHit Start, and like magic, you're presented with a list of inspired suggestions. Found something you love? Give it a Thumbs Up to add it to your Keepers List. Not quite right? A Thumbs Down clears the way for new ideas.\n\nOnce you've curated a collection of ideas that spark joy, click Save & Exit. Your Keepers List is then neatly stored in a card within your document’s History panel, ready for you to revisit and incorporate into your masterpiece.\n\nHere’s a little secret about brainstorm—no matter which category you select, the tool functions identically. You’re essentially choosing from pre-populated suggestions and reference material that will help the AI generations along. You can use this little refresh button for fresh suggestions, and you can always use Something Else to start entirely from scratch.\n\nIn closing, the Brainstorm button isn’t just a feature… it’s a creative partner standing by to jumpstart your imagination.\n\nThere is actually one other way you may go about brainstorming on Sudowrite… but we’ll cover that next time, when we look at the editor’s Selection Menu and Quick Tools.\n\nDid this answer your question?\n\n😞\n\n😐\n\n🤩\n\nHow can we improve this article?\n\nEmail (Optional)\n\nSend",
+  "token_estimate": 774
+}

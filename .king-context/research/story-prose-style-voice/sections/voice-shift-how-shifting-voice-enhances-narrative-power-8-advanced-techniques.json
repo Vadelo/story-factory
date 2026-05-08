@@ -1,0 +1,32 @@
+{
+  "title": "8. Advanced Techniques",
+  "path": "voice-shift-how-shifting-voice-enhances-narrative-power-8-advanced-techniques",
+  "url": "https://literarydevices.net/voice-shift-how-shifting-voice-enhances-narrative-power/",
+  "keywords": [
+    "Narrative Framing",
+    "Voice Echoing",
+    "Temporal Voice Shifts",
+    "Meta-Narration",
+    "Storytelling Layering",
+    "Perspective Management",
+    "Theme Reinforcement",
+    "Past-Present Timelines",
+    "Narrative Commentary",
+    "Self-Reflective Layer"
+  ],
+  "use_cases": [
+    "Use when a story requires multiple layers of perspective through a specific character frame",
+    "Implement when repeating key phrases is necessary to reinforce specific narrative themes",
+    "Configure when switching between past and present timelines to differentiate character voices",
+    "Use when the narrator needs to engage in self-reflection regarding the act of storytelling"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-techniques",
+    "content-strategy",
+    "stylistics"
+  ],
+  "priority": 7,
+  "content": "| Technique | Use Case | Narrative Framing | A narrator frames a story told by another character, adding layers of perspective. | Voice Echoing | Repeating key phrases across different voices to reinforce themes. | Temporal Voice Shifts | Switching voice when moving between past and present timelines. | Meta‑Narration | The narrator comments on the act of storytelling itself, creating a self‑reflective layer. |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+  "token_estimate": 115
+}

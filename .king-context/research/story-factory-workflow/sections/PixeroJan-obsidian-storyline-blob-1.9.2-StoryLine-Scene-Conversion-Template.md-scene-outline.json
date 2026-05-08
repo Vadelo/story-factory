@@ -1,0 +1,32 @@
+{
+  "title": "Scene Outline",
+  "path": "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline",
+  "url": "https://github.com/PixeroJan/obsidian-storyline/blob/1.9.2/StoryLine-Scene-Conversion-Template.md",
+  "keywords": [
+    "Scene Outline",
+    "timeline_strand",
+    "linear",
+    "flashback",
+    "flash_forward",
+    "parallel",
+    "simultaneous",
+    "timeskip",
+    "mythic",
+    "circular"
+  ],
+  "use_cases": [
+    "Configure when representing non-linear narratives like flashbacks or future events",
+    "Implement when managing multiple POV perspectives of the same moment using simultaneous mode",
+    "Use when defining a framing narrative layer or story-within-a-story structure",
+    "Configure when mapping separate parallel timelines with the timeline_strand attribute",
+    "Use when signaling intentional temporal gaps or transitions between scenes"
+  ],
+  "tags": [
+    "content-structure",
+    "narrative-configuration",
+    "timeline-management"
+  ],
+  "priority": 8,
+  "content": "| Mode | When to use |\n| --------------- | ------------------------------------------------------- |\n| `linear` | Default — scene follows normal timeline |\n| `flashback` | Past event shown out of order |\n| `flash_forward` | Future event shown early |\n| `parallel` | Separate parallel timeline (use with `timeline_strand`) |\n| `frame` | Framing narrative layer (use with `timeline_strand`) |\n| `simultaneous` | Same moment as another scene, different POV |\n| `timeskip` | Intentional time gap |\n| `dream` | Dream, vision, or hallucination |\n| `mythic` | Myth, legend, or story-within-a-story |\n| `circular` | Scene echoes or returns to an earlier moment |\n\n```",
+  "token_estimate": 142
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Hard Rules",
+  "path": "storykit-hard-rules",
+  "url": "https://superstories.app/storykit/",
+  "keywords": [
+    ":::act",
+    ":::scene",
+    ":::prompt",
+    ":::backstory",
+    "~(id)",
+    "#tag",
+    ":::brancha",
+    "secondary fences",
+    "lore tags",
+    "numeric suffixes",
+    "SuperStories"
+  ],
+  "use_cases": [
+    "Use when defining the core structural hierarchy of a narrative file",
+    "Configure when naming story files to ensure system compatibility",
+    "Implement when linking entities using identity references and state tags",
+    "Use when structuring backstory and entity metadata nodes",
+    "Configure when building cinematic branching paths with structural links"
+  ],
+  "tags": [
+    "syntax",
+    "structural-rules",
+    "content-organization",
+    "standardization"
+  ],
+  "priority": 10,
+  "content": "- All`:::act` and`:::scene` fences must include numeric suffixes\n- Every`:::act` must contain at least one`:::scene`\n- Every`:::scene` must contain exactly one`:::prompt`\n- All secondary fences must appear inside the`:::prompt` block\n- All fence labels must be lowercase (`:::optiona`, not`:::OptionA`)\n- All file names must use lowercase with dashes (e.g.,`ghosts-of-aranis-prime.story.md`)\n- All Lore tags must use hyphens — no underscores or spaces\n- Use`~(id)` for identity references; use`#tag` for state, lore, or description\n- `:::backstory` is the root of memory and entity metadata\n- Branches (`:::brancha`, etc.) must be rich, cinematic, and structurally linked\n- Close every fence properly with`:::`\n\n---\n\nSuperStories = Canon + Choice + Continuity",
+  "token_estimate": 142
+}

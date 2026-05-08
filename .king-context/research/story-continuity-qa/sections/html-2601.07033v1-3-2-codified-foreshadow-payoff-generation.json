@@ -1,0 +1,35 @@
+{
+  "title": "3.2 Codified Foreshadow-Payoff Generation",
+  "path": "html-2601.07033v1-3-2-codified-foreshadow-payoff-generation",
+  "url": "https://arxiv.org/html/2601.07033v1",
+  "keywords": [
+    "CFPG framework",
+    "Foreshadow Pool",
+    "F-T-P triple",
+    "codify function",
+    "Select-Generate-Update cycle",
+    "narrative causality",
+    "finite-state abstraction",
+    "narrative debts",
+    "verification module",
+    "causal state",
+    "BookSum corpus"
+  ],
+  "use_cases": [
+    "Use when long-range narrative consistency and payoff resolution are required in AI-generated fiction.",
+    "Implement when transitioning from implicit transformer attention to explicit symbolic tracking of story elements.",
+    "Configure when training models to handle non-trivial logical links and scent-based tracking plot points like the Hound of the Baskervilles example.",
+    "Use when developing a verification module to identify and remove fulfilled narrative commitments from a global state.",
+    "Apply when scaling narrative generation to handle context noise in full-length novel structures."
+  ],
+  "tags": [
+    "narrative-generation",
+    "state-management",
+    "symbolic-ai",
+    "causal-modeling",
+    "natural-language-processing"
+  ],
+  "priority": 9,
+  "content": "The CFPG framework externalizes narrative causality from the model’s implicit attention weights into a codified finite-state abstraction. This allows for symbolic tracking of narrative debts with a level of precision that pure prompting cannot achieve.\n\n#### 3.2.1 Causal State and Foreshadow Pool\n\nThroughout the generation process, CFPG maintains a dynamic Foreshadow Pool $\\mathcal{C}=\\left\\{\\left(F_{i},T_{i},P_{i}\\right)\\right\\}_{i=1}^{n}$ . This pool serves as a global state representing all unfulfilled narrative commitments. Unlike standard autoregressive models that compress history into a hidden vector, CFPG represents the narrative state as an explicit set of resolvable predicates.\n\nFigure 3: A representative F-T-P triple extracted from the BookSum corpus. We anchor each element to specific narrative segments, ensuring that the latent causal link is verifiable and the payoff is temporally justified.\n\n\\lxSVG@picture\n\nStory Context (Excerpt) In The Hound of the Baskervilles, Sir Henry Baskerville arrives in London to inherit the estate. Shortly afterward, a boot mysteriously disappears from his hotel room, followed by a second. No explanation is provided at this stage, leaving the incident as a strange, unsettling anomaly in the narrative flow. \\endlxSVG@picture\n\n\\lxSVG@picture\n\nForeshadow Metadata Status: Unresolved Type: Physical Object Gap: Long-range delay Logic: Non-trivial link \\endlxSVG@picture\n\n\\lxSVG@picture\n\nExtracted Foreshadow–Trigger–Payoff Triple Foreshadow (F): One of Sir Henry’s boots goes missing without any immediate explanation or functional cause. Trigger (T): The investigation reveals the existence of the hound and Stapleton’s need for a scent-based tracking tool. Payoff (P): It is revealed that the boot was stolen to train the hound specifically to hunt Sir Henry by his scent. \\endlxSVG@picture\n\n#### 3.2.2 The Codified Loop: Select, Generate, and Update\n\nAs illustrated in Figure 2, CFPG operates through an iterative Select–Generate–Update cycle:\n\n##### Eligibility Selection via Codification\n\nAt each step $t$ , for each pending commitment in the foreshadow pool $\\mathcal{C}_{t}$ , CFPG invokes the codify function. This function acts as a logical gate that evaluates the current narrative context $X_{t}$ against the trigger $T$ . Only those foreshadows whose triggers are satisfied are promoted to the active subset $S_{t}=\\{f\\in\\mathcal{C}_{t}\\mid\\operatorname{codify}(X_{t},f)=\\text{True}\\}$ .\n\n##### Guided Continuation\n\nGiven the eligible subset $S_{t}$ , the language model is tasked with generating the next scene $y$ . Unlike vanilla generation, CFPG injects the corresponding payoffs associated with $S_{t}$ into the model’s context as explicit narrative requirements. The generation is thus formulated as:\n\n| $$y\\sim p_{\\theta}\\left(y\\mid X_{t},S_{t}\\right)$$ |\n| --- |\n\nThis ensures that the transition to the next scene is not merely a probabilistic continuation, but a guided fulfillment of active narrative debts under explicit narrative constraints.\n\n##### State Transition and Grounding\n\nFollowing generation, CFPG performs a state update. A verification module identifies which commitments from $S_{t}$ were successfully realized in the text $y$ and removes them from $\\mathcal{C}_{t}$ . Simultaneously, it extracts new narrative setups introduced in $y$ and encodes them as new F–T–P triples for $\\mathcal{C}_{t+1}$ . This ensures the causal state representation remains temporally grounded as the story unfolds.\n\nExtracting foreshadow-payoff dependencies from full-length novels at scale presents a significant challenge due to narrative noise and extreme context length. We",
+  "token_estimate": 663
+}

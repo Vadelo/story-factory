@@ -1,0 +1,35 @@
+{
+  "title": "Inspection & Management Commands",
+  "path": "EdwardAThomson-StoryDaemon-inspection-management-commands",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "novel lore",
+    "novel inspect",
+    "novel checkpoint",
+    "novel compile",
+    "novel plot generate",
+    "goal hierarchy",
+    "story foundation",
+    "config.yaml",
+    "llm.backend",
+    "checkpoint_id",
+    "plot-first mode"
+  ],
+  "use_cases": [
+    "Use when you need a structured overview of project status and story foundations.",
+    "Configure when switching between different LLM backends like Codex or Gemini.",
+    "Implement when you need to create, list, or restore project snapshots using checkpoints.",
+    "Use when compiling written scenes into final manuscript formats like Markdown or HTML.",
+    "Configure when filtering world building elements by category, type, or importance.",
+    "Use when previewing the next logical step in the story plan without committing changes."
+  ],
+  "tags": [
+    "cli-reference",
+    "project-management",
+    "configuration",
+    "content-generation"
+  ],
+  "priority": 9,
+  "content": "```bash\n# Show project overview (includes story foundation)\nnovel status [--json] [--project <path>]\n\n# Show goal hierarchy and protagonist goals\nnovel goals [--json] [--project <path>]\n\n# Show world lore and rules\nnovel lore [--group-by category|type|none] [--category <cat>] [--type <type>] [--importance <level>] [--stats] [--json] [--project <path>]\n\n# List entities\nnovel list characters [-v] [--json] [--project <path>]\nnovel list locations [-v] [--json] [--project <path>]\nnovel list loops [-v] [--json] [--project <path>]\nnovel list scenes [-v] [--json] [--project <path>]\n\n# Inspect entity details\nnovel inspect --id <ID> [--history-limit 5] [--raw] [--project <path>]\nnovel inspect --file <path> [--raw]\n\n# Preview next plan without executing\nnovel plan [--save <file>] [-v] [--project <path>]\n\n# Compile scenes into manuscript\nnovel compile [--output <file>] [--format markdown|html] [--scenes <range>] [--project <path>]\n\n# Manage checkpoints\nnovel checkpoint create [--message <msg>] [--project <path>]\nnovel checkpoint list [--project <path>]\nnovel checkpoint restore --id <checkpoint_id> [--project <path>]\nnovel checkpoint delete --id <checkpoint_id> [--project <path>]\n\n# Plot-first mode commands\nnovel plot generate [--count 5] [--project <path>]\nnovel plot status [--detailed] [--project <path>]\nnovel plot next [--project <path>]\nnovel plot clear [--yes] [--project <path>]\n```\n\nGlobal configuration in `~/.storydaemon/config.yaml`:\n\n```yaml\nllm:\n  backend: codex              # \"codex\" (Codex CLI), \"api\" (multi-provider API), \"gemini-cli\" (Gemini CLI)",
+  "token_estimate": 263
+}

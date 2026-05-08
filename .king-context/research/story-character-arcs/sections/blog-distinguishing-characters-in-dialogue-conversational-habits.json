@@ -1,0 +1,32 @@
+{
+  "title": "Conversational Habits",
+  "path": "blog-distinguishing-characters-in-dialogue-conversational-habits",
+  "url": "https://mythcreants.com/blog/distinguishing-characters-in-dialogue/",
+  "keywords": [
+    "Conversational Habits",
+    "Persona Consistency",
+    "Verbose vs Terse",
+    "Casual vs Formal",
+    "Spontaneous vs Planned",
+    "Canned Responses",
+    "Character Voice",
+    "Disclaimers",
+    "Business-like Distance"
+  ],
+  "use_cases": [
+    "Configure when designing distinct persona communication styles for NPC interactions",
+    "Use when balancing character backgrounds with dialogue length and complexity",
+    "Implement when scripting rehearsed or canned responses for repetitive service-oriented tasks",
+    "Use when differentiating between spontaneous personal sharing and efficient professional jargon",
+    "Configure when mapping social formality levels to specific character archetypes"
+  ],
+  "tags": [
+    "character-design",
+    "dialogue-writing",
+    "narrative-design",
+    "persona-development"
+  ],
+  "priority": 8,
+  "content": "People have a variety of conversational habits. Some are learned behaviors, but others simply reflect what comes naturally. Some scales to consider include:\n\n- Verbose vs terse\n- Casual vs formal\n- Spontaneous, planned, or rehearsed\n\nSome people just say what comes to mind, while others will carefully plan out what they’re going to say in their head first. Generally, verbose people are also spontaneous; it’s hard to plan a lot of words ahead of time. That is, unless they say it often – then it will sound rehearsed.\n\nAnnie fields requests like Pete’s day in and day out, so she has canned responses at the ready. I’m going to give her a rehearsed line at the end, when she’s handing him the black card. Instead of the more natural sounding, “She’s not with the HGA,” she’ll spout a long disclaimer: “This is not an endorsement by the HGA. The Dark Seer is not affiliated with us in any manner, and we do not promote or condone her services.”\n\nPete is spontaneous and verbose. He also speaks in a very personal manner. He treats most people like a friendly neighbor, and he isn’t afraid to share personal details. Since he’s an older gentleman, he has a lifetime of personal details to share. I’ll use that to make him more verbose. For instance, instead of saying that going to the DMV will take hours, he’ll share additional history: “I know, I’ve been there. Twice, maybe three times. Doesn’t do any good; I don’t have my papers. Lost them in a flood down in Tennessee almost thirty years ago.”\n\nDespite Pete’s friendly chatter, Annie will maintain a business-like distance. She’s trying to get her work done quickly, so she’ll keep her words efficient and terse throughout most of the conversation. “Do you have the Sinner ID?” will become just “Sinner ID?”",
+  "token_estimate": 410
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Inline Markup",
+  "path": "lordjabez-story-framework-inline-markup",
+  "url": "https://github.com/lordjabez/story-framework",
+  "keywords": [
+    "[[...]]",
+    "{{...}}",
+    "Author notes",
+    "Edit notes",
+    "Inline Markup",
+    "git tag v1-final",
+    "revision instructions",
+    "syntax",
+    "POV",
+    "TIMELINE"
+  ],
+  "use_cases": [
+    "Use when providing persistent context or metadata such as POV and timeline for AI models",
+    "Implement when requesting specific revisions or expansions during the editing phase",
+    "Configure when finalising drafts to ensure approved files are moved to the production directory",
+    "Use when versioning a completed project using standard git tagging conventions"
+  ],
+  "tags": [
+    "documentation",
+    "syntax",
+    "version-control",
+    "ai-optimization"
+  ],
+  "priority": 8,
+  "content": "Two markup types keep notes in your drafts:\n\n| Syntax | Purpose | Example |\n| --- | --- | --- |\n| `[[...]]` | Author notes (context for AI) | `[[POV: Sarah]] [[TIMELINE: Day 3]]` |\n| `{{...}}` | Edit notes (revision instructions) | `{{FIX: wrong name}} {{EXPAND: more detail}}` |\n\n- **Author notes** stay in the draft until finalization—use them for POV, timeline, mood, active threads, research notes\n- **Edit notes** are processed and removed during revision\n\nSee `Notes/editing-markup.md` for full syntax.\n\n1. Follow the checklist in `Final/README.md`\n2. Copy approved files to `Final/`\n3. Tag the release: `git tag v1-final`",
+  "token_estimate": 136
+}

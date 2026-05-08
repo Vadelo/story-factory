@@ -1,0 +1,19 @@
+{
+  "title": "Characters",
+  "path": "characters",
+  "url": "local://works/a-margem-que-devora-o-heroi#characters",
+  "keywords": [
+    "characters",
+    "canon"
+  ],
+  "use_cases": [
+    "Recall characters for story continuation"
+  ],
+  "tags": [
+    "characters",
+    "canon"
+  ],
+  "priority": 10,
+  "content": "[\n  {\n    \"name\": \"Davi Noh\",\n    \"role\": \"protagonista / consciência presa na margem\",\n    \"desire\": \"Sobreviver à correção da página e impedir que personagens sejam esmagados por funções narrativas.\",\n    \"need\": \"Assumir responsabilidade pelas histórias que ajudou a moldar.\",\n    \"flaw\": \"Costuma reduzir pessoas a estrutura, função e eficiência.\",\n    \"power\": \"Editar frases, inserir palavras mínimas, deslocar peso narrativo, recuperar versões cortadas e interferir em comentários de revisão.\",\n    \"limitation\": \"Não tem corpo dentro da história e não pode criar do nada; age como revisor, não como autor absoluto.\"\n  },\n  {\n    \"name\": \"Yerin\",\n    \"role\": \"princesa amaldiçoada / primeira personagem que percebe a margem\",\n    \"desire\": \"Não morrer como gatilho emocional da história de outra pessoa.\",\n    \"need\": \"Transformar sobrevivência em escolha própria.\",\n    \"state_after_chapter_1\": \"Ferida no ombro, viva, fugiu pelo canal inferior usando uma variação descartada do roteiro.\"\n  },\n  {\n    \"name\": \"Kael\",\n    \"role\": \"herói regressor original / antagonista estrutural inicial\",\n    \"desire\": \"Restaurar a narrativa em que ele chega no momento perfeito e centraliza todos os eventos.\",\n    \"threat\": \"Consegue perceber a margem, escrever comentários de revisão e bloquear permissões de escrita.\"\n  },\n  {\n    \"name\": \"Assassino da Casa Baek\",\n    \"role\": \"executante da cena original / entidade possivelmente consciente\",\n    \"state_after_chapter_1\": \"Percebeu Davi e identificou-o como 'leitor'.\"\n  }\n]",
+  "token_estimate": 260
+}

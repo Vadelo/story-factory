@@ -1,0 +1,33 @@
+{
+  "title": "The Three Phases of AI-Assisted Writing",
+  "path": "the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice-the-three-phases-of-ai-assisted-writing",
+  "url": "https://tygartmedia.com/the-ghost-writer-protocol-how-to-use-ai-as-a-creative-partner-without-losing-your-voice/",
+  "keywords": [
+    "research scaffolding",
+    "structural outlining",
+    "collaborative intelligence",
+    "Exit Schema",
+    "voice guidelines",
+    "context sample",
+    "iterative drafting",
+    "knowledge structure",
+    "ideation phase",
+    "voice extension"
+  ],
+  "use_cases": [
+    "Use when mapping the landscape of existing ideas and identifying research gaps",
+    "Configure when generating multiple structural approaches based on a specific thesis and voice",
+    "Implement when offloading the cognitive load of organizing large knowledge structures",
+    "Use when drafting large sections of content while maintaining a consistent personal tone through context samples",
+    "Implement when looping between human-led transitions and AI-generated connective tissue"
+  ],
+  "tags": [
+    "content-strategy",
+    "ai-workflow",
+    "creative-writing",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "Phase 1: Ideation and Research Scaffolding\n\nThis is where AI is most valuable and least threatening to your voice. You’re not asking AI to write. You’re asking it to think alongside you.\n\nI start every article with a research phase. Rather than manually searching and reading, I use AI to:\n\n- Map the landscape of existing ideas on the topic\n- Identify gaps and contradictions in conventional wisdom\n- Generate research questions I hadn’t considered\n- Organize information into a knowledge structure\n- Play devil’s advocate against my assumptions\n\nThe output isn’t content. It’s scaffolding. It’s the thinking work that usually takes 40% of my writing time. By offloading this to AI, I have more mental energy for the thing only I can do: deciding what’s actually true, what matters, and why.\n\nPhase 2: Structural Outlining\n\nOnce I know what I want to say, I give AI a constraint: “Here’s my thesis. Here’s my voice guidelines. Here’s what I want readers to feel. Generate 5 different structural approaches.”\n\nI don’t use any of them as-is. But seeing the options forces me to articulate my own structural intuition. “No, this works better. This section should move here. This argument lands harder if we front-load it.”\n\nThis is where the Exit Schema concept becomes crucial. The constraints (your voice, your thesis, your intended outcome) are what make the AI’s structural suggestions valuable.\n\nPhase 3: First Draft Writing and Iteration\n\nHere’s where most people use AI wrong. They ask it to write the article. Then they edit it. Then it still sounds like AI.\n\nInstead: you write the opening. You set the tone. You make the first argument. Then you bring AI in to extend your voice, not replace it.\n\nIn practice, this looks like:\n\n- You write the opening 300 words in your voice\n- You give AI those words as a context sample and say: “Continue this. Maintain this voice.”\n- You edit what it produces, fixing anything that drifts from your tone\n- You write the next key argument or transition yourself\n- You loop back to AI for sections that are more research-heavy or require more scaffolding\n\nThis isn’t laziness. It’s collaborative intelligence. The sections you write contain your authentic voice. The sections AI generates (always guided by your voice samples) fill in the research-heavy connective tissue. Readers experience the whole thing as authentically yours—because the critical thinking and voice are authentically yours.",
+  "token_estimate": 537
+}

@@ -1,0 +1,33 @@
+{
+  "title": "4. Knowledge Consistency",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-4-knowledge-consistency",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "knowledge state",
+    "information asymmetry",
+    "character consistency",
+    "reveal management",
+    "secret tracking",
+    "narrative logic",
+    "assumptions",
+    "skill acquisition",
+    "witnessed events",
+    "perceptual monitoring"
+  ],
+  "use_cases": [
+    "Use when mapping out information asymmetry between protagonists and antagonists",
+    "Track character knowledge state to prevent continuity errors or plot holes",
+    "Implement when designing narrative reveals to ensure logical progression",
+    "Configure when defining character skill sets and learning curves",
+    "Use when auditing scenes to verify if characters are acting on premature data"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "continuity-control",
+    "storytelling-logic"
+  ],
+  "priority": 9,
+  "content": "What a character knows and doesn't know:\n\n- Information they've been told or witnessed\n- Secrets they're keeping (and from whom)\n- Skills they've learned (or haven't)\n- Assumptions they're operating under\n\nCommon pitfall: A character acting on information they shouldn't have yet. The reader hasn't seen them learn it, but the author needed them to know.\n\nSystem: Track character knowledge state — especially secrets, reveals, and information asymmetry between characters. Before writing a scene, ask: \"What does this character actually know at this point?\"",
+  "token_estimate": 113
+}

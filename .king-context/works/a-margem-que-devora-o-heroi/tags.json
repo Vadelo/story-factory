@@ -1,0 +1,145 @@
+{
+  "brief": [
+    "brief-current"
+  ],
+  "canon": [
+    "brief-current",
+    "canon-premise",
+    "canon-themes",
+    "characters",
+    "continuity-ledger",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "premise": [
+    "canon-premise"
+  ],
+  "themes": [
+    "canon-themes"
+  ],
+  "genre": [
+    "genre-contract"
+  ],
+  "promise": [
+    "genre-contract"
+  ],
+  "characters": [
+    "characters",
+    "relationships",
+    "chapter-001-light-novel-character-states",
+    "chapter-002-light-novel-character-states"
+  ],
+  "relationships": [
+    "relationships",
+    "chapter-001-light-novel-character-states",
+    "chapter-002-light-novel-character-states"
+  ],
+  "world": [
+    "world-rules",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "rules": [
+    "world-rules"
+  ],
+  "setting": [
+    "world-rules"
+  ],
+  "timeline": [
+    "timeline",
+    "chapter-001-light-novel-timeline",
+    "chapter-002-light-novel-timeline"
+  ],
+  "continuity": [
+    "timeline",
+    "continuity-ledger",
+    "chapter-001-light-novel-timeline",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-timeline",
+    "chapter-002-light-novel-continuity"
+  ],
+  "outline": [
+    "outline"
+  ],
+  "plot": [
+    "outline",
+    "open-threads"
+  ],
+  "style": [
+    "style-guide",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "voice": [
+    "style-guide"
+  ],
+  "open-threads": [
+    "open-threads"
+  ],
+  "revision": [
+    "revision-history"
+  ],
+  "history": [
+    "revision-history"
+  ],
+  "draft": [
+    "draft-chapter-001-light-novel",
+    "draft-chapter-002-light-novel",
+    "chapter-001-light-novel-text",
+    "chapter-002-light-novel-text"
+  ],
+  "continuation": [
+    "draft-chapter-001-light-novel",
+    "draft-chapter-002-light-novel"
+  ],
+  "chapter": [
+    "chapter-001-light-novel-text",
+    "chapter-001-light-novel-summary",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-character-states",
+    "chapter-001-light-novel-timeline",
+    "chapter-001-light-novel-threads",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-text",
+    "chapter-002-light-novel-summary",
+    "chapter-002-light-novel-canon-delta",
+    "chapter-002-light-novel-character-states",
+    "chapter-002-light-novel-timeline",
+    "chapter-002-light-novel-threads",
+    "chapter-002-light-novel-continuity"
+  ],
+  "text": [
+    "chapter-001-light-novel-text",
+    "chapter-002-light-novel-text"
+  ],
+  "chapter-001-light-novel": [
+    "chapter-001-light-novel-text",
+    "chapter-001-light-novel-summary",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-character-states",
+    "chapter-001-light-novel-timeline",
+    "chapter-001-light-novel-threads",
+    "chapter-001-light-novel-continuity"
+  ],
+  "summary": [
+    "chapter-001-light-novel-summary",
+    "chapter-002-light-novel-summary"
+  ],
+  "threads": [
+    "chapter-001-light-novel-threads",
+    "chapter-002-light-novel-threads"
+  ],
+  "callbacks": [
+    "chapter-001-light-novel-threads",
+    "chapter-002-light-novel-threads"
+  ],
+  "chapter-002-light-novel": [
+    "chapter-002-light-novel-text",
+    "chapter-002-light-novel-summary",
+    "chapter-002-light-novel-canon-delta",
+    "chapter-002-light-novel-character-states",
+    "chapter-002-light-novel-timeline",
+    "chapter-002-light-novel-threads",
+    "chapter-002-light-novel-continuity"
+  ]
+}

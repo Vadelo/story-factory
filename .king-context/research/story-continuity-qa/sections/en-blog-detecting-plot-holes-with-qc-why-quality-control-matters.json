@@ -1,0 +1,32 @@
+{
+  "title": "Why Quality Control Matters",
+  "path": "en-blog-detecting-plot-holes-with-qc-why-quality-control-matters",
+  "url": "https://symban.de/en/blog/detecting-plot-holes-with-qc",
+  "keywords": [
+    "SYMBAN",
+    "automatic quality control",
+    "plot holes",
+    "character consistency",
+    "immersion",
+    "narrative contradictions",
+    "context window limitations",
+    "long-form content generation",
+    "error mitigation",
+    "reader trust"
+  ],
+  "use_cases": [
+    "Use when generating long-form fiction where continuity across chapters is critical",
+    "Implement when character locations and inventory need tracking over 60+ chapters",
+    "Configure when standard AI context limits cause narrative hallucinations",
+    "Use when preventing contradictions in complex world-building scenarios"
+  ],
+  "tags": [
+    "quality-assurance",
+    "narrative-engine",
+    "error-handling",
+    "long-form-content"
+  ],
+  "priority": 10,
+  "content": "Even the best AI occasionally produces errors. A character who left town in Chapter 3 suddenly reappears in the same cafe in Chapter 5. A weapon that was never introduced is used in the climax. Such plot holes destroy immersion and reader trust.\n\nThe problem gets exponentially worse with length. In a novel with 60 chapters and 30 characters, there are thousands of potential contradictions. No human can keep them all in their head — and standard AI certainly can't, because it literally can't \"see\" past chapters anymore.\n\nThis is exactly where SYMBAN's automatic quality control comes in.",
+  "token_estimate": 130
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Summary",
+  "path": "projects-sibyl-summary",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "Sibyl",
+    "domain-specific AI",
+    "story universe",
+    "context ingestion",
+    "thematic elements",
+    "character relationships",
+    "timeline management",
+    "literary assistant",
+    "contextual memory",
+    "creative guidance"
+  ],
+  "use_cases": [
+    "Use when you need a definitive expert on a single story's universe to maintain continuity",
+    "Implement when managing complex character webs, locations, and events across a novel series",
+    "Configure when seeking to identify contradictions in character portrayals or plot timelines",
+    "Use when you require an intelligent assistant that retains full historical context of a manuscript without re-briefing"
+  ],
+  "tags": [
+    "creative-writing",
+    "artificial-intelligence",
+    "knowledge-base",
+    "context-management"
+  ],
+  "priority": 10,
+  "content": "A Prophetess for Your Story's World\n\nSibyl is a domain-specific AI system built to serve as the definitive expert on a single story's universe. Named after the ancient prophetesses who knew everything about a world and guided people through it, Sibyl ingests the complete context of a novel or series - characters, locations, events, relationships, timelines, and thematic elements - and provides intelligent guidance that no general-purpose AI can match. Sibyl isn't a replacement for the author's creative judgment. It's the assistant that never forgets, never loses track, and never needs to be re-briefed. It's the difference between asking a general-purpose AI \"tell me about my character\" and having an intelligence that already knows every scene that character has appeared in, every relationship they've formed, and every contradiction in how they've been portrayed.",
+  "token_estimate": 176
+}

@@ -1,0 +1,33 @@
+{
+  "title": "The Solution System",
+  "path": "blog-2026-02-23-claude-long-form-writing-the-solution-system",
+  "url": "https://docs.bswen.com/blog/2026-02-23-claude-long-form-writing",
+  "keywords": [
+    "Story Bible",
+    "Character Modeling",
+    "Style Reference",
+    "Per-Chapter Workflow",
+    "Claude Code",
+    "Manuscript Management",
+    "Multi-input Regeneration",
+    "Structural Editing",
+    "Source Material Distillation",
+    "Psychological Profiling"
+  ],
+  "use_cases": [
+    "Configure when managing long-form creative projects exceeding 300,000 words",
+    "Implement when treating manuscript development as a structured software project",
+    "Use when coordinating multiple Claude models across different writing phases",
+    "Use when maintaining character consistency through deep psychological modeling",
+    "Implement when performing structural editing across large file systems using CLI tools"
+  ],
+  "tags": [
+    "content-strategy",
+    "creative-workflow",
+    "llm-implementation",
+    "project-management"
+  ],
+  "priority": 8,
+  "content": "From a Reddit discussion of a writer who successfully created a 301,000-word novel, I learned about a systematic approach that treats creative writing like a software development project. The system has these key components:\n\nStory Bible Creation: 56,000+ word comprehensive document covering every character, location, and lore element\n\nCharacter Modeling: Deep psychological profiles with dialogue patterns and relationship dynamics\n\nStyle Reference: Distilled prose patterns from source material\n\nPer-Chapter Workflow: Multi-input regeneration process with 3-8 cycles\n\nModel Strategy: Right Claude model for each writing phase\n\nManuscript Management: Claude Code for structural editing across files",
+  "token_estimate": 123
+}

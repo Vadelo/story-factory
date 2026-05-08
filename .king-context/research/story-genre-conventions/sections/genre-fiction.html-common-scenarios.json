@@ -1,0 +1,35 @@
+{
+  "title": "Common scenarios",
+  "path": "genre-fiction.html-common-scenarios",
+  "url": "https://creativewritingauthority.com/genre-fiction.html",
+  "keywords": [
+    "genre fiction",
+    "subgenre specialist",
+    "genre hybrid",
+    "literary-genre crossover",
+    "urban fantasy",
+    "romantic suspense",
+    "science fiction romance",
+    "genre scaffolding",
+    "reader community",
+    "genre contract",
+    "secondary-world epic",
+    "thematic ambiguity"
+  ],
+  "use_cases": [
+    "Use when identifying specific subgenre conventions to meet reader expectations",
+    "Implement when blending two distinct genres to satisfy multiple genre contracts",
+    "Configure when balancing literary thematic depth with genre-based plot scaffolding",
+    "Use when categorizing works for commercial platforms like Kindle Unlimited",
+    "Implement when determining the narrative register between convention and surprise"
+  ],
+  "tags": [
+    "narrative-theory",
+    "genre-classification",
+    "creative-writing",
+    "market-positioning"
+  ],
+  "priority": 8,
+  "content": "The most productive genre fiction work tends to happen at the intersection of convention and surprise. Three patterns appear repeatedly:\n\nThe subgenre specialist. Fantasy alone contains secondary-world epic fantasy, urban fantasy, portal fantasy, grimdark, cozy fantasy, and LitRPG — each with its own reader community and convention set. A writer entering urban fantasy (roughly: magic operating within a contemporary real-world setting, pioneered in its modern form by writers like Charles de Lint in the 1980s) is dealing with a different set of expectations than someone writing Tolkien-influenced secondary-world epic.\n\nThe genre hybrid. Romantic suspense is romance and thriller simultaneously, and must satisfy both genre contracts. Science fiction romance — a category that has grown substantially on platforms like Amazon Kindle Unlimited — requires the emotional resolution of romance plus the speculative world-coherence of science fiction. These hybrids are commercially viable but technically demanding.\n\nThe literary-genre crossover. Works like Kazuo Ishiguro's Never Let Me Go or Colson Whitehead's Zone One use genre scaffolding (science fiction, zombie horror) while prioritizing literary concerns like interiority and thematic ambiguity over genre-mandatory resolution. Whether these belong on the genre shelf or the literary fiction shelf is less important than recognizing that they're working in two registers simultaneously.\n\n---",
+  "token_estimate": 269
+}

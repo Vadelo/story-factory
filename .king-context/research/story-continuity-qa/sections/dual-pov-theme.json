@@ -1,0 +1,32 @@
+{
+  "title": "Theme",
+  "path": "dual-pov-theme",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "dual POV",
+    "multiple viewpoint",
+    "thematic mirroring",
+    "shared knowledge",
+    "asymmetrical knowledge",
+    "character perspective",
+    "narrative structure",
+    "psychological thriller",
+    "thematic facets",
+    "thematic linkage"
+  ],
+  "use_cases": [
+    "Use when separate storylines need to be unified through mirrored themes or situations",
+    "Implement when exploring multiple facets of a central concept through different characters",
+    "Configure when leveraging asymmetrical knowledge between protagonists to build suspense",
+    "Use when characters remain physically separated but share a common secret or truth"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "story-structure",
+    "thematic-analysis"
+  ],
+  "priority": 8,
+  "content": "Indeed, sometimes, you need not bring the characters together physically at all. Instead, they can share theme. This probably happens more commonly in multiple viewpoint books rather than dual POV, because if you’re going to explore theme, it’s probably worth exploring more than just two facets (think Cloud Atlas or The Overstory). But let’s say you had one POV from the perspective of a firefighter who failed to save her team during a wildfire and the other POV from a journalist who was the only member of her crew to survive a flood. They’re essentially separate stories, but the themes and situations might mirror one another.\n\nShared knowledge (or asymmetrical knowledge) can be another reason for dual POV. Both characters know the same secret, truth, or piece of information—or one knows something the other doesn’t. Gone Girl does a lot with the nature of knowledge between the two main characters. But for a purer asymmetry, consider The Wife Between Us: Vanessa knows her ex-husband is abusive; Nellie doesn’t. Psychological thriller does a lot with this shared-knowledge linkage.",
+  "token_estimate": 235
+}

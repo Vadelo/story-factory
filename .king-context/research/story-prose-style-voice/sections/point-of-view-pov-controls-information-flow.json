@@ -1,0 +1,31 @@
+{
+  "title": "POV Controls Information Flow",
+  "path": "point-of-view-pov-controls-information-flow",
+  "url": "https://thewritingking.com/point-of-view/",
+  "keywords": [
+    "POV",
+    "Point of View",
+    "Dramatic Irony",
+    "Perspectives",
+    "First Person",
+    "Third Person",
+    "Moral Framing",
+    "Narrative Tension",
+    "Reader Engagement",
+    "Character Opacity"
+  ],
+  "use_cases": [
+    "Use when structural asymmetry is needed to drive mystery and suspense",
+    "Implement when moral framing requires trapping the reader in a specific character's logic",
+    "Configure when switching perspectives is necessary to maintain emotional connection to multiple protagonists",
+    "Use when a story requires redefining non-human entities through internal consciousness"
+  ],
+  "tags": [
+    "Narrative Theory",
+    "Character Development",
+    "Storytelling Techniques"
+  ],
+  "priority": 9,
+  "content": "Whose head you are in determines what readers know and do not know. That makes POV one of the most powerful tools you have for controlling tension, suspense, and emotional engagement.\n\nShield of Ashes uses POV strategically to create dramatic irony across its many characters. In Killer Cuts and Dead Letters, switching between the hairstylist and postal worker keeps both characters dimensional, both sympathetic, both human despite monstrous things they do. When one perspective dominates too long, readers lose connection to the other character.\n\nUnlikely Hero demonstrates how first person controls moral framing. Readers cannot step outside the criminal’s perspective to judge him objectively. They are trapped in his calculations, his survival logic, his strange moral code. That entrapment is the entire point. Third person would have let readers off the hook.\n\nCollision with Andromeda shows that POV can redefine what a “character” even means. A dying galaxy’s confusion and grief hit harder than any human death scene precisely because readers experience it from inside a consciousness that has never felt pain before. The perspective transforms what could be a science article about galactic collisions into a murder story.\n\nThink about what each POV choice reveals and conceals. The character whose head you enter becomes transparent to readers. Everyone else becomes opaque. This asymmetry drives mystery, suspense, dramatic irony, and reader engagement.",
+  "token_estimate": 295
+}

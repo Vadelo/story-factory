@@ -1,0 +1,32 @@
+{
+  "title": "2. Chain-of-Thought Enforcement",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-chain-of-thought-enforcement",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Chain-of-Thought Enforcement",
+    "4-Step Writer",
+    "Final Polish",
+    "Rewrite Plan",
+    "Critique",
+    "Vomit Draft",
+    "Gemini",
+    "JSON validation",
+    "Logical workflow",
+    "Self-correction"
+  ],
+  "use_cases": [
+    "Use when preventing model hallucinations in creative writing tasks",
+    "Implement when requiring internal logical steps before final output generation",
+    "Configure when hiding intermediate reasoning steps from the end-user",
+    "Use when improving narrative quality through automated self-critique"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Reasoning",
+    "Output Formatting",
+    "Architecture"
+  ],
+  "priority": 8,
+  "content": "In creative writing, LLMs love to hallucinate. They get excited and skip logical steps. To fix this, we explicitly force Gemini to “show its work” using a pattern we call the 4-Step Writer.\n\nWe don’t just ask for the completed scene content. We force the model to output a JSON object with four specific keys, representing a logical workflow:\n\n1. Final Polish: The actual output scene content.\n2. Rewrite Plan: A concrete plan on how to fix those issues.\n3. Critique: We ask it to list 4 specific weaknesses in that draft (e.g., “Dialogue is too on-the-nose”).\n4. Vomit Draft: An internal monologue or rough sketch of the scene.\n\nHere is the cool part: Our API only returns the Final Polish field to the user. The user never sees the sausage being made, but the quality jump is massive because the model was forced to self-correct before committing to the final answer.",
+  "token_estimate": 202
+}

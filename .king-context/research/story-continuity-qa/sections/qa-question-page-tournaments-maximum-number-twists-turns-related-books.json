@@ -1,0 +1,29 @@
+{
+  "title": "Related Books",
+  "path": "qa-question-page-tournaments-maximum-number-twists-turns-related-books",
+  "url": "https://www.novelflow.app/qa/question/page-tournaments-maximum-number-twists-turns",
+  "keywords": [
+    "Related Books",
+    "x-oss-process",
+    "image resize",
+    "webp format",
+    "view count",
+    "thumbnail URL",
+    "asset optimization",
+    "q_80 quality",
+    "Novelflow API"
+  ],
+  "use_cases": [
+    "Use when displaying cross-promotional content recommendations based on current title",
+    "Configure when implementing dynamic image transformation via OSS process parameters",
+    "Implement when rendering book metadata including view counts and synopsis snippets"
+  ],
+  "tags": [
+    "frontend-components",
+    "asset-management",
+    "discovery"
+  ],
+  "priority": 6,
+  "content": "![Wrong Number ](https://cover-v1.novelflow.app/prod/img/cover/880d9e18e0224b30864a2587a421337f.jpg?x-oss-process=image/resize,m_lfit,w_113,h_151/quality,q_80/format,webp)\n\nNikki works as the secretary to her easily irritated boss, Chad. One last mistake, and she's finally fired. But then comes, one last mistake. How will she set herself free from the trap she had laid for herself?\n\n![count-icon](https://www.novelflow.app/phone/view-1.png)\n\n1.3K Views\n\n![Wrong Number, Right Person](https://cover-v1.novelflow.app/prod/img/cover/7c83b4b167b84bab8f0412cac2845cd5.jpg?x-oss-process=image/resize,m_lfit,w_113,h_151/quality,q_80/format,webp)",
+  "token_estimate": 63
+}

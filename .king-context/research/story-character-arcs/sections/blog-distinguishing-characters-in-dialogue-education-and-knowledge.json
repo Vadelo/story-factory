@@ -1,0 +1,33 @@
+{
+  "title": "Education and Knowledge",
+  "path": "blog-distinguishing-characters-in-dialogue-education-and-knowledge",
+  "url": "https://mythcreants.com/blog/distinguishing-characters-in-dialogue/",
+  "keywords": [
+    "character education",
+    "technical jargon",
+    "vocabulary scaling",
+    "Sinner ID number",
+    "HGA",
+    "insider terminology",
+    "character ignorance",
+    "linguistic characterization",
+    "cultural idiolect",
+    "professional vernacular"
+  ],
+  "use_cases": [
+    "Use when differentiating character voices based on academic background",
+    "Configure when establishing world-building through faction-specific acronyms",
+    "Implement when mapping character knowledge gaps to their dialogue choices",
+    "Use when developing social dynamics between 'insider' and 'outsider' personas",
+    "Implement when simulating realistic speech patterns based on age and socioeconomic history"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "dialogue-systems",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "Characters that are well-read will have a larger vocabulary than those that are not. Educated characters are more likely to know technical terms or be familiar with things they haven’t encountered personally. On the flip side, your characters will probably be ignorant about some things. “Irregardless” is not a word, but your character might not know that.\n\nIn this case, Annie has a college degree in Business, which she is putting to waste as a clerk. Pete only graduated from high school before getting work as a carpenter many years ago, but he reads the paper every day and is no schmuck. However, their familiarity with their current situation is vastly different. Annie works at the entrance to Hell; she knows everything about it and about her job. Pete has only heard rumors.\n\nSo I’ll give Annie some technical jargon and insider terms. Instead of asking for an address, she’ll ask for a “Sinner ID number.” Then instead of saying the woman on the black card is “not with us,” she’ll use the acronym for her workplace, saying the woman is “not with the HGA.*”\n\nPete won’t know what a Sinner ID number is, so he’ll have to ask. Because he’s older, I’ll use the phrase, “What’s that now?” since it’s something my grandparents say. Pete also won’t know what term he should use to refer to Hell itself. Since he’s new to this, he might be nervous about saying that he wants to contact Hell out loud. So he’ll use the term “the other side” when referring to it.",
+  "token_estimate": 345
+}

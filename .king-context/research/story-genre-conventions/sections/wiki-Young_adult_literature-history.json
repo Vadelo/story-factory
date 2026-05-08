@@ -1,0 +1,30 @@
+{
+  "title": "History",
+  "path": "wiki-Young_adult_literature-history",
+  "url": "https://en.wikipedia.org/wiki/Young_adult_literature",
+  "keywords": [
+    "New York Public Library",
+    "NYPL",
+    "Books for Young People",
+    "Margaret Scoggin",
+    "Books for Young Adults",
+    "YA genre",
+    "The Outsiders",
+    "S. E. Hinton",
+    "adolescent fiction",
+    "literary history"
+  ],
+  "use_cases": [
+    "Use when researching the origins and etymology of the Young Adult literary category",
+    "Use when documenting the influence of the New York Public Library on genre classification",
+    "Use when tracing the evolution of adolescent themes from the 1920s to the 1960s"
+  ],
+  "tags": [
+    "history",
+    "literary-classification",
+    "education"
+  ],
+  "priority": 5,
+  "content": "Librarians first defined this new category of fiction, in particular librarians from the New York Public Library. The NYPL's first annual Books for Young People list was sent in 1929 to schools and libraries across the country. Then \"In 1944 [...] NYPL librarian Margaret Scoggin changed the name of her library journal column from 'Books for Older Boys and Girls' to 'Books for Young Adults', and the genre was christened with a name that has lasted to this day\". Initially the YA genre \"tended to feature the same\" boy and girl love story. But in the 1960s the novels developed to more fully examining the lives of adolescents. Particularly noteworthy was S. E. Hinton's The Outsiders.",
+  "token_estimate": 154
+}

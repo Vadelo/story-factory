@@ -1,0 +1,31 @@
+{
+  "title": "5. Art and Aesthetics",
+  "path": "how-to-create-fantasy-cultures-5-art-and-aesthetics",
+  "url": "https://www.amwritingfantasy.com/how-to-create-fantasy-cultures/",
+  "keywords": [
+    "tapestries",
+    "pottery",
+    "paintings",
+    "clothing",
+    "jewelry",
+    "social status",
+    "cultural identity",
+    "beauty",
+    "aesthetics"
+  ],
+  "use_cases": [
+    "Use when defining the visual style and artistic traditions of a fantasy culture",
+    "Implement when generating artifact descriptions such as tapestries or pottery for a culture",
+    "Configure when assigning cultural values related to beauty and aesthetics",
+    "Use when determining how clothing and jewelry reflect social status and identity"
+  ],
+  "tags": [
+    "worldbuilding",
+    "cultural_design",
+    "art",
+    "aesthetics"
+  ],
+  "priority": 5,
+  "content": "The art and aesthetics of your fantasy cultures will play a role in shaping their identity and values.\n\nConsider what types of art are important to your people and what they value in terms of beauty and aesthetics.\n\n- Do they create intricate tapestries, delicate pottery, or vibrant paintings?\n- What types of clothing and jewelry do they wear, and what does it say about their social status or cultural identity?\n\nAll of these elements can add richness and texture to your world.",
+  "token_estimate": 110
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Build your character's complete arc",
+  "path": "blog-how-to-write-compelling-characters-build-your-character-s-complete-arc",
+  "url": "https://app.blurbbio.com/blog/how-to-write-compelling-characters",
+  "keywords": [
+    "narrative arc summary",
+    "Character name",
+    "The Wound",
+    "The Misbelief",
+    "The Want",
+    "The Need",
+    "external goal",
+    "internal truth",
+    "Generate arc summary",
+    "story bible"
+  ],
+  "use_cases": [
+    "Use when developing a comprehensive character development framework for creative writing",
+    "Implement when bridging a character's internal psychological trauma with their external plot goals",
+    "Configure when populating a story bible with consistent character growth trajectories",
+    "Use when generating structured narrative arcs based on specific emotional wounds and misbeliefs"
+  ],
+  "tags": [
+    "content-generation",
+    "character-development",
+    "storytelling-tools",
+    "narrative-design"
+  ],
+  "priority": 9,
+  "content": "Five inputs — generates a full narrative arc summary you can drop straight into your story bible\n\nCharacter name (optional)\n\nThe Wound Select wound type... Abandonment — left by someone depended on Betrayal — deceived by a trusted person Catastrophic failure — defining identity collapsed Irreplaceable loss — person or possibility gone Public humiliation — identity exposed and mocked Abuse — harmed by someone meant to protect them\n\nThe Misbelief Select misbelief... I am unlovable — people always leave I must control everything or I will be destroyed Trusting others always leads to pain I have no value unless I achieve something exceptional I am a burden to everyone who gets close to me The bad things that happened to me were my fault\n\nThe Want external goal Select want... Achieve professional or social recognition Win the love or approval of a specific person Make someone pay for what they did Create a situation where they can never be hurt again Gain enough power that no one can threaten them Find a place and people they truly belong with\n\nThe Need internal truth Select need... Accept themselves without conditions Let someone see them fully and stay anyway Forgive themselves or the person who hurt them Allow genuine connection rather than performing for approval Act from their values even when it costs everything Confront the truth they have been running from\n\nGenerate arc summary →",
+  "token_estimate": 311
+}

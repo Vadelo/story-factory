@@ -1,0 +1,32 @@
+{
+  "title": "Phase 1: Analysis",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-1-analysis",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "atomic units",
+    "scene decomposition",
+    "batching",
+    "beat summary",
+    "emotional subtext",
+    "camera suggestions",
+    "pitfalls",
+    "JSON object",
+    "Legendary Film Director persona",
+    "metadata generation"
+  ],
+  "use_cases": [
+    "Use when breaking down a long-form screenplay into manageable batches",
+    "Implement when detailed scene metadata like subtext and camera angles are required",
+    "Configure when setting up an LLM persona for narrative analysis",
+    "Use when mapping story beats before generating final script text"
+  ],
+  "tags": [
+    "workflow",
+    "pre-production",
+    "data-structuring",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "Now we get to work. We split the screenplay into atomic units (scenes) and batch them into chunks. But we aren’t writing yet.\n\n- The Output: We don’t want new text; we want metadata. For every scene, we generate a JSON object containing a beat summary, the emotional subtext, the camera suggestions, and “pitfalls” (clichés to avoid). We are essentially building a detailed map of the territory before we start driving.\n- The Persona: We tell the LLM to act as a “Legendary Film Director”.",
+  "token_estimate": 113
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Dialogue prompts (5)",
+  "path": "chatgpt-prompts-for-fiction-writers-dialogue-prompts-5",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "Subtext dialogue",
+    "Voice differentiator",
+    "Exposition through conflict",
+    "Dialogue under pressure",
+    "First meeting dialogue",
+    "character-driven prose",
+    "narrative tension",
+    "verbal tics",
+    "exposition techniques"
+  ],
+  "use_cases": [
+    "Use when developing distinct character voices to avoid repetitive or robotic speech patterns",
+    "Implement when backstory or world-building information needs to be integrated without breaking immersion",
+    "Configure when writing high-stakes scenes that require character behavior to change under stress",
+    "Use when crafting complex interpersonal dynamics where characters have hidden motivations or subtext",
+    "Configure when introducing key character relationships to establish long-term narrative arcs"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "dialogue-prototyping",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "Make characters sound like distinct human beings, not chatbots.\n\n31. Subtext dialogue\n\nWrite a conversation between [character A] and [character B] about [surface topic]. The actual conflict underneath is [real tension]. Neither character should directly state what they actually mean. Use pauses, topic changes, and loaded word choices to convey the subtext.\n\n32. Voice differentiator\n\nThese two characters are having an argument about [topic]: [Character A: description, background, personality] and [Character B: description, background, personality]. Write the argument in 300 words. Each character must sound distinctly different in vocabulary, sentence length, and argumentative style.\n\n33. Exposition through conflict\n\nI need to convey this information to the reader: [exposition]. Write a dialogue scene between two characters where this information emerges naturally through disagreement or problem-solving, not through one character explaining it to another.\n\n34. Dialogue under pressure\n\n[Character] is in [high-stakes situation]. Write their dialogue for this scene. They should speak in a way that reveals their character under stress — shorter sentences, specific verbal tics, the thing they default to when afraid. Contrast with how they spoke in an earlier calm scene.\n\n35. First meeting dialogue\n\nWrite the first conversation between [character A] and [character B]. They will become [relationship type] by the end of the book. Plant subtle seeds of their future dynamic without making it obvious. Show the reader what each character wants from this interaction.",
+  "token_estimate": 303
+}

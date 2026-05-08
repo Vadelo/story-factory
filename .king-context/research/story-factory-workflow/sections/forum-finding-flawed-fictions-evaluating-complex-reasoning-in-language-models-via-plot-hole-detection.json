@@ -1,0 +1,32 @@
+{
+  "title": "Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection",
+  "path": "forum-finding-flawed-fictions-evaluating-complex-reasoning-in-language-models-via-plot-hole-detection",
+  "url": "https://openreview.net/forum?id=ptmgWRCWmu",
+  "keywords": [
+    "Plot Hole Detection",
+    "Large Language Models",
+    "Complex Reasoning",
+    "Flawed Fictions",
+    "Evaluation Benchmark",
+    "Natural Language Understanding",
+    "Logical Consistency",
+    "OpenReview",
+    "Story Generation",
+    "Narrative Analysis"
+  ],
+  "use_cases": [
+    "Use when evaluating the logical reasoning capabilities of a generative model",
+    "Implement when developing benchmarks for narrative consistency in long-form text",
+    "Configure when testing a model's ability to identify contradictions in complex stories",
+    "Use when researching methods to improve long-range dependency tracking in LLMs"
+  ],
+  "tags": [
+    "Evaluation",
+    "Natural Language Processing",
+    "Benchmarking",
+    "Reasoning"
+  ],
+  "priority": 8,
+  "content": "![Download PDF](https://openreview.net/images/pdf_icon_blue.svg)",
+  "token_estimate": 2
+}

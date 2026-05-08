@@ -1,0 +1,31 @@
+{
+  "title": "3. Relational Consistency",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-3-relational-consistency",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "Relational Consistency",
+    "Power dynamics",
+    "Relationship map",
+    "Unresolved tensions",
+    "Shared history",
+    "Character status tracking",
+    "Reconciliation scene",
+    "Social debts",
+    "Character interaction logic"
+  ],
+  "use_cases": [
+    "Use when tracking long-term character arcs across multiple narrative installments",
+    "Implement when auditing character interactions for logical consistency with past conflicts",
+    "Configure when designing a system to prevent 'resetting' character relationships between chapters",
+    "Use when establishing how titles and nicknames change based on evolving social status"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "world-building",
+    "continuity"
+  ],
+  "priority": 8,
+  "content": "How characters interact with each other:\n\n- Power dynamics between characters\n- How they address each other (first names? Titles? Nicknames that evolved over time?)\n- Unresolved tensions or debts between characters\n- Shared history that should color their interactions\n\nCommon pitfall: Two characters who had a bitter argument in book two acting like nothing happened in book three — with no reconciliation scene to explain it.\n\nSystem: Maintain a relationship map that tracks the current state of key relationships at the end of each book. Note unresolved conflicts and debts.",
+  "token_estimate": 121
+}

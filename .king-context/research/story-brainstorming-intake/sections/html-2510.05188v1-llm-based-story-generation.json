@@ -1,0 +1,33 @@
+{
+  "title": "LLM-Based Story Generation",
+  "path": "html-2510.05188v1-llm-based-story-generation",
+  "url": "https://arxiv.org/html/2510.05188v1",
+  "keywords": [
+    "LLM-based narrative generation",
+    "hierarchical generation framework",
+    "multi-agent role-playing",
+    "LoRA adapters",
+    "coarse-to-fine iterative refinement",
+    "Dramatron",
+    "coherence degradation",
+    "Reader–Rewriter framework",
+    "structure-aware instruction tuning",
+    "gating mechanism"
+  ],
+  "use_cases": [
+    "Use when long-form story coherence degrades over extended narrative sequences",
+    "Implement when simulating dynamic character interactions in a consistent fictional worldview",
+    "Configure when automating film production scripts through specialized agent roles",
+    "Use when adapting existing novels into structured screenplays while maintaining causality",
+    "Apply when iterative refinement and coarse-to-fine polishing are required for script quality"
+  ],
+  "tags": [
+    "narrative-generation",
+    "large-language-models",
+    "multi-agent-systems",
+    "content-creation"
+  ],
+  "priority": 9,
+  "content": "Narrative generation methods have gradually evolved from early generative neural networks (Fan, Lewis, and Dauphin 2018; Yao et al. 2019; Fan, Lewis, and Dauphin 2019; Yu et al. 2020; Ammanabrolu et al. 2021) to LLM-based approaches that leverage prompt engineering, hierarchical generation frameworks, and multi-agent role-playing. Dramatron (Mirowski et al. 2023) proposes a hierarchical generation framework that decomposes screenwriting into structured stages and generates high-quality long-form scripts. DOC (Yang et al. 2023) introduces detailed outline control to solve long-story coherence degradation problems. HoLLMwood (Chen et al. 2024b) adopts a role-playing mechanism in which specialized LLMs act as writers, editors, and actors, collaborating through iterative feedback cycles. IBSEN (Han et al. 2024) considers real-time user participation and proposes a director–actor collaboration framework to enable controllable script generation in human–AI interaction. FilmAgent (Xu et al. 2024) expands beyond traditional scriptwriting to encompass film production automation through multi-agent coordination. Ex3 (Lei et al. 2024) improves long-form novel generation by combining structure-aware instruction tuning with a tree-based expansion method, enhancing narrative coherence and character development. Neeko (Yu et al. 2024) adopts character-specific LoRA adapters and a gating mechanism to enable scalable multi-character role-playing. CRITICS (Bae and Kim 2024) enhances long-form story generation by incorporating a collaborative multi-agent critique process, addressing limitations in creativity and expressiveness of traditional plan-based methods. TaleForge (Nguyen et al. 2025) introduces an interactive multimodal system that enables personalized story creation through user-driven character and environment customization, addressing the growing demand for adaptive storytelling experiences. A knowledge-guided storytelling approach (Pan et al. 2025) leverages structured graphs to enhance narrative consistency and factual accuracy. R2 (Lin et al. 2025) proposes a Reader–Rewriter framework for adapting novels into screenplays, addressing hallucination and causality issues via refinement and plot graph construction. Domain-specific approaches (Cao et al. 2025) address cultural requirements by generating traditional opera scripts that preserve authenticity and narrative conventions. BookWorld (Ran et al. 2025) constructs multi-agent societies grounded in established fictional universes, addressing the challenge of simulating dynamic characters and consistent worldviews in book-based settings.\n\nDespite multiple attempts during generation, existing story generation methods still adhere to a single-pass workflow and lack iterative revisions employed by scriptwriters to progressively improve script quality. In this paper, we propose a pluggable framework that iteratively refines scripts in a coarse-to-fine manner, enabling systematic improvements while preserving contextual consistency.",
+  "token_estimate": 509
+}

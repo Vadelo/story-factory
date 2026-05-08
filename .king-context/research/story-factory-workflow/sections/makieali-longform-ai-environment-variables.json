@@ -1,0 +1,32 @@
+{
+  "title": "Environment Variables",
+  "path": "makieali-longform-ai-environment-variables",
+  "url": "https://github.com/makieali/longform-ai",
+  "keywords": [
+    "OPENAI_API_KEY",
+    "ANTHROPIC_API_KEY",
+    "AZURE_OPENAI_ENDPOINT",
+    "AZURE_OPENAI_API_VERSION",
+    "GOOGLE_GENERATIVE_AI_API_KEY",
+    "DEEPSEEK_API_KEY",
+    "MISTRAL_API_KEY",
+    "OPENROUTER_API_KEY",
+    "dotenv",
+    "LongFormAI"
+  ],
+  "use_cases": [
+    "Configure when multiple LLM providers need authentication without hardcoding keys",
+    "Implement when deploying to environments that inject configuration via shell variables",
+    "Use when setting up Azure OpenAI with specific API versions and deployment names",
+    "Configure when utilizing presets like 'balanced' or 'premium' that require specific provider backends"
+  ],
+  "tags": [
+    "configuration",
+    "authentication",
+    "setup",
+    "environment-variables"
+  ],
+  "priority": 10,
+  "content": "LongForm AI automatically reads API keys from environment variables if not provided in config:\n\n| Provider | Environment Variable | Required For |\n|:---------|:---------------------|:-------------|\n| OpenAI | `OPENAI_API_KEY` | `openai` provider, `balanced`/`premium` presets (editing) |\n| Anthropic | `ANTHROPIC_API_KEY` | `anthropic` provider, `balanced`/`premium` presets (writing) |\n| Google | `GOOGLE_GENERATIVE_AI_API_KEY` | `google` provider, `budget` preset, planning roles |\n| Azure OpenAI | `AZURE_OPENAI_API_KEY` | `azure` provider/preset |\n| Azure OpenAI | `AZURE_OPENAI_ENDPOINT` | Azure endpoint URL |\n| Azure OpenAI | `AZURE_OPENAI_API_VERSION` | Azure API version (default: `2025-04-01-preview`) |\n| Azure OpenAI | `AZURE_OPENAI_DEPLOYMENT` | Azure deployment name (default: `gpt-4o`) |\n| DeepSeek | `DEEPSEEK_API_KEY` | `deepseek` provider |\n| Mistral | `MISTRAL_API_KEY` | `mistral` provider |\n| OpenRouter | `OPENROUTER_API_KEY` | `openrouter` provider |\n| Ollama | *(none needed)* | Runs locally at `http://localhost:11434` |\n\nYou can set these in a `.env` file and load with `dotenv`, or pass them directly in config:\n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    openai: { apiKey: 'sk-...' },          // Explicit key\n    anthropic: {},                           // Uses ANTHROPIC_API_KEY env var\n    google: {},                              // Uses GOOGLE_GENERATIVE_AI_API_KEY env var\n  },\n  preset: 'balanced',\n});\n```",
+  "token_estimate": 251
+}

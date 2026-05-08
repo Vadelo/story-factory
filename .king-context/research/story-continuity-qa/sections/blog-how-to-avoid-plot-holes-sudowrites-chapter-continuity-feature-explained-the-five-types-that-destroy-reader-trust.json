@@ -1,0 +1,33 @@
+{
+  "title": "The Five Types That Destroy Reader Trust",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-the-five-types-that-destroy-reader-trust",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "character inconsistencies",
+    "timeline errors",
+    "forgotten threads",
+    "world contradictions",
+    "character knowledge mistakes",
+    "Chekhov's gun",
+    "magic system rules",
+    "lost context",
+    "personality shifts",
+    "subplot resolution"
+  ],
+  "use_cases": [
+    "Use when auditing a draft for narrative consistency",
+    "Implement when developing a world-building style guide",
+    "Configure when tracking character arcs and information asymmetry",
+    "Use when identifying why a reader may lose immersion",
+    "Implement when resolving complex subplots or chronological sequences"
+  ],
+  "tags": [
+    "narrative-design",
+    "quality-assurance",
+    "story-architecture",
+    "reader-trust"
+  ],
+  "priority": 9,
+  "content": "You've seen lists of \"common plot holes\" that are vague and unhelpful. Here are the five specific categories that actually matter, with examples you'll recognize from your own drafts:\n\n1. Character inconsistencies — personality shifts, forgotten abilities, physical description changes\n2. Timeline errors — events happening in impossible sequences, seasons that don't track\n3. Forgotten threads — subplots introduced and never resolved, Chekhov's gun that never fires\n4. World contradictions — magic system rules that change, geography that shifts between chapters\n5. Character knowledge mistakes — a character acting on information they haven't learned yet\n\nEvery one of these stems from the same root cause: lost context.",
+  "token_estimate": 142
+}

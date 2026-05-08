@@ -1,0 +1,31 @@
+{
+  "title": "History and Society: Building Backwards from the Present",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-history-and-society-building-backwards-from-the-present",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "build backwards",
+    "historical layers",
+    "dominant religion",
+    "maritime culture",
+    "nomadic steppe culture",
+    "collective farming",
+    "geological reality",
+    "dehumanisation of orogenes"
+  ],
+  "use_cases": [
+    "Use when crafting a novel’s present-day setting to ensure historical cohesion.",
+    "Use when defining political structures that reflect recent conflicts.",
+    "Use when explaining religious practices tied to geographic features.",
+    "Use when designing economic systems rooted in a society’s survival strategy.",
+    "Use when creating cultural values that mirror environmental challenges."
+  ],
+  "tags": [
+    "worldbuilding",
+    "historical methodology",
+    "culture design",
+    "narrative development"
+  ],
+  "priority": 10,
+  "content": "The most common mistake in worldbuilding history is building forward — starting with creation mythology and working toward the present. This produces encyclopaedic history that doesn't connect to your story because you built it before knowing what your story needed.\n\nBuild backwards instead:\n\n1. Where is your world now? What is the current political situation, the dominant religion, the economic conditions?\n2. What event created this? For every current condition, identify the most recent major historical cause.\n3. What created that event? Go one layer deeper. The war that created the current borders — what caused the war?\n\nTwo to three historical layers is enough for most novels. Tolkien went much deeper, but Tolkien had decades and was building mythology as much as narrative. For a single novel, knowing why the world is currently broken — and the two events that broke it — produces enough history to make the world feel old.\n\nSociety and culture emerge from geography, history, and survival. The social structures in your world should be explicable by what the people in it needed to do to survive. A maritime culture worships different gods than a nomadic steppe culture. A society that survived by collective farming has different values than one that survived by conquest.\n\nN.K. Jemisin's approach to the Stillness in the Broken Earth trilogy demonstrates this precisely: the society's obsessive stability, its dehumanisation of orogenes, its comm-based structure — all emerge directly from the world's geological reality. The social structures aren't invented arbitrarily; they're evolved responses to an environment that kills unpredictably and often.",
+  "token_estimate": 345
+}

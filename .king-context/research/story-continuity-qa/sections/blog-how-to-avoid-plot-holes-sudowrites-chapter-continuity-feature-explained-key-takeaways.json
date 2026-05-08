@@ -1,0 +1,32 @@
+{
+  "title": "Key Takeaways",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-key-takeaways",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Chapter Continuity",
+    "Story Bible",
+    "character cards",
+    "worldbuilding entries",
+    "AI narrative context",
+    "consistency errors",
+    "automated tracking",
+    "Sudowrite",
+    "Chat audit",
+    "contradiction detection"
+  ],
+  "use_cases": [
+    "Use when building a Story Bible prior to drafting to prevent character and worldbuilding errors",
+    "Implement when linking up to 25 documents to provide 20,000 words of context to the AI",
+    "Configure when seeking to automate consistency tracking to avoid manual system failures",
+    "Use when auditing multi-chapter sequences for narrative contradictions via Chat"
+  ],
+  "tags": [
+    "narrative-continuity",
+    "content-management",
+    "AI-context",
+    "quality-assurance"
+  ],
+  "priority": 9,
+  "content": "Plot holes aren't a talent problem. They're a memory problem. And solving memory is exactly what Chapter Continuity was built for.\n\n- Build your Story Bible before drafting — character cards and worldbuilding entries prevent the most common consistency errors\n- Link chapters in Sudowrite's Chapter Continuity to give the AI 20,000 words of prior narrative context across 25 documents\n- Use Chat to audit for contradictions after drafting multi-chapter sequences\n- The comparison table above tells the real story: automated tracking beats manual systems because it doesn't depend on your discipline at 2 AM on a deadline\n\nYour readers don't care how hard continuity tracking is. They care that the story holds together. Give yourself the tool that makes that automatic.\n\n> \"Sudowrite has sped up how I write... we've published nine physical books, with thirty-two more wai",
+  "token_estimate": 184
+}

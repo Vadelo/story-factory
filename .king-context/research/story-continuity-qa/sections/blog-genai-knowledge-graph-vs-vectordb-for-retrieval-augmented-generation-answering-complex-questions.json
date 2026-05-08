@@ -1,0 +1,28 @@
+{
+  "title": "Answering Complex Questions",
+  "path": "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-answering-complex-questions",
+  "url": "https://neo4j.com/blog/genai/knowledge-graph-vs-vectordb-for-retrieval-augmented-generation/",
+  "keywords": [
+    "vector database",
+    "knowledge graph",
+    "graph traversal",
+    "vector space",
+    "complex queries",
+    "relationship mapping",
+    "semantic search",
+    "multi-subject queries"
+  ],
+  "use_cases": [
+    "Use when queries require traversing complex relationships between multiple entities",
+    "Implement when precise, fact-based answers are required over semantic similarity",
+    "Configure when processing multi-conditional questions that challenge standard vector search"
+  ],
+  "tags": [
+    "architecture-patterns",
+    "data-modeling",
+    "search-optimization"
+  ],
+  "priority": 8,
+  "content": "The higher the complexity of the question, the harder it is for a vector database to quickly and efficiently return results. Adding more subjects to a query makes it harder for the database to find the information you want.\n\nFor example: Both a knowledge graph and a vector database can easily return an answer to “Who is the CEO of my company?” but a knowledge graph will outpace a vector database on a question like “Which board meetings in the last twelve months had at least two members abstain from a vote?”\n\nA vector database is likely to find an answer in the middle of the subjects within the vector space, and not the specific answer. A knowledge graph looks for and returns precise information based on traversing a graph that is connected by relationships.",
+  "token_estimate": 179
+}

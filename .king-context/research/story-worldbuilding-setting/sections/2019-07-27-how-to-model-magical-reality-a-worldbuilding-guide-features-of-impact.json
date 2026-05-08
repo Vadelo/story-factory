@@ -1,0 +1,34 @@
+{
+  "title": "Features of Impact",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-features-of-impact",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "Impact",
+    "Effect",
+    "Magnitude",
+    "cast radius",
+    "spell",
+    "magic",
+    "psychological effects",
+    "physical effects",
+    "world",
+    "ecology",
+    "human tooling",
+    "Nyarlathotep"
+  ],
+  "use_cases": [
+    "Use when evaluating the social science impact of new spells",
+    "Use when determining the maximum cast radius for a spell design",
+    "Use when modeling how magic alters ecological systems",
+    "Implement when balancing positive/negative effects on humans",
+    "Configure when simulating large-scale magical events such as mountain reshaping"
+  ],
+  "tags": [
+    "magic",
+    "effects",
+    "societal"
+  ],
+  "priority": 8,
+  "content": "Impact is the physical and psychological effects magic use extracts on society and the ecology around the society.\n\n- Effect: Effect is what it says on the tin. Does casting magic cause a positive effect? Neutral? Is it like engineering and science where the effect is to build tooling for humans? Is it all geared toward infinite bunnies (bad) or releasing Nyarlathotep (equally bad)? What does the magic do on people and the world around it?\n- Magnitude: What is the maximum cast radius for a spell? Most magic is localized, but maybe it levels mountains, calls down the rain in a drought or swallows up entire cities. Is magic small or big?",
+  "token_estimate": 150
+}

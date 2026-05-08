@@ -1,0 +1,36 @@
+{
+  "title": "What it does",
+  "path": "avigold-postwriter-what-it-does",
+  "url": "https://github.com/avigold/postwriter",
+  "keywords": [
+    "Postwriter",
+    "parallel drafting",
+    "backward propagation engine",
+    "Story-state layer",
+    "hard validators",
+    "repair loop",
+    "literary device detection",
+    "generation profile",
+    "alembic",
+    "Anthropic API",
+    "rhetorical strategies",
+    "manuscript audit"
+  ],
+  "use_cases": [
+    "Use when you want to generate a full-length novel using a structured agentic pipeline",
+    "Implement when multi-layered manuscript analysis (text, story-state, style, analytical) is required",
+    "Configure when managing different output priorities like high quality versus budget-conscious drafting",
+    "Use when needing automated continuity validation and structural repair for long-form fiction",
+    "Configure when needing to export a complete generation report and JSON canonical state dump"
+  ],
+  "tags": [
+    "automation",
+    "natural-language-processing",
+    "creative-writing",
+    "agentic-workflows",
+    "system-architecture"
+  ],
+  "priority": 10,
+  "content": "Postwriter generates a complete novel (~80k words) through a pipeline of specialized AI agents:\n\n1. **Plan** — An architect agent designs the premise, structural spine, characters, style profile, chapters, and scenes. You approve the premise and act structure at human checkpoints.\n\n1. **Draft** — Each scene is drafted 3–5 times in parallel using distinct stylistic profiles (subtext-heavy, lyrical, compressed, etc.). Branches are not random paraphrases — they represent different rhetorical strategies.\n\n1. **Validate** — 5 hard validators (continuity, timeline, POV, knowledge state, banned patterns) gate acceptance. 10 soft critics score tension, emotion, prose vitality, voice consistency, dialogue, thematic integration, redundancy, transitions, scene purpose, and symbolic restraint.\n\n1. **Repair** — Failed drafts enter a targeted repair loop (up to 3 rounds). The repair planner prioritizes issues, and a local rewriter fixes specific problems while preserving what works.\n\n1. **Analyze** — Literary devices are detected across the manuscript (54 types, rule-based and model-based), tracked in temporal graphs, and evaluated for overuse, burstiness, imagery monoculture, and functional repetition.\n\n1. **Revise** — Manuscript-level audits check promises, character arcs, device ecology, rhythm, and thematic overstatement. A backward propagation engine modifies earlier scenes to strengthen later payoffs.\n\n1. **Export** — The final manuscript exports as markdown, with a full JSON canonical state dump and a generation report.\n\nThe manuscript is maintained as four linked representations:\n\n- **Text layer** — the prose itself\n- **Story-state layer** — facts, causality, character states, timeline, unresolved obligations\n- **Stylistic layer** — voice targets, device preferences, imagery ecology, banned phrases\n- **Analytical layer** — validator outputs, scores, device distributions, revision lineage\n\nNo important reasoning depends on prose alone when it can instead depend on structured state.\n\n- Python 3.12+\n- Docker (for PostgreSQL and Redis)\n- An Anthropic API key\n\n```bash\ngit clone https://github.com/avigold/postwriter.git\ncd postwriter\nuv sync\n```\n\n```bash\ndocker compose up -d\nuv run alembic upgrade head\n```\n\n```bash\necho \"PW_LLM_ANTHROPIC_API_KEY=sk-ant-your-key-here\" > .env\n```\n\n```bash\nuv run postwriter new\n```\n\nThis walks you through an interactive bootstrap, then runs the full pipeline: plan → draft → revise → export.\n\n```bash\n# Use a generation profile\nuv run postwriter new --profile fast_draft      # Fewer branches, faster\nuv run postwriter new --profile high_quality    # More branches, more repair rounds\nuv run postwriter new --profile budget_conscious # Minimize API costs\n\n# Export a completed manuscript\nuv run postwriter export <manuscript-id> --format all\n\n# View manuscript dashboard\nuv run postwriter dashboard <manuscript-id>\n\n# List profiles\nuv run postwriter profiles\n```",
+  "token_estimate": 541
+}

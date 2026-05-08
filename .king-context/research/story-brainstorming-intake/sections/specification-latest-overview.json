@@ -1,0 +1,32 @@
+{
+  "title": "Overview",
+  "path": "specification-latest-overview",
+  "url": "https://modelcontextprotocol.io/specification/latest",
+  "keywords": [
+    "JSON-RPC 2.0",
+    "Model Context Protocol",
+    "Hosts",
+    "Clients",
+    "Servers",
+    "Language Server Protocol",
+    "Stateful connections",
+    "Capability negotiation",
+    "Contextual information",
+    "Composable integrations"
+  ],
+  "use_cases": [
+    "Use when building standardized connectors between LLM applications and external data sources",
+    "Implement when creating interoperable AI tools that need to function across different host platforms",
+    "Configure when establishing stateful communication channels using JSON-RPC for AI context sharing",
+    "Use when developing modular architecture for AI workflows requiring server and client capability negotiation"
+  ],
+  "tags": [
+    "Overview",
+    "Architecture",
+    "Protocol-Specification",
+    "AI-Integration"
+  ],
+  "priority": 10,
+  "content": "MCP provides a standardized way for applications to:\n\n- Share contextual information with language models\n- Expose tools and capabilities to AI systems\n- Build composable integrations and workflows\n\nThe protocol uses JSON-RPC 2.0 messages to establish\ncommunication between:\n\n- Hosts: LLM applications that initiate connections\n- Clients: Connectors within the host application\n- Servers: Services that provide context and capabilities\n\nMCP takes some inspiration from the\nLanguage Server Protocol, which\nstandardizes how to add support for programming languages across a whole ecosystem of\ndevelopment tools. In a similar way, MCP standardizes how to integrate additional context\nand tools into the ecosystem of AI applications.\n\n- JSON-RPC message format\n- Stateful connections\n- Server and client capability negotiation",
+  "token_estimate": 156
+}

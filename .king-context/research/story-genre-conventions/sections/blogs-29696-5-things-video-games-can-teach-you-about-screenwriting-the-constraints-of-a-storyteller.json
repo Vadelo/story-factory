@@ -1,0 +1,30 @@
+{
+  "title": "The Constraints of a Storyteller",
+  "path": "blogs-29696-5-things-video-games-can-teach-you-about-screenwriting-the-constraints-of-a-storyteller",
+  "url": "https://thescriptlab.com/blogs/29696-5-things-video-games-can-teach-you-about-screenwriting/",
+  "keywords": [
+    "ticking clock",
+    "narrative constraints",
+    "player agency",
+    "emotional connection",
+    "suspense writing",
+    "urgency mechanics",
+    "protagonist motivation",
+    "storytelling devices"
+  ],
+  "use_cases": [
+    "Implement when designing game mechanics that force immediate player action",
+    "Configure when establishing a sense of impending doom in a narrative",
+    "Use when seeking to bridge the emotional gap between the audience and the protagonist",
+    "Use when developing a competitive or time-sensitive plot point"
+  ],
+  "tags": [
+    "narrative-design",
+    "game-theory",
+    "writing-techniques",
+    "player-engagement"
+  ],
+  "priority": 7,
+  "content": "Every suspense writer will tell you the same thing about storytelling: you need a “ticking clock”. The ticking clock device is a way for audiences to know that a sense of urgency is in place. It’s the impending doom, the need to stop a wedding in three days, or the race to the finish line. Whether it’s competition, danger, or time itself, there’s a constraint in place that forces the character to act.\nIn video games, there’s a similar ticking clock element in place with almost every story. However, the most imperative thing for a ticking clock in video games is that it makes the player, the audience, feel like they must act. As the one exercising agency on a protagonist’s behalf, this personal connection to the “ticking clock” in question makes the story more compelling.\nThis can also be accomplished within a film narrative, though: simply enacting a more emotionally personal constraint for the audience as you write can compel the audience to sympathize with the character who’s forced to act by this constraint.\n![Dead Rising 3](https://thescriptlab.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)\n‘Dead Rising 3’",
+  "token_estimate": 240
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Report a Problem",
+  "path": "video-the-evolution-of-ya-nrwqnz-report-a-problem",
+  "url": "https://www.pbs.org/video/the-evolution-of-ya-nrwqnz/",
+  "keywords": [
+    "Video playback error",
+    "Sponsorship playback error",
+    "Closed Captions",
+    "Video Help page",
+    "Audio-only streaming",
+    "YA Fiction",
+    "PBS Digital Studios",
+    "Report a Problem",
+    "Transcript",
+    "Metadata dimensions"
+  ],
+  "use_cases": [
+    "Use when reporting technical issues like videos failing to load or play",
+    "Implement when providing users a standard way to report sponsorship playback failures",
+    "Use when soliciting feedback specifically regarding Closed Captioning accessibility",
+    "Configure when allowing users to report playback synchronization issues like jumping forward or backward",
+    "Use when seeking help via the Video Help documentation prior to error submission"
+  ],
+  "tags": [
+    "user-support",
+    "video-playback",
+    "error-reporting",
+    "metadata"
+  ],
+  "priority": 6,
+  "content": "Before you submit an error, please consult our Video Help page.\n\nType of ErrorVideo doesn’t loadVideo loads, but doesn’t playVideo jumps back/forwardOnly audio is streamingSponsorship playback errorOther\n\nSubmitCancel\n\nMade possible in part by the National Endowment for the Humanities.\n\n- About This Episode\n- More Episodes\n- Transcript\n- You Might Also Like\n\n![It's Lit!](https://image.pbs.org/contentchannels/siatJlG-white-logo-41-PRUWnKc.png?format=avif&resize=200x)\n\n# The Evolution of YA\n\nSeason 1 Episode 2 | 5m 43sVideo has Closed Captions\n\nYoung Adult Fiction (YA) is dominating literature, and more young people are reading now than ever before. Lindsay Ellis explores how YA carved a place in publishing with It's Lit! from PBS Digital Studios.\n\n06/26/2018\n\n![Digital Studios](https://image.pbs.org/contentchannels/2UOR4lj-white-logo-41-W46DdUg.png?format=avif&resize=120x)\n\nFrom\n\nProblems playing video? Report a Problem | Closed Captioning Feedback\n\nBefore you submit an error, please consult our Video Help page.\n\nType of ErrorVideo doesn’t loadVideo loads, but doesn’t playVideo jumps back/forwardOnly audio is streamingSponsorship playback errorOther\n\nSubmitCancel\n\n![The Evolution of YA](https://image.pbs.org/video-assets/LtqMmvl-asset-mezzanine-16x9-2GOKz1k.jpg?format=avif&resize=185x104)\n\nIt's Lit!\n\nS1 Ep2\n\nWidth: in pixelsHeight: in pixels",
+  "token_estimate": 211
+}

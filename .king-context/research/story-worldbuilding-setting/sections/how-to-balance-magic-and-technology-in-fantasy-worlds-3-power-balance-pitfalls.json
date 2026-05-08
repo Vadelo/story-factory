@@ -1,0 +1,34 @@
+{
+  "title": "3. Power Balance Pitfalls",
+  "path": "how-to-balance-magic-and-technology-in-fantasy-worlds-3-power-balance-pitfalls",
+  "url": "https://zainahyousef.com/how-to-balance-magic-and-technology-in-fantasy-worlds/",
+  "keywords": [
+    "ray-guns",
+    "spells",
+    "wizard",
+    "mage",
+    "glyph energy",
+    "metal corrosion",
+    "alloys",
+    "maintenance crews",
+    "system strengths",
+    "system weaknesses"
+  ],
+  "use_cases": [
+    "Use when balancing high-tech and magical abilities to prevent narrative imbalance.",
+    "Implement when you want a realistic cost model for magical devices.",
+    "Configure when assigning maintenance crews to keep advanced systems operational.",
+    "Use when designing worksheets or guiding questions for story planning.",
+    "Implement when creating distinct strengths and weaknesses for techno-magic artifacts."
+  ],
+  "tags": [
+    "storybuilding",
+    "worldbuilding",
+    "balance",
+    "system-design",
+    "mechanics"
+  ],
+  "priority": 7,
+  "content": "Even seasoned writers stumble over two extremes:\n\n- Tech steamrolls sorcery: If ray-guns beat spells every time, why train as a wizard?\n- All-mighty magic: If a mage can conjure anything, inventors feel pointless.\n\nThe secret is cost. Give each system strengths, weaknesses, and maintenance requirements. In my series, glyph energy corrodes metal after extended use, so engineers still need alloys and maintenance crews.\n\nTip: In the Guide you’ll find worksheets and guiding questions that help you work through ensuring your systems logically work with each other and don’t overpower your story.",
+  "token_estimate": 122
+}

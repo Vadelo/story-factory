@@ -1,0 +1,31 @@
+{
+  "title": "2. The Industry's Architecture",
+  "path": "PeterSalvato-voice-governance-2-the-industry-s-architecture",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "generate-then-filter",
+    "voice architecture",
+    "fine-tuning",
+    "surface features",
+    "brand guidelines",
+    "context and style guidance",
+    "corpus-based training",
+    "imitation modeling",
+    "AI-assisted writing"
+  ],
+  "use_cases": [
+    "Use when evaluating the standard generate-check-revise workflow for AI content",
+    "Configure when distinguishing between surface-level imitation and authentic brand voice",
+    "Implement when designing a filtering layer for AI-generated text based on brand guidelines",
+    "Use when analyzing the limitations of training models on previously published performance data"
+  ],
+  "tags": [
+    "architecture",
+    "content-strategy",
+    "brand-voice",
+    "machine-learning"
+  ],
+  "priority": 10,
+  "content": "The dominant approach to voice in AI-generated text is generate-then-filter:\n\n1. **Generate.** Provide context and style guidance. The model produces text.\n2. **Check.** Review the output against voice or brand guidelines.\n3. **Revise.** Ask the model to adjust what does not match, or edit manually.\n\nThis architecture is standard across every major AI writing tool and every major set of best practices for AI-assisted writing. The assumption is that generation and voice are separable: you can produce content first and apply voice second.\n\nThe academic approach trains or fine-tunes models on a corpus of the target writer's published work. The model learns to reproduce surface features: sentence length, vocabulary, punctuation patterns. The output reads as imitation. It captures how the writer's published work looks without capturing how the writer actually thinks. Published writing is performed. It has already been edited, shaped, and filtered for an audience. Training on performance produces performed output.",
+  "token_estimate": 202
+}

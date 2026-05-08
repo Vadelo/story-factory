@@ -1,0 +1,32 @@
+{
+  "title": "Head-Hopping Will Kill Your Novel",
+  "path": "point-of-view-head-hopping-will-kill-your-novel",
+  "url": "https://thewritingking.com/point-of-view/",
+  "keywords": [
+    "Head-hopping",
+    "POV violation",
+    "Point of View transitions",
+    "Omniscient POV",
+    "Reader immersion",
+    "Transitional cues",
+    "Chapter breaks",
+    "Scene breaks",
+    "POV markers",
+    "Vantage point"
+  ],
+  "use_cases": [
+    "Use when structuring POV transitions between characters",
+    "Implement when switching perspectives using chapter or scene breaks",
+    "Configure when writing omniscient narratives requiring multiple character thoughts",
+    "Use when debugging narrative flow issues in a manuscript"
+  ],
+  "tags": [
+    "Creative Writing",
+    "Narrative Theory",
+    "POV Management",
+    "Manuscript Editing"
+  ],
+  "priority": 9,
+  "content": "Head-hopping is the abrupt, unmarked shift between characters’ thoughts within a scene or paragraph. It is the most common POV violation I see in the manuscripts I coach, and it destroys reader immersion faster than almost any other craft error.\n\nYour readers are settled in one character’s head. Then suddenly they are in someone else’s head, and they do not know when the switch happened. They backtrack, trying to figure out where they lost the thread. That confusion breaks flow, damages trust, and forces readers to work harder than they should have to.\n\nChapter breaks are the cleanest way to handle POV transitions. Scene breaks with visual markers work too. Paragraph-level shifts can work if you provide strong transitional cues. But never shift POV mid-paragraph unless you are deliberately writing flowing omniscient that touches many minds briefly, and even then you need clear signals: character names, distinct thought markers, physical repositioning to a different vantage point.",
+  "token_estimate": 207
+}

@@ -1,0 +1,32 @@
+{
+  "title": "4.1 The Protocol",
+  "path": "PeterSalvato-voice-governance-4-1-the-protocol",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "voice governance protocol",
+    "negation-affirmation",
+    "zero em dashes",
+    "practitioner authority",
+    "material vocabulary",
+    "banned words list",
+    "mechanical parallelism",
+    "petersalvato.com",
+    "zero tolerance rules",
+    "token routing"
+  ],
+  "use_cases": [
+    "Configure when seeking to prevent common Large Language Model (LLM) writing hallucinations and corporate jargon.",
+    "Implement when the output requires a specific practitioner-style persona with direct, spoken-English register.",
+    "Use when pre-generation constraints are needed to force a model away from default abstract openings and closers.",
+    "Configure when defining a style guide that prohibits em dashes and specific marketing buzzwords."
+  ],
+  "tags": [
+    "prompt-engineering",
+    "governance",
+    "content-strategy",
+    "llm-optimization"
+  ],
+  "priority": 9,
+  "content": "I wrote a voice governance protocol in response to the copy failure. Codified rules applied during generation, not after. The protocol has been in continuous use since mid-2025 across every page of petersalvato.com.\n\n**Hard rules (zero tolerance, applied during generation):**\n\n- Zero em dashes. Periods, commas, colons, parentheses.\n- Zero banned words: paradigm, leverage, passionate, innovative, synergy, empower, journey, transformative.\n- Negation-affirmation (\"Not X. Y.\") maximum one per page. Must correct a genuine misunderstanding the reader would actually have. If it is emphasis or contrast, rewrite as direct statement.\n- No fortune-cookie closers (\"The [noun] is the [noun].\").\n- No personification of tools or methods (\"does the thinking,\" \"holds itself\").\n- No ungrounded metaphors (figurative language requires literal setup in surrounding text).\n- No academic register where spoken English works.\n- No mechanical parallelism (three consecutive sections with identical skeleton).\n\n**Register definition (testable criteria):**\n\n- Practitioner authority: first person, direct, specific, no hedging, no performing. Personal without being casual.\n- The test: would Peter say this to a peer he respects in an adjacent field?\n- Lead with the specific moment, not the concept.\n- Material vocabulary: holds, breaks, drifts, scaffold, fidelity, load, joints, structure, craft.\n\nWhen the model receives these constraints before generation begins, the output takes a different shape from the first token. The model routes around its defaults. It cannot open with an abstract concept because the rules prohibit it. It cannot close with a fortune-cookie because the rules prohibit it. It cannot fall into mechanical parallelism because the rules flag it.\n\nThe constraints don't tell the model what to write. They tell it what it can't do. Once the defaults are blocked, the model has to find another way to build the paragraph. That other way is closer to the target voice, because the most common failure modes have been taken off the table.",
+  "token_estimate": 409
+}

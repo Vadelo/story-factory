@@ -1,0 +1,34 @@
+{
+  "title": "Solution & Results",
+  "path": "projects-sibyl-solution-results",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "Sibyl",
+    "Misenous",
+    "Local LLM inference",
+    "Ollama",
+    "AIHubcontext pipeline",
+    "relationship-mapped data",
+    "Phi-3.5",
+    "SmolLM2",
+    "Llama 3.2",
+    "consistency checking",
+    "timeline validation",
+    "narrative context"
+  ],
+  "use_cases": [
+    "Implement when real-time consistency checking is needed across multi-book series drafts",
+    "Use when performing relationship-aware character analysis based on structured trait data",
+    "Configure when bridging Misenous data hierarchy with local LLM processing via AIHub",
+    "Use when validating story timelines and event positions against a narrative graph"
+  ],
+  "tags": [
+    "product-architecture",
+    "ai-integration",
+    "data-structure",
+    "narrative-intelligence"
+  ],
+  "priority": 9,
+  "content": "World Knowledge, Not Word Processing\n\nSibyl is being designed to operate on top of the rich data architecture that Misenous already provides. Misenous organizes novels into a deep hierarchy - series, books, chapters, scenes, drafts - with sophisticated element management for characters, locations, items, and story resources. Every character has tracked traits, relationships to other characters, and connections to specific scenes. Every location has context. Every event has a timeline position. This isn't a blank-slate AI reading raw text. Sibyl will work with structured, relationship-mapped data that Misenous has already organized. The result is an AI that understands not just what words are on the page, but how the pieces of a story connect to each other. The integration between Sibyl and Misenous is intentional and central to both products. Misenous is the platform where authors write, organize, and manage their work. Sibyl is the intelligence layer that makes that platform aware of its own contents in a way that goes far beyond search. Together, they represent a complete writing environment where the tools understand the work at the same depth the author does. Planned capabilities include real-time consistency checking during drafting, relationship-aware character analysis, timeline validation across multi-book series, and intelligent suggestions that account for the full narrative context rather than just the current chapter.\n\nConceptual - in active design\n\nNovel writers and series authors managing complex fictional worlds\n\nEliminates narrative inconsistencies, surfaces forgotten connections, and provides deep world-knowledge guidance that scales with the story\n\nSibyl is designed as the intelligence layer for Misenous, working directly with its structured data architecture. They are separate products that function as a unified writing environment.\n\nLocal LLM inference (Ollama) fed by AIHub's context pipeline, built on Misenous's relationship graph\n\nSmall, domain-specific language models (Phi-3.5, SmolLM2, Llama 3.2) optimized for narrative understanding\n\nOperates on structured narrative relationships rather than raw text - understands characters, timelines, and story logic, not just words\n\nNamed after the Sibyls of Greek and Roman tradition - prophetesses who knew everything about a world and guided people through it\n\n< Back to Projects",
+  "token_estimate": 457
+}

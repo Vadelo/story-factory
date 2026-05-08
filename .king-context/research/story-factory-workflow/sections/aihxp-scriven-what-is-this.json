@@ -1,0 +1,36 @@
+{
+  "title": "What is this",
+  "path": "aihxp-scriven-what-is-this",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "Scriven",
+    "Voice DNA",
+    "voice-preserving",
+    "progressive onboarding",
+    "context files",
+    "/scr:draft",
+    "back-translation verification",
+    "continuity check",
+    "KDP packages",
+    "glossary management",
+    "multi-language simultaneous publishing",
+    "Fountain"
+  ],
+  "use_cases": [
+    "Use when you need to maintain a specific authorial voice across large-scale AI drafting tasks",
+    "Implement when managing a complex writing pipeline from conceptualization through KDP/IngramSpark publishing",
+    "Configure when requiring culturally adaptive translations with glossary-controlled back-translation",
+    "Use when drafting industry-specific documents like screenplays, LaTeX research papers, or religious commentaries",
+    "Configure when simulating beta reader feedback or performing automated sensitivity reviews"
+  ],
+  "tags": [
+    "product-overview",
+    "content-creation",
+    "publishing-workflows",
+    "localization",
+    "collaboration"
+  ],
+  "priority": 10,
+  "content": "Scriven is a command system that turns your AI coding agent into a voice-preserving writing studio. It supports 50 work types -- novels, screenplays, research papers, technical guides, runbooks, scripture commentaries, comics, memoirs -- each with its own adaptive vocabulary and toolset.\n\nThe wedge comes first: Scriven profiles the writer, loads that voice into every drafting step, and keeps each unit on fresh context so the prose stays specific to the project. From there, it expands into 108 writing commands covering the rest of the pipeline:\n\n- **Create** -- Set up a project with tailored context files. Progressive onboarding, never overwhelming.\n- **Write** -- Discuss, plan, draft, and revise one unit at a time. The drafter agent loads your Voice DNA and writes in *your* voice, not generic AI prose.\n- **Polish** -- Editor review, line edit, copy edit, continuity check, voice check, beta reader simulation, sensitivity review.\n- **Publish** -- Front/back matter, cover art, blurbs, query letters, KDP packages, IngramSpark packages, EPUB, PDF, Fountain, Final Draft, LaTeX.\n- **Translate** -- Deep translation with glossary management, cultural adaptation, back-translation verification, multi-language simultaneous publishing.\n- **Collaborate** -- Parallel revision tracks, co-writing workflows, continuity merge checking.\n\nEverything adapts to your work type. A novel uses `/scr:draft` for chapters. A screenplay uses `/scr:draft` for acts. A Quran commentary uses `/scr:draft` for surahs. Same command, tradition-native vocabulary.\n\n---",
+  "token_estimate": 297
+}

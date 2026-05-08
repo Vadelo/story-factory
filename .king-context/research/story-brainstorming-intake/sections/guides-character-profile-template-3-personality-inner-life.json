@@ -1,0 +1,31 @@
+{
+  "title": "3. Personality & Inner Life",
+  "path": "guides-character-profile-template-3-personality-inner-life",
+  "url": "https://hearth.sh/guides/character-profile-template",
+  "keywords": [
+    "character-design",
+    "internal-monologue",
+    "formative-trauma",
+    "conscious-desire",
+    "unconscious-need",
+    "stress-response",
+    "personality-traits",
+    "backstory-mapping",
+    "conflict-resolution-style",
+    "character-development"
+  ],
+  "use_cases": [
+    "Use when sketching the psychological profile of a new protagonist",
+    "Implement when determining consistent character reactions to high-stress plot points",
+    "Configure when establishing the internal conflict between a character's wants and needs",
+    "Use when drafting backstory to ensure grounded character motivations"
+  ],
+  "tags": [
+    "character-building",
+    "narrative-design",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "01\n\nThree words that best describe them\n\n02\n\nIntrovert or extrovert? How do they recharge?\n\n03\n\nBiggest personality strength\n\n04\n\nBiggest personality flaw\n\n05\n\nWhat makes them laugh?\n\n06\n\nWhat makes them angry?\n\n07\n\nWhat do they fear most?\n\n08\n\nWhat do they want most (conscious desire)?\n\n09\n\nWhat do they need most (unconscious need)?\n\n10\n\nHow do they handle conflict — fight, flee, or freeze?\n\n11\n\nDo they keep promises? Why or why not?\n\n12\n\nHow do they treat strangers vs. close friends?\n\n13\n\nDo they lie? If so, when and why?\n\n14\n\nHow do they behave under extreme stress?\n\n01\n\nWhere did they grow up?\n\n02\n\nWhat was their childhood like?\n\n03\n\nRelationship with parents / guardians\n\n04\n\nSiblings? Birth order?\n\n05\n\nHappiest childhood memory\n\n06\n\nWorst childhood memory or formative trauma\n\n07\n\nWhat was their education like?\n\n08\n\nFirst love or significant relationship\n\n09\n\nBiggest mistake they've ever made\n\n10\n\nBiggest regret\n\n11\n\nA secret they've never told anyone\n\n12\n\nThe moment that most shaped who they became",
+  "token_estimate": 227
+}

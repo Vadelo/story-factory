@@ -1,0 +1,29 @@
+{
+  "title": "Introduction to Point of View (POV)",
+  "path": "mastering-point-of-view-shift-quick-narrative-guide-introduction-to-point-of-view-pov",
+  "url": "https://literarydevices.net/mastering-point-of-view-shift-quick-narrative-guide/",
+  "keywords": [
+    "Point of View",
+    "POV",
+    "narrative perspective",
+    "emotional connection",
+    "information access",
+    "narrative tone",
+    "storytelling techniques",
+    "audience engagement"
+  ],
+  "use_cases": [
+    "Use when establishing the narrative framework of a story",
+    "Implement when defining the scope of information available to the reader",
+    "Configure when shaping the emotional resonance of a narrative",
+    "Use when determining the primary perspective of a fictional world"
+  ],
+  "tags": [
+    "narrative-design",
+    "content-strategy",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Definition\n\n> The perspective from which a story is told.\n\nWhy POV Matters\n\n- Shapes the reader’s emotional connection, information access, and narrative tone.\n- Determines how much of the world the audience sees and feels.",
+  "token_estimate": 47
+}

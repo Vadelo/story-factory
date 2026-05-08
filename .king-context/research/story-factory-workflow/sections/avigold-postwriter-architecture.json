@@ -1,0 +1,37 @@
+{
+  "title": "Architecture",
+  "path": "avigold-postwriter-architecture",
+  "url": "https://github.com/avigold/postwriter",
+  "keywords": [
+    "PostgreSQL",
+    "SQLAlchemy 2.0",
+    "Alembic",
+    "Anthropic SDK",
+    "Jinja2",
+    "checkpointing",
+    "Pareto comparison",
+    "temporal device graphs",
+    "canonical data store",
+    "mock LLM responses",
+    "Opus/Sonnet/Haiku tiering",
+    "uv run pytest"
+  ],
+  "use_cases": [
+    "Configure when implementing multi-agent workflows involving specific roles like architect, planner, and critic",
+    "Implement when requiring structured state storage in a database as the primary source of truth over raw text",
+    "Use when applying hierarchical LLM tiering to optimize between creative judgment and mechanical validation",
+    "Use when performing manuscript-level audits via backward propagation and global revision logic",
+    "Implement when calculating ecological metrics and literary device balance through temporal graphs",
+    "Configure when setting up automated testing environments with real PostgreSQL instances and mocked LLM layers"
+  ],
+  "tags": [
+    "architecture",
+    "multi-agent-system",
+    "database-schema",
+    "testing-strategy",
+    "llm-orchestration"
+  ],
+  "priority": 10,
+  "content": "```\npostwriter/\n  agents/          # 10 specialized agents (architect, planner, writer, critics, rewriter)\n  canon/           # Canonical data store, context slicing, event logging\n  cli/             # Interactive CLI with rich terminal dashboards\n  context/         # User-provided reference file loader\n  db/              # Async PostgreSQL via SQLAlchemy 2.0, Alembic migrations\n  devices/         # Literary device detection (54 types), imagery classification\n  export/          # Markdown, JSON, and report exporters\n  graphs/          # Temporal device graphs and ecology metrics\n  llm/             # Anthropic SDK wrapper with Opus/Sonnet/Haiku tiering\n  models/          # 21 database tables covering the full canonical data model\n  orchestrator/    # Scene loop, branch management, global revision, checkpointing\n  prompts/         # Jinja2 prompt templates for all agent roles\n  repair/          # Repair planner and action specifications\n  revision/        # 5 manuscript-level audit passes + backward propagation\n  scoring/         # 11-dimension score vectors, Pareto comparison, device balance\n  validation/      # 5 hard validators + 10 soft critics\n```\n\n| Tier | Role | Used for |\n| --- | --- | --- |\n| Opus | Creative judgment | Premise design, act structure, pivotal scene branches |\n| Sonnet | Workhorse | Scene drafting, soft critics, repair, chapter/scene planning |\n| Haiku | Mechanical checks | Hard validators, device detection, state extraction |\n\n- Structured state outside prose — the database is the source of truth, not the text\n- Narrow agents — each agent does one thing well\n- Hard legality vs soft quality — separate concerns, separate priorities\n- Repair locally before rewriting globally\n- Branches represent rhetorical strategies, not random variation\n- Graphs are advisory but consequential\n- Human review at genuinely aesthetic decision points\n- Plain prose is sometimes superior to ornamental variation\n\n```bash\nuv run pytest tests/ -v\n```\n\n165 tests covering models, canon store, all validators and critics, device detection, graph metrics, scoring, repair planning, revision audits, export, and configuration profiles. Tests use a real PostgreSQL instance (Docker) for database tests and mock LLM responses for agent tests.\n\nTBD",
+  "token_estimate": 421
+}

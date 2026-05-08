@@ -1,0 +1,31 @@
+{
+  "title": "Physical Layout: Designing the Land and Sea",
+  "path": "worldbuilding-guide-designing-geography-and-environment-physical-layout-designing-the-land-and-sea",
+  "url": "https://imagiquill.com/worldbuilding-guide-designing-geography-and-environment/",
+  "keywords": [
+    "terrain modeling",
+    "landform generation",
+    "watercourse simulation",
+    "elevation profiling",
+    "geospatial mapping",
+    "soil classification",
+    "topographic analysis",
+    "coastline modeling",
+    "hydrology integration",
+    "site layout optimization"
+  ],
+  "use_cases": [
+    "Use when creating realistic land terrains for games or simulations",
+    "Implement when designing coastlines that interact with water bodies",
+    "Configure when adjusting elevation profiles for environmental effects",
+    "Apply when integrating soil or geological data into a layout plan"
+  ],
+  "tags": [
+    "level-design",
+    "terrain",
+    "simulation"
+  ],
+  "priority": 8,
+  "content": "",
+  "token_estimate": 0
+}

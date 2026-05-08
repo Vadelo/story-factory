@@ -1,0 +1,33 @@
+{
+  "title": "State Management & Entity Graph",
+  "path": "jonmartin721-living-story-world-state-management-entity-graph",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "WorldState",
+    "WorldConfig",
+    "dataclass serialization",
+    "entity extraction",
+    "knowledge graph",
+    "chapter metadata",
+    "JSON serialization",
+    "media metadata registry",
+    "static HTML export",
+    "WorldState/media/index.json"
+  ],
+  "use_cases": [
+    "Configure when setting immutable world properties like theme and models",
+    "Implement when tracking character and location persistence across story chapters",
+    "Use when extracting structured entity data from generated markdown metadata",
+    "Configure when managing scene illustrations and media registry indexing",
+    "Use when exporting a world state to a static HTML web representation"
+  ],
+  "tags": [
+    "state-management",
+    "data-persistence",
+    "entity-graph",
+    "file-structure"
+  ],
+  "priority": 10,
+  "content": "World state is stored as JSON files with dataclass serialization. Each world tracks:\n\n```\nworlds/<slug>/\n├── config.json          # WorldConfig (immutable: title, theme, models, style)\n├── world.json           # WorldState (mutable: characters, locations, chapters)\n├── chapters/            # Generated markdown content\n├── media/\n│   ├── scenes/          # Scene illustrations (PNG)\n│   └── index.json       # Media metadata registry\n└── web/\n    └── index.html       # Static HTML export (via build command)\n```\n\nEntity extraction happens automatically via structured JSON in chapter metadata:\n\n```html\n<!-- {\n  \"scene_prompt\": \"...\",\n  \"characters_in_scene\": [\"char-001\"],\n  \"new_characters\": [{\"id\": \"char-002\", \"name\": \"...\", \"description\": \"...\"}],\n  \"new_locations\": [...],\n  \"summary\": \"...\"\n} -->\n```\n\nNew entities get registered into `WorldState` during generation, building a persistent knowledge graph. This is how the system remembers that \"Lyra\" is a character and \"Thornhaven\" is a location across chapters.",
+  "token_estimate": 170
+}

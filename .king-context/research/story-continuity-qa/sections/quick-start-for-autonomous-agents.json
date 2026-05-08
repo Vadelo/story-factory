@@ -1,0 +1,31 @@
+{
+  "title": "Quick Start (for autonomous agents)",
+  "path": "quick-start-for-autonomous-agents",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "autonomous agents",
+    "SDK initialization",
+    "API keys",
+    "environment variables",
+    "agent loop",
+    "tool calling",
+    "task automation",
+    "client configuration",
+    "runtime environment"
+  ],
+  "use_cases": [
+    "Use when bootstrapping a new autonomous agent project from scratch",
+    "Configure when setting up authentication credentials for automated workflows",
+    "Implement when creating self-correcting loops for AI-driven task execution",
+    "Use when integrating third-party tools into an agent's capability set"
+  ],
+  "tags": [
+    "onboarding",
+    "automation",
+    "sdk",
+    "core-setup"
+  ],
+  "priority": 10,
+  "content": "",
+  "token_estimate": 0
+}

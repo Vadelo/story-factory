@@ -1,0 +1,29 @@
+{
+  "title": "Prompt templates you can adapt",
+  "path": "how-to-use-ai-for-better-content-brainstorming-sprints-prompt-templates-you-can-adapt",
+  "url": "https://sensecentral.com/how-to-use-ai-for-better-content-brainstorming-sprints/",
+  "keywords": [
+    "prompt templates",
+    "audience intent",
+    "content angles",
+    "brainstorming sprint",
+    "topic ranking",
+    "repurposing potential",
+    "reusable prompts",
+    "audience constraints"
+  ],
+  "use_cases": [
+    "Use when generating high-volume content variations for different audience segments",
+    "Implement when planning a multi-day social media or marketing campaign schedule",
+    "Configure when auditing topic ideas against specific qualitative metrics like clarity and originality",
+    "Use when refining model outputs by providing style examples and requesting reasoning"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "content-strategy",
+    "templates"
+  ],
+  "priority": 8,
+  "content": "These reusable prompts work best when you include your audience, channel, desired tone, and any constraints. In most cases, asking for multiple versions produces a stronger shortlist than asking for one final answer.\n\n1. Template 1: Take this topic and generate 20 content angles grouped by audience intent, difficulty, and format.\n2. Template 2: Turn these idea fragments into a 7-day brainstorming sprint with one primary post and 3 supporting assets.\n3. Template 3: Rank these topic ideas by clarity, originality, repurposing potential, and audience usefulness.\n\nTo get even better results, add examples of your current style and ask the model to explain why each variation is stronger. That makes revision easier and helps you build reusable prompt templates over time.",
+  "token_estimate": 160
+}

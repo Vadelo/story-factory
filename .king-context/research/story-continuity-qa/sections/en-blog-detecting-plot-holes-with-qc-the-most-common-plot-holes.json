@@ -1,0 +1,33 @@
+{
+  "title": "The Most Common Plot Holes",
+  "path": "en-blog-detecting-plot-holes-with-qc-the-most-common-plot-holes",
+  "url": "https://symban.de/en/blog/detecting-plot-holes-with-qc",
+  "keywords": [
+    "SYMBAN Quality Control",
+    "attribute drift",
+    "character teleportation",
+    "world mechanics",
+    "logbook entry",
+    "narrative inventory",
+    "time paradoxes",
+    "chronology verification",
+    "consistency flagging",
+    "story state tracking"
+  ],
+  "use_cases": [
+    "Configure when character physical attributes need to remain consistent across long-form chapters",
+    "Use when validating if a character's current location aligns with their previous travel history",
+    "Implement when checking for chronological inconsistencies like time jumps or sudden weather changes",
+    "Configure when enforcing world-building rules and magic system limitations",
+    "Use when tracking item persistence and inventory status across multiple narrative scenes"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "quality-assurance",
+    "consistency-checking",
+    "error-handling"
+  ],
+  "priority": 9,
+  "content": "Before we get into the system, it's worth looking at the most frequent error types in AI-generated long-form fiction:\n\n- Character teleportation: A character is suddenly at a location they never traveled to\n- Attribute drift: Eye color, age, physical features change gradually\n- Time paradoxes: Night falls, even though the previous scene was morning and only minutes passed\n- Forgotten injuries: A character fought with a broken hand last scene — and now grips a sword two-handed\n- Dead characters reappearing: A classic error, especially in series\n- Magic system violations: Abilities suddenly work differently than defined\n- Inventory errors: Objects appear that were never introduced, or vanish without a trace\n\nAll of these error types destroy reader trust. An attentive reader notices them immediately — and leaves a 2-star review.\n\nSYMBAN's Quality Control pass is a dedicated analysis step that runs after a scene is written and polished. It checks the generated text against multiple criteria — not against vague rules, but against the concrete inventory of your story.\n\n- Are all mentioned characters correctly described?\n- Do physical attributes match the inventory?\n- Are characters in the right location?\n- Does the emotional state match the events of the last scene?\n- Do characters use their established speech patterns?\n\nExample: Your protagonist lost his glasses in Chapter 12. In Chapter 14, he nervously pushes them up his nose. The QC catches this because the inventory records the status \"Glasses: lost since Ch12.\"\n\n- Does the time of day match the previous scene?\n- Are time intervals between events plausible?\n- Are there contradictions in the chronology?\n- Do weather conditions and seasons fit?\n\nExample: In Scene 1 of your chapter, it's midnight. In Scene 2 — which directly follows — the characters are having breakfast in daylight. The QC reports: \"Time jump not plausible without transition.\"\n\n- Are open plot threads acknowledged?\n- Are there newly introduced elements missing from the inventory?\n- Are decisions followed through consistently?\n- Is foreshadowing from earlier chapters being paid off?\n\nExample: Your protagonist swore in Chapter 8 never to enter the city again. In Chapter 20, she strolls through without explanation. The QC flags the contradiction against the logbook entry.\n\n- Do location descriptions match previous mentions?\n- Are established rules of the narrative world maintained?\n- Are there logical breaks in world mechanics?\n- Are distances and travel times plausible?\n\nExample: In your fantasy world, nobody can master fire and ice simultaneously — that's in your world rules. A character does it anyway. The QC reports a rule violation.",
+  "token_estimate": 571
+}

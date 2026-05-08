@@ -1,0 +1,31 @@
+{
+  "title": "How the Summarization System Works",
+  "path": "blog-why-i-built-rag-memory-system-how-the-summarization-system-works",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "Summarization Status",
+    "background summarization",
+    "chunking",
+    "8,000-character chunk",
+    "AI Story Stream",
+    "purple Summarizing indicator",
+    "condensed summaries",
+    "database storage",
+    "word count threshold"
+  ],
+  "use_cases": [
+    "Use when the story reaches the 15,000 to 20,000 word threshold to maintain AI context",
+    "Configure when needing to optimize AI memory via chunked story processing",
+    "Implement when visual tracking of summarization progress is required via the grid interface",
+    "Use when background processing is necessary to avoid blocking user writing workflows"
+  ],
+  "tags": [
+    "AI-memory",
+    "background-processing",
+    "data-management",
+    "user-interface"
+  ],
+  "priority": 9,
+  "content": "In the app, there's a Summarization Status window that shows a grid of squares. Each square represents an 8,000-character chunk of your story. Empty squares mean that section hasn't been summarized yet. Green (filled) squares mean it has been.\n\nThe more green squares you have, the better the AI's memory of your story.\n\nAI Story Stream warns you when your story reaches about 15,000 to 20,000 words without summaries. That's your cue to click Summarize Now. The app will:\n\n- Break your story into chunks\n- Send each chunk to your chosen AI model\n- Generate condensed summaries (typically 200 to 500 words per chunk)\n- Store them in the database\n- Update the grid to show your progress\n\nYou can keep writing while it works. Summarization happens in the background. You'll see a purple \"Summarizing\" indicator, but you're not blocked from continuing your work.",
+  "token_estimate": 192
+}

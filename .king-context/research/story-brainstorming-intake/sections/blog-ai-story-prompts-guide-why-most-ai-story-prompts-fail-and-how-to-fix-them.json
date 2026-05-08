@@ -1,0 +1,30 @@
+{
+  "title": "Why Most AI Story Prompts Fail (And How to Fix Them)",
+  "path": "blog-ai-story-prompts-guide-why-most-ai-story-prompts-fail-and-how-to-fix-them",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "AI story prompts",
+    "creative constraints",
+    "narrative framework",
+    "prompt engineering",
+    "diary format",
+    "emotion-based prompting",
+    "output quality",
+    "thematic dread",
+    "prompt elements"
+  ],
+  "use_cases": [
+    "Use when moving beyond generic high-level AI generation",
+    "Implement when seeking original narrative structures rather than clichés",
+    "Configure when trying to apply creative constraints to influence story tone",
+    "Use when troubleshooting forgettable or repetitive AI writing results"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "creative-writing",
+    "generative-ai"
+  ],
+  "priority": 8,
+  "content": "Think about the last time you tried to get a story from AI. If you're like most people, you probably started with something like \"write a mystery story\" or \"create a romance novel about two people falling in love.\" And the results were... fine. Readable. But utterly forgettable.\n\nThe problem isn't the AI. It's that these prompts are the equivalent of walking into a restaurant and ordering \"food.\" You'll get something edible, but it won't be memorable.\n\nCompare these two prompts:\n\nTypical prompt: \"Write a horror story about a haunted house\"\n\nBetter prompt: \"Last tenant's diary found: dread\"\n\nThe first prompt generates exactly what you'd expect — creaking floors, mysterious shadows, maybe a ghost in the attic. The second prompt? That produces stories about someone discovering increasingly disturbing diary entries, each revealing why the previous tenants fled. The constraint of the diary format and the specific emotion \"dread\" give the AI a creative framework that paradoxically produces more original results.\n\nThis isn't about tricking the AI or finding secret keywords. It's about understanding that AI writes best when it has interesting constraints to work within, not when it has complete freedom.\n\nAfter analyzing thousands of prompts and their outputs, I've identified five core elements that separate remarkable AI stories from forgettable ones. You don't need all five in every prompt, but including 2-3 dramatically improves your results.",
+  "token_estimate": 301
+}

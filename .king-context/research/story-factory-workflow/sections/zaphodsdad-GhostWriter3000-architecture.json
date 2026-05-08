@@ -1,0 +1,35 @@
+{
+  "title": "Architecture",
+  "path": "zaphodsdad-GhostWriter3000-architecture",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "FastAPI",
+    "OpenRouter",
+    "FastMCP",
+    "MCP Wrapper",
+    "File-Based Storage",
+    "LLM Service",
+    "Memory Service",
+    "Entity Service",
+    "Persona Client",
+    "Generation Queue",
+    "Style Learning",
+    "Continuity Checking"
+  ],
+  "use_cases": [
+    "Use when evaluating the high-level system components and data flow",
+    "Configure when integrating external LLMs via the OpenRouter gateway",
+    "Implement when utilizing Model Context Protocol tools via the /mcp/ route",
+    "Configure when setting up persistent storage using the local file-based Markdown and JSON schema",
+    "Use when understanding the relationship between the Services layer and the multi-tool MCP Wrapper"
+  ],
+  "tags": [
+    "architecture",
+    "backend",
+    "api-design",
+    "storage"
+  ],
+  "priority": 10,
+  "content": "```\n┌──────────────────────────────────────────────────────┐\n│                    Web UI (vanilla JS)                │\n│         Retro-futuristic dark theme / light theme     │\n└─────────────────────┬────────────────────────────────┘\n                      │ HTTP\n┌─────────────────────▼────────────────────────────────┐\n│                FastAPI Backend (Python)               │\n│                                                      │\n│  Routes ──→ Services ──→ LLM Service ──→ OpenRouter  │\n│    │            │                                    │\n│    │     ┌──────┴──────────┐                         │\n│    │     │  Memory Service │  Style Learning          │\n│    │     │  Entity Service │  Continuity Checking     │\n│    │     │  Persona Client │  Generation Queue        │\n│    │     └─────────────────┘                         │\n│    │                                                 │\n│  MCP Wrapper (74 tools) ──→ FastMCP ──→ /mcp/        │\n└─────────────────────┬────────────────────────────────┘\n                      │ File I/O\n┌─────────────────────▼────────────────────────────────┐\n│              File-Based Storage                       │\n│  projects/ ── characters/ ── world/ ── scenes/       │\n│  series/   ── memory/     ── style/  ── generations/ │\n│              (Markdown + JSON, no database)           │\n└──────────────────────────────────────────────────────┘\n```",
+  "token_estimate": 166
+}

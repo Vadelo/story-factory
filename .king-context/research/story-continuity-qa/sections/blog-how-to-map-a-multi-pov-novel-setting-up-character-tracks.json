@@ -1,0 +1,31 @@
+{
+  "title": "Setting Up Character Tracks",
+  "path": "blog-how-to-map-a-multi-pov-novel-setting-up-character-tracks",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "Character Tracks",
+    "POV character",
+    "chronological order",
+    "skeleton structure",
+    "story events",
+    "cause and effect",
+    "Act Two position",
+    "color-coding",
+    "narrative mapping"
+  ],
+  "use_cases": [
+    "Use when mapping out the initial narrative skeleton for a multi-POV story",
+    "Configure when organizing character-specific story arcs before determining chapter breaks",
+    "Implement when visualizing the chronological flow of events across different perspectives",
+    "Use when establishing cause and effect relationships between plot points"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-management",
+    "storyboarding",
+    "workflow"
+  ],
+  "priority": 8,
+  "content": "Start by putting each POV character's name on a separate row. Give each character a color. Then place the events you already know for each character in rough chronological order along their track.\n\nDo not worry about precision at this stage. You are creating a skeleton. A scene that happens \"somewhere in Act Two\" can sit at roughly the Act Two position. You can adjust as the structure becomes clearer.\n\nInclude only story events, not chapter numbers. You will figure out the chapter breaks later. What matters now is cause and effect.",
+  "token_estimate": 122
+}

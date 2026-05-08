@@ -1,0 +1,34 @@
+{
+  "title": "Cohesion Metrics for Sentence Transitions",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-cohesion-metrics-for-sentence-transitions",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "lexical chain analysis",
+    "entity grid model",
+    "discourse connectives",
+    "RST parsers",
+    "flow continuity function",
+    "cohesion score",
+    "nucleus-satellite relations",
+    "Stanford CoreNLP",
+    "DPLP",
+    "F(n)",
+    "coherence annotator"
+  ],
+  "use_cases": [
+    "Implement when calculating semantic overlap between adjacent sentences to measure narrative flow.",
+    "Configure when determining optimal paragraph break points using moving average cohesion minima.",
+    "Use when analyzing discourse structures through Rhetorical Structure Theory (RST) relationships.",
+    "Apply when optimizing the ratio of elaboration to contrast relations in narrative text.",
+    "Use when integrating automated coherence scoring via Stanza or CoreNLP pipelines."
+  ],
+  "tags": [
+    "natural-language-processing",
+    "text-analytics",
+    "computational-linguistics",
+    "machine-learning"
+  ],
+  "priority": 8,
+  "content": "Sentence flow in narrative writing can be quantified using lexical cohesion metrics, which measure how adjacent sentences share semantic relationships. The most robust approach combines:\n\n- Lexical chain analysis (repeated nouns, synonyms, or hypernyms)\n- Entity grid models tracking subject/object persistence\n- Discourse connectives (transition words like \"however\" or \"therefore\")\n\nThe cohesion score C between sentences Si and Sj can be computed as:\n\n$$ C(S_i, S_j) = \\alpha \\cdot \\text{LC}(S_i, S_j) + \\beta \\cdot \\text{EG}(S_i, S_j) + \\gamma \\cdot \\text{DC}(S_i, S_j) $$\n\nwhere α, β, γ are weighting coefficients (typically 0.4, 0.4, 0.2 respectively), LC is lexical chain overlap, EG is entity grid continuity, and DC counts discourse connectives.\n\nOptimal paragraph breaks occur at minima in the flow continuity function F(n), calculated as a weighted moving average of cohesion scores:\n\n$$ F(n) = \\frac{1}{2k+1} \\sum_{i=n-k}^{n+k} C(S_i, S_{i+1}) \\cdot w(i-n) $$\n\nwhere k is the window size (typically 3-5 sentences) and w is a triangular weighting function. Paragraph boundaries are placed where F(n) drops below an adaptive threshold:\n\n$$ \\text{Threshold} = \\mu_F - 0.5\\sigma_F $$\n\nFor advanced flow optimization, RST decomposes text into nucleus-satellite relations. The most impactful relations for narrative flow are:\n\n- Elaboration (satellite provides details about nucleus)\n- Contrast (satellite opposes nucleus)\n- Sequence (temporal progression between segments)\n\nOptimal flow maintains a 3:1 ratio of elaboration to contrast relations, with sequence relations appearing every 4-6 sentences. This can be verified through RST parsers like DPLP or RSTTool.\n\nThe Stanford CoreNLP pipeline provides implementable metrics through its coherence and entitygrid annotators. A Python implementation would use:\n\nCopy\n\n```\n\nfrom stanza.pipeline.core import Pipeline\nfrom stanza.models.common.doc import Document\n\nnlp = Pipeline(processors='tokenize,pos,lemma,depparse,entitygrid,coherence')\ndoc = nlp(\"Your tex",
+  "token_estimate": 364
+}

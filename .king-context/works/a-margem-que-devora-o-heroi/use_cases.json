@@ -1,0 +1,75 @@
+{
+  "Recall current brief for story continuation": [
+    "brief-current"
+  ],
+  "Recall canon: premise for story continuation": [
+    "canon-premise"
+  ],
+  "Recall canon: themes for story continuation": [
+    "canon-themes"
+  ],
+  "Recall genre contract for story continuation": [
+    "genre-contract"
+  ],
+  "Recall characters for story continuation": [
+    "characters"
+  ],
+  "Recall relationships for story continuation": [
+    "relationships"
+  ],
+  "Recall world rules for story continuation": [
+    "world-rules"
+  ],
+  "Recall timeline for story continuation": [
+    "timeline"
+  ],
+  "Recall outline for story continuation": [
+    "outline"
+  ],
+  "Recall style guide for story continuation": [
+    "style-guide"
+  ],
+  "Recall continuity ledger for story continuation": [
+    "continuity-ledger"
+  ],
+  "Recall open threads for story continuation": [
+    "open-threads"
+  ],
+  "Recall revision history for story continuation": [
+    "revision-history"
+  ],
+  "Recall draft: o homem na margem da página for story continuation": [
+    "draft-chapter-001-light-novel"
+  ],
+  "Recall draft: resolver conversa for story continuation": [
+    "draft-chapter-002-light-novel"
+  ],
+  "Read the canonical chapter text before continuing or revising the work": [
+    "chapter-001-light-novel-text",
+    "chapter-002-light-novel-text"
+  ],
+  "Recall what happened in this chapter": [
+    "chapter-001-light-novel-summary",
+    "chapter-002-light-novel-summary"
+  ],
+  "Recall canon and world changes introduced by this chapter": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "Recall character and relationship states after this chapter": [
+    "chapter-001-light-novel-character-states",
+    "chapter-002-light-novel-character-states"
+  ],
+  "Recall timeline changes from this chapter": [
+    "chapter-001-light-novel-timeline",
+    "chapter-002-light-novel-timeline"
+  ],
+  "Recall open and resolved story threads for this chapter": [
+    "chapter-001-light-novel-threads",
+    "chapter-002-light-novel-threads"
+  ],
+  "Check continuity and style risks before future drafting": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ]
+}

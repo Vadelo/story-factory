@@ -1,0 +1,35 @@
+{
+  "title": "When the Foundation Cracks",
+  "path": "blog-series-bible-when-the-foundation-cracks",
+  "url": "https://www.bindercraft.net/blog/series-bible",
+  "keywords": [
+    "retcon",
+    "continuity error",
+    "plot hole",
+    "world-building inconsistency",
+    "narrative arc evolution",
+    "new-information approach",
+    "exception approach",
+    "objective narration",
+    "character perspective",
+    "recontextualization",
+    "spatial sense",
+    "creative evolution"
+  ],
+  "use_cases": [
+    "Use when a previously established world rule contradicts a new plot requirement",
+    "Implement when character backstories need alignment with current narrative arcs",
+    "Configure when fixing travel distances or map inconsistencies discovered in later sequels",
+    "Use when resolving technological or cultural plot holes in published works",
+    "Implement when recontextualizing historical events through character-driven unreliable narration"
+  ],
+  "tags": [
+    "narrative-theory",
+    "world-building",
+    "sequel-management",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "Let's talk about the thing nobody enjoys discussing: the retcon. The moment in Book 4 when you realize that something you established in Book 1 doesn't work anymore.\n\nMaybe the magic system needs a rule that contradicts an early scene. Maybe a character's backstory, which you mentioned briefly in Book 2, doesn't support the arc you now want them to have. Maybe you drew a map of your fictional world at the beginning of the series, and now that your characters are traveling across it, the distances don't make spatial sense. Maybe a technology or cultural detail you described in Book 1 creates a plot hole that becomes impossible to ignore three books later.\n\nSome retcons are inevitable. If you're writing a long series, the story and the world will outgrow some of your early decisions. That's not a failure of planning. It's the natural consequence of creative evolution. J.K. Rowling has acknowledged continuity errors in the Harry Potter series, noting that classrooms move floors between books and certain timeline details don't hold up to scrutiny. Terry Pratchett addressed Discworld inconsistencies with characteristic humor, attributing them in-universe to the History Monks repatching reality. The Discworld's own lore became flexible enough to absorb its own contradictions.\n\nFor authors working in series where the books are already published, the options are more constrained. You can't quietly edit a published novel. But you can take several approaches.\n\nThe first is the new-information approach: a later book reveals facts that recontextualize what happened earlier. The character who claimed the war ended fifteen years ago was wrong, or was lying, or was remembering a different conflict. This works best when the original detail was presented through a character's perspective rather than through objective narration.\n\nThe second is the exception approach: establish that what happened earlier was an anomaly. The silent spell in Book 3 wasn't a violation of the rules. It was a rare ability that this particular character possesses, and discovering why they possess it becomes a plot thread in its own right.\n\nThe third, and the hardest, is honest acknowledgment. Some authors include a brief note in a",
+  "token_estimate": 472
+}

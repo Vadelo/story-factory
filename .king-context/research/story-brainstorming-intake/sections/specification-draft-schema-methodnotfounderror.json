@@ -1,0 +1,31 @@
+{
+  "title": "`MethodNotFoundError`",
+  "path": "specification-draft-schema-methodnotfounderror",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "MethodNotFoundError",
+    "JSON-RPC",
+    "code: -32601",
+    "MCP",
+    "Model Context Protocol",
+    "capabilities",
+    "completions",
+    "error handling",
+    "client-server communication"
+  ],
+  "use_cases": [
+    "Configure when a client requests a tool or capability the server has not advertised",
+    "Implement when handling JSON-RPC transport layer errors for missing methods",
+    "Use when debugging capability negotiation failures between MCP participants",
+    "Configure when validating incoming requests against the declared server manifest"
+  ],
+  "tags": [
+    "error-handling",
+    "json-rpc",
+    "mcp-specification",
+    "api-reference"
+  ],
+  "priority": 8,
+  "content": "interface MethodNotFoundError {\n   message: string;\n   data?: unknown;\n   code: -32601;\n}A JSON-RPC error indicating that the requested method does not exist or is not available. In MCP, this error is returned when a request is made for a method that requires a capability that has not been declared. This can occur in either direction: A server returning this error when the client requests a capability it doesn't support (e.g., requesting completions when the `completions` capability was not advertis",
+  "token_estimate": 102
+}

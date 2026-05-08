@@ -1,0 +1,29 @@
+{
+  "title": "Academic paper draft​",
+  "path": "writing-environment-ai-assistant-brainstorming-academic-paper-draft",
+  "url": "https://docs.shyeditor.com/writing-environment/ai-assistant/brainstorming",
+  "keywords": [
+    "Academic writing mode",
+    "citation style",
+    "paper guidelines",
+    "outline generation",
+    "source selection",
+    "AI draft generation",
+    "paper type",
+    "referenced sources"
+  ],
+  "use_cases": [
+    "Use when you need to generate a structured outline for a formal research paper",
+    "Configure when you require specific citation styles and adherence to academic guidelines",
+    "Use when you want to avoid AI hallucinations by manually selecting verified sources",
+    "Implement when creating a long-form initial draft for an academic project"
+  ],
+  "tags": [
+    "content-generation",
+    "academic-tools",
+    "feature-guide"
+  ],
+  "priority": 8,
+  "content": "This mode is available in`Academic writing` projects.\n\nThe mode follows a multi-step process to get you a draft of a paper.\n\n- First, enter a paper type, citation style, desired paper length, and the paper guidelines.\n- Next, the AI will suggest an outline based on the input. You can iterate on this outline with the AI, or edit it directly.\n- Next, the AI will recommend a list of sources to use based on the input and outline. Only the sources you select will be used, so you don't have to worry about the AI inventing fake sources.\n- Finally, the AI will generate a draft of your paper. You can iterate on this draft, or use it in your project.\n\ntip\n\nThe AI can make mistakes, so be sure to double-check any important information.",
+  "token_estimate": 180
+}

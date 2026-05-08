@@ -1,0 +1,33 @@
+{
+  "title": "2. Define the Medium of Exchange",
+  "path": "uncategorized-interstellar-trade-and-economics-2-define-the-medium-of-exchange",
+  "url": "https://natefoy.com/uncategorized/interstellar-trade-and-economics",
+  "keywords": [
+    "Aethercoins",
+    "Trade Sigils",
+    "Data-Platinum",
+    "exchange rates",
+    "inflation",
+    "interstellar trade routes",
+    "geography",
+    "risk",
+    "bottlenecks",
+    "extraterrestrial races"
+  ],
+  "use_cases": [
+    "Use when defining multiple currency types in a fantasy economy system.",
+    "Implement when setting exchange rates between Aethercoins and Data-Platinum.",
+    "Configure when modeling inflation caused by mass-produced enchanted gold.",
+    "Apply when simulating trade routes and identifying bottlenecks due to geography and risk.",
+    "Use when creating merchant soul-based contracts with Trade Sigils for digital agreements."
+  ],
+  "tags": [
+    "economics",
+    "fantasy-economics",
+    "trade-routes",
+    "currency-design"
+  ],
+  "priority": 10,
+  "content": "Is there a universal currency, or is barter still in play? Do different societies accept different forms of payment—tech credits, magical essence, promissory blood-oaths? In Zalonia there is no universal currency to trade with extraterrestrial races. There is only currency among the inhabitants of Zalonia, and sometimes between seas. However, the primary extraterrestrial race is hostile. However, sometimes they partake in Zalonia’s currencies in order to obtain the purple gems that they depend on. There is also another alien race which is more friendly toward those in Zalonia and will sometimes use Zalonia’s primary currency while visiting.\n\nAethercoins: Magical currency infused with power, accepted for both spells and trade.\n\nTrade Sigils: Enchanted seals bound to a merchant’s soul that function like digital contracts.\n\nData-Platinum: A high-density mineral that stores both digital and arcane information, used by hackers and wizards.\n\nTip: Establish exchange rates and conflicts. Is there inflation in magical currency because a world figured out how to mass-produce enchanted gold? Is tech currency destabilizing old mystic economies?\n\nJust like the Silk Road or maritime empires, interstellar trade routes are shaped by geography, risk, and bottlenecks.",
+  "token_estimate": 247
+}

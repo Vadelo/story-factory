@@ -1,0 +1,33 @@
+{
+  "title": "Everything your story needs. Nothing it doesn't.",
+  "path": "everything-your-story-needs-nothing-it-doesn-t",
+  "url": "https://www.storywellapp.com/",
+  "keywords": [
+    "Storywell AI",
+    "world encyclopedia",
+    "story bible",
+    "manuscript scanning",
+    "version history",
+    "distraction-free mode",
+    "story-so-far summary",
+    "autosave",
+    "story outline",
+    "automatic metadata generation"
+  ],
+  "use_cases": [
+    "Use when you want to build a comprehensive lore database without manual data entry",
+    "Implement when writing in full-screen mode to maintain access to character references",
+    "Configure when tracking story consistency and preventing narrative contradictions",
+    "Use when needing to recover previous drafts via version history",
+    "Configure when a summary of existing plot points is required for continuation"
+  ],
+  "tags": [
+    "content-creation",
+    "artificial-intelligence",
+    "knowledge-management",
+    "productivity-tool"
+  ],
+  "priority": 10,
+  "content": "Your characters, locations, lore, and story bible, all in one searchable place. Built automatically as you write.\n\nHow it works\n\nEvery time you manually save, Storywell's AI scans your manuscript and automatically adds new characters, locations, and items to your world encyclopedia. No manual entry. No lost notes. Your story bible builds itself.\n\nDistraction-free writing with your entire world one click away.\n\nHow it works\n\nWrite in full-screen mode with autosave running in the background. Your world encyclopedia, chapter list, and story outline are always one click away without breaking your flow. Version history means you never lose a draft.\n\nAI that remembers your story so you don't have to.\n\nHow it works\n\nStorywell AI doesn't write for you. That's your job. It makes sure you never contradict yourself. It tracks what you've written, updates your encyclopedia automatically, and generates a polished story-so-far summary on demand. Your creativity, fully supported.",
+  "token_estimate": 199
+}

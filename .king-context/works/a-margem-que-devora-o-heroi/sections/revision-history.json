@@ -1,0 +1,19 @@
+{
+  "title": "Revision History",
+  "path": "revision-history",
+  "url": "local://works/a-margem-que-devora-o-heroi#revision-history",
+  "keywords": [
+    "revision",
+    "history"
+  ],
+  "use_cases": [
+    "Recall revision history for story continuation"
+  ],
+  "tags": [
+    "revision",
+    "history"
+  ],
+  "priority": 4,
+  "content": "[\n  {\n    \"id\": \"chapter-001-light-novel-created\",\n    \"note\": \"Canonical chapter 1 kept as light novel/webnovel version.\"\n  },\n  {\n    \"id\": \"chapter-002-light-novel-created\",\n    \"note\": \"Created chapter 2 and enriched the work corpus with chapter memory sections.\"\n  },\n  {\n    \"id\": \"cleanup-before-git\",\n    \"note\": \"Removed old manhwa draft artifacts and normalized project bible to the light novel continuity.\"\n  }\n]",
+  "token_estimate": 67
+}

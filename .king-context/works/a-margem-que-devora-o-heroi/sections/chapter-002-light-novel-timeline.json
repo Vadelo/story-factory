@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Timeline: Resolver Conversa",
+  "path": "chapter-002-light-novel-timeline",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-002-light-novel-timeline",
+  "keywords": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-002-light-novel"
+  ],
+  "use_cases": [
+    "Recall timeline changes from this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-002-light-novel"
+  ],
+  "priority": 9,
+  "content": "[\n  \"Kael confronta Davi na margem após chegar tarde.\",\n  \"Yerin sobrevive no canal inferior com o ombro ferido e o selo da carruagem.\",\n  \"Kael bloqueia a escrita de Davi usando comentário de revisão.\",\n  \"Davi recupera uma fala cortada de Yerin: 'Se chegou tão tarde, não chame isso de destino.'\",\n  \"Davi divide a autoria do comentário de Kael com Yerin.\",\n  \"Yerin abre a grade da cisterna e escapa rumo ao Pavilhão dos Arquivos.\",\n  \"Yerin manda Davi parar de decidir por ela.\",\n  \"Davi percebe que falas cortadas devolvidas permitem que personagens alcancem a margem.\"\n]",
+  "token_estimate": 123
+}

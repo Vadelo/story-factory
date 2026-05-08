@@ -1,0 +1,33 @@
+{
+  "title": "2.1. Principles Across Design Methodologies and Practical Challenges",
+  "path": "html-2508.03182v1-2-1-principles-across-design-methodologies-and-practical-challenges",
+  "url": "https://arxiv.org/html/2508.03182v1",
+  "keywords": [
+    "Design Methodologies",
+    "Double Diamond model",
+    "divergent-convergent thinking",
+    "human-centered design",
+    "iterative refinement",
+    "scenario-based design",
+    "participatory design",
+    "user-centered storytelling",
+    "problem-solving consistency",
+    "design cycle iteration"
+  ],
+  "use_cases": [
+    "Use when evaluating the alignment between theoretical design principles and practical organizational constraints",
+    "Implement when developing systems intended to reduce the overhead of iterative design cycles",
+    "Configure when mapping divergent-convergent patterns within non-linear workflow representations",
+    "Use when addressing designer fixation and the tendency to gravitate toward familiar problem spaces",
+    "Use when identifying barriers to feedback integration during high-pressure project timelines"
+  ],
+  "tags": [
+    "design-theory",
+    "process-optimization",
+    "methodology",
+    "ux-research"
+  ],
+  "priority": 8,
+  "content": "The landscape of design methodologies is diverse, with frameworks varying significantly in their structure, terminology, and specific approaches (Gama et al., 2023; Micheli et al., 2019). Research has documented well over a hundred distinct design approaches across various domains (Hehn et al., 2018). From design thinking and the Double Diamond model to human-centered design, participatory design, service design, and scenario-based approaches, designers have numerous options for characterizing and structuring their design processes. This diversity reflects the fact that no single approach is universally optimal and applicable. Organizations and practitioners frequently adapt frameworks to their specific contexts, leading to continuous evolution and customization of design processes (Kleinsmann et al., 2017; Gama et al., 2023).\n\nDespite this variety, comparative analyses have shown that the underlying principles transcend specific methodologies (Hehn et al., 2018). These shared principles include iterative refinement, alternating phases of divergent and convergent thinking, human-centered design, and user-centered storytelling (Quesenbery and Brooks, 2010). While different frameworks visualize and structure these principles distinctly—some making the divergent-convergent pattern explicit (e.g., Double Diamond (Council, 2023)), others emphasizing empathy and iteration (e.g., design thinking (Dam, 2020)) or scenario-based design—the core approaches to problem-solving remain consistent across methodologies. Many frameworks that appear linear in representation are fundamentally iterative in practice, incorporating feedback loops that enable practitioners to revisit earlier stages as new insights emerge (Dam, 2020).\n\nHowever, a notable gap exists between theoretical frameworks and their practical application (Stolterman, 2008; Goodman et al., 2011; Arteaga et al., 2024; Pruitt and Grudin, 2003; Wang et al., 2024b; Rogers, 2004). Despite their theoretical importance, these principles often prove challenging to implement due to time constraints, resource limitations, and the labor-intensive nature of key design tasks (Kleinsmann et al., 2017). For instance, while design thinking emphasizes the importance of multiple iterations to refine ideas (Rose and Reimer, 2022), time constraints frequently limit iteration cycles to one or a few. Even in semester-long courses, the design cycle may only be completed once, or iteration may be intentionally minimized to avoid major changes to a project.\n\nPractitioners across educational and professional settings face several common challenges. Novice designers often gravitate toward familiar problems, frequently addressing the same types of design challenges and getting fixated (Maceli et al., 2024). Teams under deadline pressure tend to implement theoretically non-linear processes in a more linear, constrained manner (Greenwood et al., 2019). Additionally, collecting and incorporating meaningful feedback becomes difficult within tight project timelines (Dow et al., 2009; Schrage, 1999), further widening the gap between ideal iterative refinement and practical implementation.\n\nOur work builds on decades of research on design by contributing a system that addresses a longstanding challenge in design practice: enabling easy, seamless iteration across interdependent stages. By demonstrating how to lower the overhead of iteration, our work aims to bridge the gap between theoretical ideals and the realities of design processes.",
+  "token_estimate": 625
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Design Decisions",
+  "path": "zaphodsdad-GhostWriter3000-design-decisions",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "file-based storage",
+    "markdown-driven",
+    "JSON scenes",
+    "OpenRouter API",
+    "MCP",
+    "Model Context Protocol",
+    "vanilla JavaScript",
+    "Claude Opus",
+    "DeepSeek",
+    "74-tool surface",
+    "MIT License",
+    "portable data"
+  ],
+  "use_cases": [
+    "Use when a database-less architecture is required for ease of backup and local editing",
+    "Implement when providing access to multiple LLM providers through a single API key via OpenRouter",
+    "Configure when exposing writing workflows to external agents like Claude Desktop via MCP tools",
+    "Use when prioritizing a zero-build-step frontend for maximum portability",
+    "Configure when optimizing model costs by switching between cheap and premium LLMs"
+  ],
+  "tags": [
+    "architecture",
+    "storage",
+    "system-design",
+    "ai-integration"
+  ],
+  "priority": 10,
+  "content": "**Why file-based storage?** Simplicity. Characters and world docs are markdown files you can edit in any text editor. Scenes are JSON. No database setup, no migrations, easy to back up (just copy the folder). For a single-user writing tool, this is the right tradeoff.\n\n**Why vanilla JS?** No build step means anyone can clone and run. The frontend is one HTML file, one CSS file, one JS file. It works. For a tool that's about writing, not about the UI framework, this keeps the focus where it belongs.\n\n**Why OpenRouter?** One API key gives you 300+ models from every major provider. Writers can use cheap models (DeepSeek at $0.14/M tokens) for iteration and expensive ones (Claude Opus) for final passes. No vendor lock-in.\n\n**Why MCP?** The writing engine is useful beyond the web UI. MCP tools let Claude Desktop, Discord bots, or custom agents drive the full workflow. The 74-tool surface was designed for this.\n\nMIT License — see [LICENSE](LICENSE) for details.",
+  "token_estimate": 215
+}

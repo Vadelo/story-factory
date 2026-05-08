@@ -1,0 +1,34 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "ai-prompt-prompts-story-plot-generator-frequently-asked-questions",
+  "url": "https://logicballs.com/ai-prompt/prompts/story-plot-generator",
+  "keywords": [
+    "GENRE",
+    "ELEMENTS",
+    "PREMISE",
+    "PROTAGONIST_DESCRIPTION",
+    "POV narrative",
+    "dramatic irony",
+    "thematic arcs",
+    "subversion",
+    "PROMPT_STRENGTH",
+    "cliché mitigation",
+    "character profiles"
+  ],
+  "use_cases": [
+    "Use when adapting fictional frameworks for memoir or narrative non-fiction",
+    "Implement when the AI outputs clichés to introduce specific constraints and tropes for subversion",
+    "Configure when managing multiple point-of-view characters within a single narrative structure",
+    "Use when requesting specific scene drivers and perspective-limited knowledge",
+    "Configure when defining characters as real people profiles for historical or biographical accuracy"
+  ],
+  "tags": [
+    "troubleshooting",
+    "configuration",
+    "creative-writing",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "#### Can I use this for non-fiction or memoir writing?\n\nWhile designed for fiction, you can adapt it by changing the GENRE to 'Memoir' or 'Narrative Non-Fiction' and focusing the structure on thematic arcs rather than plot beats. The character section becomes 'real people profiles' and the conflict map focuses on internal and societal struggles.\n\n#### The AI keeps generating clichés. How do I fix this?\n\nAdd specific constraints to the ELEMENTS variable like 'Avoid: chosen one trope, love triangles, villain monologues' or use the PREMISE to specify subversions like 'A prophecy that everyone tries to avoid fulfilling.' You can also add an instruction: 'Subvert at least 3 standard genre tropes while maintaining satisfying story beats.'\n\n#### Can this handle multiple POV characters?\n\nYes. In the PROTAGONIST_DESCRIPTION, list 2-3 POV characters with their distinct perspectives. Then request: 'Structure as [X] POV narrative. For each act beat, specify which POV character drives that scene and how their limited knowledge creates dramatic irony.'\n\nFree\n\nEstimated time: 5 min\n\nVerified by 73 experts\n\nGeneral\n\nDiscover meaningful, distinctive names tailored to your family's values, heritage, and dreams.\n\n#naming#parenting+3\n\n1,753\n\nTotal Uses\n\n4.6\n\nAverage Rating\n\nView Prompt\n\nGeneral\n\nGenerate original, profound quotes tailored to any topic, tone, or philosophical style.\n\n#content creation#Writing+3\n\n3,910\n\nTotal Uses\n\n4.7\n\nAverage Rating\n\nView Prompt\n\nGeneral\n\nCraft high-converting, personalized email subject lines that boost open rates and drive engagement.\n\n#lead generation#sales-enablement+3\n\n4,525\n\nTotal Uses\n\n4.7\n\nAverage Rating\n\nView Prompt",
+  "token_estimate": 317
+}

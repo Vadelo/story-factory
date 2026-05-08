@@ -1,0 +1,31 @@
+{
+  "title": "Table of Contents",
+  "path": "L-Earthling-temporal-literary-networks-table-of-contents",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "Temporal Signed Literary Networks",
+    "Dataset",
+    "Per-Book Analysis",
+    "Example Profiles",
+    "Metrics",
+    "Parameters",
+    "Repository Structure",
+    "License",
+    "Network Analysis"
+  ],
+  "use_cases": [
+    "Use when navigating structured documentation for temporal network analysis",
+    "Implement when setting up literary network datasets",
+    "Configure when defining per-book analysis parameters",
+    "Use when reviewing repository file structure and licensing requirements"
+  ],
+  "tags": [
+    "documentation",
+    "data-science",
+    "network-analysis",
+    "research"
+  ],
+  "priority": 10,
+  "content": "1. [What are Temporal Signed Literary Networks?](#what-are-networks)\n2. [Dataset](#dataset)\n3. [Key Findings](#key-findings)\n4. [Repository Structure](#repository-structure)\n5. [Per-Book Analysis: Example Profiles](#per-book-analysis)\n6. [Metrics and Parameters](#metrics-and-parameters)\n7. [Repository Structure](#repository-structure)\n8. [Getting Started](#getting-started)\n9. [License](#license)\n\n---",
+  "token_estimate": 43
+}

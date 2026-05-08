@@ -1,0 +1,32 @@
+{
+  "title": "4.2 Voice Extraction From Conversation",
+  "path": "PeterSalvato-voice-governance-4-2-voice-extraction-from-conversation",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "voice extraction pipeline",
+    "conversation transcripts",
+    "raw corpus",
+    "operational generation rules",
+    "sentence rhythm",
+    "target register",
+    "sampling method",
+    "training constraints",
+    "unstructured data",
+    "voice fingerprint"
+  ],
+  "use_cases": [
+    "Use when building a voice model that avoids artificial or 'performed' prose styles",
+    "Implement when needing to convert raw conversational transcripts into structured generation rules",
+    "Configure when setting constraints for a model to match specific human speech patterns",
+    "Use when high-fidelity replication of a specific individual's authentic linguistic rhythm is required"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "data-processing",
+    "voice-modeling",
+    "machine-learning-training"
+  ],
+  "priority": 9,
+  "content": "The source material for the protocol is conversation, because published writing is performance. The practitioner has already edited, compressed, and shaped their thinking for an audience. Training on performance produces performed output.\n\nThe source material is conversation transcripts accumulated over three years across ChatGPT, Claude, and Gemini. Rough, unstructured, full of false starts. That is how I actually talk. This raw corpus is what the voice pipeline operates on. The pipeline extracts patterns from that material: sentence rhythm, how I start explaining something, vocabulary I reach for, what I never say.\n\nPublished writing says: \"The methodology was developed through iterative refinement of governance patterns.\" Conversation says: \"I kept losing things between sessions. Not the notes. The exact moment something clicked.\" The conversation version is the actual voice. The published version is what the voice sounds like after it has been cleaned up.\n\nSampling from conversation instead of publication gives the model source material that matches the target register. The model is not imitating published prose. It is working from the patterns of actual speech, encoded as constraints.\n\nThe extraction pipeline has two stages. The first samples how I talk in conversation: sentence rhythm, opening moves, vocabulary, transitions, emotional register. Raw observations, accumulated across sessions. The second converts those observations into operational generation rules organized by dimension: how sentences connect, how paragraphs open, where imagery comes from, how feeling enters the text. The protocol tells the model what it cannot do. The fingerprint tells it what I do. Both are loaded before generation begins.",
+  "token_estimate": 336
+}

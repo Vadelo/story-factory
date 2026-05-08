@@ -1,0 +1,32 @@
+{
+  "title": "Manuscript Management with Claude Code",
+  "path": "blog-2026-02-23-claude-long-form-writing-manuscript-management-with-claude-code",
+  "url": "https://docs.bswen.com/blog/2026-02-23-claude-long-form-writing",
+  "keywords": [
+    "Claude Code",
+    "structural revisions",
+    "batch editing",
+    "manuscript management",
+    "source material preparation",
+    "character development documentation",
+    "regeneration cycles",
+    "style refinement",
+    "Bible Ref Search",
+    "Character Models"
+  ],
+  "use_cases": [
+    "Use when managing large-scale documentation or manuscripts across hundreds of individual files",
+    "Implement when structural consistency and character tracking are required in long-form content",
+    "Configure when performing systematic batch edits and style refinements across a codebase or project",
+    "Use when establishing a multi-phase workflow involving different AI models for specialized tasks"
+  ],
+  "tags": [
+    "content-management",
+    "workflows",
+    "automation",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "Managing 113 files manually would be impossible. I used Claude Code for structural revisions and batch editing across the entire manuscript.\n\n```\n┌─────────────┐    ┌─────────────┐    ┌─────────────┐│   Chapter   │ ──→ │  Bible Ref  │ ──→ │ Character   ││   1-50      │     │  Search     │     │ Models      │└─────────────┘    └─────────────┘    └─────────────┘       │                  │                  │       └──────┬───────────┼─────────────────┘              ▼          ▼         ┌─────────────┐ ┌─────────────┐         │  Style     │ │  Structural │         │  Refinement │ │  Revisions  │         └─────────────┘ └─────────────┘\n```\n\nThis systematic approach eliminated writer’s block and ensured character consistency throughout the entire 300k+ word project.\n\nWhen I first started, I made several mistakes:\n\n- Not preparing adequate source material upfront\n- Using the same AI model for all writing phases\n- Skipping character development documentation\n- Not establishing a consistent workflow\n- Underestimating the need for multiple regeneration cycles\n\nEach of these issues led to inconsistencies and required more revision work later.",
+  "token_estimate": 188
+}

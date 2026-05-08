@@ -1,0 +1,32 @@
+{
+  "title": "Project Overview",
+  "path": "posts-lab-0-project-overview",
+  "url": "https://kennethwolters.com/posts/lab-0/",
+  "keywords": [
+    "Progressive State Transformer",
+    "PST",
+    "hierarchical narrative generation",
+    "persistent state",
+    "narrative layers",
+    "long-form text generation",
+    "Enterprise Knowledge Base Systems",
+    "structured stories",
+    "LLMs",
+    "stateful generation"
+  ],
+  "use_cases": [
+    "Use when generating long-form coherent narratives that require cross-chapter consistency",
+    "Implement when traditional single-pass LLM approaches fail to maintain structural integrity",
+    "Configure when bridging the gap between creative storytelling and factual Enterprise Knowledge Base systems",
+    "Use when hierarchical state management is required across multiple layers of text production"
+  ],
+  "tags": [
+    "architecture",
+    "narrative-generation",
+    "state-management",
+    "llm-framework"
+  ],
+  "priority": 10,
+  "content": "This entry marks the beginning of documentation for what I’m calling the Progressive State Transformer (PST) - a hierarchical narrative generation system designed to create coherent, structured stories using LLMs that I’ve been working on (on and off) for the past months. The core innovation is maintaining persistent state across multiple narrative layers, allowing for more cohesive long-form text generation than traditional single-pass approaches. Once good novels can be written with this system, could we use it for factual information in Enterprise Knowledge Base Systems?",
+  "token_estimate": 113
+}

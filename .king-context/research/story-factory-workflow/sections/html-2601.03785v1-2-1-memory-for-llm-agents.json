@@ -1,0 +1,34 @@
+{
+  "title": "2.1 Memory for LLM Agents",
+  "path": "html-2601.03785v1-2-1-memory-for-llm-agents",
+  "url": "https://arxiv.org/html/2601.03785v1",
+  "keywords": [
+    "long-term memory",
+    "embedding-based indexing",
+    "MemoryBank",
+    "MemGPT",
+    "hierarchical architecture",
+    "Mem0",
+    "incremental state evolution",
+    "A-Mem",
+    "information fragmentation",
+    "gist representations",
+    "ReadAgent",
+    "adaptive control"
+  ],
+  "use_cases": [
+    "Use when evaluating different architectural approaches for LLM memory persistence",
+    "Implement when transitioning from basic retrieval-augmented generation to adaptive state evolution",
+    "Configure when designing hierarchical memory controllers for handling long-term context",
+    "Use when comparing unstructured memory systems with decision-driven memory operations"
+  ],
+  "tags": [
+    "agentic-memory",
+    "llm-architecture",
+    "information-retrieval",
+    "state-management"
+  ],
+  "priority": 9,
+  "content": "The evolution of memory systems for LLM agents has progressed from basic retrieval to adaptive control. Early approaches typically partitioned long texts into chunks for processing. Subsequent frameworks like MemoryBank Zhong et al. (2024) and Ret-LLM Modarressi et al. (2023) employed embedding-based indexing, while MemGPT Packer et al. (2023) and SCM Wang et al. (2023) introduced hierarchical or controller-based architectures for better long-term information management. Recent research emphasizes greater adaptivity, with Mem0 Chhikara et al. (2025) enabling incremental state evolution, ReadAgent Lee et al. (2024) using compressed \"gist\" representations, and A-Mem Xu et al. (2025) equipping agents with decision-driven memory operations. However, these predominantly unstructured approaches often lead to information fragmentation and rely on fixed encoding patterns, which limits their flexibility and long-term coherence across diverse tasks, posing an ongoing challenge for developing more integrated and general-purpose memory systems.",
+  "token_estimate": 184
+}

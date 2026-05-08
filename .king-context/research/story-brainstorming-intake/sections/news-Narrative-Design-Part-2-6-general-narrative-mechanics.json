@@ -1,0 +1,34 @@
+{
+  "title": "6. General Narrative Mechanics",
+  "path": "news-Narrative-Design-Part-2-6-general-narrative-mechanics",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "narrative mechanics",
+    "branching narrative",
+    "pre-rendered CGI sequences",
+    "environmental storytelling",
+    "core gameplay loop",
+    "in-engine scripted scenes",
+    "2D cutscenes",
+    "narrative pacing",
+    "supplemental lore",
+    "NPC interaction",
+    "game design limitations"
+  ],
+  "use_cases": [
+    "Use when establishing the high-level relationship between narrative design and core gameplay mechanics.",
+    "Implement when deciding between linear, branching, or open story structures based on genre constraints.",
+    "Configure when budgeting for narrative delivery methods like voice-overs, CGI, or in-world scripted sequences.",
+    "Use when determining the frequency and triggers for story reveals across play sessions.",
+    "Use when evaluating the feasibility of environmental storytelling versus active NPC dialogue."
+  ],
+  "tags": [
+    "narrative-design",
+    "game-design",
+    "planning",
+    "production-pipeline"
+  ],
+  "priority": 9,
+  "content": "Assess the genre, game design, core loop, and core gameplay mechanics to establish limitations and possibilities when conceptualizing and implementing narrative. Then, figure out the following:\n\nHow can narrative work in the game?\n\n- Does the game concept allow for branching, open, or linear narrative?\n- How much story is being told?\n- Is this a text adventure, card game, or story-driven RPG? Genre can dictate how narrative unfolds.\n\nHow is the narrative revealed?\n\nDo you have the budget for voice-overs?\n\nWill cut scenes be utilized? If so, what kind fit the game’s genre, style, and budget? Some options: Designer scripted scenes; In-world and scripted (these scenes play out in-engine in real time); Pre-rendered CGI sequences (these are made separately and are not in-world; they are like little movies that get triggered at specific points); 2D cutscenes (art-based and pre-rendered, like Infamous or Overwatch); In-world environmental sequences (scenes happening in the background that are scripted (God of War, INSIDE, and Journey)\n\nIs something revealed every 20 play sessions? Or every time you die and talk to NPCs, like in Hades?\n\nIs the story mostly environmental or supplemental?\n\nHow does the player interact with it?\n\n- Are you only using lore notes or found narrative objects?\n- Do NPCs reveal story beats? Does a specific action?\n\nThroughout the development process, new mechanics will be added; old ones will change. But it is good to have an early, high-level understanding of the most important narrative mechanics for your game. You have to start somewhere.\n\nYou also need to adapt to new information. At this early stage, you might come up with something you really love, and changing it later will be painful, but trying to force something that no longer suits the game design will result in a less cohesive game. Go with the flow. Even if the flow is lava and it hurts really bad.",
+  "token_estimate": 417
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Cultural Foundation Prompt",
+  "path": "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-cultural-foundation-prompt",
+  "url": "https://impressifyai.com/article/chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture",
+  "keywords": [
+    "Cultural Foundation Prompt",
+    "SOCIAL HIERARCHY",
+    "NAMING CONVENTIONS",
+    "TABOOS AND VALUES",
+    "RITES OF PASSAGE",
+    "CURRENCY AND TRADE",
+    "logical derivation",
+    "worldbuilding constraints",
+    "GEOGRAPHY",
+    "formatting examples"
+  ],
+  "use_cases": [
+    "Use when building complex fictional civilizations for creative writing or game design",
+    "Implement when simulating logical socio-economic outcomes based on environmental constraints",
+    "Configure when generating systematic naming patterns and linguistic consistency for a setting",
+    "Use when defining structural worldbuilding rules for AI-assisted storytelling"
+  ],
+  "tags": [
+    "content-generation",
+    "worldbuilding",
+    "creative-framework",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "```\n\"Design a complete culture for [specific group/nation] with these \nconstraints:\n\nGEOGRAPHY: [Climate, resources, threats]\nHISTORY: [Major formative events]\nECONOMY: [Primary industries, trade goods]\nNEIGHBORS: [Hostile, friendly, isolated?]\n\nGenerate:\n1. SOCIAL HIERARCHY: Who has power and why? Include 3-5 distinct \n   social classes.\n2. NAMING CONVENTIONS: Patterns for personal names, family names, \n   place names (provide 20 examples).\n3. TABOOS AND VALUES: What's forbidden? What's honored? Why?\n4. RITES OF PASSAGE: Birth, adulthood, marriage, death customs.\n5. CURRENCY AND TRADE: What's valuable? What's traded? Include \n   slang terms for money.\n\nExplain how each element stems logically from geography and history.\"\n```",
+  "token_estimate": 130
+}

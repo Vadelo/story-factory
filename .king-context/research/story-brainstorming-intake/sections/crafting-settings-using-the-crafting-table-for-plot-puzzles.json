@@ -1,0 +1,33 @@
+{
+  "title": "Using the Crafting Table for Plot Puzzles",
+  "path": "crafting-settings-using-the-crafting-table-for-plot-puzzles",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "Crafting Table",
+    "Plot Puzzle",
+    "Storycrafter",
+    "Table Type",
+    "Story Name",
+    "ID column",
+    "PUZZLE column",
+    "SOLVED column",
+    "NICKNAME column",
+    "ideate",
+    "setting roadmap"
+  ],
+  "use_cases": [
+    "Use when organizing narrative questions that require answers to achieve setting clarity",
+    "Configure when initiating the Plot Puzzle workflow within the Crafting Table system",
+    "Implement when tracking the progress of individual setting deliverables or plot points",
+    "Use when setting up the initial four-column layout for a new story project"
+  ],
+  "tags": [
+    "creative-writing",
+    "project-tracking",
+    "world-building",
+    "documentation-layout"
+  ],
+  "priority": 8,
+  "content": "There are two major sections for the Crafting Table. At the top of the page you write the table type (in this case, it is titled “Plot Puzzle”), the Story Name (a temporary “code name” is fine), and the name of the Storycrafter (your name).\n\nIn the table, there are four columns with dotted lines serving as borders. Using your writing utensil, draw a solid line over the vertical, dotted lines for each column, making four distinct columns. The first column has the title of “ID.” You need to write the titles for the other three columns as: PUZZLE | SOLVED | NICKNAME.\n\nNow that the page is ready, you will list out each puzzle for the setting you are working on and as you ideate and expand, you will track the progress towards clarity. Essentially, each puzzle you list is a question or deliverable about the setting that needs to be answered in order to reach clarity.",
+  "token_estimate": 210
+}

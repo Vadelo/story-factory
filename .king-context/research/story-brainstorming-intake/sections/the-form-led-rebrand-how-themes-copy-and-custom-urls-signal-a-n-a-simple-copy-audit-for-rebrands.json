@@ -1,0 +1,32 @@
+{
+  "title": "A simple copy audit for rebrands",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-a-simple-copy-audit-for-rebrands",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "rebranding",
+    "A/B testing",
+    "Google Sheets synchronization",
+    "completion rate",
+    "lead quality",
+    "Ezpa.ge",
+    "Form UX",
+    "positioning",
+    "self-serve migration",
+    "copy audit"
+  ],
+  "use_cases": [
+    "Use when migrating messaging from product-centric to platform-centric",
+    "Implement when updating user data collection fields to match new business models",
+    "Configure when syncing Ezpa.ge forms with Google Sheets for performance tracking",
+    "Use when testing new brand positioning before a full site deployment"
+  ],
+  "tags": [
+    "content-strategy",
+    "brand-management",
+    "user-experience",
+    "analytics"
+  ],
+  "priority": 6,
+  "content": "Take your top 3–5 forms and run them through this lens:\n\nDoes the headline use your new language? If your product is moving from “tool” to “platform,” does the form still say “Sign up for our tool”?\n\nAre you asking questions that belong to the old story? If you’re shifting to self-serve, why are you still asking for “Team Size” before someone can try the product?\n\nDo your tone and stakes match? High-stakes flows deserve calm, clear, rigorous language. For patterns, see Form UX for High-Stakes Data.\n\nRevamping copy is also a safe way to test new positioning. With Ezpa.ge forms synced to Google Sheets, you can A/B test headlines or field explanations and watch how they affect completion and lead quality—without waiting on a full site rewrite.\n\n---",
+  "token_estimate": 171
+}

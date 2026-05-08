@@ -1,0 +1,2093 @@
+{
+  "AI agents": [
+    "avigold-postwriter-what-it-does"
+  ],
+  "content-generation": [
+    "avigold-postwriter-what-it-does",
+    "EdwardAThomson-StoryDaemon-how-it-works",
+    "EdwardAThomson-StoryDaemon-core-generation-commands",
+    "EdwardAThomson-StoryDaemon-inspection-management-commands",
+    "third-order-labs-longform-plugin-how-it-works",
+    "a-stepwise-ai-assisted-long-form-fiction-method-character-profiles",
+    "makieali-longform-ai-3-generate-a-book",
+    "makieali-longform-ai-architecture",
+    "blog-2026-02-23-claude-long-form-writing-purpose",
+    "blog-2026-02-23-claude-long-form-writing-the-per-chapter-workflow",
+    "keilladraconis-NAI-story-engine-s-e-g-a-story-engine-generate-all",
+    "howells-fiction-agents",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-team-pratilipi",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-api-contract-checkpoints",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-outline-engine-4-layers-of-decomposition",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-two-agent-iteration-pattern-used-everywhere",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-human-in-the-loop-where-humans-actually-intervene",
+    "blog-2026-02-23-ai-writing-continuity-purpose",
+    "blog-2026-02-23-ai-writing-continuity-related-posts",
+    "html-2603.05890v1-3-1-experimental-setup",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-4-execute",
+    "pdf-2412.13575-content",
+    "posts-lab-0-current-progress",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-3-weaving-the-tapestry-history-lore-and-mythology",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-5-breathing-life-into-the-details-magic-flora-and-fauna",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-depth-layer-micro-histories",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-cultural-foundation-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-religious-system-builder",
+    "en-how-it-works-cookie-settings",
+    "zaphodsdad-GhostWriter3000-the-core-loop",
+    "aihxp-scriven-the-voice-dna-system",
+    "aihxp-scriven-philosophy",
+    "Narcooo-inkos-blob-master-skills-SKILL.md-content",
+    "avigold-postwriter-context-files",
+    "dmulxw-inkos-blob-f8bc93e1b5cc1a9d14d741bf3eb883543e5de210-README.en.md-content"
+  ],
+  "workflow-automation": [
+    "avigold-postwriter-what-it-does",
+    "third-order-labs-longform-plugin-how-it-works",
+    "third-order-labs-longform-plugin-skills",
+    "blog-2026-02-23-claude-long-form-writing-the-per-chapter-workflow",
+    "howells-fiction-what-this-is",
+    "howells-fiction-commands",
+    "howells-fiction-large-manuscript-efficiency",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-4-execute",
+    "aihxp-scriven-quick-start"
+  ],
+  "installation-guide": [
+    "avigold-postwriter-what-it-does"
+  ],
+  "literary-analysis": [
+    "avigold-postwriter-what-it-does",
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-basic-style-guide",
+    "2025.findings-acl.1114.pdf-content"
+  ],
+  "configuration": [
+    "avigold-postwriter-context-files",
+    "EdwardAThomson-StoryDaemon-features",
+    "EdwardAThomson-StoryDaemon-inspection-management-commands",
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline",
+    "lordjabez-story-framework-working-with-ai-assistants",
+    "third-order-labs-longform-plugin-project-structure-scaffolded-by-start-project",
+    "a-stepwise-ai-assisted-long-form-fiction-method-writing-style-guide",
+    "makieali-longform-ai-table-of-contents",
+    "makieali-longform-ai-environment-variables",
+    "makieali-longform-ai-provider-setup-examples",
+    "keilladraconis-NAI-story-engine-s-e-g-a-story-engine-generate-all",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-api-contract-checkpoints",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-global-context",
+    "jonmartin721-living-story-world-quick-start",
+    "jonmartin721-living-story-world-visual-styles",
+    "jonmartin721-living-story-world-narrative-presets",
+    "jonmartin721-living-story-world-cli-reference",
+    "joeloverbeck-living-narrative-engine-memory-components",
+    "joeloverbeck-living-narrative-engine-running-locally",
+    "joeloverbeck-living-narrative-engine-game-configuration-game-json",
+    "joeloverbeck-living-narrative-engine-configuration",
+    "joeloverbeck-living-narrative-engine-text-format-options",
+    "LudoNarrative-StoryAssembler-how-to-run-mac",
+    "en-architecture-cookie-settings",
+    "en-how-it-works-frequently-asked-questions",
+    "blog-why-i-built-rag-memory-system-the-rag-depth-setting-semantic-search",
+    "zaphodsdad-GhostWriter3000-configuration",
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline",
+    "elizaOS-characterfile-blob-main-README.md-content",
+    "andrew36999-AIDungeon_Exporter-export-structure",
+    "aihxp-scriven-the-voice-dna-system",
+    "aihxp-scriven-work-types-supported",
+    "aihxp-scriven-documentation",
+    "aihxp-scriven-installer-targets",
+    "Narcooo-inkos-blob-master-skills-SKILL.md-content",
+    "ngpepin-stylometric-transfer-blob-main-AGENTS.md-content",
+    "kabirahuja2431-FlawedFictions-command-line-arguments",
+    "ngpepin-stylometric-transfer-blob-main-README.md-content",
+    "ngpepin-stylometric-transfer-blob-cd3ea7dceefc70e51d44f69d8fe98c817d5cf7c6-apply_fingerprint.py-content",
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-release-notes-v1-7-md",
+    "avigold-postwriter-context-files",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md"
+  ],
+  "content-management": [
+    "avigold-postwriter-context-files",
+    "lordjabez-story-framework-folder-structure",
+    "blog-2026-02-23-claude-long-form-writing-manuscript-management-with-claude-code",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-specialized-worldbuilding-platforms",
+    "en-how-it-works-frequently-asked-questions",
+    "blog-why-i-built-rag-memory-system-editing-summarized-content",
+    "andrew36999-AIDungeon_Exporter-export-structure"
+  ],
+  "automation": [
+    "avigold-postwriter-context-files",
+    "blog-2026-02-23-claude-long-form-writing-manuscript-management-with-claude-code",
+    "blog-2026-02-23-claude-long-form-writing-the-reason-why-this-works",
+    "keilladraconis-NAI-story-engine-s-e-g-a-story-engine-generate-all",
+    "blog-2026-02-23-ai-writing-continuity-purpose",
+    "blog-2026-02-23-ai-writing-continuity-the-solution",
+    "blog-2026-02-23-ai-writing-continuity-implementation",
+    "blog-2026-02-23-ai-writing-continuity-how-it-works",
+    "blog-2026-02-23-ai-writing-continuity-related-posts",
+    "projects-sibyl-overview-challenges",
+    "zaphodsdad-GhostWriter3000-mcp-integration",
+    "andrew36999-AIDungeon_Exporter-features",
+    "andrew36999-AIDungeon_Exporter-this-is-not-malware-why-chrome-login-is-required",
+    "aihxp-scriven-autopilot-mode",
+    "avigold-postwriter-what-it-does",
+    "dmulxw-inkos-blob-f8bc93e1b5cc1a9d14d741bf3eb883543e5de210-README.en.md-content"
+  ],
+  "architecture": [
+    "avigold-postwriter-architecture",
+    "EdwardAThomson-StoryDaemon-how-it-works",
+    "EdwardAThomson-StoryDaemon-memory-system",
+    "EdwardAThomson-StoryDaemon-project-structure",
+    "third-order-labs-longform-plugin-project-structure-scaffolded-by-start-project",
+    "makieali-longform-ai-architecture",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-engineering-challenge-a-lesson-in-humility",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-api-contract-checkpoints",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-conclusion-from-prompt-engineering-to-story-engineering",
+    "jonmartin721-living-story-world-why-i-built-this",
+    "jonmartin721-living-story-world-provider-swapping",
+    "posts-lab-0-project-overview",
+    "posts-lab-0-architectural-foundations",
+    "posts-lab-0-implementation-details",
+    "projects-sibyl-project-overview",
+    "projects-sibyl-solution-results",
+    "blog-why-i-built-rag-memory-system-the-context-window-problem",
+    "zaphodsdad-GhostWriter3000-about-this-project",
+    "zaphodsdad-GhostWriter3000-architecture",
+    "zaphodsdad-GhostWriter3000-project-structure",
+    "zaphodsdad-GhostWriter3000-design-decisions",
+    "aihxp-scriven-work-types-supported",
+    "aihxp-scriven-documentation",
+    "aihxp-scriven-status",
+    "ngpepin-stylometric-transfer-blob-main-AGENTS.md-content",
+    "avigold-postwriter-architecture"
+  ],
+  "internal-structure": [
+    "avigold-postwriter-architecture"
+  ],
+  "model-orchestration": [
+    "avigold-postwriter-architecture"
+  ],
+  "quality-assurance": [
+    "avigold-postwriter-architecture",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-outline-engine-4-layers-of-decomposition",
+    "blog-2026-02-23-ai-writing-continuity-purpose",
+    "blog-2026-02-23-ai-writing-continuity-how-it-works",
+    "html-2603.05890v1-2-constory-bench",
+    "html-2603.05890v1-2-2-consistency-error-taxonomy",
+    "en-how-it-works-cookie-settings",
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one",
+    "scene-audit-the-mistakes-that-kill-reader-trust"
+  ],
+  "documentation": [
+    "EdwardAThomson-StoryDaemon-youtube-explainer",
+    "lordjabez-story-framework-inline-markup",
+    "lordjabez-story-framework-writing-good-commit-messages",
+    "a-stepwise-ai-assisted-long-form-fiction-method-writing-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-make-an-industrial-strength-style-guide",
+    "blog-2026-02-23-claude-long-form-writing-final-words-more-resources",
+    "aihxp-scriven-documentation",
+    "fictzio-rpg-markdown-some-uses-for-rpg-markdown",
+    "ngpepin-stylometric-transfer-blob-main-AGENTS.md-content",
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-commit-release-notes-for-v1-7",
+    "arozcan-llm-emotion-audit-repository-structure",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-2-files-changed"
+  ],
+  "multimedia": [
+    "EdwardAThomson-StoryDaemon-youtube-explainer"
+  ],
+  "onboarding": [
+    "EdwardAThomson-StoryDaemon-youtube-explainer",
+    "lordjabez-story-framework-getting-started"
+  ],
+  "product-tour": [
+    "EdwardAThomson-StoryDaemon-features"
+  ],
+  "feature-overview": [
+    "EdwardAThomson-StoryDaemon-features"
+  ],
+  "installation": [
+    "EdwardAThomson-StoryDaemon-features",
+    "makieali-longform-ai-table-of-contents",
+    "keilladraconis-NAI-story-engine-s-e-g-a-story-engine-generate-all",
+    "jonmartin721-living-story-world-quick-start",
+    "joeloverbeck-living-narrative-engine-installation-setup",
+    "LudoNarrative-StoryAssembler-how-to-run-mac",
+    "aihxp-scriven-installer-targets"
+  ],
+  "CLI reference": [
+    "EdwardAThomson-StoryDaemon-create-your-first-novel"
+  ],
+  "Project Initialization": [
+    "EdwardAThomson-StoryDaemon-create-your-first-novel"
+  ],
+  "Workflow": [
+    "EdwardAThomson-StoryDaemon-create-your-first-novel",
+    "zaphodsdad-GhostWriter3000-features"
+  ],
+  "LLM Configuration": [
+    "EdwardAThomson-StoryDaemon-create-your-first-novel"
+  ],
+  "llm-orchestration": [
+    "EdwardAThomson-StoryDaemon-how-it-works",
+    "avigold-postwriter-architecture"
+  ],
+  "validation": [
+    "EdwardAThomson-StoryDaemon-how-it-works",
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge",
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works"
+  ],
+  "narrative-analysis": [
+    "EdwardAThomson-StoryDaemon-real-world-example",
+    "blog-2026-02-23-ai-writing-continuity-the-problem",
+    "html-2603.05890v1-2-2-consistency-error-taxonomy",
+    "projects-sibyl-overview-challenges",
+    "html-2504.11900v2-1-introduction",
+    "html-2504.11900v2-2-defining-plot-holes-continuity-errors",
+    "html-2504.11900v2-3-automatically-generating-plot-holes-in-stories",
+    "2021.nuse-1.9.pdf-content",
+    "pdf-2601.06445-content",
+    "kabirahuja2431-FlawedFictions-overview",
+    "html-2604.22142v1-1-introduction",
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey",
+    "html-2412.02897v1-3-problem-definition",
+    "html-2412.02897v1-4-3-narrative-logic-checker-by-characters-emotion-and-action",
+    "html-2412.02897v1-4-4-action-emotion-prediction-and-sentence-generation"
+  ],
+  "cli-commands": [
+    "EdwardAThomson-StoryDaemon-real-world-example"
+  ],
+  "content-monitoring": [
+    "EdwardAThomson-StoryDaemon-real-world-example"
+  ],
+  "storytelling-metrics": [
+    "EdwardAThomson-StoryDaemon-real-world-example"
+  ],
+  "state-management": [
+    "EdwardAThomson-StoryDaemon-memory-system",
+    "makieali-longform-ai-architecture",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-engineering-challenge-a-lesson-in-humility",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-conclusion-from-prompt-engineering-to-story-engineering",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-2-the-narrative-scratchpad-the-sliding-window",
+    "html-2601.03785v1-2-1-memory-for-llm-agents",
+    "jonmartin721-living-story-world-why-i-built-this",
+    "jonmartin721-living-story-world-state-management-entity-graph",
+    "joeloverbeck-living-narrative-engine-core-motivations-generator",
+    "LudoNarrative-StoryAssembler-why-would-i-want-to-write-with-this-thing",
+    "posts-lab-0-project-overview",
+    "posts-lab-0-architectural-foundations",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md",
+    "dmulxw-inkos-blob-f8bc93e1b5cc1a9d14d741bf3eb883543e5de210-README.en.md-content"
+  ],
+  "narrative-engine": [
+    "EdwardAThomson-StoryDaemon-memory-system"
+  ],
+  "data-structure": [
+    "EdwardAThomson-StoryDaemon-memory-system"
+  ],
+  "project-structure": [
+    "EdwardAThomson-StoryDaemon-project-structure"
+  ],
+  "file-system": [
+    "EdwardAThomson-StoryDaemon-project-structure",
+    "avigold-postwriter-context-files"
+  ],
+  "orchestration": [
+    "EdwardAThomson-StoryDaemon-project-structure",
+    "makieali-longform-ai-table-of-contents"
+  ],
+  "development": [
+    "EdwardAThomson-StoryDaemon-project-structure",
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure"
+  ],
+  "cli-reference": [
+    "EdwardAThomson-StoryDaemon-core-generation-commands",
+    "EdwardAThomson-StoryDaemon-inspection-management-commands",
+    "howells-fiction-what-this-is",
+    "aihxp-scriven-quick-start",
+    "dmulxw-inkos-blob-f8bc93e1b5cc1a9d14d741bf3eb883543e5de210-README.en.md-content"
+  ],
+  "project-management": [
+    "EdwardAThomson-StoryDaemon-core-generation-commands",
+    "EdwardAThomson-StoryDaemon-inspection-management-commands",
+    "third-order-labs-longform-plugin-skills",
+    "blog-2026-02-23-claude-long-form-writing-purpose",
+    "blog-2026-02-23-claude-long-form-writing-the-solution-system"
+  ],
+  "workflow": [
+    "EdwardAThomson-StoryDaemon-core-generation-commands",
+    "lordjabez-story-framework-getting-started",
+    "lordjabez-story-framework-writing-good-commit-messages",
+    "third-order-labs-longform-plugin-project-structure-scaffolded-by-start-project",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-human-in-the-loop-where-humans-actually-intervene",
+    "blog-2026-02-23-ai-writing-continuity-implementation",
+    "blog-2026-02-23-ai-writing-continuity-how-it-works",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-1-analysis",
+    "en-how-it-works-cookie-settings",
+    "en-how-it-works-frequently-asked-questions",
+    "zaphodsdad-GhostWriter3000-the-core-loop",
+    "aihxp-scriven-documentation"
+  ],
+  "metadata-standard": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "plugin-integration": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "narrative-design": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline",
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu",
+    "a-stepwise-ai-assisted-long-form-fiction-method-character-profiles",
+    "a-stepwise-ai-assisted-long-form-fiction-method-scene-briefs-spatial-maps",
+    "blog-2026-02-23-claude-long-form-writing-the-story-bible",
+    "blog-ai-story-bible-start-with-the-pieces-that-actually-change-decisions",
+    "blog-ai-story-bible-separate-stable-lore-from-world-state-memory",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-source-of-truth-artifacts",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-2-the-bible",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-2-the-narrative-scratchpad-the-sliding-window",
+    "jonmartin721-living-story-world-narrative-presets",
+    "joeloverbeck-living-narrative-engine-core-motivations-generator",
+    "LudoNarrative-StoryAssembler-why-would-i-want-to-write-with-this-thing",
+    "posts-lab-0-architectural-foundations",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-3-weaving-the-tapestry-history-lore-and-mythology",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-4-populating-your-world-cultures-and-factions",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-why-great-worlds-collapse",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-foundation-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-depth-layer-micro-histories",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-consistency-check",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-technology-integration-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-religious-system-builder",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-governance-deep-dive",
+    "blog-why-i-built-rag-memory-system-why-bigger-context-windows-don-t-solve-everything",
+    "zaphodsdad-GhostWriter3000-the-core-loop",
+    "scene-audit-the-mistakes-that-kill-reader-trust"
+  ],
+  "narrative-structure": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "scene-configuration": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "storytelling-engines": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-engineering-challenge-a-lesson-in-humility"
+  ],
+  "setup": [
+    "lordjabez-story-framework-getting-started",
+    "makieali-longform-ai-environment-variables",
+    "joeloverbeck-living-narrative-engine-installation-setup",
+    "zaphodsdad-GhostWriter3000-configuration"
+  ],
+  "versioning": [
+    "lordjabez-story-framework-getting-started",
+    "abs-2503.22828-submission-history",
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-commit-release-notes-for-v1-7"
+  ],
+  "project-organization": [
+    "lordjabez-story-framework-folder-structure"
+  ],
+  "best-practices": [
+    "lordjabez-story-framework-folder-structure",
+    "lordjabez-story-framework-writing-good-commit-messages",
+    "a-stepwise-ai-assisted-long-form-fiction-method-section-links",
+    "a-stepwise-ai-assisted-long-form-fiction-method-writing-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-make-an-industrial-strength-style-guide",
+    "blog-2026-02-23-claude-long-form-writing-manuscript-management-with-claude-code",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-human-in-the-loop-where-humans-actually-intervene",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-mental-model",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-two-patterns-for-consistency",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-persona-chaining",
+    "jonmartin721-living-story-world-provider-swapping",
+    "blog-why-i-built-rag-memory-system-why-this-system-exists",
+    "aihxp-scriven-the-voice-dna-system",
+    "scene-audit-the-mistakes-that-kill-reader-trust"
+  ],
+  "version-control": [
+    "lordjabez-story-framework-folder-structure",
+    "lordjabez-story-framework-inline-markup",
+    "lordjabez-story-framework-working-with-ai-assistants",
+    "lordjabez-story-framework-writing-good-commit-messages",
+    "blog-2026-02-23-ai-writing-continuity-how-it-works",
+    "abs-2504.11900-submission-history",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-2-files-changed"
+  ],
+  "syntax": [
+    "lordjabez-story-framework-inline-markup",
+    "fictzio-rpg-markdown-some-uses-for-rpg-markdown"
+  ],
+  "ai-optimization": [
+    "lordjabez-story-framework-inline-markup"
+  ],
+  "collaboration-modes": [
+    "lordjabez-story-framework-creative-collaboration-approaches"
+  ],
+  "prompt-engineering": [
+    "lordjabez-story-framework-creative-collaboration-approaches",
+    "a-stepwise-ai-assisted-long-form-fiction-method-section-links",
+    "a-stepwise-ai-assisted-long-form-fiction-method-how-to-make-a-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-basic-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-make-an-industrial-strength-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-character-profiles",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-conclusion-from-prompt-engineering-to-story-engineering",
+    "html-2603.05890v1-2-1-dataset-construction",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-1-analysis",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-4-execute",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-2-the-narrative-scratchpad-the-sliding-window",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-persona-chaining",
+    "abs-2510.04400-4-1-llm-based-story-completion",
+    "posts-lab-0-current-progress",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-4-populating-your-world-cultures-and-factions",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-5-breathing-life-into-the-details-magic-flora-and-fauna",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-foundation-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-core-system-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-cultural-foundation-prompt"
+  ],
+  "workflow-configuration": [
+    "lordjabez-story-framework-creative-collaboration-approaches"
+  ],
+  "creative-process": [
+    "lordjabez-story-framework-creative-collaboration-approaches"
+  ],
+  "ai-collaboration": [
+    "lordjabez-story-framework-working-with-ai-assistants",
+    "blog-ai-story-bible-separate-stable-lore-from-world-state-memory",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-step-3-the-conflict-failure-identifying-loopholes-and-weaknesses"
+  ],
+  "writing-workflow": [
+    "lordjabez-story-framework-working-with-ai-assistants"
+  ],
+  "creative-writing": [
+    "third-order-labs-longform-plugin-how-it-works",
+    "third-order-labs-longform-plugin-skills",
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu",
+    "a-stepwise-ai-assisted-long-form-fiction-method-writing-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-how-to-make-a-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-basic-style-guide",
+    "blog-2026-02-23-claude-long-form-writing-purpose",
+    "blog-2026-02-23-claude-long-form-writing-the-per-chapter-workflow",
+    "blog-2026-02-23-claude-long-form-writing-the-reason-why-this-works",
+    "howells-fiction-what-this-is",
+    "howells-fiction-commands",
+    "howells-fiction-agents",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-text-generation-powerhouses-llms",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-visual-dream-engines-image-generators",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-5-breathing-life-into-the-details-magic-flora-and-fauna",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-why-great-worlds-collapse",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-step-3-the-conflict-failure-identifying-loopholes-and-weaknesses",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-core-system-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-technology-integration-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-governance-deep-dive",
+    "projects-sibyl-summary",
+    "zaphodsdad-GhostWriter3000-about-this-project",
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline",
+    "pdf-2512.19012-content",
+    "avigold-postwriter-what-it-does"
+  ],
+  "project-lifecycle": [
+    "third-order-labs-longform-plugin-how-it-works"
+  ],
+  "documentation-standards": [
+    "third-order-labs-longform-plugin-skills"
+  ],
+  "project-scaffolding": [
+    "third-order-labs-longform-plugin-project-structure-scaffolded-by-start-project"
+  ],
+  "documentation-navigation": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-section-links"
+  ],
+  "process-workflow": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-section-links"
+  ],
+  "human-ai-collaboration": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu"
+  ],
+  "instructional-guide": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu"
+  ],
+  "content-strategy": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu",
+    "a-stepwise-ai-assisted-long-form-fiction-method-how-to-make-a-style-guide",
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-basic-style-guide",
+    "blog-2026-02-23-claude-long-form-writing-the-solution-system",
+    "howells-fiction-craft-references",
+    "blog-ai-story-bible-start-with-the-pieces-that-actually-change-decisions",
+    "aihxp-scriven-work-types-supported"
+  ],
+  "project-setup": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu",
+    "zaphodsdad-GhostWriter3000-project-structure"
+  ],
+  "ai-best-practices": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu"
+  ],
+  "navigation": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-navigation-menu"
+  ],
+  "knowledge-base": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-how-to-make-a-style-guide",
+    "projects-sibyl-summary"
+  ],
+  "Prompt Engineering": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-more-robust-style-guide",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-structural-context",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-1-the-global-reference-the-bible",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-chain-of-thought-enforcement",
+    "posts-lab-0-technical-challenges",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-1-the-spark-of-creation-high-level-conceptualization"
+  ],
+  "Creative Writing": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-more-robust-style-guide",
+    "zaphodsdad-GhostWriter3000-series-memory",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-md"
+  ],
+  "Style-Management": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-more-robust-style-guide"
+  ],
+  "AI-Training": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-prompt-to-make-a-more-robust-style-guide"
+  ],
+  "character-development": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-character-profiles",
+    "joeloverbeck-living-narrative-engine-memory-components",
+    "joeloverbeck-living-narrative-engine-core-motivations-generator"
+  ],
+  "Project Setup": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-story-concept-outline"
+  ],
+  "Content Strategy": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-story-concept-outline",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-1-the-global-reference-the-bible"
+  ],
+  "Narrative Design": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-story-concept-outline",
+    "keilladraconis-NAI-story-engine-crucible-command-driven-world-generator"
+  ],
+  "world-building": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-codex-entries-world-themes-and-research",
+    "blog-ai-story-bible-start-with-the-pieces-that-actually-change-decisions",
+    "blog-ai-story-bible-separate-stable-lore-from-world-state-memory",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-3-weaving-the-tapestry-history-lore-and-mythology",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-why-great-worlds-collapse",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-step-3-the-conflict-failure-identifying-loopholes-and-weaknesses",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-foundation-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-depth-layer-micro-histories",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-consistency-check",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-technology-integration-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-religious-system-builder",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-governance-deep-dive"
+  ],
+  "content-organization": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-codex-entries-world-themes-and-research"
+  ],
+  "story-consistency": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-codex-entries-world-themes-and-research"
+  ],
+  "research-management": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-codex-entries-world-themes-and-research"
+  ],
+  "pre-production": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-scene-briefs-spatial-maps",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-1-analysis"
+  ],
+  "spatial-logic": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-scene-briefs-spatial-maps"
+  ],
+  "creative-workflow": [
+    "a-stepwise-ai-assisted-long-form-fiction-method-scene-briefs-spatial-maps",
+    "blog-2026-02-23-claude-long-form-writing-the-solution-system"
+  ],
+  "api-reference": [
+    "makieali-longform-ai-table-of-contents",
+    "makieali-longform-ai-3-generate-a-book",
+    "makieali-longform-ai-provider-setup-examples",
+    "makieali-longform-ai-architecture",
+    "jonmartin721-living-story-world-provider-swapping",
+    "jonmartin721-living-story-world-narrative-presets",
+    "jonmartin721-living-story-world-cli-reference",
+    "joeloverbeck-living-narrative-engine-memory-components",
+    "joeloverbeck-living-narrative-engine-core-motivations-generator",
+    "joeloverbeck-living-narrative-engine-text-format-options",
+    "zaphodsdad-GhostWriter3000-mcp-integration",
+    "elizaOS-characterfile-blob-main-README.md-content",
+    "Narcooo-inkos-blob-master-skills-SKILL.md-content",
+    "ngpepin-stylometric-transfer-blob-main-AGENTS.md-content",
+    "kabirahuja2431-FlawedFictions-command-line-arguments",
+    "ngpepin-stylometric-transfer-blob-06909f7cac4e1bfad4567d6b86bfeaf48078c6f0-Research-Paper.md-content",
+    "ngpepin-stylometric-transfer-blob-main-README.md-content",
+    "ngpepin-stylometric-transfer-blob-cd3ea7dceefc70e51d44f69d8fe98c817d5cf7c6-apply_fingerprint.py-content",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md"
+  ],
+  "getting-started": [
+    "makieali-longform-ai-3-generate-a-book",
+    "jonmartin721-living-story-world-quick-start",
+    "joeloverbeck-living-narrative-engine-running-locally",
+    "LudoNarrative-StoryAssembler-how-to-run-mac",
+    "zaphodsdad-GhostWriter3000-about-this-project",
+    "aihxp-scriven-quick-start"
+  ],
+  "authentication": [
+    "makieali-longform-ai-environment-variables",
+    "andrew36999-AIDungeon_Exporter-this-is-not-malware-why-chrome-login-is-required"
+  ],
+  "environment-variables": [
+    "makieali-longform-ai-environment-variables",
+    "zaphodsdad-GhostWriter3000-configuration"
+  ],
+  "setup-guide": [
+    "makieali-longform-ai-provider-setup-examples",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey"
+  ],
+  "multi-provider": [
+    "makieali-longform-ai-provider-setup-examples",
+    "jonmartin721-living-story-world-why-i-built-this"
+  ],
+  "workflow-design": [
+    "makieali-longform-ai-architecture",
+    "blog-2026-02-23-claude-long-form-writing-the-reason-why-this-works",
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-outline-engine-4-layers-of-decomposition",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-persona-chaining"
+  ],
+  "claude-ai": [
+    "blog-2026-02-23-claude-long-form-writing-purpose"
+  ],
+  "llm-implementation": [
+    "blog-2026-02-23-claude-long-form-writing-the-solution-system"
+  ],
+  "content-structure": [
+    "blog-2026-02-23-claude-long-form-writing-the-story-bible",
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "creative-framework": [
+    "blog-2026-02-23-claude-long-form-writing-the-story-bible",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-cultural-foundation-prompt"
+  ],
+  "style-guidelines": [
+    "blog-2026-02-23-claude-long-form-writing-the-story-bible"
+  ],
+  "model-selection": [
+    "blog-2026-02-23-claude-long-form-writing-the-per-chapter-workflow"
+  ],
+  "workflows": [
+    "blog-2026-02-23-claude-long-form-writing-manuscript-management-with-claude-code"
+  ],
+  "claude-code": [
+    "blog-2026-02-23-claude-long-form-writing-the-reason-why-this-works"
+  ],
+  "resources": [
+    "blog-2026-02-23-claude-long-form-writing-final-words-more-resources"
+  ],
+  "community": [
+    "blog-2026-02-23-claude-long-form-writing-final-words-more-resources"
+  ],
+  "contact": [
+    "blog-2026-02-23-claude-long-form-writing-final-words-more-resources"
+  ],
+  "user-interface": [
+    "keilladraconis-NAI-story-engine-key-features",
+    "jonmartin721-living-story-world-quick-start",
+    "en-architecture-cookie-settings",
+    "blog-why-i-built-rag-memory-system-how-the-summarization-system-works"
+  ],
+  "ai-interaction": [
+    "keilladraconis-NAI-story-engine-key-features",
+    "zaphodsdad-GhostWriter3000-the-core-loop"
+  ],
+  "knowledge-management": [
+    "keilladraconis-NAI-story-engine-key-features"
+  ],
+  "World Generation": [
+    "keilladraconis-NAI-story-engine-crucible-command-driven-world-generator"
+  ],
+  "AI Scripting": [
+    "keilladraconis-NAI-story-engine-crucible-command-driven-world-generator"
+  ],
+  "Procedural Content": [
+    "keilladraconis-NAI-story-engine-crucible-command-driven-world-generator"
+  ],
+  "synchronization": [
+    "keilladraconis-NAI-story-engine-s-e-g-a-story-engine-generate-all"
+  ],
+  "plugin-installation": [
+    "howells-fiction-what-this-is"
+  ],
+  "plugin-commands": [
+    "howells-fiction-commands"
+  ],
+  "manuscript-management": [
+    "howells-fiction-commands",
+    "en-blog-ai-long-term-memory-novel-writing.html-what-long-term-memory-enables"
+  ],
+  "ai-editing": [
+    "howells-fiction-commands"
+  ],
+  "documentation-reference": [
+    "howells-fiction-craft-references"
+  ],
+  "writing-standards": [
+    "howells-fiction-craft-references"
+  ],
+  "editorial-guidelines": [
+    "howells-fiction-craft-references"
+  ],
+  "agents": [
+    "howells-fiction-agents"
+  ],
+  "manuscript-review": [
+    "howells-fiction-agents"
+  ],
+  "performance-optimization": [
+    "howells-fiction-large-manuscript-efficiency",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-2-the-narrative-scratchpad-the-sliding-window"
+  ],
+  "large-document-processing": [
+    "howells-fiction-large-manuscript-efficiency"
+  ],
+  "agent-architecture": [
+    "howells-fiction-large-manuscript-efficiency",
+    "html-2601.03785v1-1-introduction",
+    "html-2601.03785v1-3-1-membox-construction-the-topic-loom"
+  ],
+  "documentation-principles": [
+    "blog-ai-story-bible-start-with-the-pieces-that-actually-change-decisions"
+  ],
+  "data-modeling": [
+    "blog-ai-story-bible-separate-stable-lore-from-world-state-memory",
+    "projects-sibyl-solution-results"
+  ],
+  "llm-architecture": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-team-pratilipi",
+    "nesquikm-mythwobble-blob-master-docs-MEMORY_SYSTEM.md-content",
+    "html-2312.17296v2-2method",
+    "html-2601.03785v1-2-1-memory-for-llm-agents",
+    "ngpepin-stylometric-transfer-blob-3b722bacded69e93a78549e26866698a6cb5770f-AGENTS.md-content"
+  ],
+  "system-design": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-team-pratilipi",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-core-system-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-economic-cascade",
+    "zaphodsdad-GhostWriter3000-design-decisions"
+  ],
+  "design-patterns": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-engineering-challenge-a-lesson-in-humility",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-two-patterns-for-consistency"
+  ],
+  "documentation-strategy": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-source-of-truth-artifacts"
+  ],
+  "content-integrity": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-source-of-truth-artifacts",
+    "blog-2026-02-23-ai-writing-continuity-the-problem",
+    "projects-sibyl-overview-challenges"
+  ],
+  "ai-alignment": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-source-of-truth-artifacts"
+  ],
+  "narrative-architecture": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-outline-engine-4-layers-of-decomposition",
+    "en-architecture-support-help"
+  ],
+  "agentic-patterns": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-two-agent-iteration-pattern-used-everywhere"
+  ],
+  "memory-management": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-two-agent-iteration-pattern-used-everywhere",
+    "nesquikm-mythwobble-blob-master-docs-MEMORY_SYSTEM.md-content",
+    "html-2601.03785v1-3-1-membox-construction-the-topic-loom",
+    "joeloverbeck-living-narrative-engine-memory-components"
+  ],
+  "system-architecture": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-two-agent-iteration-pattern-used-everywhere",
+    "blog-2026-02-23-ai-writing-continuity-the-solution",
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture",
+    "avigold-postwriter-what-it-does"
+  ],
+  "Architecture": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-4-tier-memory-architecture",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-structural-context",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-chain-of-thought-enforcement",
+    "jonmartin721-living-story-world-memory-system-novelai-inspired",
+    "joeloverbeck-living-narrative-engine-about-the-project"
+  ],
+  "State Management": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-4-tier-memory-architecture",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-md"
+  ],
+  "Content Generation": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-4-tier-memory-architecture",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-genre-bending-screenplay-engine"
+  ],
+  "Memory Systems": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-4-tier-memory-architecture"
+  ],
+  "human-in-the-loop": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-human-in-the-loop-where-humans-actually-intervene",
+    "2021.nuse-1.9.pdf-content"
+  ],
+  "generative-ai": [
+    "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-conclusion-from-prompt-engineering-to-story-engineering",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-global-context",
+    "jonmartin721-living-story-world-why-i-built-this",
+    "pdf-2503.23512-content"
+  ],
+  "AI-writing": [
+    "blog-2026-02-23-ai-writing-continuity-purpose",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-4-execute",
+    "en-how-it-works-cookie-settings"
+  ],
+  "ai-writing": [
+    "blog-2026-02-23-ai-writing-continuity-the-problem",
+    "blog-2026-02-23-ai-writing-continuity-how-it-works",
+    "en-architecture-support-help"
+  ],
+  "troubleshooting": [
+    "blog-2026-02-23-ai-writing-continuity-the-problem",
+    "en-how-it-works-frequently-asked-questions"
+  ],
+  "content-validation": [
+    "blog-2026-02-23-ai-writing-continuity-the-solution",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-consistency-check",
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one"
+  ],
+  "data-consistency": [
+    "blog-2026-02-23-ai-writing-continuity-the-solution",
+    "blog-why-i-built-rag-memory-system-editing-summarized-content"
+  ],
+  "data-validation": [
+    "blog-2026-02-23-ai-writing-continuity-implementation",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-strict-schemas",
+    "arozcan-llm-emotion-audit-plea-pseudo-label-aware-emotion-classification"
+  ],
+  "cli": [
+    "blog-2026-02-23-ai-writing-continuity-implementation",
+    "posts-lab-0-implementation-details",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md"
+  ],
+  "AI writing": [
+    "blog-2026-02-23-ai-writing-continuity-related-posts"
+  ],
+  "continuity": [
+    "blog-2026-02-23-ai-writing-continuity-related-posts",
+    "scene-audit-works-across-entire-series"
+  ],
+  "evaluation": [
+    "html-2603.05890v1-1-introduction",
+    "forum-kabir-ahuja-melanie-sclar-yulia-tsvetkov"
+  ],
+  "natural-language-processing": [
+    "html-2603.05890v1-1-introduction",
+    "html-2603.05890v1-2-3-automated-error-detection-pipeline",
+    "html-2603.05890v1-3-2-results-and-analysis",
+    "abs-2510.04400-2-isotopy-and-computational-semantics",
+    "abs-2510.04400-2-1-other-related-work",
+    "abs-2510.04400-3-assessing-gpt-4o-s-ability-to-extract-isotopies",
+    "abs-2510.04400-4-system-overview",
+    "html-2312.17296v2-3experiments-with-medium-scale-models",
+    "html-2601.03785v1-3-1-membox-construction-the-topic-loom",
+    "html-2601.03785v1-3-2-membox-linking-the-trace-weaver",
+    "kevalnagda-StoryGeneration-abstract",
+    "kevalnagda-StoryGeneration-sample-output",
+    "pdf-2412.13575-content",
+    "posts-lab-0-current-progress",
+    "pdf-2503.23512-content",
+    "pdf-2601.06445-content",
+    "ngpepin-stylometric-transfer-blob-06909f7cac4e1bfad4567d6b86bfeaf48078c6f0-Research-Paper.md-content",
+    "ngpepin-stylometric-transfer-blob-main-README.md-content",
+    "ngpepin-stylometric-transfer-blob-cd3ea7dceefc70e51d44f69d8fe98c817d5cf7c6-apply_fingerprint.py-content",
+    "ngpepin-stylometric-transfer-blob-3b722bacded69e93a78549e26866698a6cb5770f-AGENTS.md-content",
+    "html-2604.22142v1-3-1-dataset-empathicstories",
+    "html-2403.08043v2-1-introduction",
+    "html-2403.08043v2-2-1-task-definition",
+    "html-2403.08043v2-2-3-supervised-fine-tuning",
+    "2021.eacl-main.73.pdf-content",
+    "auth-personal-springernature-abstract",
+    "auth-personal-springernature-methodology",
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-release-notes-v1-7-md",
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge",
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+    "html-2412.02897v1-2-related-works",
+    "html-2412.02897v1-3-problem-definition",
+    "html-2412.02897v1-4-3-narrative-logic-checker-by-characters-emotion-and-action",
+    "avigold-postwriter-what-it-does",
+    "arozcan-llm-emotion-audit-made-monologue-based-artificial-discourse-for-emotion-analysis"
+  ],
+  "benchmarking": [
+    "html-2603.05890v1-1-introduction",
+    "html-2603.05890v1-2-constory-bench",
+    "html-2603.05890v1-2-2-consistency-error-taxonomy",
+    "html-2603.05890v1-3-1-experimental-setup",
+    "html-2603.05890v1-3-2-results-and-analysis",
+    "abs-2510.04400-3-assessing-gpt-4o-s-ability-to-extract-isotopies",
+    "abs-2510.04400-4-1-llm-based-story-completion",
+    "html-2504.11900v2-1-introduction",
+    "pdf-2512.19012-content",
+    "kabirahuja2431-FlawedFictions-command-line-arguments",
+    "pdf-2603.05890v1-content"
+  ],
+  "narrative-generation": [
+    "html-2603.05890v1-1-introduction",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-local-context",
+    "abs-2510.04400-1-introduction",
+    "posts-lab-0-project-overview",
+    "html-2412.02897v1-2-related-works"
+  ],
+  "natural-language-generation": [
+    "html-2603.05890v1-2-constory-bench",
+    "html-2603.05890v1-2-1-dataset-construction",
+    "abs-2510.04400-4-1-llm-based-story-completion",
+    "2025.naacl-long.63-generating-long-form-story-using-dynamic-hierarchical-outlining-with-memory-enhancement",
+    "index.php-AAAI-article-download-41492-45453-content",
+    "html-2504.11900v2-3-automatically-generating-plot-holes-in-stories",
+    "pdf-2512.19012-content",
+    "forum-kabir-ahuja-melanie-sclar-yulia-tsvetkov",
+    "2025.findings-acl.1114.pdf-content",
+    "pdf-1909.09962v1-content",
+    "html-2412.02897v1-4-4-action-emotion-prediction-and-sentence-generation"
+  ],
+  "automated-evaluation": [
+    "html-2603.05890v1-2-constory-bench",
+    "html-2603.05890v1-2-3-automated-error-detection-pipeline"
+  ],
+  "dataset-design": [
+    "html-2603.05890v1-2-1-dataset-construction"
+  ],
+  "machine-learning-benchmarks": [
+    "html-2603.05890v1-2-1-dataset-construction"
+  ],
+  "error-taxonomy": [
+    "html-2603.05890v1-2-2-consistency-error-taxonomy"
+  ],
+  "pipeline-architecture": [
+    "html-2603.05890v1-2-3-automated-error-detection-pipeline",
+    "abs-2510.04400-4-system-overview"
+  ],
+  "error-detection": [
+    "html-2603.05890v1-2-3-automated-error-detection-pipeline"
+  ],
+  "experimental-design": [
+    "html-2603.05890v1-3-1-experimental-setup"
+  ],
+  "model-evaluation": [
+    "html-2603.05890v1-3-1-experimental-setup",
+    "html-2603.05890v1-3-2-results-and-analysis",
+    "abs-2510.04400-3-assessing-gpt-4o-s-ability-to-extract-isotopies"
+  ],
+  "metrics": [
+    "html-2603.05890v1-3-2-results-and-analysis"
+  ],
+  "conceptual-overview": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-mental-model",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-demystifying-ai-for-worldbuilding-your-new-creative-co-pilot"
+  ],
+  "llm-integration": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-mental-model",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-two-patterns-for-consistency",
+    "ngpepin-stylometric-transfer-blob-cd3ea7dceefc70e51d44f69d8fe98c817d5cf7c6-apply_fingerprint.py-content"
+  ],
+  "data-integrity": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-1-global-context",
+    "html-2604.22142v1-2-1-textual-mediation-and-corpus-integrity",
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge"
+  ],
+  "Design Patterns": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-structural-context"
+  ],
+  "context-management": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-local-context",
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-two-patterns-for-consistency",
+    "projects-sibyl-summary",
+    "blog-why-i-built-rag-memory-system-what-is-rag",
+    "blog-why-i-built-rag-memory-system-the-rag-depth-setting-semantic-search",
+    "blog-why-i-built-rag-memory-system-why-this-system-exists"
+  ],
+  "optimization": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-local-context"
+  ],
+  "AI Architecture": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-genre-bending-screenplay-engine"
+  ],
+  "Data Transformation": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-genre-bending-screenplay-engine"
+  ],
+  "LLM Orchestration": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-the-genre-bending-screenplay-engine"
+  ],
+  "data-structuring": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-1-analysis",
+    "html-2312.17296v2-1introduction"
+  ],
+  "content-transformation": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-2-the-bible"
+  ],
+  "workflow-phases": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-2-the-bible"
+  ],
+  "automation-rules": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-2-the-bible"
+  ],
+  "Data Consistency": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-1-the-global-reference-the-bible"
+  ],
+  "Creative Automation": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-1-the-global-reference-the-bible"
+  ],
+  "Reasoning": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-chain-of-thought-enforcement",
+    "forum-finding-flawed-fictions-evaluating-complex-reasoning-in-language-models-via-plot-hole-detection"
+  ],
+  "Output Formatting": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-chain-of-thought-enforcement"
+  ],
+  "api-design": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-strict-schemas",
+    "zaphodsdad-GhostWriter3000-architecture"
+  ],
+  "error-handling": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-strict-schemas",
+    "joeloverbeck-living-narrative-engine-core-motivations-generator",
+    "joeloverbeck-living-narrative-engine-game-configuration-game-json"
+  ],
+  "schema-enforcement": [
+    "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-strict-schemas"
+  ],
+  "game-design": [
+    "nesquikm-mythwobble-blob-master-docs-MEMORY_SYSTEM.md-content"
+  ],
+  "context-optimization": [
+    "nesquikm-mythwobble-blob-master-docs-MEMORY_SYSTEM.md-content"
+  ],
+  "linguistics": [
+    "abs-2510.04400-1-introduction",
+    "abs-2510.04400-2-isotopy-and-computational-semantics",
+    "abs-2510.04400-2-1-other-related-work",
+    "html-2604.22142v1-1-introduction",
+    "html-2604.22142v1-3-1-dataset-empathicstories"
+  ],
+  "LLM-semantics": [
+    "abs-2510.04400-1-introduction"
+  ],
+  "distributional-semantics": [
+    "abs-2510.04400-1-introduction"
+  ],
+  "research-methodology": [
+    "abs-2510.04400-1-introduction"
+  ],
+  "computational-semantics": [
+    "abs-2510.04400-2-isotopy-and-computational-semantics"
+  ],
+  "theoretical-framework": [
+    "abs-2510.04400-2-isotopy-and-computational-semantics",
+    "posts-lab-0-architectural-foundations"
+  ],
+  "semantics": [
+    "abs-2510.04400-2-1-other-related-work"
+  ],
+  "llm-evaluation": [
+    "abs-2510.04400-2-1-other-related-work",
+    "html-2504.11900v2-1-introduction",
+    "html-2604.22142v1-1-introduction"
+  ],
+  "semantic-analysis": [
+    "abs-2510.04400-3-assessing-gpt-4o-s-ability-to-extract-isotopies"
+  ],
+  "llm-inference": [
+    "abs-2510.04400-4-system-overview"
+  ],
+  "api-integration": [
+    "abs-2510.04400-4-system-overview",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey"
+  ],
+  "statistical-analysis": [
+    "abs-2510.04400-4-1-llm-based-story-completion"
+  ],
+  "training-methodology": [
+    "html-2312.17296v2-1introduction"
+  ],
+  "long-context": [
+    "html-2312.17296v2-1introduction",
+    "html-2312.17296v2-3-1experimental-setup"
+  ],
+  "retrieval-augmented-training": [
+    "html-2312.17296v2-1introduction"
+  ],
+  "machine-learning": [
+    "html-2312.17296v2-2method",
+    "kevalnagda-StoryGeneration-abstract",
+    "kevalnagda-StoryGeneration-sample-output",
+    "html-2403.08043v2-1-introduction",
+    "html-2403.08043v2-2-2-framework-overview",
+    "html-2403.08043v2-2-3-supervised-fine-tuning",
+    "2021.eacl-main.73.pdf-content",
+    "auth-personal-springernature-methodology",
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey",
+    "html-2412.02897v1-4-2-emotion-classification",
+    "html-2412.02897v1-4-3-narrative-logic-checker-by-characters-emotion-and-action",
+    "arozcan-llm-emotion-audit-repository-structure",
+    "arozcan-llm-emotion-audit-plea-pseudo-label-aware-emotion-classification"
+  ],
+  "data-preprocessing": [
+    "html-2312.17296v2-2method"
+  ],
+  "long-context-training": [
+    "html-2312.17296v2-2method"
+  ],
+  "retrieval-methods": [
+    "html-2312.17296v2-2method"
+  ],
+  "research-evaluation": [
+    "html-2312.17296v2-3experiments-with-medium-scale-models"
+  ],
+  "model-training": [
+    "html-2312.17296v2-3experiments-with-medium-scale-models",
+    "html-2312.17296v2-3-1experimental-setup",
+    "kevalnagda-StoryGeneration-abstract",
+    "html-2403.08043v2-1-introduction"
+  ],
+  "performance-benchmarking": [
+    "html-2312.17296v2-3experiments-with-medium-scale-models"
+  ],
+  "neural-architectures": [
+    "html-2312.17296v2-3-1experimental-setup"
+  ],
+  "experimental-setup": [
+    "html-2312.17296v2-3-1experimental-setup"
+  ],
+  "reinforcement-learning": [
+    "index.php-AAAI-article-view-40582-44543-content"
+  ],
+  "synthetic-data": [
+    "index.php-AAAI-article-view-40582-44543-content",
+    "html-2504.11900v2-1-introduction",
+    "forum-kabir-ahuja-melanie-sclar-yulia-tsvetkov",
+    "arozcan-llm-emotion-audit-made-monologue-based-artificial-discourse-for-emotion-analysis"
+  ],
+  "faithfulness": [
+    "index.php-AAAI-article-view-40582-44543-content"
+  ],
+  "hallucination-mitigation": [
+    "index.php-AAAI-article-view-40582-44543-content"
+  ],
+  "post-training": [
+    "index.php-AAAI-article-view-40582-44543-content"
+  ],
+  "memory-systems": [
+    "html-2601.03785v1-1-introduction",
+    "html-2601.03785v1-3-2-membox-linking-the-trace-weaver"
+  ],
+  "information-retrieval": [
+    "html-2601.03785v1-1-introduction",
+    "html-2601.03785v1-2-1-memory-for-llm-agents"
+  ],
+  "discourse-theory": [
+    "html-2601.03785v1-1-introduction"
+  ],
+  "llm-optimization": [
+    "html-2601.03785v1-1-introduction"
+  ],
+  "agentic-memory": [
+    "html-2601.03785v1-2-1-memory-for-llm-agents"
+  ],
+  "Information Retrieval": [
+    "html-2601.03785v1-2-2-external-knowledge-integration-for-llms"
+  ],
+  "LLM Architecture": [
+    "html-2601.03785v1-2-2-external-knowledge-integration-for-llms",
+    "posts-lab-0-technical-challenges",
+    "html-2412.02897v1-1-introduction"
+  ],
+  "Knowledge Management": [
+    "html-2601.03785v1-2-2-external-knowledge-integration-for-llms",
+    "zaphodsdad-GhostWriter3000-series-memory"
+  ],
+  "RAG": [
+    "html-2601.03785v1-2-2-external-knowledge-integration-for-llms",
+    "blog-why-i-built-rag-memory-system-why-bigger-context-windows-don-t-solve-everything",
+    "blog-why-i-built-rag-memory-system-the-rag-depth-setting-semantic-search",
+    "blog-why-i-built-rag-memory-system-author-notes-rag-for-your-story-bible",
+    "blog-why-i-built-rag-memory-system-why-i-m-starting-to-test-this-now",
+    "blog-why-i-built-rag-memory-system-why-this-system-exists"
+  ],
+  "context-windowing": [
+    "html-2601.03785v1-3-1-membox-construction-the-topic-loom"
+  ],
+  "agentic-ai": [
+    "html-2601.03785v1-3-2-membox-linking-the-trace-weaver"
+  ],
+  "data-persistence": [
+    "html-2601.03785v1-3-2-membox-linking-the-trace-weaver",
+    "jonmartin721-living-story-world-state-management-entity-graph"
+  ],
+  "features": [
+    "jonmartin721-living-story-world-features"
+  ],
+  "infrastructure": [
+    "jonmartin721-living-story-world-features",
+    "posts-lab-0-implementation-details"
+  ],
+  "ux-design": [
+    "jonmartin721-living-story-world-features"
+  ],
+  "ai-integration": [
+    "jonmartin721-living-story-world-features",
+    "zaphodsdad-GhostWriter3000-design-decisions"
+  ],
+  "integration": [
+    "jonmartin721-living-story-world-provider-swapping",
+    "zaphodsdad-GhostWriter3000-mcp-integration",
+    "fictzio-rpg-markdown-the-parser",
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md"
+  ],
+  "entity-graph": [
+    "jonmartin721-living-story-world-state-management-entity-graph"
+  ],
+  "file-structure": [
+    "jonmartin721-living-story-world-state-management-entity-graph"
+  ],
+  "real-time": [
+    "jonmartin721-living-story-world-real-time-progress-streaming"
+  ],
+  "frontend-api": [
+    "jonmartin721-living-story-world-real-time-progress-streaming"
+  ],
+  "performance": [
+    "jonmartin721-living-story-world-real-time-progress-streaming",
+    "joeloverbeck-living-narrative-engine-text-format-options",
+    "blog-why-i-built-rag-memory-system-the-context-window-problem"
+  ],
+  "streaming": [
+    "jonmartin721-living-story-world-real-time-progress-streaming"
+  ],
+  "Context Management": [
+    "jonmartin721-living-story-world-memory-system-novelai-inspired",
+    "posts-lab-0-technical-challenges"
+  ],
+  "API Reference": [
+    "jonmartin721-living-story-world-memory-system-novelai-inspired"
+  ],
+  "UI/UX": [
+    "jonmartin721-living-story-world-memory-system-novelai-inspired"
+  ],
+  "visual-styles": [
+    "jonmartin721-living-story-world-visual-styles"
+  ],
+  "image-generation": [
+    "jonmartin721-living-story-world-visual-styles",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-visual-dream-engines-image-generators"
+  ],
+  "ui-design": [
+    "jonmartin721-living-story-world-visual-styles"
+  ],
+  "CLI": [
+    "jonmartin721-living-story-world-cli-reference",
+    "z2x-code-inkos-blob-master-README.en.md-content"
+  ],
+  "deployment": [
+    "jonmartin721-living-story-world-cli-reference",
+    "joeloverbeck-living-narrative-engine-installation-setup",
+    "joeloverbeck-living-narrative-engine-running-locally",
+    "LudoNarrative-StoryAssembler-how-to-run-mac",
+    "posts-lab-0-implementation-details",
+    "zaphodsdad-GhostWriter3000-about-this-project",
+    "zaphodsdad-GhostWriter3000-mcp-integration",
+    "zaphodsdad-GhostWriter3000-project-structure",
+    "zaphodsdad-GhostWriter3000-configuration",
+    "aihxp-scriven-installer-targets",
+    "agoramachina-claude-exporter-blob-main-CLAUDE.md-content"
+  ],
+  "security": [
+    "jonmartin721-living-story-world-cli-reference"
+  ],
+  "knowledge-graphs": [
+    "2025.naacl-long.63-generating-long-form-story-using-dynamic-hierarchical-outlining-with-memory-enhancement",
+    "pdf-2412.13575-content"
+  ],
+  "large-language-models": [
+    "2025.naacl-long.63-generating-long-form-story-using-dynamic-hierarchical-outlining-with-memory-enhancement",
+    "2025.findings-acl.1114.pdf-content",
+    "auth-personal-springernature-introduction",
+    "html-2412.02897v1-2-related-works",
+    "pdf-2603.05890v1-content"
+  ],
+  "storytelling-ai": [
+    "2025.naacl-long.63-generating-long-form-story-using-dynamic-hierarchical-outlining-with-memory-enhancement",
+    "pdf-2412.13575-content"
+  ],
+  "Core Concept": [
+    "joeloverbeck-living-narrative-engine-about-the-project"
+  ],
+  "Game Engine": [
+    "joeloverbeck-living-narrative-engine-about-the-project"
+  ],
+  "Modding": [
+    "joeloverbeck-living-narrative-engine-about-the-project"
+  ],
+  "AI Integration": [
+    "joeloverbeck-living-narrative-engine-about-the-project"
+  ],
+  "modding": [
+    "joeloverbeck-living-narrative-engine-game-configuration-game-json"
+  ],
+  "initialization": [
+    "joeloverbeck-living-narrative-engine-game-configuration-game-json"
+  ],
+  "performance-monitoring": [
+    "joeloverbeck-living-narrative-engine-game-configuration-game-json",
+    "joeloverbeck-living-narrative-engine-configuration"
+  ],
+  "logging": [
+    "joeloverbeck-living-narrative-engine-configuration",
+    "joeloverbeck-living-narrative-engine-text-format-options"
+  ],
+  "debugging": [
+    "joeloverbeck-living-narrative-engine-configuration"
+  ],
+  "text-generation": [
+    "kevalnagda-StoryGeneration-abstract",
+    "kevalnagda-StoryGeneration-sample-output",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-text-generation-powerhouses-llms",
+    "ngpepin-stylometric-transfer-blob-3b722bacded69e93a78549e26866698a6cb5770f-AGENTS.md-content",
+    "2021.eacl-main.73.pdf-content"
+  ],
+  "documentation-examples": [
+    "kevalnagda-StoryGeneration-sample-output"
+  ],
+  "dynamic-content": [
+    "LudoNarrative-StoryAssembler-why-would-i-want-to-write-with-this-thing"
+  ],
+  "character-systems": [
+    "LudoNarrative-StoryAssembler-why-would-i-want-to-write-with-this-thing"
+  ],
+  "evaluation-metrics": [
+    "pdf-2412.13575-content",
+    "2021.nuse-1.9.pdf-content"
+  ],
+  "llm-framework": [
+    "posts-lab-0-project-overview"
+  ],
+  "transformers": [
+    "posts-lab-0-implementation-details"
+  ],
+  "data-analysis": [
+    "posts-lab-0-current-progress",
+    "auth-personal-springernature-methodology"
+  ],
+  "Sequential Processing": [
+    "posts-lab-0-technical-challenges"
+  ],
+  "artificial-intelligence": [
+    "index.php-AAAI-article-download-41492-45453-content",
+    "en-blog-ai-long-term-memory-novel-writing.html-what-long-term-memory-enables",
+    "projects-sibyl-summary",
+    "projects-sibyl-solution-results",
+    "auth-personal-springernature-abstract",
+    "html-2412.02897v1-2-related-works"
+  ],
+  "machine-learning-architecture": [
+    "index.php-AAAI-article-download-41492-45453-content"
+  ],
+  "creative-writing-automation": [
+    "index.php-AAAI-article-download-41492-45453-content"
+  ],
+  "creative-ai": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-demystifying-ai-for-worldbuilding-your-new-creative-co-pilot"
+  ],
+  "worldbuilding": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-demystifying-ai-for-worldbuilding-your-new-creative-co-pilot",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-specialized-worldbuilding-platforms",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-4-populating-your-world-cultures-and-factions",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-5-breathing-life-into-the-details-magic-flora-and-fauna",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-core-system-prompt",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-economic-cascade",
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-cultural-foundation-prompt"
+  ],
+  "generative-models": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-demystifying-ai-for-worldbuilding-your-new-creative-co-pilot"
+  ],
+  "ai-models": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-text-generation-powerhouses-llms"
+  ],
+  "content-creation": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-text-generation-powerhouses-llms",
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-4-populating-your-world-cultures-and-factions",
+    "aihxp-scriven-what-is-this",
+    "fictzio-rpg-markdown-some-uses-for-rpg-markdown"
+  ],
+  "ai-tools": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-visual-dream-engines-image-generators"
+  ],
+  "visual-reference": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-visual-dream-engines-image-generators"
+  ],
+  "product-comparison": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-specialized-worldbuilding-platforms"
+  ],
+  "ai-workflow": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-specialized-worldbuilding-platforms"
+  ],
+  "Concept Generation": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-1-the-spark-of-creation-high-level-conceptualization"
+  ],
+  "AI Workflows": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-1-the-spark-of-creation-high-level-conceptualization"
+  ],
+  "Worldbuilding": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-1-the-spark-of-creation-high-level-conceptualization"
+  ],
+  "World-Building": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-2-shaping-the-land-geography-and-cartography"
+  ],
+  "Content-Generation": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-2-shaping-the-land-geography-and-cartography"
+  ],
+  "Creative-Writing": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-2-shaping-the-land-geography-and-cartography"
+  ],
+  "AI-Prompting": [
+    "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-2-shaping-the-land-geography-and-cartography"
+  ],
+  "ai-prompting": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-why-great-worlds-collapse"
+  ],
+  "narrative-logic": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-step-3-the-conflict-failure-identifying-loopholes-and-weaknesses"
+  ],
+  "procedural-history": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-depth-layer-micro-histories"
+  ],
+  "writing-frameworks": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-consistency-check"
+  ],
+  "economics": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-economic-cascade"
+  ],
+  "theory-crafting": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-economic-cascade"
+  ],
+  "ai-prompts": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-technology-integration-prompt"
+  ],
+  "lore-development": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-religious-system-builder"
+  ],
+  "political-systems": [
+    "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-governance-deep-dive"
+  ],
+  "data-storage": [
+    "en-blog-ai-long-term-memory-novel-writing.html-3-persistent-manuscript-memory-epos-ai"
+  ],
+  "AI-context": [
+    "en-blog-ai-long-term-memory-novel-writing.html-3-persistent-manuscript-memory-epos-ai"
+  ],
+  "feature-comparison": [
+    "en-blog-ai-long-term-memory-novel-writing.html-3-persistent-manuscript-memory-epos-ai"
+  ],
+  "persistence": [
+    "en-blog-ai-long-term-memory-novel-writing.html-3-persistent-manuscript-memory-epos-ai"
+  ],
+  "core-features": [
+    "en-blog-ai-long-term-memory-novel-writing.html-what-long-term-memory-enables"
+  ],
+  "novel-writing": [
+    "en-blog-ai-long-term-memory-novel-writing.html-what-long-term-memory-enables"
+  ],
+  "privacy": [
+    "en-architecture-cookie-settings"
+  ],
+  "story-organization": [
+    "en-architecture-support-help"
+  ],
+  "consistency-management": [
+    "en-architecture-support-help"
+  ],
+  "analytics": [
+    "projects-sibyl-sibyl",
+    "andrew36999-AIDungeon_Exporter-export-structure",
+    "Narcooo-inkos-blob-master-skills-SKILL.md-content"
+  ],
+  "intelligence": [
+    "projects-sibyl-sibyl"
+  ],
+  "core-engine": [
+    "projects-sibyl-sibyl"
+  ],
+  "product-overview": [
+    "projects-sibyl-project-overview",
+    "aihxp-scriven-what-is-this"
+  ],
+  "ai-capabilities": [
+    "projects-sibyl-project-overview"
+  ],
+  "concept-overview": [
+    "projects-sibyl-overview-challenges"
+  ],
+  "product-roadmap": [
+    "projects-sibyl-solution-results",
+    "blog-why-i-built-rag-memory-system-why-i-m-starting-to-test-this-now"
+  ],
+  "fundamentals": [
+    "blog-why-i-built-rag-memory-system-the-context-window-problem"
+  ],
+  "AI architecture": [
+    "blog-why-i-built-rag-memory-system-why-bigger-context-windows-don-t-solve-everything"
+  ],
+  "performance optimization": [
+    "blog-why-i-built-rag-memory-system-why-bigger-context-windows-don-t-solve-everything"
+  ],
+  "core-concepts": [
+    "blog-why-i-built-rag-memory-system-what-is-rag"
+  ],
+  "retrieval-augmented-generation": [
+    "blog-why-i-built-rag-memory-system-what-is-rag"
+  ],
+  "long-form-text": [
+    "blog-why-i-built-rag-memory-system-what-is-rag"
+  ],
+  "AI-memory": [
+    "blog-why-i-built-rag-memory-system-how-the-summarization-system-works"
+  ],
+  "background-processing": [
+    "blog-why-i-built-rag-memory-system-how-the-summarization-system-works"
+  ],
+  "data-management": [
+    "blog-why-i-built-rag-memory-system-how-the-summarization-system-works"
+  ],
+  "AI-parameters": [
+    "blog-why-i-built-rag-memory-system-the-rag-depth-setting-semantic-search"
+  ],
+  "Authoring Tools": [
+    "blog-why-i-built-rag-memory-system-author-notes-rag-for-your-story-bible"
+  ],
+  "Story Generation": [
+    "blog-why-i-built-rag-memory-system-author-notes-rag-for-your-story-bible"
+  ],
+  "Content Context": [
+    "blog-why-i-built-rag-memory-system-author-notes-rag-for-your-story-bible"
+  ],
+  "ai-integrity": [
+    "blog-why-i-built-rag-memory-system-editing-summarized-content"
+  ],
+  "editor-workflow": [
+    "blog-why-i-built-rag-memory-system-editing-summarized-content"
+  ],
+  "testing": [
+    "blog-why-i-built-rag-memory-system-why-i-m-starting-to-test-this-now"
+  ],
+  "narrative-ai": [
+    "blog-why-i-built-rag-memory-system-why-i-m-starting-to-test-this-now"
+  ],
+  "long-form-writing": [
+    "blog-why-i-built-rag-memory-system-why-this-system-exists"
+  ],
+  "AI-Agents": [
+    "z2x-code-inkos-blob-master-README.en.md-content"
+  ],
+  "Content-Creation": [
+    "z2x-code-inkos-blob-master-README.en.md-content"
+  ],
+  "Configuration": [
+    "z2x-code-inkos-blob-master-README.en.md-content"
+  ],
+  "Automation": [
+    "z2x-code-inkos-blob-master-README.en.md-content"
+  ],
+  "Core Feature": [
+    "zaphodsdad-GhostWriter3000-series-memory"
+  ],
+  "AI Assistants": [
+    "zaphodsdad-GhostWriter3000-series-memory"
+  ],
+  "Product Overview": [
+    "zaphodsdad-GhostWriter3000-features"
+  ],
+  "AI Models": [
+    "zaphodsdad-GhostWriter3000-features"
+  ],
+  "Asset Management": [
+    "zaphodsdad-GhostWriter3000-features"
+  ],
+  "Data Portability": [
+    "zaphodsdad-GhostWriter3000-features"
+  ],
+  "backend": [
+    "zaphodsdad-GhostWriter3000-architecture",
+    "zaphodsdad-GhostWriter3000-project-structure"
+  ],
+  "storage": [
+    "zaphodsdad-GhostWriter3000-architecture",
+    "zaphodsdad-GhostWriter3000-design-decisions"
+  ],
+  "mcp": [
+    "zaphodsdad-GhostWriter3000-mcp-integration"
+  ],
+  "frontend": [
+    "zaphodsdad-GhostWriter3000-project-structure"
+  ],
+  "metadata-schema": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "obsidian-plugin": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "structure": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "narrative-configuration": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "timeline-management": [
+    "PixeroJan-obsidian-storyline-blob-1.9.2-StoryLine-Scene-Conversion-Template.md-scene-outline"
+  ],
+  "automation-scripts": [
+    "elizaOS-characterfile-blob-main-README.md-content"
+  ],
+  "data-processing": [
+    "elizaOS-characterfile-blob-main-README.md-content",
+    "Krish-afk-bot-narrative-consistency-verifier-key-features"
+  ],
+  "data-export": [
+    "andrew36999-AIDungeon_Exporter-features",
+    "andrew36999-AIDungeon_Exporter-export-structure"
+  ],
+  "utility": [
+    "andrew36999-AIDungeon_Exporter-features"
+  ],
+  "external-tools": [
+    "andrew36999-AIDungeon_Exporter-features"
+  ],
+  "data-privacy": [
+    "andrew36999-AIDungeon_Exporter-this-is-not-malware-why-chrome-login-is-required"
+  ],
+  "api-access": [
+    "andrew36999-AIDungeon_Exporter-this-is-not-malware-why-chrome-login-is-required"
+  ],
+  "publishing-workflows": [
+    "aihxp-scriven-what-is-this"
+  ],
+  "localization": [
+    "aihxp-scriven-what-is-this",
+    "aihxp-scriven-autopilot-mode"
+  ],
+  "collaboration": [
+    "aihxp-scriven-what-is-this"
+  ],
+  "personalization": [
+    "aihxp-scriven-the-voice-dna-system"
+  ],
+  "metadata-standards": [
+    "aihxp-scriven-work-types-supported"
+  ],
+  "publishing": [
+    "aihxp-scriven-autopilot-mode",
+    "aihxp-scriven-documentation"
+  ],
+  "ui-customization": [
+    "aihxp-scriven-autopilot-mode"
+  ],
+  "architecture-philosophy": [
+    "aihxp-scriven-philosophy"
+  ],
+  "interface-standards": [
+    "aihxp-scriven-philosophy"
+  ],
+  "voice-personalization": [
+    "aihxp-scriven-philosophy"
+  ],
+  "compatibility": [
+    "aihxp-scriven-installer-targets"
+  ],
+  "status": [
+    "aihxp-scriven-status"
+  ],
+  "release-notes": [
+    "aihxp-scriven-status",
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-release-notes-v1-7-md"
+  ],
+  "compliance": [
+    "aihxp-scriven-status"
+  ],
+  "ttrpg-tools": [
+    "fictzio-rpg-markdown-some-uses-for-rpg-markdown"
+  ],
+  "parser": [
+    "fictzio-rpg-markdown-the-parser"
+  ],
+  "markdown": [
+    "fictzio-rpg-markdown-the-parser"
+  ],
+  "ast": [
+    "fictzio-rpg-markdown-the-parser"
+  ],
+  "cli-tool": [
+    "Narcooo-inkos-blob-master-skills-SKILL.md-content"
+  ],
+  "browser-extension": [
+    "agoramachina-claude-exporter-blob-main-CLAUDE.md-content"
+  ],
+  "development-workflow": [
+    "agoramachina-claude-exporter-blob-main-CLAUDE.md-content"
+  ],
+  "architecture-patterns": [
+    "agoramachina-claude-exporter-blob-main-CLAUDE.md-content"
+  ],
+  "cross-browser": [
+    "agoramachina-claude-exporter-blob-main-CLAUDE.md-content"
+  ],
+  "stylometry": [
+    "ngpepin-stylometric-transfer-blob-main-AGENTS.md-content",
+    "ngpepin-stylometric-transfer-blob-main-README.md-content",
+    "ngpepin-stylometric-transfer-blob-3b722bacded69e93a78549e26866698a6cb5770f-AGENTS.md-content",
+    "auth-personal-springernature-introduction",
+    "auth-personal-springernature-methodology"
+  ],
+  "evaluation-framework": [
+    "pdf-2503.23512-content",
+    "pdf-2512.19012-content",
+    "2025.findings-acl.1114.pdf-content",
+    "kabirahuja2431-FlawedFictions-overview",
+    "pdf-1909.09962v1-content"
+  ],
+  "retrieval-mechanisms": [
+    "pdf-2503.23512-content"
+  ],
+  "llm-benchmarking": [
+    "html-2504.11900v2-1-introduction",
+    "kabirahuja2431-FlawedFictions-overview"
+  ],
+  "reasoning": [
+    "html-2504.11900v2-1-introduction",
+    "forum-kabir-ahuja-melanie-sclar-yulia-tsvetkov"
+  ],
+  "natural-language-understanding": [
+    "html-2504.11900v2-1-introduction",
+    "html-2504.11900v2-1-introduction",
+    "kabirahuja2431-FlawedFictions-overview"
+  ],
+  "dataset-generation": [
+    "html-2504.11900v2-1-introduction"
+  ],
+  "formal-logic": [
+    "html-2504.11900v2-2-defining-plot-holes-continuity-errors"
+  ],
+  "computational-linguistics": [
+    "html-2504.11900v2-2-defining-plot-holes-continuity-errors",
+    "2021.nuse-1.9.pdf-content",
+    "pdf-2601.06445-content",
+    "html-2604.22142v1-2-3-llm-writing-assistance-as-sociotechnical-intervention",
+    "auth-personal-springernature-introduction",
+    "auth-personal-springernature-methodology"
+  ],
+  "theory-of-fiction": [
+    "html-2504.11900v2-2-defining-plot-holes-continuity-errors"
+  ],
+  "machine-learning-pipelines": [
+    "html-2504.11900v2-3-automatically-generating-plot-holes-in-stories"
+  ],
+  "content-augmentation": [
+    "html-2504.11900v2-3-automatically-generating-plot-holes-in-stories"
+  ],
+  "metadata": [
+    "abs-2504.11900-submission-history",
+    "abs-2503.22828-submission-history",
+    "avigold-postwriter-context-files"
+  ],
+  "citation-management": [
+    "abs-2504.11900-submission-history"
+  ],
+  "academic-publishing": [
+    "abs-2504.11900-submission-history"
+  ],
+  "integrations": [
+    "abs-2504.11900-bookmark",
+    "abs-2503.22828-bookmark"
+  ],
+  "research-tools": [
+    "abs-2504.11900-bookmark"
+  ],
+  "community-projects": [
+    "abs-2504.11900-bookmark",
+    "abs-2503.22828-bookmark"
+  ],
+  "data-visualization": [
+    "abs-2504.11900-bookmark",
+    "abs-2503.22828-bookmark",
+    "auth-personal-springernature-methodology"
+  ],
+  "publication-history": [
+    "abs-2503.22828-submission-history"
+  ],
+  "citation": [
+    "abs-2503.22828-submission-history"
+  ],
+  "bibliometrics": [
+    "abs-2503.22828-bookmark"
+  ],
+  "dataset": [
+    "pdf-2512.19012-content",
+    "html-2604.22142v1-3-1-dataset-empathicstories",
+    "arozcan-llm-emotion-audit-made-monologue-based-artificial-discourse-for-emotion-analysis"
+  ],
+  "Evaluation": [
+    "forum-finding-flawed-fictions-evaluating-complex-reasoning-in-language-models-via-plot-hole-detection"
+  ],
+  "Natural Language Processing": [
+    "forum-finding-flawed-fictions-evaluating-complex-reasoning-in-language-models-via-plot-hole-detection",
+    "html-2412.02897v1-1-introduction"
+  ],
+  "Benchmarking": [
+    "forum-finding-flawed-fictions-evaluating-complex-reasoning-in-language-models-via-plot-hole-detection"
+  ],
+  "benchmark": [
+    "2025.findings-acl.1114.pdf-content",
+    "pdf-2601.06445-content"
+  ],
+  "literary-studies": [
+    "pdf-2601.06445-content"
+  ],
+  "cli-tools": [
+    "kabirahuja2431-FlawedFictions-command-line-arguments"
+  ],
+  "computational-stylistics": [
+    "ngpepin-stylometric-transfer-blob-06909f7cac4e1bfad4567d6b86bfeaf48078c6f0-Research-Paper.md-content",
+    "html-2604.22142v1-1-introduction"
+  ],
+  "governance": [
+    "ngpepin-stylometric-transfer-blob-06909f7cac4e1bfad4567d6b86bfeaf48078c6f0-Research-Paper.md-content",
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-release-notes-v1-7-md"
+  ],
+  "interpretability": [
+    "ngpepin-stylometric-transfer-blob-06909f7cac4e1bfad4567d6b86bfeaf48078c6f0-Research-Paper.md-content"
+  ],
+  "llm-application": [
+    "ngpepin-stylometric-transfer-blob-main-README.md-content"
+  ],
+  "python": [
+    "ngpepin-stylometric-transfer-blob-cd3ea7dceefc70e51d44f69d8fe98c817d5cf7c6-apply_fingerprint.py-content"
+  ],
+  "configuration-management": [
+    "ngpepin-stylometric-transfer-blob-3b722bacded69e93a78549e26866698a6cb5770f-AGENTS.md-content"
+  ],
+  "digital-humanities": [
+    "html-2604.22142v1-1-introduction",
+    "html-2604.22142v1-2-1-textual-mediation-and-corpus-integrity",
+    "html-2604.22142v1-2-2-voice-style-and-narrative-markers",
+    "auth-personal-springernature-methodology"
+  ],
+  "corpus-linguistics": [
+    "html-2604.22142v1-2-1-textual-mediation-and-corpus-integrity"
+  ],
+  "ai-mediation": [
+    "html-2604.22142v1-2-1-textual-mediation-and-corpus-integrity"
+  ],
+  "stylometrics": [
+    "html-2604.22142v1-2-2-voice-style-and-narrative-markers"
+  ],
+  "linguistic-analysis": [
+    "html-2604.22142v1-2-2-voice-style-and-narrative-markers"
+  ],
+  "narrative-theory": [
+    "html-2604.22142v1-2-2-voice-style-and-narrative-markers"
+  ],
+  "research-analysis": [
+    "html-2604.22142v1-2-3-llm-writing-assistance-as-sociotechnical-intervention",
+    "auth-personal-springernature-abstract"
+  ],
+  "llm-behavior": [
+    "html-2604.22142v1-2-3-llm-writing-assistance-as-sociotechnical-intervention"
+  ],
+  "ai-ethics": [
+    "html-2604.22142v1-2-3-llm-writing-assistance-as-sociotechnical-intervention"
+  ],
+  "human-centered-ai": [
+    "html-2604.22142v1-3-1-dataset-empathicstories"
+  ],
+  "style-transfer": [
+    "html-2403.08043v2-1-introduction",
+    "html-2403.08043v2-2-2-framework-overview",
+    "pdf-1909.09962v1-content"
+  ],
+  "policy-optimization": [
+    "html-2403.08043v2-1-introduction"
+  ],
+  "task-definition": [
+    "html-2403.08043v2-2-1-task-definition"
+  ],
+  "machine-learning-theory": [
+    "html-2403.08043v2-2-1-task-definition"
+  ],
+  "nlp": [
+    "html-2403.08043v2-2-2-framework-overview",
+    "html-2412.02897v1-4-2-emotion-classification"
+  ],
+  "training-framework": [
+    "html-2403.08043v2-2-2-framework-overview"
+  ],
+  "fine-tuning": [
+    "html-2403.08043v2-2-3-supervised-fine-tuning"
+  ],
+  "data-generation": [
+    "html-2403.08043v2-2-3-supervised-fine-tuning"
+  ],
+  "unsupervised-learning": [
+    "2021.eacl-main.73.pdf-content",
+    "pdf-1909.09962v1-content"
+  ],
+  "Taxonomy": [
+    "auth-personal-springernature-subjects"
+  ],
+  "Metadata": [
+    "auth-personal-springernature-subjects"
+  ],
+  "Categorization": [
+    "auth-personal-springernature-subjects"
+  ],
+  "data-science": [
+    "auth-personal-springernature-abstract"
+  ],
+  "AI-evaluation": [
+    "auth-personal-springernature-introduction"
+  ],
+  "methodology": [
+    "auth-personal-springernature-methodology",
+    "auth-personal-springernature-methodology"
+  ],
+  "release-management": [
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-commit-release-notes-for-v1-7"
+  ],
+  "text-processing": [
+    "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-release-notes-v1-7-md"
+  ],
+  "nlp-modeling": [
+    "pdf-1909.09962v1-content"
+  ],
+  "content-analysis": [
+    "Krish-afk-bot-narrative-consistency-verifier-mission"
+  ],
+  "character-validation": [
+    "Krish-afk-bot-narrative-consistency-verifier-mission"
+  ],
+  "narrative-integrity": [
+    "Krish-afk-bot-narrative-consistency-verifier-mission"
+  ],
+  "logic-reasoning": [
+    "Krish-afk-bot-narrative-consistency-verifier-the-challenge",
+    "Krish-afk-bot-narrative-consistency-verifier-key-features"
+  ],
+  "information-extraction": [
+    "Krish-afk-bot-narrative-consistency-verifier-key-features"
+  ],
+  "search-and-retrieval": [
+    "Krish-afk-bot-narrative-consistency-verifier-key-features"
+  ],
+  "classification": [
+    "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+    "html-2412.02897v1-4-2-emotion-classification"
+  ],
+  "data-pipeline": [
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture"
+  ],
+  "nlp-processing": [
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture"
+  ],
+  "validation-engine": [
+    "Krish-afk-bot-narrative-consistency-verifier-system-architecture"
+  ],
+  "data-ingestion": [
+    "Krish-afk-bot-narrative-consistency-verifier-user-journey"
+  ],
+  "project-architecture": [
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure",
+    "arozcan-llm-emotion-audit-repository-structure"
+  ],
+  "contribution-guide": [
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure"
+  ],
+  "nlp-pipeline": [
+    "Krish-afk-bot-narrative-consistency-verifier-project-structure"
+  ],
+  "Narrative Intelligence": [
+    "html-2412.02897v1-1-introduction"
+  ],
+  "Logic Detection": [
+    "html-2412.02897v1-1-introduction"
+  ],
+  "cognitive-modeling": [
+    "html-2412.02897v1-2-related-works"
+  ],
+  "problem-definition": [
+    "html-2412.02897v1-3-problem-definition"
+  ],
+  "logic-evaluation": [
+    "html-2412.02897v1-3-problem-definition"
+  ],
+  "emotion-analysis": [
+    "html-2412.02897v1-4-2-emotion-classification",
+    "arozcan-llm-emotion-audit-made-monologue-based-artificial-discourse-for-emotion-analysis"
+  ],
+  "logic-validation": [
+    "html-2412.02897v1-4-3-narrative-logic-checker-by-characters-emotion-and-action"
+  ],
+  "predictive-modeling": [
+    "html-2412.02897v1-4-4-action-emotion-prediction-and-sentence-generation"
+  ],
+  "machine-learning-framework": [
+    "html-2412.02897v1-4-4-action-emotion-prediction-and-sentence-generation"
+  ],
+  "agentic-workflows": [
+    "avigold-postwriter-what-it-does"
+  ],
+  "multi-agent-system": [
+    "avigold-postwriter-architecture"
+  ],
+  "database-schema": [
+    "avigold-postwriter-architecture"
+  ],
+  "testing-strategy": [
+    "avigold-postwriter-architecture"
+  ],
+  "dataset-management": [
+    "arozcan-llm-emotion-audit-repository-structure"
+  ],
+  "emotion-recognition": [
+    "arozcan-llm-emotion-audit-plea-pseudo-label-aware-emotion-classification"
+  ],
+  "research-framework": [
+    "arozcan-llm-emotion-audit-plea-pseudo-label-aware-emotion-classification"
+  ],
+  "manuscript-analysis": [
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one"
+  ],
+  "continuity-editing": [
+    "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one"
+  ],
+  "proofreading": [
+    "scene-audit-the-mistakes-that-kill-reader-trust"
+  ],
+  "analysis": [
+    "scene-audit-works-across-entire-series"
+  ],
+  "series-management": [
+    "scene-audit-works-across-entire-series"
+  ],
+  "editing": [
+    "scene-audit-works-across-entire-series"
+  ],
+  "multi-agent-systems": [
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md",
+    "dmulxw-inkos-blob-f8bc93e1b5cc1a9d14d741bf3eb883543e5de210-README.en.md-content"
+  ],
+  "content-audit": [
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-en-md"
+  ],
+  "AIGC Detection": [
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-md"
+  ],
+  "Agent Orchestration": [
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-md"
+  ],
+  "Stylistic Analysis": [
+    "dmulxw-inkos-commit-ddacad44d65f58c9295726b6eaf7a27187da29ae-readme-md"
+  ],
+  "nlp-evaluation": [
+    "pdf-2603.05890v1-content"
+  ],
+  "consistency-analysis": [
+    "pdf-2603.05890v1-content"
+  ]
+}

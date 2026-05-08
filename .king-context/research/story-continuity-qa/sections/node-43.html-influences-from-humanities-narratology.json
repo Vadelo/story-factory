@@ -1,0 +1,34 @@
+{
+  "title": "Influences from Humanities Narratology",
+  "path": "node-43.html-influences-from-humanities-narratology",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "computational narratology",
+    "fabula",
+    "sujet",
+    "story generation",
+    "narrative functions",
+    "text information extraction",
+    "temporal orderings",
+    "interactive narrative systems",
+    "eventfulness",
+    "annotated corpora",
+    "sentence generators"
+  ],
+  "use_cases": [
+    "Implement when designing story generation systems that require a distinction between chronological events and final output",
+    "Configure when mapping Proppian narrative functions to computational algorithms",
+    "Use when developing interactive narrative systems based on Campbell's heroic quest or Freytag’s narrative arc",
+    "Implement when training text information extraction systems to infer temporal orderings from corpora",
+    "Configure when generating natural language with specific narrative voice, tense, and aspect"
+  ],
+  "tags": [
+    "computational-narratology",
+    "story-generation",
+    "nlp",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "Research in computational narratology has absorbed and instantiated approaches from humanities narratology that specify formal and/or logical structure. The narratological differentiation of fabula versus sujet (Šklovskij [1917] 1965; Tomaševskij [1925] 1971) has provided a scaffolding for much of the computational narratology work in story generation, where the fabula is usually implemented—as in Genette ([1972] 1980)—as the events of the entire narrative in chronological and causal order prior to any verbalization thereof, and where the sujet is the final generated output. Here events (Hühn→ Event and Eventfulness) like other narratological constructs, are given a precise and specific computational representation, involving their participants, places and times, and in some cases their causes and effects. Focusing on fabula, algorithms to generate story have incorporated the narrative functions of Propp ([1928] 1968), e.g., Grasbon & Braun (2001); Peinado & Gervás (2006) as well as those of Bremond (1970), e.g., Schäfer et al. (2004); Cavazza & Charles (2005). More coarse-grained accounts of the roles of characters in plot (Jannidis→ Character), such as the narrative arc of Freytag (1900) and the heroic quest of Campbell ([1949] 1990), have also inspired the design of many interactive narrative systems (Mateas & Stern 2005; Gervás et al. 2006). In relation to the sujet, text information extraction systems (Mani et al. 2006; Mani 2010a) have been able to infer Genette’s ([1972] 1980) temporal orderings (Scheffel, Weixler & Werner→ Time) by having the computer learn from annotated corpora, while sentence generators such as Montfort (2011) have used rules that can express any of Genette’s orderings with a felicitous use of narrative voice, tense, and aspect.",
+  "token_estimate": 351
+}

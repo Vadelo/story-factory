@@ -1,0 +1,28 @@
+{
+  "title": "Cookie Settings",
+  "path": "en-architecture-cookie-settings",
+  "url": "https://symban.de/en/architecture",
+  "keywords": [
+    "Cookie Settings",
+    "Privacy Policy",
+    "Reject all",
+    "Accept all",
+    "website usage analysis",
+    "user consent",
+    "data privacy",
+    "tracking preference"
+  ],
+  "use_cases": [
+    "Configure when seeking user consent for analytical tracking",
+    "Implement when providing users the option to manage data privacy preferences",
+    "Use when documenting compliance with regional data protection regulations"
+  ],
+  "tags": [
+    "privacy",
+    "configuration",
+    "user-interface"
+  ],
+  "priority": 7,
+  "content": "We use cookies to analyse website usage and improve the experience. You can adjust your settings at any time.\n\nSettingsReject allAccept all\n\nMore information in our Privacy Policy.",
+  "token_estimate": 37
+}

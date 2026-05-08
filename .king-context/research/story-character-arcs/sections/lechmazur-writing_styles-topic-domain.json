@@ -1,0 +1,34 @@
+{
+  "title": "Topic domain",
+  "path": "lechmazur-writing_styles-topic-domain",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "Topic Domain",
+    "Temporal Handling",
+    "Choice Proportions",
+    "Style Fingerprints",
+    "Linearity",
+    "Existential",
+    "Grok 4",
+    "Llama 4 Maverick",
+    "Claude Opus 4.5",
+    "Kimi K2",
+    "Qwen 3 235B",
+    "DeepSeek V3.1 Reasoner"
+  ],
+  "use_cases": [
+    "Use when benchmarking model identity and narrative style across different LLM families.",
+    "Implement when comparing the default temporal structures and tense preferences of specific foundation models.",
+    "Configure when seeking LLMs that deviate from standard linear narrative structures or past-tense defaults.",
+    "Use when analyzing model-specific biases toward existential, memory-focused, or social domains."
+  ],
+  "tags": [
+    "model-benchmarking",
+    "narrative-style",
+    "data-visualization",
+    "llm-evaluation"
+  ],
+  "priority": 8,
+  "content": "![Style Fingerprints • Topic Domain — Choice Proportions by LLM](images/style_enum_topic_domain_stacked.png)\n\n- **Existential dominates** across models; **Memory** is the clear second and **Social** is third. **War** and **Crime** remain negligible.\n- **Most existential:** Cohere Command A, Llama 4 Maverick, and GLM-4.6. **Most memory-tilted:** Kimi K2 (by a wide margin), with DeepSeek V3.1 Reasoner next.\n- **Niche tilts:** GPT-5.2 (medium reasoning) shows the strongest **Social** share, while Qwen 3 235B (25-07 Think) and Grok 4 show the highest **Nature** share.\n\n---\n\n![Style Fingerprints • Tense — Choice Proportions by LLM](images/style_enum_tense_stacked.png)\n\n- **Past tense dominates** almost universally; most models are ≈100% past.\n- **A couple GPT-5 variants (including GPT-5 Pro) are the exceptions,** with substantial **present** tense and a small **mixed** slice.\n- **Minor variation:** Kimi K2 and o3-pro show small present usage; most other models are essentially all past.\n\n---\n\n![Style Fingerprints • Temporal Handling — Choice Proportions by LLM](images/style_enum_temporal_handling_stacked.png)\n\n- **Linear dominates** across the board (≈82–99%).\n- **Selective nonlinearity:** GPT-5.1 (medium reasoning) and Claude Opus 4.5 use the most **flashback**, with Claude Sonnet 4.5 Thinking 16K also above-average.\n- **Braided/fragmented timelines are rare,** with only small (but visible) shares in a handful of models.\n- **Near-all linear:** Llama 4 Maverick and GPT-OSS-120B are effectively straight-chronology by default.\n\n---",
+  "token_estimate": 275
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Baseline Methods",
+  "path": "html-2510.05188v1-baseline-methods",
+  "url": "https://arxiv.org/html/2510.05188v1",
+  "keywords": [
+    "GPT-4o",
+    "DeepSeek-R1",
+    "Qwen-max",
+    "Gemini-2.5-pro",
+    "LLM-based evaluation",
+    "API integration",
+    "iterative refinement",
+    "script quality assessment",
+    "functional agents",
+    "quality control settings"
+  ],
+  "use_cases": [
+    "Use when benchmarking script refinement performance against mainstream LLMs",
+    "Implement when establishing experimental control groups for research evaluation",
+    "Configure when concatenating prompts for cross-model comparative analysis",
+    "Use when evaluating long-form scripts through LLM-based assessment frameworks"
+  ],
+  "tags": [
+    "benchmarking",
+    "model-comparison",
+    "experimentation",
+    "llm-evaluation"
+  ],
+  "priority": 8,
+  "content": "Currently, there are no specialized methods focused on script refinement for comparison. We select six strong mainstream LLM models without employing the divide-and-conquer strategy proposed in this paper as baselines. These baselines include: GPT-4o (OpenAI’s general-purpose model), DeepSeek-R1 (specialized in logical reasoning), Qwen-max (Alibaba’s flagship model), GPT-4.1 (OpenAI’s flagship model), Gemini-2.5-pro (Google’s latest model), and GPT-4.1-mini (GPT-4.1’s efficient version). All experiments are conducted using officially released APIs.\n\nTo ensure fair and rigorous comparison, all baselines adopt the same prompts constructed by concatenating the prompts of our functional agents. Additionally, they follow the same iterative refinement and quality control settings as ours, isolating the impact of implementation variations.\n\nFollowing established practices in existing work, we employ LLM-based evaluation for script quality assessment (Wu et al. 2024; Han et al. 2024; Ma, Qiao, and Liu 2024; Chen et al. 2024b). We observe that directly evaluating long full scripts faces challenges due to the context understanding limitations of LLMs, making it difficult to effectively capture both global structure and details. Moreover, a sc",
+  "token_estimate": 226
+}

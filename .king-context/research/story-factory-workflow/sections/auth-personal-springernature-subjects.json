@@ -1,0 +1,26 @@
+{
+  "title": "Subjects",
+  "path": "auth-personal-springernature-subjects",
+  "url": "https://idp.nature.com/auth/personal/springernature?code=77b451f5-aaf2-4b6a-868f-f134d6372c9b&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41599-025-05986-3%3Ferror%3Dcookies_not_supported",
+  "keywords": [
+    "Language",
+    "Linguistics",
+    "Literature",
+    "Subject Categorization",
+    "Academic Disciplines",
+    "Philology"
+  ],
+  "use_cases": [
+    "Use when categorizing academic content",
+    "Configure when setting up library taxonomy",
+    "Implement when filtering educational resources"
+  ],
+  "tags": [
+    "Taxonomy",
+    "Metadata",
+    "Categorization"
+  ],
+  "priority": 4,
+  "content": "- Language and linguistics\n- Literature",
+  "token_estimate": 7
+}

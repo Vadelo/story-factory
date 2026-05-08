@@ -1,0 +1,32 @@
+{
+  "title": "Concept ​",
+  "path": "docs-use-ncp-concept",
+  "url": "https://dramatica.com/docs/use/ncp",
+  "keywords": [
+    "NCP",
+    "Narrative Format",
+    "Storyform",
+    "Throughline",
+    "Storybeats",
+    "Narrova",
+    "Narrative Object",
+    "Storypoints",
+    "Dramatica Narrative Platform",
+    "Story State"
+  ],
+  "use_cases": [
+    "Use when transferring narrative context and story structure between different systems",
+    "Implement when maintaining relationships between conflict, Perspective, and progression",
+    "Configure when managing an active workspace object during a Narrova conversation",
+    "Use when a format beyond generic text export is required to preserve metadata"
+  ],
+  "tags": [
+    "data-architecture",
+    "interoperability",
+    "narrative-engine",
+    "system-integration"
+  ],
+  "priority": 10,
+  "content": "NCP is an open narrative format for carrying story state across systems. It can represent Storyform structure, Throughline material, Storypoints, Storybeats, Perspectives, Overviews, Players, and authored prose. That makes it more than a generic export file. It is a working narrative object.\n\nMost file formats preserve text. NCP preserves context. In plain language, that means it keeps the relationship between conflict, Perspective, progression, and Storyform choices so another system does not have to guess what your notes mean.\n\nInside the Dramatica Narrative Platform, NCP also serves a second job. It is the live notebook object Narrova uses while a conversation is in progress.\n\nIMPORTANT\n\nNCP is not just a final download. In Narrova, it is the active workspace object tied to the current conversation.",
+  "token_estimate": 164
+}

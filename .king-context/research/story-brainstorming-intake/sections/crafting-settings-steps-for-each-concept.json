@@ -1,0 +1,32 @@
+{
+  "title": "Steps for each concept",
+  "path": "crafting-settings-steps-for-each-concept",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "ID column",
+    "CONCEPT column",
+    "RATING column",
+    "NOTES column",
+    "ID number",
+    "incremental numbering",
+    "false lead marking",
+    "horizontal solid line",
+    "mystery creation",
+    "sequential IDs"
+  ],
+  "use_cases": [
+    "Use when documenting new mystery concepts in a structured ledger",
+    "Configure when tracking the validity of investigative leads using the RATING system",
+    "Implement when organizing complex narratives into individual, numbered statements",
+    "Use when adding clarifying context to specific concepts within the NOTES field"
+  ],
+  "tags": [
+    "documentation-workflow",
+    "information-architecture",
+    "tracking",
+    "standard-operating-procedure"
+  ],
+  "priority": 7,
+  "content": "1. Write the ID number in the ID column. The first one will start with 1 and increment numerically as you create more mysteries.\n2. Write one concept in the form of a question or statement in the CONCEPT column, keeping one statement or question per ID number. Keep the concept in the CONCEPT column – if you run out of space in the CONCEPT column, continue writing on line below. Keep doing this as you need to in order to finish writing the concept.\n3. Draw a horizontal, solid line over the dots under the final row taken up by the concept.\n4. If you determine at some point that the concept is a false lead or dead end then mark it with an X in the RATING column (do not cross out the line as these ideas might be useful in the future).\n5. Write any quick notes about the concept in the NOTES column. Typically these kinds of notes are things like reasons it was X’d in the rating or reasons why it pushes toward clarity.",
+  "token_estimate": 238
+}

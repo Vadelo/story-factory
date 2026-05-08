@@ -1,0 +1,34 @@
+{
+  "title": "Avoid the Infodump",
+  "path": "worldbuilding-can-be-a-privilege-with-the-right-technique-avoid-the-infodump",
+  "url": "https://fjtalley.com/worldbuilding-can-be-a-privilege-with-the-right-technique/",
+  "keywords": [
+    "infodump",
+    "worldbuilding",
+    "character-driven exposition",
+    "gradual revelation",
+    "background information",
+    "unique food and drink",
+    "street protest",
+    "tension",
+    "reader engagement",
+    "narrative pacing"
+  ],
+  "use_cases": [
+    "Use when you need to present world details without breaking immersion.",
+    "Implement when using character interactions to reveal setting.",
+    "Configure when planning scene beats to introduce background gradually.",
+    "Use when avoiding long exposition blocks that pull readers away.",
+    "Use when ensuring continuous reader engagement across chapters."
+  ],
+  "tags": [
+    "storytelling",
+    "worldbuilding",
+    "writingtechniques",
+    "pacing",
+    "readerengagement"
+  ],
+  "priority": 8,
+  "content": "The biggest pitfall in worldbuilding is the infodump. These are long paragraphs that explain your world in detail, pulling your readers away from the story. Sometimes you need to explain stuff: but when it extends for page after page, you may lose your readers.\n\nA better method is to have your world revealed as your characters encounter it, such as key characters consuming unique food and drink from a new planet. Or, you can have minor characters reveal a city’s tension through a street protest, not a lecture.\n\nIn other words, when you need to include background information, weave it in gradually. Your readers will get it.",
+  "token_estimate": 142
+}

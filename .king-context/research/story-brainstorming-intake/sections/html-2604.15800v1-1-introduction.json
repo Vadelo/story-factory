@@ -1,0 +1,33 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2604.15800v1-1-introduction",
+  "url": "https://arxiv.org/html/2604.15800v1",
+  "keywords": [
+    "Large Language Models (LLMs)",
+    "WriteFlow",
+    "Self-Regulated Learning (SRL)",
+    "Metacognitive Scaffolding",
+    "Knowledge Transformation",
+    "Goal-Alignment Tracking",
+    "Reflection-in-Action",
+    "Iterative Goal Adjustment",
+    "AI-Mediated Dialogue",
+    "Cognitive Offloading"
+  ],
+  "use_cases": [
+    "Implement when designing AI-supported systems that scaffold student reflection during academic writing",
+    "Configure when integrating goal-setting mechanisms to prevent cognitive offloading in LLM interfaces",
+    "Use when developing Google Docs-based assistants that require non-linear writing process support",
+    "Apply when evaluating the alignment between stated user goals and emerging text in human-AI collaboration",
+    "Use when mapping the Self-Regulated Learning (SRL) framework onto AI text generation tools"
+  ],
+  "tags": [
+    "AI-Education",
+    "Research-Paper",
+    "Human-Computer-Interaction",
+    "Metacognition"
+  ],
+  "priority": 10,
+  "content": "Academic writing is a cornerstone of higher education, serving not only as a medium for assessment but as a powerful engine for learning, knowledge construction, and intellectual development. Rather than reproducing information, students engage in writing as a process of knowledge transformation, negotiating the dynamic interplay between rhetorical challenges (how to communicate ideas) and content-related challenges (what to communicate) [4]. Through this process, tacit, experiential, and fragmented knowledge can be externalized, refined, and made transferable across contexts [23]. Academic writing further fosters strategic and self-regulated cognitive skills [12], including goal setting, planning, monitoring, and revising—capabilities that are critical for scholarly inquiry, professional practice, and lifelong learning. However, despite its importance many students struggle to meet the demands of academic writing [17, 20], highlighting a persistent gap between the recognized importance of writing and students’ ability to effectively engage in it.\n\nWith the rise of large language models (LLMs), the ways students engage in academic writing practices have started to change. For example, systems such as ChatGPT show strong reasoning and open-ended text generation capabilities [26, 2], and have become increasingly embedded in students’ learning [11]. Yet, growing evidence suggests that reliance on such tools may undermine learning by encouraging cognitive offloading and reducing metacognitive engagement [9]. In academic writing, these risks are particularly acute, since its value lies not only in text production but in sustained reflection, reasoning, and iterative goal revision [10, 12].\n\nAcademic writing is a recursive and cognitively demanding process requiring writers to manage evolving goals, integrate cross-sectional ideas, and continually evaluate and revise arguments [10, 12]. However, most commercial LLM interfaces are optimized for linear, turn-based dialogue, which poorly aligns with non-linear writing processes. Revisiting earlier reasoning or managing multiple concurrent goals is cumbersome, often resulting in surface-level interactions that limit metacognitive regulation, which is a strong predictor of academic success [24].\n\nThese challenges can be seen through the lens of self-regulated learning (SRL), which emphasizes learners’ active metacognitive regulation across forethought, performance, and reflection phases [30], with goal setting as a central mechanism [31]. In academic writing, goals are continuously revised as ideas evolve, making dynamic goal regulation essential for preserving the epistemic value of writing with AI.\n\nRecent AI-driven writing tools have begun incorporating SRL lens to support self-reflection and critical evaluation [15, 25], yet do not explicitly support iterative goal adjustment. This study aims to fill this gap by examining how AI-supported systems can scaffold reflection and goal setting in academic writing. We present WriteFlow, a Google Docs–based writing assistant co-designed to support reflection-in-action [21] through AI-mediated dialogue, structured goal generation, and goal-alignment tracking. Building on prior work showing conversational interaction as a powerful design resource for fostering reflection [3], WriteFlow reconceptualizes chat-based interaction as a space for goal negotiation and metacognitive regulation.\n\nThis study contributes to research on AI-supported academic writing by (1) providing a formative account of students’ writing goal–related stress and current patterns of LLM use; (2) introducing WriteFlow, a voice-based AI writing assistant that scaffolds metacognition and self-regulation through iterative construction and monitoring of writing goals; (3) providing empirical evidence of how WriteFlow supports tracking alignment between stated goals and emerging text; and (4) deriving design implications for human–AI writing systems that support evolving goal setting and metacognitive scaffolding.",
+  "token_estimate": 718
+}

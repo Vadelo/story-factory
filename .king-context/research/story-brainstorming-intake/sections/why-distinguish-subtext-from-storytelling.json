@@ -1,0 +1,32 @@
+{
+  "title": "Why Distinguish Subtext from Storytelling?",
+  "path": "why-distinguish-subtext-from-storytelling",
+  "url": "https://narrativecontextprotocol.com/",
+  "keywords": [
+    "Universal Narrative Model",
+    "UNM",
+    "Subtext",
+    "Storytelling",
+    "Thematic Meaning",
+    "Structural Coherence",
+    "Authorial Intent",
+    "Narrative Conflict",
+    "Narrative Tensions",
+    "AI Training Ethics"
+  ],
+  "use_cases": [
+    "Use when defining the conceptual boundary between underlying themes and explicit presentation.",
+    "Configure when designing AI training datasets that prioritize structural essence over surface-level dialogue.",
+    "Implement when resolving narrative tensions within the Universal Narrative Model frameworks.",
+    "Use when communicating complex narrative conflicts across diverse storytelling contexts."
+  ],
+  "tags": [
+    "narrative-theory",
+    "unm-framework",
+    "ai-guidelines",
+    "conceptual-architecture"
+  ],
+  "priority": 10,
+  "content": "Clearly differentiating between Subtext and Storytelling enhances narrative clarity and effectiveness:\n\n| Subtext | Storytelling |\n| --- | --- |\n| Underlying thematic meaning | Explicit narrative presentation |\n| Represents authorial intent | Shapes audience experience |\n| Ensures structural coherence | Allows stylistic and expressive flexibility |\n\nThis separation becomes even more critical in the AI era. Training models exclusively on storytelling—whether through transcripts, closed captions, or script dialogue—beyond being unethical--is fundamentally unproductive. Such training is ineffective because it captures only the surface-level \"flavoring\" of a story, not its underlying thematic essence. The true value resides in the structural coherence provided by subtext, the very heart of the narrative.\n\n---\n\nMoving forward, we'll explore the specific terminology that shapes the Universal Narrative Model (UNM). While these terms might seem intricate at first, their significance lies in precisely capturing the totality of how we appreciate narrative conflict—both logically and emotionally. Clear, consistent terminology is essential to effectively understanding, communicating, and resolving narrative tensions across diverse storytelling contexts.",
+  "token_estimate": 224
+}

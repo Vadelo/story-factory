@@ -1,0 +1,33 @@
+{
+  "title": "Separate stable lore from world-state memory",
+  "path": "blog-ai-story-bible-separate-stable-lore-from-world-state-memory",
+  "url": "https://inkbook.app/blog/ai-story-bible",
+  "keywords": [
+    "canon drift",
+    "world-state memory",
+    "immutable events",
+    "historical provenance",
+    "lore graph",
+    "canonical anchors",
+    "AI story bible",
+    "entity cards",
+    "derived state",
+    "continuity warnings"
+  ],
+  "use_cases": [
+    "Implement when visual or textual drift occurs in multi-user story projects",
+    "Configure when tracking character status changes across a chronological timeline",
+    "Use when building an AI story bible to ensure derived truth remains consistent",
+    "Apply when resolving continuity disagreements by referencing originating scene beats",
+    "Use when integrating AI imagery to maintain visual consistency via source prompts"
+  ],
+  "tags": [
+    "world-building",
+    "narrative-design",
+    "data-modeling",
+    "ai-collaboration"
+  ],
+  "priority": 9,
+  "content": "Canon drift usually happens when teams overwrite truth instead of tracking change. A knight is not simply brave or injured; he becomes injured at a specific point in story time and that event should remain visible.\n\nWhen you model state as history, current truth becomes something the system can derive instead of something the room has to remember by instinct.\n\n- Immutable events make continuity warnings explainable.\n- Derived current state makes drafting and generation more reliable.\n- Historical provenance helps resolve disagreements without long meetings.\n\nImages become unreliable when teams save a beautiful frame but lose the reasons it worked. The cover, costume, or set reference needs the associated prompt, related entry, and originating scene beat.\n\nThat provenance matters even more with AI imagery because visual drift happens as quickly as textual drift. Canonical anchors only hold if the system remembers where they came from.\n\nThe writing surface is where momentum lives. A strong AI story bible should help the draft, not compete with it for attention.\n\nThe simplest test is this: after you add structure, does the next scene get easier to write? If not, your system may be collecting information without improving execution.\n\nKeep reading\n\n![Editorial wall of entity cards, relationship threads, and rule notes arranged like a story-focused lore graph.](https://inkbook.app/_next/image?url=%2Fblog%2Flore-graph-what-to-store.png&w=3840&q=75)\n\nStory Systems\n\nA practical model for deciding which entities, relationships, rules, events, and source passages belong in a story-first lore graph.\n\n7 min read\n\n![Editorial manuscript board showing a recurring protagonist tracked across draft pages, costume references, and continuity cards.](https://inkbook.app/_next/image?url=%2Fblog%2Fcharacter-canon-ai-drafts.png&w=3840&q=75)\n\nCharacter Systems\n\nA practical system for keeping voice, appearance, motivation, and scene-level state aligned when AI helps draft recurring characters.\n\n8 min read",
+  "token_estimate": 368
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Create Your First Novel",
+  "path": "EdwardAThomson-StoryDaemon-create-your-first-novel",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "novel new",
+    "novel tick",
+    "novel resume",
+    "novel compile",
+    "novel plot",
+    "llm-backend",
+    "foundation.yaml",
+    "--no-interactive",
+    "--save-prompts",
+    "--checkpoint-interval",
+    "story foundation",
+    "UUID"
+  ],
+  "use_cases": [
+    "Use when initializing a new creative project with interactive genre and setting prompts",
+    "Implement when automating scene generation via command-line arguments or YAML foundation files",
+    "Configure when switching between different LLM backends like OpenAI, Anthropic, or Gemini CLI",
+    "Use when compiling generated story components into a final manuscript format",
+    "Configure when managing plot beats and story tension through the plot-first workflow",
+    "Use when resuming existing projects by long path or short-form UUID"
+  ],
+  "tags": [
+    "CLI reference",
+    "Project Initialization",
+    "Workflow",
+    "LLM Configuration"
+  ],
+  "priority": 10,
+  "content": "```bash\n# Recommended: create a new novel project with interactive story foundation\nnovel new my-story --dir work/novels\n#  Creates: work/novels/my-story_a1b2c3d4/\n#  You will be prompted for genre, premise, protagonist, setting, tone, etc.,\n#  and to choose the LLM backend/model to store in this project's config.\n\n# Advanced: create a bare project without interactive setup\nnovel new my-story --dir work/novels --no-interactive\n\n# Or create from a YAML foundation file (non-interactive)\nnovel new my-story --foundation foundation.yaml\n\n# Or via command-line arguments (non-interactive)\nnovel new my-story \\\n  --genre \"science fiction\" \\\n  --premise \"A lone engineer discovers an alien signal\" \\\n  --protagonist \"Curious, isolated technical expert\" \\\n  --setting \"Near-future Mars colony\" \\\n  --tone \"Contemplative, mysterious\"\n\n# Generate your first scene\ncd work/novels/my-story_a1b2c3d4\nnovel tick\n\n# Or generate from anywhere\nnovel tick --project work/novels/my-story_a1b2c3d4\n\n# Check project status (includes story foundation)\nnovel status\n\n# View goal hierarchy\nnovel goals\n\n# Generate multiple scenes with automatic checkpointing\nnovel run --n 10 --checkpoint-interval 10\n\n# See recent projects (shows UUIDs)\nnovel recent\n\n# Resume most recent project (no need to type full path!)\nnovel resume\n\n# Resume specific project by UUID\nnovel resume --uuid a1b2\n\n# Resume and run multiple ticks\nnovel resume --n 5\n\n# List what was created (includes tension levels!)\nnovel list characters\nnovel list locations\nnovel list scenes  # Shows tension: 6/10 (rising), 5/10 (rising), etc.\n\n# Inspect a character\nnovel inspect --id C0\n\n# Compile a manuscript\nnovel compile --output draft.md\n\n# Save prompts for inspection (Phase 7A.5)\nnovel tick --save-prompts  # Saves to prompts/ directory\n\n# View lore items (Phase 7A.4)\nnovel lore list\nnovel lore list --category world_rules\nnovel lore list --importance high\n\n# Plot-first mode commands\nnovel plot generate --count 5    # Generate plot beats\nnovel plot status --detailed     # View beat status\nnovel plot next                  # See next pending beat\nnovel plot clear                 # Clear all beats (with confirmation)\n\n# Use API backend instead of Codex\nnovel tick --llm-backend api --llm-model gpt-5.1      # OpenAI GPT-5.1\nnovel tick --llm-backend api --llm-model claude-4.5   # Anthropic Claude 4.5\nnovel tick --llm-backend api --llm-model gemini-2.5-pro  # Gemini 2.5 Pro\n\n# Use Gemini CLI backend (local `gemini` binary)\nnovel tick --llm-backend gemini-cli --llm-model gemini-2.5-pro\n\n# Use Claude Code CLI backend (local `claude` binary, headless mode)\nnovel tick --llm-backend claude-cli --llm-model claude-4.5\n```",
+  "token_estimate": 504
+}

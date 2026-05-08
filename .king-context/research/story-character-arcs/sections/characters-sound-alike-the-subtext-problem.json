@@ -1,0 +1,30 @@
+{
+  "title": "The Subtext Problem",
+  "path": "characters-sound-alike-the-subtext-problem",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "subtext",
+    "surface dialogue",
+    "character intent",
+    "layered communication",
+    "meaning-action conflict",
+    "three layers of dialogue",
+    "implicit conflict",
+    "narrative tension"
+  ],
+  "use_cases": [
+    "Use when developing authentic character voices that avoid being overly literal",
+    "Implement when creating narrative tension through conflicting character motivations",
+    "Configure when drafting scenes where characters are hiding their true emotions",
+    "Use when seeking to engage readers by requiring them to infer unstated goals"
+  ],
+  "tags": [
+    "creative-writing",
+    "dialogue-theory",
+    "character-development",
+    "narrative-craft"
+  ],
+  "priority": 9,
+  "content": "Amateur dialogue puts everything on the surface.\n\n“I’m angry at you because you forgot our anniversary and that makes me feel like you don’t value our relationship.”\n\nReal people don’t talk like this. Real people talk around things.\n\n“Fine. It’s fine. Have fun at poker.”\n\nThe anniversary isn’t mentioned. The anger comes through anyway. Readers feel smart because they caught what wasn’t said.\n\nEvery line of dialogue has three layers: what the character says, what they mean, and what they’re trying to accomplish. When all three align, the dialogue feels flat. When they conflict, the scene crackles.\n\nA character says “I’m happy for you” while meaning “I’m devastated” while trying to preserve dignity. Three layers. One line. Readers lean in.",
+  "token_estimate": 159
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Authors",
+  "path": "philology-vestnik-article-view-1091-authors",
+  "url": "https://philology-vestnik.buketov.edu.kz/philology-vestnik/article/view/1091",
+  "keywords": [
+    "D.V. Dyakov",
+    "folkloric cyclization",
+    "nominative center",
+    "Ivan in fairy tales",
+    "plot type",
+    "evolution of the character",
+    "10.31489/2025phi4(120)/163-175",
+    "ORCID 0000-0001-6113-6065"
+  ],
+  "use_cases": [
+    "Use when citing the authorship and biographical details of the research",
+    "Use when researching the evolution of the 'Ivan' character in folkloric contexts",
+    "Use when mapping intellectual contributions via DOI and ORCID identifiers"
+  ],
+  "tags": [
+    "metadata",
+    "authorship",
+    "folklore-studies",
+    "academic-publication"
+  ],
+  "priority": 3,
+  "content": "- D.V. Dyakov https://orcid.org/0000-0001-6113-6065\n\nhttps://doi.org/10.31489/2025phi4(120)/163-175\n\nfolkloric cyclization, nominative center, Ivan in fairy tales, plot type, evolution of the character",
+  "token_estimate": 25
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cookie Settings",
+  "path": "en-how-it-works-cookie-settings",
+  "url": "https://symban.de/en/how-it-works",
+  "keywords": [
+    "SYMBAN",
+    "worldbuilding",
+    "QC pass",
+    "long-term memory",
+    "scene instructions",
+    "style guide",
+    "state changes",
+    "compressed summary",
+    "automatic quality control",
+    "plot threads",
+    "metadata logging",
+    "inventory"
+  ],
+  "use_cases": [
+    "Use when drafting multi-chapter novels to ensure narrative consistency across long-term memory",
+    "Implement when requiring automated style and rhythm adjustments based on a custom style guide",
+    "Configure when needing automatic verification of character names, locations, and timelines across volumes",
+    "Use when content redundancy detection is required to prevent repeating information from previous chapters",
+    "Configure when tracking plot thread progress and character involvement via metadata logging"
+  ],
+  "tags": [
+    "AI-writing",
+    "content-generation",
+    "quality-assurance",
+    "workflow"
+  ],
+  "priority": 9,
+  "content": "We use cookies to analyse website usage and improve the experience. You can adjust your settings at any time.\n\nSettingsReject allAccept all\n\nMore information in our Privacy Policy.\n\nHow can we help you?\n\n# From blank document to finished chapter.\n\nEvery scene goes through multiple AI-powered passes — until language, consistency, and memory are right. Here's what happens under the hood.\n\n01\n\nThe first pass generates the raw text.\n\nBased on your scene instructions, worldbuilding, and the entire memory of your novel so far, a first draft is created. No generic output — but text that knows what happened in chapter 1, even when you're writing chapter 40.\n\n02\n\nTighten language, sharpen rhythm.\n\nThe second pass works on style and tone. Repetitions are eliminated, sentence rhythm adjusted, dialogue sharpened — all according to your rules, your style guide.\n\n03\n\nAutomatic quality control against your world.\n\nThe QC pass checks the text against your inventory: Are character names, locations, timelines correct? Are there contradictions with earlier scenes? Errors are automatically fixed — or flagged as warnings.\n\n04\n\nEverything new flows back into memory.\n\nAfter each finished scene, SYMBAN extracts new facts, encounters, and state changes. These are written into long-term memory — so the next scene works with up-to-date information.\n\nBeyond the four main passes, additional mechanisms ensure consistency and quality.\n\nEach volume automatically receives a compressed summary. Volume 5 knows the key scenes from Volume 1 — without you having to maintain them manually.\n\nThe system detects when a scene repeats content that already appeared in earlier chapters — and warns you before the text is finalized.\n\nWhen the QC pass finds errors, it automatically corrects them. After a maximum of 3 attempts, the scene is flagged with warnings instead of iterating endlessly.\n\nEvery produced scene is logged with metadata: Which characters were involved? Which locations? Which open plot threads were touched?",
+  "token_estimate": 414
+}

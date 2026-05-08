@@ -1,0 +1,33 @@
+{
+  "title": "Checklist or steps",
+  "path": "character-development-checklist-or-steps",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "character-construction audit",
+    "core desire",
+    "misbelief",
+    "fatal flaw",
+    "agency",
+    "arc type",
+    "internal tension",
+    "backstory ratio",
+    "psychological need",
+    "protagonist-driven conflict"
+  ],
+  "use_cases": [
+    "Use when performing a developmental editing audit of a manuscript",
+    "Configure when establishing a character profile during early-stage workshops",
+    "Implement when troubleshooting a character that lacks agency or narrative drive",
+    "Use when evaluating the role and necessity of secondary characters in a scene",
+    "Implement when refining dialogue to ensure a distinct character voice"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "content-editing",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "The following elements form a functional character-construction audit sequence used across workshops and developmental editing contexts:\n\n1. Core desire identified — the character has a specific, active want (not a passive state)\n2. Internal vs. external goal distinguished — surface goal and psychological need are articulated separately\n3. Misbelief or fatal flaw named — a specific false belief or dominant flaw shapes behavior\n4. Contradiction present — at least 2 traits that create internal tension are operative\n5. Agency demonstrated — the character makes at least 3 meaningful choices that change the story's direction\n6. Reaction pattern consistent — the character's responses under pressure align with established psychology\n7. Voice distinct — the character's dialogue and thought patterns are distinguishable from every other character\n8. Arc type defined — growth, fall, or flat arc is intentional, not accidental\n9. Backstory used sparingly — the manuscript contains less than 20% of total backstory developed in notes\n10. Secondary characters serve the protagonist — each supporting character illuminates or complicates the central conflict\n\n---",
+  "token_estimate": 228
+}

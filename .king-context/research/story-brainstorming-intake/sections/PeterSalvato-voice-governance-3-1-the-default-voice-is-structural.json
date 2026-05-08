@@ -1,0 +1,32 @@
+{
+  "title": "3.1 The Default Voice Is Structural",
+  "path": "PeterSalvato-voice-governance-3-1-the-default-voice-is-structural",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "structural voice",
+    "post-hoc editing",
+    "paragraph architecture",
+    "abstract concepts",
+    "structural coherence",
+    "model generation patterns",
+    "prose restructuring",
+    "default narrative path",
+    "content abstraction",
+    "sequence demands"
+  ],
+  "use_cases": [
+    "Use when evaluating the feasibility of editing AI-generated content vs. rewriting from scratch",
+    "Configure when defining narrative flow constraints for LLM prompts",
+    "Implement when auditing generated text for structural bias toward abstraction",
+    "Use when teaching users why word-level synonym replacement fails to fix tone issues"
+  ],
+  "tags": [
+    "narrative-design",
+    "ai-writing",
+    "tonal-consistency",
+    "content-strategy"
+  ],
+  "priority": 8,
+  "content": "By the time the model has generated a paragraph, the voice is embedded in the structure, not just the word choice. A paragraph that opens with \"This project explores the intersection of...\" has that shape baked in. The abstract concept leads. The specific situation follows (if it appears at all). The closing resolves neatly.\n\nPost-hoc editing can change the words. It cannot easily change the shape. Rewriting \"This project explores the intersection of\" to \"I walked into a company and found a Windows Forms application\" requires restructuring the entire paragraph, because the second opening demands a different sequence: situation first, then implication. The paragraph was generated around the abstract opening. The structure supports the abstraction. Swapping the opening without rebuilding the structure produces incoherence.",
+  "token_estimate": 164
+}

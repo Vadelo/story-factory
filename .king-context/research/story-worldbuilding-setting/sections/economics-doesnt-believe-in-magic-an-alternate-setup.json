@@ -1,0 +1,32 @@
+{
+  "title": "An Alternate Setup",
+  "path": "economics-doesnt-believe-in-magic-an-alternate-setup",
+  "url": "https://push.cx/economics-doesnt-believe-in-magic",
+  "keywords": [
+    "Talismans",
+    "super-talisman",
+    "$1,000,000",
+    "Net Present Value",
+    "interest rate",
+    "credit card rate",
+    "capitalism",
+    "talisman system",
+    "low‑tech low‑institutional‑trust world"
+  ],
+  "use_cases": [
+    "Use when simulating monetary distribution to 16‑year‑olds via talismans",
+    "Implement when calculating trade‑offs between payment forms and time frames",
+    "Configure when setting up a magical granter to balance value equal to $1,000,000 worth",
+    "Use when modeling societal extraction of value after talisman grants",
+    "Apply when analyzing the impact of low‑institutional trust on talisman‐related theft and warfare"
+  ],
+  "tags": [
+    "simulation",
+    "financial‑modelling",
+    "social‑economics",
+    "game‑design"
+  ],
+  "priority": 5,
+  "content": "Talismans are such a fun idea and we want magical clockpunk worlds that it’s easy to forget they’re a commodity. Let’s imagine another magical world:\n\nImagine a world in which every 16 year old is given $1,000,000 by visiting a super-talisman in a specific place. They can request the form it’ll take: maybe gold bullion, dollars, a check, a jewel, etc. There may be trade-offs: maybe they end up getting $100,400 dollars once per year for ten years (or whatever, I’m not doing the Net Present Value calculation), or maybe their jewel is unpolished and needs finishing, whatever - the magical granter balances it so everyone gets exactly $1,000,000 worth of value. In other places with other super-talismans maybe you can only get specific money-related things like an +1 point on your checking account’s interest rate or -5% to your credit card’s rate. Through some magical handwavey process (capitalism), even these limited bonuses can be transferred to other people.\n\nNow let’s imagine how society incorporates this phenomenon, and keep in mind that the value of these compounds: if I have ten people’s million dollars, I can offer you more for your “$1M over 10 years” and have a tighter profit margin (or just hire more guys to take it from you).\n\nWhat percentage of these 16 year-olds have their million dollars ten years later? A year later? A week later? The society will extract that from them, fast, whether it looks voluntary (“throw yourself an adulthood party!”, “buy your guild apprenticeship”, “make the down payment on your house”, “you get to pay off your childhood debt today”) or mandatory (“it’s a tribute to Phil”, “your money or your life”, “we’re going to borrow your kid for a week and take them to the super-talisman”). People don’t just leave valuable things in other people’s hands, especially not in the hands of inexperienced kids.\n\nThe talisman system has 90% the same problems as this setup (that 10% is the “it stops working when you’re dead”). Getting talismans compounds how easy it is to get more talismans. In a low-tech low-institutional-trust world, this looks like warfare, religion, theft. No matter what, institutions and norms appear to justify and encode these practices.\n\nExtra credit assignment: ⊕2018-10-09: Ah, someone has done the work. in our world, every 16 year old is given this commodity in the form of their future labor as soon they are no longer considered restricted child labor. Explain how society has commodified and extracted this talisman with an eye towards our stunning inequality in wealth. Project textbooks: On The Wealth of Nations, Das Kapital, Samuelson’s Economics.\n\n(If you’re super curious, here’s the original discussion.)",
+  "token_estimate": 589
+}

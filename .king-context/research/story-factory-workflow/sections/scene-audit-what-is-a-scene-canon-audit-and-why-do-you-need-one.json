@@ -1,0 +1,33 @@
+{
+  "title": "What Is a Scene & Canon Audit — and Why Do You Need One?",
+  "path": "scene-audit-what-is-a-scene-canon-audit-and-why-do-you-need-one",
+  "url": "https://proseengine.app/scene-audit",
+  "keywords": [
+    "Scene Audit",
+    "Canon Database",
+    "Continuity Review",
+    "Plot Hole Analysis",
+    "Timeline Consistency",
+    "Character Voice Profiling",
+    "Worldbuilding Rules",
+    "Temporal Logic",
+    "Fact-checking AI",
+    "Severity Ranking"
+  ],
+  "use_cases": [
+    "Use when identifying contradictions in character traits across a multi-book series",
+    "Configure when tracking complex timelines to ensure travel times and date ordering are feasible",
+    "Implement when validating that magic systems or technological rules remain consistent throughout a manuscript",
+    "Use when performing a final quality pass to eliminate plot-breaking inconsistencies before publication",
+    "Implement when monitoring character voice to prevent unintentional shifts in speech patterns and vocabulary"
+  ],
+  "tags": [
+    "quality-assurance",
+    "manuscript-analysis",
+    "continuity-editing",
+    "content-validation"
+  ],
+  "priority": 10,
+  "content": "A scene and canon audit is a systematic, AI-driven review of every scene in your manuscript. It checks each scene against the established facts of your story — your timeline, your characters, your worldbuilding rules, your plot logic — and delivers a pass or fail verdict with detailed reasoning.\n\nThink of it as a continuity editor who has memorized every detail of your book. Did your protagonist have blue eyes in chapter two and brown eyes in chapter nineteen? Did the sun set twice on the same day? Did a character reference an event that has not happened yet? Did you establish that magic requires a spoken incantation in book one but have a character cast silently in book three?\n\nThese are the mistakes that destroy reader trust. A single plot hole in a published novel generates one-star reviews. Readers who catch contradictions stop suspending disbelief — and they never get it back.\n\nHuman editors catch some of these issues, but they are working from memory across hundreds of pages. The scene and canon audit forgets nothing. It cross-references every fact, every timeline event, every character detail, every worldbuilding rule — and flags every contradiction it finds.\n\n🕳\n\nUnresolved plot threads, contradictory events, actions that violate established cause-and-effect, and logical impossibilities. Every plot hole is identified with the exact scenes involved and an explanation of the contradiction.\n\n🕓\n\nEvent ordering, date consistency, travel time feasibility, and temporal logic. If your character is in Paris on Monday and Tokyo on Tuesday without air travel, the audit catches it. Tracks day/night cycles, seasons, and elapsed time.\n\n👤\n\nTracks character development across every scene. Catches personality regressions, knowledge contradictions (a character knowing something they should not), and motivation shifts that are not supported by events in the story.\n\n🎙\n\nEach character's speech patterns, vocabulary, and mannerisms are profiled and monitored. If your street-smart thief suddenly speaks like a professor, or your reserved introvert delivers a rousing monologue without narrative justification, it is flagged.\n\n🌍\n\nMagic systems, technology rules, geography, political structures, cultural norms — every worldbuilding detail established in your manuscript is tracked. Contradictions between what you established and what you later wrote are caught automatically.\n\n⚠\n\nEvery issue is ranked: critical (plot-breaking, readers will definitely notice), major (significant inconsistency that damages credibility), or minor (small continuity detail). Fix the critical issues first, address the rest at your own pace.\n\nUpload your manuscript, run the audit, and get a complete consistency report. No setup required.\n\n1\n\nThe audit reads your entire manuscript and builds a comprehensive canon database — every character detail, timeline event, worldbuilding rule, and plot point. This becomes the source of truth for your story.\n\n2\n\nEach scene is analyzed against the canon database. The AI checks for contradictions, timeline errors, character inconsistencies, and lore violations. Every scene receives a pass or fail verdict with detailed reasoning.\n\n3\n\nIssues are presented ranked by severity with exact scene locations, the conflicting facts, and clear explanations. You decide what to fix and what to keep — the audit gives you the information, not the mandate.",
+  "token_estimate": 682
+}

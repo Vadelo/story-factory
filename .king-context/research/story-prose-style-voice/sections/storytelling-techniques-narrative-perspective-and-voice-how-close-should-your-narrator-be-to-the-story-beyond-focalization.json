@@ -1,0 +1,28 @@
+{
+  "title": "Beyond Focalization",
+  "path": "storytelling-techniques-narrative-perspective-and-voice-how-close-should-your-narrator-be-to-the-story-beyond-focalization",
+  "url": "https://digitalphrases.com/storytelling-techniques/narrative-perspective-and-voice/how-close-should-your-narrator-be-to-the-story/",
+  "keywords": [
+    "narrative distance",
+    "focalization",
+    "fixed focalization",
+    "perspective",
+    "emotional restraint",
+    "The Remains of the Day",
+    "Kazuo Ishiguro",
+    "character perspective"
+  ],
+  "use_cases": [
+    "Use when distinguishing between the filter of a character's perspective and the emotional proximity to the reader",
+    "Implement when crafting shifts in emotional intensity within a singular character's viewpoint",
+    "Configure when analyzing how formal narration creates psychological distance between the narrator and the audience"
+  ],
+  "tags": [
+    "narrative-theory",
+    "literary-device",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "It’s tempting to conflate narrative distance with focalization, but they’re not quite the same. Focalization is about whose perspective we’re seeing through. Narrative distance is about how tightly we’re tied to that perspective at any given moment.\n\nA novel like Kazuo Ishiguro’s The Remains of the Day is a brilliant example. The entire novel is filtered through Stevens’ perspective (fixed focalization), but the narrative distance shifts subtly. When Stevens reflects on past regrets, the distance tightens — we feel the raw edges of his repressed emotion. But in his formal accounts of daily life, the narration holds us at arm’s length, echoing his emotional restraint.",
+  "token_estimate": 139
+}

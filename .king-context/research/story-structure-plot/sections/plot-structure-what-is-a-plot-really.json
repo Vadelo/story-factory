@@ -1,0 +1,33 @@
+{
+  "title": "What is a plot, really?",
+  "path": "plot-structure-what-is-a-plot-really",
+  "url": "https://self-publishingschool.com/plot-structure/",
+  "keywords": [
+    "plot structure",
+    "exposition",
+    "inciting incident",
+    "rising action",
+    "climax",
+    "falling action",
+    "resolution",
+    "narrative tension",
+    "conflict escalation",
+    "protagonist",
+    "story arc"
+  ],
+  "use_cases": [
+    "Use when outlining a novel to ensure a clear progression of exposition, rising action, and resolution.",
+    "Apply when writing a screenplay to map out the inciting incident and climax for maximum dramatic impact.",
+    "Implement when crafting a series episode to tie loose ends and open new loops for future installments.",
+    "Configure when teaching creative writing to demonstrate how tension and conflict evolve through plot beats."
+  ],
+  "tags": [
+    "plot",
+    "storytelling",
+    "creative-writing",
+    "literature"
+  ],
+  "priority": 10,
+  "content": "A plot is the sequence of events that make up a story. It’s what’s happening in any given chapter, the actions that are moving the story forward.\n\nIt involves a structured arrangement of incidents and actions that create the framework for a narrative. The plot is essential for building tension, developing characters, and conveying themes.\n\nThe main components of a plot typically include:\n\n1. Exposition: This is the introduction to the story, where the setting, characters, and basic situation are established (though not done in the dreaded info-dump fashion). It provides the background information needed to understand the context of the narrative, and is actually delivered as a part of the story itself using showing instead of telling.\n2. Inciting Incident: An event or decision that begins the story’s main conflict. It sets the protagonist on their journey and drives the action forward. The goal with an inciting incident is that it has to change the main character’s life forever. If they can still live the same life despite it happening, it isn’t strong enough to carry the story.\n3. Rising Action: A series of events that create suspense, tension, and interest. This is where the conflict becomes more complicated, and various obstacles or challenges arise, leading up to the climax. It’s the bulk of your book, taking up the largest sections (you’ll see below).\n4. Climax: The turning point or the most intense moment of the story. It’s where the main conflict reaches its peak, and the protagonist faces their greatest challenge. Everything has come to a head in this section, where the stakes are tested and the plot’s main conflict is resolved.\n5. Falling Action: Events that follow the climax and begin to resolve the conflict. The tension decreases, and the story starts moving towards its conclusion. Usually, this is the section where information is revealed that explains other open loops in the story.\n6. Resolution: The conclusion of the story, where loose ends are tied up, conflicts are resolved, and the story comes to a satisfying end. If you’re writing a series, this may be the area where new loops are opened that have to be resolved in the next book. But keep in mind, these loops cannot prevent this book’s main conflict from being resolved.\n\nAs you can see, the term “plot” covers a lot of ground in storytelling. That’s why it’s helpful to have a plot structure to keep it all organized.",
+  "token_estimate": 541
+}

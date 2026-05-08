@@ -1,0 +1,19 @@
+{
+  "title": "Relationships",
+  "path": "relationships",
+  "url": "local://works/a-margem-que-devora-o-heroi#relationships",
+  "keywords": [
+    "relationships",
+    "characters"
+  ],
+  "use_cases": [
+    "Recall relationships for story continuation"
+  ],
+  "tags": [
+    "relationships",
+    "characters"
+  ],
+  "priority": 8,
+  "content": "[\n  {\n    \"pair\": [\n      \"Davi\",\n      \"Yerin\"\n    ],\n    \"dynamic\": \"Contato impossível entre margem e personagem; Davi altera enquadramentos para devolver agência a Yerin, mas corre o risco de manipulá-la de outra forma.\"\n  },\n  {\n    \"pair\": [\n      \"Davi\",\n      \"Kael\"\n    ],\n    \"dynamic\": \"Conflito entre editor invisível e herói absoluto que acredita possuir a página.\"\n  }\n]",
+  "token_estimate": 70
+}

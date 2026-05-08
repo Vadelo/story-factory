@@ -1,0 +1,36 @@
+{
+  "title": "Option 2: Direct Python API",
+  "path": "silkspace-llm-knowledge-graph-option-2-direct-python-api",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "kg.add()",
+    "kg.query()",
+    "KnowledgeGraph",
+    "kg_production",
+    "DuckDB",
+    "Claude API",
+    "Firecrawl",
+    "semantic embedding",
+    "auto-clustering",
+    "kg stats",
+    "get_all_documents_df",
+    "mcp__firecrawl_mcp__firecrawl_scrape"
+  ],
+  "use_cases": [
+    "Use when a direct Python interface is required for knowledge graph management instead of MCP",
+    "Implement when ingesting unstructured data formats like raw markdown strings or arbitrary dictionaries",
+    "Configure when needing granular control over semantic query parameters like top_k results",
+    "Use when bulk processing scraped content from tools like Firecrawl into a vector database",
+    "Implement when requiring direct access to underlying data via DuckDB or Pandas DataFrames"
+  ],
+  "tags": [
+    "python-api",
+    "data-ingestion",
+    "vector-database",
+    "machine-learning",
+    "knowledge-graph"
+  ],
+  "priority": 10,
+  "content": "For more control or when MCP is not available:\n\n#### kg.add() - Maximally Flexible\n\n**kg.add() accepts ANYTHING:**\n\n- Firecrawl result dict → ✅ Added\n- Any dict with content → ✅ Added\n- Raw markdown string → ✅ Added\n- Document object → ✅ Added\n- Arbitrary dict with no expected keys → ✅ Stringified and added\n\n**Primary workflow:**\n\n```python\n# 1. Scrape with Firecrawl MCP\nscraped = mcp__firecrawl_mcp__firecrawl_scrape(\n    url=\"https://example.com/paper.pdf\",\n    formats=[\"markdown\"]\n)\n\n# 2. Add to knowledge graph - just pass the dict!\nfrom kg_production import KnowledgeGraph\n\nkg = KnowledgeGraph()\n\nresult = kg.add(scraped)  # That's it!\n# → Auto-analyzes with Claude API\n# → Auto-embeds semantically\n# → Auto-clusters by similarity\n# → Auto-stores in DuckDB\n\n# Check result\nif result['status'] == 'success':\n    print(f\"✅ {result['area_code']} - {result['cluster_name']}\")\n    # Example: physics.quantum.entanglement - Quantum Mechanics Fundamentals\n```\n\n**Alternative - add raw content:**\n\n```python\n# Just markdown text\nkg.add(\"# My Research Notes\\n\\nLots of content here...\")\n\n# Any dict\nkg.add({'experiment': 'data', 'notes': 'observations'})\n\n# All work - kg.add() figures it out!\n```\n\n```bash\nkg query \"quantum mechanics entanglement\" 5\n# Returns top 5 semantically similar documents\n```\n\n```bash\nkg stats  # Total docs, clusters, dimensions\nkg show <doc_id>  # Specific document by unique ID\n```\n\n```bash\n# After scraping many URLs with Firecrawl:\ncat scraped_batch.json | ./batch_ingest.sh\n```\n\nFor bespoke pipelines when you need more control:\n\n```python\nfrom kg_production import KnowledgeGraph\n\nkg = KnowledgeGraph()\n\n# Add a document - kg.add() accepts dict, ScrapedDocument, or str\nresult = kg.add({\n    \"url\": \"https://example.com/paper.pdf\",\n    \"markdown\": content,\n    \"metadata\": {\"title\": \"Paper Title\"}\n})\n# → Automatically analyzed, embedded, clustered, stored\n\n# Query the graph\nresults = kg.query(\"quantum mechanics\", top_k=5)\nfor doc in results:\n    print(f\"{doc['similarity']:.3f} - {doc['title']}\")\n\n# Access database directly\nstats = kg.get_stats()\ndf = kg.db.get_all_documents_df()\n```",
+  "token_estimate": 381
+}

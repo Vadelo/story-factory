@@ -1,0 +1,36 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2604.22142v1-1-introduction",
+  "url": "https://arxiv.org/html/2604.22142v1",
+  "keywords": [
+    "stylometric markers",
+    "EmpathicStories corpus",
+    "GPT-5.4",
+    "Claude Sonnet 4.6",
+    "Gemini 3.1 Pro",
+    "directional convergence",
+    "narrative stance",
+    "voice-preserving prompts",
+    "lexical patterning",
+    "register studies",
+    "textual mediation",
+    "source-text recoverability"
+  ],
+  "use_cases": [
+    "Use when evaluating how LLM rewriting shifts linguistic features in personal narratives",
+    "Implement when comparing cross-model convergence across different AI providers",
+    "Configure when testing the efficacy of voice-preserving prompts versus generic improvement instructions",
+    "Use when analyzing the impact of AI normalization on computational stylistics",
+    "Implement when investigating shifts from embedded to distanced narration in AI-mediated text"
+  ],
+  "tags": [
+    "computational-stylistics",
+    "narrative-analysis",
+    "digital-humanities",
+    "llm-evaluation",
+    "linguistics"
+  ],
+  "priority": 10,
+  "content": "Texts never reach analysis in a pristine state. DH scholarship has long shown that the textual surface available for interpretation is often shaped by transcription, OCR correction, digitization, and editorial normalization rather than preserved as a transparent record of production (Kirschenbaum, 2013; Hinrichs et al., 2019; Trace, 2022). The question of what happens to text between production and analysis is, in this sense, a longstanding one.\n\nThe current article extends that question to a new site of mediation: AI-assisted writing. Grammar checkers, predictive text, smart compose features, and chat-based writing assistants now intervene routinely in everyday writing. Where earlier tools applied rule-based corrections, current systems operate probabilistically and at the level of meaning, recasting phrasing, compressing or elaborating content, and reshaping textual form.\n\nThis matters especially for personal narratives, where readers are more readily invited to treat textual features as traces of a real, situated self rather than as properties of a fictional construct. The textual surface of such narratives—including features such as contractions, lexical patterning, and first-person referencing—is often read as evidence of voice and lived experience. AI-assisted revision in personal narratives, therefore, exemplifies a methodological problem for DH: it can alter precisely those features scholars may later treat as analytically meaningful.\n\nPrior work suggests that AI-assisted revision can regularize style, but it is not yet well established whether LLM rewriting systematically shifts the specific linguistic features that carry evidential weight in narrative analysis, or whether such shifts converge across models. To examine this, the study submits 300 personal narratives from the EmpathicStories corpus (Shen et al., 2023) to three frontier LLMs (GPT-5.4, Claude Sonnet 4.6, and Gemini 3.1 Pro) under three prompt conditions: generic improvement, rewrite-only, and voice-preserving improvement. Together, these conditions distinguish between broad revision, non-evaluative rewriting, and explicit instruction to preserve authorial voice.111While literary and narrative theory often treats voice as a complex amalgamation of identity and social location, for the purposes of this empirical study “voice” is operationalized as variance across the selected stylometric markers. These markers were not chosen to define voice but are grounded independently in prior stylometric and register research (Stamatatos, 2009; Biber, 1988). The analysis measures change across 13 markers grounded in computational stylistics and register studies, including function word ratios, vocabulary richness measures, and markers of informal register.\n\nThe central finding is directional convergence. All three models push all 13 selected markers in the same direction. Function words and first-person pronouns decrease; vocabulary diversity, word length, and punctuation elaboration increase. This pattern holds whether the prompt says “improve” or merely “rewrite,” suggesting a shared directional tendency in current LLM rewriting. Voice-preserving prompts reduce effect magnitude but largely preserve the direction of transformation. The result is a consistent pull toward a more polished, less situated register, in which contractions become full forms, repetition becomes variation, and informal phrasing becomes standard prose. Some rewrites also exhibit stylization, adding expressive markers (dramatic emphasis, literary phrasing) absent from the original. As this stylometric convergence raises the question of what this compression means for narrative itself, the study also examines how rewriting affects narrative stance along dimensions of narrated positioning (embedded vs. distanced) and explanatory style (explicit vs. compressed).\n\nThis study makes three contributions. First, it shows that user control is asymmetric. Voice-preserving prompts effectively suppress additive changes (stylization, elaboration of individual texts) but are less effective at preserving features the model tends to remove (contractions, first-person density, function words). Second, the study documents cross-model convergence: GPT-5.4, Claude Sonnet 4.6, and Gemini 3.1 Pro—developed by different companies with different training mixtures and alignment techniques—push all 13 selected markers in the same direction, though with substantial variation in magnitude (mean $|d|$ ranges from 0.60 to 1.45 across models). Third, the study demonstrates practical consequences for DH methods: rewritten texts converge in stylometric space, and source-text recoverability drops substantially (from 14.3% for GPT-5.4 to near-chance levels for Claude and Gemini). At the level of narrative stance, LLM rewriting produces two linked shifts: eventive markers decrease while retrospective framing increases (a shift from embedded to distanced narration), and causal connectives decrease while abstraction increases (a shift from explicit reasoning to compressed interpretation). The features most strongly affected are those central to stylometric analysis; the stance dimensions most affected are those through which narrators position themselves toward their own experience. Together, these findings suggest that normalization is a structural feature of current LLM rewriting.\n\nThis article sits at the intersection of digital humanities work on textual mediation, research on stylistic evidence in narrative analysis, and emerging scholarship on AI-assisted writing. While scholars have shown that texts are shaped by editorial, archival, and computational interventions, less is known about whether LLM-based revision systematically alters the linguistic features that humanists later treat as evidence of voice, perspective, and narrative form.",
+  "token_estimate": 1049
+}

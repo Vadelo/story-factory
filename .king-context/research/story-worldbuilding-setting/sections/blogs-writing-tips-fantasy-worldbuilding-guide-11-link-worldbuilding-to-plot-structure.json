@@ -1,0 +1,36 @@
+{
+  "title": "11: Link worldbuilding to plot structure",
+  "path": "blogs-writing-tips-fantasy-worldbuilding-guide-11-link-worldbuilding-to-plot-structure",
+  "url": "https://www.quillandsteel.com/blogs/writing-tips/fantasy-worldbuilding-guide",
+  "keywords": [
+    "worldbuilding",
+    "story conflicts",
+    "premise",
+    "problem",
+    "conflict",
+    "plot structure",
+    "magic corrupts environment",
+    "political intrigue",
+    "moral dilemmas",
+    "personal sacrifice",
+    "fantasy novel",
+    "guide"
+  ],
+  "use_cases": [
+    "Use when building a fantasy story that needs conflict-driven plot arcs",
+    "Implement when structuring a plot around environmental impacts of magic",
+    "Configure when designing stakes that balance magical power with ecological consequences",
+    "Use when outlining political intrigue tied to magical regulation",
+    "Use when creating moral dilemmas for characters wielding powerful magic"
+  ],
+  "tags": [
+    "storytelling",
+    "worldbuilding",
+    "plot design",
+    "fantasy",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Effective fantasy worldbuilding generates story conflicts instead just providing exotic settings.\n\nUse this progression: Premise → Problem → Conflict → Plot\n\nExample:\n\n- Premise → Magic corrupts the environment\n- Problem → Magic wielders are feared and regulated\n- Conflict → A powerful wielder must choose between using magic to save lives or preserving the ecosystem\n- Plot → Political intrigue, moral dilemmas, and personal sacrifice\n\nIf you want to bring this all together, see my guide on how to plot a fantasy novel.",
+  "token_estimate": 111
+}

@@ -1,0 +1,32 @@
+{
+  "title": "1. Professional Story Structure Templates",
+  "path": "features-1-professional-story-structure-templates",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "PlotForge",
+    "3-Act Structure",
+    "Hero’s Journey",
+    "Save the Cat",
+    "7-Point Plot",
+    "Freytag’s Pyramid",
+    "scene beats",
+    "story templates",
+    "monomyth",
+    "dramatic arc"
+  ],
+  "use_cases": [
+    "Use when starting a new manuscript to overcome blank page paralysis",
+    "Implement when a story requires a proven structural framework like the Hero's Journey",
+    "Configure when customizing specific scene beats within a 15-beat screenplay structure",
+    "Use when applying a genre-agnostic plot arc to fantasy or thriller novels"
+  ],
+  "tags": [
+    "storytelling",
+    "templates",
+    "product-features",
+    "writing-tools"
+  ],
+  "priority": 10,
+  "content": "Start with proven frameworks used by bestselling authors.\n\nStop staring at blank pages. PlotForge includes 5 professional story templates that give you instant structure: 3-Act Structure, Hero’s Journey, Save the Cat, 7-Point Plot, and Freytag’s Pyramid. One click applies pre-filled scene beats you can customize to your story.\n\n#### Available Templates\n\n- 3-Act Structure: Classic beginning, middle, end with clear turning points\n- Hero’s Journey: Joseph Campbell’s monomyth for epic adventures\n- Save the Cat: Blake Snyder’s 15-beat screenplay structure\n- 7-Point Plot: Dan Wells’s structure for tight plotting\n- Freytag’s Pyramid: Traditional dramatic arc with rising/falling action\n\n#### Writer Benefits\n\n- Overcome blank page paralysis instantly\n- Learn proven story structures by using them\n- Customize every beat to fit your unique story\n- Perfect for first-time novelists and experienced authors alike\n- Genre-agnostic: works for fantasy, romance, thriller, literary fiction\n\n🆕 NEW FEATURE",
+  "token_estimate": 192
+}

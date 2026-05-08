@@ -1,0 +1,32 @@
+{
+  "title": "Getting Credible Responses",
+  "path": "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-credible-responses",
+  "url": "https://neo4j.com/blog/genai/knowledge-graph-vs-vectordb-for-retrieval-augmented-generation/",
+  "keywords": [
+    "vector database",
+    "knowledge graph",
+    "nodes",
+    "relationships",
+    "factual inference",
+    "query flow",
+    "response accuracy",
+    "explainable AI",
+    "data connectivity",
+    "information retrieval"
+  ],
+  "use_cases": [
+    "Use when high precision and factual accuracy are required for organizational queries",
+    "Implement when response explainability and audit trails for AI-generated answers are necessary",
+    "Configure when searching for structured relationships between entities rather than semantic similarity",
+    "Use when preventing hallucinations caused by incorrect inferences in vector-only search systems"
+  ],
+  "tags": [
+    "data-architecture",
+    "search-optimization",
+    "knowledge-graphs",
+    "ai-reliability"
+  ],
+  "priority": 9,
+  "content": "Vector databases can connect two factual pieces of information together and infer something inaccurate.\n\nFor example: If you asked: “Who is on the product management team?”, a vector database might incorrectly infer that someone was on the product team because they have frequent commenting access to documents (fact) produced by the product team (fact) and return their name in the results. Because a knowledge graph uses nodes and relationships to identify how people in an organization are related, it would return only those on the product team.\n\nKnowledge graph queries follow a flow of connected information, making responses consistently accurate and explainable.",
+  "token_estimate": 135
+}

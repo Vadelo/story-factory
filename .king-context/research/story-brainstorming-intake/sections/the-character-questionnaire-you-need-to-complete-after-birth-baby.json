@@ -1,0 +1,29 @@
+{
+  "title": "After Birth – Baby",
+  "path": "the-character-questionnaire-you-need-to-complete-after-birth-baby",
+  "url": "https://www.writerswrite.co.za/the-character-questionnaire-you-need-to-complete",
+  "keywords": [
+    "character development",
+    "backstory",
+    "physical attributes",
+    "parental expectations",
+    "caregiver dynamics",
+    "societal pressure",
+    "origin story",
+    "birth circumstances"
+  ],
+  "use_cases": [
+    "Use when detailing a character's physical appearance such as height and weight",
+    "Implement when establishing the formative relationship between a character and their caregiver",
+    "Configure when defining the socioeconomic environment into which a character is born",
+    "Use when identifying external societal expectations that influence a character's growth"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-building",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "Describe the character physically: hair colour, eye colour, weight, height.\n\nThen answer these questions:\n\n1. Was your character raised by one of these parents? One or both of them?\n2. If not, who was the caregiver? What was the relationship between the two of them? How did it affect your character?\n3. Into what circumstances is your character born?\n4. How are they dressed?\n5. Are the character’s parents / caregivers happy with the sex of the child?\n6. What expectation do the character’s parents / caregivers have for this child?\n7. Does society expect something from the character?\n\n![The Only Character Questionnaire You Need](https://www.writerswrite.co.za/the-character-questionnaire-you-need-to-complete)",
+  "token_estimate": 139
+}

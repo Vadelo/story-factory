@@ -1,0 +1,32 @@
+{
+  "title": "Global Turning Point",
+  "path": "analyzing-story-structure-global-fiction-global-turning-point",
+  "url": "https://www.irismarshedits.com/analyzing-story-structure-global-fiction",
+  "keywords": [
+    "global turning point",
+    "midpoint",
+    "Mirror Moment",
+    "Save the Cat!",
+    "false victory",
+    "false defeat",
+    "reactive",
+    "active",
+    "change tactics",
+    "strategy"
+  ],
+  "use_cases": [
+    "Use when identifying the narrative pivot that reshapes the protagonist’s journey.",
+    "Implement when deciding whether the protagonist will shift from reactive to active.",
+    "Configure when determining if the midpoint presents a false victory or defeat.",
+    "Use when aligning the stakes of the turning point with the chosen genre.",
+    "Implement when confirming the midpoint fits the story trajectory up to that point."
+  ],
+  "tags": [
+    "story structure",
+    "plot mechanics",
+    "writing guidelines"
+  ],
+  "priority": 9,
+  "content": "This is the midpoint or Mirror Moment of your book. You can usually find it literally halfway through your book, around the 50% mark.\n\nHere, something happens that forces your protagonist to change tactics: they start to realize they need to change.\n\nInstead of being reactive, reacting to things happening in the story, usually caused by the antagonist, they become active and start to do things that affect the story.\n\nAccording to Save the Cat!, the midpoint either has a false victory or false defeat, depending on the general trajectory of the story up until that point.\n\nIn short, check:\n\nWhat is your global turning point?\n\nDoes it force your character to become active rather than reactive? Do they need to change their strategy?\n\nIs it a false victory or a false defeat, and does that fit with the trajectory of the story so far?\n\nAre the stakes of the event tied to the genre you're writing in?",
+  "token_estimate": 210
+}

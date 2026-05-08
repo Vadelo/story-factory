@@ -1,0 +1,31 @@
+{
+  "title": "Part 2: Planning & Ideation",
+  "path": "news-Narrative-Design-Part-2-part-2-planning-ideation",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "Master Narrative Pipeline",
+    "planning and ideation",
+    "narrative development pipeline",
+    "pre-production",
+    "pipeline deliverables",
+    "game development lifecycle",
+    "flowchart",
+    "alpha and beta production",
+    "post-production"
+  ],
+  "use_cases": [
+    "Use when establishing a standardized workflow for story-driven game development",
+    "Implement when mapping out phase-specific deliverables for narrative teams",
+    "Configure when adapting a general development framework to specific project constraints",
+    "Use when tracking the transition from ideation to pre-production milestones"
+  ],
+  "tags": [
+    "project-management",
+    "game-design",
+    "workflow-optimization",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "This is part one in a series of posts about process: what does a narrative development pipeline look like? We are going to examine each step in the process, starting with planning and ideation (followed by pre-production, production (alpha and beta), and post-production). We are essentially giving all of you our Master Narrative Pipeline document as a series of posts.\n\n![Narrative Blog Part 2(1).png](https://blindsquirrel-staging-media.sfo3.cdn.digitaloceanspaces.com/3106d0b49920061921e32996bbc4d75f.png)\n\n(Here is an overview of our pipeline deliverables for each phase of development. Each phase will get its own deep-dive post in the coming weeks.)\n\n![DESIGN BLOG 2_1.png](https://blindsquirrel-staging-media.sfo3.cdn.digitaloceanspaces.com/de0a153c9c5bf2b610ff9d21056d6bd6.png)\n\nThese steps are (kind of) in order… the thing with game development pipelines is that they will inevitably be thrown out the window and rearranged at some point. It depends on the project. Sometimes you start with a vague hook, sometimes a mechanic, or even a world.\n\nAlso, you might not need every step (this is especially the case in later parts of the process). We just want to be thorough so you have every step you MIGHT need in an order that MIGHT serve you well. I start each project by looking at my Master Narrative Pipeline document and figuring out what steps, in what order, will work best – and then prepare for all of that to change down the line. Those who do not adapt will perish! (or just make a crap game.)\n\nA final note: These steps are a living document. We are always learning from new projects, from other people in the industry, from our successes and failures, and refining the process for the next go around.\n\nSo. Phase one:\n\nHere is an overview of the pipeline for planning and ideation in flowchart form.\n\n![DESIGN BLOG 2_2.png](https://blindsquirrel-staging-media.sfo3.cdn.digitaloceanspaces.com/a1d59ab58e1cb36c862279e4309c9f6f.png)",
+  "token_estimate": 377
+}

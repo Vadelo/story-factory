@@ -1,0 +1,33 @@
+{
+  "title": "1. The Unexpected Character",
+  "path": "blog-ai-story-prompts-guide-1-the-unexpected-character",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "character-contrast",
+    "narrative-format",
+    "emotional-juxtaposition",
+    "concrete-details",
+    "ticking-clock",
+    "story-momentum",
+    "prompt-engineering",
+    "conflict-generation",
+    "story-templates",
+    "creative-interpretation"
+  ],
+  "use_cases": [
+    "Use when prompting AI for narratives that avoid generic tropes or pre-loaded story templates.",
+    "Implement when designing prompts to increase narrative momentum through time pressure constraints.",
+    "Configure when seeking more focused and surprising outputs by applying non-traditional formats like Amazon reviews.",
+    "Use when looking to anchor AI-generated fiction in reality using specific, history-laden objects.",
+    "Implement when wanting to subvert genre expectations by applying contrasting emotional tones."
+  ],
+  "tags": [
+    "prompt-engineering",
+    "creative-writing",
+    "ai-best-practices",
+    "content-generation"
+  ],
+  "priority": 8,
+  "content": "Skip \"a brave knight\" or \"a detective.\" Those characters come with pre-loaded story templates the AI will default to. Instead, choose characters that create immediate story questions:\n\n- \"Retired assassin's pottery class\"\n- \"Time traveler's job interview\"\n- \"Dragon's therapy session\"\n\nSee how each character combination suggests conflict? A retired assassin doing something peaceful. A time traveler in a mundane situation. A mythical creature in a modern setting. These contrasts give AI something interesting to explore.\n\nInstead of asking for \"a story,\" specify an interesting format:\n\n- \"Amazon reviews reveal murder\"\n- \"Wedding vows contain confession\"\n- \"Breaking: Local man discovers [your element]\"\n\nFormats like diary entries, text messages, news articles, or reviews force the AI to be creative within boundaries. This produces more focused, surprising narratives than open-ended story requests.\n\nOne emotion word transforms generic plots. But skip obvious choices like \"scary\" for horror or \"romantic\" for romance. Choose unexpected emotions:\n\n- Horror + nostalgic: \"Childhood home's new resident\"\n- Romance + bitter: \"Ex-lovers' joint custody\"\n- Sci-fi + melancholic: \"Earth's last broadcast received\"\n\nThe emotion doesn't have to match the genre. Often, contrasting emotions create the most compelling stories.\n\nConcrete details anchor AI stories in reality. But choose objects that suggest larger stories:\n\n- \"Unopened letter, forty years\"\n- \"Single glove, subway platform\"\n- \"Phone number in library book\"\n\nThese objects imply history, mystery, and human connection. They're specific enough to ground the story but open-ended enough to allow creative interpretation.\n\nNothing creates story momentum like a ticking clock:\n\n- \"Three minutes until\"\n- \"Last day before\"\n- \"Midnight deadline\"\n\nTime pressure forces things to happen. Characters must act. Decisions have consequences. Stories move.\n\nLet me show you how these elements combine into prompts that consistently produce engaging stories. I've tested each of these across multiple AI story generators.",
+  "token_estimate": 400
+}

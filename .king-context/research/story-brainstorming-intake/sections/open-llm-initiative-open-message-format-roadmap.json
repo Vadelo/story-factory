@@ -1,0 +1,31 @@
+{
+  "title": "Roadmap",
+  "path": "open-llm-initiative-open-message-format-roadmap",
+  "url": "https://github.com/open-llm-initiative/open-message-format",
+  "keywords": [
+    "Open Completions API",
+    "dependentRequired",
+    "OpenAPI 3.1.0",
+    "ContentItem",
+    "Metadata object",
+    "completion_tokens",
+    "prompt_tokens",
+    "timestamp",
+    "message metadata parameter"
+  ],
+  "use_cases": [
+    "Use when tracking future standard compliance for OpenAPI 3.1.0 and dependentRequired keywords",
+    "Implement when planning Token usage monitoring via completion_tokens and prompt_tokens",
+    "Configure when requiring enhanced message auditing through extended metadata parameters",
+    "Use when evaluating the long-term architectural stability of the Open Completions API"
+  ],
+  "tags": [
+    "roadmap",
+    "api-specification",
+    "metadata",
+    "future-work"
+  ],
+  "priority": 4,
+  "content": "Future improvements include:\n\n| Feature or Improvement | Description |\n| --- | --- |\n| Additional message metadata parameter | Allows servers to gain more insight into the origins or details of the messages object before it is sent to an LLM. |\n| Extended version of the spec for Open Completions API | Currently being worked on to provide more robust functionality. |\n| `dependentRequired` keyword for OpenAPI 3.1.0 | Will be implemented once more tools support OpenAPI 3.1.0, ensuring content types align with the `type` in `ContentItem`. |\n| Add more details to the `Metadata` object. | Possible additions include a `timestamp` parameter, a `completion_tokens` parameter, and a `prompt_tokens` parameter |\n\nWe encourage you to suggest and upvote new possible roadmap items via github issues.",
+  "token_estimate": 170
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Properties",
+  "path": "the-writing-loop-properties",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "cache revalidation",
+    "memoized pipeline",
+    "resourceId",
+    "constraint files",
+    "structured telemetry",
+    "no-deploy publishing",
+    "feedback cycle",
+    "observable uncertainty",
+    "instruction-following model",
+    "multi-author support"
+  ],
+  "use_cases": [
+    "Use when content changes need to be live in under 60 seconds without a new deployment",
+    "Implement when pipeline stability is required to prevent data corruption during crashes",
+    "Configure when authorial voice and opinions must remain strictly human-driven",
+    "Use when feedback cycles need to contribute to continuous model improvement via constraint files",
+    "Implement when high-stakes claims require verification via structured telemetry logs"
+  ],
+  "tags": [
+    "system architecture",
+    "content management",
+    "reliability",
+    "observability"
+  ],
+  "priority": 9,
+  "content": "The system has these properties when built correctly:\n\n- No-deploy publishing. Content changes are live in < 60 seconds via cache revalidation.\n- Durable edits. Pipeline steps are memoized. A crash mid-rewrite doesn’t corrupt the article.\n- Verified rewrites. A second LLM pass catches silently ignored feedback.\n- Compound improvement. Each feedback cycle can update the constraint files, improving all future output.\n- Author sovereignty. The AI cannot fabricate the author’s voice, opinions, or experiences. The constraint files are explicit about this.\n- Observable uncertainty. Unresolved claims are tagged and logged with structured telemetry.\n\n- Authentication for the feedback UI (you probably want it)\n- Multi-author support (extend`resourceId` scheme)\n- Feedback moderation (add a review queue before the pipeline)\n- Analytics on feedback patterns (useful, but build it after the core loop works)\n- The specific LLM or inference provider (any instruction-following model works)",
+  "token_estimate": 191
+}

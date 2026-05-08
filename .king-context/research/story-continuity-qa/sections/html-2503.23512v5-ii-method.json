@@ -1,0 +1,32 @@
+{
+  "title": "II Method",
+  "path": "html-2503.23512v5-ii-method",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "SCORE",
+    "LLM-based evaluation",
+    "episode summaries",
+    "retrieval-augmented generation",
+    "RAG",
+    "narrative consistency",
+    "story coherence",
+    "item status extraction",
+    "automatic generation",
+    "user interaction"
+  ],
+  "use_cases": [
+    "Implement when needing to assess the coherence of key story elements in long-form narratives",
+    "Configure when generating automatic episode summaries to track complex plot developments",
+    "Use when narrative inconsistencies need to be resolved via a RAG-based query system",
+    "Use when tracking moving item statuses or character states across multiple episodes"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "RAG",
+    "evaluation-framework",
+    "LLM"
+  ],
+  "priority": 9,
+  "content": "Our proposed method, SCORE, consists of three main components: (1) an LLM-based evaluation framework to assess the coherence of key story elements, (2) automatic generation of episode summaries to track plot development, and (3) a retrieval-augmented generation (RAG) approach that integrates the first two components, enabling enhanced user interaction and ensuring narrative consistency.\n\nAs the framework is intended solely for academic research purposes, its use is consistent with the original access conditions of all incorporated tools and data sources.\n\n![Refer to caption](https://arxiv.org/html/framework.jpg)\n\nFigure 1: The SCORE framework for improving AI-generated story coherence. (a) Extracts key item statuses per episode. (b) Conducts detailed analysis and summaries of each episode. (c) Uses RAG to answer user queries and resolve narrative inconsistencies.",
+  "token_estimate": 158
+}

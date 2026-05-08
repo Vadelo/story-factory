@@ -1,0 +1,37 @@
+{
+  "title": "How do sequences underpin traditional 3-act screenplay structure?",
+  "path": "screenplay-structure-how-do-sequences-underpin-traditional-3-act-screenplay-structure",
+  "url": "https://www.scriptreaderpro.com/screenplay-structure/",
+  "keywords": [
+    "3-act structure",
+    "five major plot points",
+    "call to action",
+    "big decision",
+    "midpoint",
+    "all is lost",
+    "all is joy",
+    "climax",
+    "seven sequences",
+    "conflict buildup",
+    "page anchoring",
+    "screenplay structure"
+  ],
+  "use_cases": [
+    "Use when mapping a script’s beats to a 3-act framework",
+    "Implement when determining page ranges for each major plot point",
+    "Configure when balancing conflict and resolution across sequences",
+    "Apply when identifying the climax within a seven‑sequence layout",
+    "Use when planning scene transitions between the call to action and big decision",
+    "Implement when ensuring each sequence culminates in a major plot point"
+  ],
+  "tags": [
+    "screenplay",
+    "story structure",
+    "writing",
+    "plot",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "A big problem with the traditional screenplay structure model is that it lacks a solid base. There's nothing for the major plot points to be anchored to. And with only five plot points instead of seven, a script ends up a vast expanse of “conflict” that needs filling.\n\nIn reality, each of the five major plot points—the call to action, big decision, midpoint, all is lost/all is joy and climax—are anchored in place. This is because they’re also the climax to five out of the seven sequences.\n\nThese big plot points aren't just moments that “have to appear” within the vicinity of a certain page number. They're the culmination of a conflict that’s been building for the past ten to fifteen pages within a sequence.",
+  "token_estimate": 166
+}

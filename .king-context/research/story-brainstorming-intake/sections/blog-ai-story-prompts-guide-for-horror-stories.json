@@ -1,0 +1,30 @@
+{
+  "title": "For Horror Stories",
+  "path": "blog-ai-story-prompts-guide-for-horror-stories",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "structural prompting",
+    "format constraints",
+    "narrative tension",
+    "progressive structure",
+    "horror creative writing",
+    "creative constraints",
+    "storyboarding",
+    "contextual prompts",
+    "scenario-based generation"
+  ],
+  "use_cases": [
+    "Use when moving from generic requests to highly specific structural constraints",
+    "Implement when creating narrative tension through non-traditional storytelling formats",
+    "Configure when seeking to establish a specific tone using ordinary-to-sinister progression",
+    "Use when generating creative writing prompts that rely on environmental storytelling"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "creative-writing",
+    "content-generation"
+  ],
+  "priority": 6,
+  "content": "Basic prompt: \"Write a scary story\" Better prompt: \"Babysitter's rules list, increasingly disturbing\"\n\nThe second prompt produced a story told entirely through a list of rules left for a babysitter, starting normal (\"Bedtime is 8 PM\") and growing sinister (\"Do NOT look in the mirrors after midnight\"). The format constraint and progressive structure created natural tension.\n\nWant more horror story examples and prompts? The key is combining ordinary situations with unsettling details.\n\nMore winning horror prompts:\n\n- \"Realtor's showing notes: previous owners\"\n- \"Sleep study footage reveals truth\"\n- \"Childhood friend returns, unchanged, thirty years\"",
+  "token_estimate": 126
+}

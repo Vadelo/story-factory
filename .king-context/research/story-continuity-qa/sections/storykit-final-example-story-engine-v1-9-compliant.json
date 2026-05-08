@@ -1,0 +1,33 @@
+{
+  "title": "Final Example (Story Engine v1.9-compliant)",
+  "path": "storykit-final-example-story-engine-v1-9-compliant",
+  "url": "https://superstories.app/storykit/",
+  "keywords": [
+    "Story Engine v1.9",
+    ":::prompt",
+    ":::backstory",
+    ":::summary",
+    ":::setting",
+    ":::brancha",
+    "structural containers",
+    "recursive signal echoes",
+    "distortion field",
+    "nested directives",
+    "conditional logic"
+  ],
+  "use_cases": [
+    "Use when defining complex narrative structures with multiple branching paths",
+    "Configure when setting specific background metadata like character state or ship status",
+    "Implement when creating episodic content divided into acts and scenes",
+    "Use when providing users with discrete choice-based interaction points"
+  ],
+  "tags": [
+    "narrative-syntax",
+    "v1.9-specification",
+    "schema",
+    "branching-logic"
+  ],
+  "priority": 10,
+  "content": "```\n# The Ghosts of Aranis Prime\n\n:::act1\n## The Silent Rift\n\n:::scene1\n### Phase Echoes\n\n:::prompt\n\n:::backstory\nCharacters:\n  - ~(worf): \"Grieving #jadzia\"\nShips:\n  - ~(defiant): \"Hull damage from #dominion skirmish\"\n:::\n\n:::summary\nThe Defiant enters orbit of Aranis Prime. All sensor data is unstable due to a subspace anomaly.\n:::\n\n:::setting\nLocation: Orbit of Aranis Prime  \nMood: tense, quiet, disrupted  \n:::\n\nThe ~(defiant) approaches #aranis-prime.  \nA {#temporal-anomaly#pulses#beside#the-ship}, disrupting all sensor data.\n\n:::brancha:::act2:::scene1\n:::text\nFire a burst into the rift and await the reply.\n:::\n:::prompt\nYou authorize a level-2 phaser burst. The anomaly flickers with unexpected harmonic feedback.\n:::\n:::\n\n:::branchb:::act2:::scene2\n:::text\nBeam a probe into the anomaly with a personality imprint.\n:::\n:::prompt\nThe probe enters the distortion field. Immediately, the computer detects recursive signal echoes.\n:::\n:::\n\n:::branchc:::act2:::scene3\n:::text\nRetreat and report the anomaly as unstable.\n:::\n:::prompt\nYou set a retreat vector. As the Defiant pulls away, the anomaly pulses again — almost as if in protest.\n:::\n:::\n\n:::\n:::\n\n```\n\n---\n\n#### Structural (allowed outside :::prompt)\n\n- `:::act1`,`:::act2`, ...\n- `:::scene1`,`:::scene2`, ...\n- `:::prompt`\n\n#### Inside :::prompt only\n\n- `:::backstory`\n- `:::summary`\n- `:::setting`\n- `:::relationship`\n- `:::table`\n- `:::ending`\n- `:::brancha`,`:::branchb`, ...\n- `:::if`,`:::elseif`,`:::else`\n\n---",
+  "token_estimate": 268
+}

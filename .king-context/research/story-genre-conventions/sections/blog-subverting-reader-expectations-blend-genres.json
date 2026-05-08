@@ -1,0 +1,29 @@
+{
+  "title": "Blend Genres",
+  "path": "blog-subverting-reader-expectations-blend-genres",
+  "url": "https://www.richellebraswell.com/blog/subverting-reader-expectations",
+  "keywords": [
+    "genre blending",
+    "alternate-history",
+    "science-fiction",
+    "speculative story",
+    "narrative transition",
+    "creative melding",
+    "thematic combination",
+    "narrative evolution"
+  ],
+  "use_cases": [
+    "Use when aiming to elevate a traditional premise through speculative elements",
+    "Implement when transitioning between two distinct literary styles smoothly",
+    "Configure when designing a plot that requires high narrative unpredictability",
+    "Use when building a unique world that incorporates multiple established frameworks"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-structure",
+    "story-development"
+  ],
+  "priority": 8,
+  "content": "Blending genres can show creativity because you are potentially combining elements in a way no one has before or, at least, not many have done before. For example, Philip K. Dick’s The Man in the High Castle starts out as an alternate-history novel until a science-fiction element comes into play. By melding these genres (in a smooth transition that fits the rest of the plot and doesn’t seem random), Philip K. Dick takes something seemingly ordinary yet horrifying (the Axis powers won World War II) and turns it into a speculative story (hallucinatory visits to an alternate universe) that keeps readers wondering what’s next.",
+  "token_estimate": 138
+}

@@ -1,0 +1,30 @@
+{
+  "title": "3. Emotion",
+  "path": "subtext-3-emotion",
+  "url": "https://thewritepractice.com/subtext/",
+  "keywords": [
+    "character emotion",
+    "subtext",
+    "body language",
+    "facial expressions",
+    "voice tone",
+    "character need",
+    "internal conflict",
+    "dialogue underspecification",
+    "character motivation"
+  ],
+  "use_cases": [
+    "Use when developing internal character motivation to drive scene conflict",
+    "Implement when showing rather than telling emotional states through sensory details",
+    "Configure when contrasting character needs to create narrative tension",
+    "Use when selecting specific dialogue and body language based on a character's underlying objective"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "The emotions of the woman in our scene? Longing and frustration. Instead of stating, “She longs to be a mother,” how can I show it? What will she notice because she longs for a baby? How will it translate into her body language, facial expressions, and voice tone?\n\nWhat other emotions are present? How does the man feel, and how does he show it? Pitting characters' emotions against each other in a scene can be powerful.\n\nHer need? She needs to know if he's changed his mind without scaring him. Why is knowing the need important? Because it can alter the way we approach a discussion.\n\nIn The Godfather, Corelone's need is to reassure Johnny that he has everything under control, so he uses understatement (“I'm gonna make him an offer he can't refuse”). If he needed to display power? He'd use different words and body language.",
+  "token_estimate": 195
+}

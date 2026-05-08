@@ -1,0 +1,33 @@
+{
+  "title": "The Art of the Reveal: Pacing as Tension",
+  "path": "architecting-prose-how-to-master-rhythm-and-pacing-the-art-of-the-reveal-pacing-as-tension",
+  "url": "https://clearinkcollective.com/architecting-prose-how-to-master-rhythm-and-pacing/",
+  "keywords": [
+    "information architecture",
+    "staccato sentences",
+    "macro-level beats",
+    "pacing theory",
+    "chapter length",
+    "paragraph breaks",
+    "sentence structure",
+    "slow-burn",
+    "reader discoverability",
+    "pacing control"
+  ],
+  "use_cases": [
+    "Use when designing the information architecture of a narrative arc",
+    "Configure when adjusting sentence structure to manipulate reader heart rate",
+    "Implement when selecting chapter lengths to create tension or relief",
+    "Use when differentiating between mystery, thriller, and horror pacing styles",
+    "Apply when using long sentences to deepen world-building immersion"
+  ],
+  "tags": [
+    "narrative-design",
+    "creative-writing",
+    "structure",
+    "reader-psychology"
+  ],
+  "priority": 8,
+  "content": "Okay, so we’ve got the micro-level beats down. Now let’s zoom out to the macro: pacing. Pacing is about controlling the speed at which the reader receives information. It’s the difference between a slow-burn drama and a jump-scare-a-minute horror flick. You control this with chapter length, paragraph breaks, and, yes, sentence structure.\n\n“The pace of a story is not only the speed at which it is told, but the speed at which the reader is allowed to discover the facts. In a thriller, the reader is discovering the facts along with the hero. In a mystery, the reader is one step behind the hero. In a horror story, the reader is one step ahead of the hero.”\n\nMy take: This is the A24 horror movie theory of pacing. It’s not just about speed, it’s about information architecture. Think about the pacing in Hereditary. Long, suffocatingly slow scenes make the moments of shocking violence feel like a physical blow. Palahniuk is saying that you, the writer, are the DJ of your reader’s anxiety (or curiosity, or excitement). Short, staccato sentences in an action scene accelerate the heart rate. Long, meandering sentences in a descriptive passage let the reader breathe and sink into the world. You’re playing your reader’s nervous system like an instrument.",
+  "token_estimate": 281
+}

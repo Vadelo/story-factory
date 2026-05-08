@@ -1,0 +1,34 @@
+{
+  "title": "Core mechanics or structure",
+  "path": "character-development-core-mechanics-or-structure",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "narrative theory",
+    "character layers",
+    "external goal",
+    "internal need",
+    "Robert McKee",
+    "backstory",
+    "character wound",
+    "agency",
+    "contradiction",
+    "dimensional characters",
+    "protagonist"
+  ],
+  "use_cases": [
+    "Use when developing a protagonist's internal and external motivations",
+    "Implement when creating narrative tension between a character's desires and psychological needs",
+    "Configure when establishing a character's backstory to explain present-day behavior",
+    "Use when building dimensional characters by identifying inherent persona contradictions",
+    "Implement when checking if a character has sufficient agency to drive plot consequences"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "content-strategy",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Most working models of character in narrative theory identify 4 primary layers that, when operating in concert, produce the experience of a fully realized person.\n\nDesire and goal. Every character needs something — an external goal that drives plot (win the case, find the killer, make it home) and often an internal, psychological want beneath it (be seen, forgive oneself, belong). The tension between surface desire and deeper need is one of the most reliable engines in narrative craft. Story consultant Robert McKee describes this distinction in Story (1997) as the gap between what characters consciously want and what they actually need.\n\nWound and backstory. A character's history shapes present behavior. This doesn't require a trauma backstory — it requires a coherent explanation for why the character is the way they are. The wound doesn't need to be dramatized on the page; it needs to be felt in how the character moves through the world.\n\nContradiction. Flat characters have one dominant trait. Dimensional characters hold contradictions in tension — the loving parent who is also a compulsive liar, the brave soldier who is secretly terrified of small spaces. These contradictions are not inconsistencies; they're what make people recognizable.\n\nAgency. Characters who do not make meaningful choices are not protagonists — they are passengers. Agency is the capacity to act on desire in ways that have consequences. It's also one of the hardest things to maintain in plot-heavy genres, where the temptation is to move characters around like chess pieces rather than let them drive their own problems.\n\n---",
+  "token_estimate": 343
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Definitions",
+  "path": "wiki-Young_adult_literature-definitions",
+  "url": "https://en.wikipedia.org/wiki/Young_adult_literature",
+  "keywords": [
+    "Young Adult Literature",
+    "YA Canon",
+    "Michael Cart",
+    "teen protagonist",
+    "realistic fiction",
+    "literary classification",
+    "adolescent point of view",
+    "contemporary world",
+    "common tropes",
+    "target demographic 12-18",
+    "Victor Malo-Juvera",
+    "Crag Hill"
+  ],
+  "use_cases": [
+    "Use when defining the historical and academic context of Young Adult (YA) literature for curriculum development",
+    "Implement when establishing criteria for classifying books based on protagonist age and point of view",
+    "Configure when identifying the age ranges and demographics associated with teen-centric publishing markets",
+    "Use when discussing the lack of consensus and amorphous nature of literary genre definitions",
+    "Apply when comparing the stylistic differences between children's, young adult, and adult literature"
+  ],
+  "tags": [
+    "literary-definitions",
+    "academic-reference",
+    "genre-analysis",
+    "publishing-standards"
+  ],
+  "priority": 10,
+  "content": "According to author and academic Michael Cart, the term young adult literature \"first found common usage in the late 1960s, in reference to realistic fiction that was set in the real (as opposed to imagined), contemporary world and addressed problems, issues, and life circumstances of interest to young readers aged approximately 12–18\". However, \"The term 'young adult literature' is inherently amorphous, for its constituent terms 'young adult' and 'literature' are dynamic, changing as culture and society — which provide their context — change\", and \"even those who study and teach it have not reached a consensus on a definition\".\n\nVictor Malo-Juvera and Crag Hill, in \"The Young Adult Canon: A Literary Solar System\", note that in 2019 there was no consensus on the definition of young adult literature and list a number of definitions, including:\n\n- Books that readers aged 12 to 20 chose independently\n- Literature written for young people aged 11 to 18 and books marked as \"young adult\" by a publisher\n- Literature including a teenager who is the main character and who, as the center of the plot, engages in problems related to and relatable to the lives of teenagers\n- Novels told by \"a teen protagonist speaking from an adolescent point of view, with all the limitations of understanding that implies\"\n\nThis provides an overall consensus in the literary world that the definition of young adult literature is unique to the author, reader, and publisher. There are common themes and tropes seen across young adult literary work that lead a piece to be classified as young adult literature as a general classification with some aspects that may fall into adult literature as well as children's literature.",
+  "token_estimate": 373
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The parser",
+  "path": "fictzio-rpg-markdown-the-parser",
+  "url": "https://github.com/fictzio/rpg-markdown",
+  "keywords": [
+    "Abstract Syntax Tree",
+    "AST",
+    "Remark",
+    "Unified Collective",
+    "mdsvex",
+    "markdown-js",
+    "rollable tables",
+    "RPG Markdown",
+    "parser dialect",
+    "syntax differentials"
+  ],
+  "use_cases": [
+    "Use when transforming RPG-specific markdown into JSON or HTML formats",
+    "Implement when creating interactive fiction or procedurally generated rollable tables",
+    "Configure when integrating markdown-based databases into Svelte using MDSVEX",
+    "Use when building custom syntax for virtual tabletop (VTT) systems"
+  ],
+  "tags": [
+    "parser",
+    "markdown",
+    "ast",
+    "integration"
+  ],
+  "priority": 8,
+  "content": "The first parser was built as an extension of [Dominic Baggotts markdown parser](https://github.com/evilstreak/markdown-js) which renders to both HTML and JSON. The JSON part is the result of the syntax differientals which tags certain content as data.\n\n> 2020-03-03, Using Remark and MDSVEX (Svelte and Markdown) to create rollable tables and lists.\n\n> 2020-11-19, I just started work on rebuilding the parser to work with the [Unified Collective](https://unifiedjs.com/) and especially the markdown parser [Remark](https://remark.js.org/). One goal is to structure RPG Markdown as an [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)\n\n2021-03-03, Got a working example of RPG markdown used for rollable tables and lists. Interactive fiction half working.\n\n2021-01-21, RPG Markdown is to some extent used in the character sheet module for [FictionBoard Actor Module](https://app.fictionboard.com/actors)\n\n2020-11-29, The RPG Markdown concept is being used in my virtual tabletop project [FictionBoard](https://www.fictionboard.com). It's still in an early phase of development and I just restarted work on the parser and dialect specification.\n\nPlease feel free to comment on the project, make suggestion and other input.",
+  "token_estimate": 218
+}

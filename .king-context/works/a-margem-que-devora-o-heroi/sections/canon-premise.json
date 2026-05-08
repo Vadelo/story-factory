@@ -1,0 +1,19 @@
+{
+  "title": "Canon: Premise",
+  "path": "canon-premise",
+  "url": "local://works/a-margem-que-devora-o-heroi#canon-premise",
+  "keywords": [
+    "canon",
+    "premise"
+  ],
+  "use_cases": [
+    "Recall canon: premise for story continuation"
+  ],
+  "tags": [
+    "canon",
+    "premise"
+  ],
+  "priority": 10,
+  "content": "Depois de morrer, Davi Noh acorda preso na margem textual de A Lança do Imperador Regressor, uma light novel/manhwa de regressão que ele ajudou a revisar. Sem corpo, sistema ou status, ele descobre que pode alterar frases, comentários de revisão e versões cortadas para devolver agência a personagens esmagados pela narrativa do herói absoluto.",
+  "token_estimate": 71
+}

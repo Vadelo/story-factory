@@ -1,0 +1,32 @@
+{
+  "title": "Team Pratilipi",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-team-pratilipi",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "long-form story generation",
+    "context window",
+    "stateful systems",
+    "web-serialized fiction",
+    "episodic content",
+    "narrative continuity",
+    "token streams",
+    "AI-assisted pipeline",
+    "character arcs",
+    "system architecture"
+  ],
+  "use_cases": [
+    "Architecting systems for long-form narrative generation that exceeds LLM context limits",
+    "Implement when needing to maintain continuity across episodic web-serialized fiction",
+    "Configure when character-driven plots require stateful memory over long durations",
+    "Use when building AI writing tools for stories with thousands of chapters",
+    "Use when developing story generation pipelines for minimal world-building scenarios"
+  ],
+  "tags": [
+    "llm-architecture",
+    "content-generation",
+    "system-design"
+  ],
+  "priority": 8,
+  "content": "![Team Pratilipi](https://miro.medium.com/v2/resize:fill:76:76/1*O_gqGizEHdAXkmvcSFjQUA.jpeg)\n\nLessons learned in building Indian first product\n\n# Beyond the Context Window: Architecting Long-Form Story Generation\n\n![Sujith Reddy](https://miro.medium.com/v2/resize:fill:64:64/1*jHC8VBE9yqBMBYQntQdyHg.jpeg)\n\n7 min read\n\nFeb 25, 2026\n\n--\n\n1\n\nShare\n\nPress enter or click to view image in full size\n\nAt Pratilipi, we deal in stories that never end.\n\nUnlike a typical novel with a compact arc, web-serialized fiction is episodic, high-stakes, and massive in scale. A single story can run for thousands of chapters over years. It needs recurring cliffhangers, evolving character arcs, and enough continuity that readers don’t feel cheated.\n\nWhen we set out to build an AI-assisted story generation pipeline, we hit a hard truth:\n\nLLMs can write strong scenes. They struggle to sustain a saga.\n\nAsk an LLM to “write a story” and it tends to wrap everything up in a neat few hundred words. Ask it to “write Chapter 50 of an ongoing thriller,” and it may invent missing history, forget motivations, or resurrect characters who died earlier.\n\nWe learned that long-form generation isn’t primarily a prompting problem. It’s a systems engineering problem. We had to stop treating stories as streams of tokens and start treating them as stateful systems with constraints, contracts, and memory.\n\nNote: This approach works for stories with minimal / generic world-building and non-critical locations, where the narrative is primarily driven by character conflict and plot progression.It tends to break on complex world-building, non-linear structures, and stories with heavy long-range foreshadowing.It’s not a universal solution, but the learnings are worth sharing.",
+  "token_estimate": 331
+}

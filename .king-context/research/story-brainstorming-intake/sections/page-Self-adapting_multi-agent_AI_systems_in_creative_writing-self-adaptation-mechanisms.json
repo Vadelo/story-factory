@@ -1,0 +1,32 @@
+{
+  "title": "Self-adaptation mechanisms",
+  "path": "page-Self-adapting_multi-agent_AI_systems_in_creative_writing-self-adaptation-mechanisms",
+  "url": "https://grokipedia.com/page/Self-adapting_multi-agent_AI_systems_in_creative_writing",
+  "keywords": [
+    "critique-revision cycles",
+    "runtime refinement",
+    "evaluator agents",
+    "feedback-driven process",
+    "parameter-free adaptation",
+    "prompt-based modifications",
+    "narrative metrics",
+    "generator agents",
+    "iterative refinement",
+    "prompt context integration"
+  ],
+  "use_cases": [
+    "Implement when narrative content requires progressive improvement through multi-pass evaluation",
+    "Configure when adapting model output without updating weights or model parameters",
+    "Use when specific narrative metrics like emotional depth or coherence must be systematically addressed",
+    "Apply when using evaluator agents to generate actionable critiques for target-rich revisions"
+  ],
+  "tags": [
+    "multi-agent systems",
+    "natural-language-generation",
+    "self-adaptation",
+    "workflow-design"
+  ],
+  "priority": 8,
+  "content": "Self-adaptation in multi-agent AI systems for creative writing occurs primarily through iterative critique-revision cycles that enable runtime refinement of narrative outputs without relying on static prompting. These cycles allow the systems to progressively improve drafts by incorporating feedback from evaluator agents, which assess generated content against predefined criteria and generate actionable critiques that inform subsequent revisions. This feedback-driven process distinguishes such systems from non-iterative approaches, as it enables dynamic adjustment of narrative elements over multiple passes to enhance overall quality.[1] Evaluator feedback serves as the primary trigger for targeted revisions, directing the generator agents to address specific weaknesses in the current draft. Rather than applying broad or generic changes, the systems synthesize critiques into refined prompts that guide focused modifications, ensuring that each iteration builds directly on identified shortcomings. This mechanism supports incremental improvement, with revisions accumulating to produce more coherent and expressive narratives.[1] Adaptation in these systems is parameter-free, relying exclusively on prompt-based modifications rather than updating model parameters or incorporating lightweight learning techniques such as memory updates. Feedback is integrated into the prompt context for the next generation cycle, allowing the same underlying models to produce improved outputs without any form of training or persistent state modification beyond the current interaction. This approach maintains computational efficiency while achieving adaptive behavior through structured iteration.[1] Adaptation often targets specific narrative metrics, such as emotional depth or coherence, to balance creativity with structural integrity.[1]",
+  "token_estimate": 309
+}

@@ -1,0 +1,34 @@
+{
+  "title": "The Story Bible",
+  "path": "blog-2026-02-23-claude-long-form-writing-the-story-bible",
+  "url": "https://docs.bswen.com/blog/2026-02-23-claude-long-form-writing",
+  "keywords": [
+    "Story Bible",
+    "Character Models",
+    "Speech Patterns",
+    "Relationship Dynamics",
+    "Lore Elements",
+    "Style Reference Document",
+    "Prose Patterns",
+    "Psychological Profiles",
+    "Dialogue Tag Patterns",
+    "Voice Shifts",
+    "Rhythmic Patterns"
+  ],
+  "use_cases": [
+    "Use when building a foundational repository for long-form narrative consistency",
+    "Configure when defining deep character models including speech tags and motivations",
+    "Implement when tracking complex relationship dynamics across over 100 chapters",
+    "Use when distilling specific authorial prose styles for rhythmic consistency",
+    "Implement when organizing world-building rules and magic systems into lore elements"
+  ],
+  "tags": [
+    "content-structure",
+    "narrative-design",
+    "creative-framework",
+    "style-guidelines"
+  ],
+  "priority": 10,
+  "content": "The foundation of this system is a comprehensive story bible. I extracted everything from source novels “like a codebase” for systematic organization.\n\n```\n# Story Bible Structure Template## Characters- Name: [Character Name]- Background: [Detailed history]- Speech Patterns: [Examples with tags]- Relationships: [Dynamic with other characters]- Voice Shifts: [How they change throughout story]- Key Motivations: [What drives them]## Locations- Name: [Location Name]- Description: [Detailed setting]- Significance: [Role in story]- Associated Characters: [Who interacts here]## Lore Elements- [World-building rules, magic systems, historical events]\n```\n\nI learned that the story bible should cover every single element that might appear in the novel. For my project, this meant 56,000+ words of organized information that I could reference consistently.\n\nCharacters need more than basic descriptions. I built deep character models including:\n\n- Speech patterns with examples and tags\n- Relationship dynamics with other characters\n- How their voice shifts throughout the story\n- Key motivations that drive their actions\n- Psychological profiles that influence decisions\n\nThis level of detail ensures that each character remains consistent across 113 chapters. The relationship dynamics help maintain realistic interactions between characters throughout the story.\n\nI distilled the author’s prose patterns into a style reference document. This included:\n\n- Sentence structure preferences\n- Dialogue tag patterns\n- Descriptive style choices\n- Punctuation habits\n- Rhythmic patterns in prose\n\nHaving this distilled reference helps maintain consistent voice throughout the long manuscript.",
+  "token_estimate": 305
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Submission history",
+  "path": "abs-2104.07472-submission-history",
+  "url": "https://arxiv.org/abs/2104.07472",
+  "keywords": [
+    "cs.CL",
+    "BibTeX",
+    "v1",
+    "v2",
+    "submission history",
+    "arXiv",
+    "license",
+    "TeX Source",
+    "Google Scholar",
+    "Semantic Scholar"
+  ],
+  "use_cases": [
+    "Use when tracking the chronological evolution of a submission across different versions",
+    "Use when exporting bibliographic metadata for citation management",
+    "Implement when navigating between related research papers in the computer science category",
+    "Configure when verifying the intellectual property rights and distribution license of a document"
+  ],
+  "tags": [
+    "metadata",
+    "version-control",
+    "citation",
+    "academic-publication"
+  ],
+  "priority": 8,
+  "content": "From: Louis Castricato [view email] [v1] Tue, 23 Mar 2021 02:29:37 UTC (68 KB) [v2] Tue, 26 Oct 2021 16:40:58 UTC (68 KB)\n\n \n\nFull-text links:\n\n- View PDF\n- TeX Source\n\n![license icon](https://arxiv.org/icons/licenses/by-4.0.png)\n\nview license\n\n \n\nCurrent browse context:\n\ncs.CL\n\n< prev| next >\n\nnew| recent| 2021-04\n\nChange to browse by:\n\ncs\n\n- Google Scholar\n- Semantic Scholar\n\nlisting| bibtex\n\nJonathan C. Balloch Mark Riedl\n\nexport BibTeX citation",
+  "token_estimate": 89
+}

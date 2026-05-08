@@ -1,0 +1,33 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2412.02897v1-1-introduction",
+  "url": "https://arxiv.org/html/2412.02897v1",
+  "keywords": [
+    "MLD-EA",
+    "Missing Logic Detector by Emotion and Action",
+    "Large Language Models",
+    "LLMs",
+    "Transformer",
+    "James-Lange theory",
+    "Cognitive-behavioral theory",
+    "Narrative Logic Detection",
+    "Story Generation",
+    "Logical Coherence"
+  ],
+  "use_cases": [
+    "Identify when logical gaps exist in a generated narrative structure",
+    "Configure when story generation needs to align with psychological cognitive-behavioral theories",
+    "Implement when detecting inconsistencies between character actions and emotional responses",
+    "Use when developing automated logic checkers for creative writing workflows",
+    "Configure when missing plot elements need to be generated to bridge narrative disconnects"
+  ],
+  "tags": [
+    "Natural Language Processing",
+    "Narrative Intelligence",
+    "LLM Architecture",
+    "Logic Detection"
+  ],
+  "priority": 10,
+  "content": "Narrative understanding and story generation have been a compelling challenge in Natural Language Processing (NLP) for a long. They evolved from early rule-based systems with limited creativity to sophisticated models that generate rich, engaging narratives Mooney and DeJong (1985); Fan et al. (2018). Introducing Transformer Vaswani (2017) models like BART Lewis et al. (2020) and large language models (LLMs) like ChatGPT OpenAI (2022) revolutionized this task by utilizing advanced architectures to capture in-detailed dependencies.\n\nMany previous studies have focused on tasks like summarizing Awasthi et al. (2021); Jin et al. (2024), sentiment analysis Lu et al. (2023); Zhao et al. (2025); Lu et al. (2025) and question-answering (QA) Zhuang et al. (2024); Huang et al. (2024a). While previous story generation research often centered on predicting plot endings or crafting long narratives Guan et al. (2020); Li et al. (2022). However, in general, story writing frequently needs to pay more attention to maintaining logical coherence Oatley (2002); Currie and Jureidini (2004).\n\nNot surprisingly, some recent works lead LLMs to maintain narrative coherence in different ways with effective results Zhao et al. (2023); Wang et al. (2023). However, most of those works focus on continuously writing coherency stories by LLMs Guan et al. (2021). There is still a gap in detecting the logical coherence in the narratives.\n\nTo address this gap, our approach focuses on the observable actions of characters rather than delving into their deeper motivations. This choice stems from the understanding that actual actions have a more immediate and direct impact on emotions, and conversely, emotions are often the driving force behind tangible actions Zhu and Thagard (2002); Döring (2003). The James-Lange theory of emotion in psychology posits that physiological responses to a situation—such as a racing heart or clenched fists—occur first and then lead to the subjective experience of emotion Cannon (1927). This suggests that an observable action (like a person slamming a door) can directly trigger an emotional response (such as anger or frustration). Similarly, the cognitive-behavioral theory emphasizes that behaviors (actions) and emotions are closely linked, where a behavior change can directly influence emotional states, and vice versa Maslow (1943); Eisenberg (2014); Leahy et al. (2022).\n\nBy prioritizing the direct interplay between observable actions and emotions, we aim to capture the essence of narrative logic in a way that reflects these well-documented psychological principles Carver et al. (2000). This approach is supported by extensive psychological studies that emphasize the strong correlation between actions and emotional responses, such as how consistent patterns of behavior can shape long-term emotional states, as seen in theories of learned helplessness or social learning Bandura (1977).\n\nIn this study, we introduce the Missing Logic Detector by Emotion and Action (MLD-EA), a LLM-based model designed to identify gaps in narrative logic and generate missing plot elements that are coherent both logically and emotionally. By incorporating the relationship between actions and emotions, MLD-EA aims to enhance the logical structure of narratives. Experimental results demonstrate that our models can produce more believable and emotionally coherent stories by aligning narrative generation with these psychological insights. Our model improves narrative understanding and story generation, underscoring the potential of LLMs as story generators and powerful logic checkers in the creative process.\n\nThe main contributions of our work can be briefly summarized as follows: 1), We propose a novel task of narrative logic detection. 2), By grounding our model in cognitive-behavioral theories, we highlight how emotions directly interact with actions, leading to better narrative understanding and generation. 3), Experiments have shown that our MLD-EA model has achieved superior results in most aspects, including narrative logic checking with involved characters’ emotions and actions and missing plot completeness. Also, we demonstrate the importance of behavior and emotion in story logic detection and generation.\n\nLeveraging this interaction between actions and emotions to assess and generate story logic more efficiently and accurately mirrors the natural cause-and-effect relationships in human behavior.\n\nFigure 1: A task example. \"Identify logical coherence with actions and emotions\" is checking the logical coherence guided by the cognitive-behavioral theory.\n\n![Refer to caption](https://arxiv.org/html/extracted/6043385/Eample_of_task.png)",
+  "token_estimate": 892
+}

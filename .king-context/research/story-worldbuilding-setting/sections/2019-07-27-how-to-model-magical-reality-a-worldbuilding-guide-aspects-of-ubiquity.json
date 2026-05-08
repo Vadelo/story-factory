@@ -1,0 +1,34 @@
+{
+  "title": "Aspects of Ubiquity",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-aspects-of-ubiquity",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "usability",
+    "literacy",
+    "education",
+    "social acceptance",
+    "legal acceptance",
+    "religious acceptance",
+    "magical proficiency",
+    "instruction and performance",
+    "state laws",
+    "church excommunication"
+  ],
+  "use_cases": [
+    "Use when defining how easy it is for common folk to learn and wield magic",
+    "Implement when creating literacy systems that allow magic instructions to be transmitted via written word",
+    "Configure when setting educational pathways such as apprenticeships or tutoring for magic users",
+    "Use when establishing legal frameworks governing the use, pursuit, and punishment of magic",
+    "Implement when determining religious or divine stances on magic practice"
+  ],
+  "tags": [
+    "usability",
+    "education",
+    "social",
+    "legal",
+    "religion"
+  ],
+  "priority": 8,
+  "content": "Ubiquity is how common magic is in society. Beneath ubiquity, we have acceptance and usability.\n\nUsability: How easy is magic to learn, wield, and use for a common, everyday person? Is magic a simple tool, or does it require an elaborate ritual, gear, or tooling? Can magic only be wielded through a special bloodline or class? Alternatively, Is it like electricity and magic runs through everything?\n\n- Literacy: Can the magically proficient transmit information about the instruction and performance of magic through the written word, so anyone without the writer’s direct instruction learn, understand, and practice it at any random later date in time?\n- Education: Does the practice of magic require special schooling, apprenticeships, and tutoring? Is the use of magic innate, and wielders can use it from birth?\n\nAcceptance: How accepted is magic by society? Is magic a dark secret, or is it persecuted by the Church? Is magic forbidden by law? The Gods? Is it like electricity, so accepted it’s part of the furniture? It is possible for Social/Legal/Religious acceptance not to be in harmony. The Church may disapprove and excommunicate you out if you cast magic, but the state won’t punish you for usage. Alternatively, the people see magic as an underground resistance to an oppressive state.\n\n- Social Acceptance: Does society at large accept the use of magic? Do the common people applaud its use or at least ignore or accept it or find it helpful?\n- Legal Acceptance: Are there state consequences for the use of magic? Does the state have public or secret laws governing the use, pursuit, and punishment of magic in society? Does the state see it as part of the fabric of broader state power?\n- Religious/God Acceptance: Does the Church approve of the use of magic? Do they have their own magicians? Is magic expressly and clearly forbidden with the Church’s own laws and systems for meting out punishment? This also covers the personal opinion of an actual God should one be involved. If a God doesn’t care for magic, or is pursuing an enemy God’s magic, or using magic for the state, then the God has an opinion.",
+  "token_estimate": 478
+}

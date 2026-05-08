@@ -1,0 +1,33 @@
+{
+  "title": "Where vector stores fail",
+  "path": "blog-persistent-memory-for-ai-agents-where-vector-stores-fail",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "vector store",
+    "cosine similarity",
+    "embedding drift",
+    "relational reasoning",
+    "entity resolution",
+    "canonical ID",
+    "opaque relevance",
+    "approximate ranking",
+    "parallel indexes",
+    "metadata deduplication"
+  ],
+  "use_cases": [
+    "Use when evaluating the limitations of RAG architectures for relational data",
+    "Implement when designing entity-resolution layers above vector databases",
+    "Configure when managing embedding model migrations or versioning",
+    "Use when assessing governance and audit-trail requirements for LLM outputs",
+    "Implement when strict result ordering and deterministic ranking are required"
+  ],
+  "tags": [
+    "vector-databases",
+    "architecture-design",
+    "data-consistency",
+    "search-relevance"
+  ],
+  "priority": 8,
+  "content": "Relational reasoning is not their strength. \"Who knows who\" is not a vector question. You can hack it (embed a description of each person and search), but the precision is poor and the answers are not explainable.\n\nNo notion of canonical entity. \"These three documents all mention the same company under three different name spellings\" is something a vector store will not naturally know. You need an entity-resolution layer above the store, and you need to plumb canonical IDs into the metadata so retrievals can be deduplicated and merged.\n\nRanking is approximate. Two documents with embedding cosine similarity 0.91 and 0.92 are usually interchangeable; the model does not know which one is \"really\" closer. This is fine for retrieval (let the LLM read both) and bad for any system that depends on a strict ordering.\n\nEmbedding drift. Switch the embedding model and your old vectors become incompatible with new ones. Either you re-embed everything (expensive) or you maintain multiple parallel indexes (complex). This is a real production constraint, not a theoretical one.\n\nOpaque relevance. When the LLM consumes a retrieved chunk and produces an answer, the chain \"why did this chunk influence this answer\" is not directly inspectable. For governance-heavy use cases, this is a real audit-trail gap.\n\n---",
+  "token_estimate": 277
+}

@@ -1,0 +1,33 @@
+{
+  "title": "3.3 Direct Preference Optimization (DPO)",
+  "path": "html-2402.03483v1-3-3-direct-preference-optimization-dpo",
+  "url": "https://arxiv.org/html/2402.03483v1",
+  "keywords": [
+    "Direct Preference Optimization",
+    "DPO",
+    "action discriminator",
+    "cross-entropy loss",
+    "policy refinement",
+    "SFT policy",
+    "PPO",
+    "reward model",
+    "maximum likelihood estimation",
+    "partition function",
+    "beta parameter"
+  ],
+  "use_cases": [
+    "Use when refining model outputs based on a static dataset of preferred and rejected responses",
+    "Implement when a simplified alternative to PPO is required to avoid training a separate reward model",
+    "Configure when aligning an action discriminator model with human preferences using direct loss optimization",
+    "Use when mapping optimal rewards directly to language model policies for faster convergence"
+  ],
+  "tags": [
+    "machine-learning",
+    "model-training",
+    "optimization",
+    "alignment"
+  ],
+  "priority": 9,
+  "content": "We utilize DPO to further refine the results of our action discriminator model. In DPO, we want our policy πSFTsubscript𝜋SFT\\pi_{\\text{SFT}}italic_π start_POSTSUBSCRIPT SFT end_POSTSUBSCRIPT to learn how to rank chosen responses c(k)superscript𝑐𝑘c^{(k)}italic_c start_POSTSUPERSCRIPT ( italic_k ) end_POSTSUPERSCRIPT over rejected responses r(k)superscript𝑟𝑘r^{(k)}italic_r start_POSTSUPERSCRIPT ( italic_k ) end_POSTSUPERSCRIPT in a preference model framework. In PPO, we use a learned reward model Rθ⁢(x,y)subscript𝑅𝜃𝑥𝑦R_{\\theta}(x,y)italic_R start_POSTSUBSCRIPT italic_θ end_POSTSUBSCRIPT ( italic_x , italic_y ) for which we estimate parameters by taking the maximum likelihood over our static preferences dataset. DPO instead allows us to define a mapping from the optimal reward model to our language model policy, enabling the training of our language model to satisfy our preferences directly with a single cross-entropy loss (Rafailov et al., 2023). More specifically, under an appropriate preference model, we can derive the optimal reward function in terms of the optimal language model policy π*subscript𝜋\\pi_{*}italic_π start_POSTSUBSCRIPT * end_POSTSUBSCRIPT, original SFT policy πSFTsubscript𝜋SFT\\pi_{\\text{SFT}}italic_π start_POSTSUBSCRIPT SFT end_POSTSUBSCRIPT, a constant β𝛽\\betaitalic_β, and a partition function Z⁢(⋅)𝑍⋅Z(\\cdot)italic_Z ( ⋅ ) as follows:\n\n| R*⁢(x,y)=β⋅π*⁢(y|x)πSFT⁢(y|x)+β⁢log⁡Z⁢(x).superscript𝑅𝑥𝑦⋅𝛽subscript𝜋conditional𝑦𝑥subscript𝜋SFTconditional𝑦𝑥𝛽𝑍𝑥R^{*}(x,y)=\\beta\\cdot\\frac{\\pi_{*}(y|x)}{\\pi_{\\text{SFT}}(y|x)}+\\beta\\log Z(x).italic_R start_POSTSUPERSCRIPT * end_POSTSUPERSCRIPT ( italic_x , italic_y ) = italic_β ⋅ divide start_ARG italic_π start_POSTSUBSCRIPT * end_POSTSUBSCRIPT ( italic_y | italic_x ) end_ARG start_ARG italic_π start_POSTSUBSCRIPT SFT end_POSTSUBSCRIPT ( italic_y | italic_x ) end_ARG + italic_β roman_log italic_Z ( italic_x ) . |\n| --- |\n\nWe can then plug this reward into our preference model, providing a simple training procedure on our dataset of preferences (x,c(i),r(i))𝑥superscript𝑐𝑖superscript𝑟𝑖(x,c^{(i)},r^{(i)})( italic_x , italic_c start_POSTSUPERSCRIPT ( italic_i ) end_POSTSUPERSCRIPT , italic_r start_POSTSUPERSCRIPT ( italic_i ) end_POSTSUPERSCRIPT ):\n\nπθ=maxπ⁡𝔼(x,c(i),r(i))∼𝒟⁢log⁡σ⁢(β⁢π⁢(c(i)|x)πSFT⁢(c(i)|x)−π⁢(r(i)|x)πSF",
+  "token_estimate": 337
+}

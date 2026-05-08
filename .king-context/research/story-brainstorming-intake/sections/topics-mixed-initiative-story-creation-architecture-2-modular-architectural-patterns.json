@@ -1,0 +1,35 @@
+{
+  "title": "2. Modular Architectural Patterns",
+  "path": "topics-mixed-initiative-story-creation-architecture-2-modular-architectural-patterns",
+  "url": "https://www.emergentmind.com/topics/mixed-initiative-story-creation-architecture",
+  "keywords": [
+    "Modular Architectural Patterns",
+    "Mixed-initiative systems",
+    "CritiCS",
+    "StoryVerse",
+    "Story Designer",
+    "MAB MI-CC",
+    "Thompson sampling",
+    "Initiative arbitration",
+    "Draft management",
+    "Evolutionary Engine",
+    "LLM Critics",
+    "Experience Manager"
+  ],
+  "use_cases": [
+    "Configure when designing systems requiring modular separation between humans and AI agents",
+    "Implement when creating narrative simulations using Act Director and Planner modules",
+    "Use when building iterative critique loops where evaluation roles can be swapped between LLMs and human users",
+    "Implement when applying Thompson sampling for adaptive communication strategies in multi-agent systems",
+    "Configure when an evolutionary engine is needed to generate creative suggestions from user seeds"
+  ],
+  "tags": [
+    "architecture",
+    "system-design",
+    "mixed-initiative",
+    "modular-frameworks"
+  ],
+  "priority": 9,
+  "content": "Mixed-initiative systems are defined by modular separation of concerns, typically comprising components for draft management, critique generation, initiative arbitration, and evaluation. Notable system architectures include:\n\n| Architecture | Role Modules | Initiative Control |\n| --- | --- | --- |\n| CritiCS (Bae et al., 2024) | LLM Critics, Leader, Evaluator, Human | Iterative critique loop via leader/evaluator selection |\n| StoryVerse (Wang et al., 2024) | Act Director, Act Selector, Planner, Simulator | Authorial (act-driven) + emergent simulation |\n| Story Designer (Alvarez et al., 2022) | User Interface, Evolutionary Engine, Graph Manager | Designer–engine alternation via seed/suggestion loop |\n| MAB MI-CC (Lin et al., 2024) | MAB Agent, Experience Manager, Feedback UI, LLM | Thompson sampling over communications, lock-step initiative switching |\n\nThis modularity ensures extensibility: for instance, CritiCS's leader/evaluator roles can be occupied by either an LLM or a human; planning and simulation modules in StoryVerse can be independently swapped or augmented.",
+  "token_estimate": 208
+}

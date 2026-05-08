@@ -1,0 +1,32 @@
+{
+  "title": "2.1 Textual Mediation and Corpus integrity",
+  "path": "html-2604.22142v1-2-1-textual-mediation-and-corpus-integrity",
+  "url": "https://arxiv.org/html/2604.22142v1",
+  "keywords": [
+    "textual mediation",
+    "corpus integrity",
+    "born-digital textuality",
+    "preprocessing decisions",
+    "archival processing",
+    "LLM revision",
+    "representative collections",
+    "evidentiary status",
+    "AI-assisted rewriting",
+    "digitization"
+  ],
+  "use_cases": [
+    "Use when evaluating how digital preprocessing affects downstream statistical analysis",
+    "Implement when assessing the impact of LLM-based modifications on the evidentiary value of a dataset",
+    "Configure when designing corpus construction protocols that account for textual mediation",
+    "Use when auditing the representativeness of digitized literary collections"
+  ],
+  "tags": [
+    "data-integrity",
+    "digital-humanities",
+    "corpus-linguistics",
+    "ai-mediation"
+  ],
+  "priority": 8,
+  "content": "Texts are shaped by the processes through which they are collected, transcribed, digitized, and cleaned. Born-digital textuality alters the archival conditions under which literary evidence is encountered (Kirschenbaum, 2013); preprocessing decisions can materially affect downstream analysis (Kunilovskaya and Plum, 2021); archival processing itself functions as a form of infrastructural maintenance that rarely registers as intervention (Trace, 2022). Recent work on digitization and corpus construction has further shown how the composition and representativeness of collections shape the claims that can be made from them (Zaagsma, 2023; Mäkelä and others, 2026). The present study extends this line of inquiry to AI-assisted rewriting, asking whether LLM revision constitutes a kind of textual mediation that operates at the level of corpus integrity and evidentiary status.",
+  "token_estimate": 160
+}

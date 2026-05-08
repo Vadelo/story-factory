@@ -1,0 +1,32 @@
+{
+  "title": "Dependencies",
+  "path": "silkspace-llm-knowledge-graph-dependencies",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "Claude Code",
+    "Firecrawl MCP",
+    "sentence-transformers",
+    "usearch",
+    "duckdb",
+    "pydantic",
+    "Anthropic API",
+    "uv package manager",
+    "all-MiniLM-L6-v2",
+    "Python 3.10"
+  ],
+  "use_cases": [
+    "Use when setting up the initial environment for Claude Code orchestration",
+    "Configure when integrating Firecrawl MCP for automated web scraping",
+    "Implement when local vector similarity search and analytical storage are required",
+    "Configure when establishing a secure connection to the Anthropic API"
+  ],
+  "tags": [
+    "installation",
+    "dependencies",
+    "environment-setup",
+    "integration"
+  ],
+  "priority": 10,
+  "content": "**Required:**\n\n- [Claude Code](https://claude.ai/code) - AI coding assistant that orchestrates the system\n- [Firecrawl MCP](https://docs.firecrawl.dev/mcp-server) - For scraping web content\n- Python 3.10+ with `uv` package manager\n- Anthropic API key (for Claude analysis)\n\n**Python packages (auto-installed):**\n\n- `sentence-transformers` - Local embeddings (all-MiniLM-L6-v2)\n- `usearch` - Fast vector similarity search\n- `duckdb` - Embedded analytics database\n- `anthropic` - Claude API client\n- `pydantic` - Type-safe models",
+  "token_estimate": 89
+}

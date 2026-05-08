@@ -1,0 +1,29 @@
+{
+  "title": "Significance",
+  "path": "doi-10.1073-pnas.2011695118-significance",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2011695118",
+  "keywords": [
+    "natural language processing",
+    "machine learning",
+    "semantic progression",
+    "discourse analysis",
+    "speed",
+    "volume",
+    "circuitousness",
+    "narrative quantification",
+    "semantic movement"
+  ],
+  "use_cases": [
+    "Use when quantifying the progression of discourse in movies, TV shows, or academic papers",
+    "Implement when calculating semantic speed and volume for narrative success prediction",
+    "Configure when benchmarking textual content against citation or audience rating metrics"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "machine-learning",
+    "data-analysis"
+  ],
+  "priority": 10,
+  "content": "Why are some narratives (e.g., movies) or other texts (e.g., academic papers) more successful than others? Narratives are often described as moving quickly, covering lots of ground, or going in circles, but little work has quantified such movements or tested whether they might explain success. We use natural language processing and machine learning to analyze the content of almost 50,000 texts, constructing a simple set of measures (i.e., speed, volume, and circuitousness) that quantify the semantic progression of discourse. While movies and TV shows that move faster are liked more, TV shows that cover more ground are liked less. Academic papers that move faster are cited less, and papers that cover more ground or are more circuitous are cited more.",
+  "token_estimate": 159
+}

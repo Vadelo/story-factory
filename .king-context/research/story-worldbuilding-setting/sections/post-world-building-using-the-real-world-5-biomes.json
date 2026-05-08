@@ -1,0 +1,34 @@
+{
+  "title": "5. Biomes",
+  "path": "post-world-building-using-the-real-world-5-biomes",
+  "url": "https://www.grmatthews.com/post/world-building-using-the-real-world",
+  "keywords": [
+    "equator",
+    "tropical biome",
+    "tundra biome",
+    "climate gradient",
+    "vegetation distribution",
+    "weather patterns",
+    "ocean currents",
+    "north-south bands",
+    "average temperature",
+    "world map",
+    "hero journey"
+  ],
+  "use_cases": [
+    "Use when planning character movement across latitudinal gradients to reflect temperature changes.",
+    "Implement when adjusting gameplay difficulty based on biome temperature and vegetation density.",
+    "Configure when generating world maps that need realistic climate bands for immersive environments.",
+    "Use when designing environmental effects tied to specific biome types, such as fog in tundra or humidity in tropics.",
+    "Implement when simulating ocean currents that influence travel routes and resource availability."
+  ],
+  "tags": [
+    "geography",
+    "environmental simulation",
+    "world-building",
+    "game-design"
+  ],
+  "priority": 8,
+  "content": "Biomes are areas with similar climates and vegetation. The map shows the major biomes on Earth, and like much of geography, there are patterns. Imagine the equator running through Brazil, below the Sahara in Africa, and just below the horn of India. This divides the world into North and South.\n\nTo the north, there’s more land; to the south, more ocean. This impacts weather patterns and ocean currents. As biomes progress north and south in parallel bands—from tropical to tundra—changes in weather and oceans create variations in that smooth pattern.\n\nAverage temperatures drop with distance from the equator, altering the climate and vegetation. If your heroes (or villains) are embarking on a journey, consider these factors before they set off.\n\n![https://en.wikipedia.org/wiki/Biome](https://static.wixstatic.com/media/5e5df4_2b65e9d562c947a4ae0e03fad33ea4f8~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/5e5df4_2b65e9d562c947a4ae0e03fad33ea4f8~mv2.png)\n\nhttps://en.wikipedia.org/wiki/Biome\n\n![](https://static.wixstatic.com/media/5e5df4_3475a4d02170459db32e248a373e12e7~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/5e5df4_3475a4d02170459db32e248a373e12e7~mv2.jpg)",
+  "token_estimate": 163
+}

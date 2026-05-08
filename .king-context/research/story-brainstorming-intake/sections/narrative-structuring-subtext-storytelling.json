@@ -1,0 +1,34 @@
+{
+  "title": "Narrative: Structuring Subtext & Storytelling",
+  "path": "narrative-structuring-subtext-storytelling",
+  "url": "https://narrativecontextprotocol.com/",
+  "keywords": [
+    "Storyform",
+    "Subtext",
+    "Storytelling",
+    "Perspectives",
+    "Dynamics",
+    "Storypoints",
+    "Storybeats",
+    "narrative_AbnHJ147",
+    "Moments",
+    "Overviews",
+    "Objective Story Throughline"
+  ],
+  "use_cases": [
+    "Use when defining separate Storyforms within a single complex story object",
+    "Implement when separating deep thematic intent from audience-facing presentation",
+    "Configure when mapping chronological event progression through Storybeats",
+    "Use when associating specific Perspectives with structural Storypoints",
+    "Configure when organizing narrative units like acts or scenes into Moments"
+  ],
+  "tags": [
+    "narrative-structure",
+    "api-reference",
+    "thematic-framework",
+    "content-modeling"
+  ],
+  "priority": 10,
+  "content": "A single story may contain one or more narratives (e.g., The Empire Strikes Back has the Luke/Yoda Storyform and the Han/Leia Storyform, Barbie has the Barbie/Ken Storyform and the Barbie/Gloria Storyform). Most stories, however, exhibit a single central narrative (e.g., Anora, Anatomy of a Fall, etc.).\n\nA narrative consists of two core layers:\n\n- Storytelling: The high-level, audience-facing presentation of the story.\n- Subtext: The deep, underlying structure of the narrative that conveys the author’s intent.\n\nThis structure provides both depth (meaning) and flexibility (presentation) within a single, organized model, ensuring a clear distinction between what the story means (Subtext) and how the story is told (Storytelling).\n\n```json\n{\n  \"story\": {\n    \"id\": \"story_123e4567\",\n    \"title\": \"The Journey Within\",\n    \"narratives\": [\n      {\n        \"id\": \"narrative_AbnHJ147\",\n        \"title\": \"Central Form\",\n        \"subtext\": {\n          \"perspectives\": [],\n          \"players\": [],\n          \"storypoints\": [],\n          \"storybeats\": [],\n          \"dynamics\": []\n        },\n        \"storytelling\": {\n          \"overviews\": [],\n          \"moments\": []\n        }\n      }\n    ]\n  }\n}\n\n```\n\nEach layer of a narrative consists of several narrative aspects specialized for both author and audience.\n\n---\n\nSubtext aspects focus on the thematic framework and deeper meaning underlying a narrative, clearly conveying authorial intent and ensuring thematic consistency throughout the story.\n\nPerspectives enable authors to explore thematic conflicts from specific authorial viewpoints. By associating particular Storypoints and Storybeats with distinct Perspectives, authors articulate how different thematic arguments or character-driven viewpoints uniquely influence the central narrative conflict, deepening thematic resonance and clarity.\n\nWhy? Perspectives encourage authors to consciously examine their narratives through multiple lenses, enriching the story by revealing hidden tensions, motivations, and nuances from distinct viewpoints.\n\nDynamics represent narrative forces that shape the structural framework of a story. They encode the author's intended message or thematic meaning directly into the narrative structure itself. Understanding Dynamics helps authors clarify the purpose behind their craft.\n\nWhy? Dynamics help authors intentionally guide their narrative towards meaningful conclusions, ensuring the story remains purposeful and resonant from beginning to end.\n\nPlayers constitute the ensemble of characters within the Objective Story Throughline. Each Player fulfills specific narrative roles and functions, significantly advancing plot progression and reinforcing thematic exploration within the narrative framework.\n\nWhy? Clearly defining Players helps authors ensure each character's actions and decisions meaningfully support the overarching narrative, enhancing clarity, cohesion, and thematic depth.\n\nStorypoints capture essential thematic concepts and core ideas integral to the narrative. They provide depth, clarity, and consistency, enabling authors to effectively embed and communicate the deeper thematic intentions of their story.\n\nWhy? Identifying Storypoints explicitly guides authors in maintaining narrative focus and coherence, allowing them to consistently reflect and reinforce core thematic elements throughout their story.\n\nStorybeats map the chronological progression of narrative events, clearly delineating significant moments and transitions. They emphasize shifts in thematic exploration and character development, ensuring effective pacing and sustained thematic momentum throughout the narrative.\n\nWhy? Storybeats help authors manage narrative flow and emotional impact, ensuring each event meaningfully contributes to character arcs and thematic progression, enhancing audience engagement and satisfaction.\n\n---\n\nStorytelling aspects address the explicit, audience-facing presentation of a narrative. They shape how the audience experiences and engages with the story.\n\nOverviews deliver high-level storytelling components, such as Throughline descriptions, plot summaries, and character arcs. These elements offer authors and audiences a clear understanding of the narrative's direction and key thematic drivers, supporting cohesive and engaging storytelling.\n\nWhy? Overviews help authors clearly communicate their narrative's essential themes and structural direction, ensuring audiences can effortlessly follow and deeply connect with the story.\n\nMoments organize storytelling into narrative units like acts, scenes, chapters, or sequences. Each Moment includes a concise synopsis and structured references linking to associated Storybeats, providing clear narrative structure and aiding audience comprehension and engagement.\n\nWhy? Structuring storytelling through Moments ensures narratives are approachable and engaging, helping audiences intuitively grasp story progression and emotional dynamics.\n\n---",
+  "token_estimate": 828
+}

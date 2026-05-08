@@ -1,0 +1,32 @@
+{
+  "title": "Molière: *Tartuffe* (1664) — Comedy/Satire · Play · Early Modern (1600–1800)",
+  "path": "L-Earthling-temporal-literary-networks-moli-re-tartuffe-1664-comedy-satire-play-early-modern-1600-1800",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "structural signature",
+    "Comedy/Satire",
+    "entropy trajectory",
+    "alliance ratio R+",
+    "Balance B(τ)",
+    "social tone negative fraction f−",
+    "σ_sw",
+    "δ density",
+    "comedic resolution pattern",
+    "corpus analysis"
+  ],
+  "use_cases": [
+    "Use when analyzing structural differences between realism and comedic genre arcs",
+    "Use when calculating social tone metrics and alliance ratios in network graphs",
+    "Configure when modeling character interaction density and entropy spikes",
+    "Implement when simulating the 'exposure-and-resolution' arc in network theory"
+  ],
+  "tags": [
+    "network-analysis",
+    "literary-theory",
+    "quantitative-metrics",
+    "genre-analysis"
+  ],
+  "priority": 8,
+  "content": "![Tartuffe profile](figures/G_per_book/Moliere_Tartuffe.png)\n\n*Tartuffe* exemplifies the structural signature of Comedy/Satire in play form. With N=14 characters and E=44 edges (σ_sw=1.45, δ=0.484), it shows characteristic play-level density: a compact cast that recurrently interacts. The social tone is strongly negative (f− = 0.54, f+ = 0.43), driven by the antagonist's central position — the highest negative fraction for any Comedy/Satire work in the corpus. Balance B(τ) is high and stable (≈0.82) throughout, consistent with the play's clear alliance-versus-enmity structure. The entropy trajectory rises sharply in the final acts as the antagonist's deceptions are exposed to an expanding circle of characters, reflecting the genre-typical comedic resolution pattern. The alliance ratio R+ is flat and suppressed below 0.5 for most of the narrative, resolving upward only at the denouement.\n\n---\n\n**Comparison note.** Contrasting these two profiles illustrates a key structural distinction: *Karenina*'s declining alliance ratio reflects the realist genre's characteristic unresolvable moral deterioration, while *Tartuffe*'s late entropy spike reflects the comedic genre's structural exposure-and-resolution arc. Both are consistent with their respective genre-level trajectories in the aggregate corpus analysis.\n\n---",
+  "token_estimate": 231
+}

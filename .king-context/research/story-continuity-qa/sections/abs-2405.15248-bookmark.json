@@ -1,0 +1,35 @@
+{
+  "title": "Bookmark",
+  "path": "abs-2405.15248-bookmark",
+  "url": "https://arxiv.org/abs/2405.15248",
+  "keywords": [
+    "Bibliographic Explorer",
+    "Connected Papers",
+    "scite Smart Citations",
+    "Hugging Face Spaces",
+    "Papers with Code",
+    "arXivLabs",
+    "CORE Recommender",
+    "Influence Flower",
+    "CatalyzeX",
+    "DagsHub",
+    "alphaXiv",
+    "TXYZ.AI"
+  ],
+  "use_cases": [
+    "Use when searching for source code and datasets associated with research papers",
+    "Use when exploring bibliographic connections and citation networks between articles",
+    "Configure when enabling experimental community-developed features through arXivLabs",
+    "Implement when visualizing the impact and influence of specific authors or institutions",
+    "Use when seeking interactive demos or model implementations for academic work"
+  ],
+  "tags": [
+    "integrations",
+    "bibliometrics",
+    "research-tools",
+    "community-projects"
+  ],
+  "priority": 8,
+  "content": "![BibSonomy logo](https://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png)\n\n![Reddit logo](https://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png)\n\nBibliographic Tools\n\n# Bibliographic and Citation Tools\n\nBibliographic Explorer Toggle\n\nBibliographic Explorer (What is the Explorer?)\n\nConnected Papers Toggle\n\nConnected Papers (What is Connected Papers?)\n\nLitmaps Toggle\n\nLitmaps (What is Litmaps?)\n\nscite.ai Toggle\n\nscite Smart Citations (What are Smart Citations?)\n\nCode, Data, Media\n\n# Code, Data and Media Associated with this Article\n\nalphaXiv Toggle\n\nalphaXiv (What is alphaXiv?)\n\nLinks to Code Toggle\n\nCatalyzeX Code Finder for Papers (What is CatalyzeX?)\n\nDagsHub Toggle\n\nDagsHub (What is DagsHub?)\n\nGotitPub Toggle\n\nGotit.pub (What is GotitPub?)\n\nHuggingface Toggle\n\nHugging Face (What is Huggingface?)\n\nLinks to Code Toggle\n\nPapers with Code (What is Papers with Code?)\n\nScienceCast Toggle\n\nScienceCast (What is ScienceCast?)\n\nDemos\n\n# Demos\n\nReplicate Toggle\n\nReplicate (What is Replicate?)\n\nSpaces Toggle\n\nHugging Face Spaces (What is Spaces?)\n\nSpaces Toggle\n\nTXYZ.AI (What is TXYZ.AI?)\n\nRelated Papers\n\n# Recommenders and Search Tools\n\nLink to Influence Flower\n\nInfluence Flower (What are Influence Flowers?)\n\nCore recommender toggle\n\nCORE Recommender (What is CORE?)\n\n- Author\n- Venue\n- Institution\n- Topic\n\nAbout arXivLabs\n\n# arXivLabs: experimental projects with community collaborators\n\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+  "token_estimate": 329
+}

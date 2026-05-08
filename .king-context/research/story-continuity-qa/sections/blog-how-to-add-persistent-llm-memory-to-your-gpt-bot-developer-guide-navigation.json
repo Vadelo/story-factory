@@ -1,0 +1,29 @@
+{
+  "title": "Navigation",
+  "path": "blog-how-to-add-persistent-llm-memory-to-your-gpt-bot-developer-guide-navigation",
+  "url": "https://hydradb.com/blog/how-to-add-persistent-llm-memory-to-your-gpt-bot-developer-guide",
+  "keywords": [
+    "HydraDB",
+    "benchmarks",
+    "Workbench",
+    "Pricing",
+    "Privacy Policy",
+    "Terms & Conditions",
+    "manifesto",
+    "API documentation"
+  ],
+  "use_cases": [
+    "Use when navigating the high-level site structure",
+    "Configure when setting up primary footer or header links",
+    "Implement when providing access to core account services and legal terms",
+    "Use when evaluating database performance via benchmarks"
+  ],
+  "tags": [
+    "navigation",
+    "site-map",
+    "general-info"
+  ],
+  "priority": 4,
+  "content": "- Manifesto\n- Why HydraDB\n- Benchmarks\n- Use Cases\n- Workbench\n- Blog\n- Documentation\n- Sign Up\n- GET STARTED\n- Home\n- Contact\n- About\n- Pricing\n- Privacy Policy\n- Terms & Conditions",
+  "token_estimate": 49
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "cidade-dos-mapas-vivos",
+  "title": "A Cidade dos Mapas Vivos",
+  "language": "pt-BR",
+  "form": "novel",
+  "brief": {
+    "audience": "adult fantasy readers",
+    "tone": "mysterious, emotional, tense",
+    "output": "story bible + chapter 1"
+  },
+  "bible": {
+    "premise": "Uma cartografa descobre que os mapas de sua cidade respiram, mentem e apagam pessoas que conhecem rotas proibidas.",
+    "themes": ["memoria", "verdade", "pertencimento"],
+    "genre_contract": {
+      "primary": "dark fantasy",
+      "promise": "mystery, wonder, danger, moral choice"
+    },
+    "characters": [
+      {
+        "name": "Lia Arcos",
+        "role": "protagonist",
+        "desire": "find her missing brother",
+        "flaw": "trusts maps more than people"
+      }
+    ],
+    "world": {
+      "setting": "a walled city where maps are legal documents and living witnesses",
+      "rules": ["A map can only lie after someone bleeds on it."]
+    },
+    "timeline": [
+      "Lia finds a district erased from every official map."
+    ],
+    "outline": [
+      "Chapter 1: Lia receives a map that moves under glass."
+    ],
+    "style_guide": {
+      "pov": "close third",
+      "tense": "past",
+      "style": "cinematic, sensory, restrained lyricism"
+    },
+    "continuity_ledger": [
+      "Living maps react to blood and spoken names."
+    ],
+    "open_threads": [
+      "Who benefits from erasing the forbidden district?"
+    ]
+  },
+  "drafts": [
+    {
+      "id": "chapter-001",
+      "title": "O Mapa Sob o Vidro",
+      "summary": "Lia receives a moving map and sees her brother's name vanish.",
+      "content_md": "## O Mapa Sob o Vidro\n\nLia Arcos nunca confiava em uma rua que permanecia no mesmo lugar por tempo demais.",
+      "canon_changes": ["Lia's brother is missing."],
+      "continuity_notes": ["The map moves only when covered by glass."]
+    }
+  ],
+  "revision_history": []
+}

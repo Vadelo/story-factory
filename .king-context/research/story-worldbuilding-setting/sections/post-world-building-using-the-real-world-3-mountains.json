@@ -1,0 +1,32 @@
+{
+  "title": "3. Mountains",
+  "path": "post-world-building-using-the-real-world-3-mountains",
+  "url": "https://www.grmatthews.com/post/world-building-using-the-real-world",
+  "keywords": [
+    "plate tectonics",
+    "Himalayas",
+    "volcanoes",
+    "mountain ranges",
+    "altitude",
+    "temperature drop",
+    "moisture",
+    "rainfall",
+    "snowfall",
+    "ocean floor"
+  ],
+  "use_cases": [
+    "Use when explaining how mountain chains form from tectonic plate convergence.",
+    "Implement when modeling altitude‑based climate gradients (temperature and precipitation).",
+    "Configure when designing educational modules on geological processes.",
+    "Use when analyzing the distribution of volcanoes along active plate margins.",
+    "Use when interpreting geological data showing marine fossils in mountain rocks."
+  ],
+  "tags": [
+    "geology",
+    "climate",
+    "education"
+  ],
+  "priority": 8,
+  "content": "![](https://static.wixstatic.com/media/5e5df4_665f357d6e0b4bbeb63f88ba6cd2d3b0~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/5e5df4_665f357d6e0b4bbeb63f88ba6cd2d3b0~mv2.jpg)\n\nPlate tectonics build mountains. The tallest mountains on Earth are the youngest, like the Himalayas. If you climbed to the top, you’d find seashells in the rocks. They didn’t swim up there; those mountains were once the ocean floor. As the plates crashed into each other—slowly—the sea floor buckled and rose into mountains.\n\nIf the plate margin is still active, you might find volcanoes among those mountains. Japan and New Zealand are prime examples. When you look at an atlas, you’ll see that mountains like the Himalayas, Rockies, and Alps form chains and ranges, not isolated peaks.\n\nAs altitude increases, temperature drops. Cooler air can’t hold as much moisture, leading to increased rainfall and snowfall—up to the point where it’s too cold to form any moisture at all. When snow melts or rainwater flows downhill, you get…",
+  "token_estimate": 183
+}

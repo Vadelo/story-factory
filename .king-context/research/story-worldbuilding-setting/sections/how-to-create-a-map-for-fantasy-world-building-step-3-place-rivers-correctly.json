@@ -1,0 +1,35 @@
+{
+  "title": "Step 3: Place Rivers Correctly",
+  "path": "how-to-create-a-map-for-fantasy-world-building-step-3-place-rivers-correctly",
+  "url": "https://zainahyousef.com/how-to-create-a-map-for-fantasy-world-building/",
+  "keywords": [
+    "river placement",
+    "high elevation",
+    "low elevation",
+    "ocean",
+    "large lake",
+    "upstream branching",
+    "civilization",
+    "city placement",
+    "fresh water",
+    "transport",
+    "fertile farmland",
+    "Map Builder Workbook"
+  ],
+  "use_cases": [
+    "Use when placing major cities along riverbanks to ensure access to fresh water and transport routes.",
+    "Implement when determining river flow direction from high to low elevation to avoid unrealistic upstream splits.",
+    "Configure when linking rivers to oceans or large lakes for accurate drainage basins.",
+    "Use when designing fertile farmland areas adjacent to rivers for agricultural zones.",
+    "Implement when integrating river features with civilization spread in fictional map generation."
+  ],
+  "tags": [
+    "cartography",
+    "worldbuilding",
+    "city-planning",
+    "geography"
+  ],
+  "priority": 8,
+  "content": "Rivers are probably the most commonly misplaced feature in fictional maps, so this step deserves a bit of extra attention. In reality, rivers flow from high elevation to low elevation and empty into oceans or large lakes. They do not split into multiple branches upstream.\n\nRivers are also some of the most important features for civilization. Cities frequently appear along riverbanks because they provide fresh water, transport, and fertile farmland. If you are wondering where to put a major city, look at where your rivers are first.\n\nYou can also use my companion Map Builder Workbook to help you figure out your river placement logic better!",
+  "token_estimate": 140
+}

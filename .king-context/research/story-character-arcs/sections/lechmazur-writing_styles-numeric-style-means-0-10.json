@@ -1,0 +1,35 @@
+{
+  "title": "Numeric style means (0–10)",
+  "path": "lechmazur-writing_styles-numeric-style-means-0-10",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "Style Fingerprints",
+    "Numeric Style Axes",
+    "surface craft bundle",
+    "dialogue subtext",
+    "closure cadence",
+    "fabulist-realism spectrum",
+    "internal-external ratio",
+    "associative gaps",
+    "syntax complexity",
+    "paragraphing/lineation",
+    "worldbuilding intensity",
+    "first-person share"
+  ],
+  "use_cases": [
+    "Configure when benchmarking LLMs based on specific stylistic traits like dialogue subtext or closure cadence",
+    "Use when selecting a model for creative writing tasks requiring high imagery and rhythm scores",
+    "Implement when comparing model-specific paragraphing and lineation tendencies for long-form content",
+    "Use when evaluating the worldbuilding intensity and realism spectrum for narrative generation",
+    "Configure when analyzing model snapshots to determine the ratio of internal vs external pressure in outputs"
+  ],
+  "tags": [
+    "style-benchmarking",
+    "model-comparison",
+    "creative-writing",
+    "llm-evaluation"
+  ],
+  "priority": 8,
+  "content": "![Style Fingerprints • Per-LLM Means for Numeric Style Axes (0–10)](images/style_numeric_axes_heatmap.png)\n\n- **High-style cluster.** Kimi K2 sits at the top of the craft cluster (voice, imagery, rhythm, tone, concreteness), with the latest GPT-5 variants (GPT-5 Pro, GPT-5.1, GPT-5.2) and o3-pro close behind. Kimi K2-0905 and Qwen 3 Max Preview also score strongly across the same “surface craft” bundle.\n- **Paragraphing split.** GPT-OSS-120B remains a clear outlier with extremely low paragraphing/lineation (blocky pages). Mistral Medium 3.1 leads this axis, with o3-pro and GPT-5 Pro also using notably varied paragraphing; GLM-4.6 and Deepseek V3.2 Exp are the next-lowest after GPT-OSS-120B.\n- **Dialogue fingerprint.** Claude Sonnet 4.5 (no reasoning) and Mistral Large 3 use the most dialogue by volume (with Baidu Ernie 4.5 close behind). On *dialogue subtext*, Mistral Medium 3.1 leads, followed by GPT-5 Pro and GPT-5.2 (medium reasoning). Llama 4 Maverick and GPT-OSS-120B are sparse on both.\n- **Experimentation.** GPT-5 Pro shows the highest experimentation and associative gaps in the latest GPT-5 line, with Kimi K2-0905 the next tier. Most other models remain comparatively conservative on formal play.\n- **Endings.** Kimi K2-0905 and Qwen 3 Max Preview post the strongest closure cadence, with GPT-5 Pro close behind. Kimi K2’s endings are comparatively softer given its high craft scores elsewhere.\n- **World feel.** Several models lean away from strict realism: Kimi K2-0905, GPT-OSS-120B, and Kimi K2 are the most fabulist on the realism spectrum. Worldbuilding intensity is highest for GPT-5.2 (medium reasoning), Kimi K2-0905, and Gemini 3 Pro Preview.\n- **Structure and pace.** Kimi K2, o3-pro, and Mistral Medium 3.1 lead structure/pacing, while Llama 4 Maverick sits at the bottom across most structure/craft axes.\n- **Internal vs external pressure.** GPT-5.2 (medium reasoning), Gemini 3 Pro Preview, and Grok 4.1 Fast Reasoning push the farthest toward external action, while Llama 4 Maverick and GPT-OSS-120B skew most internal.\n- **Model snapshots.**\n\n* **GPT-5.2 (medium reasoning):** high worldbuilding intensity and the strongest external-action tilt (internal–external ratio), with high syntax complexity and strong dialogue subtext; diversity near the top of the leaderboard.\n * **GPT-5 Pro:** near-max voice/imagery with the strongest dialogue subtext in the GPT-5 line and top-tier closure cadence; very high first-person share.\n * **Kimi K2:** top craft cluster with the strongest structure/pacing; high concreteness and a fabulist tilt; comparatively soft closure cadence.\n * **Kimi K2-0905:** highest syntax complexity and closure cadence; high concreteness and worldbuilding intensity; strong “crafted” endings.\n * **Mistral Medium 3.1:** best paragraphing/lineation and highest dialogue subtext; strong pacing with a balanced overall profile.\n * **GPT-OSS-120B:** lush voice/imagery with extremely low paragraphing and minimal dialogue; among the lowest diversity scores.\n * **Llama 4 Maverick:** lowest on most numeric craft axes, very solo-cast and internally focused, minimal dialogue; low diversity.\n\n---",
+  "token_estimate": 594
+}

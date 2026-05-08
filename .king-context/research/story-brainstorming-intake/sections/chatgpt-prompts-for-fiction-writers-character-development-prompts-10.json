@@ -1,0 +1,35 @@
+{
+  "title": "Character development prompts (10)",
+  "path": "chatgpt-prompts-for-fiction-writers-character-development-prompts-10",
+  "url": "https://blog.chapter.pub/chatgpt-prompts-for-fiction-writers/",
+  "keywords": [
+    "character interview",
+    "contradiction builder",
+    "backstory generator",
+    "voice developer",
+    "motivation mapper",
+    "relationship dynamic builder",
+    "secondary character ensemble",
+    "character flaw deepener",
+    "antagonist humanizer",
+    "character arc planner"
+  ],
+  "use_cases": [
+    "Use when building characters with internal contradictions to drive narrative tension",
+    "Configure when mapping deep psychological motivations through multi-layered layers of desire",
+    "Implement when generating formative backstories that link childhood events to present-day fears",
+    "Use when developing distinct linguistic voices for multiple characters in the same scene",
+    "Configure when planning a character arc that tracks internal transformation and shifting misbeliefs",
+    "Implement when creating an ensemble of secondary characters designed to challenge a protagonist's worldview"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-engineering",
+    "character-design",
+    "storytelling",
+    "narrative-tools"
+  ],
+  "priority": 10,
+  "content": "Build characters with depth, specificity, and internal contradictions that drive story.\n\n11. Character interview\n\nYou are [character name], a [brief description]. I’m going to interview you. Answer as this character, staying in voice. Start by telling me about the worst decision you ever made and why you would make it again.\n\n12. Contradiction builder\n\nCreate a character profile for a [role] who holds two contradictory beliefs: [belief 1] and [belief 2]. Explain how they rationalize this contradiction, when it causes problems, and what would force them to choose.\n\n13. Backstory generator\n\nMy character is [current description]. Generate a backstory with 3 formative events (childhood, adolescence, recent past) that explain why they are who they are now. Each event should connect to a specific behavior or fear they display in the present.\n\n14. Voice developer\n\nWrite the same scene — ordering coffee at a diner — from the perspective of these 3 characters: [character 1 description], [character 2 description], [character 3 description]. Each version should be 150 words and sound completely different in vocabulary, sentence rhythm, and what they notice.\n\n15. Motivation mapper\n\nMy character wants [stated goal]. Help me map their deeper motivations using 5 layers: What do they say they want? What do they actually want? What do they need? What are they afraid of getting? What would destroy them if they got it?\n\n16. Relationship dynamic builder\n\nCreate the dynamic between [character A] and [character B]. Define their shared history, the power balance between them, what each wants from the other, their unspoken conflict, and the specific sentence that would end their relationship.\n\n17. Secondary character ensemble\n\nMy protagonist is [description]. Create 5 secondary characters who each challenge a different aspect of the protagonist’s worldview. For each, give me a name, one-line description, their relationship to the protagonist, and the specific belief they challenge.\n\n18. Character flaw deepener\n\nMy character’s flaw is [flaw]. Show me how this flaw manifests in 5 different contexts: a romantic relationship, a professional situation, a crisis, a moment of success, and a quiet moment alone.\n\n19. Antagonist humanizer\n\nMy antagonist is [description]. Write their version of events — from their perspective, they are the hero. Explain their motivation, their justification, the moment they chose this path, and what they have sacrificed.\n\n20. Character arc planner\n\nMap a character arc for [character] across [number] chapters. Start with their misbelief, identify 3 turning points where their perspective shifts, the moment of crisis where they almost regress, and the final transformation. Specify what changes internally vs. what changes externally.",
+  "token_estimate": 562
+}

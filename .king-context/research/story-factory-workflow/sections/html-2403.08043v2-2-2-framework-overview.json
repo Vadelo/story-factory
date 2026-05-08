@@ -1,0 +1,32 @@
+{
+  "title": "2.2 Framework Overview",
+  "path": "html-2403.08043v2-2-2-framework-overview",
+  "url": "https://arxiv.org/html/2403.08043v2",
+  "keywords": [
+    "Astrapop",
+    "supervised fine-tuning",
+    "policy optimization",
+    "reward model",
+    "pseudo-parallel data",
+    "Toward and Away objectives",
+    "STRAP strategy",
+    "authorship style transfer",
+    "reference model",
+    "non-parallel data"
+  ],
+  "use_cases": [
+    "Implement when training a model for authorship style transfer with limited parallel datasets.",
+    "Configure when optimizing a reference model using adversarial objective functions.",
+    "Use when generating pseudo-parallel training data via paraphrasing techniques.",
+    "Configure when building a dual-stage pipeline involving reward modeling and policy refinement."
+  ],
+  "tags": [
+    "machine-learning",
+    "nlp",
+    "training-framework",
+    "style-transfer"
+  ],
+  "priority": 10,
+  "content": "Astrapop contains two main stages: supervised fine-tuning and policy optimization. The framework overview is shown in Figure 1. In the supervised fine-tuning stage, we train a reward model on labeled non-parallel data and a reference model on parallel in-domain data for policy optimization. Due to a lack of parallel authorship style transfer data, we use the style transfer via paraphrasing (STRAP) strategy described in Krishna et al. (2020) to generate pseudo-parallel data to train the reference model. Then, in the policy optimization stage, we directly optimize the reference model from the SFT stage on the Toward and Away objectives.",
+  "token_estimate": 131
+}

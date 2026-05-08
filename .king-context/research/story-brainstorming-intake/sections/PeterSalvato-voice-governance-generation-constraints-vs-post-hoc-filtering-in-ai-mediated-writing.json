@@ -1,0 +1,32 @@
+{
+  "title": "Generation Constraints vs. Post-Hoc Filtering in AI-Mediated Writing",
+  "path": "PeterSalvato-voice-governance-generation-constraints-vs-post-hoc-filtering-in-ai-mediated-writing",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "AI-Mediated Writing",
+    "Generation Constraints",
+    "Post-Hoc Filtering",
+    "voice-governance",
+    "voice rules",
+    "forty-rule protocol",
+    "prompt engineering",
+    "conversational tone",
+    "DOI:10.5281/zenodo.18986297",
+    "structural output"
+  ],
+  "use_cases": [
+    "Use when drafting project documentation that requires a distinct human-sounding voice",
+    "Implement when moving from post-generation editing to constraint-based AI generation",
+    "Configure when training or prompting LLMs to avoid generic abstract openings in technical writing",
+    "Use when developing a standardized protocol for consistent persona-driven content"
+  ],
+  "tags": [
+    "Content Strategy",
+    "AI-Assisted Writing",
+    "Prompt Engineering",
+    "Philosophy"
+  ],
+  "priority": 8,
+  "content": "The first complete draft of this site was produced through conventional AI-assisted writing. Twenty-one project pages. Every one of them opened with an abstract concept before any real situation was established. \"This project explores the intersection of...\" on a page that should have said what broke and what I built to fix it. The pages were competent. Not one of them sounded like a person had written it.\n\nI found that applying voice rules during generation, not after, produces structurally different output. This paper documents a forty-rule protocol built from how I actually talk in conversation, not from how I write when I know someone is reading.\n\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986297.svg)](https://doi.org/10.5281/zenodo.18986297)\n\n**Source:** [github.com/PeterSalvato/voice-governance](https://github.com/PeterSalvato/voice-governance)\n\n**Peter Salvato**\nDesign Engineer | [petersalvato.com](https://petersalvato.com/)\nMarch 2026\n\n---",
+  "token_estimate": 158
+}

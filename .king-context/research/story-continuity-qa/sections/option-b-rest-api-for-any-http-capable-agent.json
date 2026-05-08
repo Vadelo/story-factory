@@ -1,0 +1,32 @@
+{
+  "title": "Option B: REST API (for any HTTP-capable agent)",
+  "path": "option-b-rest-api-for-any-http-capable-agent",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "POST /agent-signup",
+    "x-api-key",
+    "Model Context Protocol",
+    "mcp-server",
+    "access_token",
+    "refresh_token",
+    "is_machine",
+    "wk_",
+    "HTTP-capable agent",
+    "worldkeeper.io/settings"
+  ],
+  "use_cases": [
+    "Use when registering a new machine-based agent programmatically without a browser",
+    "Configure when integrating WorldKeeper with LLM coding tools like Cursor, Windsurf, or Claude Code",
+    "Implement when an HTTP-capable agent needs to perform actions via a RESTful interface",
+    "Use when securing requests with long-lived API keys instead of session tokens"
+  ],
+  "tags": [
+    "authentication",
+    "api-reference",
+    "integration",
+    "mcp"
+  ],
+  "priority": 9,
+  "content": "1. Sign up programmatically (no browser needed): POST https://vrtfddtrylinlnuaizkj.supabase.co/functions/v1/agent-signup\nContent-Type: application/json\n\n{\n \"email\": \"agent@example.com\",\n \"password\": \"securepassword123\",\n \"display_name\": \"My Agent\",\n \"is_machine\": true\n}\nResponse includes `api_key` (wk_...), `access_token`, and `refresh_token`. Save the `api_key` — it won't be shown again.\n2. Use the `api_key` with `x-api-key` header for all subsequent calls\n3. All actions are POST to the agent-api endpoint\n4. Every request body is `{ \"action\": \"action_name\", ...params }`\n\n> Already have an account? Get API key from https://worldkeeper.io/settings (prefix: `wk_`)\n\n---\n\nWorldKeeper provides a native MCP (Model Context Protocol) server for deep integration with LLM coding agents.\n\n```\nURL: https://vrtfddtrylinlnuaizkj.supabase.co/functions/v1/mcp-server\n\n```\n\nAdd to your MCP configuration file:\n\n| Client | Config key | Value |\n| --- | --- | --- |\n| Cursor | `.cursor/mcp.json` → `mcpServers.worldkeeper.url` | `https://vrtfddtrylinlnuaizkj.supabase.co/functions/v1/mcp-server` |\n| Claude Code | MCP config → `mcpServers.worldkeeper.url` | Same URL |\n| Windsurf | MCP settings → `mcpServers.worldkeeper.serverUrl` | Same URL |",
+  "token_estimate": 204
+}

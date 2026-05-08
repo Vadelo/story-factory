@@ -1,0 +1,35 @@
+{
+  "title": "Organizing Your Story Beats",
+  "path": "learn-building-screenplay-structure-organizing-your-story-beats",
+  "url": "https://www.finaldraft.com/learn/building-screenplay-structure/",
+  "keywords": [
+    "Beat Board™",
+    "three-act structure",
+    "inciting incident",
+    "Act I",
+    "Act II",
+    "Act III",
+    "Final Draft",
+    "color coding",
+    "Control clicking",
+    "right‑click",
+    "custom color option"
+  ],
+  "use_cases": [
+    "Use when you want to visually separate beats by act using color codes in Final Draft.",
+    "Implement when you need to quickly locate the inciting incident within your story beats.",
+    "Configure when you want to assign specific colors to each act for at-a-glance navigation.",
+    "Use when you want to group related beats together by assigning them a common custom color.",
+    "Implement when you need to distinguish character development beats from plot beats within Act II."
+  ],
+  "tags": [
+    "story planning",
+    "plot structure",
+    "manuscript organization",
+    "writing software",
+    "formatting"
+  ],
+  "priority": 7,
+  "content": "In our last lesson, we discussed story beats and utilizing the Beat Board™ to brainstorm and create beats. But now that you’ve got all these beats in your Beat Board, what should you do with them or, more to the point, how do you organize them?\n\nFirst and foremost, think of your main character (aka your protagonist). Ultimately this is their story, and the story should be structured in a way that reflects this. The general trajectory of your protagonist should work within the three-act structure.\n\nAnything dealing with your protagonist’s introduction, establishing their characteristics, their primary goal and “the inciting incident” (an event that causes your protagonist to take action) should be designated to Act I. Beats dealing with the various challenges or obstacles facing them as the story progresses should be designated to Act II. Finally, the story’s climax and resolution should be designated to Act III. Once again, a beginning, middle and end.\n\nBeats within the Beat Board in Final Draft can be color coded. On a Mac, Control clicking will open a list of colors to choose from. On Windows, right-click to open the list of colors. At the bottom of the list is a custom color option, which brings up multiple options for creating colors. This is a good way to organize certain beats that have a relationship to each other. Assign colors for each act, so upon a cursory glance, you know whether a beat belongs in Act I, II or III:",
+  "token_estimate": 329
+}

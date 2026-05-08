@@ -1,0 +1,33 @@
+{
+  "title": "Overview & Challenges",
+  "path": "projects-sibyl-overview-challenges",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "narrative structure",
+    "temporal consistency",
+    "character arcs",
+    "thematic threads",
+    "indexing",
+    "indexation",
+    "fact-checking",
+    "plot consistency",
+    "relationship mapping",
+    "manuscript analysis"
+  ],
+  "use_cases": [
+    "Implement when scaling complex story narratives across multiple chapters or series",
+    "Use when tracking character consistency and eye color details automatically",
+    "Configure when requiring a system to distinguish between intentional mysteries and accidental plotholes",
+    "Use when moving away from manual spreadsheet-based story indexing",
+    "Implement when maintaining long-term chronological cause and effect in prose"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "content-integrity",
+    "concept-overview",
+    "automation"
+  ],
+  "priority": 10,
+  "content": "The Limits of Keeping It All in Your Head\n\nEvery novelist faces the same scaling problem. In the first few chapters, you can track the details: who knows what, which characters have met, what the weather was during a key scene, whether that minor character's eye color changed between chapters two and seventeen. But as a story grows - especially across a series - the complexity outpaces human memory. Contradictions creep in. Timelines drift. Characters behave inconsistently not because the author intended it, but because the author forgot. Existing tools approach this problem with spreadsheets, wikis, or basic note-taking. They require the author to do the indexing work manually - maintaining a separate database of facts about their own story. That's backwards. The information already exists in the manuscript. What's missing is something that can read the entire world, understand the relationships within it, and guide the author through the implications of every creative decision. The challenge is building a system that doesn't just search text, but truly understands narrative structure: cause and effect, character arcs, thematic threads, temporal consistency, and the difference between an intentional mystery and an accidental plothole.",
+  "token_estimate": 254
+}

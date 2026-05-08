@@ -1,0 +1,32 @@
+{
+  "title": "Common Pitfalls (and How to Avoid Them)",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-common-pitfalls-and-how-to-avoid-them",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "rebranding",
+    "visual refresh",
+    "ops alignment",
+    "copy templates",
+    "shared themes",
+    "high-stakes flows",
+    "data workflows",
+    "Google Sheets structure",
+    "brand consistency",
+    "consent forms"
+  ],
+  "use_cases": [
+    "Use when executing a brand identity transition across existing digital forms",
+    "Configure when syncing downstream data workflows with updated form fields",
+    "Implement when stabilizing UI consistency across multiple experimental form versions",
+    "Use when prioritizing specific user trust touchpoints like payment and consent"
+  ],
+  "tags": [
+    "best-practices",
+    "troubleshooting",
+    "deployment-strategies",
+    "governance"
+  ],
+  "priority": 7,
+  "content": "As you roll out a form-led rebrand, watch for these traps:\n\nVisual refresh without story change\n\n- Symptom: New colors, same confusing questions.\n- Fix: Rewrite section headers and helper text to match your new positioning before you touch the palette.\n\nStory change without ops alignment\n\n- Symptom: Forms ask new questions, but your spreadsheets and workflows still expect old fields.\n- Fix: Update your Google Sheets structure and downstream workflows in parallel so data stays usable. See From Spreadsheet Chaos to Source of Truth for a blueprint.\n\nToo many one-off experiments\n\n- Symptom: Every form looks and sounds slightly different, even under the new brand.\n- Fix: Promote successful experiments into shared themes and copy templates.\n\nIgnoring high-stakes flows\n\n- Symptom: Payment or consent forms still feel like a different company.\n- Fix: Prioritize these flows early. They’re where trust is most fragile—and where a cohesive brand matters most.\n\n---",
+  "token_estimate": 200
+}

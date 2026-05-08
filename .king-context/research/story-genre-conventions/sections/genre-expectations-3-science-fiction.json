@@ -1,0 +1,30 @@
+{
+  "title": "3. Science Fiction",
+  "path": "genre-expectations-3-science-fiction",
+  "url": "https://self-publishingschool.com/genre-expectations/",
+  "keywords": [
+    "Science Fiction",
+    "futuristic plot",
+    "technological advancement",
+    "Time Travel",
+    "Military subgenre",
+    "Alien Invasion",
+    "First Contact",
+    "societal regressions",
+    "Amazon book categorization"
+  ],
+  "use_cases": [
+    "Use when defining core plot expectations for a futuristic setting",
+    "Configure when categorizing manuscripts into specific subgenres like Time Travel or Alien Invasion",
+    "Implement when exploring societal shifts through advanced technological means",
+    "Use when aligning narrative themes with military-focused science fiction frameworks"
+  ],
+  "tags": [
+    "genre-definitions",
+    "narrative-structure",
+    "subgenre-classification"
+  ],
+  "priority": 8,
+  "content": "Overall Genre expectations: In this genre, readers will expect a futuristic, advanced technologically, or space-centered plot. The idea is to take a look at current societal advancements or regressions and explore them with more “advanced” means.\n\nThere are a ton of subgenres that go into science fiction, and most of their expectations only require including elements of the subgenre name. Take a look at these examples from Amazon to see how they organize sci-fi books.\n\nAs you can see, the “Time Travel” subgenre would require time traveling along with the other science fiction expectations. For something like the “military” subgenre, it would be plot-specific and require the plot to include a military focus. “Alien Invasion” is obvious, as is “First Contact”.",
+  "token_estimate": 160
+}

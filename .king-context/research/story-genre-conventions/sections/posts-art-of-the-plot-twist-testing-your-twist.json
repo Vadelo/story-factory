@@ -1,0 +1,30 @@
+{
+  "title": "Testing Your Twist",
+  "path": "posts-art-of-the-plot-twist-testing-your-twist",
+  "url": "https://www.elaineflinn.com/posts/art-of-the-plot-twist/",
+  "keywords": [
+    "Hindsight Test",
+    "Clue Audit",
+    "Motivation Check",
+    "Fair Play Review",
+    "revelation support",
+    "psychological foundations",
+    "narrative structural integrity",
+    "pre-twist verification"
+  ],
+  "use_cases": [
+    "Use when evaluating if a narrative revelation is logically sound and foreshadowed",
+    "Configure when performing an audit of clues to ensure fair play for readers",
+    "Implement when checking if character motivations remain consistent post-revelation",
+    "Use when validating if a plot twist improves the overall satisfaction of the story retrospectively"
+  ],
+  "tags": [
+    "narrative-design",
+    "quality-assurance",
+    "creative-writing",
+    "story-analysis"
+  ],
+  "priority": 8,
+  "content": "Before finalizing your plot twist, subject it to rigorous testing:\n\nThe Hindsight Test: Does the twist make the entire story more satisfying when viewed in retrospect? Do previously confusing elements now make sense?\n\nThe Clue Audit: Can readers find all necessary information in the text before the revelation? Mark every clue that supports your twist and ensure they're all present and accessible.\n\nThe Motivation Check: Does the twist provide adequate motivation for all character actions? Can you trace each character's behavior back to logical psychological foundations?\n\nThe Fair Play Review: Could a careful, intelligent reader solve the mystery based on the information provided? The answer should be \"yes, but it would be difficult.\"",
+  "token_estimate": 150
+}

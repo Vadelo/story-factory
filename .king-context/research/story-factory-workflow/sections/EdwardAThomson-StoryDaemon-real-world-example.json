@@ -1,0 +1,32 @@
+{
+  "title": "Real-World Example",
+  "path": "EdwardAThomson-StoryDaemon-real-world-example",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "novel list scenes",
+    "tension_level",
+    "word_count",
+    "pov_character",
+    "scene_000.md",
+    "rising tension",
+    "narrative oscillation",
+    "tension tracking",
+    "mystery narrative",
+    "scene metadata"
+  ],
+  "use_cases": [
+    "Use when reviewing the narrative flow and pacing of a generated story",
+    "Configure when balancing emotional intensity across multiple chapters",
+    "Implement when auditing POV character distribution and scene lengths",
+    "Use when validating that tension levels oscillate to prevent reader exhaustion"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "cli-commands",
+    "content-monitoring",
+    "storytelling-metrics"
+  ],
+  "priority": 8,
+  "content": "Here's what tension tracking looks like in a generated story:\n\n```bash\n$ novel list scenes\n\n Scenes (5 total)\n\n  file          word_count  pov_character  tension_level\n  ------------  ----------  -------------  -----------------\n  scene_000.md  451         Jynyn          None\n  scene_001.md  281         Jynyn          6/10 (rising)\n  scene_002.md  340         Jynyn          5/10 (rising)\n  scene_003.md  863         Jynyn          6/10 (rising)\n  scene_004.md  518         Jynyn          5/10 (rising)\n```\n\n**Scene 1 (6/10 - rising):** Discovery of mysterious conduit under ice shelf \n**Scene 2 (5/10 - rising):** Descending into the structure \n**Scene 3 (6/10 - rising):** Examining ancient machinery \n**Scene 4 (5/10 - rising):** Uncovering hidden messages\n\nThe tension naturally oscillates between 5-6/10, maintaining engagement without exhaustion - perfect for a mystery/investigation narrative!",
+  "token_estimate": 138
+}

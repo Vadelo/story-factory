@@ -1,0 +1,32 @@
+{
+  "title": "The Solution",
+  "path": "blog-2026-02-23-ai-writing-continuity-the-solution",
+  "url": "https://docs.bswen.com/blog/2026-02-23-ai-writing-continuity",
+  "keywords": [
+    "cross-referencing",
+    "story bible",
+    "Galleys",
+    "parse_story_bible",
+    "index_chapters",
+    "cross_check",
+    "flag_issues",
+    "validation engine",
+    "automated continuity",
+    "metadata extraction"
+  ],
+  "use_cases": [
+    "Use when validating new story chapters against established narrative facts",
+    "Implement when mapping character and setting consistency across a long-form series",
+    "Configure when automating the identification of narrative contradictions",
+    "Use when indexing historical chapter data for factual retrieval"
+  ],
+  "tags": [
+    "content-validation",
+    "automation",
+    "data-consistency",
+    "system-architecture"
+  ],
+  "priority": 9,
+  "content": "I built an automated continuity system called “Galleys” that cross-references every chapter against your story bible and all preceding chapters.\n\nHere’s the system architecture:\n\n```\n┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐│   Story Bible   │ → │  Galleys        │ → │  New Chapter    ││ (Character/     │    │  Cross-Ref      │    │  Validation     ││  Setting Facts)  │    │  System        │    │  Engine         │└─────────────────┘    └─────────────────┘    └─────────────────┘       │                       │       └───────────────────────┘\n```\n\nThe Galleys system does these things:\n\n- `parse_story_bible`: Extracts character and setting facts\n- `index_chapters`: Creates searchable database of previous content\n- `cross_check`: Validates new content against established facts\n- `flag_issues`: Reports specific inconsistencies with chapter references",
+  "token_estimate": 133
+}

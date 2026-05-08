@@ -1,0 +1,32 @@
+{
+  "title": "Towards a Model-Theoretic View of Narratives",
+  "path": "2021.nuse-1.10-towards-a-model-theoretic-view-of-narratives",
+  "url": "https://www.aclanthology.org/2021.nuse-1.10/",
+  "keywords": [
+    "model-theoretic view",
+    "computational narratology",
+    "reader uncertainty",
+    "story coherence metrics",
+    "formal narrative framework",
+    "information flow",
+    "narrative qua narrative",
+    "story model evolution",
+    "measurements of story coherence",
+    "2021.nuse-1.10"
+  ],
+  "use_cases": [
+    "Use when developing formal frameworks to model the communication between a narrator and a reader",
+    "Implement when calculating the accuracy of information conveyance in computational storytelling",
+    "Configure when measuring story coherence using model-theoretic algorithms",
+    "Use when analyzing the temporal evolution of a reader's mental model during narrative consumption"
+  ],
+  "tags": [
+    "narrative-understanding",
+    "formal-methods",
+    "computational-linguistics",
+    "research-paper"
+  ],
+  "priority": 8,
+  "content": "Louis Castricato, Stella Biderman, David Thue, Rogelio Cardona-Rivera\n\n---\n\n##### Abstract\n\nIn this paper, we propose the beginnings of a formal framework for modeling narrative qua narrative. Our framework affords the ability to discuss key qualities of stories and their communication, including the flow of information from a Narrator to a Reader, the evolution of a Reader’s story model over time, and Reader uncertainty. We demonstrate its applicability to computational narratology by giving explicit algorithms for measuring the accuracy with which information was conveyed to the Reader, along with two novel measurements of story coherence.\n\nAnthology ID:2021.nuse-1.10Volume: Proceedings of the Third Workshop on Narrative Understanding Month:JuneYear:2021Address:VirtualEditors: Nader Akoury, Faeze Brahman, Snigdha Chaturvedi, Elizabeth Clark, Mohit Iyyer, Lara J. Martin Venues: NUSE| WNU SIG:Publisher:Association for Computational LinguisticsNote:Pages:95–104Language:URL: https://aclanthology.org/2021.nuse-1.10/ DOI: 10.18653/v1/2021.nuse-1.10 Bibkey:castricato-etal-2021-towardsCite (ACL):Louis Castricato, Stella Biderman, David Thue, and Rogelio Cardona-Rivera. 2021. Towards a Model-Theoretic View of Narratives. In Proceedings of the Third Workshop on Narrative Understanding, pages 95–104, Virtual. Association for Computational Linguistics.Cite (Informal): Towards a Model-Theoretic View of Narratives(Castricato et al., NUSE-WNU 2021)Copy Citation:BibTeX Markdown MODS XML Endnote More options…PDF: https://aclanthology.org/2021.nuse-1.10.pdf\n\nPDF Cite Search Fix data\n\n---",
+  "token_estimate": 248
+}

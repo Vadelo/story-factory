@@ -1,0 +1,33 @@
+{
+  "title": "Pillar 4: Economy and Trade",
+  "path": "blog-worldbuilding-template-pillar-4-economy-and-trade",
+  "url": "https://proseengine.app/blog/worldbuilding-template",
+  "keywords": [
+    "economic activity",
+    "currency",
+    "trade routes",
+    "scarce goods",
+    "agriculture",
+    "mining",
+    "magic",
+    "digital credits",
+    "barter",
+    "economic class"
+  ],
+  "use_cases": [
+    "Use when defining the primary economic activity of your world.",
+    "Implement when deciding on a currency system (coins, digital credits, favors).",
+    "Configure when mapping major trade routes and their controllers.",
+    "Use when specifying which goods are scarce and thus valuable.",
+    "Apply when linking economic class to daily life and societal roles."
+  ],
+  "tags": [
+    "worldbuilding",
+    "economy",
+    "trade",
+    "fantasy"
+  ],
+  "priority": 9,
+  "content": "Money makes the world go round, even fictional worlds. Understanding your world's economy gives you a wealth of story material and prevents the kind of logical gaps that pull readers out of your fiction.\n\n- What is the primary economic activity? Agriculture, mining, trade, magic?\n- What serves as currency? Coins, barter, digital credits, favors?\n- What goods are scarce and therefore valuable?\n- What are the major trade routes, and who controls them?\n- How does economic class affect daily life?\n\nWhen readers complain that a fantasy world does not feel realistic, the economy is usually the weak point. Armies need food, castles need labor, and adventure gear costs money. Ignoring economics creates plot holes you cannot patch.",
+  "token_estimate": 158
+}

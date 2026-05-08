@@ -1,0 +1,33 @@
+{
+  "title": "User Journey",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-user-journey",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "Pathway",
+    "Google Gemini 2.0 Flash",
+    "all-MiniLM-L6-v2",
+    "cosine similarity",
+    "claim extraction",
+    "document store",
+    "overlapping segments",
+    "binary decisioning",
+    "narrative consistency",
+    "semantic embeddings"
+  ],
+  "use_cases": [
+    "Configure when integrating Pathway for document ingestion and retrieval orchestration",
+    "Implement when detecting narrative contradictions between a backstory and a source text",
+    "Use when extracting claims from character descriptions for automated verification",
+    "Use when requiring a deterministic rationale for story consistency decisions"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "data-ingestion",
+    "machine-learning",
+    "setup-guide",
+    "api-integration"
+  ],
+  "priority": 9,
+  "content": "| Step | Action | System Response |\n| --- | --- | --- |\n| 1️⃣ | User provides novel text + character backstory | System loads novel into document store |\n| 2️⃣ | System chunks novel into overlapping segments | 5-paragraph chunks with 2-paragraph overlap, timeline tags |\n| 3️⃣ | System extracts claims from backstory | \"Grew up wealthy\" → [EARLY_LIFE, CORE] |\n| 4️⃣ | System retrieves evidence for each claim | Top-10 relevant passages with timeline coverage |\n| 5️⃣ | System analyzes claim-evidence relationships | Pattern matching detects contradiction |\n| 6️⃣ | System makes binary decision | Fatal contradiction → label=0 |\n| 7️⃣ | System generates rationale | \"Proposed backstory contradicts established events\" |\n| 8️⃣ | User receives CSV output | story_id, prediction, rationale |\n\n---\n\n- **Python 3.8+** — Primary language\n- **Pathway** — Document ingestion, indexing, and retrieval orchestration\n\n- **Sentence Transformers** — Semantic embeddings (all-MiniLM-L6-v2)\n- **scikit-learn** — Cosine similarity computation\n\n- **Google Gemini 2.0 Flash** — Claim extraction and explanation generation only\n- **Temperature = 0** — Deterministic outputs enforced\n- **Note**: LLMs do NOT make classification decisions\n\n- **pandas** — CSV handling\n- **regex** — Pattern matching for constraint detection\n\n- **python-dotenv** — Environment configuration\n- **pathlib** — Cross-platform file handling\n\n---\n\n```bash\nPython 3.8+\npip (Python package manager)\n```\n\n1. **Clone the repository**\n\n```bash\ngit clone https://github.com/Krish-afk-bot/narrative-consistency-verifier.git\ncd narrative-consistency-verifier\n```\n\n1. **Install dependencies**\n\n```bash\npip install -r requirements.txt\n```\n\n1. **Set up environment variables** (optional, for LLM features)\n\n```bash\n# Create .env file\necho \"GEMINI_API_KEY=your_api_key_here\" > .env\n```\n\n1. **Prepare data**\n\n```bash\n# Place your novels in data/ directory\ndata/\n  ├── The Count of Monte Cristo.txt\n  ├── In search of the castaways.txt\n  ├── test.csv\n  └── train.csv\n```\n\n```bash\npython main.py\n```\n\n**Expected Output:**\n\n```\n============================================================\nTrack-A Backstory Consistency Validator\n============================================================\n\n[1/5] Initializing document store...\n[2/5] Loading training data for character extraction...\n[3/5] Loading and chunking novels...\n[4/5] Loading test data...\n[5/5] Processing test entries...\n\nWriting results.csv...\n  Output: results.csv\n  Rows: 50\n\nVALIDATION:\n  test.csv rows: 50\n  results.csv rows: 50\n  ✓ Row count matches\n  Consistent: 28\n  Contradict: 22\n\nDone.\n```\n\n`results.csv`:\n\n```csv\nstory_id,prediction,rationale\n1,1,No narrative constraints violated\n2,0,Proposed backstory contradicts established events\n3,1,Backstory aligns with established narrative events\n```\n\n---",
+  "token_estimate": 496
+}

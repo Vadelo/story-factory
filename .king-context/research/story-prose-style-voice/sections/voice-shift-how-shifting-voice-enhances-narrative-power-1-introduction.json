@@ -1,0 +1,29 @@
+{
+  "title": "1. Introduction",
+  "path": "voice-shift-how-shifting-voice-enhances-narrative-power-1-introduction",
+  "url": "https://literarydevices.net/voice-shift-how-shifting-voice-enhances-narrative-power/",
+  "keywords": [
+    "narrative voice",
+    "voice shift",
+    "first-person",
+    "third-person",
+    "narrative authority",
+    "tone",
+    "point of view",
+    "storytelling mechanics"
+  ],
+  "use_cases": [
+    "Use when defining the perspective through which a story is delivered",
+    "Implement when shifting narrative voice to deepen character immersion",
+    "Configure when establishing the level of narrative authority over plot events",
+    "Differentiate when distinguishing between emotional tone and global point of view"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-theory",
+    "documentation-intro"
+  ],
+  "priority": 10,
+  "content": "The purpose of this guide is to explain why and how changing narrative voice can deepen storytelling. We’ll cover the definition of voice shift, its types, mechanics, benefits, pitfalls, and practical application so you can wield it with confidence.\n\n| Concept | Explanation | Narrative Voice | The perspective from which a story is told (first‑person, third‑person, etc.). | Voice vs. Tone | Voice is the narrator’s point of view; tone is the emotional quality or attitude conveyed. | Narrative Authority | How much control the narrator has over events and information. |\n| --- | --- | --- | --- | --- | --- | --- | --- |",
+  "token_estimate": 146
+}

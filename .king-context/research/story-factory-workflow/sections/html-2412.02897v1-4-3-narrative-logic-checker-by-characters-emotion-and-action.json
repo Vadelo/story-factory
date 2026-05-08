@@ -1,0 +1,31 @@
+{
+  "title": "4.3 Narrative Logic Checker By Characters’ Emotion and Action",
+  "path": "html-2412.02897v1-4-3-narrative-logic-checker-by-characters-emotion-and-action",
+  "url": "https://arxiv.org/html/2412.02897v1",
+  "keywords": [
+    "MLD-EA",
+    "narrative logic checker",
+    "action abstraction",
+    "emotion classification",
+    "Inf_Index",
+    "narrative gap detection",
+    "behavior research",
+    "missing sentence index prediction",
+    "action-emotion continuity"
+  ],
+  "use_cases": [
+    "Use when detecting potential gaps or inconsistencies in a character's narrative flow",
+    "Implement when predicting the specific index where a missing sentence should be inserted",
+    "Configure when analyzing the causal relationship between emotional states and subsequent actions",
+    "Use when validating logical consistency in character behavior based on behavior research principles"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "narrative-analysis",
+    "machine-learning",
+    "logic-validation"
+  ],
+  "priority": 8,
+  "content": "The narrative logic checker component focuses on detecting potential gaps in the narrative by analyzing the relationship between characters’ actions and emotions. This process is grounded in the outputs from the previous modules: action abstraction and emotion classification. The prediction is based on detecting disruptions or inconsistencies in each character’s expected flow of actions and emotions.\n\nSeveral key principles in behavior research Cannon (1927); Zhu and Thagard (2002) guide this process: 1), emotions often drive actions. 2), actions can influence subsequent emotions. 3), and some actions directly reflect the character’s current emotional state, and vice versa.\n\nMLD-EA then predicts the missing sentence index $k$ , which is determined by evaluating the continuity and logical consistency of the sequences with the interaction of characters’ actions and emotions:\n\n| $\\displaystyle(E,A)=\\sum_{s\\in S,c\\in C}\\left[e(c,s),a(c,s)\\right],$ | (2) |\n| --- | --- |\n\n| $\\displaystyle k=$ | $\\displaystyle\\text{Inf}_{Index}\\left[(S\\oplus(E,A)),C\\right],$ | (3) |\n| --- | --- | --- |\n\nwhere $\\text{Inf}_{Index}$ represent the model inference of missing sentence index prediction. A significant deviation from expected values suggests a missing sentence, and $k$ identifies the position where this sentence should be inserted.",
+  "token_estimate": 246
+}

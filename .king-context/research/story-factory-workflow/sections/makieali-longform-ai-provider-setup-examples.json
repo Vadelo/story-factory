@@ -1,0 +1,35 @@
+{
+  "title": "Provider Setup Examples",
+  "path": "makieali-longform-ai-provider-setup-examples",
+  "url": "https://github.com/makieali/longform-ai",
+  "keywords": [
+    "LongFormAI",
+    "providers",
+    "apiKey",
+    "models",
+    "preset",
+    "temperature",
+    "maxTokens",
+    "baseUrl",
+    "deployment",
+    "apiVersion",
+    "endpoint",
+    "OpenRouter"
+  ],
+  "use_cases": [
+    "Configure when integrating multiple AI providers like OpenAI, Anthropic, or Google Gemini.",
+    "Implement when local model hosting is required via Ollama baseUrl configuration.",
+    "Use when overriding specific task roles like 'writing' or 'planning' with different model parameters.",
+    "Configure when cost-optimization is needed using the 'budget' preset or mixing premium and cheap models.",
+    "Implement when enterprise-grade Azure OpenAI deployments are required including custom endpoints and versions."
+  ],
+  "tags": [
+    "configuration",
+    "setup-guide",
+    "multi-provider",
+    "api-reference"
+  ],
+  "priority": 10,
+  "content": "OpenAI \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    openai: { apiKey: process.env.OPENAI_API_KEY },\n  },\n  preset: 'balanced',\n});\n```\n\n \n\n \n Anthropic (Claude) \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    anthropic: { apiKey: process.env.ANTHROPIC_API_KEY },\n  },\n  models: {\n    outline:    { provider: 'anthropic', model: 'claude-sonnet-4-5-20250929', temperature: 0.7, maxTokens: 8192 },\n    planning:   { provider: 'anthropic', model: 'claude-haiku-4-5-20251001', temperature: 0.7, maxTokens: 4096 },\n    writing:    { provider: 'anthropic', model: 'claude-sonnet-4-5-20250929', temperature: 0.8, maxTokens: 8192 },\n    editing:    { provider: 'anthropic', model: 'claude-haiku-4-5-20251001', temperature: 0.3, maxTokens: 4096 },\n    continuity: { provider: 'anthropic', model: 'claude-haiku-4-5-20251001', temperature: 0.3, maxTokens: 4096 },\n  },\n});\n```\n\n \n\n \n Google (Gemini) \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    google: { apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY },\n  },\n  preset: 'budget', // Uses Gemini 2.0 Flash for all roles — cheapest option\n});\n```\n\n \n\n \n Azure OpenAI \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    azure: {\n      apiKey: process.env.AZURE_OPENAI_API_KEY,\n      endpoint: 'https://your-resource.cognitiveservices.azure.com/',\n      apiVersion: '2025-04-01-preview',\n      deployment: 'gpt-4o',  // Your deployment name\n    },\n  },\n  preset: 'azure',\n});\n```\n\n \n\n \n DeepSeek \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    deepseek: { apiKey: process.env.DEEPSEEK_API_KEY },\n  },\n  models: {\n    outline:    { provider: 'deepseek', model: 'deepseek-chat', temperature: 0.7, maxTokens: 8192 },\n    planning:   { provider: 'deepseek', model: 'deepseek-chat', temperature: 0.7, maxTokens: 4096 },\n    writing:    { provider: 'deepseek', model: 'deepseek-chat', temperature: 0.8, maxTokens: 8192 },\n    editing:    { provider: 'deepseek', model: 'deepseek-chat', temperature: 0.3, maxTokens: 4096 },\n    continuity: { provider: 'deepseek', model: 'deepseek-chat', temperature: 0.3, maxTokens: 4096 },\n  },\n});\n```\n\n \n\n \n Ollama (Local Models — Free) \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    ollama: {\n      baseUrl: 'http://localhost:11434/v1', // Default Ollama URL\n    },\n  },\n  models: {\n    outline:    { provider: 'ollama', model: 'llama3', temperature: 0.7, maxTokens: 8192 },\n    planning:   { provider: 'ollama', model: 'llama3', temperature: 0.7, maxTokens: 4096 },\n    writing:    { provider: 'ollama', model: 'llama3', temperature: 0.8, maxTokens: 8192 },\n    editing:    { provider: 'ollama', model: 'llama3', temperature: 0.3, maxTokens: 4096 },\n    continuity: { provider: 'ollama', model: 'llama3', temperature: 0.3, maxTokens: 4096 },\n  },\n});\n```\n\n \n\n \n OpenRouter (Access 100+ Models) \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    openrouter: { apiKey: process.env.OPENROUTER_API_KEY },\n  },\n  models: {\n    outline:    { provider: 'openrouter', model: 'anthropic/claude-sonnet-4-5', temperature: 0.7, maxTokens: 8192 },\n    planning:   { provider: 'openrouter', model: 'google/gemini-2.0-flash', temperature: 0.7, maxTokens: 4096 },\n    writing:    { provider: 'openrouter', model: 'anthropic/claude-sonnet-4-5', temperature: 0.8, maxTokens: 8192 },\n    editing:    { provider: 'openrouter', model: 'openai/gpt-4.1', temperature: 0.3, maxTokens: 4096 },\n    continuity: { provider: 'openrouter', model: 'google/gemini-2.0-flash', temperature: 0.3, maxTokens: 4096 },\n  },\n});\n```\n\n \n\n \n Mistral \n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    mistral: { apiKey: process.env.MISTRAL_API_KEY },\n  },\n  models: {\n    outline:    { provider: 'mistral', model: 'mistral-large-latest', temperature: 0.7, maxTokens: 8192 },\n    planning:   { provider: 'mistral', model: 'mistral-small-latest', temperature: 0.7, maxTokens: 4096 },\n    writing:    { provider: 'mistral', model: 'mistral-large-latest', temperature: 0.8, maxTokens: 8192 },\n    editing:    { provider: 'mistral', model: 'mistral-small-latest', temperature: 0.3, maxTokens: 4096 },\n    continuity: { provider: 'mistral', model: 'mistral-small-latest', temperature: 0.3, maxTokens: 4096 },\n  },\n});\n```\n\n \n\n \n Multi-Provider (Mix & Match — Best Quality/Cost Ratio) \n\nUse the best model for each role — cheap models for planning, premium models for writing:\n\n```typescript\nconst ai = new LongFormAI({\n  providers: {\n    anthropic: { apiKey: process.env.ANTHROPIC_API_KEY },\n    google: { apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY },\n    openai: { apiKey: process.env.OPENAI_API_KEY },\n  },\n  preset: 'balanced', // Start with balanced, then override\n  models: {\n    writing:    { provider: 'anthropic', model: 'claude-opus-4-6', temperature: 0.85, maxTokens: 16384 },\n    planning:   { provider: 'google', model: 'gemini-2.0-flash', temperature: 0.7, maxTokens: 4096 },\n    continuity: { provider: 'google', model: 'gemini-2.0-flash', temperature: 0.3, maxTokens: 4096 },\n  },\n});\n```",
+  "token_estimate": 746
+}

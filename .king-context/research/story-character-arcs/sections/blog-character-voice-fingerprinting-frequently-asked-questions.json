@@ -1,0 +1,33 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "blog-character-voice-fingerprinting-frequently-asked-questions",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "character voice",
+    "linguistic patterns",
+    "vocabulary register",
+    "sentence architecture",
+    "voice fingerprint",
+    "dialogue attribution",
+    "internal monologue",
+    "speech habits",
+    "systematic differentiation",
+    "content focus"
+  ],
+  "use_cases": [
+    "Implement when developing distinct character archetypes to avoid 'samey' dialogue",
+    "Use when drafting a voice fingerprint to document a character's specific linguistic profile",
+    "Configure when adjusting sentence length and rhythm to reflect a character's internal state",
+    "Use when auditing dialogue tags to ensure personality is recognizable without explicit attribution",
+    "Implement when selecting a character’s vocabulary register based on specialized knowledge or social background"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "narrative-design",
+    "dialogue-styling"
+  ],
+  "priority": 9,
+  "content": "What is character voice in fiction writing?\n\nCharacter voice is the sum of linguistic patterns that make a specific character's speech and internal monologue recognizable and distinct from every other character. It includes vocabulary range and register, sentence length and rhythm, what a character chooses to say versus what they omit, their relationship with qualification and certainty, their use of specific idioms or speech habits, and what topics they approach directly versus obliquely. A strong character voice is recognizable even without attribution — cover the dialogue tag and you still know who spoke.\n\nHow do you make characters sound different from each other?\n\nThrough systematic differentiation across five dimensions: vocabulary register (formal vs. colloquial, specialized vs. general), sentence architecture (long and complex vs. short and declarative), relationship with certainty (qualifiers vs. assertions), emotional expressiveness (what they voice vs. what they suppress), and content focus (what they notice and choose to mention). Characters who feel samey typically share too many of these dimensions — the fix is usually not adding more voice markers but making the dimensions that are distinct more consistently different.\n\nWhat is a voice fingerprint for characters?\n\nA voice fingerprint is a short documented profile (typically 100 to 200 words)",
+  "token_estimate": 268
+}

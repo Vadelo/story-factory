@@ -1,0 +1,33 @@
+{
+  "title": "Philosophy",
+  "path": "aihxp-scriven-philosophy",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "Voice DNA gate",
+    "atomic unit",
+    "context bloat",
+    "progressive disclosure",
+    "tradition-native vocabulary",
+    "/scr-next",
+    "Claude Code",
+    "KDP package",
+    "voice drift",
+    "universal interface"
+  ],
+  "use_cases": [
+    "Configure when seeking to maintain consistent authorial style via Voice DNA",
+    "Implement when drafting long-form content to prevent context bloat across sections",
+    "Use when building domain-specific templates requiring custom nomenclature like surahs or acts",
+    "Configure when integrating with automated publishing workflows for KDP packaging",
+    "Use when automating manuscript generation through the Claude Code terminal interface"
+  ],
+  "tags": [
+    "architecture-philosophy",
+    "interface-standards",
+    "content-generation",
+    "voice-personalization"
+  ],
+  "priority": 10,
+  "content": "Scriven is built on five principles:\n\n1. **The writer's voice is sacred.** The drafter never imposes generic AI style. Every drafted sentence passes through the Voice DNA gate.\n\n1. **Fresh context per atomic unit.** Each scene, subsection, or passage is drafted in a clean context. This prevents voice drift, context bloat, and keeps each unit at its best.\n\n1. **Progressive disclosure.** Onboarding asks 3 questions, not 30. Depth is optional and always additive.\n\n1. **Tradition-native vocabulary.** A Quran commentary uses surahs and ayahs. A Bible study uses books and verses. A screenplay uses acts and scenes. The tool adapts to the tradition -- the writer never adapts to the tool.\n\n1. **`/scr-next` always works in Claude Code.** The universal interface. A writer who only ever types `/scr-next` can complete an entire novel, from blank page to KDP package.\n\n---",
+  "token_estimate": 184
+}

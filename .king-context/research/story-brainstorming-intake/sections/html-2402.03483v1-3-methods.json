@@ -1,0 +1,34 @@
+{
+  "title": "3 Methods",
+  "path": "html-2402.03483v1-3-methods",
+  "url": "https://arxiv.org/html/2402.03483v1",
+  "keywords": [
+    "AD LLM",
+    "Action Discriminator Model",
+    "Direct Preference Optimization",
+    "DPO",
+    "Supervised Fine-Tuning",
+    "SFT",
+    "SWAG",
+    "Mixtral-8x7B",
+    "GPT-4",
+    "Story Generation Model",
+    "Preference Data",
+    "Open-source LLM"
+  ],
+  "use_cases": [
+    "Implement when needing to align story generation models with specific user action preferences",
+    "Configure when training a discriminator model to evaluate the quality of narrative choices",
+    "Use when developing a creative storytelling pipeline involving both generative and evaluative models",
+    "Use when integrating open-source LLMs into specialized story-action feedback loops"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Natural Language Processing",
+    "Model Training",
+    "Software Architecture"
+  ],
+  "priority": 9,
+  "content": "Our creative storytelling method consists of two primary components: the story generation model and the action discriminator model (AD LLM). SWAG enables the use of any open-source LLM or LLM service for story generation. We create an AD LLM by collecting preference data for story actions, and aligning a pretrained LLM on our preference dataset. We visualize our training pipeline in Figure 1 below.\n\n![Refer to caption](https://arxiv.org/html/x1.png)\n\nFigure 1: SWAG AD LLM Training Pipeline. After curating long story and action preference data from GPT-4 and Mixtral-8x7B, we perform SFT on a base open-source LLM, and then align our model with more preference data using DPO to produce our action discriminator model (AD LLM).",
+  "token_estimate": 150
+}

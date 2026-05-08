@@ -1,0 +1,32 @@
+{
+  "title": "In Between Lies",
+  "path": "qa-question-main-pov-main-character-most-fascinating-in-between-lies",
+  "url": "https://www.novelflow.app/qa/question/main-pov-main-character-most-fascinating",
+  "keywords": [
+    "In Between Lies",
+    "Aspen",
+    "Lexa",
+    "view count",
+    "f48f5b11e6624302ba8533adeb77febb",
+    "novelflow.app",
+    "cover art",
+    "image/resize",
+    "webp",
+    "OSS process"
+  ],
+  "use_cases": [
+    "Use when displaying book metadata for 'In Between Lies' on a digital platform",
+    "Implement when rendering dynamic cover images using OSS image processing parameters",
+    "Configure when tracking user engagement metrics through view counts",
+    "Use when illustrating narrative synopses and character relationships in an library catalog"
+  ],
+  "tags": [
+    "content-management",
+    "metadata",
+    "media-assets",
+    "analytics"
+  ],
+  "priority": 5,
+  "content": "Despite coming from different social classes, Aspen and Lexa were best friends... Inseparable... until that fateful day that changed everything. When Lexa shows up out of the blue again, years later, desperate for help to save her friends and her people, and Aspen refuses. Aspen has always been a good girl who never asked too many questions, but to ease her own mind, and her old friend's, she decides to go prove herself right. However, nothing is as it seems, and it sends her spiraling on a hunt to discover a truth that has been kept from her. But choosing between her family and what's right, is hardly an easy choice, and Lexa is nothing like the girl she once knew. But to save themselves, they have to risk everything. And nothing is more terrifying than that.\n\n![count-icon](https://www.novelflow.app/phone/view-1.png)\n\n417 Views\n\n![Rain and Ashes](https://cover-v1.novelflow.app/prod/img/cover/f48f5b11e6624302ba8533adeb77febb.jpg?x-oss-process=image/resize,m_lfit,w_113,h_151/quality,q_80/format,webp)",
+  "token_estimate": 190
+}

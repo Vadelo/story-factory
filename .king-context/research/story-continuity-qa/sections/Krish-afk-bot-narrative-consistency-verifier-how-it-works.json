@@ -1,0 +1,32 @@
+{
+  "title": "How It Works",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "Claim Extraction",
+    "Evidence Retrieval",
+    "Constraint Analysis",
+    "top-k chunks",
+    "timeline coverage",
+    "story_id",
+    "Classification",
+    "CONTRADICTS",
+    "confidence scores",
+    "Output Generation"
+  ],
+  "use_cases": [
+    "Use when evaluating the factual consistency of a narrative backstory against a source text",
+    "Implement when checking for fatal contradictions in core plot points of large-scale documents",
+    "Configure when needing a structured rationale for model-driven prediction decisions",
+    "Use when retrieving evidence based on chronological timeline coverage rather than simple similarity"
+  ],
+  "tags": [
+    "validation",
+    "narrative-analysis",
+    "natural-language-processing",
+    "fact-checking"
+  ],
+  "priority": 10,
+  "content": "```\n┌─────────────┐\n│  Backstory  │  \"As a child, Edmond grew up wealthy...\"\n└──────┬──────┘\n       │\n       ▼\n┌─────────────────────┐\n│  Claim Extraction   │  → Claim 1: \"Edmond grew up wealthy\" [CORE]\n└──────┬──────────────┘  → Claim 2: \"Edmond had formal education\" [SIGNIFICANT]\n       │\n       ▼\n┌─────────────────────┐\n│ Evidence Retrieval  │  → Search novel for relevant passages\n└──────┬──────────────┘  → Retrieve top-k chunks with timeline coverage\n       │\n       ▼\n┌─────────────────────┐\n│ Constraint Analysis │  → Claim 1 + Evidence → CONTRADICTS (0.9 confidence)\n└──────┬──────────────┘  → \"Novel states Edmond was poor sailor's son\"\n       │\n       ▼\n┌─────────────────────┐\n│  Classification     │  → Fatal contradiction in CORE claim\n└──────┬──────────────┘  → Decision: CONTRADICTORY (label=0)\n       │\n       ▼\n┌─────────────────────┐\n│  Output Generation  │  story_id,prediction,rationale\n└─────────────────────┘  1,0,\"Proposed backstory contradicts established events\"\n```\n\n---",
+  "token_estimate": 154
+}

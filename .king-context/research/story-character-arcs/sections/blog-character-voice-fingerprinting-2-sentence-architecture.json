@@ -1,0 +1,31 @@
+{
+  "title": "2. Sentence Architecture",
+  "path": "blog-character-voice-fingerprinting-2-sentence-architecture",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "Sentence architecture",
+    "structural voice",
+    "internal monologue",
+    "subordinate clauses",
+    "voice differentiators",
+    "sentence length",
+    "character consistency",
+    "complex sentences",
+    "linear thinking"
+  ],
+  "use_cases": [
+    "Use when establishing distinct character identifiers through grammar and syntax",
+    "Implement when mapping a character's internal monologue to their logical mental model",
+    "Configure when differentiating between direct, fact-based dialogue and winding, analytical perspectives",
+    "Use when auditing existing text for voice consistency and structural drift"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-theory",
+    "structural-editing",
+    "creative-writing"
+  ],
+  "priority": 8,
+  "content": "Sentence length and complexity are perhaps the most reliable voice differentiators because they operate beneath the level of word choice — they're structural.\n\nMarcus thinks in short sentences. His mental model of a situation is: what is the fact, what does it mean, what should happen. The internal monologue looks like: She was lying. He'd known it from the third sentence. The question was what she wanted him to believe.\n\nElena thinks in winding, subordinate-clause-heavy sentences that follow her thoughts as they form rather than arriving at a conclusion: If she was telling the truth — and there was at least some chance she was, because why would she have volunteered the detail about the meeting unless she thought it would help, unless she wanted him to trust her, which was the possibility she'd been trying not to let herself entertain — then the whole sequence of events since Tuesday had a different shape entirely.\n\nNeither is correct. Both are consistent. The problem is when Marcus starts producing Elena's sentences or vice versa. Sentence architecture, once established, is part of character voice.",
+  "token_estimate": 242
+}

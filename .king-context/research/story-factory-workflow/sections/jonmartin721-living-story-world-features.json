@@ -1,0 +1,33 @@
+{
+  "title": "Features",
+  "path": "jonmartin721-living-story-world-features",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "entity graph",
+    "Server-Sent Events",
+    "image caching",
+    "permanent branching",
+    "OpenRouter",
+    "Groq",
+    "TUI",
+    "narrative presets",
+    "prompt hashing",
+    "multi-provider support"
+  ],
+  "use_cases": [
+    "Configure when needing to switch LLM vendors without modifying application logic",
+    "Implement when real-time narrative updates are required via streaming protocols",
+    "Use when maintaining long-term character and location consistency is the primary goal",
+    "Use when developing cross-platform interfaces across web and terminal environments",
+    "Configure when creative assets require varied artistic aesthetics like pixel art or oil painting"
+  ],
+  "tags": [
+    "features",
+    "infrastructure",
+    "ux-design",
+    "ai-integration"
+  ],
+  "priority": 10,
+  "content": "- **Persistent Memory** - Stories remember characters and locations across chapters (entity graph tracks continuity)\n- **Multi-Provider Support** - Swap between OpenAI, Groq, Together AI, HuggingFace, OpenRouter, Gemini without touching code\n- **Visual Styles** - 8 illustration styles from storybook ink to pixel art to oil paintings\n- **Genre Presets** - 12 narrative presets tuned for different story types (fantasy, mystery, sci-fi, horror, etc.)\n- **Real-Time Streaming** - Progress updates via Server-Sent Events (no polling, feels snappy)\n- **Choice System** - Make decisions that affect future chapters (permanent branching)\n- **Image Caching** - Avoids redundant API calls by hashing prompts\n- **Random Worlds** - Generator creates unique world combinations with pre-built lore\n- **Web + TUI + CLI** - Three interfaces (browser, terminal UI, command-line)\n\n---",
+  "token_estimate": 167
+}

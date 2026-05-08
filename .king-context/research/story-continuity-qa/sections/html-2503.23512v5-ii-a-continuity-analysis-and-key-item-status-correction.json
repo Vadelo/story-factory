@@ -1,0 +1,35 @@
+{
+  "title": "II-A Continuity Analysis and Key Item Status Correction",
+  "path": "html-2503.23512v5-ii-a-continuity-analysis-and-key-item-status-correction",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "GPT-4 analysis",
+    "Continuity Analysis",
+    "Key Item Status Correction",
+    "State transition logic",
+    "Si(t)",
+    "active status",
+    "lost status",
+    "destroyed status",
+    "narrative consistency",
+    "item reappearance",
+    "discrepancy correction",
+    "narrative continuity"
+  ],
+  "use_cases": [
+    "Use when identifying narrative inconsistencies in multi-episode datasets",
+    "Implement when state transitions for items must be validated against previous history",
+    "Configure when preventing incorrect item updates after a destruction event",
+    "Use when GPT-4 analysis yields contradictory state summaries for persistent objects"
+  ],
+  "tags": [
+    "data-validation",
+    "narrative-analysis",
+    "state-management",
+    "automation",
+    "logic-correction"
+  ],
+  "priority": 8,
+  "content": "By extracting key parts of GPT-4’s analysis, we identify instances where an item reappears in later episodes after being marked as lost or destroyed, without narrative explanation. Let Si​(t)S_{i}(t) represent the state of item ii at time tt, where Si​(t)∈{active,lost,destroyed}S_{i}(t)\\in\\{\\text{active},\\text{lost},\\text{destroyed}\\}. If item ii reappears at time tkt_{k} with Si​(tk)=activeS_{i}(t_{k})=\\text{active} after being previously marked as Si​(tk−1)∈{lost,destroyed}S_{i}(t_{k-1})\\in\\{\\text{lost},\\text{destroyed}\\}, we flag this as a continuity error. To maintain consistency, the state remains Si​(tk−1)S_{i}(t_{k-1}), avoiding an incorrect update. This approach systematically corrects discrepancies in item states, ensuring that narrative continuity is preserved by preventing erroneous state transitions.",
+  "token_estimate": 122
+}

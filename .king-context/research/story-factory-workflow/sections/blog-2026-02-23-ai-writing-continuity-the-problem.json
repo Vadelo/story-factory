@@ -1,0 +1,32 @@
+{
+  "title": "The Problem",
+  "path": "blog-2026-02-23-ai-writing-continuity-the-problem",
+  "url": "https://docs.bswen.com/blog/2026-02-23-ai-writing-continuity",
+  "keywords": [
+    "continuity management",
+    "long-form narrative",
+    "story bible synchronization",
+    "manuscript scale",
+    "character description consistency",
+    "timeline validation",
+    "prose pattern repetition",
+    "metadata tracking",
+    "narrative contradiction",
+    "AI novel generation"
+  ],
+  "use_cases": [
+    "Use when managing large-scale manuscripts exceeding 100k words to ensure narrative consistency",
+    "Implement when manual spreadsheets fail to track character attributes and location details",
+    "Configure when story bibles fall out of sync with evolving draft phases",
+    "Use when identifying and correcting repetitive AI prose patterns across multiple chapters"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "content-integrity",
+    "ai-writing",
+    "troubleshooting"
+  ],
+  "priority": 10,
+  "content": "When I wrote a 300k-word AI novel, I got this problem:\n\n```\n\"Continuity problems are 'constant and relentless' at scale\"\"Eye colors change, locations get redescribed differently, characters know things they shouldn't\"\n```\n\nHere’s what my setup looked like:\n\n```\n300k-word manuscript├── Chapter 1-150: Draft phase├── Chapter 151-250: Review phase└── Chapter 251-300: Final phase\n```\n\nBut when I tried to track continuity manually, I got this result:\n\n- Spreadsheets became unmanageable\n- Story bibles got out of sync\n- Character descriptions contradicted themselves\n- Timeline errors slipped through\n- AI prose patterns repeated constantly",
+  "token_estimate": 123
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Three-Act Structure",
+  "path": "learn-building-screenplay-structure-three-act-structure",
+  "url": "https://www.finaldraft.com/learn/building-screenplay-structure/",
+  "keywords": [
+    "Three-Act Structure",
+    "Setup",
+    "Confrontation",
+    "Resolution",
+    "Syd Field",
+    "Screenplay",
+    "Main Character",
+    "Goal",
+    "Obstacles",
+    "Crisis",
+    "Lowest Point",
+    "Tragedy"
+  ],
+  "use_cases": [
+    "Use when outlining a new screenplay to ensure clear beginning, middle, and end",
+    "Implement when teaching students the fundamentals of film storytelling",
+    "Configure when building a screenwriting tool that auto-generates plot arcs",
+    "Use when revising a draft to strengthen the main conflict and resolution"
+  ],
+  "tags": [
+    "screenwriting",
+    "story structure",
+    "film education"
+  ],
+  "priority": 10,
+  "content": "Before organizing your story beats and creating your outline, it’s important to understand the three-act structure that most screenplays utilize. At its core, the three acts represent a beginning, a middle and an end to your story.\n\nIn Syd Field’s book Screenplay: The Foundations of Screenwriting, he expanded the model for the three-act structure:\n\nThe Setup establishes the main character, including their primary relationships, living situation and aspirations.\n\nThe Confrontation sees the main character trying to pursue a goal while confronting various obstacles that build until there’s a major crisis or “lowest point.”\n\nIn the Resolution, the main character finds a solution to the crisis and achieves their goal (unless it’s a tragedy).\n\nMost mainstream Hollywood films follow this structure to this day, and if this is your first screenplay, you should stick with three acts and write your outline accordingly.",
+  "token_estimate": 187
+}

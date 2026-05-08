@@ -1,0 +1,32 @@
+{
+  "title": "Abstract",
+  "path": "article-10.1007-s11225-023-10076-z-abstract",
+  "url": "https://link.springer.com/article/10.1007/s11225-023-10076-z",
+  "keywords": [
+    "weak ontic necessity",
+    "branching time",
+    "next instant operator",
+    "last instant operator",
+    "ontic laws",
+    "tree-based model",
+    "conditional necessity",
+    "timeline evaluation",
+    "axiomatization",
+    "formal logic"
+  ],
+  "use_cases": [
+    "Use when modeling normative statements like 'should' or 'ought to' within a formal temporal framework",
+    "Implement when calculating ontic necessity in scenarios where future outcomes branching is required",
+    "Configure when evaluating the relationship between expected timelines and specific ontic laws",
+    "Apply when updating logical contexts with antecedents to determine conditional outcomes"
+  ],
+  "tags": [
+    "formal-logic",
+    "temporal-logic",
+    "modal-semantics",
+    "philosophical-logic"
+  ],
+  "priority": 7,
+  "content": "Weak ontic necessity is the ontic necessity expressed by “should” or “ought to”. An example of it is “I should be dead by now”. A feature of this necessity is that whether it holds is irrelevant to whether its underlying proposition holds. This necessity essentially involves time. This paper presents a logic for conditional weak ontic necessity in branching time. The logic’s language includes the next instant operator, the last instant operator, and the operator for conditional weak ontic necessity. Formulas are evaluated at tuples consisting of a tree-based model, a context, a timeline, and an instant. A context is a set of ordered ontic laws determining expected timelines. When evaluating conditional weak ontic necessity, we first update the context with the antecedent, then check whether the consequent holds with respect to the updated context. We discuss some consequences of the formalization and compare it to some related work. We study the logic’s expressivity and axiomatize a special validity of it.\nThis is a preview of subscription content,[log in via an institution](https://wayf.springernature.com/?redirect_uri=https://link.springer.com/article/10.1007/s11225-023-10076-z?error=cookies_not_supported&code=b59ac33f-e02c-4e53-a37a-9aa3e4b1db9b)to check access.\n\n[Log in via an institution](https://wayf.springernature.com/?redirect_uri&#x3D;https://link.springer.com/article/10.1007/s11225-023-10076-z?error=cookies_not_supported&code=b59ac33f-e02c-4e53-a37a-9aa3e4b1db9b)\n\nSpringer+ Basic\n€32.70 /Month\n* Get 10 units per month\n* Download Article/Chapter or eBook\n* 1 Unit = 1 Article or 1 Chapter\n* Cancel anytime[Subscribe now](https://link.springer.com/product/springer-plus)\n\nBuy article PDF 39,95 €Price includes VAT (Lithuania)\nInstant access to the full article PDF.\n[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)\n\n![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs10849-023-09403-3/MediaObjects/10849_2023_9403_Figa_HTML.png)\n\nArticle21 September 2023\n![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs13218-020-00684-5/MediaObjects/13218_2020_684_Figa_HTML.png)\n\nArticleOpen access24 July 2020\n![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)\n\nArticle19 July 2017\n\nDiscover the latest articles and news from researchers in related subjects, suggested using machine learning.\n* [Logical Analysis](https://link.springer.com/subjects/logical-analysis)\n* [Formal Logic](https://link.springer.com/subjects/formal-logic)\n* [General Logic](https://link.springer.com/subjects/general-logic)\n* [Logic](https://link.springer.com/subjects/logic)\n* [Philosophical Logic](https://link.springer.com/subjects/philosophical-logic)\n* [Substructural Logics](https://link.springer.com/subjects/substructural-logics)\n\nThe author confirms that this article is theoretical research and data sharing is not applicable to it.",
+  "token_estimate": 380
+}

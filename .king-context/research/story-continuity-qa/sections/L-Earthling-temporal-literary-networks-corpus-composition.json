@@ -1,0 +1,32 @@
+{
+  "title": "Corpus composition",
+  "path": "L-Earthling-temporal-literary-networks-corpus-composition",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "Corpus composition",
+    "Bildungsroman",
+    "Form-genre confound",
+    "Pre-Modern",
+    "Early Modern",
+    "Realist Fiction",
+    "Science Fiction",
+    "Dystopia",
+    "Cross-genre structural comparisons",
+    "Cast density"
+  ],
+  "use_cases": [
+    "Use when evaluating sample sizes (n) across literary genres",
+    "Implement when adjusting for structural differences between plays and novels",
+    "Configure when filtering data by historical epoch ranges",
+    "Use when interpreting statistical anomalies in tragedy or comedy datasets"
+  ],
+  "tags": [
+    "dataset-specification",
+    "literary-analysis",
+    "metadata",
+    "research-methodology"
+  ],
+  "priority": 8,
+  "content": "**By genre:**\n\n| Genre | $n$ | Form (dominant) |\n| --- | --- | --- |\n| Literary / Realist Fiction | 222 | Novel |\n| Coming-of-Age / Bildungsroman | 98 | Novel |\n| Tragedy / Drama | 80 | Play (96%) |\n| Fantasy / Adventure | 55 | Novel |\n| Science Fiction / Dystopia | 51 | Novel |\n| Comedy / Satire | 45 | Play (71%) |\n| Mystery / Thriller | 40 | Novel |\n| Romance / Domestic Fiction | 31 | Novel |\n\n**By historical epoch:** Pre-Modern (pre-1600) · Early Modern (1600–1800) · 19th Century · Early 20th Century (1900–1950) · Late 20th Century (1950–2000) · 21st Century (2000+)\n\n> ⚠️ **Form–genre confound:** Tragedy/Drama and Comedy/Satire are play-dominated; all other genres are predominantly novels. Plays have smaller, denser casts. Cross-genre structural comparisons involving these two genres should be interpreted accordingly.\n\n---",
+  "token_estimate": 202
+}

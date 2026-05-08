@@ -1,0 +1,34 @@
+{
+  "title": "Character Development",
+  "path": "xixu-me-prompt-library-blob-main-creative-story-creator.md-character-development",
+  "url": "https://github.com/xixu-me/prompt-library/blob/main/creative/story-creator.md",
+  "keywords": [
+    "Sarah Chen-Rodriguez",
+    "Character Arc",
+    "Internal Conflict",
+    "Inciting Incident",
+    "Protagonist",
+    "Support Character",
+    "Antagonist",
+    "Identity Integration",
+    "Dr. Vance",
+    "Institutional Ethics",
+    "Investigation Phase",
+    "Exposition Delivery"
+  ],
+  "use_cases": [
+    "Use when mapping character transitions from initial states to final revelations",
+    "Configure when defining internal conflicts and motivations for major story arcs",
+    "Implement when establish roles like mentors, conspirators, and antagonists",
+    "Use when documenting narrative functions such as emotional grounding and exposition"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-structure",
+    "world-building",
+    "theme-identity"
+  ],
+  "priority": 9,
+  "content": "**Sarah Chen-Rodriguez (Protagonist):**\n- **Initial State**: Confident scientist driven by intellectual curiosity\n- **Inciting Incident**: Discovery of impossibly perfect memories\n- **Arc**: Certainty → Doubt → Investigation → Revelation → Integration\n- **Final State**: Unified identity embracing both inherited and authentic aspects\n- **Motivation**: Truth-seeking and scientific integrity\n- **Internal Conflict**: What defines authentic identity?\n\n**Marcus (Supporting Character):**\n- **Role**: Reluctant conspirator and moral compass\n- **Arc**: Guilt → Confession → Redemption through action\n- **Function**: Exposition delivery and emotional grounding\n- **Relationship**: Mentor figure with hidden knowledge\n\n**Dr. Vance (Antagonist):**\n- **Role**: Corporate authority representing institutional ethics violations\n- **Function**: External pressure and systematic opposition\n- **Motivation**: Protecting valuable research and corporate interests",
+  "token_estimate": 151
+}

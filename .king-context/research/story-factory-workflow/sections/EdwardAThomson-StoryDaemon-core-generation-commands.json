@@ -1,0 +1,33 @@
+{
+  "title": "Core Generation Commands",
+  "path": "EdwardAThomson-StoryDaemon-core-generation-commands",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "novel new",
+    "novel tick",
+    "novel run",
+    "novel summarize",
+    "novel resume",
+    "novel recent",
+    "--foundation",
+    "--checkpoint-interval",
+    "UUID suffix",
+    "--no-interactive"
+  ],
+  "use_cases": [
+    "Use when initializing a new creative project structure via an interactive wizard or CLI arguments.",
+    "Implement when batch-generating multiple narrative segments with automated safety saves.",
+    "Configure when resuming a specific work-in-progress session using a unique project identifier.",
+    "Use when extracting high-level overviews of generated content for review.",
+    "Configure when viewing a history of available projects to locate a specific version."
+  ],
+  "tags": [
+    "cli-reference",
+    "project-management",
+    "content-generation",
+    "workflow"
+  ],
+  "priority": 10,
+  "content": "```bash\n# Create new novel project (interactive foundation by default, UUID suffix)\nnovel new <name> [--dir <path>]\n# Example: novel new my-story  creates my-story_a1b2c3d4/ and runs the foundation wizard\n\n# Disable interactive wizard (bare project)\nnovel new <name> --no-interactive [--dir <path>]\n\n# Create with story foundation (non-interactive variants)\nnovel new <name> --foundation <yaml_file>         # From YAML file\nnovel new <name> --genre <genre> --premise <text> # Command-line args\n\n# Generate one scene\nnovel tick [--project <path>]\n\n# Generate multiple scenes with automatic checkpointing\nnovel run --n <count> [--checkpoint-interval 10] [--project <path>]\n\n# Compile scene summaries\nnovel summarize [--project <path>]\n```\n\n```bash\n# Show recently accessed projects with UUIDs\nnovel recent [--limit 10]\n\n# Resume most recent project\nnovel resume [--n 1]\n\n# Resume specific project by UUID (supports partial match)\nnovel resume --uuid <uuid> [--n 1]\n# Example: novel resume --uuid a1b2\n```",
+  "token_estimate": 188
+}

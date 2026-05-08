@@ -1,0 +1,32 @@
+{
+  "title": "Start with the pieces that actually change decisions",
+  "path": "blog-ai-story-bible-start-with-the-pieces-that-actually-change-decisions",
+  "url": "https://inkbook.app/blog/ai-story-bible",
+  "keywords": [
+    "story bible",
+    "decision surface",
+    "durable facts",
+    "mutable state",
+    "scene context",
+    "passages",
+    "entity summaries",
+    "dramatic context",
+    "retrieval targets",
+    "canon preservation"
+  ],
+  "use_cases": [
+    "Use when establishing the initial boundaries and rules of a narrative world",
+    "Implement when transitioning from raw data archives to actionable creative documentation",
+    "Configure when training AI models to retrieve specific narrative evidence rather than summaries",
+    "Use when tracking character wounds, alliances, or changing locations across scenes"
+  ],
+  "tags": [
+    "narrative-design",
+    "world-building",
+    "content-strategy",
+    "documentation-principles"
+  ],
+  "priority": 9,
+  "content": "A useful story bible is not an archive of everything. It is a decision surface. The facts worth recording are the ones that alter what the next scene can plausibly say, show, or imply.\n\nThat means your first pass should focus on identity, relationships, rules of the world, locations with consequences, and the current state of important objects or factions.\n\n- Durable facts: lineage, role, laws of magic, architecture, timelines\n- Mutable state: alliances, wounds, possessions, current location, active conflicts\n- Scene context: recent passages, current objective, unresolved tension\n\nWriters do not reason in databases alone. They reason in scenes, paragraphs, and remembered turns of phrase. A story bible that only stores entity summaries forces the room to reconstruct the dramatic context every time.\n\nPassages let you preserve how canon was expressed. They become evidence for continuity, better retrieval targets for AI, and a direct bridge back into the draft.",
+  "token_estimate": 199
+}

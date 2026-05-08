@@ -1,0 +1,35 @@
+{
+  "title": "Creating Your Outline",
+  "path": "learn-building-screenplay-structure-creating-your-outline",
+  "url": "https://www.finaldraft.com/learn/building-screenplay-structure/",
+  "keywords": [
+    "Outline Editor™",
+    "Beat Board",
+    "Page lane",
+    "Change Target Page Length",
+    "Drag beat",
+    "Save The Cat",
+    "Writer’s Journey",
+    "Story Circle",
+    "File > New From Template",
+    "three-act framework"
+  ],
+  "use_cases": [
+    "Use when organizing beats across multiple acts on Outline 1 and Outline 2 lanes.",
+    "Implement when specifying target page length via right-click on the Page lane.",
+    "Configure when dragging a beat to a specific page number in the Outline Editor.",
+    "Use when selecting a pre-built story structure template from the File > New From Template menu.",
+    "Use when synchronizing changes between the Beat Board and the Outline Editor.",
+    "Implement when ensuring story adherence to the three-act framework."
+  ],
+  "tags": [
+    "outlining",
+    "template-usage",
+    "workflow",
+    "feature",
+    "scriptwriting"
+  ],
+  "priority": 10,
+  "content": "Once you’ve got your beats all structured, you’re ready to create your outline.\n\nThe Beat Board works in conjunction with the Outline Editor™(located directly beneath the Toolbar) so you can easily create an outline within the same document.\n\nThe Outline Editor’s top two horizontal lanes are labeled Outline 1 and Outline 2. One way to use the dual lanes is for Outline 1 to represent acts and Outline 2 to represent beats:\n\nBeneath these two lanes is a numbered lane, resembling a ruler, which represents page numbers (aka the Page lane). Most feature screenplays are between 90 to 120 pages, so this should be your page range. To change the target length, simply right-click on the Page lane, select “Change Target Page Length…” and type in your desired page length:\n\nIf you know which page you’d like a specific beat to occur by, simply drag the beat to the appropriate spot on the Outline Editor:\n\nAn Outline beat in the same color will appear above the page number. The corresponding beat on the Beat Board will update to show the current Outline beat’s page:\n\nThroughout the outlining process, you can always revise and rearrange your beats. This allows you to improve your outline without having to start from scratch.\n\nAny changes made to a beat on the Beat Board will be reflected in the Outline Editor and vice versa. If the Beat Board is a virtual wall with index cards, the Outline Editor is a bridge from that wall to your script.\n\nFinal Draft also has built-in templates for popular story structures with the basics already filled (e.g., Save The Cat, Writer’s Journey, Story Circle, etc). To view these templates or build your outline from one of them, go to File > New From Template and select from the Structure category:\n\nWhether you’re using one of these templates or working from a blank template, the three-act framework should be adhered to and your story structured accordingly.\n\nUse the Beat Board and Outline Editor to structure your entire story per the above steps.\n\nNow that you’ve finally done the work of structuring your script, it’s time for the fun part: writing it!\n\nWe’ll cover moving your outline to the script and give you tips for writing your first draft in lesson four.",
+  "token_estimate": 506
+}

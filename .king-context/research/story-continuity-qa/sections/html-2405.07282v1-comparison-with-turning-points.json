@@ -1,0 +1,32 @@
+{
+  "title": "Comparison with Turning Points",
+  "path": "html-2405.07282v1-comparison-with-turning-points",
+  "url": "https://arxiv.org/html/2405.07282v1",
+  "keywords": [
+    "CHADPOD",
+    "TRIPOD dataset",
+    "Turning Points Identification",
+    "Freytag’s Pyramid",
+    "DeBERTa-v3-large",
+    "character agency",
+    "Balanced Accuracy",
+    "F1-Score",
+    "macrostructure",
+    "plot synopses"
+  ],
+  "use_cases": [
+    "Use when comparing character-driven narrative shifts against classical dramatic arc structures",
+    "Implement when benchmarking the CHADPOD model's performance on external plot-point datasets",
+    "Configure when adapting TRIPOD dataset annotations into positive/negative contextual training pairs",
+    "Use when analyzing the impact of character agency versus external plot events on model accuracy"
+  ],
+  "tags": [
+    "benchmarking",
+    "natural-language-processing",
+    "dataset-analysis",
+    "comparative-study"
+  ],
+  "priority": 6,
+  "content": "One may notice that the CHADPOD task is significantly similar to the Turning Points Identification task proposed in Papalampidi et al. (2019). In this section, we conduct a comparative analysis, demonstrating that despite similar formulations, the tasks differ fundamentally.\n\nRecall that in Papalampidi et al. (2019), the TRIPOD dataset consists of manually annotated short plot synopses (averaging 35 sentences) of 99 screenplays with sentence-level turning points annotations, where turning points are defined as the 5 classic pivot moments formulated in Freytag’s Pyramid.\n\nWe transformed the TRIPOD dataset to our format, taking contexts around the indicated turning points as positive examples and random divisions of the same synopses where there were no turning points as negative examples. The final dataset used all available non-overlapping contexts with at least 3 sentences before and after the split point, resulting in 255 positive and 209 negative examples.\n\nApplying our DeBERTa-v3-large based model to these examples yielded the metrics provided in Table 3.\n\nTable 3: Performance on Adapted TRIPOD Dataset\n\n| Metric | Value |\n| --- | --- |\n| Accuracy | 40% |\n| Balanced Accuracy | 41% |\n| F1-Score | 41% |\n\nThese results indicate that the semantics of the tasks significantly differ (recall that the model’s accuracy on an isolated test set was 89%).\n\nOne might suggest that the main difference between these tasks lies in the scale (turning points are just 5 key moments in the plot’s macrostructure) and in that Freytag’s turning points do not necessarily imply character agency. Contrarily, they can be exclusively formed by external events, leaving characters without a choice.",
+  "token_estimate": 352
+}

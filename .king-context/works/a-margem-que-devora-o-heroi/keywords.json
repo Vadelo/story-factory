@@ -1,0 +1,557 @@
+{
+  "brief": [
+    "brief-current"
+  ],
+  "canon": [
+    "brief-current",
+    "canon-premise",
+    "canon-themes",
+    "characters",
+    "continuity-ledger",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "premise": [
+    "canon-premise"
+  ],
+  "themes": [
+    "canon-themes"
+  ],
+  "genre": [
+    "genre-contract"
+  ],
+  "promise": [
+    "genre-contract"
+  ],
+  "characters": [
+    "characters",
+    "relationships",
+    "chapter-001-light-novel-character-states",
+    "chapter-002-light-novel-character-states"
+  ],
+  "relationships": [
+    "relationships",
+    "chapter-001-light-novel-character-states",
+    "chapter-002-light-novel-character-states"
+  ],
+  "world": [
+    "world-rules",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "rules": [
+    "world-rules"
+  ],
+  "setting": [
+    "world-rules"
+  ],
+  "timeline": [
+    "timeline",
+    "chapter-001-light-novel-timeline",
+    "chapter-002-light-novel-timeline"
+  ],
+  "continuity": [
+    "timeline",
+    "continuity-ledger",
+    "chapter-001-light-novel-timeline",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-timeline",
+    "chapter-002-light-novel-continuity"
+  ],
+  "outline": [
+    "outline"
+  ],
+  "plot": [
+    "outline",
+    "open-threads"
+  ],
+  "style": [
+    "style-guide",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "voice": [
+    "style-guide"
+  ],
+  "open-threads": [
+    "open-threads"
+  ],
+  "revision": [
+    "revision-history"
+  ],
+  "history": [
+    "revision-history"
+  ],
+  "draft": [
+    "draft-chapter-001-light-novel",
+    "draft-chapter-002-light-novel",
+    "chapter-001-light-novel-text",
+    "chapter-002-light-novel-text"
+  ],
+  "continuation": [
+    "draft-chapter-001-light-novel",
+    "draft-chapter-002-light-novel"
+  ],
+  "chapter": [
+    "chapter-001-light-novel-text",
+    "chapter-001-light-novel-summary",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-character-states",
+    "chapter-001-light-novel-timeline",
+    "chapter-001-light-novel-threads",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-text",
+    "chapter-002-light-novel-summary",
+    "chapter-002-light-novel-canon-delta",
+    "chapter-002-light-novel-character-states",
+    "chapter-002-light-novel-timeline",
+    "chapter-002-light-novel-threads",
+    "chapter-002-light-novel-continuity"
+  ],
+  "text": [
+    "chapter-001-light-novel-text",
+    "chapter-002-light-novel-text"
+  ],
+  "chapter-001-light-novel": [
+    "chapter-001-light-novel-text",
+    "chapter-001-light-novel-summary",
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-character-states",
+    "chapter-001-light-novel-timeline",
+    "chapter-001-light-novel-threads",
+    "chapter-001-light-novel-continuity"
+  ],
+  "summary": [
+    "chapter-001-light-novel-summary",
+    "chapter-002-light-novel-summary"
+  ],
+  "a": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "direcao": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "principal": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "mudou": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "para": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "light": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "novel-webnovel": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "em": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "texto": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "nao": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "manhwa": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "visual": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity"
+  ],
+  "o": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "poder": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "de": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-canon-delta",
+    "chapter-002-light-novel-continuity"
+  ],
+  "davi": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-continuity"
+  ],
+  "e": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "edicao": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "textual": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity"
+  ],
+  "inserir": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "deslocar": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "recuperar": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "variacoes": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity"
+  ],
+  "cortadas": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "autor": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "absoluto": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "ele": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "age": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "como": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "revisor": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "preso": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "na": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "margem": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "yerin": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "escapa": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "pelo": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "canal": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "inferior": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "usando": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "uma": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "variacao": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "descartada": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "do": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "roteiro": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "kael": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "pode": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "escrever": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "comentarios": [
+    "chapter-001-light-novel-canon-delta",
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-canon-delta",
+    "chapter-002-light-novel-continuity"
+  ],
+  "percebe": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "interferencia": [
+    "chapter-001-light-novel-canon-delta"
+  ],
+  "threads": [
+    "chapter-001-light-novel-threads",
+    "chapter-002-light-novel-threads"
+  ],
+  "callbacks": [
+    "chapter-001-light-novel-threads",
+    "chapter-002-light-novel-threads"
+  ],
+  "pt-br": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "metalinguagem": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "notas": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "revisao": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "frases": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "descartadas": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "prosa": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "clara": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "fluida": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "com": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "curtas": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "momentos": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "impacto": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "evitar": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "janelas": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "sistema": [
+    "chapter-001-light-novel-continuity"
+  ],
+  "status": [
+    "chapter-001-light-novel-continuity",
+    "chapter-002-light-novel-continuity"
+  ],
+  "chapter-002-light-novel": [
+    "chapter-002-light-novel-text",
+    "chapter-002-light-novel-summary",
+    "chapter-002-light-novel-canon-delta",
+    "chapter-002-light-novel-character-states",
+    "chapter-002-light-novel-timeline",
+    "chapter-002-light-novel-threads",
+    "chapter-002-light-novel-continuity"
+  ],
+  "podem": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "bloquear": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "permissoes": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "escrita": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "outros": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "agentes": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "botao": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "resolver": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "conversa": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "ameaca": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "apagar": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "ou": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "neutralizar": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "conflitos": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "camada": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "falas": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "recuperadas": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "carregam": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "autoria": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "personagem": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "original": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "quando": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "fala": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "cortada": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "volta": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "ao": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "seu": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "dono": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "alcancar": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "parcialmente": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "leva": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "cisterna": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "sob": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "pavilhao": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "dos": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "arquivos": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "restauracao": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "tenta": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "restaurar": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "relacoes": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "principais": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "apenas": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "cenas": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "obrigatorias": [
+    "chapter-002-light-novel-canon-delta"
+  ],
+  "terceira": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "pessoa": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "proxima": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "centrada": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "ritmo": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "versoes": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "humor": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "amargo": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "discreto": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "sem": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "quebrar": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "tensao": [
+    "chapter-002-light-novel-continuity"
+  ],
+  "convencionais": [
+    "chapter-002-light-novel-continuity"
+  ]
+}

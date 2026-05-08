@@ -1,0 +1,35 @@
+{
+  "title": "2. The Hero's Journey",
+  "path": "blog-how-to-write-story-proven-storytelling-frameworks-2-the-hero-s-journey",
+  "url": "https://storyflow.so/blog/how-to-write-story-proven-storytelling-frameworks",
+  "keywords": [
+    "Ordinary World",
+    "Call to Adventure",
+    "Refusal of the Call",
+    "Meeting the Mentor",
+    "Crossing the Threshold",
+    "Approach to the Inmost Cave",
+    "Ordeal",
+    "Resurrection",
+    "Return with the Elixir",
+    "Joseph Campbell",
+    "Epic Narratives",
+    "Character Transformation"
+  ],
+  "use_cases": [
+    "Use when drafting epic narratives or character-driven novels",
+    "Implement when structuring the transformation arc of a protagonist",
+    "Configure when mapping screenplay beats from initiation to resolution",
+    "Use when analyzing cross-cultural mythological patterns in storytelling",
+    "Implement when designing psychological growth patterns for long-form content"
+  ],
+  "tags": [
+    "narrative-design",
+    "storytelling-frameworks",
+    "content-strategy",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Best for: Epic narratives, character transformation stories, films, novels\n\nJoseph Campbell identified this pattern across myths from every culture. George Lucas used it to structure Star Wars. It works because it mirrors the psychological pattern of human growth.\n\nThe Hero's Journey follows 12 stages from Ordinary World to Return with the Elixir. Films like Star Wars, The Matrix, and The Lion King all follow this framework.\n\nThe 12 Stages:\n\n1. Ordinary World: Hero's normal life before the adventure\n2. Call to Adventure: Problem or challenge appears\n3. Refusal of the Call: Hero hesitates or resists\n4. Meeting the Mentor: Guidance and preparation\n5. Crossing the Threshold: Hero commits and enters new world\n6. Tests, Allies, Enemies: Challenges in the special world\n7. Approach to the Inmost Cave: Preparation for major challenge\n8. Ordeal: Hero faces greatest fear or enemy\n9. Reward: Hero gains what they sought\n10. The Road Back: Consequences and pursuit\n11. Resurrection: Final test using lessons learned\n12. Return with the Elixir: Hero brings gift back to ordinary world\n\nExample: Star Wars (A New Hope)\n\nLuke on Tatooine (Ordinary World) → R2-D2's message (Call) → \"I can't get involved\" (Refusal) → Obi-Wan trains him (Mentor) → Leaves for Alderaan (Threshold) → Mos Eisley, Death Star (Tests) → Planning the rescue (Approach) → Trash compactor, losing Obi-Wan (Ordeal) → Escape with Leia (Reward) → Pursued by Empire (Road Back) → Trench run (Resurrection) → Victory celebration (Return)",
+  "token_estimate": 317
+}

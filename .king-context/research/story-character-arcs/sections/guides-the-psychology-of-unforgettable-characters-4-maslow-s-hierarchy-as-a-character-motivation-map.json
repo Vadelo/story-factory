@@ -1,0 +1,31 @@
+{
+  "title": "4. Maslow's Hierarchy as a Character Motivation Map",
+  "path": "guides-the-psychology-of-unforgettable-characters-4-maslow-s-hierarchy-as-a-character-motivation-map",
+  "url": "https://cipherwrite.com/guides/the-psychology-of-unforgettable-characters",
+  "keywords": [
+    "Maslow's Hierarchy",
+    "character motivation",
+    "physiological needs",
+    "self-actualization",
+    "dramatic conflict",
+    "motivation mapping",
+    "character arc",
+    "psychological framework",
+    "survival drives",
+    "external conflict"
+  ],
+  "use_cases": [
+    "Use when mapping character development arcs based on psychological needs",
+    "Implement when designing character motivations to escalate dramatic tension",
+    "Configure when establishing a character's core drive at the start of a narrative",
+    "Use when identifying the vulnerability of a character by threatening a lower-tier need"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-theory",
+    "storytelling-framework"
+  ],
+  "priority": 8,
+  "content": "Abraham Maslow's hierarchy of needs (1943) is not just psychology — it is a direct map of escalating character motivation. Place your character at a specific level, then threaten the level below to create maximum dramatic conflict.\n\n| Level | Need | Character Example | Conflict Created |\n| --- | --- | --- | --- |\n| 5. Physiological | Food, water, shelter | Katniss Everdeen | Survival drives all choices |\n| 4. Safety | Security, stability | Frodo Baggins | Comfort vs duty |\n| 3. Love/Belonging | Friendship, family, intimacy | Harry Potter | Orphan seeking family/belonging |\n| 2. Esteem | Respect, recognition | Jay Gatsby | Obsessive status pursuit |\n| 1. Self-Actualization | Purpose, full potential | Atticus Finch | Living by principle despite cost |\n\nReference: Abraham Maslow, \"A Theory of Human Motivation,\" Psychological Review, 50(4), 370–396 (1943).",
+  "token_estimate": 194
+}

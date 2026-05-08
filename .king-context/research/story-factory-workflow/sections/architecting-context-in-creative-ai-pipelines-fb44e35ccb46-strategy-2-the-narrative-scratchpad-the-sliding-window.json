@@ -1,0 +1,32 @@
+{
+  "title": "Strategy 2: The Narrative Scratchpad (The Sliding Window)",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-strategy-2-the-narrative-scratchpad-the-sliding-window",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Narrative Scratchpad",
+    "Sliding Window",
+    "Google Gemini",
+    "Execute Phase",
+    "Mutate Phase",
+    "beat summary",
+    "story context",
+    "token optimization",
+    "client-side state",
+    "logic engine"
+  ],
+  "use_cases": [
+    "Implement when maintaining narrative continuity across isolated generation cycles",
+    "Configure when reducing token consumption by passing summaries instead of full text",
+    "Use when structuring a screenplay conversion pipeline with long-form context",
+    "Apply when managing state in a multi-phase AI writing workflow"
+  ],
+  "tags": [
+    "state-management",
+    "prompt-engineering",
+    "performance-optimization",
+    "narrative-design"
+  ],
+  "priority": 9,
+  "content": "- The Fix: We maintain a client-side state array called the Narrative Scratchpad that accumulates the specific beat summary (the mechanical “this happened, then that happened” breakdown) of every processed scene.\n- The Problem: Amnesia. If you generate Scene 10 in isolation, the AI doesn’t know that Scene 9 ended with a cliffhanger.\n\nHow it works: We use a Sliding Window approach.\n\n- When we are in the Execute Phase (writing), we pass the last 3 beats as story context.\n- When we are in the Mutate Phase (restructuring), we pass the last 5 beats to the LLM so it understands the logical flow.\n\nThe Result: This acts like a sticky note on the writer’s monitor. It allows the AI to write smooth transitions, like “Still reeling from the explosion…”, without needing to read the actual text of the explosion scene, which saves massive amounts of tokens.\n\nWriting good prompts is an art, but building a production pipeline on top of Google Gemini is a science. Through trial and error (and a lot of broken JSON), we discovered that you can’t just treat Gemini like a chatbot. You have to treat it like a logic engine.\n\nHere are the specific patterns we used to keep the Convert Screenplay feature from going off the rails.",
+  "token_estimate": 284
+}

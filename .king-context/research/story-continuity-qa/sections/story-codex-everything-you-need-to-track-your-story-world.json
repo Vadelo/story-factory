@@ -1,0 +1,35 @@
+{
+  "title": "Everything You Need to Track Your Story World",
+  "path": "story-codex-everything-you-need-to-track-your-story-world",
+  "url": "https://proseengine.app/story-codex",
+  "keywords": [
+    "Force-directed graph",
+    "character codex",
+    "AI-generated progression summaries",
+    "alias detection",
+    "interactive maps",
+    "family tree generator",
+    "automated scene presence tracking",
+    "world-building AI seeding",
+    "manuscript analysis",
+    "node-link visualization"
+  ],
+  "use_cases": [
+    "Use when visualizing character networks to identify central or isolated figures",
+    "Implement when automating the creation of character bios and world lore from manuscript content",
+    "Configure when tracking character appearances and scene locations across a long-form manuscript",
+    "Use when mapping geographical locations and travel routes for consistent story setting",
+    "Configure when generating complex genealogical charts or family trees automatically",
+    "Use when managing character aliases to ensure consistent identity tracking across chapters"
+  ],
+  "tags": [
+    "world-building",
+    "ai-automation",
+    "data-visualization",
+    "character-management",
+    "manuscript-analysis"
+  ],
+  "priority": 10,
+  "content": "🕸\n\nForce-directed graph showing character connections. Hover to see details, drag to rearrange. Node size reflects how connected each character is.\n\n🔍\n\nAI scans your scenes and automatically finds which characters appear together. No manual tagging required — your codex stays up to date as you write.\n\n✨\n\nOne click generates detailed descriptions from your story content. Fill out character bios, location details, and item lore without leaving the editor.\n\n📍\n\nSee exactly which scenes each character appears in. Click to jump directly to that scene. Track presence across your entire manuscript at a glance.\n\n📈\n\nTrack how characters evolve across the story with AI-generated progression summaries. See their arc from first appearance to final scene.\n\n🏷\n\nAutomatically split names into searchable aliases for better detection. \"Lord Alistair Blackwood\" becomes searchable as \"Alistair,\" \"Blackwood,\" and \"Lord Blackwood.\"\n\n🗺\n\nDrag every place onto an interactive map. Upload your own atlas or use the built-in grid. Distances, regions, and travel routes — all visual.\n\n👪\n\nAuto-built from typed relationships. Spouse, sibling, parent, lover — the tree assembles itself across generations with multiple themes and layouts.\n\n✨\n\nOne prompt, full codex. Describe your setting and the AI seeds characters, places, factions, and items with consistent lore and relationships.",
+  "token_estimate": 272
+}

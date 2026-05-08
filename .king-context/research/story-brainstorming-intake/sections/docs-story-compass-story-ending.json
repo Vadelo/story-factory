@@ -1,0 +1,34 @@
+{
+  "title": "Story Ending ​",
+  "path": "docs-story-compass-story-ending",
+  "url": "https://dramatica.com/docs/story-compass",
+  "keywords": [
+    "Story Ending",
+    "Storyform",
+    "Story Decoder",
+    "Storypoints",
+    "Storybeats",
+    "Subtxt",
+    "Throughline pressure",
+    "Domain-level conflict",
+    "Signpost flow",
+    "outcome satisfaction",
+    "unresolved cost",
+    "structural consistency"
+  ],
+  "use_cases": [
+    "Use when aligning the climax and final image with the promised emotional resolution",
+    "Configure when calibrating final-act payoff, tone, and aftertaste",
+    "Implement when transitioning from a high-level hypothesis to repeatable drafting decisions across acts",
+    "Use when refining scene-level progressions and variations for greater precision"
+  ],
+  "tags": [
+    "narrative-structure",
+    "story-development",
+    "workflow",
+    "content-strategy"
+  ],
+  "priority": 8,
+  "content": "Story Ending identifies whether the audience experience is oriented toward closure through outcome satisfaction or unresolved cost. This helps you calibrate final-act payoff, tone, and aftertaste.\n\nWriting use: Use Story Ending to align your climax and final image with the promised emotional resolution.\n\nCommon mistake: forcing a preferred ending tone that contradicts the current dynamics. Correction: either revise the premise/Throughline pressure to justify that ending, or keep the existing dynamics and rewrite the ending for structural consistency.\n\nStory Decoder is the front door. The full Storyform contains hundreds of additional Storypoints and Storybeats you can develop once you continue in Subtxt.\n\nAs you go deeper, you can refine Domain-level conflict, Signpost flow, Progressions, Variations, and scene-level Storybeats with much more precision than a first-look pass.\n\nWriting use: Move into full Storyform development when you are ready to convert the Compass hypothesis into repeatable drafting decisions across acts and scenes.",
+  "token_estimate": 198
+}

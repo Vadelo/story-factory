@@ -1,0 +1,32 @@
+{
+  "title": "Stakes level",
+  "path": "lechmazur-writing_styles-stakes-level",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "Stakes Level",
+    "Existential stakes",
+    "Moral stakes",
+    "Relational stakes",
+    "GPT-5.2",
+    "Llama 4 Maverick",
+    "Mistral Medium 3.1",
+    "Cohere Command A",
+    "Grok 4",
+    "Claude Opus 4.5",
+    "Style Fingerprints"
+  ],
+  "use_cases": [
+    "Use when comparing LLM decision-making distributions across different magnitude of consequences",
+    "Configure when benchmarking model behavior regarding existential versus moral trade-offs",
+    "Implement when selecting a model that prioritizes relational nuances over high-stakes reasoning"
+  ],
+  "tags": [
+    "analytics",
+    "model-comparison",
+    "safety-alignment",
+    "benchmarking"
+  ],
+  "priority": 7,
+  "content": "![Style Fingerprints • Stakes Level — Choice Proportions by LLM](images/style_enum_stakes_level_stacked.png)\n\n- **Existential stakes dominate** for every model; most bars are two-thirds or more existential.\n- **Most existential:** Llama 4 Maverick, Mistral Medium 3.1, and Cohere Command A.\n- **Moral stands out** most for GPT-5.2 (medium reasoning) (largest moral band), with GPT-5 Pro next and a small cluster of other frontier models behind.\n- **Relational stakes** remain a small slice overall, but peak for Grok 4 and Grok 4.1 Fast Reasoning (with Claude Opus 4.5 also higher than peers).\n\n---",
+  "token_estimate": 118
+}

@@ -1,0 +1,33 @@
+{
+  "title": "`InvalidParamsError`",
+  "path": "specification-draft-schema-invalidparamserror",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "InvalidParamsError",
+    "JSON-RPC 2.0",
+    "code: -32602",
+    "MCP",
+    "cursor pagination",
+    "tool validation",
+    "prompt arguments",
+    "elicitation mode",
+    "sampling protocol",
+    "task ID"
+  ],
+  "use_cases": [
+    "Use when a client provides arguments that do not match the tool's schema",
+    "Implement when an requested prompt name does not exist on the server",
+    "Configure when a pagination request includes an expired or mathematically invalid cursor",
+    "Use when a server requests an elicitation mode not supported by client capabilities",
+    "Return when a task cancellation is attempted on a task already in a terminal state"
+  ],
+  "tags": [
+    "error-handling",
+    "json-rpc",
+    "api-reference",
+    "validation"
+  ],
+  "priority": 9,
+  "content": "interface InvalidParamsError {\n   message: string;\n   data?: unknown;\n   code: -32602;\n}A JSON-RPC error indicating that the method parameters are invalid or malformed. In MCP, this error is returned in various contexts when request parameters fail validation: Tools: Unknown tool name or invalid tool arguments Prompts: Unknown prompt name or missing required arguments Pagination: Invalid or expired cursor values Logging: Invalid log level Tasks: Invalid or nonexistent task ID, invalid cursor, or attempting to cancel a task already in a terminal status Elicitation: Server requests an elicitation mode not declared in client capabilities Sampling: Missing tool result or tool results mixed with other content See JSON-RPC 2.0 Error Object Example: Unknown tool\n\n```\n<code class=\"json\"><span class=\"hl-0\">\\{</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"code\"</span><span class=\"hl-0\">: </span><span class=\"hl-3\">-32602</span><span class=\"hl-0\">,</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"message\"</span><span class=\"hl-0\">: </span><span class=\"hl-2\">\"Unknown tool: invalid\\_tool\\_name\"</span><br /><span class=\"hl-0\">}</span> </code><button type=\"button\">Copy</button>\n\n```\n\nExample: Invalid tool arguments\n\n```\n<code class=\"json\"><span class=\"hl-0\">\\{</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"code\"</span><span class=\"hl-0\">: </span><span class=\"hl-3\">-32602</span><span class=\"hl-0\">,</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"message\"</span><span class=\"hl-0\">: </span><span class=\"hl-2\">\"Invalid arguments for tool calculate: Missing required property 'expression'\"</span><br /><span class=\"hl-0\">}</span> </code><button type=\"button\">Copy</button>\n\n```\n\nExample: Unknown prompt\n\n```\n<code class=\"json\"><span class=\"hl-0\">\\{</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"code\"</span><span class=\"hl-0\">: </span><span class=\"hl-3\">-32602</span><span class=\"hl-0\">,</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"message\"</span><span class=\"hl-0\">: </span><span class=\"hl-2\">\"Unknown prompt: invalid\\_prompt\\_name\"</span><br /><span class=\"hl-0\">}</span> </code><button type=\"button\">Copy</button>\n\n```\n\nExample: Invalid cursor\n\n```\n<code class=\"json\"><span class=\"hl-0\">\\{</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"code\"</span><span class=\"hl-0\">: </span><span class=\"hl-3\">-32602</span><span class=\"hl-0\">,</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"message\"</span><span class=\"hl-0\">: </span><span class=\"hl-2\">\"Invalid cursor\"</span><br /><span class=\"hl-0\">}</span> </code><button type=\"button\">Copy</button>\n\n```\n\nmessage: string A short description of the error. The message SHOULD be limited to a concise single sentence. Inherited from Error. message data?: unknown Additional information about the error. The value of this member is defined by the sender (e.g. detailed error information, nested errors etc.). Inherited from Error. data code: -32602 The error type that occurred. Overrides Error. code",
+  "token_estimate": 384
+}

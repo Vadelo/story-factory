@@ -1,0 +1,30 @@
+{
+  "title": "Two Patterns for Consistency",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-two-patterns-for-consistency",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Convert Screenplay",
+    "Global Consistency",
+    "Narrative Flow",
+    "context window management",
+    "long-form generation",
+    "conversation history",
+    "LLM integration patterns",
+    "token optimization"
+  ],
+  "use_cases": [
+    "Implement when developing long-form text generation applications that require persistent story elements",
+    "Configure when managing excessive conversation history to prevent model overflow",
+    "Use when maintaining character integrity and 'global consistency' across multiple API calls",
+    "Apply when building features that require sequential 'narrative flow' and awareness of previous events"
+  ],
+  "tags": [
+    "design-patterns",
+    "context-management",
+    "best-practices",
+    "llm-integration"
+  ],
+  "priority": 9,
+  "content": "This is the part where most LLM integrations fail. They treat every API call like a blank slate, or worse, they try to stuff the entire conversation history into the context window until the model chokes.\n\nTo make the Convert Screenplay feature work, we had to solve two specific problems: Global Consistency (remembering that the protagonist is now an alien named Zeus) and Narrative Flow (remembering that the building just exploded).\n\nWe solved this using two patterns that you can steal for almost any long-form generation app.",
+  "token_estimate": 115
+}

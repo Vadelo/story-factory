@@ -1,0 +1,37 @@
+{
+  "title": "CLI Reference",
+  "path": "jonmartin721-living-story-world-cli-reference",
+  "url": "https://github.com/jonmartin721/living-story-world",
+  "keywords": [
+    "living_storyworld.cli",
+    "world-slug",
+    "storybook-ink",
+    "settings.json",
+    "CORS",
+    "XSS",
+    "path traversal",
+    "TUI",
+    "Gemini 2.5 Flash",
+    "Pollinations",
+    "init",
+    "build"
+  ],
+  "use_cases": [
+    "Use when initializing a new story world with specific themes and styles",
+    "Implement when generating localized chapter content and scene images via terminal",
+    "Configure when setting up API keys for Gemini or Pollinations via the setup wizard",
+    "Use when exporting the story world to a shareable static HTML format",
+    "Launch when a local web interface or interactive TUI version of the game is required",
+    "Configure when security hardening is needed for local API key storage"
+  ],
+  "tags": [
+    "CLI",
+    "configuration",
+    "deployment",
+    "security",
+    "api-reference"
+  ],
+  "priority": 10,
+  "content": "```bash\n# World initialization\npython3 -m living_storyworld.cli init \\\n  --title \"World Name\" \\\n  --theme \"Theme description\" \\\n  --style storybook-ink \\\n  --preset epic-fantasy\n\n# Chapter generation\npython3 -m living_storyworld.cli chapter \\\n  --world world-slug \\\n  --preset cozy-adventure\n\n# Scene image generation\npython3 -m living_storyworld.cli image scene \\\n  --world world-slug \\\n  --chapter 1\n\n# Static HTML build (shareable export)\npython3 -m living_storyworld.cli build --world world-slug\n\n# Configuration management\npython3 -m living_storyworld.cli setup\n\n# Launch web interface\npython3 -m living_storyworld.cli web --no-browser --port 8001\n\n# Interactive TUI (terminal interface)\npython3 -m living_storyworld.cli play\n```\n\n---\n\nI recommend using Gemini 2.5 Flash (free tier) with Pollinations for images to get started without costs. Get a Gemini key here: https://aistudio.google.com/api-keys\n\nThe setup wizard will walk you through configuration. You'll need at least one text provider API key—image providers like Pollinations work without keys.\n\nAPI keys are stored in `~/.config/living-storyworld/settings.json` with 600 permissions (secure, local-only).\n\nThis runs on localhost only by default (`127.0.0.1`). Don't expose it to the internet—there's no authentication, no rate limiting, and I haven't done a real security audit.\n\nSome basic protections in place:\n\n- Slug validation prevents path traversal attacks (`../../../etc/passwd` won't work)\n- Image downloads have size limits (10MB) and timeouts (30s)\n- HTML output is escaped to prevent XSS\n- CORS is locked to localhost origins\n- API keys stored with restrict",
+  "token_estimate": 293
+}

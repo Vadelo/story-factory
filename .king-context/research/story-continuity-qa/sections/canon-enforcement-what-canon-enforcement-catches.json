@@ -1,0 +1,35 @@
+{
+  "title": "What Canon Enforcement Catches",
+  "path": "canon-enforcement-what-canon-enforcement-catches",
+  "url": "https://proseengine.app/canon-enforcement",
+  "keywords": [
+    "Canon Enforcement",
+    "Story Codex",
+    "Canon Audit",
+    "Canon Compliance Score",
+    "Timeline Inconsistency",
+    "World Rule Violation",
+    "Character Detail Violation",
+    "Relationship Conflict",
+    "Geography Error",
+    "ProseEngine",
+    "cross-reference"
+  ],
+  "use_cases": [
+    "Use when performing a full-book canon audit to detect internal contradictions in a manuscript.",
+    "Configure when maintaining consistency across a multi-book epic fantasy series.",
+    "Implement when verifying character physical traits against a centralized character database.",
+    "Use when checking travel times and distances for geographical accuracy.",
+    "Configure when enforcing magic system limitations or psionic burnout rules.",
+    "Implement when tracking character relationship progression to prevent continuity errors."
+  ],
+  "tags": [
+    "validation",
+    "quality-assurance",
+    "author-tools",
+    "manuscript-analysis"
+  ],
+  "priority": 10,
+  "content": "Real examples of the kinds of contradictions that slip past human review but get flagged automatically by canon enforcement.\n\n⚠ Character Detail Violation\n\n#### Eye color changed from blue to brown\n\nElena's eyes are described as “deep brown” in this scene, but her Story Codex entry establishes blue eyes, confirmed in scenes 3, 7, and 14.\n\nScene 31, paragraph 4 · Codex: Elena Vassos → Physical → Eyes\n\n⚠ Timeline Inconsistency\n\n#### War referenced as 10 years ago — codex says 7\n\nMarcus tells the council the war ended “a decade ago,” but the Story Codex timeline places the armistice 7 years before the current story year.\n\nScene 45, dialogue line 12 · Codex: Events → The Armistice → Year\n\n⚠ World Rule Violation\n\n#### Character uses psionic ability after established burnout\n\nNira uses telepathy in this scene, but Scene 38 established that she entered psionic burnout (minimum 72-hour recovery per codex rules). Only 18 hours have passed in story time.\n\nScene 41, paragraph 9 · Codex: Concepts → Psionic Burnout → Recovery Time\n\n⚠ Geography Error\n\n#### Travel time contradicts established distance\n\nThe squad reaches Outpost Seven in “under an hour” on foot, but the codex establishes the outpost as 40 kilometers from base camp. Previous scenes showed the journey taking a full day.\n\nScene 52, paragraph 2 · Codex: Locations → Outpost Seven → Distance from Base\n\n⚠ Relationship Conflict\n\n#### Character references a relationship that hasn't been established yet\n\nJax calls Commander Sorell “old friend” in dialogue, but their codex relationship is “subordinate/superior — hostile.” No scene between them shows a friendship developing.\n\nScene 28, dialogue line 3 · Codex: Jax Navarro → Relationships → Commander Sorell\n\nRun a full-book canon audit to scan every scene in your manuscript at once. The audit report gives you a complete picture of your novel's internal consistency.\n\nScenes Scanned 127\n\nCanon Entries Referenced 48\n\nScenes Passing Canon Check 119\n\nScenes With Violations 8\n\nTotal Violations Found 14\n\nCharacter Detail Violations 5\n\nTimeline Inconsistencies 4\n\nWorld Rule Violations 3\n\nGeography / Relationship Errors 2\n\nCanon Compliance Score 93.7%\n\n📋\n\nEvery violation is listed with the exact scene, paragraph, codex entry, and explanation. Click any violation to jump directly to the conflicting passage in your editor.\n\n🔄\n\nFix the flagged violations, then re-run the audit. Watch your compliance score climb toward 100%. The audit history shows your manuscript's consistency improving over time.\n\nCanon enforcement was built for the scale of real fiction projects. Whether you're writing a standalone novel or a multi-book epic fantasy series, your canon stays consistent.\n\n📚\n\nYour Story Codex persists across all books in a series. Canon established in Book 1 is automatically enforced in Book 2, Book 3, and beyond. No more spreadsheet archaeology.\n\n💾\n\nAs you write, your codex grows. New characters, locations, and rules are added. Canon enforcement adapts in real time — every new entry becomes part of the consistency check.\n\n🔧\n\nOther writing tools have character databases. None of them cross-reference those databases against your actual prose to catch contradictions. Canon enforcement is unique to ProseEngine.\n\nCanon enforcement catches character detail changes (eye color, age, background), timeline inconsistencies (events in wrong order or impossible timeframes), geography errors (characters teleporting between locations), magic/technology rule violations, relationship contradictions, and any detail that conflicts with what you established earlier in the manuscript.\n\nCanon enforcement cross-references every scene against your Story Codex — the database of characters, locations, items, factions, and world rules you've built. When a scene contradicts an established codex entry, it flags the specific conflict with the exact detail that was violated.\n\nYes. Canon enforcement is designed for long-form fiction including multi-book series. Your Story Codex persists across all books in a series, so canon rules established in Book 1 are automatically enforced in Book 5.\n\nCanon enforcement is available on Author and Studio tiers. The Story Codex itself is available on all tiers including Free. All paid tiers include a 14-day free trial.\n\nStop catching contradictions in reviews. Start catching them as you write.\n\nTry Canon Enforcement Free",
+  "token_estimate": 897
+}

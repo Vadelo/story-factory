@@ -1,0 +1,32 @@
+{
+  "title": "4.1 LLM-based Story Completion",
+  "path": "abs-2510.04400-4-1-llm-based-story-completion",
+  "url": "https://arxiv.org/abs/2510.04400",
+  "keywords": [
+    "LLM-based Story Completion",
+    "minimalistic prompt",
+    "completion ratio",
+    "primer length",
+    "Kruskal–Wallis test",
+    "Dunn’s post hoc test",
+    "Bonferroni-adjusted",
+    "semantic content",
+    "continuation length",
+    "model effect"
+  ],
+  "use_cases": [
+    "Use when evaluating large language model output consistency across diverse inputs",
+    "Implement when designing benchmark tests for story generation and text expansion",
+    "Configure when setting word count constraints and prompting parameters for model comparison",
+    "Use when performing statistical analysis on model-generated text distributions"
+  ],
+  "tags": [
+    "benchmarking",
+    "natural-language-generation",
+    "statistical-analysis",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "Completion was driven by a minimalistic prompt, simply instructing each LLM to “continue the following story” with a continuation length of up to 100 words, corresponding to approximately twice the primer length (average: 45 words). No specific instructions were provided as to style, genre, or continuity of topics, not to influence semantic content of completion texts. Across models, the average completion texts were 134 words in length, slightly above the prompt target. However, to properly explore any differences in completion behavior across LLM, we defined a completion ratio as the ratio between the completion length and the primer length (in words).\n\nFigure 4: Completion ratio (generated text to original primer) across all five LLM.\n\n![Refer to caption](https://arxiv.org/html/violinplot_completion_ratio.png)\n\nFigure 4 represents the distribution of completion ratios for each LLM. A Kruskal–Wallis test revealed an overall model effect ( $H=14156.1$ , $p<0.001$ , $\\varepsilon^{2}=0.290$ ). A Dunn’s post hoc test (Bonferroni-adjusted) showed nine signif",
+  "token_estimate": 202
+}

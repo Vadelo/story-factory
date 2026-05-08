@@ -1,0 +1,6 @@
+interface:
+  display_name: "King Decisions"
+  short_description: "Retrieve project ADR history."
+  default_prompt: "Use $king-decisions to find the current ADR guidance for this architecture topic."
+policy:
+  allow_implicit_invocation: true

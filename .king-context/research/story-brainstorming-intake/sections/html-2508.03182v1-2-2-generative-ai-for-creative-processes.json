@@ -1,0 +1,33 @@
+{
+  "title": "2.2. Generative AI for Creative Processes",
+  "path": "html-2508.03182v1-2-2-generative-ai-for-creative-processes",
+  "url": "https://arxiv.org/html/2508.03182v1",
+  "keywords": [
+    "Generative AI",
+    "text-to-image",
+    "creative workflows",
+    "TableBrush",
+    "Luminate",
+    "RoomDreaming",
+    "design fixation",
+    "ideation",
+    "co-design",
+    "design space exploration"
+  ],
+  "use_cases": [
+    "Use when developing systems for creative writing and narrative generation",
+    "Implement when integrating text-to-image models into 3D design workflows",
+    "Configure when requiring AI to generate a diverse range of ideas rather than single responses",
+    "Use when supporting co-design interactions between human interior designers and AI",
+    "Implement when preventing design fixation during the initial inspiration phase"
+  ],
+  "tags": [
+    "generative-ai",
+    "user-experience",
+    "design-tools",
+    "research-background"
+  ],
+  "priority": 8,
+  "content": "The recent advances in AI opened up new interaction possibilities and are radically transforming creative workflows across various fields (Chung and Adar, 2023; Choi et al., 2024a; Son et al., 2024; Almeda et al., 2024), ranging from creative writing (Lee et al., 2022; Kim et al., 2023; Masson et al., 2025) to design (Wang et al., 2024b; Masson et al., 2024) and content creation (Wang et al., 2024a; Cao et al., 2025b). For example, in TableBrush, users can generate stories based on a narrative arc sketched by the user (Chung et al., 2022). Liu et al. explored how text-to-image AI can be incorporated into the 3D design workflows, showing that text-to-image models can assist with producing reference images, preventing design fixation, and inspiring design considerations (Liu et al., 2023). These advancements highlight the transformative potential of AI in supporting more dynamic and flexible creative processes.\n\nFigure 2. Results from a formative study with students, instructors, and practitioners and their satisfaction with ideation, iteration, and feedback collection.\n\n![Refer to caption](https://arxiv.org/html/figures/satisfaction_combined.png)\n\nAI is increasingly being integrated into the creative process to expand idea exploration. In Luminate, Suh et al. explored a novel interaction paradigm where the system generates a range of ideas designed to cover the design space instead of producing a single response to a prompt (Suh et al., 2024). Similarly, Wang et al. contributed RoomDreaming, a system that enables interior designers to co-design with AI (Wang et al., 2024b). While both systems focus on supporting designers in exploring diverse ideas and iterating on their designs, RoomDreaming does not address the interconnected nature of stages in d",
+  "token_estimate": 353
+}

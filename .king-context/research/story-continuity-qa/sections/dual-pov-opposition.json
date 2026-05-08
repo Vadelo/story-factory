@@ -1,0 +1,31 @@
+{
+  "title": "Opposition",
+  "path": "dual-pov-opposition",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "shared antagonist",
+    "opposition",
+    "confluence",
+    "event scenario",
+    "non-interacting characters",
+    "external conflict",
+    "adversity",
+    "shared event",
+    "narrative catalyst"
+  ],
+  "use_cases": [
+    "Use when building a connection between characters without direct interaction",
+    "Implement when using a common enemy to force diverse personalities together",
+    "Configure when structuring a story around a large-scale impactful event",
+    "Use when exploring contrasting reactions to the same external stressor"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-development",
+    "conflict-design",
+    "storytelling-theory"
+  ],
+  "priority": 8,
+  "content": "A shared antagonist (or force of opposition) can sometimes create the point of confluence between the two characters. Two children of an abusive father. Two passengers aboard a derailed train. Two rebels fighting an oppressive regime.\n\nA subset of the shared antagonist may be a shared event scenario. You take an impactful event like a tsunami or a school shooting and you show us how two people react to that event. The characters may never actually interact.",
+  "token_estimate": 102
+}

@@ -1,0 +1,31 @@
+{
+  "title": "How Long Should Each Chapter Be in a Short Story?",
+  "path": "blog-how-long-should-each-chapter-be-how-long-should-each-chapter-be-in-a-short-story",
+  "url": "https://www.oscarghostwriting.com/blog/how-long-should-each-chapter-be/",
+  "keywords": [
+    "short story",
+    "chapter divisions",
+    "section breaks",
+    "symbol (⁂)",
+    "time shift",
+    "location shift",
+    "perspective shift",
+    "novella length",
+    "1,500–3,000 words",
+    "1,000–7,500 words"
+  ],
+  "use_cases": [
+    "Use when writing a short story that exceeds 7,500 words to determine if chapter divisions are appropriate.",
+    "Implement when incorporating time, location, or perspective shifts that require clear visual separation.",
+    "Configure when drafting a novella to select chapter word counts between 1,500 and 3,000 words.",
+    "Use when compiling a short story collection and adding chapters only to stories over 10,000 words."
+  ],
+  "tags": [
+    "writing",
+    "story structure",
+    "literary formatting"
+  ],
+  "priority": 8,
+  "content": "Technically, short stories don’t have chapters — and this is worth understanding clearly. A short story is a complete narrative arc contained within approximately 1,000–7,500 words. At this length, formal chapter divisions are unnecessary and unusual.\n\nWhat short stories use instead are section breaks — white space or a symbol (⁂) that signals a shift in time, location, or perspective. These breaks do the same structural work as chapter endings without the formality of a numbered division.\n\nOnce a story reaches novella length (10,000–40,000 words), formal chapters begin to make sense. Novellas that run 20,000 words or more typically use chapters of 1,500–3,000 words — the same logic as novel chapters, scaled to the shorter overall form.\n\nIf you’re writing a short story collection and wondering whether to add chapters within individual stories: only do so if a story is long enough to need formal division (roughly over 10,000 words) and if the structural shifts in the story are significant enough to warrant the visual signal a chapter break provides.",
+  "token_estimate": 226
+}

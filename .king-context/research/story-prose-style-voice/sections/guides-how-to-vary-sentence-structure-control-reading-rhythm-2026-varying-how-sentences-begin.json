@@ -1,0 +1,32 @@
+{
+  "title": "Varying How Sentences Begin",
+  "path": "guides-how-to-vary-sentence-structure-control-reading-rhythm-2026-varying-how-sentences-begin",
+  "url": "https://rivereditor.com/guides/how-to-vary-sentence-structure-control-reading-rhythm-2026",
+  "keywords": [
+    "subject-verb openings",
+    "dependent clause",
+    "prepositional phrase",
+    "participle phrase",
+    "gerund phrase",
+    "adverbial openings",
+    "dialogue tag",
+    "internal thought",
+    "sentence variety",
+    "prose rhythm"
+  ],
+  "use_cases": [
+    "Use when auditing a paragraph for repetitive subject-verb sentence structures",
+    "Implement when needing to front-load context or setting before an action occurs",
+    "Configure when attempting to create a sense of immediacy or simultaneous action",
+    "Use when breaking up dense narrative blocks to vary the rhythmic flow of prose"
+  ],
+  "tags": [
+    "writing-style",
+    "grammar",
+    "prose-optimization",
+    "editing"
+  ],
+  "priority": 8,
+  "content": "One of the fastest ways to create monotonous prose is starting every sentence the same way. And the most common culprit is subject-verb openings. \"She did this. He did that. The dog ran. She turned. He spoke.\" When every sentence follows this pattern, the rhythm becomes mechanical.\n\nAudit your beginnings. Look at the first word of each sentence in a paragraph. If you see a lot of \"she,\" \"he,\" \"the character's name,\" you're starting too many sentences with the subject. Time to vary.\n\nStarting with a dependent clause shifts emphasis and creates variety. \"When she opened the door, the smell hit her immediately.\" \"Because he'd been lying, she couldn't trust anything else he said.\" \"While they talked, she studied his face for signs of deception.\" This front-loads context before delivering the main action.\n\nStarting with a prepositional phrase adds information about time, place, or manner before the main clause. \"In the morning, she found the letter.\" \"Across the room, someone laughed.\" \"With trembling hands, he opened the envelope.\" These openings set scene or mood before action.\n\nStarting with a participle or gerund creates immediacy and often implies simultaneous action. \"Running down the stairs, she nearly tripped.\" \"Exhausted, he collapsed into the chair.\" \"Having seen enough, she turned to leave.\" These make prose feel more active and connected.\n\nStarting with an adverb works occasionally but can feel overused or forced. \"Slowly, she reached for the handle.\" \"Suddenly, the lights went out.\" Use these sparingly because they often tell what should be shown, and too many create a style that feels breathless or melodramatic.\n\nStarting with dialogue or internal thought breaks up narrative blocks and varies rhythm naturally. \"'I don't believe you,' she said.\" \"Why now? He couldn't understand the timing.\" These openings feel immediate and intimate.\n\nThe goal isn't to never repeat a pattern but to avoid falling into ruts where every sentence (or even most sentences) begins the same way. Mix it up naturally.",
+  "token_estimate": 430
+}

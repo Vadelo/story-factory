@@ -1,0 +1,33 @@
+{
+  "title": "Repository Structure",
+  "path": "L-Earthling-temporal-literary-networks-repository-structure",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "temporal_literary_networks.csv",
+    "edge_polarity",
+    "structural balance B(τ)",
+    "triad_fractions",
+    "network density",
+    "random forest feature importance",
+    "networkx",
+    "temporal profile",
+    "analysis.ipynb",
+    "character-relationship edges"
+  ],
+  "use_cases": [
+    "Use when mapping character-relationship edges over narrative time",
+    "Configure when visualizing network evolution animations for specific literary works",
+    "Implement when performing genre discriminability analysis using structural features",
+    "Use when calculating historical epoch shifts in social network balance",
+    "Implement when replicating the end-to-end analysis pipeline from raw CSV data"
+  ],
+  "tags": [
+    "repository-structure",
+    "data-science",
+    "network-analysis",
+    "documentation"
+  ],
+  "priority": 10,
+  "content": "```\ntemporal-literary-networks/\n│\n├── README.md\n├── LICENSE\n│\n├── data/\n│   ├── temporal_literary_networks.csv           # 75,482 character-relationship edges\n│   └── temporal_literary_networks_metadata.csv  # Per-work genre/epoch/form metadata\n│\n├── figures/\n│   ├── pipeline.png                     # End-to-end analysis pipeline\n│   ├── A3_edge_polarity_by_genre.png    # Genre social tone\n│   ├── B1_density_trajectory.png        # Network density over narrative time\n│   ├── C1_balance_trajectory.png        # Structural balance B(τ) by genre\n│   ├── C4_triad_fractions.png           # Triad-type decomposition by genre\n│   ├── E_pairwise_genre_f1.png          # Pairwise genre discriminability matrix\n│   ├── E2_feature_importance.png        # Top-10 RF feature importances\n│   ├── F1_balance_by_epoch.png          # Balance by historical epoch\n│   ├── G_per_book/                      # Per-book temporal profile figures\n│   │   ├── Leo-Tolstoy_Anna-Karenina.png\n│   │   ├── Moliere_Tartuffe.png\n│   │   └── ...                          # one file per book (626 total)\n│   └── Leo-Tolstoy_Anna-Karenina_network.gif  # Example network evolution animation\n│\n├── scripts/\n│   └── analysis.ipynb                   # Full analysis pipeline (Blocks 0–G)\n│\n└── paper/\n    └── preprint.pdf                     # Preprint (to be added)\n```\n\n---\n\n```bash\npip install pandas numpy matplotlib scikit-learn networkx scipy\n```\n\n```python\nimport pandas",
+  "token_estimate": 216
+}

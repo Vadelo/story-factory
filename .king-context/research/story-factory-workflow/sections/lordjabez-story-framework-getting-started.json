@@ -1,0 +1,30 @@
+{
+  "title": "Getting Started",
+  "path": "lordjabez-story-framework-getting-started",
+  "url": "https://github.com/lordjabez/story-framework",
+  "keywords": [
+    "git init",
+    "git commits",
+    "Drafts folder",
+    "version control",
+    "planning documents",
+    "project initialization",
+    "revision tracking",
+    "folder structure"
+  ],
+  "use_cases": [
+    "Use when starting a new creative writing project",
+    "Configure when setting up professional version control for drafts",
+    "Implement when organizing pre-production planning documents",
+    "Use when migrating from manual folder versioning to git"
+  ],
+  "tags": [
+    "onboarding",
+    "workflow",
+    "setup",
+    "versioning"
+  ],
+  "priority": 10,
+  "content": "1. Clone or copy this folder for your new project\n2. Initialize git: `git init`\n3. Start developing your story in the planning documents\n4. Write your drafts in the `Drafts/` folder\n5. Use git commits to track revisions (no need for versioned folders)",
+  "token_estimate": 58
+}

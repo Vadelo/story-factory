@@ -1,0 +1,28 @@
+{
+  "title": "1: Choose your type of fantasy world",
+  "path": "blogs-writing-tips-fantasy-worldbuilding-guide-1-choose-your-type-of-fantasy-world",
+  "url": "https://www.quillandsteel.com/blogs/writing-tips/fantasy-worldbuilding-guide",
+  "keywords": [
+    "Real-world fantasy",
+    "Historical fantasy",
+    "Urban fantasy",
+    "Alternate history",
+    "Second-world fantasy",
+    "High fantasy",
+    "Epic fantasy",
+    "Portal fantasy"
+  ],
+  "use_cases": [
+    "Use when you want your story set in the real world with magical elements that keep readers grounded",
+    "Implement when you need a setting based on real historical events but with fantasy twists",
+    "Configure when you prefer to create an entirely original world with unique geography, species, and politics",
+    "Use when your plot involves characters traversing between distinct worlds or realms"
+  ],
+  "tags": [
+    "world-building",
+    "genre"
+  ],
+  "priority": 8,
+  "content": "Before diving into specifics, you need to understand the two primary approaches to world building:\n\n#### Real-world fantasy\n\nSet your story in our world, but with fantastical elements woven in. This includes:\n\n- Historical fantasy: Real events with magical twists (like Outlander by Diana Gabaldon)\n- Urban fantasy: Modern world with magical societies (like Crescent City by Sarah J. Maas)\n- Alternate history: What if historical events went differently? (like The Poppy War by R.F. Kuang)\n\nAdvantages: Familiar foundation, easier research, relatable settings\n\nChallenges: Maintaining consistency with real-world rules\n\n#### Second-world fantasy\n\nCreate entirely new worlds with their own geography, species, and history:\n\n- High fantasy: Complete alternate realms (like The Lord of the Rings by Tolkien)\n- Epic fantasy: Vast worlds with complex political systems (like Throne of Glass by Sarah J. Maas)\n- Portal fantasy: Characters travel between worlds (like The Chronicles of Narnia by C.S. Lewis)\n\nAdvantages: Complete creative freedom, unique storytelling opportunities\n\nChallenges: Everything must be built from scratch\n\nStart by choosing one of these two types of fantasy, and then move on to the next step.",
+  "token_estimate": 240
+}

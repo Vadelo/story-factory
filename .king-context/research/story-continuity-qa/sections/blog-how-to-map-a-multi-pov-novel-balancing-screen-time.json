@@ -1,0 +1,31 @@
+{
+  "title": "Balancing Screen Time",
+  "path": "blog-how-to-map-a-multi-pov-novel-balancing-screen-time",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "Screen time balance",
+    "Storyline suspension",
+    "Cliffhanger",
+    "Tension resolution",
+    "Rising action",
+    "Pacing",
+    "Character focus",
+    "Structural heuristic",
+    "Narrative flow"
+  ],
+  "use_cases": [
+    "Use when planning the distribution of chapters between multiple POV characters",
+    "Configure when determining the optimal point to exit a scene and switch perspectives",
+    "Use when managing reader engagement and narrative momentum across parallel subplots",
+    "Implement when checking if a storyline has gone cold due to excessive focus on another character"
+  ],
+  "tags": [
+    "Narrative Theory",
+    "Creative Writing",
+    "Story Structure",
+    "Reader Psychology"
+  ],
+  "priority": 8,
+  "content": "Screen time balance is not about equal chapters. It is about ensuring that no one storyline goes cold while another runs hot.\n\nA useful heuristic: readers can hold a storyline in suspension for roughly as long as the tension in that storyline is unresolved. If you leave a character at a cliffhanger, readers will endure a long stretch with another character because they want to get back and see what happens. If you leave a character mid-mundane-scene, every page spent elsewhere feels like a delay.\n\nThis means you have more flexibility to spend time with other characters right after a high-tension scene ends. You have less flexibility to shift away in the middle of rising action.",
+  "token_estimate": 154
+}

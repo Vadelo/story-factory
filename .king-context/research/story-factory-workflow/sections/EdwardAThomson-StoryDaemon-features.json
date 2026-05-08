@@ -1,0 +1,36 @@
+{
+  "title": "Features",
+  "path": "EdwardAThomson-StoryDaemon-features",
+  "url": "https://github.com/EdwardAThomson/StoryDaemon",
+  "keywords": [
+    "Agentic Architecture",
+    "Deep POV",
+    "Tension Tracking",
+    "Plot-First Mode",
+    "Codex CLI",
+    "Claude Code CLI",
+    "Gemini CLI",
+    "novel resume",
+    "Manuscript Compilation",
+    "Evolving Memory",
+    "UUID Safety",
+    "Story Foundation"
+  ],
+  "use_cases": [
+    "Use when developing immersive narrative fiction using LLM-driven autonomous agents",
+    "Implement when requiring dynamic story elements and character memory updates without pre-outlining",
+    "Configure when integrating specific LLM backends such as Claude 4.5, GPT-5, or local CLI tools",
+    "Use when exporting generated stories to Markdown or HTML formats with filtered scenes",
+    "Configure when managing project states with automatic checkpointing and UUID protection",
+    "Use when tracking narrative pacing and tension levels across generated chapters"
+  ],
+  "tags": [
+    "product-tour",
+    "feature-overview",
+    "installation",
+    "configuration"
+  ],
+  "priority": 10,
+  "content": "- 🤖 **Agentic Architecture** - LLM-driven agent makes autonomous decisions using structured tools\n- 📖 **Deep POV Writing** - Strict point-of-view discipline for immersive narrative\n- 🧠 **Evolving Memory** - Characters, locations, and story elements dynamically update\n- 🎯 **Emergent Structure** - No pre-outlining; story develops organically\n- 📚 **Story Foundation** - Optional genre, premise, setting, tone to guide emergence\n- 🎯 **Goal Hierarchy** - Protagonist goals emerge naturally or can be user-specified\n- 📋 **Plot-First Mode** - Optional emergent plot beats guide scene generation for forward momentum\n- ⚡ **Tension Tracking** - Automatic scene tension scoring (0-10) for pacing awareness\n- 💰 **Flexible LLM Backends** - Codex CLI, Gemini CLI, Claude Code CLI (zero additional cost), or API backends (GPT-5/5.1, Claude 4.5, Gemini 2.5 Pro)\n- 🔧 **Tool-Based System** - Extensible tool registry for character generation, memory search, etc.\n- 🔍 **Rich Inspection Tools** - Status, list, inspect, goals commands for full project visibility\n- 💾 **Automatic Checkpointing** - Snapshot and restore project state at any point\n- 📝 **Manuscript Compilation** - Export to Markdown or HTML with scene filtering\n- 🎲 **Unique Name Generation** - Syllable-based name generator with 4M+ combinations\n- 🔄 **Resume Workflow** - Easily continue recent projects with `novel resume`\n- 🆔 **UUID Safety** - Automatic project IDs prevent accidental overwrites\n\n- Python 3.11+\n- Codex CLI installed and authenticated (default backend)\n\n```bash\n  npm install -g @openai/codex-cli\n  codex auth\n  ```\n\n- (Optional) API access for OpenAI / Claude / Gemini backends\n\n- OpenAI GPT-5/5.1 or newer\n - Claude 4.5 (Anthropic)\n - Gemini 2.5 Pro\n\n- (Optional) Gemini CLI installed (for `llm.backend = gemini-cli`)\n\n- https://github.com/google-gemini/gemini-cli\n\n- (Optional) Claude Code CLI installed (for `llm.backend = claude-cli`)\n\n- https://github.com/anthropics/claude-code\n\n```bash\n# Clone the repository\ngit clone https://github.com/EdwardAThomson/StoryDaemon.git\ncd StoryDaemon\n\n# (Recommended) Create and activate a virtual environment\npython3 -m venv venv\nsource venv/bin/activate  # On Windows use: venv\\\\Scripts\\\\activate\n\n# Install dependencies into the virtual environment\npip install -e .\n\n# Or install with development dependencies\npip install -e \".[dev]\"\n```",
+  "token_estimate": 442
+}

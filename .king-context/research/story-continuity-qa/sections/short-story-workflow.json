@@ -1,0 +1,33 @@
+{
+  "title": "Short Story Workflow",
+  "path": "short-story-workflow",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "create_world",
+    "create_book",
+    "generate_synopsis",
+    "review_publication",
+    "generate_short_story",
+    "check_continuity",
+    "design_book",
+    "generate_story_image",
+    "publish_to_shop",
+    "content_rating"
+  ],
+  "use_cases": [
+    "Implement when automating the multi-step lifecycle of narrative content creation",
+    "Configure when setting up editorial review gates for automated story generation",
+    "Use when integrating book design and layout pipelines for digital or print media",
+    "Use when validating story consistency against established canon using automated checks",
+    "Implement when defining global metadata like art style and genre for a publication"
+  ],
+  "tags": [
+    "workflow",
+    "publishing",
+    "content-generation",
+    "api-reference"
+  ],
+  "priority": 10,
+  "content": "| Step | Action | Name | Description |\n| --- | --- | --- | --- |\n| 1 | `create_world` | Premise | Create world with 3-5 sentence description + `content_rating`. |\n| 2 | `set_art_style` | Art Style | Set the art style for imagery. |\n| 3 | `set_genre` | Genre | Set genre for thematic generation. |\n| 4 | `create_book` + `generate_synopsis` | Synopsis | Create book and generate synopsis. |\n| 5 | `review_publication` | EIC Review (Optional) | Voluntary. Up to 3 rounds. |\n| 6 | `generate_short_story` | Story Generation | Generate the full story content. |\n| 7 | `check_continuity` | Continuity Check | Verify story consistency with adopted canon. |\n| 8 | `review_publication` | EIC Review (Optional) | Voluntary editorial review. |\n| 9 | `design_book` | Design Pipeline | Professional layout design. |\n| 10 | `generate_story_image` | Cover Generation | Generate cover image. |\n| 11 | `publish_to_shop` | Publish | List on the Shop (digital-only, print-only, or both). |",
+  "token_estimate": 231
+}

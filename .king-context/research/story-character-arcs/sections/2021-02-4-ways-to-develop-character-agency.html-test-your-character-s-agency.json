@@ -1,0 +1,31 @@
+{
+  "title": "Test Your Character’s Agency",
+  "path": "2021-02-4-ways-to-develop-character-agency.html-test-your-character-s-agency",
+  "url": "http://blog.janicehardy.com/2021/02/4-ways-to-develop-character-agency.html",
+  "keywords": [
+    "character agency",
+    "protagonist-driven plot",
+    "character motivation",
+    "plot point evaluation",
+    "agency testing",
+    "narrative causality",
+    "character-driven storytelling",
+    "narrative red flags"
+  ],
+  "use_cases": [
+    "Use when evaluating if a protagonist is passively following a plot rather than driving it",
+    "Implement when checking if character motivations directly impact scene outcomes",
+    "Configure when troubleshooting a story where the plot feels independent of its characters",
+    "Use when developing characters to ensure their dreams and needs influence the narrative",
+    "Apply when revising scenes to increase the weight of personal choices on the story arc"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "plot-structure",
+    "writing-quality"
+  ],
+  "priority": 8,
+  "content": "Testing for agency is actually fairly easy. Ask:\n\n- If you put any character into the scene, would it unfold exactly the same way? If so, that’s a red flag the protagonist isn’t creating the plot, but following the plot.\n- If you changed the motivations of the character, would the scene unfold the same way? If so, that’s a red flag that the character’s reasons don’t truly matter and aren’t affecting the plot.\n- If you took the character out of the story altogether, would the plot change? If not, that’s a red flag the plot is happening without any influence from the characters at all.\n\nIf you discover any red flags, spend some time developing the characters. Figure out how they fit into the story and how their choices, motivated by their dreams and needs, can affect that story. You might have to tweak the plot a little as well, but it will be worth it.",
+  "token_estimate": 210
+}

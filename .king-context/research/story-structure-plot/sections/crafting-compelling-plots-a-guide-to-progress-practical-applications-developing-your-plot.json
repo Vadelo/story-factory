@@ -1,0 +1,31 @@
+{
+  "title": "Practical Applications: Developing Your Plot",
+  "path": "crafting-compelling-plots-a-guide-to-progress-practical-applications-developing-your-plot",
+  "url": "https://writersdigestonline.com/crafting-compelling-plots-a-guide-to-progress/",
+  "keywords": [
+    "ending",
+    "protagonist goal",
+    "escalate conflict",
+    "causal relationships",
+    "impossible choices",
+    "forward momentum",
+    "plot holes",
+    "character decision",
+    "trajectory"
+  ],
+  "use_cases": [
+    "Use when setting a clear target ending to guide plot planning.",
+    "Use when defining protagonist goals to create forward momentum.",
+    "Implement when escalating complications to ensure each stakes increase.",
+    "Configure when mapping cause and effect to avoid plot holes.",
+    "Apply when giving protagonists impossible choices to reveal character."
+  ],
+  "tags": [
+    "plot-development",
+    "story-writing",
+    "character-development"
+  ],
+  "priority": 8,
+  "content": "Start with your ending: Knowing where you’re headed helps you plant the right elements along the way. You can change the ending — most writers do — but having a target clarifies trajectory.\n\nIdentify your protagonist’s goal: What does your main character want? What prevents them from getting it? Clear goals create forward momentum. Vague wants create vague plots.\n\nEscalate systematically: Each complication should be more serious than the last. When stuck, ask “what’s the worst thing that could happen right now?” and then make it happen.\n\nTest cause and effect: For each plot event, ask what caused it and what consequences it creates. Weak causality points to plot holes or underdeveloped connections that readers will feel even if they can’t name them.\n\nGive characters impossible choices: The most compelling plots force protagonists to choose between conflicting values or goals, revealing character through decision rather than description.",
+  "token_estimate": 195
+}

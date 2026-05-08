@@ -1,0 +1,19 @@
+{
+  "title": "Current Brief",
+  "path": "brief-current",
+  "url": "local://works/a-margem-que-devora-o-heroi#brief-current",
+  "keywords": [
+    "brief",
+    "canon"
+  ],
+  "use_cases": [
+    "Recall current brief for story continuation"
+  ],
+  "tags": [
+    "brief",
+    "canon"
+  ],
+  "priority": 9,
+  "content": "{\n  \"user_request\": \"Primeiro capítulo de um isekai manhwa bem diferenciado em relação à história, diferente do convencional.\",\n  \"audience\": \"Leitores de manhwa/webnovel que gostam de isekai, metalinguagem, fantasia sombria e subversão de tropes.\",\n  \"tone\": \"cinematográfico, estranho, tenso, metalinguístico, com humor amargo discreto.\",\n  \"rating\": \"teen/adult light\",\n  \"output\": [\n    \"markdown\",\n    \"json\",\n    \"work-corpus\"\n  ],\n  \"provisional_suggestions\": {\n    \"pov\": \"terceira pessoa próxima centrada em Davi\",\n    \"tense\": \"passado\",\n    \"differentiator\": \"O protagonista não reencarna como herói ou vilão; ele acorda como a margem textual de uma light novel e consegue alterar frases, comentários de revisão e versões descartadas.\"\n  }\n}",
+  "token_estimate": 122
+}

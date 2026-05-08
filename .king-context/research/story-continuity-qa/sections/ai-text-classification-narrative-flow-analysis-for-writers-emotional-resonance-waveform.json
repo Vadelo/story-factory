@@ -1,0 +1,32 @@
+{
+  "title": "Emotional Resonance Waveform",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-emotional-resonance-waveform",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "damped harmonic oscillator",
+    "emotional intensity (E)",
+    "critical damping (zeta)",
+    "natural frequency (omega_0)",
+    "narrative stimuli F(t)",
+    "peak-to-trough ratio",
+    "exponential decay",
+    "pacing autocorrelation",
+    "vector transformations",
+    "DAG structure"
+  ],
+  "use_cases": [
+    "Implement when modeling the mathematical progression of reader engagement through a narrative",
+    "Configure when calculating the optimal word count interval between emotional peaks",
+    "Use when simulating narrative flow using the damped harmonic oscillator model",
+    "Apply when visualizing spatial-temporal relationships in a story manuscript"
+  ],
+  "tags": [
+    "narrative-theory",
+    "mathematical-modeling",
+    "structural-analysis",
+    "prose-optimization"
+  ],
+  "priority": 8,
+  "content": "Reader emotional response follows a damped harmonic oscillator model:\n\n$$ \\frac{d^2E}{dt^2} + 2\\zeta\\omega_0 \\frac{dE}{dt} + \\omega_0^2 E = F(t) $$\n\nwhere E is emotional intensity, ζ ≈ 0.7 (critical damping), ω0 is natural frequency (≈0.4 Hz for prose), and F(t) represents narrative stimuli. Optimal narratives modulate F(t) with:\n\n- Peak-to-trough ratio of 3:1 for emotional beats\n- Inter-peak intervals of 250±50 words\n- Exponential decay (time constant ≈600 words) for major emotional arcs\n\n![Key Components of Effective Narrative Flow – Narrative Flow Analysis for Writers – Tutorial Diagram](https://next.gr/uploads/ai-tut-images/2197_1_2.png \"Key Components of Effective Narrative Flow – Narrative Flow Analysis for Writers – Tutorial Diagram\")\n\nDiagram Description: The section involves mathematical models of narrative flow (DAG structure, pacing autocorrelation, emotional resonance waveform) that require visualization of spatial/temporal relationships and vector transformations.",
+  "token_estimate": 171
+}

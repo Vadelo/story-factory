@@ -1,0 +1,30 @@
+{
+  "title": "The \"Previously In…\" Document",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-the-previously-in-document",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "Previously In Document",
+    "character perspective summary",
+    "narrative reconciliation",
+    "AI writing prompt engineering",
+    "character arc tracking",
+    "series continuity",
+    "character status reconciliation",
+    "story bible"
+  ],
+  "use_cases": [
+    "Use when beginning a new volume in a serialized book series",
+    "Implement when reconciling character states and emotional trajectories before drafting",
+    "Use when providing context and current status to AI writing tools",
+    "Configure when maintaining narrative consistency across multiple character perspectives"
+  ],
+  "tags": [
+    "narrative-design",
+    "world-building",
+    "pre-writing",
+    "ai-collaboration"
+  ],
+  "priority": 8,
+  "content": "Before starting each new book in a series, write a brief summary from each major character's perspective:\n\n\"At the end of book two, Elara: has overcome her fear of water (the lake scene in chapter 22), is estranged from her sister Maren after discovering the betrayal, has learned basic swordsmanship from Commander Voss, and still doesn't know that Kael is the true heir.\"\n\nThis forces you to reconcile each character's state before you start writing. It's also an excellent input for AI writing tools — giving the AI a clear picture of where each character stands.",
+  "token_estimate": 127
+}

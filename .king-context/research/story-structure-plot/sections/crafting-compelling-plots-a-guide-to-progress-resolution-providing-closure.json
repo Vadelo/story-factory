@@ -1,0 +1,34 @@
+{
+  "title": "Resolution: Providing Closure",
+  "path": "crafting-compelling-plots-a-guide-to-progress-resolution-providing-closure",
+  "url": "https://writersdigestonline.com/crafting-compelling-plots-a-guide-to-progress/",
+  "keywords": [
+    "resolution",
+    "Act I",
+    "Act II",
+    "Act III",
+    "Joseph Campbell",
+    "monomyth",
+    "Freytag",
+    "climax",
+    "dramatic tension",
+    "thematic closure",
+    "turning points",
+    "story arc"
+  ],
+  "use_cases": [
+    "Use when you need to deliver thematic closure while leaving some ambiguity in the ending.",
+    "Use when dividing a story into setup, confrontation, and resolution acts to map pacing.",
+    "Use when structuring a hero’s journey according to Joseph Campbell’s monomyth to guide character growth.",
+    "Use when balancing rising and falling action around the climax using Freytag’s pyramid.",
+    "Use when beginning with an action‑packed opening (in media res) and then backfilling exposition."
+  ],
+  "tags": [
+    "story-structure",
+    "writing",
+    "narrative"
+  ],
+  "priority": 9,
+  "content": "Resolution establishes the story’s new normal. It answers remaining questions and shows how the protagonist’s world has changed. This doesn’t require tying everything up neatly — ambiguity can be right for certain stories — but readers need a sense that the story has reached a natural endpoint, not just stopped.\n\nConsider how The Great Gatsby ends not with Gatsby’s death but with Nick’s reflection and his decision to go home. The resolution provides thematic closure even as it acknowledges that the dream Gatsby chased never existed.\n\nThe most fundamental framework divides narratives into setup (Act I), confrontation (Act II), and resolution (Act III), with two major turning points moving the story between acts. It’s called fundamental because it shows up everywhere, not because it’s limiting.\n\nJoseph Campbell’s monomyth identifies recurring patterns in myth and storytelling: the call to adventure, crossing the threshold, trials and challenges, transformation, and return. Originally derived from mythology, this structure appears throughout modern fiction — from Star Wars to The Matrix to most superhero films. It endures because it maps onto how humans actually experience change.\n\nSimilar to the five-part structure above, Freytag’s model emphasizes rising and falling action surrounding the climax. Particularly useful for understanding dramatic tension in tragedy, and for writers who want a visual sense of where their story’s energy should be concentrated.\n\nSome stories begin “in the middle of things” — opening with action before circling back for context. This approach hooks readers immediately but requires skillful handling of exposition, since you’re delivering necessary background information to someone already mid-chase. The Odyssey pioneered this technique, and it remains popular in contemporary fiction for good reason: action first, explanation second.",
+  "token_estimate": 368
+}

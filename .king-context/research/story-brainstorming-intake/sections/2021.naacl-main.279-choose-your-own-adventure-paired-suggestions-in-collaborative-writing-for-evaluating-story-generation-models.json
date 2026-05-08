@@ -1,0 +1,32 @@
+{
+  "title": "Choose Your Own Adventure: Paired Suggestions in Collaborative Writing for Evaluating Story Generation Models",
+  "path": "2021.naacl-main.279-choose-your-own-adventure-paired-suggestions-in-collaborative-writing-for-evaluating-story-generation-models",
+  "url": "http://anthology.aclweb.org/2021.naacl-main.279/",
+  "keywords": [
+    "story generation",
+    "pairwise model evaluation",
+    "nucleus sampling",
+    "top-k sampling",
+    "GPT2",
+    "Fusion models",
+    "collaborative writing",
+    "human-in-the-loop evaluation",
+    "2021.naacl-main.279",
+    "automatic metrics"
+  ],
+  "use_cases": [
+    "Use when evaluating open-ended story generation models through human preference",
+    "Implement when comparing the effectiveness of different decoding strategies like nucleus vs top-k sampling",
+    "Configure when setting up a collaborative writing environment for model benchmarking",
+    "Use when analyzing model performance based on human text revisions"
+  ],
+  "tags": [
+    "natural-language-generation",
+    "evaluation-methodology",
+    "human-computer-interaction",
+    "research-paper"
+  ],
+  "priority": 8,
+  "content": "Elizabeth Clark, Noah A. Smith\n\n---\n\n##### Abstract\n\nStory generation is an open-ended and subjective task, which poses a challenge for evaluating story generation models. We present Choose Your Own Adventure, a collaborative writing setup for pairwise model evaluation. Two models generate suggestions to people as they write a short story; we ask writers to choose one of the two suggestions, and we observe which model’s suggestions they prefer. The setup also allows further analysis based on the revisions people make to the suggestions. We show that these measures, combined with automatic metrics, provide an informative picture of the models’ performance, both in cases where the differences in generation methods are small (nucleus vs. top-k sampling) and large (GPT2 vs. Fusion models).\n\nAnthology ID:2021.naacl-main.279Volume: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies Month:JuneYear:2021Address:OnlineEditors: Kristina Toutanova, Anna Rumshisky, Luke Zettlemoyer, Dilek Hakkani-Tur, Iz Beltagy, Steven Bethard, Ryan Cotterell, Tanmoy Chakraborty, Yichao Zhou Venue: NAACL SIG:Publisher:Association for Computational LinguisticsNote:Pages:3566–3575Language:URL: https://aclanthology.org/2021.naacl-main.279/ DOI: 10.18653/v1/2021.naacl-main.279 Bibkey:clark-smith-2021-chooseCite (ACL):Elizabeth Clark and Noah A. Smith. 2021. Choose Your Own Adventure: Paired Suggestions in Collaborative Writing for Evaluating Story Generation Models. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 3566–3575, Online. Association for Computational Linguistics.Cite (Informal): Choose Your Own Adventure: Paired Suggestions in Collaborative Writing for Evaluating Story Generation Models(Clark & Smith, NAACL 2021)Copy Citation:BibTeX Markdown MODS XML Endnote More options…PDF: https://aclanthology.org/2021.naacl-main.279.pdf Video: https://aclanthology.org/2021.naacl-main.279.mp4\n\nPDF Cite Search Video Fix data\n\n---",
+  "token_estimate": 340
+}

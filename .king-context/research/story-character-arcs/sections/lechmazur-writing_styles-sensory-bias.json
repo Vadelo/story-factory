@@ -1,0 +1,35 @@
+{
+  "title": "Sensory bias",
+  "path": "lechmazur-writing_styles-sensory-bias",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "Style Fingerprints",
+    "Sensory Bias",
+    "Rhetorical Stance",
+    "Register Level",
+    "Prompt Dependency",
+    "Deepseek V3.2 Exp",
+    "Claude Sonnet 4.5",
+    "Grok 4.1 Fast Reasoning",
+    "GPT-5 Pro",
+    "Mistral Large 3",
+    "Visual clues",
+    "Auditory signals"
+  ],
+  "use_cases": [
+    "Use when benchmarking specific LLM narrative voices across sensory channels.",
+    "Implement when selecting a model that requires a high-register default narrative posture.",
+    "Configure when attempting to elicit non-earnest or ironic stances via explicit prompting.",
+    "Use when analyzing the default stylistic fingerprints of advanced reasoning models.",
+    "Configure when seeking models with mixed sensory palettes like Kimi K2 or o3-pro."
+  ],
+  "tags": [
+    "model-comparison",
+    "narrative-analysis",
+    "style-benchmarking",
+    "prompt-engineering"
+  ],
+  "priority": 8,
+  "content": "![Style Fingerprints • Sensory Bias — Choice Proportions by LLM](images/style_enum_sensory_bias_stacked.png)\n\n- **Visual leads** for nearly every model; Deepseek V3.2 Exp, Claude Sonnet 4.5 (no reasoning), and Grok 4.1 Fast Reasoning are the most sight-driven.\n- **Mixed palettes** stand out for Kimi K2 and o3-pro, which rely less on a single sensory channel (with GPT-5 Pro also above average on mixed sensory usage).\n- **Auditory is secondary** and stays modest overall; it peaks most for DeepSeek V3.1 (both variants), with GPT-5 Pro also elevated. **Tactile** cues remain minimal everywhere.\n\n---\n\n![Style Fingerprints • Rhetorical Stance — Choice Proportions by LLM](images/style_enum_rhetorical_stance_stacked.png)\n\n- **Near-uniformly Earnest.** All models default to an earnest narrative posture (≈99.8% on average).\n- **Other stances are negligible.** Ambiguous and ironic appear only as trace slices (largest for GPT-5.1 (medium reasoning)).\n- **Implication:** stance is not a differentiator here; to elicit irony or detachment you need explicit prompting or constraints.\n\n---\n\n![Style Fingerprints • Register Level — Choice Proportions by LLM](images/style_enum_register_level_stacked.png)\n\n- **High register dominates** across all models, effectively the default narrative voice.\n- **Neutral is the main alternative** and is most visible for Mistral Large 3 and the Claude Sonnet 4.5 variants; **Mixed** appears mainly for Mistral Medium 3.1.\n- **Colloquial is essentially absent,** aligning with the near-uniform earnest stance.\n\n---\n\n![Style Fingerprints • Prompt Dependency — Choice Proportions by LLM](images/style_enum_prompt_dependency_stacked.png)\n\n- **Medium dep",
+  "token_estimate": 299
+}

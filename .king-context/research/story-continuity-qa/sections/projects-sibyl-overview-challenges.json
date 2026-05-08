@@ -1,0 +1,32 @@
+{
+  "title": "Overview & Challenges",
+  "path": "projects-sibyl-overview-challenges",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "narrative structure",
+    "temporal consistency",
+    "character arcs",
+    "cause and effect",
+    "thematic threads",
+    "manual indexing",
+    "plothole detection",
+    "manuscript analysis",
+    "knowledge management",
+    "story scaling"
+  ],
+  "use_cases": [
+    "Use when tracking character consistency across long-form series",
+    "Implement when auditing manuscripts for accidental contradictions or timeline drift",
+    "Configure when automating the extraction of story facts from raw text",
+    "Use when distinguishing between intentional mysteries and narrative errors"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "conceptual-overview",
+    "data-consistency",
+    "automation"
+  ],
+  "priority": 9,
+  "content": "The Limits of Keeping It All in Your Head\n\nEvery novelist faces the same scaling problem. In the first few chapters, you can track the details: who knows what, which characters have met, what the weather was during a key scene, whether that minor character's eye color changed between chapters two and seventeen. But as a story grows - especially across a series - the complexity outpaces human memory. Contradictions creep in. Timelines drift. Characters behave inconsistently not because the author intended it, but because the author forgot. Existing tools approach this problem with spreadsheets, wikis, or basic note-taking. They require the author to do the indexing work manually - maintaining a separate database of facts about their own story. That's backwards. The information already exists in the manuscript. What's missing is something that can read the entire world, understand the relationships within it, and guide the author through the implications of every creative decision. The challenge is building a system that doesn't just search text, but truly understands narrative structure: cause and effect, character arcs, thematic threads, temporal consistency, and the difference between an intentional mystery and an accidental plothole.",
+  "token_estimate": 254
+}

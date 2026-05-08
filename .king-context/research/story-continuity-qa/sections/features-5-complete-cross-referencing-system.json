@@ -1,0 +1,33 @@
+{
+  "title": "5. Complete Cross-Referencing System",
+  "path": "features-5-complete-cross-referencing-system",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "cross-referencing",
+    "reverse lookup",
+    "visual badge selection",
+    "interconnectivity",
+    "scene mapping",
+    "worldbuilding elements",
+    "character tracking",
+    "ensemble cast management",
+    "continuity tracking",
+    "multi-select interface"
+  ],
+  "use_cases": [
+    "Use when tracking character appearances across complex narrative arcs",
+    "Implement when maintaining continuity for series bibles and worldbuilding",
+    "Configure when mapping specific locations to chronological scene events",
+    "Use when performing a reverse lookup to find all mentions of a specific clue or faction",
+    "Implement when managing large casts to prevent narrative inconsistencies"
+  ],
+  "tags": [
+    "narrative-design",
+    "structuring",
+    "worldbuilding",
+    "continuity-control"
+  ],
+  "priority": 9,
+  "content": "Link every element of your story for total interconnectivity.\n\nConnect characters to scenes, locations to events, and worldbuilding elements throughout your narrative. See at a glance which characters appear in each scene, which locations are referenced, and how your world elements tie into the plot. Everything is interconnected.\n\n#### Cross-Reference Types\n\n- Characters to Scenes: Track which characters appear where\n- Locations to Scenes: Map where events take place\n- World Elements to Scenes: Link factions, magic, technology to plot\n- Visual Badge Selection: Easy multi-select interface\n- Reverse Lookup: See all scenes featuring a character or location\n\n#### Writer Benefits\n\n- Never lose track of character appearances\n- Ensure consistent location descriptions\n- Track when worldbuilding elements are introduced\n- Perfect for ensemble casts and complex worlds\n- Ideal for mystery writers tracking clues and suspects\n- Essential for series continuity across multiple books\n\n📚 Series Writers",
+  "token_estimate": 196
+}

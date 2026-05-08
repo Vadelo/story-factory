@@ -1,0 +1,35 @@
+{
+  "title": "2 Pipeline overview",
+  "path": "html-2605.02475v1-2-pipeline-overview",
+  "url": "https://arxiv.org/html/2605.02475v1",
+  "keywords": [
+    "WorldStateV1",
+    "Ancestral Multi-World Network",
+    "do-operator",
+    "CreativeBrief",
+    "ConstraintBlocks",
+    "GlobalRegister",
+    "Model-Context-Protocol",
+    "directed acyclic version tree",
+    "NetworkX MultiDiGraph",
+    "affective calculus",
+    "topological sort",
+    "miracle steps"
+  ],
+  "use_cases": [
+    "Configure when implementing counterfactual branching and fork management in world models",
+    "Implement when requiring symbolic computation and causal physics over LLM-generated narrative states",
+    "Use when scoring narrative candidates against emotional functionals and structural information-state functionals",
+    "Configure when setting up programmatic validation and auto-repair loops for knowledge extraction",
+    "Use when exposing versioned project DAGs via Model-Context-Protocol tools for downstream agents"
+  ],
+  "tags": [
+    "pipeline-architecture",
+    "causal-inference",
+    "knowledge-graph",
+    "simulation-engine"
+  ],
+  "priority": 10,
+  "content": "The pipeline is a five-phase loop over a versioned world model. Every version is ancestor-linked, so a counterfactual fork is literally a sibling row in a directed acyclic version tree, not a mutation of canon. Figure 1 sketches the loop.\n\nFigure 1: The Shadow-Loom loop. The LLM is invoked only at the top (ingestion), the bottom (rendering), and the audit; everything in between is symbolic computation over the graph. See the appendix for definitions of each stage.\n\n| prose |\n| --- |\n| $\\downarrow$ ingestion (5-pass extraction) |\n| WorldStateV1 (typed graph) |\n| $\\downarrow$ ego-graph slice + AMWN sandbox |\n| NetworkX MultiDiGraph |\n| $\\downarrow$ causal physics (do, abduction, propagation) |\n| candidate sandbox states |\n| $\\downarrow$ narrative physics (affective scoring) |\n| CreativeBrief (typed constraints) |\n| $\\downarrow$ constrained LLM render |\n| prose |\n| $\\downarrow$ recursive audit + re-extraction |\n| new VersionRow (factual or shadow) |\n\nThe five phases correspond to the five appendix subsections (A.2–A.7): (1) Ingestion runs five LLM agents to extract a typed GlobalRegister, then three concurrent specialist agents (physics, social, consequences) per chunk to extract events, relationships, channels, and entity-state deltas, with a programmatic validation and auto-repair loop. (2) Causal physics forks an Ancestral Multi-World Network sandbox, applies a do-operator for interventions, runs abduction for counterfactuals, and propagates effects through a topological sort of the causal sub-graph subject to inertia and affordance gating. (3) Narrative physics / affective calculus scores each candidate sandbox against four structural information-state functionals and six trait-trajectory emotional functionals. (4) Generation packages the highest-scoring candidate as a CreativeBrief of typed ConstraintBlocks and hands only the brief to a creative LLM. (5) Audit and feedback runs an LLM-as-judge over the prose, detects “miracle steps” (state changes with no licensing edge in the brief), and either accepts the version or re-runs generation with the auditor’s feedback appended, up to a configurable retry budget.\n\nThe entire loop is exposed both through a NiceGUI authoring workspace (nine cross-linked tabs over a versioned project DAG; App. D) and through a Model-Context-Protocol server with roughly forty tools, so a downstream agent can drive shadow-branch creation, scoring, and promotion programmatically.",
+  "token_estimate": 477
+}

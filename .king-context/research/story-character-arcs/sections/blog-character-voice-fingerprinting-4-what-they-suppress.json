@@ -1,0 +1,32 @@
+{
+  "title": "4. What They Suppress",
+  "path": "blog-character-voice-fingerprinting-4-what-they-suppress",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "character voice",
+    "dialogue suppression",
+    "subtext",
+    "omission",
+    "avoidance patterns",
+    "indirect communication",
+    "thematic redirection",
+    "character motivation",
+    "narrative pressure",
+    "vulnerability avoidance"
+  ],
+  "use_cases": [
+    "Use when developing distinct dialogue patterns based on character trauma or history",
+    "Implement when crafting subtext to create narrative tension in a scene",
+    "Configure when defining how a character redirects uncomfortable topics",
+    "Use when building consistent character flaws that hinder direct communication"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "dialogue-design",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "Voice is as much about what a character doesn't say as what they do. Every character has topics they approach directly and topics they approach obliquely or avoid entirely.\n\nA character who was emotionally abandoned by a parent will likely route conversations away from vulnerability even when vulnerability is what the scene calls for. A character whose identity is constructed around competence will be unable to say \"I don't know how to do this\" directly — they'll find another frame. A character carrying guilt about a specific event will redirect conversations that approach it.\n\nThese suppressions create some of the most distinctive dialogue patterns in fiction because they're consistent, motivated, and operate against the narrative's informational needs. The reader feels the pressure — the thing the character won't say — and that pressure is often more interesting than the thing said.",
+  "token_estimate": 187
+}

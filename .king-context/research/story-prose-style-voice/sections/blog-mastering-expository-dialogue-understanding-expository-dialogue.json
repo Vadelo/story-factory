@@ -1,0 +1,30 @@
+{
+  "title": "Understanding Expository Dialogue",
+  "path": "blog-mastering-expository-dialogue-understanding-expository-dialogue",
+  "url": "https://www.numberanalytics.com/blog/mastering-expository-dialogue",
+  "keywords": [
+    "expository dialogue",
+    "screenwriting",
+    "narrative flow",
+    "background information",
+    "plot points",
+    "contextual establishment",
+    "diegetic elements",
+    "character-driven information",
+    "audience orientation"
+  ],
+  "use_cases": [
+    "Use when conveying essential backstory through natural character interaction",
+    "Use when clarifying complex plot points without using external narration",
+    "Use when establishing the rules or history of a fictional world",
+    "Implement when bridging gaps in the audience's knowledge of past events"
+  ],
+  "tags": [
+    "screenwriting",
+    "narrative-techniques",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Expository dialogue is a crucial element in screenwriting, serving as a tool to convey essential information to the audience. However, it can be a double-edged sword: when done well, it seamlessly integrates into the narrative, but when mishandled, it can disrupt the story's flow and feel forced or artificial.\n\nExpository dialogue refers to conversations between characters that provide background information, clarify plot points, or establish context. Its primary purpose is to inform the audience about the story's world, characters, and events without relying on narration or other non-diegetic elements.",
+  "token_estimate": 118
+}

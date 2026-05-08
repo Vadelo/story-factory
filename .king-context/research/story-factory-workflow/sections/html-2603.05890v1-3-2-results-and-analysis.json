@@ -1,0 +1,33 @@
+{
+  "title": "3.2 Results and Analysis",
+  "path": "html-2603.05890v1-3-2-results-and-analysis",
+  "url": "https://arxiv.org/html/2603.05890v1",
+  "keywords": [
+    "Consistency Error Density",
+    "CED",
+    "Group Relative Rank",
+    "GRR",
+    "long-form narrative consistency",
+    "ultra-long text generation",
+    "length-aware quality score",
+    "length bias normalization",
+    "GPT-5-Reasoning",
+    "Gemini-2.5-Pro",
+    "Claude-Sonnet-4.5"
+  ],
+  "use_cases": [
+    "Use when evaluating the narrative coherence of Large Language Models in long-form content generation.",
+    "Implement when normalizing error counts against output length to eliminate length bias in model benchmarks.",
+    "Configure when comparing model performance across prompts of varying difficulty using rank-based metrics.",
+    "Use when calculating quality scores that balance word count against occurrence of consistency errors."
+  ],
+  "tags": [
+    "benchmarking",
+    "metrics",
+    "natural-language-processing",
+    "model-evaluation"
+  ],
+  "priority": 8,
+  "content": "#### 3.2.1 RQ1\n\nTo what extent do current LLMs maintain narrative coherence in ultra-long text generation, and do different models exhibit similar distributions of consistency error types?\n\nBenchmarking long-form narrative consistency requires metrics that capture both absolute error rates and relative performance across diverse prompts, yet naive error counting fails to account for length variation and prompt difficulty.\n\n##### Method.\n\nWe employ two complementary metrics to address these challenges, building on established methodologies for ranking-based evaluation Liu et al. (2023); Zheng et al. (2023). Simply counting errors per story unfairly penalizes models that generate longer outputs—a 10K-word story intuitively would have more opportunities for errors than a 2K-word one. To remove this length bias, we introduce Consistency Error Density (CED), which normalizes errors by output length, measuring errors per ten thousand words for model $m$ on story $i$ :\n\n| $$\\text{CED}_{m,i}=\\frac{e_{m,i}}{w_{m,i}/10000},$$ | (1) |\n| --- | --- |\n\nwhere $e_{m,i}$ denotes error count and $w_{m,i}$ word count. Model-level scores average over all stories: $\\overline{\\text{CED}}_{m}=\\frac{1}{N}\\sum_{i=1}^{N}\\text{CED}_{m,i}$ (lower is better). However, CED still does not account for varying prompt difficulty: some prompts inherently elicit more errors across all models. To enable fair cross-model comparison that controls for instance-level difficulty, we introduce Group Relative Rank (GRR), which ranks models within each prompt group. For each story $i$ with $M_{i}$ candidate outputs, we define a length-aware quality score\n\n| $$Q_{m,i}=\\frac{w_{m,i}}{1+e_{m,i}},$$ | (2) |\n| --- | --- |\n\nrank all models by $Q_{m,i}$ within the same story $i$ , and compute GRR:\n\n| $$\\text{GRR}_{m}=\\frac{1}{N_{m}}\\sum_{i\\in I_{m}}\\mathrm{rank}_{i}(Q_{m,i}).$$ | (3) |\n| --- | --- |\n\nDetailed computation examples illustrating these metrics are provided in Appendix C.1.\n\n##### Results & Answer.\n\nTable 3 shows substantial performance variation across the evaluated models. GPT-5-Reasoning achieves the lowest CED (0.113) and best GRR (2.80), followed by Gemini-2.5-Pro (CED: 0.305) and Claude-Sonnet-4.5 (CED: 0.520, GRR: 4.54). Among open-source models, GLM-4.6 and Qwen3-32B exhibit competitive performance (CED: 0.528–0.537), approaching proprietary-level consistency; moreover, capability-enhanced LongWriter-Zero (CED: 0.669) and agent-enhanced SuperWriter (CED: 0.674) achieve comparable results despite different generation strategies. These benchmarks show that most model",
+  "token_estimate": 454
+}

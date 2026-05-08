@@ -1,0 +1,35 @@
+{
+  "title": "Tradeoffs and tensions",
+  "path": "character-development-tradeoffs-and-tensions",
+  "url": "https://creativewritingauthority.com/character-development",
+  "keywords": [
+    "character development",
+    "likability vs complexity",
+    "backstory",
+    "narrative momentum",
+    "interiority",
+    "Henry James",
+    "The Art of Fiction",
+    "first-person narration",
+    "close third-person",
+    "pacing",
+    "craft principle",
+    "behavioral psychology"
+  ],
+  "use_cases": [
+    "Use when balancing the trade-off between protagonist likability and realistic character flaws",
+    "Implement when deciding how much backstory to include versus keeping in writer's notes",
+    "Configure when attempting to show character psychology through behavioral choices instead of exposition",
+    "Use when resolving the structural tension between plot-driven and character-driven narratives",
+    "Apply when managing pacing issues caused by excessive narrative dumping"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-theory",
+    "character-design",
+    "craft-strategy"
+  ],
+  "priority": 10,
+  "content": "Character development sits at the center of fiction's oldest argument: plot versus character. Henry James argued in The Art of Fiction (1884) that character is plot — what people do is who they are. Others, including genre writers working in the adventure and thriller traditions, have argued the opposite: plot creates character, forcing people to reveal themselves under pressure.\n\nThe practical tension plays out in 3 recurring places:\n\nLikability vs. complexity. There's persistent pressure — especially in commercial publishing — for protagonists to be likable. But likability and complexity are often in conflict. A protagonist with a genuinely ugly flaw is harder to market and easier to lose readers over, but statistically more likely to produce memorable literature. The most discussed characters in contemporary fiction — Amy Dunne in Gone Girl, Humbert Humbert in Lolita — are compelling precisely because they are not likable.\n\nBackstory vs. momentum. A fully developed backstory produces coherent behavior; dumping that backstory into the narrative kills pacing. The standard craft principle (attributed to multiple sources including the Pixar story team) is that 90% of backstory belongs in the writer's notes, not the manuscript. Pacing in writing is almost always the thing that suffers when backstory is handled clumsily.\n\nInternal life vs. showing. Deep, complex interiority is the goal — but in close third-person and first-person narration, there's a ceiling on how much telling-the-reader-about-psychology the prose can sustain before it becomes inert. The craft solution is always behavioral: the character's psychology must be visible in choices, reactions, and writing voice and style.\n\n---",
+  "token_estimate": 341
+}

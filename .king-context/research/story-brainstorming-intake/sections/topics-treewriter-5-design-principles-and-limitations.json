@@ -1,0 +1,30 @@
+{
+  "title": "5. Design Principles and Limitations",
+  "path": "topics-treewriter-5-design-principles-and-limitations",
+  "url": "https://www.emergentmind.com/topics/treewriter",
+  "keywords": [
+    "multi-level outlines",
+    "bi-directional editing",
+    "parent–child summarization",
+    "context scoping",
+    "agentic interfaces",
+    "tree navigation",
+    "AI provenance logging",
+    "progressive disclosure"
+  ],
+  "use_cases": [
+    "Use when structuring complex ideas through iterative drafting and multi-level outlines",
+    "Implement when sectional consistency requires AI-driven propagation and summarization",
+    "Configure when human oversight and versioning are needed to gate AI-generated content",
+    "Use when navigating dense information using tree-based progressive disclosure to reduce cognitive load"
+  ],
+  "tags": [
+    "design-principles",
+    "ai-collaboration",
+    "information-architecture",
+    "user-interface"
+  ],
+  "priority": 9,
+  "content": "TreeWriter’s design is informed by the following goals:\n\n- DG1: Support for idea structuring and iterative drafting via multi-level outlines and bi-directional outline↔prose editing.\n- DG2: Enforcement of sectional consistency through parent–child summarization, AI-driven propagation, and careful context scoping.\n- DG3: Enabling trustworthy collaboration: AI actions are gated by user confirmation, with comprehensive versioning and clear scoping.\n\nAdditional recommendations include separation of conceptual scaffolding from final text (to avoid clutter and enable reasoning), progressive disclosure via tree navigation (to minimize cognitive overload), agentic interfaces constructed as explicit tool calls over the tree rather than blanket document generation, and enhanced interpretability by logging provenance of AI edits and outlines.\n\nKey limitations are noted:\n\n- Hierarchical interface complexity may be disproportionate for short or routine documents,\n- Persistent LLM issues (hallucination, factual inaccuracy, inconsistent style) necessitate human oversight,\n- Absent ecosystem integration (LaTeX, references, figures, academic export pipelines) impedes seamless adoption,\n- Study scope is limited with respect to participant diversity and task breadth; broader, longitudinal assessment remains pending.",
+  "token_estimate": 222
+}

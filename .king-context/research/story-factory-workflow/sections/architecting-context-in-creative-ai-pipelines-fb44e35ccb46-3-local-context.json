@@ -1,0 +1,29 @@
+{
+  "title": "3. Local Context",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-local-context",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Local Context",
+    "Sliding Window",
+    "Narrative Scratchpad",
+    "Write Phase",
+    "Beat summaries",
+    "Token optimization",
+    "Narrative flow",
+    "Context window management"
+  ],
+  "use_cases": [
+    "Use when maintaining narrative consistency between sequential story beats",
+    "Configure when managing token consumption limits for long-form generation",
+    "Implement when bridging scene transitions to ensure logical character reactions",
+    "Use when generating immediate follow-up actions based on a short-term history buffer"
+  ],
+  "tags": [
+    "context-management",
+    "narrative-generation",
+    "optimization"
+  ],
+  "priority": 8,
+  "content": "This is the immediate narrative flow; what happened in the last 30 seconds.\n\n- The Fix: We use a Sliding Window (or “Narrative Scratchpad”). We pass just the last few beat summaries (e.g., the last 3 beats during the Write Phase) to the model. This gives the AI just enough history to write a smooth transition (“Still reeling from the explosion…”) without wasting tokens on the full text of the previous scene.\n- The Problem: Transitions. If Scene 4 ends with an explosion, Scene 5 needs to start with the characters coughing in the smoke. If you simply ask the LLM to “Write Scene 5” in a vacuum, it might have them sipping coffee calmly.",
+  "token_estimate": 152
+}

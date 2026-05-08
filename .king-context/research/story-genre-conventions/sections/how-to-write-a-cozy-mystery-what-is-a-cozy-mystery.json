@@ -1,0 +1,32 @@
+{
+  "title": "What is a cozy mystery?",
+  "path": "how-to-write-a-cozy-mystery-what-is-a-cozy-mystery",
+  "url": "https://thewordling.com/how-to-write-a-cozy-mystery/",
+  "keywords": [
+    "cozy mystery genre",
+    "fair-play contract",
+    "amateur sleuth",
+    "closed world setting",
+    "whodunit",
+    "red herrings",
+    "series DNA",
+    "non-police procedural",
+    "social observation",
+    "subplot simmer"
+  ],
+  "use_cases": [
+    "Use when defining structural differences between cozy mysteries and hardboiled crime fiction.",
+    "Implement when designing a fair-play narrative where clues are accessible to both protagonist and reader.",
+    "Configure when establishing a series-based world with recurring locations and community-driven stakes.",
+    "Use when drafting a non-professional detective character whose expertise lies in niche hobbies or soft skills."
+  ],
+  "tags": [
+    "genre-definitions",
+    "narrative-theory",
+    "creative-writing",
+    "literary-standards"
+  ],
+  "priority": 10,
+  "content": "Think of the cozy mystery genre as crime fiction with manners: a tidy murder mystery set in a world you’d actually visit. Here’s what sets it apart:\n\n- Reader promise: Fair play, gentle wit, and a reveal that rewards attention instead of shock tolerance.\n- Closed world, open hearts: Small, knowable settings where relationships—not forensics—unlock the case.\n- Amateur eyes, expert intuition: A non-police sleuth whose everyday skills (baking, shelving, gossip-mining) outpace badge-and-gun solutions.\n- Contrast, not copy: Same “whodunit” bones as classic detective stories, minus graphic detail, hardboiled cynicism, and procedural grind.\n- Tone that winks: Humor, warmth, and social observation; even the red herrings are charming.\n- The fair-play contract: Every necessary clue appears on the page; if the sleuth sees it, readers could have, too.\n- Stakes that fit the teacup: Reputations, livelihoods, and relationships on the line—enough to matter, not to maim.\n- Series DNA: Recurring locales, festivals, and side characters that evolve case to case (cozy readers return for the town as much as the twist).\n- Subplots that simmer: Slow-burn romance, committee drama, a small business in peril—pressure without breaking the vibe.",
+  "token_estimate": 250
+}

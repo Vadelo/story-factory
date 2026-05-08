@@ -1,0 +1,32 @@
+{
+  "title": "The Per-Chapter Workflow",
+  "path": "blog-2026-02-23-claude-long-form-writing-the-per-chapter-workflow",
+  "url": "https://docs.bswen.com/blog/2026-02-23-claude-long-form-writing",
+  "keywords": [
+    "Story Bible",
+    "Character models",
+    "Style reference document",
+    "Claude Sonnet",
+    "Claude Opus",
+    "Claude Haiku",
+    "Draft generation",
+    "Plot logic verification",
+    "Continuity management",
+    "Per-chapter workflow"
+  ],
+  "use_cases": [
+    "Implement when setting up a multi-stage creative writing pipeline",
+    "Configure when selecting specific LLM models for drafting versus final polishing",
+    "Use when maintaining narrative continuity across long-form serialized content",
+    "Use when integrating character models and style guides into automated prompts"
+  ],
+  "tags": [
+    "creative-writing",
+    "workflow-automation",
+    "model-selection",
+    "content-generation"
+  ],
+  "priority": 9,
+  "content": "This is the core of the system. I implemented a specific per-chapter workflow:\n\nInputs:\n\n1. Story Bible relevant entries\n2. Character models for involved characters\n3. Previous chapters (continuity)\n4. Chapter outline\n5. Style reference document\n6. Source passages for inspiration\n\nProcess:\n\n```\nInitial draft generation → Style and voice refinement → Character consistency check → Plot logic verification → Final polish → Repeat 3-8 times\n```\n\nWhen I tried writing without this workflow, I got inconsistent results. But when I fed all these inputs together, I achieved much better quality from the start.\n\nI learned that not all Claude models are equal for different writing phases:\n\nSonnet: Great for drafts and brainstorming - fast and creative\n\nOpus: Better for final prose - deeper reasoning and refinement\n\nHaiku: Good for quick edits and formatting tasks\n\nUsing the right model for each phase improved both efficiency and quality.",
+  "token_estimate": 195
+}

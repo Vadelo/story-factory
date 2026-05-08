@@ -1,0 +1,35 @@
+{
+  "title": "Overview",
+  "path": "page-Self-adapting_multi-agent_AI_systems_in_creative_writing-overview",
+  "url": "https://grokipedia.com/page/Self-adapting_multi-agent_AI_systems_in_creative_writing",
+  "keywords": [
+    "multi-agent AI systems",
+    "Self-adapting",
+    "Llama-2-7B",
+    "Zephyr-1.6B",
+    "Reiterative Feedback Mechanism",
+    "Modular Feedback-Enhanced Revision",
+    "Mixture of Experts-Inspired MFER",
+    "RFM",
+    "MFER",
+    "LLM ensembles",
+    "iterative collective refinement",
+    "feedback loops"
+  ],
+  "use_cases": [
+    "Use when developing collaborative creative writing workflows using small open-source models",
+    "Implement when single-pass LLM generation produces predictable or low-novelty narratives",
+    "Configure when simulating human writers' room dynamics for iterative storytelling",
+    "Use when balancing narrative creativity with structural coherence through feedback loops",
+    "Implement when evaluating the efficacy of MFER or RFM frameworks against single-agent baselines"
+  ],
+  "tags": [
+    "multi-agent-systems",
+    "creative-writing",
+    "large-language-models",
+    "framework-overview"
+  ],
+  "priority": 10,
+  "content": "Self-adapting multi-agent AI systems in creative writing are ensembles of specialized large language models (LLMs) that collaboratively generate and iteratively refine short-form narratives through structured feedback loops among distinct agent roles.[1] These systems emerged to address key limitations of conventional single-pass LLM generation, which tends to produce coherent but predictable outputs due to its reliance on high-probability token sampling, often stifling novel creative directions. By simulating the collaborative dynamics of a human writers' room—where professionals engage in brainstorming, idea sharing, critical judgment, and repeated revision—these multi-agent frameworks enable iterative collective refinement that balances creativity with coherence and relevance.[1] The approach has been notably applied to flash fiction generation using small open-source LLMs, such as Llama-2-7B and Zephyr-1.6B, which offer greater accessibility and efficiency compared to larger proprietary models. Representative frameworks include the Reiterative Feedback Mechanism (RFM), Modular Feedback-Enhanced Revision (MFER), and Mixture of Experts-Inspired MFER (MOE-MFER), each demonstrating how targeted agent interactions and multiple refinement passes can enhance narrative quality beyond baseline single-agent methods.[1]",
+  "token_estimate": 218
+}

@@ -1,0 +1,32 @@
+{
+  "title": "How to run psychological horror",
+  "path": "five-types-of-horror-and-how-to-run-them-at-the-table-how-to-run-psychological-horror",
+  "url": "https://www.questandcartridge.com/five-types-of-horror-and-how-to-run-them-at-the-table/",
+  "keywords": [
+    "unreliable narration",
+    "NPC contradiction",
+    "sensory perception discrepancy",
+    "psychological horror mechanics",
+    "player separation",
+    "anomalies",
+    "private notes",
+    "gaslighting mechanics",
+    "asymmetric information",
+    "paranoid playstyle"
+  ],
+  "use_cases": [
+    "Use when establishing a campaign atmosphere where characters question their own sanity",
+    "Implement when managing multi-channel communication like private chats or physical notes to fracture party consensus",
+    "Configure when introducing subtle environmental anomalies to foreshadow reality-bending plot points",
+    "Use when simulating mental instability or supernatural influence on specific party members"
+  ],
+  "tags": [
+    "game-mastering",
+    "narrative-design",
+    "horror",
+    "player-management"
+  ],
+  "priority": 8,
+  "content": "The key is unreliable narration. Not necessarily from you as a DM or GM, but from what is fed to them from the world around them.\n\nOne NPC says something that contradicts another in subtle ways. People backtrack and change their stories. Make sure everyone lies.\n\nHell, one thing I did once was separate the players over the course of the evening and fed them each slightly different information. You can also pull this off with private chats, passing notes, or just pull them aside.\n\nMake seemingly small differences in what each character perceives. When they start comparing notes and find inconsistencies, you’ve already won. They’ll start questioning everything. Let them do the paranoid work themselves.\n\nYou will need to, however, establish early in the campaign that the world of the game may not be what it appears to be. Otherwise, they might think you just made a mistake.\n\nDo this by planting one or two small, easily dismissed anomalies in the very first session. An NPC dies, but people claim that never happened. Someone goes missing, and they ask “who?” Could even be a person in a photograph no one remembers existing.\n\nThese will seem like nothing then. Later, they’ll seem like much more.\n\n#### Ideas for Implementation\n\n- Pass two different players a private note during the same scene describing the same NPC differently. One says they seem calm and helpful, the other says they seem nervous and evasive. Don’t explain the discrepancy. Let them argue about it later.\n- Have the party return to a location they’ve already visited and describe one detail differently than you did before. When they push back, insist that’s how it’s always been. Plant the seed of doubt without ever confirming either version.\n- Give one character occasional flashes of memory of events that, as far as the rest of the party is concerned, never happened. Keep them just plausible enough that the player isn’t sure if their character is losing their mind or if they’re the only one who knows the truth.",
+  "token_estimate": 453
+}

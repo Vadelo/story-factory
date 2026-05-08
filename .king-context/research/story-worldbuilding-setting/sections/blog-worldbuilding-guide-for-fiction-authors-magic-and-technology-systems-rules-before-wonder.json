@@ -1,0 +1,32 @@
+{
+  "title": "Magic and Technology Systems: Rules Before Wonder",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-magic-and-technology-systems-rules-before-wonder",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "Undefined magic",
+    "Defined magic",
+    "magic cost",
+    "mechanical constraints",
+    "Allomancy",
+    "Mistborn",
+    "The One Power",
+    "Wheel of Time",
+    "Orogeny",
+    "Broken Earth",
+    "three-sentence magic system test"
+  ],
+  "use_cases": [
+    "Use when crafting a new fantasy magic system to avoid deus ex machina.",
+    "Implement when establishing rules that create clear costs and limitations to increase narrative tension.",
+    "Configure when balancing character abilities to maintain plot coherence and stakes.",
+    "Use when testing if a magic system can be summarized in three sentences covering capability, cost, and limitation."
+  ],
+  "tags": [
+    "storytelling",
+    "fantasy writing",
+    "worldbuilding"
+  ],
+  "priority": 10,
+  "content": "Brandon Sanderson's First Law of Magic: An author's ability to solve conflict with magic is proportional to how well the reader understands the magic.\n\nThis law has three implications that practicing authors need to understand:\n\n1. Undefined magic can create wonders but cannot resolve plot. If your reader doesn't understand the rules, you cannot use magic to solve a problem — the solution will feel arbitrary. Deus ex machina happens when magic has wonder but no rules.\n\n2. Defined magic creates expectations readers will hold you to. Once you establish that magic has a cost, every use of magic without a cost will register as an error. The rules you set in chapter 2 are promises you make to the reader for the rest of the book.\n\n3. The best magic systems are constrained, not limitless. Constraints create story. A magic user who can do anything faces no dramatic tension when threatened by a magical problem. A magic user who can do specific things — and not others — faces real stakes.\n\n| System | What it can do | The cost | What it cannot do |\n| --- | --- | --- | --- |\n| AllomancyMistborn | Burn metals to gain specific physical/mental powers | Consumes the metal — finite resource | Can't use powers without the specific metal; Mistings limited to one metal |\n| The One PowerWheel of Time | Weave the True Source to manipulate the world | Overuse causes burning out; male channellers go mad | Can't lie while in the Three Oaths; cannot create matter |\n| OrogenyBroken Earth | Manipulate seismic and thermal energy | Draws life force from nearby organisms; social stigma | Cannot stop the orogeny response; cannot hide it indefinitely |\n| Your systemneeds these three | What it can do in one sentence | The price every use demands | What it categorically cannot do |\n\nThe three-sentence magic system test: if you cannot define your system in three sentences covering capability, cost, and limitation, you don't have a system yet. You have wonder. Wonder is valuable, but wonder alone cannot resolve plot.",
+  "token_estimate": 473
+}

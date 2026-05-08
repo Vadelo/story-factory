@@ -1,0 +1,32 @@
+{
+  "title": "Try This: The Constraint Exercise",
+  "path": "characters-sound-alike-try-this-the-constraint-exercise",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "Constraint Exercise",
+    "Dialogue Differentiation",
+    "Character Constraints",
+    "Sentence Rhythm",
+    "Non-interrogative Phrasing",
+    "Contractual Restrictions",
+    "Sentence Length Limits",
+    "Metaphor Frequency",
+    "Deflection Techniques",
+    "Self-Reference Exclusion"
+  ],
+  "use_cases": [
+    "Use when dialogue between two characters sounds too similar",
+    "Implement when practicing character voice differentiation",
+    "Use when seeking to establish distinct speech rhythms in a script",
+    "Configure when training writers to avoid repetitive sentence structures"
+  ],
+  "tags": [
+    "Creative Writing",
+    "Character Development",
+    "Exercise",
+    "Dialogue"
+  ],
+  "priority": 6,
+  "content": "Pick your two most similar-sounding characters. Give each one a constraint:\n\nCharacter A cannot ask questions. Must convert every question to a statement. “I wonder what time it is” instead of “What time is it?”\n\nCharacter B cannot use contractions. Every “don’t” becomes “do not.” Every “can’t” becomes “cannot.”\n\nWrite a scene with these constraints. The dialogue will feel weird at first. By page two, each character will have developed distinct rhythm. You can relax the constraints in revision, but the differentiation often survives.\n\nCharacter can only speak in sentences of five words or fewer. Character must include a metaphor in every other line. Character always deflects personal questions with questions. Character never uses “I” (must rephrase everything). Character ends every statement with a qualifier (“…I think,” “…maybe,” “…but who knows”).\n\nConstraints are training wheels. They force differentiation until differentiation becomes habit.",
+  "token_estimate": 188
+}

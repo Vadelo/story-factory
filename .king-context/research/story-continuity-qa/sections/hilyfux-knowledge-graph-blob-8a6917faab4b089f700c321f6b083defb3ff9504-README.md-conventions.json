@@ -1,0 +1,35 @@
+{
+  "title": "Conventions",
+  "path": "hilyfux-knowledge-graph-blob-8a6917faab4b089f700c321f6b083defb3ff9504-README.md-conventions",
+  "url": "https://github.com/hilyfux/knowledge-graph/blob/8a6917faab4b089f700c321f6b083defb3ff9504/README.md",
+  "keywords": [
+    "CLAUDE.md",
+    "dependency graph",
+    "PostToolUse",
+    "SessionStart",
+    "knowledge-graph",
+    "idempotent",
+    "git-native",
+    "bash",
+    "SKILL.md",
+    "jq",
+    "401 code",
+    "hooks"
+  ],
+  "use_cases": [
+    "Implement when requiring persistent, version-controlled repository knowledge.",
+    "Configure when automating context injection for Claude Code sessions.",
+    "Use when evidence-based rules must be enforced across a developer team.",
+    "Use when collecting runtime event data via bash scripts for LLM judgment.",
+    "Implement when organizing project documentation into a module-based structure."
+  ],
+  "tags": [
+    "configuration",
+    "documentation-standards",
+    "developer-tooling",
+    "workflow-automation"
+  ],
+  "priority": 9,
+  "content": "- All auth errors return 401 with { code, message } shape\n```\n\nThe `@` references create a dependency graph -- when Claude follows a reference, it loads the linked knowledge too.\n\n---\n\n## Design Principles\n\n1. **Bash computes, LLM decides.** Data collection and aggregation are pure bash (~3ms per event). The LLM only steps in when judgment is needed -- reading analysis and deciding what knowledge to write.\n\n2. **Evidence-based only.** Every rule in `CLAUDE.md` must trace back to a git commit, a recorded error, or direct code analysis. No evidence, no rule. An unverified rule is worse than no rule.\n\n3. **Idempotent.** `init` and `update` are safe to re-run anytime. They append missing content and skip what's already complete -- they never overwrite.\n\n4. **No background processes.** No `claude -p`. No automatic LLM calls. You stay in control.\n\n5. **Git-native.** Knowledge files are committed to your repo and shared with your team via `git push`. Runtime data stays local in `.gitignore`.\n\n---\n\n## Project Structure\n\n```\nknowledge-graph/\n├── standalone/\n│   ├── install.sh              <- Entry point: copies scripts, merges hooks\n│   └── skills/\n│       └── knowledge-graph/\n│           ├── SKILL.md        <- Skill definition (init/update/status/query)\n│           └── scripts/\n│               ├── track.sh    <- Event recording (PostToolUse hooks)\n│               ├── context.sh  <- Context injection (SessionStart hooks)\n│               ├── analyze.sh  <- Pre-analysis engine (Stop hook)\n│               ├── guard.sh    <- Shared utilities and validation\n│               └── prompt-trigger.sh  <- User prompt detection\n└── docs/\n```\n\n**After installation in your project:**\n\n```\nyour-project/\n├── .claude/\n│   ├── settings.json           <- Hooks auto-merged here\n│   ├── knowledge-index.md      <- Auto-generated module index\n│   ├── rules/                  <- Cross-module rules\n│   └── skills/\n│       └── knowledge-graph/\n│           ├── SKILL.md\n│           ├── scripts/\n│           └── data/           <- Runtime data (gitignored)\n├── src/\n│   ├── auth/\n│   │   └── CLAUDE.md           <- Module knowledge (committed)\n│   ├── api/\n│   │   └── CLAUDE.md\n│   └── ...\n└── CLAUDE.md                   <- Root project knowledge\n```\n\n---\n\n## Team Usage\n\nKnowledge files are project knowledge -- commit them. Runtime data is local -- gitignore it.\n\n```bash\n# Share knowledge with your team\ngit add CLAUDE.md **/CLAUDE.md .claude/rules/\n\n# Runtime data stays local (auto-added by installer)\n# .claude/skills/knowledge-graph/data/\n```\n\nWhen a teammate pulls your repo, their Claude Code sessions immediately benefit from the accumulated knowledge -- no setup needed beyond the initial install.\n\n---\n\n## Requirements\n\n- **`jq`** (required) -- install via `brew install jq` / `apt install jq`\n- **`git`** (optional) -- enhances dependency analysis and evidence tracing\n- **Claude Code** with hooks support\n\n---\n\n## Contributing\n\nContributions are welcome! Here's how:\n\n1. Fork the repository\n2. Create a feature branch (`git checkout -b feature/my-improvement`)\n3. Make your changes\n4. Test by running `install.sh` against a sample project\n5. Submit a pull request\n\n**Areas where help is appreciated:**\n- Support for additional hook types\n- Performance improvements for large monorepos\n- Documentation and examples\n- Integration testing\n\n---\n\n## License\n\n[MIT](LICENSE) -- use it however you want.\n\n```",
+  "token_estimate": 650
+}

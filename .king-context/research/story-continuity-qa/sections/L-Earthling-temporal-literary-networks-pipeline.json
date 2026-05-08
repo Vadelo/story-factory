@@ -1,0 +1,35 @@
+{
+  "title": "Pipeline",
+  "path": "L-Earthling-temporal-literary-networks-pipeline",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "Llama-3.3-70B-Instruct",
+    "structural balance theory",
+    "Kruskal-Wallis",
+    "Random Forest classifier",
+    "signed polarity labels",
+    "cumulative temporal networks",
+    "densification law",
+    "balance index",
+    "scripts/analysis.ipynb",
+    "G1...G_T",
+    "entropy trajectory",
+    "climax window"
+  ],
+  "use_cases": [
+    "Implement when extracting character relationships and polarity from narrative text using LLMs",
+    "Configure when modeling narrative development as a cumulative temporal network sequence",
+    "Use when classifying literary genres based on network topology and structural balance features",
+    "Implement when testing for small-world properties and densification in fictional social networks",
+    "Use when calculating the narrative position of minimum balance to identify structural climaxes"
+  ],
+  "tags": [
+    "data-pipeline",
+    "network-analysis",
+    "machine-learning",
+    "nlp"
+  ],
+  "priority": 10,
+  "content": "![Pipeline](figures/pipeline.png)\n\nThe pipeline proceeds in following stages:\n\n1. **Data collection** — Chapter-by-chapter narrative summaries and character lists are collected from publicly available sources.\n2. **LLM extraction** — A large language model (Llama-3.3-70B-Instruct) processes each chapter summary in sequence, identifying character pairs and assigning signed polarity labels σ ∈ {+, −, 0}, yielding per-chapter edge tuples (A, B, σ, t).\n3. **Network representation** — A graph builder assembles cumulative temporal networks G₁, …, G_T. Narrative time is normalized to τ = t/T ∈ (0,1]. Per-book feature vectors (142 dimensions: mean, variance, slope, τ-binned values across 6 core metrics) are extracted.\n4. **Analysis** — Kruskal–Wallis genre tests, structural balance theory (SBT), Random Forest genre classification, and epoch stratification.\n\nThe full analysis notebook (`scripts/analysis.ipynb`) is organized into sequential blocks (0 → 1 → A → B → C → D → E → F → G).\n\n---\n\nEvery eligible book (n=527) satisfies σ_sw > 1 (corpus median 2.67). Fictional social worlds are universally more clustered and shorter-path than random networks of comparable size — a property shared with empirical social networks.\n\nFitting E ∝ N^α per book yields a corpus-wide median of α = 1.54; 97.7% of books yield α > 1. Each newly introduced character forms, on average, more than one relationship with the existing cast — mirroring the densification law documented in real-world growing networks.\n\nBalance index B(τ) lies in [0.63, 0.84] across all genres and narrative positions — far above the 0.50 baseline for a randomly signed network. Balance is established early and maintained throughout; no genre shows a systematic narrative arc. Genre ordering is consistent: Fantasy/Adventure and Coming-of-Age occupy the upper band; Tragedy/Drama the lowest (though substantially a form/play effect).\n\n![Balance trajectories by genre](figures/C1_balance_trajectory_by_genre.png)\n\nThe narrative position of minimum balance τ* has a global median of 0.673, falling within the classical climax window [0.60, 0.75]. Five of eight genres align with this window; Science Fiction/Dystopia deviates markedly (τ* = 0.84).\n\nBalance is highest in Pre-Modern and 21st-Century works, lowest in Early 20th-Century fiction — paralleling the historical arc of psychological realism and modernist ambiguity.\n\n![Balance by epoch](figures/F1_balance_by_epoch.png)\n\nRandom Forest (142 temporal network features, 10-fold CV): macro-F1 = 0.168, substantially above stratified-random baseline (0.143). Tragedy/Drama is the most structurally distinctive class (F1 = 0.44). Entropy trajectory features dominate feature importance.\n\n---\n\nEvery book in the corpus has a per-book temporal profile tracking cast growth, structural balance, alliance ratio, entropy, protagonist centrality and a polarity heatmap across chapters. Two contrasting examples illustrate how genre-level structural signatures manifest at the level of individual works.\n\n---",
+  "token_estimate": 562
+}

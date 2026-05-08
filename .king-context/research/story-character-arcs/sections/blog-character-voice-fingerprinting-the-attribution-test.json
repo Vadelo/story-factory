@@ -1,0 +1,32 @@
+{
+  "title": "The Attribution Test",
+  "path": "blog-character-voice-fingerprinting-the-attribution-test",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "Attribution Test",
+    "dialogue tags",
+    "voice differentiation",
+    "action beats",
+    "character voice",
+    "Elmore Leonard technique",
+    "word lists",
+    "technical discipline",
+    "manuscript tracking",
+    "scene diagnostic"
+  ],
+  "use_cases": [
+    "Use when evaluating the distinctiveness of character speech patterns in a draft",
+    "Implement when characters sound too similar during long dialogue exchanges",
+    "Configure when developing a character's specific vocabulary and forbidden word lists",
+    "Use when performing a real-time diagnostic on a finished scene by stripping attribution"
+  ],
+  "tags": [
+    "creative-writing",
+    "dialogue-optimization",
+    "character-design",
+    "editing-workflow"
+  ],
+  "priority": 8,
+  "content": "A practical real-time diagnostic: when you finish a scene with significant dialogue, strip the dialogue tags from your draft and read the exchanges cold. If you need to rely on tags and action beats to know who's speaking — if the lines themselves don't disambiguate — the voices need more differentiation.\n\nThis isn't a test you need to pass for every single line. Some lines are short, contextual, or deliberately ambiguous. But across a ten-line exchange, a reader who doesn't know your manuscript should be able to track at least two of three distinct voices without attribution. If they can't, the voices are too close.\n\nElmore Leonard, who built some of the most distinctive character voices in American crime fiction, maintained strict word lists for each character — vocabulary they used and vocabulary they were categorically forbidden. His characters were distinguishable not just by personality and situation but by the specific words their mouths would and wouldn't form. That level of technical discipline produced the voices that made Get Shorty and Out of Sight feel like genuinely inhabited people.",
+  "token_estimate": 238
+}

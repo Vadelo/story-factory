@@ -1,0 +1,33 @@
+{
+  "title": "Avoiding Run-On and Exhausting Prose",
+  "path": "guides-how-to-vary-sentence-structure-control-reading-rhythm-2026-avoiding-run-on-and-exhausting-prose",
+  "url": "https://rivereditor.com/guides/how-to-vary-sentence-structure-control-reading-rhythm-2026",
+  "keywords": [
+    "run-on sentences",
+    "exhausting prose",
+    "sentence length",
+    "conjunctions",
+    "semicolons",
+    "rhythm",
+    "natural emphasis",
+    "sentence complexity",
+    "prose flow",
+    "reader cognitive load"
+  ],
+  "use_cases": [
+    "Use when a paragraph contains multiple complex sentences that hinder readability",
+    "Configure when seeking to create natural emphasis without using styling like italics or bold",
+    "Implement when editing long-form documentation to reduce reader fatigue",
+    "Use when simplifying technical explanations that involve multiple linked ideas",
+    "Use when identifying sentences where the conclusion loses the context of the beginning"
+  ],
+  "tags": [
+    "style-guide",
+    "technical-writing",
+    "readability",
+    "editing"
+  ],
+  "priority": 8,
+  "content": "The opposite problem is prose that's all long, complex sentences without relief. Readers get exhausted because there's no place to pause, no short sentence to anchor them, no break in the density.\n\nLong sentences require more mental effort to process. They're holding multiple ideas in mind at once. When every sentence is long and complex, readers can't catch their breath. They start skimming because it's too much work to parse every construction.\n\nTo fix this, break up some long sentences. Look for places where you're connecting too many ideas with conjunctions or semicolons. \"She walked down the street thinking about what he'd said and wondering if he'd meant it the way it sounded or if she was reading too much into his words the way she always did when she was anxious about a relationship.\" That's one 42-word sentence doing too much.\n\nBetter: \"She walked down the street thinking about what he'd said. Had he meant it the way it sounded? Or was she reading too much into his words, the way she always did when she was anxious about a relationship?\" Three sentences, same information, easier to read. The question in the middle breaks things up and creates natural emphasis.\n\nGive readers breathing room with occasional short sentences. After a long, flowing passage, drop in something brief. It feels like a rest stop. It lets the previous information settle before moving on.\n\nWatch for sentences that lose their way. If you get to the end of a sentence and can barely remember how it started, it's probably too long or too convoluted. Break it up or simplify the structure.\n\nSentence structure is how you create emphasis naturally, without resorting to exclamation points, italics, or all caps. The rhythm does the work for you.\n\nThe short sentence after long ones is classic. \"She'd been telling herself it didn't matter, that she was fine with his decision, that she'd move on and forget this ever happened. She wasn't fine.\" That contradiction gets extra weight fro",
+  "token_estimate": 444
+}

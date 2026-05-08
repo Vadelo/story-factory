@@ -1,0 +1,34 @@
+{
+  "title": "Determine the Scope of Abilities",
+  "path": "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-determine-the-scope-of-abilities",
+  "url": "https://myersfiction.com/2024/08/20/crafting-believable-magic-systems-with-limits-and-costs/",
+  "keywords": [
+    "ability scope",
+    "magic system",
+    "elemental magic",
+    "fire magic",
+    "water magic",
+    "illusion spells",
+    "divination spells",
+    "source of magic",
+    "nature-based magic",
+    "celestial magic"
+  ],
+  "use_cases": [
+    "Use when defining the breadth of spells an RPG character can access.",
+    "Implement when balancing gameplay to restrict spellcasting to specific elements.",
+    "Configure when designing a quest module with limited elemental focus.",
+    "Use when creating tutorials that explain how to set a magic system's scope.",
+    "Implement when developing an API endpoint that filters abilities by scope."
+  ],
+  "tags": [
+    "game-design",
+    "rpg",
+    "magic-systems",
+    "balancing",
+    "content-creation"
+  ],
+  "priority": 10,
+  "content": "The scopes of abilities or magic systems can vary widely, offering a range of options to explore. Some magic systems can be broad and all-encompassing, allowing for a wide variety of spells and abilities. Others may be more specific, focusing on a particular elemental magic, such as fire or water, or a specific type of spell-casting, like illusion or divination. The source of the magic can also limit magic systems, such as drawing power from nature, the elements, celestial bodies, or even from within oneself.",
+  "token_estimate": 113
+}

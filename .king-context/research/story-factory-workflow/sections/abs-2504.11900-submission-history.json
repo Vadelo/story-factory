@@ -1,0 +1,34 @@
+{
+  "title": "Submission history",
+  "path": "abs-2504.11900-submission-history",
+  "url": "http://arxiv.org/abs/2504.11900",
+  "keywords": [
+    "Submission history",
+    "v1",
+    "v2",
+    "v3",
+    "UTC timestamp",
+    "BibTeX citation",
+    "cs.CL",
+    "Creative Commons BY 4.0",
+    "Google Scholar",
+    "Semantic Scholar",
+    "browse context"
+  ],
+  "use_cases": [
+    "Use when tracking chronological revisions of a research paper",
+    "Use when exporting bibliographic data for academic references",
+    "Use when verifying file sizes and timestamps of different document versions",
+    "Use when navigating between related publications in the Computational Linguistics category",
+    "Use when checking the open-access licensing status of a submission"
+  ],
+  "tags": [
+    "version-control",
+    "metadata",
+    "citation-management",
+    "academic-publishing"
+  ],
+  "priority": 8,
+  "content": "From: Kabir Ahuja [view email] [v1] Wed, 16 Apr 2025 09:25:54 UTC (4,785 KB) [v2] Fri, 18 Apr 2025 08:44:04 UTC (4,785 KB) [v3] Thu, 18 Dec 2025 10:22:11 UTC (1,699 KB)\n\nFull-text links:\n\n![license icon](https://arxiv.org/icons/licenses/by-4.0.png)\n\nCurrent browse context:\n\ncs.CL\n\n< prev| next >\n\nChange to browse by:\n\n- Google Scholar\n- Semantic Scholar\n\nexport BibTeX citation",
+  "token_estimate": 75
+}

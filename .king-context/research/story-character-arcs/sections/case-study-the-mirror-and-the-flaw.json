@@ -1,0 +1,31 @@
+{
+  "title": "Case Study: The Mirror and the Flaw",
+  "path": "case-study-the-mirror-and-the-flaw",
+  "url": "https://blog.celtx.com/?p=11874",
+  "keywords": [
+    "aligned antagonist",
+    "character arc",
+    "redemption arc",
+    "protagonist flaw",
+    "conflict-driven development",
+    "Hans Gruber",
+    "John McClane",
+    "thematic mirror",
+    "character transformation"
+  ],
+  "use_cases": [
+    "Use when designing an antagonist that specifically targets a hero's internal weaknesses",
+    "Implement when structuring a character arc driven by external survival pressures",
+    "Configure when mapping the relationship between plot conflict and emotional growth",
+    "Use when analyzing how a villain serves as a thematic foil to the protagonist"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "story-structure",
+    "creative-writing"
+  ],
+  "priority": 7,
+  "content": "Consider John McClane in Die Hard. If McClane wasn’t caught in the battle to rid Nakatomi Plaza of terrorists led by Hans Gruber, would he have gone through his iconic character arc? The short answer is no.\n\nMcClane’s “flaw” at the start of the film is his stubbornness and inability to adapt to his wife’s success and independence. Hans Gruber is the perfect aligned antagonist because he is the ultimate “planner”—sophisticated, intellectual, and in control. To beat Gruber, McClane is forced to confront his own vulnerabilities, let go of his rigid ego, and realize the depth of his love for his wife. Gruber’s presence completion a redemption arc for McClane as both a hero and a husband.",
+  "token_estimate": 155
+}

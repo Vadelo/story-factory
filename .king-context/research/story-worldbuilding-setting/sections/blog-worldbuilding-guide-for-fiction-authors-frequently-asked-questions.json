@@ -1,0 +1,36 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-frequently-asked-questions",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "Central Conflict",
+    "Worldbuilding",
+    "Magic System",
+    "Rules",
+    "Costs",
+    "Limits",
+    "Geography",
+    "Power Structure",
+    "Story Bible",
+    "Sanderson's First Law",
+    "Functional Worldbuilding"
+  ],
+  "use_cases": [
+    "Use when you need to focus on a story’s central conflict before worldbuilding details.",
+    "Use when building a magic system that is integral to plot progression.",
+    "Implement when you want to avoid info-dumping and reveal world details gradually.",
+    "Use when setting up key geography and power structures early in the manuscript.",
+    "Use when ensuring readers understand magic constraints to appreciate character decisions.",
+    "Implement when organizing world data in a story bible for ongoing reference."
+  ],
+  "tags": [
+    "Writing",
+    "Worldbuilding",
+    "Fantasy",
+    "Magic-system",
+    "Plot"
+  ],
+  "priority": 10,
+  "content": "Where do you start when worldbuilding a fantasy novel?\n\nStart with the central conflict, not the world. Ask what problem your protagonist needs to solve, then build the world elements that make that problem both possible and difficult. This produces functional worldbuilding rather than encyclopaedic worldbuilding that serves the author more than the story. Once you have a central conflict, the world elements that matter most are the ones that create or complicate it — geography, power structures, rules of the magic or technology system.\n\nHow much worldbuilding do you need before you start writing?\n\nEnough to write the first scene with confidence, not enough to fill a textbook. For most writers, that means knowing the geography of the immediate setting, the basic power structure the protagonist is operating within, the central rule of any magic or technology system they'll encounter in chapter one, and the social position of the protagonist. Everything else can be invented as you write, provided you track it in a story bible as you go.\n\nWhat makes a magic system work?\n\nBrandon Sanderson's First Law of Magic states: an author's ability to solve conflict with magic is proportional to how well the reader understands the magic. A well-defined magic system requires rules (what it can do), costs (what it takes from the user), and limits (what it cannot do). Systems without costs or limits are wish fulfillment, not storytelling. The reader needs to understand the constraints before they can appreciate how the protagonist overcomes them.\n\nHow do you worldbuild without info-dumping?\n\nReveal world details onl",
+  "token_estimate": 345
+}

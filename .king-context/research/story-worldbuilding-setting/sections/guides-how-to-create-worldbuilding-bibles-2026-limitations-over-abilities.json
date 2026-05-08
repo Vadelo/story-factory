@@ -1,0 +1,32 @@
+{
+  "title": "Limitations Over Abilities",
+  "path": "guides-how-to-create-worldbuilding-bibles-2026-limitations-over-abilities",
+  "url": "https://rivereditor.com/guides/how-to-create-worldbuilding-bibles-2026",
+  "keywords": [
+    "teleportation",
+    "visualization",
+    "safe zones",
+    "energy drain",
+    "unfamiliar locations",
+    "mage",
+    "combat tension",
+    "long-distance",
+    "memory limits",
+    "plot tension"
+  ],
+  "use_cases": [
+    "Use when designing a magic system that balances power with strategic risk.",
+    "Use when crafting chase scenes that benefit from realistic travel constraints.",
+    "Use when determining teleportation cost based on distance.",
+    "Use when limiting encounters to memorized safe zones for game pacing.",
+    "Use when wanting to introduce plot tension through teleportation fatigue."
+  ],
+  "tags": [
+    "worldbuilding",
+    "magic-design",
+    "game-mechanics"
+  ],
+  "priority": 10,
+  "content": "Unlimited power is boring. Limitations create tension.\n\nWEAK: \"Mages can teleport anywhere instantly.\" Problem: Eliminates travel conflict, escape is always easy, no tension in chase scenes.\n\nSTRONG: \"Mages can teleport anywhere they can clearly visualize. Unfamiliar locations are dangerous—materialize in a wall and you die. Most mages keep to a dozen memorized safe zones. Long-distance teleportation drains energy proportionally—crossing continents leaves you unconscious for hours, vulnerable.\"\n\nNow teleportation creates decisions: Risk unfamiliar destination? Arrive too weak to fight? These limitations generate plot tension.",
+  "token_estimate": 110
+}

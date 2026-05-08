@@ -1,0 +1,31 @@
+{
+  "title": "Step 5: Roll proven patterns across your form ecosystem",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-step-5-roll-proven-patterns-across-your-form-ecosystem",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "Atomic Form Patterns",
+    "form templates",
+    "theme application",
+    "URL conventions",
+    "design system",
+    "onboarding flows",
+    "brand alignment",
+    "standardization",
+    "reusable components"
+  ],
+  "use_cases": [
+    "Implement when scaling successful form UI patterns across multiple onboarding flows",
+    "Configure when establishing a lightweight design system from existing form patterns",
+    "Use when standardizing URL conventions to maintain brand consistency across new initiatives",
+    "Use when converting high-performing headline patterns into reusable templates"
+  ],
+  "tags": [
+    "best-practices",
+    "configuration",
+    "scaling",
+    "design-system"
+  ],
+  "priority": 7,
+  "content": "Once you see what works, expand:\n\n- Apply the winning theme to all forms in the same category (e.g., all onboarding flows).\n- Use the most effective headline patterns as templates for new forms.\n- Standardize URL conventions so every new initiative starts aligned with your brand story.\n\nOver time, this turns into a lightweight design system you can drag-and-drop anywhere. If you want to go deeper on that idea, Atomic Form Patterns is a great next read.\n\n---",
+  "token_estimate": 105
+}

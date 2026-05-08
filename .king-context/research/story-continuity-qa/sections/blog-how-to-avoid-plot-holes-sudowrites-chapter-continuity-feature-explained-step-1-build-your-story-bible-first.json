@@ -1,0 +1,31 @@
+{
+  "title": "Step 1: Build Your Story Bible First",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-step-1-build-your-story-bible-first",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Story Bible",
+    "Braindump",
+    "Character Cards",
+    "Chapter Continuity",
+    "Document Linking",
+    "Import CSV",
+    "POV and Tense",
+    "Worldbuilding entries",
+    "Narrative chain"
+  ],
+  "use_cases": [
+    "Use when establishing foundational story elements like character traits and magic systems",
+    "Implement when organizing a long-form novel into sequential chapter documents for better AI performance",
+    "Configure when seeking to maintain consistent narrative perspective and tense across multiple files",
+    "Use when migrating character data from external spreadsheets or text files"
+  ],
+  "tags": [
+    "configuration",
+    "onboarding",
+    "content-management",
+    "best-practices"
+  ],
+  "priority": 10,
+  "content": "What you'll accomplish: A persistent reference document the AI consults before every generation.\n\nStart with the Braindump feature. Pour everything you know about your story into it. Then build out your character cards with physical descriptions, personality traits, and dialogue style. Add worldbuilding entries for your magic systems, political structures, geography, anything that must stay consistent. The more specific you get here, the fewer continuity errors downstream.\n\nPro tip: Import existing character details from text files or CSV if you've been tracking in spreadsheets.\n\nWhat you'll accomplish: The building blocks Chapter Continuity needs to function.\n\nEach chapter gets its own document in Sudowrite. Don't dump your entire novel into one file. Chapter Continuity works by linking individual documents in sequence, so the architecture matters. Name them clearly: \"Chapter 1 - The Arrival,\" \"Chapter 2 - First Blood.\"\n\nWhat you'll accomplish: A continuous narrative chain the AI reads automatically.\n\nLink each chapter document to the next using Sudowrite's document linking. The Write and Draft features then read up to 20,000 words of preceding text across up to 25 linked documents. Your AI now has the same continuity awareness a human editor would.\n\nPro tip: Set your POV and Tense in the project settings so the AI maintains narrative consistency across every linked chapter.",
+  "token_estimate": 281
+}

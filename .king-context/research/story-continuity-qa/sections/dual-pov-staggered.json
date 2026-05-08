@@ -1,0 +1,28 @@
+{
+  "title": "Staggered",
+  "path": "dual-pov-staggered",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "Staggered structuring",
+    "plot points",
+    "inciting incident",
+    "climax",
+    "character-driven narrative",
+    "causality",
+    "parallel storytelling",
+    "asynchronous story arcs"
+  ],
+  "use_cases": [
+    "Use when developing romance novels or character-focused narratives with separate initial trajectories",
+    "Implement when characters function independently without immediate causal links between their events",
+    "Configure when designing story structures where multiple protagonists converge only at the climax"
+  ],
+  "tags": [
+    "narrative-structure",
+    "character-development",
+    "storytelling-techniques"
+  ],
+  "priority": 6,
+  "content": "Another option is to stagger the structure. Staggered structuring means that plot points for each character happen at different times and with no causality between them. In a romance, Character A’s inciting incident might be losing their job (forcing them to move), while Character B’s is losing a roommate and thus needing to find a new one. It’s likely that the story won’t remain staggered throughout; the characters may come together for at least the climax. But it’s worth keeping in mind that staggering a plot point is an option.",
+  "token_estimate": 119
+}

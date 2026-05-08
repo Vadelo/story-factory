@@ -1,0 +1,34 @@
+{
+  "title": "2. AI Assistance and Contextual Management",
+  "path": "topics-treewriter-2-ai-assistance-and-contextual-management",
+  "url": "https://www.emergentmind.com/topics/treewriter",
+  "keywords": [
+    "Vercel AI SDK",
+    "GPT-4.1",
+    "GPT-5",
+    "loadNodeContent",
+    "loadNodeChildren",
+    "suggestNewTitle",
+    "searchByKeyword",
+    "diff viewer",
+    "token constraints",
+    "agentic chat assistant",
+    "node-based versioning"
+  ],
+  "use_cases": [
+    "Implement when requiring AI-driven structural changes like splitting or summarizing large content blocks",
+    "Use when building a hierarchy-aware AI assistant that needs context from parent, sibling, and child nodes",
+    "Configure when users need to review and approve AI-generated changes through a diff interface before commitment",
+    "Use when implementing token-efficient context management for large-scale document trees",
+    "Implement when providing users with rollback capabilities and versioned history of AI-assisted edits"
+  ],
+  "tags": [
+    "AI-integration",
+    "content-management",
+    "version-control",
+    "user-interface"
+  ],
+  "priority": 10,
+  "content": "AI-powered features span from atomic node edits to global restructuring, leveraging GPT-4.1 via Vercel AI SDK for editing buttons (split, summarize, generate paragraph/outline), and a GPT-5–based agentic chat assistant with tool integration. The agent operates over a constrained toolset:\n\n- loadNodeContent, loadNodeChildren, suggestNewTitle, suggestNewContent, suggestNewChild, searchByKeyword.\n\nPrompt construction is hierarchy-aware, injecting the selected node's title/content, its parent's outline, titles of siblings and children, plus optional search results. Prompts are templated to clarify tree logic: e.g., “parent summarizes children”, “children elaborate parent”, and instruct the agent to act via tools rather than open-ended generation. To stay within practical token constraints, only immediate relatives and searched nodes are included; large nodes can be decomposed via split or summarized to economize on context.\n\nAll AI edits invoke a diff viewer, where users accept or reject changes before content is overwritten; accepted revisions are versioned, supporting rollback and comparison. This supports DG3 (trustworthy, transparent AI collaboration).",
+  "token_estimate": 202
+}

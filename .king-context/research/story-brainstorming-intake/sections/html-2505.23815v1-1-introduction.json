@@ -1,0 +1,35 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2505.23815v1-1-introduction",
+  "url": "https://arxiv.org/html/2505.23815v1",
+  "keywords": [
+    "PROSE",
+    "PLUME",
+    "CIPHER",
+    "PRELUDE",
+    "RLHF",
+    "In-context learning (ICL)",
+    "Supervised Fine-Tuning (SFT)",
+    "Iterative refinement",
+    "Consistency verification",
+    "Preference reasoning",
+    "Preference descriptions",
+    "LLM alignment"
+  ],
+  "use_cases": [
+    "Use when aligning LLM writing style to a specific user's voice based on a few demonstrations",
+    "Implement when requiring interpretable and modifiable representations of user preferences",
+    "Configure when seeking to reduce token usage compared to standard in-context learning",
+    "Configure when establishing a feedback loop for iterative refinement of inferred user styles",
+    "Use when evaluating assistive writing capabilities using the PLUME benchmark"
+  ],
+  "tags": [
+    "personalization",
+    "machine-learning",
+    "assistive-writing",
+    "evaluation-benchmarks"
+  ],
+  "priority": 10,
+  "content": "People increasingly rely on LLM-powered AI Assistants to complete tasks on their behalf, such as creating written materials: “write a professional email about the following great idea” or “summarize this new article for me to share share with my friends”. As the writing style learned by an LLM during pretraining is generic, it may not match the user’s preferred writing style and voice (Chakrabarty et al., 2024; Santurkar et al., 2023), leading to outputs that feel impersonal, misaligned, or requiring extensive editing.\n\nExisting approaches to learn preferences rely on preference rankings (RLHF) (Ziegler et al., 2019; Rafailov et al., 2024), demonstrations (Ouyang et al., 2022; Shaikh et al., 2024), prompting (Zhou et al., 2022), and user edits (Gao et al., 2024). However, methods such as RLHF and SFT (on user demonstrations) require a large number of samples, and do not learn the preferences in a form users can interpret or interact with. In-context learning (ICL) from user demonstrations does learn from a small number of user demonstrations, but lacks interpretability and offers limited control to the user, and prompting approaches require the challenging task of identifying a high-quality prompt (Zamfirescu-Pereira et al., 2023). Furthermore, methods that learn from user edits ignore data about user preferences and style that are available from observing how the user completes writing tasks on their own.\n\nGao et al. (2024) introduces CIPHER to establish the benefits of aligning a LLM through prompting by learning a description of user preferences compared to ICL conditioned on user demonstrations (i.e., needing fewer tokens, interpretable representation, and a modifiable representation). The preference description is learned from user edits on the assistant’s generations. However, CIPHER does not enable the LLM to reflect on and refine its inferred preference description, which limits the assistant’s ability to adapt to a user nuanced writing style.\n\nIn this paper, we build on CIPHER and introduce PROSE (Preference Reasoning by Observing and Synthesizing Examples), a novel approach that leverages two key innovations to enhance the precision and efficacy of the preference description inferred from user demonstrations: (1) iteratively refining the inferred description until the assistant’s generations closely align with the user, and (2) verifying the inferred preferences across multiple user demonstrations. The inferred description is used to condition the LLM to generate writing more aligned with the user.\n\nWe evaluate PROSE on PRELUDE (Gao et al., 2024), the assistive writing benchmark accompanying CIPHER, and identify several limitations. First, the ground truth preference sets often overlap, lack diversity, and match the default LLM behavior. Second, edits are performed only if the assistant generation is inadequate, meaning it is not possible to distinguish between good and excellent generations. Lastly, PRELUDE relies on user edits as the learning signal, meaning the assistant’s initial draft can limit the quality of the final writing sample. To address these limitations, we introduce a novel assistive writing benchmark, PLUME (Preference Learning from User Emails and Memos).\n\nWe systematically evaluate the benefits of PROSE on PLUME using four LLMs ranging in size and ability, and find that PROSE outperforms CIPHER by 33% (Gao et al., 2024). Additionally, we demonstrate PROSE can be combined with ICL to further improve over CIPHER by 47% and up to 9% over ICL. In all, our contributions are:\n\n•\n\nPROSE: A new method to infer user preferences.\n\n•\n\nPLUME: An improved benchmark for preference inference from user writing demonstrations.\n\n•\n\nAn in-depth ablation study on PROSE’s iterative refinement and consistency verification steps\n\n•\n\nAn analysis comparing learning explicit preference descriptions and conditioning directly on in-context examples",
+  "token_estimate": 782
+}

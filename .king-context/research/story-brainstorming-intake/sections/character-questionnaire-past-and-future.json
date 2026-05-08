@@ -1,0 +1,32 @@
+{
+  "title": "Past and Future",
+  "path": "character-questionnaire-past-and-future",
+  "url": "https://www.novel-software.com/character-questionnaire/",
+  "keywords": [
+    "character backstory",
+    "childhood development",
+    "past acts",
+    "relationship dynamics",
+    "emotional milestones",
+    "ambitions",
+    "trauma",
+    "achievements",
+    "interpersonal attraction",
+    "early memories"
+  ],
+  "use_cases": [
+    "Use when building complex character backstories for fiction or roleplaying",
+    "Configure when establishing character motivations based on past trauma or success",
+    "Implement when defining a character's romantic history and behavior in relationships",
+    "Use when creating consistent internal logic for a character's future ambitions"
+  ],
+  "tags": [
+    "character-creation",
+    "narrative-design",
+    "creative-writing",
+    "backstory"
+  ],
+  "priority": 9,
+  "content": "84. What were they like as a baby?85. What were they like as a child?86. Did they grow up rich or poor?87. Did they grow up nurtured or neglected?88. What is the most offensive thing they’ve ever said?89. What is their greatest achievement?90. What was their first kiss like?91. What is the worst thing they did to someone they loved?92. What are their ambitions?93. What advice would they give their younger self?94. What smells remind them of their childhood?95. What was their childhood ambition?96. What is their best childhood memory?97. What is their worst childhood memory?98. Did they have an imaginary childhood friend?99. When was the last time they were crushed with disappointment?100. What past act are they most ashamed of?101. What past act are they most proud of?102. Has anyone ever saved their life?103. What is their strongest childhood memory?\n\n104. What sort of people are they attracted to?105. Do they believe in love at first sight?106. Are they currently in a relationship?107. Have they ever been married?108. How do they behave in a relationship?109. When did they last have sex?110. What sort of sex do they have?111. Have they ever been in love?112. Have they ever had their heart broken?",
+  "token_estimate": 268
+}

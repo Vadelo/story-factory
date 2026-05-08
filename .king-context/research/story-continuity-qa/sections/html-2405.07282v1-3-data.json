@@ -1,0 +1,33 @@
+{
+  "title": "3. Data",
+  "path": "html-2405.07282v1-3-data",
+  "url": "https://arxiv.org/html/2405.07282v1",
+  "keywords": [
+    "CHADPOD dataset",
+    "MACHIAVELLI dataset",
+    "triplet extraction",
+    "Choose-Your-Own-Adventure",
+    "node1-action-node2",
+    "hard negatives",
+    "graph analysis",
+    "game-wise splits",
+    "branching points",
+    "text filtering heuristics",
+    "test set leakage"
+  ],
+  "use_cases": [
+    "Use when constructing balanced datasets for narrative branching point detection",
+    "Configure when filtering narrative triplets based on character length and sentence count",
+    "Implement when splitting game-based data to prevent cross-game information leakage",
+    "Configure when generating hard negative examples from linear narrative segments"
+  ],
+  "tags": [
+    "dataset-creation",
+    "natural-language-processing",
+    "graph-data",
+    "narrative-analysis"
+  ],
+  "priority": 8,
+  "content": "![Refer to caption](https://arxiv.org/html/extracted/2405.07282v1/graph_example.png)\n\nFigure 1: Example of branching in CYOA data, shortened for the simplicity.\n\nIn this section, we describe the process of constructing the CHADPOD dataset.\n\nWe use the MACHIAVELLI dataset Pan et al. (2023), which consists of 134 Choose-Your-Own-Adventure games, as our input data.\n\nFor each available game, we analyze its graph and extract triplets of the form:\n\n \n\nwhere node1 is the text before the action, action is the choice made by the player, and node2 is the text following the action (see Figure 1).\n\nNext, we filter the triplets—removing exact duplicates, retaining only those with descriptions sufficiently long to provide enough context – both in node1 and node2 (to do so we used simple heuristics – at least 4 sentences, at least 50 characters), removing texts that are dialogue segments (dialogues are a very specific type of narrative that should be analyzed separately, see for example Zhou et al. (2023)), and removing texts with unusual characters. As positive examples of branching points, we only select triplets for which the graph from node1 has more than one possible action, thus excluding scenarios like. The remaining 731 examples make up the positive class.\n\nThen we form the negative class from two components—using the division of texts from the same games (nodes) at random points as easy negatives, and the above-described cases when there is exactly one action emanating from node1 in the graph as hard negatives.\n\nFinally, we divide the data444The data is available through Google Drive. The password is CHADPOD. into 3 game-wise splits, ensuring that there are no overlaps between the splits in terms of games, thereby eliminating test set leakage. The statistics of the resulting split are presented in Table 1.\n\nTable 1: Data Splits\n\n| Class | Train | Dev | Test |\n| --- | --- | --- | --- |\n| Positives | 511 | 110 | 110 |\n| Negatives | 256 | 55 | 55 |\n| Hard Negatives | 255 | 55 | 55 |\n| Total | 1022 | 220 | 220 |",
+  "token_estimate": 457
+}

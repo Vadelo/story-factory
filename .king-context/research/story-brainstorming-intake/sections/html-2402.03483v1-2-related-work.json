@@ -1,0 +1,32 @@
+{
+  "title": "2 Related Work",
+  "path": "html-2402.03483v1-2-related-work",
+  "url": "https://arxiv.org/html/2402.03483v1",
+  "keywords": [
+    "reinforcement learning",
+    "auxiliary model guidance",
+    "inference-time option-selection",
+    "chain of thought",
+    "continuous soft prompts",
+    "iterative feedback-prompting",
+    "human-in-the-loop",
+    "content generation",
+    "long-form storytelling",
+    "dynamic classification"
+  ],
+  "use_cases": [
+    "Use when comparing modular prompting-based methods against reinforcement learning fine-tuning.",
+    "Implement when requiring iterative feedback loops for controlled text generation without human intervention.",
+    "Configure when adapting an LLM to interpret internal story representations for improved diversity.",
+    "Use when designing a storytelling system that needs to be intuitive for future human-in-the-loop collaboration."
+  ],
+  "tags": [
+    "literary-survey",
+    "natural-language-generation",
+    "prompt-engineering",
+    "machine-learning"
+  ],
+  "priority": 5,
+  "content": "Prior works have attempted to improve the quality and/or diversity of story generations in a variety of ways.\n\nStorytelling with reinforcement learning\n\nIn the context of content generation, reinforcement is largely used for fine-tuning (Chang et al., 2023; Bai et al., 2022) or auxiliary model guidance (Peng et al., 2022; Castricato et al., 2022).\n\nPerhaps most similar to our work are methods that involve dynamic inference-time option-selection and/or classification (Alabdulkarim et al., 2021b; Tambwekar et al., 2019; Peng et al., 2022). Our approach differs from prior ones in that our model (1) uses an adapted LLM to interpret an internal representation of the current story; (2) is highly modular; and (3) is prompting-based. These aspects contribute to our method’s diverse story generations despite having such a simple, flexible structure.\n\nControlled Text Generation (via prompting)\n\nThe recent advancements in language models have substantially increased the popularity of (simpler) prompting approaches such as chain of thought. Prompts may be manually designed (Brown et al., 2020) or automatically designed (Shin et al., 2020; Zou et al., 2021); prompting may also be an iterative process (Wei et al., 2022). Some works such as (Qin & Eisner, 2021; Lester et al., 2021) also explore continuous soft prompts. Compared to prior work, our contribution is an iterative feedback-prompting-based method that utilizes an auxiliary LLM for control, enabling more diverse storytelling.\n\nHuman-in-the-loop story generation\n\nAs opposed to automatic story generation, some previous works use human-in-the-loop methods to generate interesting long stories (Goldfarb-Tarrant et al., 2019; Coenen et al., 2021; Chung et al., 2022; Mirowski et al., 2022; Martin et al., 2017; Wang & Gordon, 2023; Lin & Riedl, 2021). We emphasize that although our method is completely automatic without any human intervention, the flexibility of the AD’s action space makes it quite intuitive for a human collaborator to “tune” our method towards their own liking.",
+  "token_estimate": 409
+}

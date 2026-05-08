@@ -1,0 +1,32 @@
+{
+  "title": "The One-Line Cheat Sheet",
+  "path": "post-point-of-view-in-novels-a-practical-worked-example-guide-the-one-line-cheat-sheet",
+  "url": "https://www.thebookcoach.co/post/point-of-view-in-novels-a-practical-worked-example-guide",
+  "keywords": [
+    "First-person narrative",
+    "Third-person limited",
+    "Third-person deep",
+    "Free indirect style",
+    "Omniscient narrator",
+    "Epistolary format",
+    "Stream of consciousness",
+    "Multiple POV",
+    "Second person",
+    "Objective perspective"
+  ],
+  "use_cases": [
+    "Use when selecting the optimal narrative perspective for a creative writing project",
+    "Configure when defining the scope of information a narrator has access to",
+    "Implement when transitioning between character viewpoints in complex storytelling",
+    "Use when establishing the distance between the reader and the protagonist's inner thoughts"
+  ],
+  "tags": [
+    "literary-theory",
+    "narratology",
+    "content-strategy",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "1st Past: “I lived it and now I’m telling you.”\n\n1st Present: “I’m living it as you read.”\n\n3rd Limited (Close): “One camera, one mind - nearby.”\n\n3rd Deep: “Brain-to-page - no narrator showing.”\n\nFree Indirect Style: “Third-person wearing the character’s voice.”\n\n3rd Omniscient: “Panoramic guide with access to all.”\n\n3rd Objective: “A camera records; you infer.”\n\n2nd Person: “You are the protagonist.”\n\nEpistolary: “This is what I chose to write down.”\n\nMultiple POV: “Different minds, different truths.”\n\nStream of Consciousness: “Thought at the speed of thought.”",
+  "token_estimate": 115
+}

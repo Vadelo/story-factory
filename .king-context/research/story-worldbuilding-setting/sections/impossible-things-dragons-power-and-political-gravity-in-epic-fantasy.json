@@ -1,0 +1,33 @@
+{
+  "title": "Dragons, Power, and Political Gravity in Epic Fantasy",
+  "path": "impossible-things-dragons-power-and-political-gravity-in-epic-fantasy",
+  "url": "https://fictionphile.com/impossible-things/",
+  "keywords": [
+    "dragons",
+    "military strategy",
+    "political ambition",
+    "balance of power",
+    "vulnerable castles",
+    "obsolete armies",
+    "throne claims",
+    "destabilizing forces",
+    "worldbuilding",
+    "fantasy lore"
+  ],
+  "use_cases": [
+    "Use when designing military units for a fantasy simulation game that emphasizes epic power dynamics.",
+    "Implement when balancing political factions in a narrative-driven role‑playing campaign.",
+    "Configure when modeling the impact of mythical creatures on castle defenses in a strategy editor.",
+    "Use when creating a lore compendium that explains how dragon presence influences succession and alliances.",
+    "Implement when writing AI decision logic that prioritizes threats based on supernatural gravity."
+  ],
+  "tags": [
+    "fantasy",
+    "worldbuilding",
+    "strategy",
+    "politics"
+  ],
+  "priority": 6,
+  "content": "![](https://fictionphile.com/wp-content/uploads/2025/12/dragon-1024x576.jpg)\n\nIn A Song of Ice and Fire, dragons are not just large monsters with wings. Their existence reshapes military strategy, political ambition, and the balance of power. Castles become vulnerable. Armies become obsolete. Claims to the throne suddenly gain divine weight.\n\nThe key insight here is that power concentrates gravity. Once dragons return, every decision, alliance, and betrayal bends toward them. This is why readers accept the fantasy. The world treats dragons as destabilizing forces rather than as background spectacle.",
+  "token_estimate": 107
+}

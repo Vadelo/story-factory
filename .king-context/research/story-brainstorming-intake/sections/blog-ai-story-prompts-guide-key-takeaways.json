@@ -1,0 +1,31 @@
+{
+  "title": "Key Takeaways",
+  "path": "blog-ai-story-prompts-guide-key-takeaways",
+  "url": "https://aiwriter.ai/blog/ai-story-prompts-guide",
+  "keywords": [
+    "prompt engineering",
+    "prompt specificity",
+    "narrative engagement",
+    "iterative testing",
+    "creative constraints",
+    "character descriptions",
+    "emotional triggers",
+    "minimalist prompting",
+    "optimization",
+    "storytelling"
+  ],
+  "use_cases": [
+    "Use when optimizing existing prompts for better performance without increasing word count",
+    "Implement when developing creative writing applications to improve narrative depth",
+    "Configure when setting up iterative testing workflows for model output refinement",
+    "Use when drafting brief but high-impact descriptions for character generation"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "content-strategy",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "- Less is often more — A 5-word prompt can outperform a 50-word prompt if you choose the right elements\n- Specificity beats length — \"Lighthouse keeper, final night\" creates better stories than paragraph-long character descriptions\n- Emotion drives engagement — Adding one emotional word transforms generic plots into compelling narratives\n- Constraints spark creativity — Limiting your prompt paradoxically produces more creative results\n- Test and iterate — Your first prompt is just the starting point; small tweaks yield dramatically different stories",
+  "token_estimate": 110
+}

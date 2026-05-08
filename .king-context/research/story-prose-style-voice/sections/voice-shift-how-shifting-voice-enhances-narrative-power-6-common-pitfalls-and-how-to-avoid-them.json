@@ -1,0 +1,33 @@
+{
+  "title": "6. Common Pitfalls and How to Avoid Them",
+  "path": "voice-shift-how-shifting-voice-enhances-narrative-power-6-common-pitfalls-and-how-to-avoid-them",
+  "url": "https://literarydevices.net/voice-shift-how-shifting-voice-enhances-narrative-power/",
+  "keywords": [
+    "Over-Shifting",
+    "Narrative Cohesion",
+    "Unreliable Narrator",
+    "Voice Mapping",
+    "Inconsistent Voice Quality",
+    "Perspective Shifting",
+    "Scene Rewriting",
+    "Reader Feedback Loop",
+    "Diction and Syntax",
+    "Narrative Outline"
+  ],
+  "use_cases": [
+    "Use when identifying common errors in multi-perspective storytelling",
+    "Implement when mapping character voices to maintain narrative consistency",
+    "Configure when auditing scene transitions for reader clarity",
+    "Use when applying strategic unreliable narrator techniques",
+    "Implement when training writers on emotional impact through POV changes"
+  ],
+  "tags": [
+    "creative-writing",
+    "best-practices",
+    "troubleshooting",
+    "content-strategy"
+  ],
+  "priority": 7,
+  "content": "| Pitfall | Prevention | Confusing Readers | Clear markers (chapter titles, italics) and consistent voice traits. | Over‑Shifting | Limit shifts to essential moments; avoid excessive changes that dilute focus. | Inconsistent Voice Quality | Maintain distinct diction, syntax, and emotional tone for each perspective. | Loss of Narrative Cohesion | Ensure all voices ultimately contribute to the central plot or theme. | Unreliable Narrator Misuse | Use unreliability strategically; avoid making it a gimmick without purpose. |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n1. Scene RewritingTake a single scene and rewrite it in two different voices (first‑person vs. third‑person). Compare emotional impact.\n2. Voice MappingCreate a chart of characters, their primary voice, and moments when a shift occurs.\n3. Narrative Outline with Voice ShiftsDraft an outline for a short story, marking where each voice change will happen and why.\n4. Reader Feedback LoopShare drafts with peers; ask them to identify any confusing transitions or inconsistent voices.",
+  "token_estimate": 235
+}

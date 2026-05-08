@@ -1,0 +1,31 @@
+{
+  "title": "1. The Red Herring: The Classic Misleader",
+  "path": "mystery-reader-misinterpretation-guide-1-the-red-herring-the-classic-misleader",
+  "url": "https://www.jeanneriedelbooks.com/mystery-reader-misinterpretation-guide/",
+  "keywords": [
+    "red herring",
+    "misleader",
+    "false clue",
+    "distraction",
+    "guilty behavior",
+    "planted evidence",
+    "narrative deception",
+    "believability",
+    "plot twist"
+  ],
+  "use_cases": [
+    "Use when designing a mystery plot to distract readers from the true culprit",
+    "Implement when a character needs a plausible secondary motivation to explain suspicious behavior",
+    "Configure when planting physical evidence intended to implicate the wrong suspect",
+    "Use when developing believable narrative subplots that resolve independently of the main conflict"
+  ],
+  "tags": [
+    "narrative-techniques",
+    "storytelling",
+    "mystery-writing",
+    "character-design"
+  ],
+  "priority": 10,
+  "content": "This is the most famous tool. A red herring is a false clue designed to distract and mislead. The name comes from an old trick of using strong-smelling fish to throw hunting dogs off a trail.\n\nExamples in stories:\n\n- A character is seen buying a weapon, but they bought it for a completely innocent reason.\n- A secretive character acts guilty because they’re hiding a different, smaller secret (like an affair or a debt), not the murder.\n- A piece of evidence (like a monogrammed handkerchief) is planted to point squarely at the wrong person.\n\nThe key is that a red herring must be believable. It can’t be a random, weird event. It must fit the story enough to make the reader think, “Of course! It all makes sense!” until the real truth is revealed.",
+  "token_estimate": 180
+}

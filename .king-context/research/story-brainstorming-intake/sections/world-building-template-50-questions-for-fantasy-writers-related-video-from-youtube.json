@@ -1,0 +1,27 @@
+{
+  "title": "Related video from YouTube",
+  "path": "world-building-template-50-questions-for-fantasy-writers-related-video-from-youtube",
+  "url": "https://writingpeers.com/world-building-template-50-questions-for-fantasy-writers/",
+  "keywords": [
+    "YouTube API",
+    "Video Embedding",
+    "iframe",
+    "Third-party integration",
+    "Content Syndication",
+    "Media Playback",
+    "External Video Provider"
+  ],
+  "use_cases": [
+    "Use when embedding educational or promotional video content directly into your documentation",
+    "Implement when offloading large media bandwidth requirements to a external hosting provider",
+    "Configure when associating specific YouTube tutorials with technical articles"
+  ],
+  "tags": [
+    "media",
+    "integration",
+    "content-management"
+  ],
+  "priority": 5,
+  "content": "",
+  "token_estimate": 0
+}

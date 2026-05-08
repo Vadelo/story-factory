@@ -1,0 +1,33 @@
+{
+  "title": "NOTES FOR USING THIS TEMPLATE",
+  "path": "p-how-to-prompt-narrative-arcs-notes-for-using-this-template",
+  "url": "https://winterspeak.substack.com/p/how-to-prompt-narrative-arcs",
+  "keywords": [
+    "narrative arc",
+    "character contradictions",
+    "scene-by-scene plotting",
+    "style definition",
+    "genre specification",
+    "epistolary",
+    "unreliable narrator",
+    "non-sequential",
+    "prompt engineering",
+    "serviceable pastiche"
+  ],
+  "use_cases": [
+    "Use when drafting AI prompts for structured storytelling to avoid generic content",
+    "Configure when defining complex character traits and unique speaking styles for LLMs",
+    "Implement when plotting scene endings using questions, revelations, or decisions",
+    "Use when feeding templates into AI models one scene at a time to maintain narrative tension",
+    "Implement when creating stories that require setup-and-payoff cycles rather than stream-of-consciousness output"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-engineering",
+    "content-generation",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "Fill out EVERY section before generating - gaps lead to generic content\n\nBe SPECIFIC - \"angry\" vs. \"clenching jaw so hard his molars ached\"\n\nInclude CONTRADICTIONS in characters - makes them human\n\nGive each character a UNIQUE speaking style\n\nMake stakes PERSONAL not just physical\n\nChoose details that do DOUBLE DUTY (reveal character AND advance plot)\n\nEnd each scene with either a question, revelation, or decision\n\n---\n\nSo that’s what I did. I followed the template and basically defined the style and genre upfront, detailed the key characters, and then plotted out the story scene-by-scene within the template generated. I could have used different templates — epistolary, unreliable narrator, non-sequential — but the process would stay the same. I then had the AI generate the story one scene at a time, feeding the template into it for each prompt, with specific details for the scene I was working on.\n\nSome things to note:\n\nThe process took a long time. Shorter than writing the story myself, but still a lot of time.\n\nThe results are… fine. It’s not great but it’s not terrible. It’s a serviceable pastiche.\n\nThe story has what many AI generated stories lack: narrative arc. There is an underlying structure that drives the plot and keeps things moving forward. Setups end in payoffs. It’s very different from the auto-written games I’ve mentioned earlier.\n\nThis, to me, closes the book on whether AI can write reasonable stories. It can, and in the same way it can write reasonable code. If you can setup the right structure, it can fill in the gaps, and the clearer you are in your structure the better a job the AI can do.\n\n1\n\n1\n\nShare\n\n#### Discussion about this post\n\nCommentsRestacks\n\n![User's avatar](https://substackcdn.com/image/fetch/$s_!TnFC!,w_32,h_32,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fdefault-light.png)\n\nNo posts\n\nSubscribe\n\n© 2026 Zimran Ahmed · Privacy∙ Terms∙ Collection notice\n\nStart your Substack Get the app\n\nSubstack is the home for great culture",
+  "token_estimate": 418
+}

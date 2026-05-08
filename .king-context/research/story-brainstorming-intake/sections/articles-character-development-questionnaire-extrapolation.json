@@ -1,0 +1,28 @@
+{
+  "title": "Extrapolation",
+  "path": "articles-character-development-questionnaire-extrapolation",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "Extrapolation",
+    "Character Framework",
+    "Scene Crafting",
+    "Cheat Sheet",
+    "Consistency Monitoring",
+    "Character Response Patterns",
+    "Conflict Resolution",
+    "Emotional Reaction Mapping"
+  ],
+  "use_cases": [
+    "Use when developing deep psychological profiles for fictional characters.",
+    "Implement when drafting scenes to ensure character actions remain consistent with established traits.",
+    "Configure when establishing behavioral baselines for high-stress story events."
+  ],
+  "tags": [
+    "Creative Writing",
+    "Character Development",
+    "Story Design"
+  ],
+  "priority": 7,
+  "content": "You’ve established your character’s framework, now it’s time for details. The questions below are just a sample. Feel free to customize them based on your story. The point is to create a cheat sheet you can reference when crafting a scene, something to guide you so your characters don’t end up acting inconsistently. Your answers should be derived from what you’ve already determined above.\n\n- How does the character respond to fear?\n- How does the character react when faced with their own death?\n- How does the character react to the death of a loved one?\n- How does the character react to the death of an acquaintance?\n- How does the character react to the death of a stranger?\n- How does the character behave in a fight?\n- How does the character handle general conflict?\n- How does the character show affection?\n- How does the character express themselves in conversation?",
+  "token_estimate": 204
+}

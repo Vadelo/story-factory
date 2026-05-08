@@ -1,0 +1,33 @@
+{
+  "title": "How to Choose the Right Framework",
+  "path": "blog-how-to-write-story-proven-storytelling-frameworks-how-to-choose-the-right-framework",
+  "url": "https://storyflow.so/blog/how-to-write-story-proven-storytelling-frameworks",
+  "keywords": [
+    "Three-Act Structure",
+    "Hero's Journey",
+    "Save the Cat",
+    "Story Circle",
+    "macro structure",
+    "character growth arcs",
+    "Hollywood beats",
+    "storyboarding",
+    "narrative frameworks",
+    "character archetypes"
+  ],
+  "use_cases": [
+    "Use when drafting your first narrative to ensure a complete arc.",
+    "Implement when writing an epic adventure requiring deep character transformation.",
+    "Configure when writing commercial fiction needing high-precision pacing and beats.",
+    "Use when mapping out a television episode or short-form content.",
+    "Combine when requiring a macro structure layered with specific character archetypes."
+  ],
+  "tags": [
+    "narrative-design",
+    "storytelling-frameworks",
+    "creative-writing",
+    "content-strategy"
+  ],
+  "priority": 10,
+  "content": "Different stories need different structures. Here's how to pick:\n\n| If you're writing... | Use this framework | Why |\n| --- | --- | --- |\n| Your first story | Three-Act Structure | Simplest, most flexible |\n| Epic adventure or transformation | Hero's Journey | Built for character growth arcs |\n| Screenplay or commercial fiction | Save the Cat | Precise beats, proven in Hollywood |\n| TV episode or short story | Story Circle | Quick to apply, complete arc |\n| Unsure | Start with Three-Act | Then add detail from others |\n\nYou can also combine frameworks. Three-Act provides the macro structure. Save the Cat beats fill in the details. Hero's Journey archetypes deepen your characters. The frameworks aren't mutually exclusive.",
+  "token_estimate": 170
+}

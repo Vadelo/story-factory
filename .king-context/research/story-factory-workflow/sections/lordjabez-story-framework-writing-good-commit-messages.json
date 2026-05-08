@@ -1,0 +1,33 @@
+{
+  "title": "Writing Good Commit Messages",
+  "path": "lordjabez-story-framework-writing-good-commit-messages",
+  "url": "https://github.com/lordjabez/story-framework",
+  "keywords": [
+    "git commit",
+    "revision history",
+    "git tags",
+    "summary line",
+    "commit format",
+    "version control",
+    "creative decisions",
+    "beta reader feedback",
+    "milestones",
+    "style guide"
+  ],
+  "use_cases": [
+    "Use when documenting creative reasoning behind narrative revisions",
+    "Implement when setting up a version control workflow for creative writing",
+    "Configure when establishing commit message standards for teams or co-authors",
+    "Use when tracking major draft milestones using Git tags",
+    "Implement when needing to revert specific story changes with full context"
+  ],
+  "tags": [
+    "best-practices",
+    "version-control",
+    "documentation",
+    "workflow"
+  ],
+  "priority": 8,
+  "content": "Commit messages are your revision history. Focus on **why** you made changes, not just what changed—the diff already shows what. Good commit messages let you:\n\n- Understand your creative decisions months later\n- Find when and why a passage changed\n- Revert to earlier versions with confidence\n\n**Format:**\n\n```\nShort summary (50 chars or less)\n\nLonger explanation if needed. Describe your reasoning:\n- Why did you cut that scene?\n- What feedback prompted this revision?\n- What problem were you solving?\n```\n\n**Examples:**\n\n```bash\n# Good - explains the why\ngit commit -m \"Cut prologue - slowed pacing, info now woven into ch 1\"\ngit commit -m \"Rework Sarah's intro to show competence before vulnerability\"\ngit commit -m \"Add tension to cafe scene per beta reader feedback\"\n\n# Less useful - only describes what\ngit commit -m \"Edited chapter 3\"\ngit commit -m \"Fixed typos\"\ngit commit -m \"Rewrote dialogue\"\n```\n\n- Commit often with clear messages\n- Use tags for major milestones (drafts, revisions, final)\n- Keep the style guide updated as you establish patterns\n- The planning docs are living documents—update them as the story evolves",
+  "token_estimate": 250
+}

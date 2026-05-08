@@ -1,0 +1,34 @@
+{
+  "title": "The Flow",
+  "path": "silkspace-llm-knowledge-graph-the-flow",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "mcp__firecrawl_mcp__firecrawl_scrape",
+    "mcp__llm_kg__kg_add",
+    "mcp__llm_kg__kg_query",
+    "mcp__llm_kg__kg_get_document",
+    "sentence-transformers",
+    "DuckDB",
+    "cosine distance",
+    "semantic vectors",
+    "area_code",
+    "knowledge graph persistence"
+  ],
+  "use_cases": [
+    "Use when automating the collection and semantic tagging of research papers",
+    "Implement when long-term persistence of context across multiple Claude sessions is required",
+    "Configure when local vector indexing is needed for offline document retrieval",
+    "Use when performing semantic queries against a custom research database",
+    "Configure when organizing technical knowledge into hierarchical area codes for instant retrieval"
+  ],
+  "tags": [
+    "architecture",
+    "knowledge-retrieval",
+    "vector-database",
+    "mcp-protocol",
+    "semantic-search"
+  ],
+  "priority": 10,
+  "content": "**During a research session:**\n\n```\nYou: \"Claude, research quantum de Sitter space and landscape dynamics\"\n\nClaude: → Uses mcp__firecrawl_mcp__firecrawl_scrape(\"https://arxiv.org/abs/hep-th/0609062\")\n        → Uses mcp__llm_kg__kg_add(content, url, title)\n\n        For each document:\n        ✓ Analyzed by Claude → extracts learnings, insights, questions\n        ✓ Embedded locally → 384-dim semantic vectors via sentence-transformers\n        ✓ Assigned semantic area code → physics.cosmology.desitter\n        ✓ Stored persistently → DuckDB + vector index\n\n        \"✅ Added 'Towards a quantum theory of de Sitter space' (Banks, Fiol, Morisse)\n            to physics.cosmology.desitter\"\n        \"✅ Added 'Metastable Domains of the Landscape' (arXiv:0712.1397)\n            to physics.strings.landscape\"\n\nYou: \"What did we learn about de Sitter holography?\"\n\nClaude: → Uses mcp__llm_kg__kg_query(\"de Sitter holography quantum\", top_k=5)\n\n        Returns 5 semantically similar documents with:\n        • Full summaries of what each paper teaches\n        • Key learnings and insights extracted\n        • Questions raised by the content\n        • Similarity scores (cosine distance)\n\n        \"The papers explore how particle states and Schwarzschild de Sitter black holes\n         arise as excitations in a theory of fermionic oscillators... [shows 5 relevant\n         papers including KKLT (hep-th/0301240), amplituhedron work, and related research]\"\n\nYou: \"Show me all papers in the de Sitter area\"\n\nClaude: → Uses mcp__llm_kg__kg_get_document(\"physics.cosmology.desitter\")\n        → Returns ALL documents with that area_code\n        → Instant retrieval, zero API calls, fully local\n\n        \"Found 3 documents in physics.cosmology.desitter:\n         1. Towards a quantum theory of de Sitter space (Banks, Fiol, Morisse)\n         2. Holographic description of dS space (follow-up paper)\n         3. de Sitter entropy bounds...\"\n```\n\n**Next session (days/weeks later):**\n\n```\nYou: \"Remember those de Sitter landscape papers we studied?\"\n\nClaude: → Uses mcp__llm_kg__kg_query(\"de Sitter landscape metastable vacua\")\n\n        \"Yes! We studied quantum de Sitter space (Banks/Fiol/Morisse) and metastable\n         domains of the landscape (Dine et al.)... [retrieves all relevant documents\n         with full context including connections to KKLT and the string landscape]\"\n\n        → Knowledge graph persists across ALL sessions\n        → Semantic relationships preserved forever\n        → Claude's memory is permanent and searchable\n```",
+  "token_estimate": 399
+}

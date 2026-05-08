@@ -1,0 +1,32 @@
+{
+  "title": "Codex Entries (World, Themes, and Research)",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-codex-entries-world-themes-and-research",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "Codex Entries",
+    "world-building",
+    "narrative logic",
+    "continuity errors",
+    "anachronisms",
+    "symbolic systems",
+    "period-appropriate slang",
+    "narrative dissonance",
+    "background research",
+    "AI assistant reference"
+  ],
+  "use_cases": [
+    "Use when establishing setting rules or social dynamics for a specific fictional world",
+    "Implement when tracking historical accuracy or period-specific terminology to prevent anachronisms",
+    "Configure when training or guiding an AI assistant to maintain consistent narrative logic",
+    "Use when organizing private research repositories for complex plot backgrounds"
+  ],
+  "tags": [
+    "world-building",
+    "content-organization",
+    "story-consistency",
+    "research-management"
+  ],
+  "priority": 8,
+  "content": "A fiction codex isn't reserved for fantasy epics—it's your private repository of setting rules, symbolic systems, background research, and narrative logic. For a detective novel set in postwar San Francisco, your codex might include 1947 police procedures, period-appropriate slang, city geography, and social dynamics of the era. As your project develops, these entries protect against continuity errors and anachronisms while providing quick reference points for both you and your AI assistant. The result: fewer moments of narrative dissonance where readers might wonder, \"Would this really happen this way?\"",
+  "token_estimate": 117
+}

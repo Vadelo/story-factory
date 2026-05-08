@@ -1,0 +1,29 @@
+{
+  "title": "Act 1: Sinister Beginnings — Setup (0-22 minutes)",
+  "path": "mastering-fear-tailoring-the-3-act-structure-for-your-horror-film-act-1-sinister-beginnings-setup-0-22-minutes",
+  "url": "https://raindance.org/mastering-fear-tailoring-the-3-act-structure-for-your-horror-film/",
+  "keywords": [
+    "Act 1",
+    "Sinister Beginnings",
+    "Setup Phase",
+    "0-22 minutes",
+    "Narrative Introduction",
+    "Initial Configuration",
+    "Timeline Management",
+    "Sequence Initiation"
+  ],
+  "use_cases": [
+    "Use when initializing the opening sequence of the narrative",
+    "Implement when setting up the initial environment and world-building triggers",
+    "Configure when managing the first 22 minutes of the user experience timeline",
+    "Use when establishing primary character motivations and early game-state"
+  ],
+  "tags": [
+    "narrative-design",
+    "setup",
+    "timeline-management"
+  ],
+  "priority": 8,
+  "content": "",
+  "token_estimate": 0
+}

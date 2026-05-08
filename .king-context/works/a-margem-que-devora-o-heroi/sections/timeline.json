@@ -1,0 +1,19 @@
+{
+  "title": "Timeline",
+  "path": "timeline",
+  "url": "local://works/a-margem-que-devora-o-heroi#timeline",
+  "keywords": [
+    "timeline",
+    "continuity"
+  ],
+  "use_cases": [
+    "Recall timeline for story continuation"
+  ],
+  "tags": [
+    "timeline",
+    "continuity"
+  ],
+  "priority": 10,
+  "content": "[\n  \"Davi morre no mundo real.\",\n  \"Davi acorda na margem textual de A Lança do Imperador Regressor.\",\n  \"Ele reconhece notas de revisão antigas e sua culpa por reduzir a agência de Yerin.\",\n  \"Ele altera 'Não havia força em suas mãos' para 'Não havia força em suas mãos ainda'.\",\n  \"Yerin joga lama nos olhos do assassino e escapa pelo canal inferior.\",\n  \"Kael chega tarde e escreve na margem como comentário de revisão.\",\n  \"Kael bloqueia Davi com uma caixa de comentário e ameaça resolver a conversa.\",\n  \"Davi recupera uma fala cortada de Yerin e descobre a regra de autoria devolvida.\",\n  \"Yerin foge rumo ao Pavilhão dos Arquivos e manda Davi parar de decidir por ela.\"\n]",
+  "token_estimate": 151
+}

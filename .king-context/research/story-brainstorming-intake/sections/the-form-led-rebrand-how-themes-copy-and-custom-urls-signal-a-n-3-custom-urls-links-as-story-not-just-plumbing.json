@@ -1,0 +1,30 @@
+{
+  "title": "3. Custom URLs: Links as Story, Not Just Plumbing",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-3-custom-urls-links-as-story-not-just-plumbing",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "URL-First Campaigns",
+    "Custom URLs",
+    "Routing rules",
+    "Address bars",
+    "Messaging",
+    "Segmenting",
+    "QR codes",
+    "Brand reinforcement"
+  ],
+  "use_cases": [
+    "Implement when rebranding to reinforce new product framing",
+    "Configure when segmenting specific audiences like enterprise or partners",
+    "Use when running experiments without creating unique landing pages",
+    "Use when optimizing links for chat shares and offline materials"
+  ],
+  "tags": [
+    "Marketing",
+    "URL Design",
+    "Branding",
+    "Campaign Management"
+  ],
+  "priority": 8,
+  "content": "A URL is more than a way to get to a form. It’s a tiny piece of messaging that shows up in:\n\n- Browser address bars\n- Chat shares and DMs\n- QR codes and offline materials\n- Analytics and routing rules\n\nCustom URLs are especially powerful during a rebrand because they:\n\n- Reinforce the new name or product framing\n- Segment audiences by story (e.g.,`/founders`,`/enterprise`,`/partners`)\n- Make experimentation easier without new landing pages\n\nIf you’ve explored the patterns in URL-First Campaigns, you already know how much mileage you can get from smart URL design.",
+  "token_estimate": 126
+}

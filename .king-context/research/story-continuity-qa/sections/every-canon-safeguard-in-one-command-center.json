@@ -1,0 +1,33 @@
+{
+  "title": "Every canon safeguard in one command center.",
+  "path": "every-canon-safeguard-in-one-command-center",
+  "url": "https://lorefoundry.io/",
+  "keywords": [
+    "LoreFoundry Core",
+    "Genesis wizard",
+    "continuity guardrails",
+    "canon capture",
+    "quest editor",
+    "timeline logging",
+    "status tracking",
+    "workspace management",
+    "export pipelines",
+    "studio tooling"
+  ],
+  "use_cases": [
+    "Use when establishing a centralized command center for world-building and lore management",
+    "Implement when needing automated continuity guardrails to prevent narrative conflicts",
+    "Configure when organizing characters, factions, and locations into a searchable database",
+    "Use when tracking quest objectives, rewards, and multi-arc timelines in a single console",
+    "Apply when reviewing AI-assisted lore suggestions before final project publication"
+  ],
+  "tags": [
+    "product-overview",
+    "narrative-design",
+    "content-management",
+    "collaboration"
+  ],
+  "priority": 10,
+  "content": "How the flow works\n\nOrganize lore, orchestrate quests, and review guardrails - all with optional LoreFoundry Core support that keeps your team in complete control.\n\nStep 1 - Capture your world\n\n- Call on LoreFoundry Core for starter outlines you can edit or discard.\n- Tag characters, places, and factions so they stay easy to find.\n- Add lore documents manually or seed them with the Genesis wizard.\n\nStep 2 - Plan playable content\n\n- Apply feedback directly in the quest and character editors while continuity guardrails highlight conflicts.\n- Log events on a timeline to keep arcs in order.\n- Map characters to locations and factions as they evolve.\n- Outline quests with objectives, rewards, and status tracking.\n\nStep 3 - Share and ship\n\n- Track permissions and project health from one console.\n- Review quests, characters, and events together inside one console.\n- Review LoreFoundry Core suggestions before publishing anything.\n- Set guardrails that check entries for tone and canon details.\n\nSelf-serve registration is open. Create your workspace and start capturing canon in minutes.\n\nCreate your account\n\nFree plan included. Verify your email to unlock the LoreFoundry console.\n\nRoadmap\n\nWe ship in public. Here is what we are building next.\n\nLive\n\nSelf-serve signup is live with core lore capture, quests, and continuity checks available today.\n\nIn progress\n\nWe are improving onboarding, exports, and collaboration based on live team feedback.\n\nUpcoming\n\nAutomation, export pipelines, and studio tooling roll out throughout the year.",
+  "token_estimate": 323
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Basic Memory Usage",
+  "path": "docs-user-guide-memory-overview-basic-memory-usage",
+  "url": "https://duragraph.ai/docs/user-guide/memory/overview/",
+  "keywords": [
+    "MemoryManager",
+    "HierarchicalMemory",
+    "memory.recall",
+    "memory.remember",
+    "memory.consolidate",
+    "memory.forget",
+    "importance_weight",
+    "recency_weight",
+    "ChromaVectorStore",
+    "QdrantVectorStore",
+    "episodic_memory",
+    "semantic_memory"
+  ],
+  "use_cases": [
+    "Implement when an agent needs to recall past interactions or facts during a conversation.",
+    "Configure when needing a multi-tier storage system involving working, episodic, and semantic memory layers.",
+    "Use when critical information must be preserved indefinitely by assigning high importance scores.",
+    "Implement when memory retrieval needs to be weighted by a balance of recency, relevance, and importance.",
+    "Configure when episodic events need to be pruned or merged into long-term semantic knowledge through consolidation.",
+    "Use when scoping memory to specific conversation threads versus a global context."
+  ],
+  "tags": [
+    "memory-management",
+    "vector-stores",
+    "llm-persistence",
+    "agent-state",
+    "configuration"
+  ],
+  "priority": 10,
+  "content": "```\nfrom duragraph import Graph, llm_nodefrom duragraph.memory import MemoryManager# Create memory managermemory = MemoryManager(    vector_store=ChromaVectorStore(collection=\"agent_memory\"),)@Graphclass AssistantWithMemory:    @llm_node    async def respond(self, state: State) -> State:        # Recall relevant memories        memories = await memory.recall(            state.user_message,            k=5,        )        # Include memories in context        context = \"\\n\".join([m.content for m in memories])        response = await self.llm.complete(            messages=[                {\"role\": \"system\", \"content\": f\"Context from memory:\\n{context}\"},                {\"role\": \"user\", \"content\": state.user_message},            ]        )        # Remember this interaction        await memory.remember(            f\"User asked: {state.user_message}\\nAssistant responded: {response}\",            importance=0.7,        )        state.response = response        return state\n```\n\nState: # Recall relevant memories memories = await memory.recall( state.user_message, k=5, ) # Include memories in context context = \"\\n\".join([m.content for m in memories]) response = await self.llm.complete( messages=[ {\"role\": \"system\", \"content\": f\"Context from memory:\\n{context}\"}, {\"role\": \"user\", \"content\": state.user_message}, ] ) # Remember this interaction await memory.remember( f\"User asked: {state.user_message}\\nAssistant responded: {response}\", importance=0.7, ) state.response = response return state\">\n\nStore a memory with optional importance scoring:\n\n```\nawait memory.remember(    content=\"User prefers formal communication style\",    importance=0.8,  # 0-1, higher = more important    memory_type=\"episodic\",  # or \"semantic\"    metadata={\"user_id\": \"123\", \"topic\": \"preferences\"},)\n```\n\nRetrieve relevant memories with weighted scoring:\n\n```\nmemories = await memory.recall(    query=\"communication preferences\",    k=5,    memory_types=[\"episodic\", \"semantic\"],    recency_weight=0.3,     # Prefer recent memories    importance_weight=0.3,  # Prefer important memories    relevance_weight=0.4,   # Prefer semantically similar)\n```\n\nRemove a specific memory:\n\n```\nawait memory.forget(memory_id=\"mem_123\")\n```\n\nConsolidate short-term memories to long-term storage:\n\n```\nawait memory.consolidate()\n```\n\nFor advanced use cases, use the hierarchical memory system:\n\n```\nfrom duragraph.memory import HierarchicalMemoryfrom duragraph.vectorstores import QdrantVectorStorefrom duragraph.knowledgegraph import Neo4jGraphmemory = HierarchicalMemory(    working_memory_size=10,  # Last 10 messages in context    vector_store=QdrantVectorStore(        collection=\"episodic_memory\",        url=\"http://localhost:6333\",    ),    knowledge_graph=Neo4jGraph(        uri=\"bolt://localhost:7687\",    ),)# Multi-tier recallmemories = await memory.recall(    query=\"user preferences\",    tiers=[\"working\", \"episodic\", \"semantic\"],    k_per_tier={\"working\": 3, \"episodic\": 5, \"semantic\": 2},)\n```\n\nEpisodic Memory\n\nSpecific past events and interactions. Time-decayed importance.\n\nSemantic Memory\n\nFacts, concepts, and entity relationships. Persistent knowledge.\n\nProcedural Memory\n\nLearned behaviors and patterns. Skills and preferences.\n\nStore and retrieve specific interactions:\n\n```\n# Store episodeawait memory.remember(    \"User reported bug #1234 about login issues\",    memory_type=\"episodic\",    metadata={\"timestamp\": datetime.now(), \"topic\": \"bug_report\"},)# Recall episodesbugs = await memory.recall(    \"login problems\",    memory_types=[\"episodic\"],    filter={\"topic\": \"bug_report\"},)\n```\n\nStore facts and relationships:\n\n```\n# Store factawait memory.remember(    \"Customer ACME Corp is on Enterprise plan\",    memory_type=\"semantic\",    metadata={\"entity\": \"ACME Corp\", \"fact_type\": \"subscription\"},)# Query factsfacts = await memory.recall(    \"ACME Corp subscription\",    memory_types=[\"semantic\"],)\n```\n\nDuraGraph uses importance scoring to prioritize memories:\n\n```\n# High importance - critical informationawait memory.remember(    \"User is allergic to peanuts\",    importance=1.0,  # Never forget)# Medium importance - useful contextawait memory.remember(    \"User prefers email over phone\",    importance=0.5,)# Low importance - transient informationawait memory.remember(    \"User mentioned the weather\",    importance=0.1,  # May be forgotten during consolidation)\n```\n\nPeriodically consolidate memories to optimize storage:\n\n```\n# Manual consolidationawait memory.consolidate()# Automatic consolidation (background task)memory = MemoryManager(    auto_consolidate=True,    consolidation_interval=3600,  # Every hour)\n```\n\nDuring consolidation:\n\n1. Next Steps\n2. Low-importance memories are pruned\n3. Similar memories are merged\n4. Episodic memories may be promoted to semantic\n\n1. Score importance thoughtfully: Not all information is equally valuable\n2. Use metadata: Tag memories for easier filtering and retrieval\n3. Consolidate regularly: Prevent memory bloat\n4. Test recall: Verify memories are retrievable with expected queries\n5. Consider context window: Balance memory context with prompt limits\n\nMemory integrates with DuraGraph threads for conversation persistence:\n\n```\n# Memories scoped to threadmemory = MemoryManager(    thread_id=\"thread_123\",    vector_store=store,)# Or global memoriesmemory = MemoryManager(    vector_store=store,    scope=\"global\",)\n```\n\nVector Stores\n\nConfigure vector stores for memory storage\n\nKnowledge Graphs\n\nAdd knowledge graphs for semantic memory",
+  "token_estimate": 739
+}

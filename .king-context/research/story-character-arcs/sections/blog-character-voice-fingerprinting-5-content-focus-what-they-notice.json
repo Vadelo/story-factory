@@ -1,0 +1,29 @@
+{
+  "title": "5. Content Focus — What They Notice",
+  "path": "blog-character-voice-fingerprinting-5-content-focus-what-they-notice",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "character-driven narration",
+    "observation mechanics",
+    "focalized detail",
+    "implicit characterization",
+    "environmental perception",
+    "narrative perspective",
+    "selective detail",
+    "scenic observation"
+  ],
+  "use_cases": [
+    "Use when establishing a character's professional background through their internal monologue",
+    "Implement when two characters provide conflicting descriptions of the same environment",
+    "Configure when attempting to show character traits without using direct exposition",
+    "Use when filtering sensory input to match a specific character's expertise"
+  ],
+  "tags": [
+    "character-development",
+    "narrative-theory",
+    "world-building"
+  ],
+  "priority": 8,
+  "content": "Different characters pay attention to different elements of the same situation.\n\nA former soldier entering a room notes the exits, the sight lines, who is holding what. A fashion designer entering the same room notes the fabric quality, the fit of garments, the color relationships. A doctor notes the physical indicators of the people present — the posture, the pallor, the signs of poor sleep.\n\nThe detail a character selects from a scene tells you as much about who they are as any explicit characterization. Two characters can observe the same event and produce entirely different observations — both accurate, both revealing, both clearly belonging to different people.",
+  "token_estimate": 143
+}

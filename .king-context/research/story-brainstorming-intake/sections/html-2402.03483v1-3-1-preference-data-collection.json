@@ -1,0 +1,33 @@
+{
+  "title": "3.1 Preference Data Collection",
+  "path": "html-2402.03483v1-3-1-preference-data-collection",
+  "url": "https://arxiv.org/html/2402.03483v1",
+  "keywords": [
+    "preference dataset",
+    "story state",
+    "Writing Prompts dataset",
+    "GPT-4",
+    "Mixtral-8×7B",
+    "Direct Preference Optimization (DPO)",
+    "Supervised Fine-Tuning (SFT)",
+    "chosen action",
+    "rejected action",
+    "ranking data",
+    "AD LLM"
+  ],
+  "use_cases": [
+    "Use when curating a dataset of 'chosen' and 'rejected' actions for narrative model training.",
+    "Implement when developing a data generation pipeline using teacher models like GPT-4 or Mixtral.",
+    "Configure when defining story state parameters including prompts and current continuations.",
+    "Use when distilling datasets for SFT and DPO to improve model decision-making in creative writing tasks."
+  ],
+  "tags": [
+    "data-collection",
+    "machine-learning-training",
+    "nlp",
+    "dataset-curation"
+  ],
+  "priority": 9,
+  "content": "We use a preference dataset of story actions to train a model to learn how to choose an action for the next part of the story. Given a list of actions, we want our AD LLM to select the best action that will keep the reader engaged with the story. Several datasets contain thousands of story prompts and ideas, but there are no preference datasets for choosing the next direction for a story.\n\nTo generate this data efficiently, we developed a pipeline that prompted OpenAI’s GPT-4 and Mixtral-8×\\times×7B (Jiang et al., 2024), to choose the next best action given a “story state”. We define the story state to be\n\n| X=(𝒫,𝒮),𝑋𝒫𝒮X=(\\mathcal{P},\\mathcal{S}),italic_X = ( caligraphic_P , caligraphic_S ) , |\n| --- |\n\nwhere 𝒫𝒫\\mathcal{P}caligraphic_P is the story prompt and 𝒮𝒮\\mathcal{S}caligraphic_S is the current continuation of the story prompt. We use random subset of the Writing Prompts (Fan et al., 2018) dataset to acquire a diverse set of story prompts. For each story prompt from this subset, we prompt GPT-4 and Mixtral-8×\\times×7B to write an initial paragraph S(0)superscript𝑆0S^{(0)}italic_S start_POSTSUPERSCRIPT ( 0 ) end_POSTSUPERSCRIPT , forming the dataset\n\n| 𝒟={(Pi,Si(0))}i=1n𝒟superscriptsubscriptsubscript𝑃𝑖superscriptsubscript𝑆𝑖0𝑖1𝑛\\mathcal{D}=\\left\\{\\left(P_{i},S_{i}^{(0)}\\right)\\right\\}_{i=1}^{n}caligraphic_D = { ( italic_P start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT , italic_S start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT start_POSTSUPERSCRIPT ( 0 ) end_POSTSUPERSCRIPT ) } start_POSTSUBSCRIPT italic_i = 1 end_POSTSUBSCRIPT start_POSTSUPERSCRIPT italic_n end_POSTSUPERSCRIPT |\n| --- |\n\nThese story states provide a simple yet comprehensive starting point for the AD LLM to find the best path to continue generating the given story.\n\nAfter curating the initial story states, we generate preference data on the next best action for continuing the story. We model this preference data by having a “chosen” and “rejected” action for each story state. For the story state 𝒮(k)superscript𝒮𝑘\\mathcal{S}^{(k)}caligraphic_S start_POSTSUPERSCRIPT ( italic_k ) end_POSTSUPERSCRIPT, the chosen action c(k)superscript𝑐𝑘c^{(k)}italic_c start_POSTSUPERSCRIPT ( italic_k ) end_POSTSUPERSCRIPT is what we would like the LLM to choose when deciding the next best direction for the story, and the rejected action r(k)superscript𝑟𝑘r^{(k)}italic_r start_POSTSUPERSCRIPT ( italic_k ) end_POSTSUPERSCRIPT is the path we would like the LLM to avoid for the next part of the story. This preference data allows our model to understand how to rank different actions for the diverse set of story prompts that it will encounter during test-time.\n\nTo generate the ranking data, we prompt GPT-4 and Mixtral-8×\\times×7B with an initial story state 𝒮𝒮\\mathcal{S}caligraphic_S and a list of “actions” 𝒜𝒜\\mathcal{A}caligraphic_A to choose the best direction for the next paragraph in the story. The action used by GPT-4 to generate the next paragraph is set as the chosen action, and we then randomly choose an action from the remaining actions as the rejected action. We distill multiple datasets for supervised fine-tuning (SFT), direct preference optimization (DPO), and evaluation.",
+  "token_estimate": 595
+}

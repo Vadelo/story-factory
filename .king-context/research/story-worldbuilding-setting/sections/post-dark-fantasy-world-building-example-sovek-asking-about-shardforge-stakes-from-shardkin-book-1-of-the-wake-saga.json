@@ -1,0 +1,29 @@
+{
+  "title": "Example: Sovek asking about Shardforge Stakes - From Shardkin, Book 1 of The Wake Saga",
+  "path": "post-dark-fantasy-world-building-example-sovek-asking-about-shardforge-stakes-from-shardkin-book-1-of-the-wake-saga",
+  "url": "https://www.jameskking.com/post/dark-fantasy-world-building",
+  "keywords": [
+    "Shardforge stakes",
+    "Wake spawn",
+    "Barrier",
+    "Perimeter defense",
+    "Wake",
+    "Engineers swarm",
+    "Funnel barrier"
+  ],
+  "use_cases": [
+    "Use when deploying a perimeter shield to contain Wake spawns",
+    "Implement when preventing Wake creatures from breaching walls",
+    "Configure when setting up barrier logic for shard-generated traps",
+    "Use when scripting engineer actions to maintain stake integrity"
+  ],
+  "tags": [
+    "defense",
+    "gameplay",
+    "engineer",
+    "perimeter"
+  ],
+  "priority": 7,
+  "content": "\"To his left, engineers swarm a section of perimeter. Shardforge stakes jut from the ground in uneven rows. Some glow faint blue. Others flicker. Dying.\n\n\"Pull it! That one's cracked!\"\n\nTwo men heave. The stake shrieks. Metal on stone. They yank it free and toss it aside. Sparks spit from the broken crystal core.\n\nA Warden sidles up beside him. Watches the engineers work.\n\n\"Shardforge stakes. Worth more than half our gear combined.\"\n\nSovek grunts, \"I don't know much about them.\"\n\n\"Emit a barrier that we use to funnel Wake spawn. Without 'em,\" The Warden's jaw stiffens, the weight of past breaches etched into every word. \"Creatures swarm the perimeter like flies on carrion. Traditional walls do some good, but the Wake can't even climb the lattice those stakes throw up.\" He nods toward the engineers. \"They keep us breathing. Long as they hold.\" \"",
+  "token_estimate": 192
+}

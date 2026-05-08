@@ -1,0 +1,32 @@
+{
+  "title": "Stylistic diversity by model (Weighted Gower)",
+  "path": "lechmazur-writing_styles-stylistic-diversity-by-model-weighted-gower",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "Weighted Gower Mean Pairwise Distance",
+    "stylistic diversity",
+    "GPT-5 (medium reasoning)",
+    "GPT-OSS-120B",
+    "LLM benchmarking",
+    "model fingerprints",
+    "within-model range",
+    "GLM-4.5",
+    "Cohere Command R",
+    "Llama 4 Maverick",
+    "Kimi K2 Thinking"
+  ],
+  "use_cases": [
+    "Use when evaluating which LLM offers the most creative or varied stylistic output for content generation",
+    "Configure when benchmarking model consistency versus variance in tense, POV person, and paragraphing",
+    "Implement when comparing frontier models against open-source variants based on Weighted Gower metrics"
+  ],
+  "tags": [
+    "benchmarking",
+    "linguistics",
+    "model-analysis",
+    "creativity-metrics"
+  ],
+  "priority": 7,
+  "content": "![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](images/diversity_leaderboard_dot.png)\n\n- **Clear leader:** GPT-5 (medium reasoning) shows the widest within-model range (0.218). The other GPT-5 variants follow closely (GPT-5.2 at 0.215; GPT-5.1 and GPT-5 Pro at 0.213). Kimi K2 Thinking (0.210) and GLM-4.5 (0.206) anchor the next tier, with several frontier models clustered tightly behind. \n- **Low-range models:** GPT-OSS-120B (0.171) and Cohere Command A (0.178) show the narrowest spread of styles, with Llama 4 Maverick and Qwen 3 Max Preview both at 0.183. \n- **Tight field overall:** the spread from lowest to highest is \\~0.047, so most models vary by a similar amount; GPT-5 (medium reasoning) is the notable outlier for range.\n- **Consistency with fingerprints:** lower-diversity models align with earlier fingerprints that showed more uniform paragraphing, stance, and dialogue choices, while high-diversity models also tended to vary tense, POV person, and experimentation.\n\n---",
+  "token_estimate": 190
+}

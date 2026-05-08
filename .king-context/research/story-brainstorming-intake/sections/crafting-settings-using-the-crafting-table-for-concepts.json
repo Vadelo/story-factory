@@ -1,0 +1,30 @@
+{
+  "title": "Using the Crafting Table for Concepts",
+  "path": "crafting-settings-using-the-crafting-table-for-concepts",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "Crafting Table",
+    "Concept Table",
+    "Storycrafter",
+    "ID column",
+    "RATING column",
+    "NOTES column",
+    "puzzle design",
+    "false leads",
+    "Story Name"
+  ],
+  "use_cases": [
+    "Configure when organizing puzzle questions and answers for a narrative project",
+    "Implement when tracking story 'code names' and author attribution",
+    "Use when mapping out logical paths and identifying potential dead ends in a story concept",
+    "Use when documentation requires a physical or structured template for brainstorming clarity"
+  ],
+  "tags": [
+    "documentation-templates",
+    "narrative-design",
+    "project-organization"
+  ],
+  "priority": 8,
+  "content": "Like above, there are two major sections for the Crafting Table. At the top of the page you write the table type (in this case, it is titled “Concept”), the Story Name (a temporary “code name” is fine), and the name of the Storycrafter (your name).\n\nIn the table, there are four columns with dotted lines serving as borders. Using your writing utensil, draw a solid line over the vertical, dotted lines for each column, making four distinct columns. The first column has the title of “ID.” You need to write the titles for the other three columns as: CONCEPT | RATING | NOTES.\n\nNow that the page is ready, you will start writing questions and answers for the puzzles you are working on, marking false leads or dead ends and noting reminders or reasons. Essentially, each concept answers questions to uncover the path toward clarity.",
+  "token_estimate": 194
+}

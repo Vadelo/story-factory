@@ -1,0 +1,32 @@
+{
+  "title": "2. Fantasy",
+  "path": "genre-expectations-2-fantasy",
+  "url": "https://self-publishingschool.com/genre-expectations/",
+  "keywords": [
+    "Genre expectations",
+    "Urban Fantasy",
+    "Epic Fantasy",
+    "Portal Fantasy",
+    "Magic systems",
+    "World-building scope",
+    "Modern setting",
+    "Unique setting",
+    "Portal device",
+    "Story significance"
+  ],
+  "use_cases": [
+    "Use when defining genre requirements for speculative fiction",
+    "Configure when categorizing manuscripts based on subgenre tropes",
+    "Implement when establishing core narrative expectations for fantasy writing",
+    "Use when differentiating between Urban, Epic, and Portal fantasy sub-categories"
+  ],
+  "tags": [
+    "genre-definitions",
+    "literary-standards",
+    "creative-writing",
+    "content-categorization"
+  ],
+  "priority": 8,
+  "content": "Overall Genre expectations: Magic is a requirement of fantasy. You can to include magical abilities or sources of magic somewhere in the story in order to be considered fantasy. Now, your plot doesn’t need to heavily involve magic, which is a mistake many make. Like the book Elantris, where magic is promised and accessed at the very end of the story. It just has to be present and significant to the story.\n\n- Urban Fantasy subgenre expectations: The above expectations, but in a more modern, urban setting with current technology. One example is Gone God World by Ramy Vance.\n- Epic Fantasy subgenre expectations: The expectation is that not only will magic be here, but it’ll be a longer book that takes place in a unique setting, and the plot or scope of the world is very big in nature. And example is The Way of Kings by Brandon Sanderson.\n- Portal Fantasy subgenre expectations: This subgenre of fantasy inclues the normal expectations, along with the fact that the main character go through a portal, doorway, or other barrier to enter into a different world. An example is The Lion, The Witch, and the Wardrobe.",
+  "token_estimate": 259
+}

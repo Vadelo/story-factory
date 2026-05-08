@@ -1,0 +1,32 @@
+{
+  "title": "Worldbuilding: Creating Logical and Consistent Geography",
+  "path": "2024-11-a-guide-to-geographical-worldbuilding-for-fantasy-authors-worldbuilding-creating-logical-and-consistent-geography",
+  "url": "https://danhanly.com/2024/11/a-guide-to-geographical-worldbuilding-for-fantasy-authors/",
+  "keywords": [
+    "Plate Tectonics",
+    "Tectonic Plates",
+    "Climate Zones",
+    "Water Cycle",
+    "Biomes",
+    "Latitude",
+    "Altitude",
+    "Precipitation",
+    "Evaporation",
+    "Condensation"
+  ],
+  "use_cases": [
+    "Use when designing mountain ranges and volcanic regions influenced by tectonic plate movement.",
+    "Implement when defining regional climate zones based on latitude, altitude, and proximity to water bodies.",
+    "Configure when modeling rainfall distribution patterns influenced by geographic features such as mountains and elevation.",
+    "Use when mapping biome transitions to create realistic ecosystems like forests, grasslands, and deserts.",
+    "Build when explaining seismic activity and its impact on world geography and settlement placement."
+  ],
+  "tags": [
+    "worldbuilding",
+    "geography",
+    "environmental design"
+  ],
+  "priority": 8,
+  "content": "To ensure your world feels real and believable, it’s crucial to adhere to the basic laws of physics and geography. Here are some key rules to follow:\n\n- Plate Tectonics: Even in a fantasy world, the movement of tectonic plates can explain mountain ranges, volcanoes, and earthquakes. Consider how these plates interact and shape your world’s landscape.\n- Climate Zones: The Earth’s tilt and curvature create distinct climate zones. Apply this principle to your world, considering factors like latitude, altitude, and proximity to water. A desert in the tropics will be vastly different from one in a temperate zone.\n- Water Cycle: Evaporation, condensation, and precipitation are essential for a functioning ecosystem. Ensure your world has a logical water cycle, with rivers flowing downhill and rainfall patterns influenced by geography.\n- Biomes: Different climates support different types of plant and animal life. Research various biomes like forests, grasslands, and deserts to create realistic ecosystems within your world.",
+  "token_estimate": 208
+}

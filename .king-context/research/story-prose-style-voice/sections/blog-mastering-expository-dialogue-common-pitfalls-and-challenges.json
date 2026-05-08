@@ -1,0 +1,30 @@
+{
+  "title": "Common Pitfalls and Challenges",
+  "path": "blog-mastering-expository-dialogue-common-pitfalls-and-challenges",
+  "url": "https://www.numberanalytics.com/blog/mastering-expository-dialogue",
+  "keywords": [
+    "expository dialogue",
+    "info dumping",
+    "narrative pacing",
+    "stilted dialogue",
+    "exposition balance",
+    "character development",
+    "narrative elements",
+    "plot points",
+    "backstory"
+  ],
+  "use_cases": [
+    "Use when auditing scripts for unnatural character interactions",
+    "Implement when balancing information delivery with narrative pacing",
+    "Identify when dialogue feels contrived or forced for plot convenience",
+    "Configure when training writers on avoiding information overload"
+  ],
+  "tags": [
+    "writing-guidelines",
+    "narrative-design",
+    "best-practices"
+  ],
+  "priority": 7,
+  "content": "One of the most significant challenges of expository dialogue is avoiding the trap of info dumping, where characters convey large amounts of information in a way that feels unnatural or forced. This can lead to clunky, stilted dialogue that disrupts the narrative's pacing.\n\nOther common pitfalls include:\n\n- Failing to balance exposition with other dialogue elements, such as character development or conflict.\n- Relying too heavily on exposition to convey information, rather than using action, visuals, or other narrative elements.\n- Using exposition as a way to explain complex plot points or backstory in a way that feels contrived or convenient.",
+  "token_estimate": 134
+}

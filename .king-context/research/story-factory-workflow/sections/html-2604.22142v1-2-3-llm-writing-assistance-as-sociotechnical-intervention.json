@@ -1,0 +1,33 @@
+{
+  "title": "2.3 LLM Writing Assistance as Sociotechnical Intervention",
+  "path": "html-2604.22142v1-2-3-llm-writing-assistance-as-sociotechnical-intervention",
+  "url": "https://arxiv.org/html/2604.22142v1",
+  "keywords": [
+    "stylometric methods",
+    "lexical shifts",
+    "register leveling",
+    "semantic drift",
+    "homogenization",
+    "first-person expression",
+    "corpus-scale analysis",
+    "evaluative framing",
+    "prompt-sensitivity",
+    "sociotechnical intervention"
+  ],
+  "use_cases": [
+    "Use when evaluating the impact of LLM assistance on stylistic diversity and register leveling",
+    "Configure when designing research prompts to test for variability across semantically equivalent paraphrases",
+    "Implement when assessing how AI-revised human writing degrades the performance of AI detection tools",
+    "Use when analyzing personal narratives where first-person expression and hesitation carry evidentiary weight",
+    "Use when investigating whether stylistic shifts are stable properties of an LLM or artifacts of prompt formulation"
+  ],
+  "tags": [
+    "research-analysis",
+    "llm-behavior",
+    "computational-linguistics",
+    "ai-ethics"
+  ],
+  "priority": 8,
+  "content": "A parallel literature has examined detection of AI-generated text, finding that stylometric methods can distinguish human from LLM outputs (Przystalski et al., 2026; O’Sullivan, 2025), but that detector performance degrades with AI-revised human writing (Zhang et al., 2024). If LLM revision shifts the same features stylometry depends on, surface features may be altered without leaving visible traces.\n\nThe question, then, is whether these features are already being reshaped before analysis begins. At corpus scale, Kobak and others (2025) identify detectable lexical shifts associated with LLM-assisted writing in biomedical publications, while Reinhart et al. (2025) show that LLM-generated text differs systematically from human writing across grammatical and rhetorical dimensions. Other work examines AI-assisted writing interactionally, showing that interface design and scaffolding shape co-writing practices and the resulting text (Dhillon et al., 2024; Lee et al., 2024). Most directly relevant here, Abdulhai and others (2026) demonstrate that even “minimal edits” and “grammar-only” prompts can produce substantial semantic drift in AI revisions, moving toward more formal, impersonal language while sharply reducing first-person expression.\n\nA related strand of research has documented homogenization effects in LLM-assisted creative work. Doshi and Hauser (2024) show that while LLM assistance can expand individual idea ranges, it simultaneously reduces the collective diversity of outputs across users. Anderson et al. (2024) find similar patterns in creative ideation tasks, where different users produce less semantically distinct ideas when using LLM support. This phenomenon, sometimes termed register leveling, refers to the tendency of probabilistic language models to blur distinctions between writing styles and genres, producing more uniform output regardless of input register.\n\nWhat remains less explored is whether this reshaping affects the specific features that matter for interpreting personal narratives, where irregularity, hesitation, and situated first-person expression may themselves carry evidentiary weight. Prior work on argumentative student essays and essay reformulation already suggests that LLMs alter stance, metadiscourse, and other stylistic features Jiang and Hyland (2025); in personal narrative, the interpretive stakes of such reshaping may be higher.\n\nRecent work has shown that LLM outputs can be highly sensitive to seemingly minor variations in prompt wording, format, and framing (Zhuo et al., 2024; Ngweta et al., 2025; Seleznyov et al., 2025), with measurable variability appearing even across semantically equivalent paraphrases (Alhetelah and Ahmad, 2026; Truong et al., 2025). This raises a methodological question for any study of LLM rewriting: are the observed stylistic shifts stable properties of the rewriting operation, or artifacts of a particular prompt formulation? The present study addresses this by testing three prompt conditions that vary evaluative framing while holding task constant.",
+  "token_estimate": 562
+}

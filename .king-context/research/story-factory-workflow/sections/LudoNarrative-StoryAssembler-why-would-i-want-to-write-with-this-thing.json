@@ -1,0 +1,32 @@
+{
+  "title": "Why Would I Want To Write With This Thing?",
+  "path": "LudoNarrative-StoryAssembler-why-would-i-want-to-write-with-this-thing",
+  "url": "https://github.com/LudoNarrative/StoryAssembler",
+  "keywords": [
+    "StoryAssembler",
+    "quality-based narrative",
+    "dynamic templating",
+    "salience-based narrative",
+    "story roles",
+    "character qualities",
+    "gated choices",
+    "state-driven progression",
+    "concurrent game variables"
+  ],
+  "use_cases": [
+    "Configure when story progression needs to be dynamically determined via global state",
+    "Implement when most narrative choices must be gated by specific logic conditions",
+    "Use when external game variables should influence story direction or choice availability",
+    "Use when creating stories where different characters can assume the same story roles dynamically",
+    "Implement when character-specific qualities need to influence narrative structure"
+  ],
+  "tags": [
+    "narrative-design",
+    "dynamic-content",
+    "character-systems",
+    "state-management"
+  ],
+  "priority": 10,
+  "content": "StoryAssembler's good for creating [quality-based narratives](https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/). In general it's good if you want to write a story where any of these are true:\n\n- most choices are gated by certain conditions\n- how the story progresses is dynamically determined via state\n- you want game variables from a concurrent game to influence the direction of the story or choice availability\n\nThe dynamic templating system means it's also good if:\n\n- you want to write stories where different characters take on story roles\n- individual qualities of characters influence choices or structure of the story\n\nA version of this system was used to drive the narrative component of [_Emma's Journey_](https://emmasjourney.soe.ucsc.edu/), a generative game about climate change created by UC Santa Cruz.\n\nThere's a viz for an older version of this library [here](https://people.ucsc.edu/~jgarbe/demo/StoryAssembler/editor.html), but because it still has some pernicious bugs, we're not including it in the library (for now).",
+  "token_estimate": 196
+}

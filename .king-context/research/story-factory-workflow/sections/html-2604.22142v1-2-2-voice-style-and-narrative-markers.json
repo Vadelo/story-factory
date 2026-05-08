@@ -1,0 +1,34 @@
+{
+  "title": "2.2 Voice, Style, and Narrative Markers",
+  "path": "html-2604.22142v1-2-2-voice-style-and-narrative-markers",
+  "url": "https://arxiv.org/html/2604.22142v1",
+  "keywords": [
+    "computational stylistics",
+    "authorship attribution",
+    "stylometric analysis",
+    "lexical variation",
+    "syntactic structure",
+    "vocabulary distribution",
+    "narrative markers",
+    "LLM-generated text signatures",
+    "model signatures",
+    "register",
+    "stylistic signals"
+  ],
+  "use_cases": [
+    "Use when performing computational stylistics to measure vocabulary distribution and syntactic patterns",
+    "Implement when conducting authorship attribution to identify stable individual signatures",
+    "Configure when analyzing narrative organization and self-presentation through linguistic markers",
+    "Use when detecting LLM-generated model signatures in digital archives",
+    "Use when assessing how AI revision alters stylistic signals like pronoun use and contractions"
+  ],
+  "tags": [
+    "digital-humanities",
+    "stylometrics",
+    "linguistic-analysis",
+    "narrative-theory"
+  ],
+  "priority": 8,
+  "content": "The stakes of such mediation are methodological as well as archival, because linguistic patterning serves as evidence across multiple DH traditions. Computational stylistics operationalizes style through vocabulary distribution, syntactic structure, and punctuation usage (Argamon, 2010; Herrmann et al., 2021); authorship attribution treats such features as relatively stable individual signatures (Stamatatos, 2009; Eder et al., 2016; Mikros and Boumparis, 2024); work on personal narrative links linguistic form to self-presentation, memory, and narrative organization (Pennebaker and King, 1999; Pennebaker et al., 2003; Labov and Waletzky, 1967). The underlying claim is not that any single feature transparently reveals voice, but that patterning is analytically meaningful. This position is reinforced by recent arguments that stylometric analysis works precisely because authors write in subtly different registers (Grieve, 2023; Biber and Conrad, 2019), and that formal features are theoretically meaningful carriers of narrative structure, not mere surface patterns (Piper et al., 2021; Abello et al., 2012). Even under contemporary generative conditions, stylistic signals remain distinguishable. LLM-generated text retains stylometrically detectable model signatures (Mikros, 2025), though whether revision preserves or disrupts the author’s signature is a separate question. Features such as contraction, pronoun use, punctuation, and lexical variation are routinely used to characterize style, register, and authorship, making their systematic alteration by AI revision methodologically consequential.",
+  "token_estimate": 277
+}

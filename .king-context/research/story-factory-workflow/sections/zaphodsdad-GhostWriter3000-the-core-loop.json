@@ -1,0 +1,30 @@
+{
+  "title": "The Core Loop",
+  "path": "zaphodsdad-GhostWriter3000-the-core-loop",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "Scene Outline",
+    "Generate Prose",
+    "AI Critique",
+    "Series Memory",
+    "Accept as Canon",
+    "Iterative Revision",
+    "World Context",
+    "Prose Generation"
+  ],
+  "use_cases": [
+    "Use when drafting fictional narratives using multi-step AI workflows",
+    "Implement when requiring automated stylistic and structural feedback on generated text",
+    "Configure when establishing permanent story facts in a long-form series memory",
+    "Use when performing human-in-the-loop content refinement with up to 5 iterations"
+  ],
+  "tags": [
+    "content-generation",
+    "workflow",
+    "ai-interaction",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "```\nScene Outline → Generate Prose → AI Critique → Revise → Repeat → Accept as Canon\n```\n\nYou define characters, world context, and scene outlines. The AI generates prose, then a second AI pass critiques it. You review, give feedback, and the system revises — up to 5 iterations until you're happy. When you accept a scene as canon, it becomes part of the series memory.\n\n![Prose generation with AI critique](docs/screenshots/prose-critique.png)\n![Critique results and revision](docs/screenshots/critique-results.png)",
+  "token_estimate": 101
+}

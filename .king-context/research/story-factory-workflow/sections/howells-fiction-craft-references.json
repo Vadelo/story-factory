@@ -1,0 +1,33 @@
+{
+  "title": "Craft References",
+  "path": "howells-fiction-craft-references",
+  "url": "https://github.com/howells/fiction",
+  "keywords": [
+    "story-structure.md",
+    "scene-structure.md",
+    "character.md",
+    "dialogue.md",
+    "prose-style.md",
+    "pacing.md",
+    "anti-patterns.md",
+    "genre-conventions.md",
+    "storytelling craft",
+    "narrative flow"
+  ],
+  "use_cases": [
+    "Use when a story feels aimless and requires structural integrity",
+    "Use when dialogue feels stilted or unnatural",
+    "Implement when prose lacks rhythmic quality or stylistic depth",
+    "Configure when narrative pacing or scene momentum slows down",
+    "Use when identifying and avoiding common writing anti-patterns"
+  ],
+  "tags": [
+    "documentation-reference",
+    "writing-standards",
+    "content-strategy",
+    "editorial-guidelines"
+  ],
+  "priority": 8,
+  "content": "14 reference documents guide the writing and review process:\n\n| Problem | Reference |\n| --- | --- |\n| Story feels aimless | `story-structure.md` |\n| Scene drags | `scene-structure.md` |\n| Flat characters | `character.md` |\n| Stilted dialogue | `dialogue.md` |\n| Prose lacks rhythm | `prose-style.md` |\n| Pacing issues | `pacing.md` |\n| Weak opening | `openings.md` |\n| Unsatisfying ending | `endings.md` |\n| Genre expectations | `genre-conventions.md` |\n| Common mistakes | `anti-patterns.md` |\n\n---",
+  "token_estimate": 109
+}

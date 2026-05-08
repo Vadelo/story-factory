@@ -1,0 +1,31 @@
+{
+  "title": "How to Run (Mac)",
+  "path": "LudoNarrative-StoryAssembler-how-to-run-mac",
+  "url": "https://github.com/LudoNarrative/StoryAssembler",
+  "keywords": [
+    "StoryAssembler",
+    "SimpleHTTPServer",
+    "http.server",
+    "localhost:8000",
+    "Python 2",
+    "Python 3",
+    "scene-configs",
+    "scene-content",
+    "Terminal"
+  ],
+  "use_cases": [
+    "Use when setting up the local development environment on macOS",
+    "Configure when initiating a local Python webserver for testing",
+    "Implement when navigating the project structure to locate scene configuration files",
+    "Use when troubleshooting Python version-specific server commands"
+  ],
+  "tags": [
+    "installation",
+    "configuration",
+    "getting-started",
+    "deployment"
+  ],
+  "priority": 10,
+  "content": "1. Start up Terminal\n2. Navigate to the StoryAssembler root directory\n3. Type command to start up a Python webserver: `python -m SimpleHTTPServer`\n4. Start a web browser and go to http://localhost:8000\n\n1. If you don't have Python, download it (2 or 3 is fine)\n2. Start up Command\n3. Navigate to the StoryAssembler root directory\n4. Type command to start a webserver:\n\n* Python 3: `python -m http.server` \n * Python 2: `python -m SimpleHttPServer`\n\n1. Start a web browser and go to http://localhost:8000\n\nA simple example scene's files are located in \n * js/StoryAssembler/data/scene-configs (the config file) \n * js/StoryAssembler/data/scene-content (the content file)\n\nAll the tutorials, walkthroughs, and technical explanations live in [the wiki](https://github.com/LudoNarrative/StoryAssembler/wiki)",
+  "token_estimate": 150
+}

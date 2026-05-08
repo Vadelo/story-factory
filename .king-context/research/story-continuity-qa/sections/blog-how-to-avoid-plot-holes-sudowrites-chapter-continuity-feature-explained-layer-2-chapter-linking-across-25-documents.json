@@ -1,0 +1,31 @@
+{
+  "title": "Layer 2: Chapter Linking Across 25 Documents",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-2-chapter-linking-across-25-documents",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Chapter Continuity",
+    "Layer 2",
+    "Chapter Linking",
+    "Sequential Linking",
+    "Context Window",
+    "Write feature",
+    "Prose Analysis",
+    "Long-form Context",
+    "Timeline Management"
+  ],
+  "use_cases": [
+    "Use when maintaining narrative consistency across a multi-chapter manuscript",
+    "Implement when the AI requires direct access to previous prose rather than summaries",
+    "Configure when referencing specific events or details from up to 25 documents back",
+    "Use when reducing timeline errors in long-form creative writing projects"
+  ],
+  "tags": [
+    "document-management",
+    "content-linking",
+    "ai-context",
+    "feature-guide"
+  ],
+  "priority": 9,
+  "content": "Here's where Chapter Continuity does its real work. You link your chapter documents in sequence, and the Write feature reads up to 20,000 words of preceding text across those linked chapters. Not summaries. Not keywords. Your actual prose. So when Chapter 15 references an event from Chapter 3, the AI has Chapter 3's text in its context window. Timeline errors and forgotten threads drop dramatically because the AI is reading the same story your reader will.",
+  "token_estimate": 101
+}

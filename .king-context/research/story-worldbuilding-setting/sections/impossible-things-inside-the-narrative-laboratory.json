@@ -1,0 +1,34 @@
+{
+  "title": "Inside the Narrative Laboratory",
+  "path": "impossible-things-inside-the-narrative-laboratory",
+  "url": "https://fictionphile.com/impossible-things/",
+  "keywords": [
+    "story physics",
+    "charged particles",
+    "gravitational fields",
+    "time dilation",
+    "emotional trajectories",
+    "narrative physics",
+    "speculative narrative",
+    "consistency model",
+    "magic system",
+    "world rules"
+  ],
+  "use_cases": [
+    "Use when modeling plotlines as dynamic systems",
+    "Implement when mapping character emotional arcs to physical analogies",
+    "Configure when ensuring consistency of narrative rules across scenes",
+    "Use when analyzing speculative stories for coherence",
+    "Implement when teaching storytelling techniques via physics metaphors"
+  ],
+  "tags": [
+    "narrative",
+    "storytelling",
+    "fiction",
+    "conceptual",
+    "physics metaphor"
+  ],
+  "priority": 6,
+  "content": "Imagine a research facility where Borges writes the floor plan, Octavia Butler sets the safety protocols, and the walls flicker like a malfunctioning holodeck. In this metaphorical lab, story physics replace the physics we know.\n\nEvery great speculative tale—from Arrival to The Fifth Season to Everything Everywhere All at Once– runs experiments with altered reality. Plotlines behave like charged particles. Characters follow emotional trajectories that act like gravitational fields. Audiences sense when a world’s rules are working, even if those rules involve time dilation caused by grief or universes stitched together with memory.\n\nReaders don’t need to consciously decode a magic system or futuristic technology. They just need the system to behave consistently.\n\nThis is where narrative physics begins.",
+  "token_estimate": 158
+}

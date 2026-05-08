@@ -1,0 +1,29 @@
+{
+  "title": "🎯 Core Features: Complete Story Development Platform",
+  "path": "features-core-features-complete-story-development-platform",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Story Compass",
+    "narrative structure",
+    "plot pathing",
+    "story development",
+    "content navigation",
+    "creative orientation",
+    "writing toolset",
+    "platform core features"
+  ],
+  "use_cases": [
+    "Use when mapping out complex narrative arcs during the initial development phase",
+    "Implement when visual guidance is needed to maintain story consistency",
+    "Configure when establishing directional milestones for long-form content projects"
+  ],
+  "tags": [
+    "core-features",
+    "creative-writing",
+    "navigation",
+    "platform-tools"
+  ],
+  "priority": 10,
+  "content": "🧭 Story Compass (New)",
+  "token_estimate": 5
+}

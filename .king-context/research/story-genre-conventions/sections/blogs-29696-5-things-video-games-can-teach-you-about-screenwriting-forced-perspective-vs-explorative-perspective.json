@@ -1,0 +1,32 @@
+{
+  "title": "Forced Perspective vs. Explorative Perspective",
+  "path": "blogs-29696-5-things-video-games-can-teach-you-about-screenwriting-forced-perspective-vs-explorative-perspective",
+  "url": "https://thescriptlab.com/blogs/29696-5-things-video-games-can-teach-you-about-screenwriting/",
+  "keywords": [
+    "Forced Perspective",
+    "Explorative Perspective",
+    "Show vs Tell",
+    "Exposition through Dialogue",
+    "Player Interaction",
+    "Environmental Storytelling",
+    "Immersion",
+    "Protagonist Perspective",
+    "Narrative Design",
+    "Red Dead Redemption 2"
+  ],
+  "use_cases": [
+    "Use when designing narrative flow to prioritize player discovery over passive exposition",
+    "Implement when creating game characters to ensure traits are demonstrated through gameplay",
+    "Configure when balancing cinematic cutscenes with interactive world-building",
+    "Use when developing environmental storytelling techniques to enhance immersion"
+  ],
+  "tags": [
+    "narrative-design",
+    "game-design",
+    "ux-design",
+    "content-strategy"
+  ],
+  "priority": 7,
+  "content": "It’s not the best form of storytelling, but many film narratives often paint something a certain way for the audience without much ceremony. This could be the way a certain character is seen/mentioned as the “Funny One” by other characters, without ever really demonstrating their humor in a believable way to the audience.This could also be the case when exposition is offered through dialogue: because somebody says it’s so, then it’s so.\nHowever, you’ve already heard that you shouldn’t tell when you can show. The same is true in games, but they take it to another level —they bring the perspective of the player into a full-on exploration of what the world is like, what characters are like, and what conflicts there are to contend with.\nWhen you interact with all of these personally, you get a better sense of the story unfolding around you, and in film, it can be just as useful to make your protagonist be that exploratory set of eyes and ears for the audience, rather than simply taking things at face value from another, rather “forced” perspective.\n![Red Dead Redemption 2](https://thescriptlab.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)\n‘Red Dead Redemption 2’ immerses players into the virtual world.",
+  "token_estimate": 260
+}

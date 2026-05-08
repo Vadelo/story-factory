@@ -1,0 +1,36 @@
+{
+  "title": "Introduction",
+  "path": "storykit-introduction",
+  "url": "https://superstories.app/storykit/",
+  "keywords": [
+    "Lore Engine",
+    "StoryKit",
+    "YAML Frontmatter",
+    "Fenced Structure",
+    "Semantic Tags",
+    ":::act1",
+    ":::prompt",
+    ":::backstory",
+    "Compound Relationships",
+    "Entity References",
+    "Semantic Triple",
+    "Lore Tagging Rules"
+  ],
+  "use_cases": [
+    "Use when drafting immersive, branching, and episodic science fiction stories",
+    "Implement when enforcing canon consistency across multi-act structures",
+    "Configure when pulling canonical root entities from the universe graph using entity-id references",
+    "Use when structuring organic data to feed the Lore Engine for persistent memory and story graphs",
+    "Configure when defining semantic triples for relational tagging and data snapshots"
+  ],
+  "tags": [
+    "introduction",
+    "configuration",
+    "semantic-tagging",
+    "data-structure",
+    "lore-engine"
+  ],
+  "priority": 10,
+  "content": "The SuperStories Universe Platform enables professional creators, writers, editors, and world builders to author dynamic, immersive, canon-respecting science fiction stories.\n\nStories written for SuperStories are not static. They are alive — capable of growing, evolving, and reacting — because they are designed using a hybrid method called Organic Data: a fusion of structured and unstructured narrative, built to feed the SuperStories Lore Engine.\n\n---\n\nThis documentation is intended for:\n\n- Hard Rules\n- Creators — Build original characters, timelines, technology, and canon\n- Writers — Draft immersive, branching, and episodic stories\n- Editors — Enforce canon consistency, structure, and tone\n- World Builders — Engineer persistent data-driven universes\n\nEveryone writing SuperStories must follow the StoryKit Fence & Tagging System to ensure stories are interoperable with the Lore Engine.\n\n---\n\nA SuperStory is:\n\n- A multi-act, character-driven story\n- Structurally tagged with semantic fences and Lore tags\n- Designed to be read by humans and processed by machines\n- Compatible with the Lore Engine’s memory and story graph\n\nEvery SuperStory contains:\n\n- YAML Frontmatter: Story-wide metadata\n- Fenced Structure: Acts, scenes, prompts, branches\n- Semantic Tags:`#tags`,`{#compound#relationships}`, and`~(entity-id)` references\n\n---\n\nApply structure during the writing process, not afterward. Structure should feel organic.\n\n- Fences wrap your content\n- Tags live inside your prose\n- Every story begins with a title, followed by`:::act1`,`:::scene1`, and a`:::prompt` block that contains`:::backstory`\n\n---\n\nAll structure exists to feed the SuperStories Lore Engine, which:\n\n- Tracks memory across timelines and decisions\n- Understands relationships between people, ships, places, values, events\n- Allows for branching paths, alternate realities, and persistent consequences\n- Ensures continuity and canon alignment\n\n---\n\nUse StoryKit Fences and Lore Tagging Rules (below) to create structured, branchable narratives.\n\n---\n\nUsed for:\n\n- Descriptive lore (e.g.`#temporal-anomaly`,`#honor`,`#betrayal`)\n- Non-rooted relationships (e.g.`#son#alexander`,`#command#bridge`)\n- Inline narrative reinforcement\n\nMust always use lowercase-hyphen format. Do not use spaces or underscores.\n\n---\n\nUsed for relational tagging and data snapshots:\n\n```\n{#changeling#assumes#captain-worf’s-identity}\n\n```\n\nRepresents semantic triple:`subject#action#object`.\n\n---\n\nUsed for defined entities: people, ships, locations, factions. Always use in:\n\n- YAML frontmatter\n- `:::backstory` fences (nested inside`:::prompt`)\n- When tagging identity, not lore\n\nExamples:\n\n```\n~(defiant), ~(worf), ~(aranis-prime), ~(section-31)\n\n```\n\nUse`#uss-defiant` to describe or attribute lore about the Defiant. Use`~(defiant)` to pull in its canonical root entity from the universe graph.\n\n---",
+  "token_estimate": 501
+}

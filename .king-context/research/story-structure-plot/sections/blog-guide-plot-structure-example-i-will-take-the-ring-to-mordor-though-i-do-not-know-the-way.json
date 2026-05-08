@@ -1,0 +1,32 @@
+{
+  "title": "Example: “I will take the Ring to Mordor. Though I do not know the way.”",
+  "path": "blog-guide-plot-structure-example-i-will-take-the-ring-to-mordor-though-i-do-not-know-the-way",
+  "url": "https://reedsy.com/blog/guide/plot/structure/",
+  "keywords": [
+    "Rising action",
+    "Climax",
+    "Frodo",
+    "Fellowship",
+    "Black Riders",
+    "Saruman",
+    "Narrative arc",
+    "Point of no return",
+    "Tension",
+    "High point"
+  ],
+  "use_cases": [
+    "Use when outlining the plot progression in a novel or script to ensure a clear narrative arc.",
+    "Implement when developing a storyboard for a film adaptation to showcase key turning points.",
+    "Configure when teaching literary analysis to highlight the structure of rising action and climax.",
+    "Use when creating game storylines to design pivotal moments that drive player engagement."
+  ],
+  "tags": [
+    "literature",
+    "narrative-structure",
+    "storytelling",
+    "plot-development"
+  ],
+  "priority": 10,
+  "content": "Frodo and his companions face many challenges, like the dreadful Black Riders, the freezing mountains, and the tension among some people in the group that the ring stirs up. The Fellowship, now made of nine valuable members, learns that Saruman has joined the enemy side.\n\nImage: New Line Cinema\n\nThis part is known as the rising action, it forms the bulk of the narrative, and it culminates in the narrative's emotional high point — the climax.\n\nThe climax in a story is the point where tension reaches its peak. It’s a pivotal moment or event that marks the point of no return for the character.",
+  "token_estimate": 139
+}

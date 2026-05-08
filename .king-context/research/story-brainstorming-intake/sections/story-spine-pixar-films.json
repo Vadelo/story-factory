@@ -1,0 +1,32 @@
+{
+  "title": "Pixar Films",
+  "path": "story-spine-pixar-films",
+  "url": "https://storytellingdb.com/story-spine/",
+  "keywords": [
+    "Pixar Films",
+    "Finding Nemo",
+    "Storytelling structure",
+    "Marlin",
+    "Dory",
+    "Narrative arc",
+    "Overprotective parenting",
+    "Open ocean",
+    "Risk assessment",
+    "Character development"
+  ],
+  "use_cases": [
+    "Use when analyzing narrative structures in Pixar animation",
+    "Implement when illustrating the Joseph Campbell Hero's Journey framework",
+    "Configure when training models on storytelling cause-and-effect patterns",
+    "Use when documenting character motivation and growth examples"
+  ],
+  "tags": [
+    "entertainment",
+    "storytelling",
+    "case-study",
+    "media-analysis"
+  ],
+  "priority": 4,
+  "content": "Finding Nemo Example:\n\n- Once upon a time, there was an overprotective clownfish named Marlin.\n- Every day, he worried about his son Nemo’s safety.\n- Until one day, Nemo was captured by divers.\n- Because of that, Marlin ventured into the open ocean.\n- Because of that, he met Dory and faced numerous dangers.\n- Until finally, Marlin found Nemo and proved his love.\n- And ever since then, Marlin learned to let Nemo take risks while staying close.",
+  "token_estimate": 106
+}

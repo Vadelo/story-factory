@@ -1,0 +1,32 @@
+{
+  "title": "2.2 Persona Prompting",
+  "path": "PeterSalvato-voice-governance-2-2-persona-prompting",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "Persona Prompting",
+    "Attribute-level control",
+    "Constitutional AI",
+    "RLHF",
+    "formality sliders",
+    "sentiment adjustment",
+    "topic steering",
+    "Constraint systems",
+    "surface-level modulation",
+    "jargon performance"
+  ],
+  "use_cases": [
+    "Use when you need to adjust the surface-level tone or jargon of a response without changing underlying logic.",
+    "Implement when mechanical knobs like formality or sentiment are required for specific output styles.",
+    "Configure when applying safety principles through Constitutional AI frameworks.",
+    "Use when shaping model outputs toward human-preferred helpfulness and honesty standards."
+  ],
+  "tags": [
+    "prompt-engineering",
+    "model-alignment",
+    "output-control",
+    "ai-anthropology"
+  ],
+  "priority": 8,
+  "content": "\"You are a senior design engineer with 25 years of experience.\" The model generates a caricature. It performs confidence, uses jargon, and structures its responses the way it predicts a senior design engineer would structure them. Change the persona label and the output changes less than you would expect. The persona changes the surface. The underlying voice, the sentence structure, the rhythm, the way the model builds a paragraph, stays the same regardless of the label.\n\nAttribute-level control: formality sliders, sentiment adjustment, topic steering. These are mechanical knobs applied to the generation process. They adjust parameters of the output without touching the underlying structure. Turn the formality dial up and you get a more formal version of generic prose.\n\nConstraint systems that shape what the model will and will not say. Constitutional AI encodes principles. RLHF shapes outputs toward human preferences. Both operate on the content of the output, not on its voice. A model trained via RLHF to be helpful, harmless, and honest will be all three of those things, and it will sound like every other model trained the same way.",
+  "token_estimate": 243
+}

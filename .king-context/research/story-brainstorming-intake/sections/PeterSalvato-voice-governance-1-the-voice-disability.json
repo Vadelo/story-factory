@@ -1,0 +1,31 @@
+{
+  "title": "1. The Voice Disability",
+  "path": "PeterSalvato-voice-governance-1-the-voice-disability",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "statistical center",
+    "training distribution",
+    "voice drift",
+    "style prompt",
+    "pattern reassertion",
+    "mechanical parallelism",
+    "capability limitation",
+    "default patterns",
+    "LLM voice",
+    "practitioner voice"
+  ],
+  "use_cases": [
+    "Configure when attempting to override default LLM writing styles for specific brand voices",
+    "Use when diagnosing why long-form AI content reverts to generic prose during generation",
+    "Implement when designing prompts to counteract the 'statistical center' of training data",
+    "Use when evaluating the limitations of standard style descriptions in prompt engineering"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "content-strategy",
+    "llm-behavior"
+  ],
+  "priority": 8,
+  "content": "LLMs generate text from training data dominated by published writing: polished, performative, audience-aware. The statistical center of that data produces a specific voice: hedged, parallel, abstract-leading, em-dash-heavy, fortune-cookie-closing prose. Ask the model to write in a specific person's voice and it produces competent content marketing that sounds like everyone and no one.\n\nThis is not a capability limitation. The model can generate text in virtually any style. The problem is that its default patterns are deeply embedded, and those defaults reassert themselves within paragraphs even when the model has been instructed to write differently. A paragraph that begins in a practitioner's voice drifts back to the statistical center by its third sentence. The pull is constant.\n\nI tried the standard fixes. Longer style descriptions. More examples of the target voice. \"Write like a practitioner, not a marketer.\" \"Be direct and specific.\" \"Sound like a real person.\" The model followed the instruction for a sentence, sometimes two, and then the defaults came back. Abstract openings. Mechanical parallelism. Three consecutive sections with identical skeleton structures. The pull of the training distribution was stronger than any style prompt I could write.",
+  "token_estimate": 250
+}

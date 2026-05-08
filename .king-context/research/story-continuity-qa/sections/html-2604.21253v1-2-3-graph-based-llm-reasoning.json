@@ -1,0 +1,35 @@
+{
+  "title": "2.3 Graph-Based LLM Reasoning",
+  "path": "html-2604.21253v1-2-3-graph-based-llm-reasoning",
+  "url": "https://arxiv.org/html/2604.21253v1",
+  "keywords": [
+    "multi-hop reasoning",
+    "Reasoning with Graphs",
+    "Think-on-Graph",
+    "TG-LLM",
+    "PLOTTER",
+    "atomic edit operations",
+    "iterative graph refinement",
+    "Event Serialization",
+    "Persona Expansion",
+    "Ge",
+    "Gc",
+    "Multi-Agent Critic"
+  ],
+  "use_cases": [
+    "Implement when narrative structures require high logical and relational consistency",
+    "Configure when bridging the gap between implicit context and explicit graph-based reasoning",
+    "Use when dynamic script planning for events and characters is needed over static text representations",
+    "Implement when multi-agent evaluation is required to diagnose and resolve structural narrative issues",
+    "Configure when serializing complex graph nodes into coherent script generation"
+  ],
+  "tags": [
+    "reasoning",
+    "knowledge-graphs",
+    "content-generation",
+    "frameworks"
+  ],
+  "priority": 9,
+  "content": "Recent research integrates graph structures to enhance multi-hop reasoning for LLMs. For instance, Reasoning with Graphs (RwG) (Han et al., 2025) structures implicit context into explicit graphs, Think-on-Graph (ToG) (Sun et al., 2024) utilizes knowledge graphs for deep inference, and TG-LLM (Xiong et al., 2024) employs temporal graphs to bolster chronological understanding. In the specific domain of LLM story generation, recent work, such as R2 (Lin et al., 2025), extracts graphs from a complete source text to build static external memories for generation reference. These works utilize graph structures as fixed contextual references for generation, while PLOTTER performs dynamic narrative planning via graph-structured representations of events and characters.\n\nUnlike prior work that performs story planning directly on text representations, we use LLMs to plan narrative structure on graph-based representations. Specifically, we ensure logical and relational consistency through iterative generation and editing of event and character graphs via atomic edit operations, thereby improving plot coherence, engagement, and character development.\n\n![Refer to caption](https://arxiv.org/html/2604.21253v1/x1.png)\n\nFigure 1: Overview of the PLOTTER framework. (1) Graph-Based Script Planning initializes the narrative backbone comprising Event (GeG_{e}) and Character (GcG_{c}) graphs. (2) Iterative Graph Refinement employs a Multi-Agent Critic (𝒞\\mathcal{C}) to diagnose structural issues, which are resolved by a Constrained Graph Editor (ℛ\\mathcal{R}) to produce an optimized graph (G∗G^{*}). (3) Graph-Grounded Script Synthesis serializes the graph via Event Serialization (ℋ\\mathcal{H}) and Persona Expansion (ℰ\\mathcal{E}), conditioning a State-Aware Generator to synthesize the final script (SS).",
+  "token_estimate": 313
+}

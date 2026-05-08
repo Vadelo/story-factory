@@ -1,0 +1,33 @@
+{
+  "title": "Abstract",
+  "path": "auth-personal-springernature-abstract",
+  "url": "https://idp.nature.com/auth/personal/springernature?code=77b451f5-aaf2-4b6a-868f-f134d6372c9b&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41599-025-05986-3%3Ferror%3Dcookies_not_supported",
+  "keywords": [
+    "stylometry",
+    "Burrows’ Delta",
+    "GPT-4",
+    "Llama 70b",
+    "hierarchical clustering",
+    "multidimensional scaling",
+    "stylistic fingerprints",
+    "machine-generated text detection",
+    "most frequent words (MFW)",
+    "computational literary studies"
+  ],
+  "use_cases": [
+    "Use when distinguishing between human-authored and machine-generated creative writing using quantitative metrics.",
+    "Implement when applying Burrows’ Delta to measure stylistic similarity across large language model outputs.",
+    "Configure when visualizing text relationships through hierarchical clustering and multidimensional scaling.",
+    "Use when analyzing the stylistic uniformity and internal consistency of GPT-3.5 vs GPT-4.",
+    "Apply when seeking statistical evidence for authorship and authenticity in generative AI debates."
+  ],
+  "tags": [
+    "data-science",
+    "artificial-intelligence",
+    "natural-language-processing",
+    "research-analysis"
+  ],
+  "priority": 8,
+  "content": "This study employs stylometry to investigate whether the creative writing styles of humans and large language models (LLMs) such as GPT-3.5, GPT-4, and Llama 70b can be distinguished through quantitative analysis. A balanced dataset of short stories composed in response to predefined narrative prompts forms the basis of the analysis. Burrows’ Delta, a widely used metric in computational literary studies, is applied to measure stylistic similarity and difference across texts. By focusing on the distribution of the most frequent words, Burrows’ Delta allows for comparison that is largely independent of content and instead sensitive to latent stylistic fingerprints. The methodology combines this measure with clustering techniques, including hierarchical clustering and multidimensional scaling, to visualise relationships between texts and to test whether human and machine-generated stories cohere into distinct groups. The results reveal clear and consistent stylistic distinctions. Human-authored texts form broader, more heterogeneous clusters, reflecting the diversity of individual expression, writing ability, and interpretive engagement with the prompts. In contrast, LLM outputs, while fluent and coherent, display a higher degree of stylistic uniformity, clustering tightly by model. GPT-4 demonstrates greater internal consistency than GPT-3.5, suggesting refinement in the stylistic coherence of newer systems, yet both remain distinguishable from human writing. Llama 70b shows similar uniform clustering behaviour. Occasional overlaps occur, particularly between GPT-3.5 and human texts, but these are rare and insufficient to erase the broader distinction between categories. The findings indicate that, despite rapid advances in generative AI and its growing capacity to simulate creativity, LLMs retain detectable stylistic signatures that separate them from human authors. The study contributes to debates about authenticity, authorship, and the scope of machine creativity by moving beyond subjective literary judgment towards quantitative evidence. Stylometric analysis confirms that LLM outputs remain statistically and stylistically identifiable as machine-generated.\n\n![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-025-25157-3/MediaObjects/41598_2025_25157_Fig1_HTML.png)\n\n![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41562-025-02389-x/MediaObjects/41562_2025_2389_Fig1_HTML.png)\n\n![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41562-025-02331-1/MediaObjects/41562_2025_2331_Fig1_HTML.png)",
+  "token_estimate": 393
+}

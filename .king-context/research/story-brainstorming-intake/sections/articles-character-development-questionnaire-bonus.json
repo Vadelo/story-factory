@@ -1,0 +1,30 @@
+{
+  "title": "Bonus",
+  "path": "articles-character-development-questionnaire-bonus",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "Meyers-Briggs",
+    "personality test",
+    "character development",
+    "MBTI",
+    "Isaiah 26:19",
+    "character depth",
+    "profiling",
+    "archetypes"
+  ],
+  "use_cases": [
+    "Use when seeking to add extra layers of psychological depth to a fictional character",
+    "Implement when filling gaps in a character's behavioral patterns or motivations",
+    "Use when aligning character traits with established personality frameworks",
+    "Configure when performing creative writing exercises to test character consistency"
+  ],
+  "tags": [
+    "character-creation",
+    "creative-writing",
+    "bonus-content",
+    "psychological-profiling"
+  ],
+  "priority": 3,
+  "content": "Take a Meyers-Briggs personality test as your character. I’ve tried this with finished characters and found it to be impressively accurate. You can then use the results to add extra layers of depth to your character and fill in any gaps.\n\nYour dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy! For your dew is a dew of light, and the earth will give birth to the dead.\n\nIsaiah 26:19\n\n↑",
+  "token_estimate": 106
+}

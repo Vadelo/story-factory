@@ -1,0 +1,36 @@
+{
+  "title": "2 Related Work",
+  "path": "html-2406.00888v2-2-related-work",
+  "url": "https://arxiv.org/html/2406.00888v2",
+  "keywords": [
+    "DITTO",
+    "RLHF",
+    "Group Preference Optimization",
+    "Self-Improvement",
+    "Online Imitation Learning",
+    "KL-constrained formulation",
+    "iterative sampling",
+    "few-shot alignment",
+    "preference finetuning",
+    "SFT",
+    "SPIN",
+    "STaR"
+  ],
+  "use_cases": [
+    "Use when adapting a model with a small number of demonstrations instead of large paired datasets",
+    "Implement when developing domain-specific chatbots or writing assistants with limited data",
+    "Configure when seeking to bypass the need for an external oracle or manual human reward labels",
+    "Use when performing personalization tasks where abundant preference data is unavailable",
+    "Configure when applying online imitation learning principles to large language models"
+  ],
+  "tags": [
+    "preference-optimization",
+    "imitation-learning",
+    "model-finetuning",
+    "machine-learning-theory",
+    "research-background"
+  ],
+  "priority": 8,
+  "content": "LLMs and Preference Finetuning. Large language models trained on vast amounts of data have been known to perform well with careful prompting (Brown et al., 2020b; Wei et al., 2022). Prompting, however, can be incredibly tedious (Zamfirescu-Pereira et al., 2023) to design and often sensitive to variations. Thus, it has become necessary to either finetune these models on large curated instruction following datasets (Mishra et al., 2022; Thoppilan et al., 2022; Chung et al., 2022) and/or employ RLHF, where the LLM is trained to maximize a reward function learned from human preferences as a contextual bandit (Ziegler et al., 2019). Typically, this is done using policy-gradient style methods (Williams, 1992; Schulman et al., 2017) though more recent works learn directly from preference data (Rafailov et al., 2023; Hejna et al., 2024; Azar et al., 2023). While these methods are effective at tasks like summarization (Stiennon et al., 2020; Wu & Hu, 2018; Wu et al., 2024) and instruction following (Ouyang et al., 2022; Nakano et al., 2021) they require thousands to hundreds of thousands of paired comparisons to obtain a quality estimate of reward. This makes them prohibitively expensive for a wide range of applications, such as training a customized writing assistant or building a domain-specific chatbot. Group Preference Optimization (GPO) (Zhao et al., 2023) takes a promising step towards few-shot alignment of LLMs; however, preference groups must be pre-defined for meta-learning, which requires a large dataset. On the other hand, Gao et al. (2024) uses direct edits to distill latent preferences into prompt-based principles. In place of principles or pairwise feedback, DITTO directly learns preferences from a set of demonstrations, similar to model editing from canonical examples (Hewitt et al., 2024). Drawing from prior studies on programming by demonstration and end-user programming in HCI (Cypher, 1991; Cypher & Halbert, 1993), our work aims at soliciting feedback at a finer-grained level than binary preferences, principles, or prompts.\n\nSelf-Improvement. Recent works use iterative sampling to improve LLMs. Aproaches like STaR (Zelikman et al., 2022; 2024; Andukuri et al., 2024) are supervised by verifying the correctness of outputs, while Yuan et al. (2024) and Burns et al. (2023) use (potentially stronger) language models as critics. Unlike these approaches, DITTO does not require external signals besides demonstrations, similar to self-play methods like SPIN (Chen et al., 2024). Unlike SPIN—which uses thousands of demonstrations and is targeted more towards SFT scale datasets—DITTO is designed for fast adaptation in the data-limited setting and thus has a few key distinctions. Namely, DITTO does not update the reference policy and uses intermodel comparisons to combat overfitting. We found these changes to be important to obtain good performance with only a handful of demonstrations. In data-abundant settings, other works have shown that an oracle reward function (Gulcehre et al., 2023) or model (Lee et al., 2023; Song et al., 2024) is sufficient to provide feedback. We consider tasks like personalization, for which there is no abundant data or oracle.\n\nOnline Imitation Learning. DITTO builds on online imitation learning, which appeals to the long-standing success of learning reward functions from comparisons (Fürnkranz et al., 2012; Akrour et al., 2012). Brown et al. (2019) first showed that with ranked demonstrations, one could improve a policy beyond the demonstrator’s performance. Follow-ups used automatic noise injection to remove human rankings (Brown et al., 2020a). Other contemporary approaches to online imitation learning are based on adversarial games between reward and policy players (Ziebart et al., 2008; Ho & Ermon, 2016). In our case, we use a KL-constrained formulation, like Watson et al. (2023). Sikchi et al. (2022) generalizes the adversarial game to a ranking game and thus uses generated comparisons like DITTO. Unlike DITTO, however, these approaches explicitly require learning a reward function and are designed for continuous control—not for LLMs.\n\nWhile prior work uses thousands of comparisons to align LLMs, DITTO instead uses only a handful of expert demonstrations to alter a model’s behavior. This type of cheap, rapid adaptation is enabled by our core insight: that online comparison data can be easily obtained from demonstrations.",
+  "token_estimate": 896
+}

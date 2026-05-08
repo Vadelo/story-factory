@@ -1,0 +1,32 @@
+{
+  "title": "A Radical Reframe",
+  "path": "craft-form-not-formula-character-design-a-radical-reframe",
+  "url": "https://www.notmfa.com/craft/form-not-formula-character-design",
+  "keywords": [
+    "character-driven plots",
+    "story emergence",
+    "character agency",
+    "character motivation",
+    "narrative-causality",
+    "recalibration",
+    "internal-external conflict",
+    "inevitable-plotting",
+    "action-driven story",
+    "pressure-points"
+  ],
+  "use_cases": [
+    "Use when developing a narrative framework that aligns character motivation with plot progression",
+    "Implement when troubleshooting a story where plot points feel forced or inorganic",
+    "Configure when designing character arcs that dictate structural changes in a manuscript",
+    "Use when mapping the causal relationship between a character's internal fear and their external actions"
+  ],
+  "tags": [
+    "narrative-theory",
+    "creative-writing",
+    "structural-design",
+    "character-development"
+  ],
+  "priority": 10,
+  "content": "There are no plot-driven stories. There are no character-driven stories. There are only character-driven plots. Story emerges from people in action—what they want, what they fear, what they do under pressure. Plot is the trail left behind by a character pursuing something, failing, recalibrating, and pursuing again. When a character changes direction, the plot does too. The best plots are not designed—they are inevitable, because the characters can’t do otherwise.",
+  "token_estimate": 93
+}

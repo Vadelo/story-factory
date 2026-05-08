@@ -1,0 +1,32 @@
+{
+  "title": "The Editing Phase That Keeps a Story World Consistent After the First Draft",
+  "path": "how-successful-authors-keep-their-story-worlds-consistent-even-across-10-books-the-editing-phase-that-keeps-a-story-world-consistent-after-the-first-draft",
+  "url": "https://www.bookishelf.com/how-successful-authors-keep-their-story-worlds-consistent-even-across-10-books/",
+  "keywords": [
+    "continuity checking",
+    "structural editing",
+    "prose editing",
+    "story world consistency",
+    "cross-referencing",
+    "timeline sequence",
+    "world rule consistency",
+    "terminology spelling",
+    "editorial process",
+    "narrative fluency"
+  ],
+  "use_cases": [
+    "Implement when transitioning from first draft to a dedicated world-building audit",
+    "Configure when establishing a mandatory editorial checklist for long-form fiction",
+    "Use when identifying contradictions in character physical details or timeline sequences",
+    "Implement when the narrative flow inhibits the detection of logical inconsistencies"
+  ],
+  "tags": [
+    "editorial-workflow",
+    "quality-assurance",
+    "narrative-design",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "Beyond the document itself, the authors who produce the most story world consistent fiction tend to treat continuity checking as its own dedicated editing phase, completely separate from structural editing or prose editing.\n\nThis is more significant than it sounds. When you’re editing for prose, you’re reading for rhythm, word choice, sentence variety. When you’re editing for structure, you’re reading for pacing, character arc, thematic coherence. Both of those modes of reading require a certain fluency: you move through the text following the narrative. That’s exactly the wrong mode for catching continuity errors, because you’re too inside the story to notice when something contradicts something established forty pages earlier.\n\nA continuity pass requires a different kind of reading: slower, more suspicious, cross-referencing rather than following. Many authors create a specific checklist for this pass: character physical details, timeline sequence, world rule consistency, terminology spelling. Some build it into their editorial process as a mandatory step. Others do it informally but deliberately. The ones who skip it entirely tend to be the ones whose readers find the most problems.\n\n---",
+  "token_estimate": 238
+}

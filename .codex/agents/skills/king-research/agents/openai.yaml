@@ -1,0 +1,6 @@
+interface:
+  display_name: "King Research"
+  short_description: "Build indexed research corpora."
+  default_prompt: "Use $king-research to build a King Context research corpus for this topic."
+policy:
+  allow_implicit_invocation: true

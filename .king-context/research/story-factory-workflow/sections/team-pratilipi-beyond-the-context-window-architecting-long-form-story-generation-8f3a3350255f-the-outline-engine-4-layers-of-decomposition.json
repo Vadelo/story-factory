@@ -1,0 +1,32 @@
+{
+  "title": "The Outline Engine: 4 Layers of Decomposition",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-the-outline-engine-4-layers-of-decomposition",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "Outline Engine",
+    "4 Layers of Decomposition",
+    "Sequential Narrative Structure",
+    "Expanded Beats",
+    "Narrative Logic Review",
+    "Continuity Check",
+    "Draft Safety Pass",
+    "Checkpoint Transition",
+    "State Continuity",
+    "Causality Correction"
+  ],
+  "use_cases": [
+    "Use when narrative pacing feels flat or lacks dramatic escalation in long-form generation",
+    "Implement when character actions appear inconsistent or out-of-character across chapters",
+    "Configure when manual error-checking for timeline and state continuity is too high for human editors",
+    "Use when moving from a high-level story checkpoint to a detailed 20-chapter outline"
+  ],
+  "tags": [
+    "narrative-architecture",
+    "content-generation",
+    "quality-assurance",
+    "workflow-design"
+  ],
+  "priority": 9,
+  "content": "Even with great artifacts, our early approach, taking a Checkpoint + other artifacts and asking the model to generate a full 20-chapter outline in one shot, kept breaking. The chapters were often technically unique but narratively flat: drama was muted, intentions were unclear, and important context vanished between beats. The cognitive load was simply too high for a single pass.\n\nSo we decomposed outline generation into four specialized layers, each with a clear job and its own checks.\n\nThis layer writes structure, not prose.\n\nIt breaks the journey from Starting Point → Checkpoint into a sequence of chapter goals. The goal is to ensure each chapter has:\n\n- a clear purpose\n- a turn / escalation\n- proper pacing, eg. buildup, rising action, peak, aftermath etc.\n\nThis layer takes each goal and expands it into conflict-forward summaries.\n\nExample:\n\n- Input goal: “Alice asks Bob why he lied.”\n- Expanded beat: “Alice corners Bob at the gala. She doesn’t ask casually, she reveals she has evidence. Bob realizes he has nowhere to run.”\n\nThis isn’t about making every moment melodramatic. It’s about tuning the narrative toward clarity and momentum for a serialized reading experience and also with a pinch of drama.\n\nBy now the outline is exciting, but does it make sense?\n\nThis layer checks for:\n\n- causality breaks (“this came out of nowhere”)\n- knowledge gaps (“how does the reader know this?”)\n- missing setup (“when did he get the code?”)\n- character behaviour consistency (“behaving out of character”)\n\nWhen it finds gaps, it corrects/enriches the outline.\n\nThe final outline pass focuses on continuity and consistency across the chapter sequence:\n\n- timeline consistency\n- “state continuity” (injuries, possessions, relationships, ongoing tensions)\n- chapter to chapter continuity\n\nThis layer doesn’t make the outline more creative, it makes it safer to draft from.",
+  "token_estimate": 400
+}

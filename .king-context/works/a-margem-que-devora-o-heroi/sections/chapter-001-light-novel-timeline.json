@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Timeline: O Homem na Margem da Página",
+  "path": "chapter-001-light-novel-timeline",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-001-light-novel-timeline",
+  "keywords": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-001-light-novel"
+  ],
+  "use_cases": [
+    "Recall timeline changes from this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-001-light-novel"
+  ],
+  "priority": 9,
+  "content": "[\n  \"Davi morre no mundo real.\",\n  \"Davi acorda na margem da página.\",\n  \"Ele reconhece a obra que revisou.\",\n  \"Ele altera 'Não havia força em suas mãos' para 'Não havia força em suas mãos ainda'.\",\n  \"Yerin joga lama nos olhos do assassino.\",\n  \"Davi recupera uma variação cortada em que Yerin usa o canal inferior.\",\n  \"Kael chega tarde e escreve na margem.\"\n]",
+  "token_estimate": 81
+}

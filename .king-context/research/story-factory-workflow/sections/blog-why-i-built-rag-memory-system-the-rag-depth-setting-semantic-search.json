@@ -1,0 +1,32 @@
+{
+  "title": "The RAG Depth Setting: Semantic Search",
+  "path": "blog-why-i-built-rag-memory-system-the-rag-depth-setting-semantic-search",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "RAG Context Retrieval Depth",
+    "semantic search",
+    "RAG",
+    "retrieval-augmented generation",
+    "summaries",
+    "context window",
+    "token usage",
+    "Author Notes",
+    "story text context",
+    "relevancy ranking"
+  ],
+  "use_cases": [
+    "Configure when the AI loses track of intricate plot threads or specific character details",
+    "Implement when writing long-form narratives where earlier events are separated by large word counts",
+    "Use when balancing model intelligence with token cost efficiency",
+    "Adjust when writing complex scenes that require more than the default 5 historical references"
+  ],
+  "tags": [
+    "configuration",
+    "RAG",
+    "context-management",
+    "AI-parameters"
+  ],
+  "priority": 9,
+  "content": "Here's where it gets interesting. The system doesn't send all your summaries to the AI every time you generate new text. That would be overwhelming.\n\nInstead, it uses semantic search to find the most relevant summaries based on what you're currently writing.\n\nThe RAG Context Retrieval Depth setting controls how many summaries get retrieved. The default is 5 summaries, which works well for most stories.\n\nLet's say you're writing chapter 20, and your protagonist returns to a location they visited in chapter 3. When you generate new text, the system searches your summaries for content related to that location and retrieves the chapter 3 summary, even though it's 50,000 words back.\n\nThe AI then receives:\n\n- Your recent story text (last 4,000 characters)\n- The 5 most relevant summaries from earlier chapters\n- Your Author Notes (character profiles, world-building, plot notes)\n- Any style preferences you've set\n\nThis gives the AI enough context to write coherently and reference earlier events without needing to process your entire manuscript every time.\n\nIf your story has intricate plot threads or you notice the AI forgetting details, you can increase the depth to 7 or 10 summaries. This sends more context but uses more tokens (and costs slightly more if you're using online models).\n\nFor most stories, the default of 5 works well.",
+  "token_estimate": 291
+}

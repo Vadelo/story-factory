@@ -1,0 +1,32 @@
+{
+  "title": "2.1 Creative Writing",
+  "path": "html-2601.07033v1-2-1-creative-writing",
+  "url": "https://arxiv.org/html/2601.07033v1",
+  "keywords": [
+    "long-range narrative commitments",
+    "foreshadow–payoff relations",
+    "executable narrative constraints",
+    "global coherence",
+    "causal conditions",
+    "planning mechanisms",
+    "multi-agent collaboration",
+    "structural consistency",
+    "feedback-based refinement",
+    "grounded detection"
+  ],
+  "use_cases": [
+    "Implement when long-range narrative consistency and causal payoffs are required in generated stories",
+    "Configure when explicit executable constraints are needed to prevent models from contradicting previously introduced plot elements",
+    "Use when moving beyond local plausibility toward globally coherent automated storytelling",
+    "Apply when building systems that require verifiable narrative progression rather than qualitative feedback"
+  ],
+  "tags": [
+    "creative-writing",
+    "nlp-modeling",
+    "narrative-theory",
+    "natural-language-generation"
+  ],
+  "priority": 8,
+  "content": "Prior work on story writing with language models has primarily focused on generating fluent and coherent narratives, often emphasizing local plausibility and stylistic consistency (mostafazadeh2016corpus; fan-etal-2018-hierarchical). As a result, models can produce locally coherent text while neglecting or contradicting previously introduced narrative elements. To improve global coherence, several approaches incorporate planning mechanisms, guiding generation with high-level plot structures or event sequences (riedl2010narrative; yang2023doc; wang2025generating). While these methods improve structural consistency, they do not explicitly represent narrative commitments: foreshadowed events remain implicit, and payoff realization is neither enforced nor causally verifiable. More recent LLM-based systems employ multi-agent collaboration or feedback-based refinement to steer story development (patel2024swag; bae2024collective; venkatraman2025collabstory). These frameworks enhance creativity and engagement, but narrative progression is still governed by qualitative feedback rather than explicit causal conditions linking setups to outcomes.\n\nIn contrast, our work directly targets this gap by codifying foreshadow–payoff relations as explicit, executable narrative constraints, enabling grounded detection and controlled realization of long-range narrative commitments.",
+  "token_estimate": 210
+}

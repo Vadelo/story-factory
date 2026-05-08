@@ -1,0 +1,32 @@
+{
+  "title": "Custom brainstorming​",
+  "path": "writing-environment-ai-assistant-brainstorming-custom-brainstorming",
+  "url": "https://docs.shyeditor.com/writing-environment/ai-assistant/brainstorming",
+  "keywords": [
+    "Custom brainstorming",
+    "Keepers List",
+    "Academic writing",
+    "paper guidelines",
+    "citation style",
+    "brainstorm style",
+    "paper outline",
+    "Thumbs Up icon",
+    "Thumbs Down icon",
+    "Finish Brainstorming"
+  ],
+  "use_cases": [
+    "Use when you need to generate general ideas or concepts for any generic topic",
+    "Use when creating an academic paper outline with specific citation and length requirements",
+    "Configure when you want to filter and refine AI suggestions using Keepers and iteration icons",
+    "Implement when transitioning from a general brainstorm to a structured writing project"
+  ],
+  "tags": [
+    "content-generation",
+    "academic-writing",
+    "user-interface",
+    "productivity"
+  ],
+  "priority": 10,
+  "content": "Custom brainstorming is the default brainstorming mode, you can use it to get ideas for any topic.\n\n![Icon](https://docs.shyeditor.com/icons/tips-and-updates.svg)\n\nTo get started, describe what you want to brainstorm, enter some context (if you have any - this is completely optional), select the brainstorm style, then click \"Continue\". You can also click the icon to get some examples of what you can brainstorm.\n\nYou can use the Thumbs Up icon to save the ones you like to your Keepers List, and the Thumbs Down icon to clear that suggestion from your list. Alternatively, you can save any suggestion as a note.\n\n![Icon](https://docs.shyeditor.com/icons/shuffle.svg)\n\n![Icon](https://docs.shyeditor.com/icons/refresh.svg)\n\nYou can click the icon to generate some new suggestions that are similar to your Keepers, or you can click to generate an entirely new list.\n\nWhen you're done, click \"Finish Brainstorming\" to close the window.\n\nEach project type has specialized brainstorming modes, which offer more complex brainstorming flows that are optimized for each specific type of writing.\n\nThis mode is available in`Academic writing` projects.\n\nEnter a paper type, citation style, desired paper length, and the paper guidelines. The AI will suggest an outline for such paper, which you can then review and use AI to iterate until you are happy with the result.",
+  "token_estimate": 272
+}

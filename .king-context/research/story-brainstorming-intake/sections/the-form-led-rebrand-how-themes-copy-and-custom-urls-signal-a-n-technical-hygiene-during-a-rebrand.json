@@ -1,0 +1,33 @@
+{
+  "title": "Technical hygiene during a rebrand",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-technical-hygiene-during-a-rebrand",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "URL redirection",
+    "URL map",
+    "custom URL slugs",
+    "UTM parameters",
+    "Ezpa.ge Google Sheets sync",
+    "naming conventions",
+    "revenue-impacting forms",
+    "theme testing",
+    "copy testing",
+    "funnel tracking"
+  ],
+  "use_cases": [
+    "Use when migrating legacy URLs during a company rebrand to prevent broken links",
+    "Configure when implementing standardized naming conventions for form slugs",
+    "Implement when comparing the performance of old versus new brand narratives using Google Sheets",
+    "Use when conducting lightweight theme and copy tests without a full experimentation platform",
+    "Configure when setting up tracking for channel sources in query parameters rather than slugs"
+  ],
+  "tags": [
+    "best-practices",
+    "migration",
+    "analytics",
+    "form-management"
+  ],
+  "priority": 8,
+  "content": "Redirect legacy URLs gracefully. If you’re changing slugs, set up redirects so old links don’t die. This is especially important if you’ve shared form links in campaigns, docs, or partner materials.\n\nStandardize naming conventions.\n\n- Use clear patterns like`/product-signup`,`/product-feedback`,`/product-beta`.\n- Keep channel tracking in query params (`?utm_source=linkedin`) rather than in the slug itself.\n\nDocument your URL map. A simple spreadsheet with “Old URL → New URL → Owner → Purpose” prevents chaos as the rebrand rolls out.\n\n![GENERATE: a zoomed-in browser window showing a clean, branded custom URL bar above a modern web form, surrounded by subtle analytics charts and tag labels, conveying control and clarity](https://blog.ezpa.ge/placeholder)\n\n---\n\nLet’s translate this into a concrete sequence you can run over a few weeks—not months.\n\nStart where the stakes and visibility are highest:\n\n1. Your primary signup or trial form\n2. Your sales/demo request form\n3. One high-intent feedback or intake form (e.g., feature request, onboarding intake)\n\nThese are the forms most likely to:\n\n- Influence revenue\n- Be seen by multiple segments\n- Reveal whether the new story resonates\n\nFor each of the three forms, define:\n\n- Theme: Which of your 2–3 new themes it should use\n- Copy: A new headline, subtitle, and button label that reflect your updated positioning\n- URL: A clear, on-story slug that matches your new architecture\n\nKeep this lightweight. The goal is to ship a coherent first pass, not a perfect final version.\n\nBecause Ezpa.ge syncs directly to Google Sheets, you can:\n\n- Add columns for source URL, campaign, or segment\n- Track which story (old vs new) each submission came from\n- Use simple formulas or dashboards to compare performance\n\nIf you’re already using patterns from From Form Link to Full Funnel, this step becomes almost trivial—you’re just adding a new slice to your existing funnel views.\n\nYou don’t need a full-blown experimentation platform to learn quickly. Try:\n\nTheme tests:\n\n- Variant A: Calm, trust-heavy theme\n- Variant B: High-contrast, energetic theme Compare completion and drop-off.\n\nCopy tests:\n\n- Variant A: Outcome-focused headline\n- Variant B: Feature-focused headline Look at both conversion and lead quality.\n\nURL tests:\n\n- Share different custom URLs in different channels\n- Keep the underlying form the same, but track which narrative or audience framing pulls better.",
+  "token_estimate": 500
+}

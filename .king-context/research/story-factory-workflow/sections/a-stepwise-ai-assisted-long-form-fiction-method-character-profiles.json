@@ -1,0 +1,33 @@
+{
+  "title": "Character Profiles",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-character-profiles",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "Character Profiles",
+    "Socio-Sexual Hierarchy",
+    "Enneagram of Personality",
+    "Big Five personality traits",
+    "character archetypes",
+    "behavioral tendencies",
+    "psychological frameworks",
+    "narrative consistency",
+    "dark female energy",
+    "light female energy",
+    "speech patterns"
+  ],
+  "use_cases": [
+    "Use when developing complex character foundations to prevent algorithmic or generic AI outputs",
+    "Configure when needing consistent behavioral logic and psychological coherence across long-form narratives",
+    "Implement when using established personality frameworks like the Big Five or Enneagram to ground AI behavior",
+    "Use when identifying and correcting gender or context-based misapplications of personality archetypes"
+  ],
+  "tags": [
+    "narrative-design",
+    "prompt-engineering",
+    "character-development",
+    "content-generation"
+  ],
+  "priority": 8,
+  "content": "Left to its own devices, an AI will generate characters that often feel psychologically coherent at first glance but reveal their algorithmic origins upon closer inspection. Prepare detailed character profiles before generating narrative prose. Move beyond physical descriptions and occupations to capture motivations, personal history, core anxieties, speech patterns, and behavioral tendencies. Document how each character responds to stress, expresses affection, or conceals vulnerability. A robust profile isn't merely a collection of traits; it's a blueprint for consistent behavior across your narrative. The more dimensional your character foundations, the more consistently alive they'll feel on the page.\n\nModern AI systems can work with established psychological frameworks like the Socio-Sexual Hierarchy, dark vs. light female energy, the Enneagram of Personality, Big Five personality traits, or character archetypes to maintain consistency. These frameworks provide useful scaffolding, but require careful implementation. Be prepared to correct misapplications—for instance, some AI systems might inappropriately apply certain frameworks across gender lines or other contexts when those distinctions matter to your narrative.",
+  "token_estimate": 219
+}

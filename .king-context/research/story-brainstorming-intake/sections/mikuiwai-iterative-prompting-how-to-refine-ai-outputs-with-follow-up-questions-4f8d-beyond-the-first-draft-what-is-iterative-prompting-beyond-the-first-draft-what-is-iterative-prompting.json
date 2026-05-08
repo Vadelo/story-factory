@@ -1,0 +1,30 @@
+{
+  "title": "[](#beyond-the-first-draft-what-is-iterative-prompting)Beyond the First Draft: What is Iterative Prompting?",
+  "path": "mikuiwai-iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d-beyond-the-first-draft-what-is-iterative-prompting-beyond-the-first-draft-what-is-iterative-prompting",
+  "url": "https://dev.to/mikuiwai/iterative-prompting-how-to-refine-ai-outputs-with-follow-up-questions-4f8d",
+  "keywords": [
+    "iterative prompting",
+    "follow-up questions",
+    "prompt refinement",
+    "conversational AI",
+    "output evaluation",
+    "content revision",
+    "feedback loops",
+    "initial prompt",
+    "prompt engineering"
+  ],
+  "use_cases": [
+    "Use when the initial AI output requires stylistic or structural adjustments",
+    "Implement when developing complex marketing copy that needs multiple rounds of refinement",
+    "Configure when training users on collaborative AI interaction models",
+    "Use when seeking to align AI output with specific brand voice or strategy requirements"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "best-practices",
+    "content-creation"
+  ],
+  "priority": 10,
+  "content": "Think of your AI as a brilliant but sometimes naive junior copywriter. You wouldn't hand them a single instruction and expect a perfect, final draft of a sales page. You'd review their work, offer feedback, clarify your vision, and guide them through revisions. Iterative prompting is precisely that —a dynamic, conversational process where you refine AI-generated content through a series of focused follow-up questions and commands.\nIt’s not about finding the perfect single prompt; it's about engaging in a dialogue. You provide an initial prompt, receive an output, evaluate its strengths and weaknesses, and then issue new prompts based on your assessment. This cycle continues until the AI delivers precisely what your marketing strategy demands.",
+  "token_estimate": 152
+}

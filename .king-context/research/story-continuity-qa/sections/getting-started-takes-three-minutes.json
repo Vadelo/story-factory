@@ -1,0 +1,35 @@
+{
+  "title": "Getting started takes three minutes.",
+  "path": "getting-started-takes-three-minutes",
+  "url": "https://www.storywellapp.com/",
+  "keywords": [
+    "Storywell",
+    "world encyclopedia",
+    "Story outline templates",
+    "Three-Act structure",
+    "Hero's Journey",
+    "Visual timeline",
+    "Focus Writer",
+    "autosave",
+    "Daily collaboration digest",
+    "manuscript export",
+    "beta reader feedback",
+    "version history"
+  ],
+  "use_cases": [
+    "Use when starting a new creative writing project from a blank page or template",
+    "Implement when requiring automated tracking of characters, locations, and world-building elements",
+    "Configure when managing collaborative editing through inline comments and permission levels",
+    "Use when gathering anonymous feedback from beta readers on a completed manuscript",
+    "Configure when visualizing narrative pacing through character lanes and timelines"
+  ],
+  "tags": [
+    "getting-started",
+    "collaboration",
+    "content-management",
+    "templates"
+  ],
+  "priority": 10,
+  "content": "1. Invite your editor, share with beta readers, export when you're ready.\n2. Start writing, Storywell builds your world encyclopedia automatically.\n3. Create your project and choose your outline structure.\n\nSee everything Storywell includes\n\n- Daily collaboration digest emails\n- Full manuscript and encyclopedia export\n- Beta reader experience with anonymous feedback option\n- Editor collaboration with inline comments and permission controls\n- Story outline templates: Three-Act, Hero's Journey, Save the Cat, Snowflake, and more\n- Visual timeline with character lanes\n- Unified world encyclopedia: characters, locations, items, creatures, cultures\n- Focus Writer with autosave and version history\n\nYour story deserves a home.\n\nStart Writing Free\n\nNo credit card required. Your story, your world, your Storywell.",
+  "token_estimate": 154
+}

@@ -1,0 +1,31 @@
+{
+  "title": "III-E Results",
+  "path": "html-2503.23512v5-iii-e-results",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "narrative inconsistencies",
+    "retrieval-augmented generation",
+    "GPT",
+    "story context",
+    "narrative continuity",
+    "plot progression",
+    "character actions",
+    "evaluation accuracy",
+    "baseline comparison"
+  ],
+  "use_cases": [
+    "Use when detecting logic gaps in character behavior or plot development",
+    "Implement when comparing retrieval-augmented models against vanilla LLM baselines",
+    "Configure when processing long-form narrative content across multiple episodes",
+    "Use when filtering irrelevant metadata to improve story context understanding"
+  ],
+  "tags": [
+    "performance-metrics",
+    "RAG",
+    "natural-language-processing",
+    "evaluation"
+  ],
+  "priority": 8,
+  "content": "Our experiments demonstrated that the proposed framework significantly improved the detection of narrative inconsistencies. Evaluations using the framework were able to more accurately detect inconsistencies in character actions or plot progression. The retrieval-augmented generation process helped GPT better filter irrelevant information, understand the current story context, and improved its ability to detect narrative continuity across multiple episodes. When quantitatively compared to baseline methods, such as using GPT model alone, the proposed framework showed substantial improvements in evaluation accuracy.",
+  "token_estimate": 103
+}

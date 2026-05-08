@@ -1,0 +1,32 @@
+{
+  "title": "Follow Every Thread with the Story Timeline",
+  "path": "story-codex-follow-every-thread-with-the-story-timeline",
+  "url": "https://proseengine.app/story-codex",
+  "keywords": [
+    "Story Timeline",
+    "Character Progressions",
+    "Scene-by-Scene Events",
+    "Plot Beats",
+    "Reveals",
+    "Turning Points",
+    "Manuscript Event Tracking",
+    "Chapter Arc",
+    "Cliffhangers",
+    "Character Evolution"
+  ],
+  "use_cases": [
+    "Use when tracking individual character arcs throughout a manuscript",
+    "Implement when mapping specific plot beats to exact chapter locations",
+    "Configure when highlighting major reveals or cliffhangers to maintain pacing",
+    "Use when reviewing the chronological progression of events across multiple chapters"
+  ],
+  "tags": [
+    "story-planning",
+    "character-management",
+    "narrative-structure",
+    "user-interface"
+  ],
+  "priority": 9,
+  "content": "See how each character's arc unfolds chapter by chapter. The Story Timeline tracks every event, progression, and major reveal across your entire manuscript — so you always know where every thread left off.\n\n![Story Timeline — chapter-by-chapter event tracking with progressions, reveals, and plot beats](https://proseengine.app/assets/landing-story-timeline.png?v=1)\n\n📍\n\nScene-by-Scene Events\n\nEvery plot beat pinned to its exact chapter and location\n\n💡\n\nReveals & Turning Points\n\nMajor reveals and cliffhangers highlighted so nothing slips through\n\n🔄\n\nCharacter Progressions\n\nTrack how characters evolve from first appearance to final scene",
+  "token_estimate": 113
+}

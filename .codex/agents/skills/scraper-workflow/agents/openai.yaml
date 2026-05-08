@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scraper Workflow"
+  short_description: "Scrape docs into King Context."
+  default_prompt: "Use $scraper-workflow to scrape and index these docs into King Context."
+policy:
+  allow_implicit_invocation: true

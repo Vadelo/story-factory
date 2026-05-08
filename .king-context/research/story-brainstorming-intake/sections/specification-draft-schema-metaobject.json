@@ -1,0 +1,31 @@
+{
+  "title": "`MetaObject`",
+  "path": "specification-draft-schema-metaobject",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "MetaObject",
+    "_meta",
+    "NotificationParams",
+    "PaginatedRequestParams",
+    "ProgressToken",
+    "RequestId",
+    "modelcontextprotocol",
+    "RequestMetaObject"
+  ],
+  "use_cases": [
+    "Use when attaching protocol-level metadata to client-server interactions",
+    "Implement when handling paginated requests using an opaque cursor token",
+    "Configure when defining custom metadata keys with dot-separated prefixes",
+    "Use when associating asynchronous progress notifications with an original request",
+    "Implement when assigning unique JSON-RPC identifiers to track request lifecycle"
+  ],
+  "tags": [
+    "protocol-specification",
+    "metadata",
+    "json-rpc",
+    "pagination"
+  ],
+  "priority": 9,
+  "content": "MetaObject: Record Represents the contents of a `\\_meta` field, which clients and servers use to attach additional metadata to their interactions. Certain key names are reserved by MCP for protocol-level metadata; implementations MUST NOT make assumptions about values at these keys. Additionally, specific schema definitions may reserve particular names for purpose-specific metadata, as declared in those definitions. Valid keys have two segments: Prefix: Optional — if specified, MUST be a series of labels separated by dots (`.`), followed by a slash (`/`). Labels MUST start with a letter and end with a letter or digit. Interior characters may be letters, digits, or hyphens (`-`). Any prefix consisting of zero or more labels, followed by `modelcontextprotocol` or `mcp`, followed by any label, is reserved for MCP use. For example: `modelcontextprotocol.io/`, `mcp.dev/`, `api.modelcontextprotocol.org/`, and `tools.mcp.com/` are all reserved. Name: Unless empty, MUST start and end with an alphanumeric character (`\\[a-z0-9A-Z]`). Interior characters may be alphanumeric, hyphens (`-`), underscores (`\\_`), or dots (`.`). See General fields: `\\_meta` for more details.\n\ninterface NotificationParams {\n  _meta?: MetaObject;\n}Common params for any notification. _meta?: MetaObject\n\ninterface PaginatedRequestParams {\n  _meta?: RequestMetaObject;\n   cursor?: string;\n}Common params for paginated requests. Example: List request with cursor\n\n```\n<code class=\"json\"><span class=\"hl-0\">\\{</span><br /><span class=\"hl-0\">  </span><span class=\"hl-1\">\"cursor\"</span><span class=\"hl-0\">: </span><span class=\"hl-2\">\"eyJwYWdlIjogMn0=\"</span><br /><span class=\"hl-0\">}</span> </code><button type=\"button\">Copy</button>\n\n```\n\n_meta?: RequestMetaObject Inherited from RequestParams._meta cursor?: string An opaque token representing the current pagination position.\nIf provided, the server should return results starting after this cursor.\n\nProgressToken: string | numberA progress token, used to associate progress notifications with the original request.\n\nRequestId: string | numberA uniquely identifying ID for a request in JSON-RPC.",
+  "token_estimate": 352
+}

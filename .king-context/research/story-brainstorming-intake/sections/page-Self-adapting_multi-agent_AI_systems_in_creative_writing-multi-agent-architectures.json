@@ -1,0 +1,33 @@
+{
+  "title": "Multi-agent architectures",
+  "path": "page-Self-adapting_multi-agent_AI_systems_in_creative_writing-multi-agent-architectures",
+  "url": "https://grokipedia.com/page/Self-adapting_multi-agent_AI_systems_in_creative_writing",
+  "keywords": [
+    "multi-agent architectures",
+    "sequential topologies",
+    "parallel topologies",
+    "hierarchical topologies",
+    "state persistence",
+    "modular design",
+    "agent communication patterns",
+    "self-adapting systems",
+    "iterative refinement",
+    "collaborative dynamics"
+  ],
+  "use_cases": [
+    "Implement when simulating collaborative human-like writing workflows with specialized roles",
+    "Configure when designing systems that require global narrative coherence through top-down hierarchical strategy",
+    "Use when concurrent ideation and diverse output exploration are required via parallel processing",
+    "Implement when a linear chain of command and progressive content refinement is needed",
+    "Configure when state persistence must be maintained without a centralized memory repository"
+  ],
+  "tags": [
+    "architecture",
+    "artificial-intelligence",
+    "multi-agent-systems",
+    "system-design"
+  ],
+  "priority": 9,
+  "content": "Multi-agent architectures form the foundational structure of self-adapting systems for creative writing, enabling coordination among multiple language model-based agents to iteratively generate and refine short narratives. These architectures commonly adopt one of three typical topologies: sequential, parallel, or hierarchical. Sequential topologies process information in a linear chain, where one agent produces an output that is then passed to another for evaluation or refinement, repeating across iterations to progressively improve the narrative. Parallel topologies support concurrent processing, allowing multiple agents to generate or explore options simultaneously before aggregation or selection, which facilitates diversity in early-stage ideation. Hierarchical topologies organize agents into layered structures, with higher-level agents directing overall strategy and lower-level agents addressing specific components, creating a top-down flow that balances global coherence with detailed execution.[1] Agent communication in these systems typically follows structured patterns dictated by the chosen topology, with outputs from one agent directly informing the inputs of subsequent agents. State persistence across iterations is maintained through evolving prompts that incorporate prior outputs and feedback, or by explicitly passing intermediate results between agents, ensuring continuity without requiring a centralized blackboard or shared memory repository in most implementations.[1] Architectural designs range from flat to modular. Flat designs feature simpler interactions among a limited number of agents, emphasizing direct, iterative exchanges for stable refinement. Modular designs divide the system into distinct, specialized components, each dedicated to a particular function, which allows greater flexibility and specialization while supporting complex collaboration patterns. In creative writing applications, modular designs with specialized agents are frequently employed to replicate collaborative dynamics.[1]",
+  "token_estimate": 339
+}

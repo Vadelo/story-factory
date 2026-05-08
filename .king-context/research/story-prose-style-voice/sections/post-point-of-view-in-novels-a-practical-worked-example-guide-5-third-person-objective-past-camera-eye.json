@@ -1,0 +1,30 @@
+{
+  "title": "5) Third-Person Objective — Past (camera-eye)",
+  "path": "post-point-of-view-in-novels-a-practical-worked-example-guide-5-third-person-objective-past-camera-eye",
+  "url": "https://www.thebookcoach.co/post/point-of-view-in-novels-a-practical-worked-example-guide",
+  "keywords": [
+    "Third-Person Objective",
+    "POV",
+    "point of view",
+    "camera-eye perspective",
+    "narrative distance",
+    "subtext inference",
+    "bias-free writing",
+    "literary technique",
+    "past tense"
+  ],
+  "use_cases": [
+    "Use when aiming to minimize bias and remove internal character thoughts",
+    "Implement when the narrative requires high emotional distance or a cinematic feel",
+    "Configure when readers are intended to infer character motivations through external actions only",
+    "Use when drafting spare, tense prose that avoids metaphors and comparisons"
+  ],
+  "tags": [
+    "narrative-technique",
+    "literary-style",
+    "point-of-view"
+  ],
+  "priority": 7,
+  "content": "After morning parade, Edward stood by the chapel and looked at a crack in the stone. Officers walked toward the mess, talking and smoking their Egyptians. From around the corner came Captain Pendleton’s voice and several brief commands. Laughter followed. Edward remained out of sight.\n\nWhat changed & effect\n\nChange: Well, there are no thoughts, no comparisons, and no metaphors that signal bias.\n\nPros: It's spare, tense, and invites readers to infer subtext.\n\nCons: There's emotional distance, and it risks flatness if the prose doesn’t carry.",
+  "token_estimate": 114
+}

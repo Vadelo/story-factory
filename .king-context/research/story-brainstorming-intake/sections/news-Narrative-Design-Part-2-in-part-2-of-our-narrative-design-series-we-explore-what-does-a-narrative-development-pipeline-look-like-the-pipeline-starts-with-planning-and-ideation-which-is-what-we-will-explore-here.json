@@ -1,0 +1,30 @@
+{
+  "title": "In Part 2 of our Narrative Design series, we explore: what does a narrative development pipeline look like? The pipeline starts with planning and ideation, which is what we will explore here.",
+  "path": "news-Narrative-Design-Part-2-in-part-2-of-our-narrative-design-series-we-explore-what-does-a-narrative-development-pipeline-look-like-the-pipeline-starts-with-planning-and-ideation-which-is-what-we-will-explore-here",
+  "url": "https://blindsquirrelentertainment.com/news/Narrative-Design-Part-2/",
+  "keywords": [
+    "narrative design",
+    "narrative development pipeline",
+    "planning and ideation",
+    "game design process",
+    "production workflow",
+    "creative direction",
+    "storytelling systems",
+    "pre-production"
+  ],
+  "use_cases": [
+    "Use when establishing a standardized workflow for story-driven game development",
+    "Implement when transitioning from creative ideation to formal narrative planning",
+    "Configure when defining team roles between production, design, and marketing",
+    "Use when documenting narrative pre-production requirements"
+  ],
+  "tags": [
+    "game-design",
+    "production-workflow",
+    "narrative-systems",
+    "best-practices"
+  ],
+  "priority": 7,
+  "content": "# Blind Squirrel Design Department: Narrative Design Series\n\n#### Author: Mimi Black, Narrative Producer & Designer\n\nSupport: Haydn Dalton, Creative Director; Nathan Sumsion, Lead Game Designer; Katherine Clare, Marketing & Communications Manager",
+  "token_estimate": 42
+}

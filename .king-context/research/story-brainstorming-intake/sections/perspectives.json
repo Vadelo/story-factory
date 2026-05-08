@@ -1,0 +1,33 @@
+{
+  "title": "Perspectives",
+  "path": "perspectives",
+  "url": "https://narrativecontextprotocol.com/",
+  "keywords": [
+    "structural_pov",
+    "Objective Story Throughline Perspective",
+    "thematic conflict",
+    "Catalyst Provocateur",
+    "narrative resonance",
+    "interactive storytelling",
+    "subtext",
+    "Main Character perspective",
+    "thematic coherence",
+    "author_structural_pov"
+  ],
+  "use_cases": [
+    "Use when positioning the source of conflict to communicate intent independent of narrative style",
+    "Implement when multiple characters must share or rotate a single thematic perspective",
+    "Configure when linking specific players to an Objective Story Throughline to maintain subtext",
+    "Use when designing interactive narratives to prevent players from losing thematic direction",
+    "Implement when a single thematic role needs to be distributed across sequential characters"
+  ],
+  "tags": [
+    "narrative-architecture",
+    "thematic-mapping",
+    "character-development",
+    "interactive-storytelling"
+  ],
+  "priority": 10,
+  "content": "Perspectives are where the author positions the source of conflict to communicate the story’s intended meaning, independent of first- or third-person narrative style (those refer to storytelling, not subtext). These Perspectives shape how thematic conflicts are revealed, deepening the story by re-inforcing the author's intended message.\n\nFor example, in A Christmas Carol, each of the four ghosts (Marley included) functions thematically as a Catalyst Provocateur for Scrooge, sequentially handing off their unique perspectives from one ghost to another. While each ghost brings a distinct angle—progress, past, present, and future—their collective thematic role remains consistent: to provoke Scrooge’s transformation. Each ghost provides a unique lens on his life, amplifying narrative resonance by exploring different facets of the same thematic conflict.\n\nAnother example can be seen in Inside Out 2. Unlike the original Inside Out, where Joy alone carries the perspective of the Main Character, the sequel has both Joy and Riley sharing the same thematic perspective of Main Character. They seamlessly pass this viewpoint back and forth, allowing the audience to explore identical thematic issues through two distinct yet interconnected lenses. This shared perspective enriches the narrative by demonstrating how the same thematic conflicts can manifest uniquely in different characters, amplifying emotional resonance.\n\nThe implications for interactive narratives are significant. In interactive storytelling environments, a player might naturally gravitate towards or even assume a Main Character perspective not originally intended by the author. By clearly defining and supporting multiple perspectives within the narrative structure, the author can accommodate and guide these emergent experiences, allowing for a more personalized and meaningful interaction without losing thematic coherence or depth.\n\n```json\n\"perspectives\": [\n  {\n    \"id\": \"perspective_ab12cd34\",\n    \"author_structural_pov\": \"i\",\n    \"summary\": \"Michael Radford\",\n    \"storytelling\": \"Michael Radford has spent his life convincing himself that control is the key to survival, but every step forward only tightens the noose around him. When his instincts betray him at the worst possible moment, he’s forced to confront the truth—his carefully built defenses aren’t protecting him, they’re suffocating him.\"\n  }\n]\n\n```\n\nCharacters whose actions and motivations reveal deeper thematic layers (subtext), moving beyond superficial characterization. Each Player must be linked explicitly to an Objective Story Throughline Perspective to maintain narrative coherence.\n\n```json\n\"players\": [\n  {\n    \"id\": \"player_def456\",\n    \"name\": \"Dr. Michael Hayes\",\n    \"role\": \"the world's leading psychologist\",\n    \"visual\": \"A distinguished man in his late 50s, with silver-streaked hair and piercing blue eyes. He wears a well-tailored suit but often appear",
+  "token_estimate": 530
+}

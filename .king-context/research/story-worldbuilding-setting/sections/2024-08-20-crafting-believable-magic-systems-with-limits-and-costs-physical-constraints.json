@@ -1,0 +1,37 @@
+{
+  "title": "Physical Constraints",
+  "path": "2024-08-20-crafting-believable-magic-systems-with-limits-and-costs-physical-constraints",
+  "url": "https://myersfiction.com/2024/08/20/crafting-believable-magic-systems-with-limits-and-costs/",
+  "keywords": [
+    "Energy Depletion",
+    "spells",
+    "caster collapse",
+    "energy source",
+    "food replacement",
+    "Material Components",
+    "ingredients",
+    "Royal Vault",
+    "Physical Gestures",
+    "hand movements",
+    "iron slab",
+    "magic system"
+  ],
+  "use_cases": [
+    "Use when depicting spellcasting that drains user energy",
+    "Implement when requiring specific items as material components",
+    "Configure when designing a system where hand gestures are mandatory",
+    "Use when illustrating character fatigue over prolonged battle",
+    "Implement when limiting spell access to restricted regions or merchants",
+    "Configure when balancing resource management for game mechanics"
+  ],
+  "tags": [
+    "magic",
+    "constraints",
+    "resource-management",
+    "storytelling",
+    "character-development"
+  ],
+  "priority": 9,
+  "content": "- Energy Depletion: This type of constraint pulls energy from some source in order to be used. This is often shown with spells drawing energy from the user. Where energy is hard to be shown, you’ll often see the caster collapse after a large spell, or slowly wear down as the battle ensues. The energy can be replaced by food or other means.\n- Material Components: Requiring certain ingredients or items to operate the magic is another great physical limitation on your magic system. The ingredients could be restricted to a region, a merchant, or kept locked up in the Royal Vault. Or they could be as easy to find as walking down a path. Gathering components will become an essential aspect of magic use in this magic system.\n- Physical Gestures: Magic that requires hand movements, dance, or specific postures may not seem like much of a limitation, until your users are tied up with their hands encased in an iron slab.\n\n![](https://i0.wp.com/myersfiction.com/wp-content/uploads/2024/08/magic-limitations.jpg?w=640&ssl=1)\n\nThese are only a few examples. The ways you can physically limit your character’s magic should be tested and played with as you prepare and write the first draft of your story.",
+  "token_estimate": 260
+}

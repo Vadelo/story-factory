@@ -1,0 +1,35 @@
+{
+  "title": "Documentation",
+  "path": "aihxp-scriven-documentation",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "Voice DNA",
+    "Proof Artifacts",
+    ".manuscript/config.json",
+    "Command Reference",
+    "Work Types",
+    "KDP",
+    "IngramSpark",
+    "multi-language pipeline",
+    "runtime matrix",
+    "Scriven"
+  ],
+  "use_cases": [
+    "Use when setting up the initial workspace and installing the toolkit in 10 minutes",
+    "Implement when profiling a voice across 15+ dimensions using Voice DNA",
+    "Configure when managing project constraints via .manuscript/config.json",
+    "Use when exporting manuscripts to KDP, IngramSpark, or other submission packages",
+    "Configure when navigating 108 distinct CLI commands and flags",
+    "Implement when adapting Scriven's vocabulary to specific religious or cultural traditions"
+  ],
+  "tags": [
+    "documentation",
+    "architecture",
+    "publishing",
+    "configuration",
+    "workflow"
+  ],
+  "priority": 10,
+  "content": "- [Proof Artifacts](docs/proof-artifacts.md) -- Canonical proof hub for the watchmaker sample flow and Voice DNA before/after bundle\n- [Getting Started](docs/getting-started.md) -- Install to first draft in 10 minutes\n- [Command Reference](docs/command-reference.md) -- All 108 commands with usage, flags, and examples\n- [Work Types Guide](docs/work-types.md) -- How 50 work types adapt Scriven's vocabulary\n- [Voice DNA Guide](docs/voice-dna.md) -- The 15+ dimension voice profiling system\n- [Publishing Guide](docs/publishing.md) -- 13 export formats, KDP, IngramSpark, submission packages\n- [Sacred Text Guide](docs/sacred-texts.md) -- 15 sacred work types, voice registers, tradition-native features\n- [Translation Guide](docs/translation.md) -- Multi-language pipeline with glossary and cultural adaptation\n- [Contributing](docs/contributing.md) -- How to add commands, agents, work types, and templates\n- [Architecture](docs/architecture.md) -- How Scriven works under the hood\n- [Configuration](docs/configuration.md) -- Package, installer, constraints, and `.manuscript/config.json` surfaces\n- [Development](docs/development.md) -- Contributor workflow for changing commands, templates, installer logic, and docs\n- [Testing](docs/testing.md) -- What the test suite covers and which checks to run before shipping\n- [Release Notes](docs/release-notes.md) -- Public summary of what changed between package releases\n- [Shipped Assets](docs/shipped-assets.md) -- Canonical inventory of bundled export templates and launch-critical files\n- [Runtime Support](docs/runtime-support.md) -- Canonical runtime matrix, Node baseline, and verification-status framing\n\n---",
+  "token_estimate": 258
+}

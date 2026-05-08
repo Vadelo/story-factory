@@ -1,0 +1,31 @@
+{
+  "title": "The Mistakes That Kill Reader Trust",
+  "path": "scene-audit-the-mistakes-that-kill-reader-trust",
+  "url": "https://proseengine.app/scene-audit",
+  "keywords": [
+    "story details",
+    "canon audit",
+    "plot hole",
+    "reader trust",
+    "internal consistency",
+    "character continuity",
+    "contradiction detection",
+    "narrative immersion",
+    "scene audit"
+  ],
+  "use_cases": [
+    "Use when validating character biological details and traits across multiple chapters",
+    "Implement when performing a narrative integrity check to prevent plot holes",
+    "Configure when seeking to maintain high reader immersion levels through flawless continuity",
+    "Use when auditing long-form manuscripts to identify inconsistencies in established lore"
+  ],
+  "tags": [
+    "quality-assurance",
+    "narrative-design",
+    "proofreading",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "Readers are remarkably good at tracking story details — often better than the authors who wrote them. They remember that the protagonist's sister was mentioned as younger in chapter three but older in chapter fifteen. They notice when a character who was established as left-handed suddenly draws a sword with their right. They catch when a locked room suddenly has an unlocked window that was never mentioned before.\n\nEvery inconsistency is a crack in your story's foundation. One or two might go unnoticed. But they accumulate. By the time a reader has found three or four contradictions, they have mentally downgraded your book from \"immersive\" to \"sloppy.\" They start reading critically instead of reading for pleasure. And critical readers leave critical reviews.\n\nThe worst part is that these mistakes are entirely preventable. They exist because no human can hold 100,000 words of detail in their head simultaneously. You wrote chapter three six months ago. Of course you forgot what you established about the sister's age. The scene and canon audit does not forget. It checks everything against everything, every time.\n\nOne verified plot hole in a published book can define its reputation. Reader forums, Goodreads reviews, and social media discussions fixate on contradictions. A story that is 99% consistent but has one glaring plot hole will be remembered for the hole — not the 99%.",
+  "token_estimate": 299
+}

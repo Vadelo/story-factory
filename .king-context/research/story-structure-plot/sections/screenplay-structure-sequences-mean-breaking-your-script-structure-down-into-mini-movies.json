@@ -1,0 +1,34 @@
+{
+  "title": "Sequences mean breaking your script structure down into \"mini-movies.\"",
+  "path": "screenplay-structure-sequences-mean-breaking-your-script-structure-down-into-mini-movies",
+  "url": "https://www.scriptreaderpro.com/screenplay-structure/",
+  "keywords": [
+    "mini-movie",
+    "sequence",
+    "3-act structure",
+    "climax",
+    "protagonist",
+    "ordinary world",
+    "call to action",
+    "Act 1 turning point",
+    "mini-story",
+    "ten-to-fifteen-minutes"
+  ],
+  "use_cases": [
+    "Use when dividing a script into clear, self-contained units with their own stories.",
+    "Implement when you want each portion of a film to have an internal arc that ends with a climax.",
+    "Configure when you want to map scenes to specific sequences to maintain pacing and intensity.",
+    "Apply when planning a screenplay so the protagonist’s journey progresses through predictable turning points.",
+    "Adopt when you need to assign duration guidelines (10-15 minutes) to each sequence for timing control."
+  ],
+  "tags": [
+    "screenwriting",
+    "film structure",
+    "narrative design",
+    "storyboarding",
+    "script format"
+  ],
+  "priority": 10,
+  "content": "The easiest way to approach sequences is to think of them as self-contained “mini-movies.” This is because they each give the protagonist a mini-story that builds through its own 3-act structure toward a climax/major plot point.\n\nEach of the seven or eight sequences last roughly ten to fifteen minutes long. Put together, end-to-end, they make up the whole movie.\n\nFor example, at the start of the film, we’re often shown the protagonist’s “ ordinary world.\" This first sequence builds its own little story until it reaches a climax when the protagonist's world is changed by the call to action.\n\nThe next sequence then builds in intensity as the protagonist reacts to this event. It ends with its own climax when they make a big decision at the Act 1 turning point. And so on, throughout the film.\n\nThink of a random scene in any movie. Got one? Good. That scene is not just floating around somewhere in the three acts. It's showing us the protagonist in the middle of a story specific to that sequence.",
+  "token_estimate": 232
+}

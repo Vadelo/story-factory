@@ -1,0 +1,32 @@
+{
+  "title": "5. Growth Consistency",
+  "path": "how-to-keep-characters-consistent-across-a-book-series-5-growth-consistency",
+  "url": "https://blog.proseweave.ai/how-to-keep-characters-consistent-across-a-book-series/",
+  "keywords": [
+    "Growth Consistency",
+    "Character Arc",
+    "Regression",
+    "The Reset Button",
+    "Catalyst",
+    "Motivated Change",
+    "Psychological State",
+    "Emotional Baseline",
+    "Conflict Management",
+    "Trait Development"
+  ],
+  "use_cases": [
+    "Use when mapping long-form character progression across a series",
+    "Implement when designing catalysts for psychological shifts",
+    "Configure when auditing character regressions to ensure they are intentional",
+    "Use when tracking continuity of personality traits between chapters or books"
+  ],
+  "tags": [
+    "narrative-design",
+    "character-development",
+    "creative-writing",
+    "storytelling-frameworks"
+  ],
+  "priority": 8,
+  "content": "How characters change over time — the hardest dimension:\n\n- Growth must feel earned, not arbitrary\n- Change should build on established traits, not contradict them\n- A character overcoming a fear needs a believable catalyst\n- Regression is valid, but it needs to be intentional and motivated\n\nCommon pitfall: The \"reset button\" — a character who grows in one book but reverts to their old behavior in the next because the author needed conflict.\n\nSystem: Chart each major character's arc across the series. Where do they start? What events change them? Where should they be, emotionally and psychologically, at the start of each subsequent book?",
+  "token_estimate": 140
+}

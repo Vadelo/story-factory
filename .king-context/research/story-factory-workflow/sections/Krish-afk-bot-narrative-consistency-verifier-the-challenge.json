@@ -1,0 +1,32 @@
+{
+  "title": "The Challenge",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-the-challenge",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "constraint-based reasoning pipeline",
+    "atomic verifiable claims",
+    "semantic search",
+    "temporal constraints",
+    "causal constraints",
+    "deterministic binary decisions",
+    "rule-based logic",
+    "factual consistency",
+    "backstory verification",
+    "implicit contradictions"
+  ],
+  "use_cases": [
+    "Use when validating long-form literary narratives for internal consistency across 100k+ words",
+    "Implement when checking if character actions align with established beliefs and motivations",
+    "Configure when requiring a traceable, deterministic logic for claim verification instead of black-box LLM reasoning",
+    "Use when simple vector retrieval fails to capture implicit contradictions in complex documentation or stories"
+  ],
+  "tags": [
+    "validation",
+    "natural-language-processing",
+    "logic-reasoning",
+    "data-integrity"
+  ],
+  "priority": 9,
+  "content": "Literary narratives establish complex constraints across hundreds of pages:\n\n- **Temporal constraints**: Events must occur in valid chronological order\n- **Causal constraints**: Character actions must align with stated beliefs and motivations\n- **Factual constraints**: Backstory claims must not contradict established facts\n- **Relationship constraints**: Character dynamics must remain internally consistent\n\n**The Problem**: A human reader would need hours to verify a single backstory claim against an entire novel. Existing NLP approaches fail because:\n\n- LLMs cannot fit 100k+ words in context\n- Simple search misses implicit contradictions\n- QA systems retrieve facts but don't reason about consistency\n- Summarization loses critical details\n\n---\n\nA **constraint-based reasoning pipeline** that:\n\n1. Breaks backstories into atomic, verifiable claims\n2. Retrieves relevant evidence from the full novel using semantic search\n3. Analyzes claim-evidence relationships using rule-based logic\n4. Makes deterministic binary decisions: **Consistent** or **Contradictory**\n\n**Key Insight**: Instead of asking an LLM \"is this consistent?\", we decompose the problem into structured reasoning steps with traceable logic.\n\n---",
+  "token_estimate": 216
+}

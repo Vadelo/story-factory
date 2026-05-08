@@ -1,0 +1,30 @@
+{
+  "title": "Mission",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-mission",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "character backstory",
+    "logical consistency",
+    "narrative arc",
+    "long-form content analysis",
+    "100,000+ word novels",
+    "character development",
+    "relationship mapping",
+    "event-history verification",
+    "narrative synchronization"
+  ],
+  "use_cases": [
+    "Use when validating if a new plot point contradicts established lore",
+    "Implement when auditing character arcs in high-word-count manuscripts",
+    "Configure when seeking automated consistency checks for complex fictional timelines",
+    "Use when reconciling character relationships against previous interactions"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "content-validation",
+    "quality-assurance"
+  ],
+  "priority": 10,
+  "content": "Determine whether a proposed character backstory is logically consistent with events, relationships, and character development in a 100,000+ word novel—without reading the entire book manually.\n\n---",
+  "token_estimate": 34
+}

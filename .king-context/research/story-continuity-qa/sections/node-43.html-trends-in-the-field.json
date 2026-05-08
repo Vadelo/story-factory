@@ -1,0 +1,36 @@
+{
+  "title": "Trends in the Field",
+  "path": "node-43.html-trends-in-the-field",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "planning formalisms",
+    "sujet",
+    "fabulae",
+    "causal chain of events",
+    "interactive narrative",
+    "story generator algorithms",
+    "non-linguistic input",
+    "text generation templates",
+    "mythos",
+    "authorial control",
+    "narrative progression",
+    "state transformation"
+  ],
+  "use_cases": [
+    "Use when reconstructing causal chains from narrative sentences to understand story logic",
+    "Implement when balancing authorial control with user agency in interactive game engines",
+    "Configure when mapping non-linguistic data to text snippets using template-based generation",
+    "Use when modeling character goals and mental states within a formal planning framework",
+    "Implement when developing metrics for aesthetic satisfaction in automated story generation"
+  ],
+  "tags": [
+    "computational-linguistics",
+    "narrative-theory",
+    "artificial-intelligence",
+    "interactive-media",
+    "natural-language-generation"
+  ],
+  "priority": 8,
+  "content": "The search for generic computational methods that could be used across narratives focused attention in the 1970s on planning formalisms. The spotlight has remained there ever since, although the planning techniques have evolved to accommodate ever-wider narratological concerns. In planning terms, to understand a story requires inferring, based on the Aristotelian notion of mythos, the causes of the events in the story and the goals of the characters involved—in effect, reconstructing from the sentences in the sujet a plan that corresponds to a causal chain of events (or operators) that can transform the initial state of the storyworld into the final state. The inferred events in the chain can include mental states and actions that may or may not be explicitly mentioned in the sujet. Story understanding systems (e.g. Wilensky 1978) never got very far, since (i) inferring characters’ goals involves a large search space and the inferences may need to be revised during processing and (ii) humans use a great deal of knowledge to interpret even simple stories. Given Forster’s exemplifying sentence “The king died and the queen died of grief,” a child has no difficulty figuring out why the queen was upset, but imparting a body of such commonsense knowledge to a computer is difficult; (iii) aspects of language that are hard to formalize but that are important for story interpretation, such as humor, irony, and subtle lexical associations, have by and large eluded computational approaches.\n\nHowever, planning of fabulae for story generation, where the author can limit the system considerably, has proved more viable (Gervás→ Story Generator Algorithms).\n\nIn recent years, interactive narrative has been the major driver in the field, promising new varieties of aesthetic experience, aided by game engines and vivid animations. One of the challenges here (Mateas & Stern 2005) is retaining authorial control over the plot while granting some freedom to the user (who may act as an animated protagonist) in shaping the evolution of the narrative. Empowering the user can lead to aesthetically unsatisfying outcomes, but restricting her through constraints from the plot can limit engagement. The need for generation of text snippets and dialogue rather than full stories (Fludernik→ Conversational Narration – Oral Narration) to accompany storyworld animations has also spurred a trend of increased use of text generation based on templates that map non-linguistic input directly to the linguistic output form, sacrificing linguistic generalization for rapid prototyping. Overall, key issues include the modeling of narrative progression and the invention of suitable metrics for aesthetic satisfaction (Mani 2010a, 2010b).",
+  "token_estimate": 555
+}

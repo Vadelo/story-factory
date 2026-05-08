@@ -1,0 +1,31 @@
+{
+  "title": "Unreliable Narrators",
+  "path": "blog-subverting-reader-expectations-unreliable-narrators",
+  "url": "https://www.richellebraswell.com/blog/subverting-reader-expectations",
+  "keywords": [
+    "Unreliable Narrator",
+    "Narrative Style",
+    "Plot Twist",
+    "Subverting Expectations",
+    "Gone Girl",
+    "Amy's Diary Entries",
+    "First-person Perspective",
+    "Character Revelation",
+    "Suspense Mechanics",
+    "Reader Trust"
+  ],
+  "use_cases": [
+    "Use when crafting a psychological thriller to keep the reader guessing about the protagonist's motives",
+    "Implement when designing a plot twist that requires re-evaluating previously established facts",
+    "Configure when seeking to subvert literary tropes and challenge audience expectations"
+  ],
+  "tags": [
+    "Literary Devices",
+    "Narrative Techniques",
+    "Creative Writing",
+    "Character Development"
+  ],
+  "priority": 8,
+  "content": "Though some people may object to this narrative style as being confusing or even “cheating,” an unreliable narrator leaves room to subvert expectations. In Gillian Flynn’s Gone Girl, our initial narrator, Nick, is revealed as unreliable early on when he notes he lied to the police for the fifth time without informing readers what was a lie and what was the truth. We also have diary entries from Amy, whose character is suddenly revealed to be unreliable halfway through the book, and thus her diary entries become suspect. Nick’s unreliable narration makes readers wonder what is true from the beginning. Then Amy’s plot twist makes them see the story and characters in a whole different light.",
+  "token_estimate": 154
+}

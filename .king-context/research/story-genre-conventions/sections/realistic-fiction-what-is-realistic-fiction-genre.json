@@ -1,0 +1,32 @@
+{
+  "title": "What is Realistic Fiction Genre?",
+  "path": "realistic-fiction-what-is-realistic-fiction-genre",
+  "url": "https://bookishbay.com/realistic-fiction/",
+  "keywords": [
+    "realistic fiction",
+    "literary genre",
+    "plausible conflict",
+    "authenticity",
+    "character development",
+    "setting",
+    "everyday life narrative",
+    "non-speculative",
+    "coming of age",
+    "verisimilitude"
+  ],
+  "use_cases": [
+    "Use when defining literary genres in a curriculum or database",
+    "Implement when categorizing fiction manuscripts based on narrative elements",
+    "Configure when establishing criteria for non-speculative creative writing projects",
+    "Use when distinguishing grounded narratives from fantasy or science fiction"
+  ],
+  "tags": [
+    "literary-classification",
+    "genre-definitions",
+    "curriculum-standards",
+    "narrative-theory"
+  ],
+  "priority": 9,
+  "content": "This section examines core features of the genre and how it is distinguished from other types of fiction.\n\nKey attributes of realistic fiction include:\n\n- A setting that seems like it could actually happen or could exist in real life.\n- Characters who behave like people we might meet, facing plausible conflicts such as job loss, love, family tension, coming of age.\n- A plot anchored in everyday life, rather than fantastical or speculative environments.\n- Absence of overt magical or supernatural elements; the world resembles ours.",
+  "token_estimate": 115
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Section Links",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-section-links",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "Section Links",
+    "Prompt Personas",
+    "Stepwise Generation Process",
+    "Sample Scene Walkthrough",
+    "Anti-AIism Safeguards",
+    "Customization",
+    "Inputs",
+    "Framing",
+    "Troubleshooting"
+  ],
+  "use_cases": [
+    "Use when navigating complex documentation structures through centralized linking.",
+    "Implement when setting up persona-based framing for generative AI tasks.",
+    "Configure when designing a multi-step generation workflow.",
+    "Use when troubleshooting output inconsistencies using best practices.",
+    "Apply when establishing safeguards against AI-generated content biases."
+  ],
+  "tags": [
+    "documentation-navigation",
+    "prompt-engineering",
+    "process-workflow",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "1. INTRODUCTION\n2. INPUTS\n3. PROMPT PERSONAS & FRAMING\n4. STEPWISE GENERATION PROCESS\n5. SAMPLE SCENE WALKTHROUGH\n6. CUSTOMIZATION & TROUBLESHOOTING\n7. BEST PRACTICES & ANTI-AIISM SAFEGUARDS",
+  "token_estimate": 35
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Double Man in a Hole Plot Diagram",
+  "path": "plot-double-man-in-a-hole-plot-diagram",
+  "url": "https://thewritepractice.com/plot",
+  "keywords": [
+    "double man in a hole",
+    "man in a hole",
+    "exposition",
+    "inciting incident",
+    "rising action",
+    "pinch point",
+    "midpoint",
+    "dilemma",
+    "climax",
+    "denouement",
+    "happy ending"
+  ],
+  "use_cases": [
+    "Use when outlining a story that requires the protagonist to face multiple setbacks and triumphs",
+    "Implement when creating a narrative structure with a clear initial success, subsequent problems, and eventual resolution",
+    "Configure when designing a screenplay that follows a classic rise-fall-rise plot arc",
+    "Apply when teaching creative writing classes on multi-looped story beats",
+    "Adopt when analyzing bestseller structures for common story patterns",
+    "Deploy when writing game narratives that loop challenges and rewards"
+  ],
+  "tags": [
+    "story-arc",
+    "narrative-structure",
+    "plot-structures"
+  ],
+  "priority": 8,
+  "content": "Building upon the “man in a hole” arc is the “double man in a hole” arc, one of the most popular shapes for stories, appearing in many bestselling novels and blockbuster films. Like man in a hole, it begins with a character who is in a great place, but soon gets into trouble. They get themselves out of trouble, but then they get back into trouble again. Finally, they get back out of trouble, and the story ends with a happy ending.\n\nHere's how the plot elements work in this arc:\n\n1. The exposition, as always, introduces us to the protagonist, their world, and the elements that will soon interrupt their general well-being.\n2. Like the man in a hole story arc, the inciting incident in a double man in a hole arc pushes the main character into a hole, a problem or situation.\n3. The rising action of this story arc contains a lot of movement, as the problem worsens before reaching a turning point (sometimes called a pinch point) when things begin to improve before reaching the midpoint. However, soon after, the main character descends into another hole, perhaps caused by the same problem or a new one.\n4. The dilemma occurs at some point in this second hole, likely at or near the bottom.\n5. This is followed by the climax, in which the protagonist's choice plays out.\n6. The denouement resol",
+  "token_estimate": 312
+}

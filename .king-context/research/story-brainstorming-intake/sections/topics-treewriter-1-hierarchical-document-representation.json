@@ -1,0 +1,34 @@
+{
+  "title": "1. Hierarchical Document Representation",
+  "path": "topics-treewriter-1-hierarchical-document-representation",
+  "url": "https://www.emergentmind.com/topics/treewriter",
+  "keywords": [
+    "rooted tree T=(V,E)",
+    "preorder traversal",
+    "v.export",
+    "v.content",
+    "addChild",
+    "removeNode",
+    "linearization",
+    "document-as-code",
+    "LLM-aided generation",
+    "bi-directional drafting",
+    "planning scaffolds"
+  ],
+  "use_cases": [
+    "Use when structuring large documents into manageable, hierarchical nodes",
+    "Implement when needing to convert tree-based structures into linear text via preorder traversal",
+    "Configure when enabling LLM-driven subsection splitting and outline generation",
+    "Use when syncing content between a high-level summary and detailed paragraphs",
+    "Implement when building drag-and-drop interfaces for document reordering"
+  ],
+  "tags": [
+    "data-structures",
+    "document-modeling",
+    "api-reference",
+    "llm-integration"
+  ],
+  "priority": 10,
+  "content": "TreeWriter encodes each document as a rooted tree T=(V,E)T = (V, E), where nodes v∈Vv \\in V capture discrete textual or structural atoms and edges EE embody parent-child relationships. The root corresponds to the entire document. Each node encapsulates:\n\n- v.idv.\\text{id}: unique node identifier,\n- v.titlev.\\text{title}: descriptive heading,\n- v.contentv.\\text{content}: editable rich text (supporting prose, bullet points, and hyperlinks),\n- v.exportv.\\text{export} (optional): export block for linear output,\n- parent(v)\\text{parent}(v) and children(v)\\text{children}(v) references.\n\nNon-leaf nodes generally store planning scaffolds, summaries, or multi-level outlines; leaf nodes contain final prose or paragraphs unless superseded by an export block. Document linearization is achieved by preorder traversal, with the linear output constructed as:\n\nLinearOutput=concatv∈P(T) Export(v)\\text{LinearOutput} = \\mathrm{concat}_{v \\in P(T)} \\, \\text{Export}(v)\n\nwhere P(T)P(T) traverses nodes in sibling order, extracting v.exportv.\\text{export} if defined, otherwise a leaf's content.\n\nFundamental tree operations are exposed: node creation (addChild), deletion (removeNode), drag-and-drop reordering, “Split into subsections” (LLM-aided generation of children splitting v.contentv.\\text{content}), summarization (\"Generate outline from children\"), and bi-directional drafting (synchronized outline↔paragraph generation).",
+  "token_estimate": 216
+}

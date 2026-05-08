@@ -1,0 +1,33 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2402.03483v1-1-introduction",
+  "url": "https://arxiv.org/html/2402.03483v1",
+  "keywords": [
+    "SWAG algorithm",
+    "action discriminator LLM",
+    "Direct Preference Optimization",
+    "Reinforcement Learning with Human Feedback",
+    "Long-form story generation",
+    "KL divergence penalty",
+    "Proximal Policy Optimization",
+    "Storytelling as a search problem",
+    "Alignment techniques",
+    "Constraint reward maximization",
+    "Iterative generation"
+  ],
+  "use_cases": [
+    "Implement when needing to generate coherent long-context narratives that exceed typical context window stability",
+    "Configure when requiring fine-grain control over plot progression through an action-based feedback loop",
+    "Use when aligning language models with human preferences using DPO or RLHF for creative writing",
+    "Deploy when structuring story generation as a search problem to identify optimal narrative paths"
+  ],
+  "tags": [
+    "Natural Language Generation",
+    "Model Alignment",
+    "Machine Learning Research",
+    "Creative AI"
+  ],
+  "priority": 10,
+  "content": "Large language models (LLMs) have recently changed the landscape of content generation. A number of works have proposed techniques for short story generation (Fan et al., 2018; Wilmot & Keller, 2021; Rashkin et al., 2020; Xu et al., 2018). However, it has been a major challenge for AI to generate long-form stories that are both coherent and interesting (Oatley, 1995; Charniak, 2004; Alabdulkarim et al., 2021a). This remains a challenge with SoTA LLMs such as GPT-4 (OpenAI, 2023), Llama-2 (Touvron et al., 2023), and Mistral (Jiang et al., 2023).\n\nWhile new LLMs have impressive content generation abilities, these models can have unstable outputs due to their unsupervised training objective. Recent advancements in alignment techniques for LLMs allow more control over output generation. Reinforcement Learning with Human Feedback (RLHF) (Christiano et al., 2023) is a popular alignment paradigm that requires training a reward model on a dataset of human preferences and fine-tuning the LLM to maximize the reward while ensuring that the model does not drift too far from the original pretrained model. This process can be complex and expensive, producing unstable results due to the imperfect reward model or other issues with approximating the KL divergence penalty. Direct Preference Optimization (DPO) (Rafailov et al., 2023) is another technique for aligning language models which optimizes the constrained reward maximization problem in RLHF in a single step of policy training. DPO is much more computationally efficient and stable, with similar or improved performance compared to existing RLHF techniques such as RLHF with proximal policy optimization (PPO) (Schulman et al., 2017).\n\nWe propose SWAG, an algorithm for iteratively generating engaging and captivating stories using LLMs. In our work, we structure storytelling as a search problem. This paradigm allows us to formulate the problem as finding the “optimal path” in a search space of possible stories given a story idea. By having another model guide the LLM during the story writing process, we can improve control over the story direction and create more engaging content. At a high level, we train an action discriminator LLM (AD LLM) to determine the next best action to take given the current state of a story. Using the generated action, we prompt another LLM to write the next part of the story based on the given action. This feedback loop can generate long-context stories that are fascinating and amusing to read. The main component of our system is the AD LLM, which helps pave the path for the story by selecting the next best “action” to continue the story. This AD LLM can be paired with any open-source model (e.g. Llama-2-7B, Mistral-7B) or closed models (e.g. OpenAI’s GPT-4) for generating the story. Our algorithm offers a simplified approach to storytelling, allowing for fine-grain control over the story content progression while providing the flexibility to integrate custom models for writing the story or using LLM services offered by other companies through APIs.",
+  "token_estimate": 642
+}

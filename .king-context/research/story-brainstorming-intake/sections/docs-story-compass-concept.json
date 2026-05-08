@@ -1,0 +1,30 @@
+{
+  "title": "Concept ​",
+  "path": "docs-story-compass-concept",
+  "url": "https://dramatica.com/docs/story-compass",
+  "keywords": [
+    "Story Decoder",
+    "Throughline Perspectives",
+    "Storyform",
+    "narrative map",
+    "audience dynamics",
+    "structural choices",
+    "premise translation",
+    "story discovery"
+  ],
+  "use_cases": [
+    "Use when identifying the four Throughline Perspectives of a new story idea",
+    "Use when translating a fuzzy premise into a workable narrative map before drafting",
+    "Use when seeking to formalize explicit structural choices for a narrative",
+    "Configure when the current story premise feels under-specified or lacks direction"
+  ],
+  "tags": [
+    "narrative-design",
+    "story-discovery",
+    "structural-analysis",
+    "pre-drafting"
+  ],
+  "priority": 9,
+  "content": "Story Decoder is an early-stage Storyform discovery tool. It identifies the four Throughline Perspectives, proposes key audience dynamics, and translates your premise into a workable narrative map.\n\nPlain-language translation: Story Decoder helps you see what kind of argument your story is already trying to make before you start drafting scenes.\n\nMost story ideas feel clear in your head but fuzzy on the page. Story Decoder turns that fuzzy idea into explicit structural choices so you can write with direction instead of guessing.\n\nWhen the four Throughline Perspectives and core dynamics are visible, you can decide what to draft first, what to revise, and where your current premise is under-specified.",
+  "token_estimate": 144
+}

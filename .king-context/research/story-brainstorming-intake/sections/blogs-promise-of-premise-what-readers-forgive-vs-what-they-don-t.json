@@ -1,0 +1,34 @@
+{
+  "title": "What Readers Forgive vs. What They Don’t",
+  "path": "blogs-promise-of-premise-what-readers-forgive-vs-what-they-don-t",
+  "url": "https://alamrafiul.com/blogs/promise-of-premise/",
+  "keywords": [
+    "narrative voice shift",
+    "stakes deflation",
+    "tonal inconsistency",
+    "bait-and-switch genre",
+    "unreliable narrators",
+    "scope promise",
+    "implicit question",
+    "opening contract",
+    "narrative stakes",
+    "pacing justification",
+    "genre marketing"
+  ],
+  "use_cases": [
+    "Use when establishing the initial narrative contract between author and audience",
+    "Implement when checking for consistency between an opening hook and the resolution",
+    "Configure when balancing personal character stakes with epic world-building",
+    "Use when evaluating whether a shift in narrative perspective or genre is justified",
+    "Configure when drafting implicit questions to drive reader engagement"
+  ],
+  "tags": [
+    "narrative-theory",
+    "creative-writing",
+    "story-structure",
+    "audience-engagement"
+  ],
+  "priority": 9,
+  "content": "Readers are remarkably forgiving of:\n\n- Unreliable narrators if the opening winked at that unreliability\n- Ambiguous endings if the opening suggested exploration over answers\n- Complex plots if the opening promised complexity\n- Slow pacing if the prose justifies it\n\nReaders are unforgiving of:\n\n- Narrative voice shift (first person becomes distant third person with no reason)\n- Stakes deflation (opening promises world-ending danger, delivers interpersonal drama)\n- Tonal inconsistency (comedy that suddenly turns earnest)\n- Bait-and-switch genre (marketed as thriller, actually literary meditation)\n\nYour opening establishes what’s at risk and what scale of conflict to expect.\n\n“Mother died today. Or maybe yesterday; I can’t be sure.”\n\n- Albert Camus, The Stranger\n\nPromise: This is about one man’s psychological state and perception, not external plot.\n\nIf the novel suddenly became an international spy thriller, readers would revolt.\n\n“The sky above the port was the color of television, tuned to a dead channel.”\n\n- William Gibson, Neuromancer\n\nPromise: This will be big-technologically complex, world-spanning, high-concept.\n\nScaling down to a domestic drama about Case’s relationship with his mother would break the scope promise.\n\nThe Hunger Games manages both: personal (Katniss protecting her sister) and epic (totalitarian dystopia forcing children to murder each other).\n\nPromise: You’ll get both scales-intimate emotion and big-picture politics.\n\nAnd Collins delivers. The entire series toggles between Katniss’s personal trauma and the revolution she accidentally catalyzes.\n\nEvery strong opening poses a question. That question is a promise to eventually provide an answer-or at minimum, meaningful exploration.\n\n“It was a queer, sultry summer, the summer they electrocuted the Rosenbergs, and I didn’t know what I was doing in New York.”\n\n- Sylvia Plath, The Bell Jar\n\nImplicit question: What was she doing in New York, and why does she connect it to the Rosenbergs’ execution?\n\nPromise: This confusion and displacement will be explored.\n\n“I am an invisible man.”\n\n- Ralph Ellison, Invisible Man\n\nImplicit question: Invisible how? Why?\n\nPromise: This condition will be examined from multiple angles.\n\n“When I wake up, the other side of the bed is cold.”\n\n- Suzanne Collins, The Hunger Games\n\nImplicit question: Why is the bed cold? Who’s missing?\n\nPromise: This absence matters, and its significance will be revealed.",
+  "token_estimate": 485
+}

@@ -1,0 +1,36 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2601.03785v1-1-introduction",
+  "url": "https://arxiv.org/html/2601.03785v1",
+  "keywords": [
+    "membox",
+    "Topic Loom",
+    "Trace Weaver",
+    "topic continuity",
+    "fragmentation-compensation paradigm",
+    "macro-topic stability",
+    "micro-topic drift",
+    "vector similarity search",
+    "semantic-proximity bias",
+    "thematic cohesion",
+    "sliding-window",
+    "hierarchical memory architecture"
+  ],
+  "use_cases": [
+    "Use when agent memory systems suffer from structural breakage and lost temporal flow",
+    "Implement when multi-turn dialogues require tracking of drifting topics and long-range macro-topics",
+    "Configure when reducing computational cost and context token overhead in LLM memory retrieval",
+    "Use when vector-based similarity search fails to capture lexical variations of the same thematic context",
+    "Implement when modeling discourse theory's hierarchical levels of interaction"
+  ],
+  "tags": [
+    "memory-systems",
+    "agent-architecture",
+    "information-retrieval",
+    "discourse-theory",
+    "llm-optimization"
+  ],
+  "priority": 10,
+  "content": "Human memory and discourse are inherently structured, integrating temporally contiguous and thematically related events into cohesive episodes. Cognitive psychology shows that working memory organizes experience through chunking and contextual binding Miller (1956); Tulving (1983); Baddeley (2000), enabling coherent recall that preserves temporal order and causal relationships—a form of continuity that integrates temporal–causal consistency with thematic cohesion, and is crucial for meaningful episodes. This continuity is essential for sustaining intentions, supporting evolving goals, and maintaining extended narratives—yet most current LLM agent memory systems struggle to preserve it.\n\nBuilding on this theoretical framing, discourse theory further formalizes continuity as a hierarchical process, with stable macro‑topics encompassing dynamically drifting micro‑topics Grosz and Sidner (1986); Schiffrin (1994). In practice, however, most existing agent memory systems Zhong et al. (2024); Xu et al. (2025); Chhikara et al. (2025) embody a fundamental contradiction. We characterize this prevailing approach as the fragmentation-compensation paradigm, as shown in Figure 1. It first severs the natural continuity of discourse by slicing interaction streams into isolated textual fragments for storage. In a compensatory step, it then attempts to reconstitute coherence by relying on embedding‑based vector similarity search. This produces a self‑defeating cycle in information reconstruction: the initial fragmentation irreparably destroys the narrative and logical structures, while the subsequent retrieval mechanism introduces limitations in recovering narrative structures. As a result, two systematic failures emerge: (1) structural breakage—logically connected events lose coherence when segmented into storage fragments, preventing reconstruction of the original temporal and causal flow; and (2) semantic‑proximity bias—retrieval mechanisms miss relevant context when related utterances differ lexically but share situational or thematic continuity Gao et al. (2021); Henderson et al. (2020).\n\nFigure 1: The Fragmentation-Compensation Paradigm: Disrupting Continuity with Ineffective Embedding-Based Recovery\n\n![Refer to caption](https://arxiv.org/html/x1.png)\n\nTo remedy these limitations, we place topic continuity—a stable thematic structure sustained over temporally contiguous utterances—at the core of agent memory design. We introduce membox, a hierarchical memory architecture that explicitly models the macro‑topic stability and micro‑topic drift described by discourse theory. At the heart of membox is the Topic Loom—a sliding‑window, LLM‑guided module that continuously scans the dialogue stream, grouping consecutive same‑topic messages into coherent “memory boxes” and cleanly cutting where thematic shifts occur. This process preserves the evolving fabric of micro‑topics, ensuring that local continuity is captured during storage rather than reconstructed post‑hoc. Then, the Trace Weaver links these finished boxes across true discontinuities, recovering recurring macro‑topics into persistent event‑timeline traces. In this way, membox maintains narrative integrity both locally (Topic Loom) and globally (Trace Weaver). Figure 2 illustrates the two‑stage memory architecture.\n\nOur contributions are threefold: (1) We introduce and formalize topic continuity as a central organizing principle for agent memory, defining it through the dual dynamics of macro-topic stability and micro-topic drift; (2) we design the membox architecture, centering on the Topic Loom for sliding‑window topic weaving and long‑range topic linking; and (3) we empirically demonstrate that membox achieves superior retrieval and reasoning performance in multi‑turn dialogue tasks while requiring only a fraction of the context tokens used by existing methods, thereby significantly reducing computational cost.",
+  "token_estimate": 670
+}

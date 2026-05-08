@@ -1,0 +1,35 @@
+{
+  "title": "Measures",
+  "path": "doi-10.1073-pnas.2011695118-measures",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2011695118",
+  "keywords": [
+    "word embeddings",
+    "semantic progression",
+    "Euclidean distance",
+    "300-dimensional vector",
+    "latent word embedding space",
+    "average word embedding vector",
+    "semantic similarity",
+    "semantic trajectory",
+    "high-dimensional semantic space",
+    "pacing",
+    "semantic speed",
+    "circuitousness"
+  ],
+  "use_cases": [
+    "Use when quantifying semantic progression in long-form texts like movies or academic papers",
+    "Calculate when measuring the speed or pacing of narrative shifts between text windows",
+    "Implement when comparing the semantic trajectories of different document datasets",
+    "Apply when analyzing the cognitive cost and engagement trade-offs of fast-moving content",
+    "Configure when normalizing total semantic distance by text length to determine average speed"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "semantic-analysis",
+    "text-metrics",
+    "machine-learning"
+  ],
+  "priority": 9,
+  "content": "To quantify semantic progression, we take texts (e.g., movies or academic papers), break them into approximately equal-sized chunks or windows, plot each chunk in a high-dimensional semantic space, and examine the path between chunks (see ref.[8](#core-r8)for related work using topic modeling). To do so, we use word embeddings ([19](#core-r19)), a technique that transforms words into high-dimensional numerical vectors such that the relationship between vectors captures the semantic relationship between words. We take each wordw, represented byxw, a 300-dimensional vector; index windows byt; and define the average word embedding vectorxtfor the words in each windowt. We denote asTthe number of windows in the document, and each text is represented by a sequence ofTpoints,x1,x2,…xT, in the 300-dimensional latent word embedding space (see[*SI Appendix*](http://www.pnas.org/lookup/doi/10.1073/pnas.2011695118#supplementary-materials)for more detail).\nFrom these sequences of points, we calculate new measures that characterize each text’s semantic path. A natural first measure of progression is speed or pacing ([10](#core-r10)). Just as a car can move slower or faster (i.e., covering a smaller or larger distance in the same period), content can move slower or faster (i.e., dwelling on semantically related concepts or moving a larger distance between content that is less semantically related). To capture this, we measure the distance texts travel between consecutive chunks ([Fig. 1](#fig01)). Word embeddings capture semantic similarity ([20](#core-r20)–[22](#core-r22)) (see[*SI Appendix*](http://www.pnas.org/lookup/doi/10.1073/pnas.2011695118#supplementary-materials)for additional validation), so consecutive chunks that are farther away are more likely to discuss different topics or themes. We compute the Euclidean distance between consecutive points:distance(t)=‖xt+1−xt‖.[\\*](#fn2)Normalizing total distance by text length generates the text’s average speed:speed=Σt=1T−1distance(t)T−1.\nFig. 1.\n![](https://www.pnas.org/cms/10.1073/pnas.2011695118/asset/70c89c5d-6627-4def-b84b-1631948e98f6/assets/images/large/pnas.2011695118fig01.jpg)Stylized illustration of the measures. Note that higher speed means more distance was covered in the same number of periods. Higher volume means that more ground was covered in the same number of periods. Higher circuitousness means that a less direct route was taken between a set of points.\nSpeed presents a tradeoff. Larger semantic shifts should make content more engaging and exciting ([4](#core-r4)), but require additional cognitive effort to process and connect ([23](#core-r23)). More difficult textbooks, for example, tend to have less semantic similarity between paragraphs ([24](#core-r24)), which should require greater processing to understand ([25](#core-r25)). Consequently, the excitement that speed generates likely comes at a (cognitive) cost. As such, speed may have a positive or negative relationship with success, depending on the context.\nWhile speed is useful, it does not provide a complete picture. Two texts could cover the same distance with quite different semantic trajectories (e.g., one goes out and back, while the other goes out and then out even farther). Further, speed focuses only on consecutive points, but the meani",
+  "token_estimate": 566
+}

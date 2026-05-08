@@ -1,0 +1,29 @@
+{
+  "title": "Basic Structure and Pacing",
+  "path": "basic-structure-and-pacing",
+  "url": "https://www.chocolatehammer.org/?p=5934",
+  "keywords": [
+    "pacing",
+    "portent",
+    "foreshadowing",
+    "action sequence",
+    "validated unease",
+    "narrative structure",
+    "horror mechanics",
+    "suspense building"
+  ],
+  "use_cases": [
+    "Use when structuring narrative beats to escalate tension",
+    "Implement when building atmospheric horror before a major encounter",
+    "Configure when transitioning from subtle environmental cues to direct action",
+    "Use when designing three-act sequences for game events"
+  ],
+  "tags": [
+    "narrative-design",
+    "game-design",
+    "storytelling"
+  ],
+  "priority": 8,
+  "content": "First the kids weren’t getting ice cream; that sets off a “something’s not right” vibe, but doesn’t point to anything specific. Then the maintenance guy tries to warn the player, which focuses that vibe: something’s not right with the ice cream truck and its occupant. Finally, the action: he turns out to be a scary dude. Portent, foreshadowing, action. Now we can use the validated unease we’ve painstakingly built up to work on some bigger scares, ideally involving animal masks and chainsaws.\n\n![](http://www.chocolatehammer.org/wp-content/uploads/2019/02/blackmagic-1024x576.jpg)",
+  "token_estimate": 110
+}

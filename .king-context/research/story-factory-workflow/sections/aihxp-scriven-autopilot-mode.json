@@ -1,0 +1,34 @@
+{
+  "title": "Autopilot mode",
+  "path": "aihxp-scriven-autopilot-mode",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "/scr-autopilot",
+    "/scr:autopilot-publish",
+    "/scr:autopilot-translate",
+    "Guided profile",
+    "Supervised profile",
+    "Full-auto profile",
+    "developer mode",
+    "git terminology hiding",
+    "front matter",
+    "back matter",
+    "export package"
+  ],
+  "use_cases": [
+    "Use when you want to run the full documentation pipeline autonomously with human oversight",
+    "Configure when target users are non-technical writers who benefit from simplified terminology",
+    "Implement when simultaneous multi-language book editions need to be generated",
+    "Use when a single command is required to bundle front matter, back matter, and cover for export",
+    "Configure when technical writers require raw git access and verbose log output"
+  ],
+  "tags": [
+    "automation",
+    "localization",
+    "publishing",
+    "ui-customization"
+  ],
+  "priority": 9,
+  "content": "Run the full pipeline autonomously. Three profiles:\n\n- **Guided** -- Pause after each unit for review\n- **Supervised** -- Batch through several units, pause for review\n- **Full-auto** -- Run until complete; only pause on critical failures\n\n```bash\n# Claude Code\n/scr-autopilot --profile supervised\n\n# Other slash-command runtimes\n/scr:autopilot --profile supervised\n```\n\nPlus:\n\n- `/scr:autopilot-publish` -- One command generates front matter, back matter, cover, and full export package\n- `/scr:autopilot-translate french german spanish` -- Simultaneous multi-language editions\n\n---\n\nScriven detects non-technical writers and hides git terminology. Instead of `commit`, `branch`, `merge`, `diff` -- you see `save`, `version`, `compare`, `accept changes`. All the power, none of the coding jargon.\n\nTechnical writers can enable developer mode in settings for full git access and verbose output.\n\n---",
+  "token_estimate": 164
+}

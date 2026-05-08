@@ -1,0 +1,32 @@
+{
+  "title": "Abstract",
+  "path": "chapter-10.1007-978-3-319-27036-4_8-abstract",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-319-27036-4_8?error=cookies_not_supported&code=ba29ff9b-226e-48cb-9853-9ed94c0f359b",
+  "keywords": [
+    "case-based reasoning",
+    "edit distance",
+    "interactive storytelling",
+    "sentence generation",
+    "open-domain",
+    "Creative Help",
+    "suggestion helpfulness",
+    "corpus-based models",
+    "narrative generation",
+    "user-in-the-loop"
+  ],
+  "use_cases": [
+    "Use when developing a writing assistant that provides real-time sentence completion",
+    "Implement when needing a metric to evaluate text generation quality based on manual user edits",
+    "Configure when applying case-based reasoning to extract narrative inspiration from large story corpora",
+    "Use when building interactive storytelling tools where human and AI collaborate locally"
+  ],
+  "tags": [
+    "natural-language-generation",
+    "human-computer-interaction",
+    "machine-learning",
+    "evaluation-metrics"
+  ],
+  "priority": 7,
+  "content": "We present Creative Help, an application that helps writers by generating suggestions for the next sentence in a story as it being written. Users can modify or delete suggestions according to their own vision of the unfolding narrative. The application tracks users’ changes to suggestions in order to measure their perceived helpfulness to the story, with fewer edits indicating more helpful suggestions. We demonstrate how the edit distance between a suggestion and its resulting modification can be used to comparatively evaluate different models for generating suggestions. We describe a generation model that uses case-based reasoning to find relevant suggestions from a large corpus of stories. The application shows that this model generates suggestions that are more helpful than randomly selected suggestions at a level of marginal statistical significance. By giving users control over the generated content, Creative Help provides a new opportunity in open-domain interactive storytelling.\nThis is a preview of subscription content,[log in via an institution](https://wayf.springernature.com/?redirect_uri=https://link.springer.com/chapter/10.1007/978-3-319-27036-4_8?error=cookies_not_supported&code=ba29ff9b-226e-48cb-9853-9ed94c0f359b)to check access.\n\n[Log in via an institution](https://wayf.springernature.com/?redirect_uri&#x3D;https://link.springer.com/chapter/10.1007/978-3-319-27036-4_8?error=cookies_not_supported&code=ba29ff9b-226e-48cb-9853-9ed94c0f359b)\n\nSpringer+ Basic\n¥17,985 /Month\n* Get 10 units per month\n* Download Article/Chapter or eBook\n* 1 Unit = 1 Article or 1 Chapter\n* Cancel anytime[Subscribe now](https://link.springer.com/product/springer-plus)",
+  "token_estimate": 255
+}

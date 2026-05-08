@@ -1,0 +1,30 @@
+{
+  "title": "What Fiction Serialization Is and What It Isn’t",
+  "path": "new-ways-of-writing-and-sharing-fiction-a-guide-to-web-novels-what-fiction-serialization-is-and-what-it-isn-t",
+  "url": "https://subliminaltales.com/new-ways-of-writing-and-sharing-fiction-a-guide-to-web-novels/",
+  "keywords": [
+    "serialization",
+    "mini-arcs",
+    "chapter rhythm",
+    "story seasons",
+    "metadata tagging",
+    "interactive storytelling",
+    "reader feedback loops",
+    "serialized format",
+    "habit-forming content"
+  ],
+  "use_cases": [
+    "Use when designing a narrative structure that requires regular reader engagement",
+    "Implement when transitioning a traditional novel manuscript into a chapter-by-chapter release",
+    "Configure when establishing a release schedule based on seasons and mini-arcs",
+    "Use when leveraging community feedback to influence ongoing plot development"
+  ],
+  "tags": [
+    "content-strategy",
+    "serialization-fundamentals",
+    "reader-engagement"
+  ],
+  "priority": 10,
+  "content": "Serialization is more than just posting chapters online. It has its own format that follows a set of rules and conventions, such as maintaining a good rhythm, designing mini-arcs for each chapter, using precise tags, and structuring the story into seasons.\n\nUnlike anthologies or newsletters, serialization focuses on creating a satisfying experience for readers and helping them develop a habit of coming back for the next chapter. Plus, it’s different from traditional novels because it invites immediate feedback while the story is still being developed, making it an interactive experience.",
+  "token_estimate": 119
+}

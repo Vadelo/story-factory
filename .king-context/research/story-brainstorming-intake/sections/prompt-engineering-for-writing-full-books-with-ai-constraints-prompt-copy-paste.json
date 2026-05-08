@@ -1,0 +1,33 @@
+{
+  "title": "Constraints Prompt (Copy/Paste)",
+  "path": "prompt-engineering-for-writing-full-books-with-ai-constraints-prompt-copy-paste",
+  "url": "https://blog.aignitionagency.com/prompt-engineering-for-writing-full-books-with-ai/",
+  "keywords": [
+    "UK English",
+    "style sheet",
+    "voice contract",
+    "continuity ledger",
+    "writing constraints",
+    "chapter outline",
+    "sentence rhythm",
+    "non-negotiable constraints",
+    "deliverable",
+    "continuity memory"
+  ],
+  "use_cases": [
+    "Configure when establishing non-negotiable writing standards and regional spelling rules.",
+    "Implement when creating a brand voice or style guide to ensure consistency across chapters.",
+    "Use when structuring a multi-chapter technical or narrative outline with logical progression.",
+    "Configure when building a continuity ledger to track recurring terms, characters, or frameworks.",
+    "Implement when defining reusable chapter-writing prompts for consistent execution."
+  ],
+  "tags": [
+    "content-strategy",
+    "workflow",
+    "guidelines",
+    "templates"
+  ],
+  "priority": 9,
+  "content": "```\nThese are non-negotiable writing constraints for this book:\n\n- Use UK English spelling and punctuation.\n- Avoid repetition: do not re-explain the same point unless adding a new example or deeper layer.\n- Keep a consistent voice and pacing across chapters.\n- If non-fiction: prefer clear, practical explanations with examples and steps.\n- If fiction: maintain continuity (names, timeline, setting rules).\n- Do not invent “facts” without signalling uncertainty; if unsure, suggest a placeholder for later verification.\n- End each chapter with a short recap and a forward teaser.\n\nConfirm you understand these constraints and restate them briefly.\n```\n\n---\n\nA style sheet is your “voice contract”. Define:\n\n- Reading level (e.g., accessible, professional)\n- Sentence rhythm (short + punchy vs long-form narrative)\n- Formatting style (subheadings, bullet lists, summaries)\n- Forbidden habits (overly poetic intros, generic clichés)\n\n```\nCreate a one-page voice and style sheet for this book.\n\nInclude:\n- Voice: [e.g., practical, confident, friendly, no fluff]\n- Reading level: [e.g., accessible for beginners]\n- Sentence rhythm rules\n- Formatting rules (headings, bullets, recaps)\n- “Do not do” list (clichés, filler, overuse of adverbs, etc.)\n- Example paragraph in the correct voice\n```\n\nInternal link suggestion: Readers who want beginner workflow should also read: Guides & Tutorials\n\n---\n\nMost AI-written books fail because the outline is weak. A strong outline must specify:\n\n- Chapter objective\n- Key points or story beats\n- Examples, exercises, or scenes\n- Deliverable (what the reader learns/gets)\n\n```\nCreate a complete book outline.\n\nRequirements:\n- 10–14 chapters (adjust if needed)\n- For each chapter include:\n  1) Chapter title\n  2) Objective (one sentence)\n  3) Key sections (bullets)\n  4) Example/story/exercise to include\n  5) End-of-chapter takeaway\n- Ensure a logical progression from beginner to advanced\n- Avoid overlap between chapters\n- Keep it aligned with the project brief\n```\n\n---\n\nContinuity memory is a “ledger” that stores stable facts. This is essential for:\n\n- Fiction: characters, world rules, timeline\n- Non-fiction: definitions, frameworks, terminology, examples\n\n```\nCreate a Continuity Ledger for this book.\n\nInclude:\n- Key terms and definitions (non-fiction) OR characters/world rules (fiction)\n- Fixed decisions: names, settings, timelines, recurring examples\n- A “do not contradict” list\n- A “reference checklist” to use at the end of every chapter\n\nFormat it as a clean, skimmable list.\n```\n\nInternal link suggestion: Genre-specific continuity tips: Genres & Use Cases\n\n---\n\nThis is where the real execution happens. You define a single, reusable chapter-writing prompt and apply it consistently across the entire book, changing only the chapter-specific inputs.",
+  "token_estimate": 558
+}

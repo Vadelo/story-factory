@@ -1,0 +1,33 @@
+{
+  "title": "Premise vs. Promise",
+  "path": "blogs-promise-of-premise-premise-vs-promise",
+  "url": "https://alamrafiul.com/blogs/promise-of-premise/",
+  "keywords": [
+    "narrative premise",
+    "story promise",
+    "reader expectations",
+    "genre signals",
+    "tone shifting",
+    "narrative pacing",
+    "subverting expectations",
+    "midpoint reveal",
+    "structural cohesion",
+    "character interiority"
+  ],
+  "use_cases": [
+    "Use when establishing the central conflict and emotional stakes in the opening chapters",
+    "Configure when signaling genre expectations using specific tropes like meet-cutes or crime scenes",
+    "Implement when planning a midpoint twist to ensure the narrative shift remains earned",
+    "Configure when auditing a manuscript for tonal consistency between the beginning and the resolution",
+    "Use when selecting narrative techniques like dialogue-heavy scenes vs lyrical prose to set reader focus"
+  ],
+  "tags": [
+    "narrative-structure",
+    "story-architecture",
+    "reader-psychology",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "The premise is your story’s core concept: “A man wakes up as a giant insect.”\n\nThe promise is what you’re offering readers through that premise: “We’ll explore alienation, family dysfunction, and dehumanization through this absurd metaphor.”\n\nKafka’s Metamorphosis never explains why Gregor becomes an insect. That’s not the promise. The promise is philosophical and emotional exploration of his condition.\n\nIf Kafka spent the story explaining the biological mechanism of transformation, he’d break the promise. The opening’s tone and focus signal: “This is existential examination, not scientific explanation.”\n\nAsk yourself:\n\n- Dialogue-heavy → Promise: character relationships are central\n- Lyrical language → Promise: prose itself is part of the pleasure\n- Fast pacing and action → Promise: momentum and plot drive\n- World-building details → Promise: rich, immersive setting\n- Character interiority → Promise: deep psychological exploration\n\n- What-does-it-mean? → Literary/Philosophical\n- How-will-they-survive? → Thriller/Adventure\n- Who-done-it? → Mystery\n- Will-they-or-won’t-they? → Romance\n\n- Coming-of-age narrator → Bildungsroman\n- Meet-cute → Romance\n- Body in first chapter → Mystery/Thriller\n- Spaceship → Science fiction\n\nThese aren’t rigid, but they create reader expectations.\n\nSometimes breaking the promise is the point.\n\nGone Girl promises a conventional missing-person mystery in its opening. Then the midpoint reveal completely reframes everything.\n\nBut Gillian Flynn honors a deeper promise: “This will twist your expectations.” The opening’s slightly off-kilter tone signals unreliability. The genre promise (mystery) is kept, even as the specific expectations (what kind of mystery) are subverted.\n\nThe Cabin in the Woods opens as a standard horror movie: teenagers, remote location, ominous warnings.\n\nThen it reveals the entire setup is a ritual sacrifice orchestrated by a bureaucratic organization.\n\nThe promise is kept because the opening included knowing winks-the too-perfect genre adherence itself was a signal that something meta was happening.\n\nOpening with an intense action sequence, then jumping to “Six months earlier…” and spending 200 pages on mundane setup.\n\nBroken promise: You promised intensity and delivered slow burn.\n\nHow to fix: Make sure the “six months earlier” section maintains tension through character, mystery, or emotional stakes.\n\nStarting with noir-ish cynicism, then pivoting to earnest optimism.\n\nBroken promise: You established a worldview (cynical) then abandoned it.\n\nHow to fix: Earn the tone shift through character development. Show why the cynicism breaks down.\n\nOpening with world-ending danger, then resolving it and focusing on interpersonal drama.\n\nBroken promise: You suggested epic scope, delivered intimate scale.\n\nHow to fix: Either start at the right scale, or ensure the intimate drama is complicated by the epic context.",
+  "token_estimate": 553
+}

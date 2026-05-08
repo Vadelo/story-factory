@@ -1,0 +1,34 @@
+{
+  "title": "Geography: The Layer That Touches Everything",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-geography-the-layer-that-touches-everything",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "Travel time table",
+    "Journey duration",
+    "Distance consistency",
+    "Natural barriers",
+    "Climate impact",
+    "Resource distribution",
+    "Kingdom placement",
+    "Plot rhythm",
+    "Continuity errors",
+    "Fantasy worldbuilding"
+  ],
+  "use_cases": [
+    "Use when ensuring travel times remain consistent across chapters to avoid continuity errors.",
+    "Implement when mapping new locations and their relative accessibility in a fantasy world.",
+    "Configure when adjusting pacing of plot events that depend on message or travel delays.",
+    "Verify when characters journey between locations to update manuscript references.",
+    "Reference when creating world lore that ties climate and geography to political dynamics."
+  ],
+  "tags": [
+    "worldbuilding",
+    "narrative-design",
+    "plot-pacing",
+    "continuity",
+    "geography"
+  ],
+  "priority": 9,
+  "content": "Geography is the most underrated worldbuilding layer. Authors spend months on magic systems and an afternoon on maps — then discover, three hundred pages in, that a journey that took a week in chapter 6 somehow takes a day in chapter 22.\n\nGeography constrains everything else:\n\n- Climate determines what food is available, which determines social structure, which determines political priorities\n- Natural barriers — mountain ranges, oceans, rivers — explain why kingdoms exist where they do\n- Travel time creates the rhythm of plot. A message that takes eight days to arrive changes what's possible in ways that a two-hour message does not\n- Resource distribution explains almost every war in history, real or fictional\n\nThe one thing every author must do before drafting: create a travel time table. For every pair of frequently-visited locations in your story, write down how long the journey takes by every available means. Pin it next to your manuscript. Check it every time a character travels.\n\nDistance inconsistency in published fantasy is not rare. It is extremely common. Readers in genre communities maintain lists of contradictory travel times in bestselling series. They notice. A travel time table costs thirty minutes to create and prevents the most embarrassing continuity errors in the genre.",
+  "token_estimate": 277
+}

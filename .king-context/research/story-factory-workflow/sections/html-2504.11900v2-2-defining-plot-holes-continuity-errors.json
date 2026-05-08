@@ -1,0 +1,34 @@
+{
+  "title": "2 Defining Plot Holes: Continuity Errors",
+  "path": "html-2504.11900v2-2-defining-plot-holes-continuity-errors",
+  "url": "https://arxiv.org/html/2504.11900v2",
+  "keywords": [
+    "continuity errors",
+    "isTrue(f, ϕ)",
+    "possible worlds theory",
+    "Lewis (1978)",
+    "logical inconsistency",
+    "inference rule",
+    "propositional sets",
+    "implicit knowledge",
+    "factual errors",
+    "story propositions",
+    "common sense reasoning"
+  ],
+  "use_cases": [
+    "Use when formalizing a mathematical definition for narrative contradictions",
+    "Implement when developing automated logic-checking for fictional text",
+    "Configure when incorporating external world knowledge into narrative reasoning benchmarks",
+    "Use when distinguishing between explicit and implicit plot holes in computational linguistics",
+    "Configure when modeling narrative truth values using possible worlds theory"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "formal-logic",
+    "computational-linguistics",
+    "theory-of-fiction"
+  ],
+  "priority": 10,
+  "content": "Plot holes are commonly categorized into multiple categories (Shattuck, 2024) including: continuity errors (contradictions of established facts), out of character behavior (actions inconsistent with established motivations), factual errors (historical anachronisms or real-world inaccuracies), impossible events (violations of science or logic), and unresolved storylines (incomplete plot threads). See Table LABEL:table:plotholeexamples in Appendix for examples. We focus on continuity errors as they encompass the most general form of plot hole: both out of character behavior and impossible events can be framed as breaks in continuity, as they contradict established character traits or story settings. While Ryan (2009) distinguishes between harmless plot holes (serving symbolic functions rather than causal functions) and truly unbridgeable ones (affecting plot integrity), our approach treats both types as under the same umbrella.\n\nFormally, consider a fictional story $f$ containing a set of propositions $\\mathcal{F}=\\{\\phi_{1},\\ldots,\\phi_{n}\\}$ that are true in the fictional world of $f$ (e.g., “Sherlock Holmes lived on Baker Street” is a statement that is true in the fictional world of Sherlock Holmes). We make use of the possible worlds theory from Lewis (1978), defining the notation $\\text{isTrue}(f,\\phi)$ to denote that the proposition $\\phi$ is true in the fictional world of $f$ and define the shorthand $\\text{isTrue}(f,\\mathcal{F})~{}\\!:=~{}\\!\\text{isTrue}(f,\\phi_{1})~{}\\!\\wedge~{% }\\!\\cdots~{}\\!\\wedge~{}\\!\\text{isTrue}(f,\\phi_{n})$ . We can then define a continuity error:\n\n###### Definition 2.1 (Continuity Error)\n\nA proposition $\\phi_{e}$ in a story is associated with a continuity error if the following inference rule holds:\n\n| $${\\text{isTrue}(f,\\mathcal{F}\\setminus\\{\\phi_{e}\\})}\\implies{\\text{isTrue}(f,% \\neg\\phi_{e})}$$ | (1) |\n| --- | --- |\n\nIn other words, if using all the propositions in $\\mathcal{F}$ except $\\phi_{e}$ we can conclude that the negation of $\\phi_{e}$ is true in $f$ , that means $\\phi_{e}$ is logically inconsistent with the rest of the story.\n\nWhile the above definition formalizes many types of continuity errors, it assumes the contradictions are derived using the propositions explicitly stated in the story. However, reasoning for contradictions in stories often requires implicit knowledge such as one’s world understanding and beliefs. We expand our definition to incorporate such implicit knowledge in Appendix § A.1, but informally, an expanded version of Definition 2.1 can be expressed as: If using all the propositions in $\\mathcal{F}$ except $\\phi_{e}$ , along with a set of a reader’s belief statements (or community of readers’) that are also non-vacuously true in $f$ , one can derive that the negation of $\\phi_{e}$ is true in $f$ , then $\\phi_{e}$ is considered logically inconsistent with the rest of the story. We highlight this difference to emphasize that reasoning for plot holes in stories is not simply about checking for contradictions using rules and statements explicitly stated in text, but necessarily incorporates common sense and world knowledge.",
+  "token_estimate": 581
+}

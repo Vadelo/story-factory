@@ -1,0 +1,33 @@
+{
+  "title": "How does visual mapping handle parallel tracks and connected threads?",
+  "path": "blog-how-to-map-a-multi-pov-novel-how-does-visual-mapping-handle-parallel-tracks-and-connected-threads",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "visual multi-POV mapping",
+    "parallel tracks",
+    "horizontal tracks",
+    "storyline convergence",
+    "intercut rhythm",
+    "chronological order",
+    "cross-connections",
+    "story arc visualization",
+    "mapping events",
+    "climax convergence"
+  ],
+  "use_cases": [
+    "Use when mapping complex narratives with multiple parallel character perspectives",
+    "Implement when analyzing the pacing and rhythm of intercut scenes within a story",
+    "Configure when visualizing the causal connections or dependencies between different storylines",
+    "Use when planning the convergence of plot threads toward a narrative climax",
+    "Configure when evaluating the length and distribution of character-specific story arcs"
+  ],
+  "tags": [
+    "narrative-design",
+    "visual-mapping",
+    "story-architecture",
+    "content-planning"
+  ],
+  "priority": 8,
+  "content": "The core idea in visual multi-POV mapping is simple: each POV character gets their own horizontal track on a shared canvas. Their story events sit on that track in chronological order. And connections between storylines are drawn as explicit lines crossing from one track to another.\n\nThis gives you three things at once:\n\n1. The shape of each individual arc. You can see how each character's story rises and falls.\n2. The rhythm of the intercut. You can see how long you spend with each character before shifting to the next.\n3. The connections between storylines. You can see exactly which events in one character's arc affect events in another's.\n\n![Multi-POV interweaving plot map](https://scyn.app/_next/image?url=%2Fblog%2Fmulti-pov-hero.jpeg&w=3840&q=75)\n\nThree character storylines as parallel tracks. Cross-connections between tracks are sparse at the start and get denser toward the right, showing how the storylines converge as the climax approaches.\n\nThis visual structure does not require a particular tool. You can sketch it on paper, build it in a spreadsheet, or use index cards on a wall. The point is the parallel layout. But as your story grows more complex, the ability to move events around, add new connections, and zoom in and out becomes increasingly important.",
+  "token_estimate": 266
+}

@@ -1,0 +1,36 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2605.02475v1-1-introduction",
+  "url": "https://arxiv.org/html/2605.02475v1",
+  "keywords": [
+    "narrative physics layer",
+    "information-state functionals",
+    "constrained-LLM renderer",
+    "recursive auditor loop",
+    "dual-graph metaphor",
+    "AMWN construction",
+    "binary KL divergence",
+    "ego-graph extraction",
+    "do-operator",
+    "abductive counterfactual",
+    "structural-affect tradition",
+    "typed creative brief"
+  ],
+  "use_cases": [
+    "Use when calculating affective scores like mystery, suspense, and surprise for narrative graphs",
+    "Implement when converting simulation results into prose through a recursive audit loop to prevent miracle steps",
+    "Configure when modeling counterfactual branches using dual-graph metaphors and AMWN constructions",
+    "Use when extracting ego-graphs and applying do-calculus within a symbolic narrative machinery",
+    "Refer to when navigating the system UI for authoring workspace interactions and fixture management"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "llm-workflows",
+    "causal-inference",
+    "nlp-reasoning",
+    "system-architecture"
+  ],
+  "priority": 10,
+  "content": "A narrative physics layer — a graphical world model of reader affect over the same graph — that scores it against closed-form information-state functionals for mystery, dramatic irony, suspense, and surprise. Suspense uses the hope/fear (here hope/threat) anticipation pair from the structural-affect tradition (Brewer and Lichtenstein, 1982; Comisky and Bryant, 1982; Ortony et al., 1988; Zillmann, 1996) as operationalised by Cheong and Young (2015), combined as a balance $\\,\\times\\,$ stakes product over the unrevealed ledger; this is a deliberate departure from the information-theoretic uncertainty-reduction formulation of Wilmot and Keller (2020), whose reader-vs-future-state epistemic-asymmetry shape we instead borrow for the dramatic irony scorer in §A.5. Surprise is binary KL divergence between a leave-one-out corpus-marginal prior, evidence-updated by revealed causal edges, and the entity’s reconstructed final state.\n\n4.\n\nA constrained-LLM renderer + recursive auditor loop (Gu et al., 2024) that converts the simulation result into a typed creative brief, generates prose under that brief, and then re-extracts the prose to verify no “miracle steps” were introduced.\n\n1. D.13 Why a UI matters for a research artefact\n\nThe system is named for the dual-graph metaphor: a loom of factual edges runs in parallel with one or more shadow counterfactual branches, in the sense of the AMWN construction of Correa and Bareinboim (2025). Section 2 sketches the pipeline; Section 4 states what is novel and what is borrowed; Section 5 gives the design rationale; Section 6 discusses relevance to NLP, reasoning, and social science; Section 7 states the limitations honestly. Equations and per-stage definitions are in App. A; an extended narrative walkthrough of the whole loop on a single fixture is in App. C; worked examples drawn from the twenty bundled plot fixtures follow in App. B; and a separate appendix on the authoring user interface, with screenshots and step-by-step example sessions, is in App. D.\n\n#### How to read this paper.\n\nThe main text is intentionally short. It states the design, situates it in the literature, and records what is novel as a combination. Readers who want to understand the symbolic machinery in detail — the schema, the ego-graph extraction, the do-operator, the abductive counterfactual, the four affective scorers, the brief-and-audit loop — should treat App. A as the authoritative specification. App. C is a long-form description of the same pipeline expressed as a story: Macbeth is fed in as raw prose and followed step-by-step through ingestion, intervention, propagation, scoring, rendering, and audit, with every intermediate object shown. The eight example sub-appendices in App. B then show how each individual stage manifests on a different bundled fixture. App. D is for readers who want to understand or use the authoring workspace; it cross-links every UI surface to the pipeline stage it exposes and includes example sessions on real fixtures.",
+  "token_estimate": 606
+}

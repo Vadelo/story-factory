@@ -1,0 +1,29 @@
+{
+  "title": "Using the Utility Drawer",
+  "path": "crafting-settings-using-the-utility-drawer",
+  "url": "https://storyhammer.cryptiquest.com/crafting-settings/",
+  "keywords": [
+    "Utility Drawer",
+    "Crafting Table",
+    "Support Type",
+    "Story Name",
+    "Storycrafter",
+    "Compartments",
+    "Drawer 1",
+    "Content Ideation",
+    "Resource Research"
+  ],
+  "use_cases": [
+    "Use when initiating a new project in the Crafting Table using standardized headers",
+    "Configure when categorizing story metadata including internal code names",
+    "Implement when organizing and expanding newly discovered content types into distinct compartments"
+  ],
+  "tags": [
+    "content-strategy",
+    "documentation-structure",
+    "workflow-management"
+  ],
+  "priority": 8,
+  "content": "There are two major sections for the Crafting Table. At the top of the page, write the support type (Drawer 1), the Story Name (a temporary “code name” is fine), and the name of the Storycrafter (your name).\n\nThe table is split up into several individual compartments. Any time you discover new content that needs to be fleshed out, you will document the content in a new compartment and add details to it as you ideate and expand. Essentially, each item you mark here is a potential new content type that needs to be researched.",
+  "token_estimate": 126
+}

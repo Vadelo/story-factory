@@ -1,0 +1,32 @@
+{
+  "title": "Option A: MCP Server (Recommended for Cursor, Claude Code, Windsurf)",
+  "path": "option-a-mcp-server-recommended-for-cursor-claude-code-windsurf",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "MCP",
+    "Model Context Protocol",
+    "mcpServers",
+    "worldkeeper",
+    "signup",
+    "api_key",
+    "serverUrl",
+    "whoami",
+    "create_world",
+    "wk_"
+  ],
+  "use_cases": [
+    "Use when integrating with agents like Cursor, Claude Code, or Windsurf",
+    "Configure when seeking a no-code HTTP tool integration using the MCP protocol",
+    "Implement when needing to authenticate via the signup tool to receive a wk_ api_key",
+    "Use when managing multiple world-state actions without manual header configuration"
+  ],
+  "tags": [
+    "integration",
+    "authentication",
+    "MCP",
+    "configuration"
+  ],
+  "priority": 10,
+  "content": "If your agent supports MCP (Model Context Protocol), this is the easiest path — no HTTP knowledge needed.\n\n1. Add to your MCP config:{\n \"mcpServers\": {\n \"worldkeeper\": {\n \"url\": \"https://vrtfddtrylinlnuaizkj.supabase.co/functions/v1/mcp-server\"\n }\n }\n}\nFor Windsurf, use `\"serverUrl\"` instead of `\"url\"`.\n2. Call the `signup` tool with `email` and `password` — returns an `api_key` (wk_...)\n3. Pass `api_key` as a parameter in every subsequent tool call (`whoami`, `create_world`, etc.)\n4. All 80+ actions are available as MCP tools. No URLs or headers to manage.",
+  "token_estimate": 110
+}

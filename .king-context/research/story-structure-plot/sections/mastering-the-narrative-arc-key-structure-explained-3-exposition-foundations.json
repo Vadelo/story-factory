@@ -1,0 +1,35 @@
+{
+  "title": "3. Exposition: Foundations",
+  "path": "mastering-the-narrative-arc-key-structure-explained-3-exposition-foundations",
+  "url": "https://literarydevices.net/mastering-the-narrative-arc-key-structure-explained/",
+  "keywords": [
+    "Setting",
+    "Time",
+    "Place",
+    "Atmosphere",
+    "Characters",
+    "Protagonist",
+    "Antagonist",
+    "Inciting Incident",
+    "Plot",
+    "Narrative arc",
+    "Story structure"
+  ],
+  "use_cases": [
+    "Use when establishing the backdrop of a story to immerse readers.",
+    "Implement when introducing protagonists and antagonists to set conflict.",
+    "Configure when defining time, place, and atmosphere to anchor the narrative.",
+    "Use when designing a key event that disrupts normalcy and initiates the plot.",
+    "Apply when outlining the narrative arc to guide story development."
+  ],
+  "tags": [
+    "literary-concepts",
+    "writing-techniques",
+    "storytelling",
+    "narrative-structure",
+    "creative-writing"
+  ],
+  "priority": 10,
+  "content": "Setting the stage is vital—think of it as laying the groundwork for a house before you build the rooms.\n\n- Setting: Time, place, atmosphere. Example: In The Great Gatsby, the opulent 1920s New York skyline sets up the era’s decadence.\n- Characters: Protagonist(s), antagonist(s), supporting roles. Example: Harry Potter’s introduction as a boy living with his abusive aunt establishes his vulnerability.\n- Inciting Incident: Event that disrupts normalcy and starts the plot. Example: In The Hunger Games, Katniss volunteering for her sister triggers the entire narrative.",
+  "token_estimate": 114
+}

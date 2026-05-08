@@ -1,0 +1,28 @@
+{
+  "title": "Join The Newsletter",
+  "path": "blog-subverting-cozy-mystery-tropes-and-why-readers-absolutely-love-it-join-the-newsletter",
+  "url": "https://www.chrishillsfarrow.com/blog/subverting-cozy-mystery-tropes-and-why-readers-absolutely-love-it",
+  "keywords": [
+    "Newsletter",
+    "Email Address",
+    "Intuit Mailchimp",
+    "Subscription Form",
+    "Required Fields",
+    "mc-fe",
+    "Metadata",
+    "Input Validation"
+  ],
+  "use_cases": [
+    "Implement when capturing user email addresses for marketing outreach",
+    "Configure when adding a Mailchimp subscription block to a landing page",
+    "Use when validating required form fields for mailing list signups"
+  ],
+  "tags": [
+    "marketing",
+    "forms",
+    "integration"
+  ],
+  "priority": 5,
+  "content": "* indicates required\n\nEmail Address *\n\n![Intuit Mailchimp](https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg)",
+  "token_estimate": 10
+}

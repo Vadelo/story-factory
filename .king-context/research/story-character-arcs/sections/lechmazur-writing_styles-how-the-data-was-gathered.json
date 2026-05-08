@@ -1,0 +1,29 @@
+{
+  "title": "How the data was gathered",
+  "path": "lechmazur-writing_styles-how-the-data-was-gathered",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "flash-fiction",
+    "prompt engineering",
+    "style analysis",
+    "story-level aggregation",
+    "reviewing model",
+    "context-based evaluation",
+    "data gathering methodology",
+    "model comparison"
+  ],
+  "use_cases": [
+    "Use when evaluating the literary stylistic consistency of various LLMs",
+    "Implement when designing a fair benchmarking methodology for generative text",
+    "Configure when aggregating model performance metrics across large datasets"
+  ],
+  "tags": [
+    "methodology",
+    "data-processing",
+    "benchmarking",
+    "evaluation"
+  ],
+  "priority": 8,
+  "content": "We asked models to write **flash-fiction pieces of 600–800 words** from the same pool of prompts so comparisons are fair. Prompts include required elements to keep content varied across runs. For style analysis, those elements are treated as context rather than something to reward on their own. Each story was then read by a separate reviewing model that answered a fixed set of style questions. Results are aggregated at the story level and then rolled up by model. (Dec 2025 update: 29 models; 15,347 total stories; min 400/model, max 947/model.)",
+  "token_estimate": 119
+}

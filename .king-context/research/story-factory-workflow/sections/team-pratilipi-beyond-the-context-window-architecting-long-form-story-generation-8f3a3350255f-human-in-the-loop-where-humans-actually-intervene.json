@@ -1,0 +1,32 @@
+{
+  "title": "Human-in-the-Loop: Where Humans Actually Intervene",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-human-in-the-loop-where-humans-actually-intervene",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "Human-in-the-Loop",
+    "HIL",
+    "Story Bible",
+    "Outline generation",
+    "Artifacts creation",
+    "Checkpoint",
+    "Drafting chapters",
+    "AI-assisted editing",
+    "Continuity management",
+    "Long-form serialized generation"
+  ],
+  "use_cases": [
+    "Use when building a collaborative writing environment requiring human oversight",
+    "Implement when preventing continuity and coherence errors in long-form narratives",
+    "Configure when human approval is required before AI transitions from planning to content generation",
+    "Use when a workflow requires AI to propose drafts for human refinement"
+  ],
+  "tags": [
+    "workflow",
+    "content-generation",
+    "human-in-the-loop",
+    "best-practices"
+  ],
+  "priority": 9,
+  "content": "“HIL” only matters if it’s concrete. Here’s how it works for us:\n\n1. Artifacts creation (human-led, AI-assisted):Humans can write Story Bible / Starting Point / Checkpoint manually, or ask AI to propose drafts that the human edits.\n2. Outline generation (AI)\n3. Human review and edits:The author/editor reviews the outline output, adjusts pacing, adds constraints, corrects direction, and approves it.\n4. Drafting Chapters (AI) from an approved outline\n5. Optional human review of chapters.\n\nSo humans don’t only set the destination, they also approve the plan before the system writes prose.\n\nThis system is not bulletproof. It can and does break. But it’s a start, and it meaningfully reduces a large class of continuity and coherence errors that show up in long-form serialized generation.",
+  "token_estimate": 164
+}

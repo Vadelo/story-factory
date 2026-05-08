@@ -1,0 +1,32 @@
+{
+  "title": "Why I'm Starting to Test This Now",
+  "path": "blog-why-i-built-rag-memory-system-why-i-m-starting-to-test-this-now",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "AI Story Stream",
+    "RAG database",
+    "summarization system",
+    "TTS module",
+    "semantic search",
+    "RAG depth controls",
+    "long-form narrative",
+    "character consistency",
+    "story continuity",
+    "Author Tools"
+  ],
+  "use_cases": [
+    "Configure when managing long-form narratives exceeding 120,000 words",
+    "Implement when testing RAG system integrity across multi-chapter story arcs",
+    "Use when validating character consistency in large-scale generative writing",
+    "Configure when adjusting semantic search and summarization chunks for deep memory retrieval"
+  ],
+  "tags": [
+    "RAG",
+    "testing",
+    "narrative-ai",
+    "product-roadmap"
+  ],
+  "priority": 8,
+  "content": "I'll be honest: I'm only now starting to properly test AI Story Stream with very long stories. For the past 10 months, I've been building the app itself. The summarization system, the RAG database, the Author Tools, the TTS module—all of that took time to develop and debug.\n\nNow that the app is stable and the systems are in place, I finally have time to use it the way authors will use it: writing long-form stories and seeing how the memory system holds up at 60,000 words, 80,000 words, 100,000+ words.\n\nTesting long stories isn't as simple as it sounds. They need to be written. I can't just generate 120,000 words of random content and call it a test. The story needs coherent plot threads, recurring characters, and world-building that gets referenced throughout. That's the only way to truly see if the RAG system maintains continuity the way it should.\n\nSo when I say AI Story Stream is designed for 120,000+ word stories, I'm basing that on the technical design of the system: the summarization chunks, the semantic search, the RAG depth controls. But I'm only now putting those systems through real-world long-form testing myself.\n\nThe early results are promising. The RAG system is pulling relevant summaries correctly. Characters stay consistent. Plot threads remain intact across chapters. But I'm learning as I go, and if I discover issues at extreme lengths, I'll fix them.",
+  "token_estimate": 311
+}

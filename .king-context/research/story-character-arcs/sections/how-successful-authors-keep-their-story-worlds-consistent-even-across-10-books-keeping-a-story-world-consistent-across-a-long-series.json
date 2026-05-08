@@ -1,0 +1,31 @@
+{
+  "title": "Keeping a Story World Consistent Across a Long Series",
+  "path": "how-successful-authors-keep-their-story-worlds-consistent-even-across-10-books-keeping-a-story-world-consistent-across-a-long-series",
+  "url": "https://www.bookishelf.com/how-successful-authors-keep-their-story-worlds-consistent-even-across-10-books/",
+  "keywords": [
+    "Series consistency",
+    "Worldbuilding",
+    "Retconning",
+    "In-world explanation",
+    "Hard limits",
+    "Magic system limitations",
+    "Rule definition",
+    "Internal logic",
+    "Narrative flexibility"
+  ],
+  "use_cases": [
+    "Use when planning long-term narrative structures spanning multiple volumes",
+    "Implement when designing magic systems or technological constraints to avoid future contradictions",
+    "Configure when establishing world rules that need to remain flexible for future plot developments",
+    "Use when deciding between a formal codification of rules versus a felt aesthetic of logic"
+  ],
+  "tags": [
+    "Narrative Design",
+    "Worldbuilding",
+    "Creative Writing",
+    "Content Strategy"
+  ],
+  "priority": 8,
+  "content": "Single-novel consistency is challenging. Series consistency is a different problem at a different order of magnitude.\n\nThe longer a series runs, the more opportunities accumulate for something established early to contradict something needed later. An author might establish in book one that a particular magic system has a specific limitation, then find in book four that the story requires a character to exceed that limitation. The choices at that point are to find a plausible in-world explanation for the exception, to retcon the original limitation quietly, or to violate it and hope readers don’t notice.\n\nReaders nearly always notice.\n\nThe authors who navigate this most gracefully and keep their story world consistent across many volumes tend to share a characteristic: they under-define their rules early. Rather than establishing hard limits that might become problems later, they establish the shape and feel of their systems without locking down every edge case. This preserves flexibility without requiring contradictions.\n\nTerry Pratchett was particularly good at this. The rules of magic in Discworld have a consistent feel — magic is unreliable, has costs, is most powerful when least convenient — without being formally codified in ways that could be violated later.\n\n---",
+  "token_estimate": 263
+}

@@ -1,0 +1,32 @@
+{
+  "title": "1. Introduction",
+  "path": "html-2508.03182v1-1-introduction",
+  "url": "https://arxiv.org/html/2508.03182v1",
+  "keywords": [
+    "StoryEnsemble",
+    "node-link interface",
+    "forward propagation",
+    "back propagation",
+    "interaction techniques",
+    "divergence-convergence",
+    "scenario construction",
+    "interactive system",
+    "iterative workflows",
+    "generative AI"
+  ],
+  "use_cases": [
+    "Use when building interactive systems that require rapid exploration and flexible iteration",
+    "Implement when visualizing interconnected design workflows using node-link interfaces",
+    "Configure when applying forward and back propagation techniques for creative storytelling",
+    "Use when supporting design education grounded in divergence-convergence principles"
+  ],
+  "tags": [
+    "interactive-systems",
+    "design-methodology",
+    "ux-design",
+    "generative-ai"
+  ],
+  "priority": 10,
+  "content": "StoryEnsemble,111 https://storyensemble-research.github.io/ an interactive system that leverages a node-link interface and novel interaction techniques—such as forward and back propagation—to enable rapid exploration and flexible iteration.\n\n•\n\nA formative study identifying challenges faced by students, instructors, and practitioners in applying iterative, exploratory, and feedback-driven design principles in practice.\n\n•\n\nA system evaluation study that advances our understanding of how AI can support workflows grounded in core design principles—such as iteration, divergence-convergence, and scenario construction—particularly in design education and practice.\n\nIn the remainder of the paper, we review related work on design frameworks and AI design tools, then present our formative study identifying key challenges that students, instructors, and practitioners face when applying design principles. We then describe StoryEnsemble and its features, followed by an evaluation with 10 participants that demonstrates how it enhances exploration, iteration, and scenario development. We conclude with implications for future AI-assisted design systems, as well as for other domains involving interconnected, iterative workflows.\n\nWe first examine common principles across design methodologies, then explore how generative AI is transforming creative workflows, and review existing AI design tools.",
+  "token_estimate": 238
+}

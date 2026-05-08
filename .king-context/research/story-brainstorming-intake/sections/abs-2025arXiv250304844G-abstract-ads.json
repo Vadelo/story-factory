@@ -1,0 +1,32 @@
+{
+  "title": "ADS",
+  "path": "abs-2025arXiv250304844G-abstract-ads",
+  "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250304844G/abstract",
+  "keywords": [
+    "ADS",
+    "ADS-B",
+    "Automatic Dependent Surveillance",
+    "Surveillance-Broadcast",
+    "Surveillance-Contract",
+    "Air Traffic Control",
+    "Position reporting",
+    "Aviation data link",
+    "ICAO compliance",
+    "ADS-C"
+  ],
+  "use_cases": [
+    "Configure when implementing real-time aircraft position broadcasting systems",
+    "Implement when developing Air Traffic Management software for surveillance data processing",
+    "Use when integrating satellite or ground-based ADS-B receivers into a tracking network",
+    "Use when establishing point-to-point surveillance contracts (ADS-C) with air traffic units"
+  ],
+  "tags": [
+    "surveillance",
+    "aviation",
+    "telemetry",
+    "communication"
+  ],
+  "priority": 9,
+  "content": "",
+  "token_estimate": 0
+}

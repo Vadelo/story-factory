@@ -1,0 +1,29 @@
+{
+  "title": "Personality",
+  "path": "character-questionnaire-personality",
+  "url": "https://www.novel-software.com/character-questionnaire/",
+  "keywords": [
+    "character development",
+    "personality traits",
+    "character motivation",
+    "interpersonal relationships",
+    "character background",
+    "idiosyncrasies",
+    "character philosophy",
+    "character profile questionnaire"
+  ],
+  "use_cases": [
+    "Use when building a foundational psychological profile for a fictional character",
+    "Implement when developing internal character conflicts and belief systems",
+    "Configure when detailing character social dynamics and family history",
+    "Use when establishing consistent character reactions to praise, criticism, or fear"
+  ],
+  "tags": [
+    "character-creation",
+    "creative-writing",
+    "narrative-design"
+  ],
+  "priority": 10,
+  "content": "35. What language(s) do they speak?36. Do they have a catchphrase?37. Do they overuse any words or phrases?38. Are they more optimistic or pessimistic?39. Are they more introverted or extroverted?40. What bad habits do they have?41. What good habits do they have?42. How do they want to be seen by others?43. How are they seen by others?44. How do they see themselves?45. Do they ever put on airs?46. What is their strongest character trait?47. What is their weakest character trait?48. How do they display affection?49. How competitive are they?50. Do they make snap judgements or take time to consider?51. How do they react to praise?52. How do they react to criticism?53. What is their greatest fear?54. What are their pet peeves?55. What sense do they most rely on?56. Do they have any mental disabilities?57. What are their idiosyncrasies?58. Are they an early bird or a night owl?59. Do they prefer the indoors or the outdoors?60. How do they treat people better off than them?61. How do they treat people worse off than them?62. What are their biggest secrets?63. What is their philosophy of life?64. When was the last time they cried?65. What haunts them?66. What are their political views?67. What will they stand up for?68. Who do they idolise?69. What quality do they most value in a friend?70. What do they consider an overrated virtue?71. What makes them laugh out loud?72. If they could change one thing about themselves, what would it be?73. Do they have any obsessions?\n\n![App for novel writers](https://www.novel-software.com/wp-content/uploads/2024/09/NF3-Manuscript-600x442.jpg)\n\nGet powerful tools for character development, plot management and more. Click here to get a free 30-day trial of The Novel Factory.\n\n74. How many people are in their family?75. What is their perception of family?76. Do they have any siblings? Are they older or younger?77. Who is their best friend and what are they like?78. What would their ideal best friend be like?79. What are their other friends like?80. What are their acquaintances like?81. Do they have any pets?82. Who are their natural allies?83. Who are their surprising allies?",
+  "token_estimate": 454
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Layer 3: The Comparison That Makes It Clear",
+  "path": "blog-how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained-layer-3-the-comparison-that-makes-it-clear",
+  "url": "https://sudowrite.com/blog/how-to-avoid-plot-holes-sudowrites-chapter-continuity-feature-explained/",
+  "keywords": [
+    "Sudowrite Chapter Continuity",
+    "Story Bible",
+    "linked context",
+    "character cards",
+    "Context Window",
+    "20,000 words",
+    "25 chapters",
+    "manual tracking",
+    "Timeline Tracking",
+    "Character Consistency"
+  ],
+  "use_cases": [
+    "Use when you need to maintain consistent character details and timelines automatically across long-form manuscripts",
+    "Implement when manual spreadsheets or wikis become too labor-intensive to maintain during drafting",
+    "Configure when seeking to prevent plot holes or forgotten character threads in novels up to 25 chapters"
+  ],
+  "tags": [
+    "automation",
+    "narrative-continuity",
+    "workflow-comparison",
+    "content-management"
+  ],
+  "priority": 9,
+  "content": "| Tracking Method | Context Window | Character Consistency | Timeline Tracking | Forgotten Thread Prevention | Setup Effort |\n| --- | --- | --- | --- | --- | --- |\n| No system | Whatever you remember | Manual only | Manual only | Hope and prayer | None |\n| Manual tracking (spreadsheets, wikis) | Whatever you update | Good if maintained | Good if maintained | Depends on discipline | High, ongoing |\n| Sudowrite Chapter Continuity | 20,000 words across 25 chapters + Story Bible | Automatic via character cards | Built into linked context | AI reads prior chapters | One-time setup |\n\nThe difference is automation. Manual tracking works until you forget to update the spreadsheet. Chapter Continuity works because it reads your manuscript directly.\n\n---",
+  "token_estimate": 178
+}

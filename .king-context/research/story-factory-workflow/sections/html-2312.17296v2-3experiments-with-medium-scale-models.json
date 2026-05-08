@@ -1,0 +1,32 @@
+{
+  "title": "3Experiments with medium-scale models",
+  "path": "html-2312.17296v2-3experiments-with-medium-scale-models",
+  "url": "https://arxiv.org/html/2312.17296v2",
+  "keywords": [
+    "SPLiCe",
+    "document packing",
+    "long-context performance",
+    "perplexity enhancement",
+    "repository structure",
+    "ablation study",
+    "medium-scale models",
+    "270M models",
+    "non-code data",
+    "hyperparameter tuning"
+  ],
+  "use_cases": [
+    "Use when evaluating the impact of document packing on model perplexity",
+    "Implement when adapting long-context training techniques for non-code datasets",
+    "Configure when performing ablation studies on SPLiCe design elements",
+    "Use when scaling performance findings from 270M models to larger architectures"
+  ],
+  "tags": [
+    "research-evaluation",
+    "model-training",
+    "natural-language-processing",
+    "performance-benchmarking"
+  ],
+  "priority": 7,
+  "content": "In this section, we conduct a comprehensive examination of the impact of document packing into training examples on long-context performance. We demonstrate that leveraging the inherent repository structure of code data can yield notable perplexity enhancements. Additionally, we establish that our proposed method,SPLiCe, either matches or surpasses this approach, exhibiting broader applicability to non-code data. We stress that we do not aim to surpass the approach to concatenate repository files together, instead we aim to show thatSPLiCeis more general and can be used for non-code data. We carry out an ablation study onSPLiCeto scrutinize its design elements and hyperparameters in Appendix[C.1](#A3.SS1). For this segment, due to computational constraints, we engage with270270270270M models to ensure a meticulous investigation. In Section[4](#S4), we affirm that these findings extend to large-scale models.",
+  "token_estimate": 170
+}

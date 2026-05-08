@@ -1,0 +1,33 @@
+{
+  "title": "Conclusion: From Prompt Engineering to Story Engineering",
+  "path": "team-pratilipi-beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f-conclusion-from-prompt-engineering-to-story-engineering",
+  "url": "https://medium.com/team-pratilipi/beyond-the-context-window-architecting-long-form-story-generation-8f3a3350255f",
+  "keywords": [
+    "state management engine",
+    "markdown-based Artifacts",
+    "Source of Truth",
+    "Checkpoints",
+    "layered passes",
+    "rolling memory",
+    "iterative critique loops",
+    "long-form narrative generation",
+    "story engineering",
+    "token management"
+  ],
+  "use_cases": [
+    "Use when architecting long-form fiction systems beyond simple text generation",
+    "Implement when maintaining narrative consistency over large token windows",
+    "Configure when requiring a structured state management engine for AI agents",
+    "Implement when applying engineering disciplines like iterative critique to creative writing",
+    "Use when markdown-based artifacts are needed as a persistent source of truth"
+  ],
+  "tags": [
+    "architecture",
+    "generative-ai",
+    "state-management",
+    "prompt-engineering"
+  ],
+  "priority": 10,
+  "content": "We started thinking we were building a text generation tool. We ended up building a state management engine.\n\nThe key shift was this: long-form fiction isn’t “just more tokens.” It’s a system with rules, memory, and contracts. By introducing markdown-based Artifacts as a Source of Truth, using Checkpoints as explicit targets, decomposing outlining into layered passes, and drafting with rolling memory plus iterative critique loops, we can generate longer narratives with substantially improved consistency.\n\nIt won’t work for every story. It won’t prevent every failure.But it turns long-form generation from a one-shot gamble into an engineering discipline built on repeatable steps, checks, and continuous improvement.\n\n![Team Pratilipi](https://miro.medium.com/v2/resize:fill:96:96/1*O_gqGizEHdAXkmvcSFjQUA.jpeg)\n\n![Team Pratilipi](https://miro.medium.com/v2/resize:fill:128:128/1*O_gqGizEHdAXkmvcSFjQUA.jpeg)\n\nLast published Feb 25, 2026\n\nLessons learned in building Indian first product\n\n![Sujith Reddy](https://miro.medium.com/v2/resize:fill:96:96/1*jHC8VBE9yqBMBYQntQdyHg.jpeg)\n\n![Sujith Reddy](https://miro.medium.com/v2/resize:fill:128:128/1*jHC8VBE9yqBMBYQntQdyHg.jpeg)\n\nSDE 2 (AI Engineer)",
+  "token_estimate": 171
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Using Different Sentence Structures",
+  "path": "guides-how-to-vary-sentence-structure-control-reading-rhythm-2026-using-different-sentence-structures",
+  "url": "https://rivereditor.com/guides/how-to-vary-sentence-structure-control-reading-rhythm-2026",
+  "keywords": [
+    "simple sentences",
+    "independent clause",
+    "compound sentences",
+    "coordinating conjunction",
+    "complex sentences",
+    "dependent clause",
+    "compound-complex sentences",
+    "periodic sentences",
+    "cumulative sentences",
+    "subordinating conjunctions"
+  ],
+  "use_cases": [
+    "Use when aiming for clarity, directness, or high impact in action sequences",
+    "Implement when connecting two equal ideas to show balance using conjunctions",
+    "Configure when showing hierarchical relationships between ideas through dependent clauses",
+    "Use when building suspense or tension by delaying the main clause until the end",
+    "Implement when layering descriptive details onto a main idea for natural flow"
+  ],
+  "tags": [
+    "writing-style",
+    "grammar",
+    "rhythm",
+    "technical-communication"
+  ],
+  "priority": 8,
+  "content": "Beyond length, sentence structure creates different rhythms and effects. Understanding the types helps you choose deliberately rather than defaulting to the same patterns.\n\nSimple sentences have one independent clause. Subject, verb, sometimes object. \"The cat sat on the mat.\" \"She ran.\" \"Thunder rolled across the sky.\" Simple sentences are clear, direct, and emphatic. They're great for action and impact but too many in a row create choppy, primer-level prose.\n\nCompound sentences join two independent clauses with a coordinating conjunction (and, but, or, so) or semicolon. \"She opened the door, and he stepped inside.\" \"The rain stopped; the sun emerged.\" Compound sentences create balance and connection between equal ideas. They're slightly more sophisticated than simple sentences without being complex.\n\nComplex sentences have one independent clause and at least one dependent clause. \"When the phone rang, she knew it was bad news.\" \"She closed the book that had been sitting on the table for weeks.\" Complex sentences show relationships between ideas and add sophistication. They can put emphasis on different parts depending on which clause comes first.\n\nCompound-complex sentences have multiple independent clauses and at least one dependent clause. \"When she arrived at the party, she saw him talking to another woman, and she felt her stomach drop.\" These are the longest, most sophisticated structures. Use them occasionally for complexity but don't overdo it or prose becomes exhausting.\n\nPeriodic sentences delay the main clause until the end, creating suspense or emphasis. \"Despite the rain, the cold, and the growing darkness, they continued.\" \"After everything they'd been through, all the lies and betrayals and broken promises, she still loved him.\" The delay creates tension and makes the final point land harder.\n\nCumulative sentences start with the main clause and add details after. \"She walked into the room, moving slowly, carefully, like she was approaching something dangerous.\" \"He smiled, the kind of smile that didn't reach his eyes, that made her skin crawl.\" These flow naturally and let you layer information without front-loading.",
+  "token_estimate": 437
+}

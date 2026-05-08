@@ -1,0 +1,34 @@
+{
+  "title": "Crucible — Command-Driven World Generator",
+  "path": "keilladraconis-NAI-story-engine-crucible-command-driven-world-generator",
+  "url": "https://github.com/keilladraconis/NAI-story-engine",
+  "keywords": [
+    "Crucible",
+    "CREATE",
+    "REVISE",
+    "LINK",
+    "DELETE",
+    "CRITIQUE",
+    "Structural Tensions",
+    "GLM command loop",
+    "DULFS fields",
+    "Lorebook",
+    "Narrative vectors",
+    "Iterative world-building"
+  ],
+  "use_cases": [
+    "Use when you need to generate a story world from a brainstorm using structural pressures",
+    "Implement when creating world elements like factions and locations via an automated command loop",
+    "Configure when bridging high-level story shapes with specific lorebook entries",
+    "Use when you want AI to self-critique and refine narrative elements iteratively"
+  ],
+  "tags": [
+    "World Generation",
+    "AI Scripting",
+    "Narrative Design",
+    "Procedural Content"
+  ],
+  "priority": 10,
+  "content": "Crucible derives your world from structural tensions. Give it a shape and a direction; it identifies the pressures at the core of your story, then builds a world around them through an iterative command loop.\n\n1. **Shape** — AI reads your brainstorm and invents the structural lens your story is leaning toward — any shape, from Climactic Choice to Slice of Life. Edit the name and instruction directly, or generate and refine.\n2. **Direction** — AI distills your brainstorm (informed by the shape) into a dense creative anchor: characters, world, tone, tensions, supporting cast.\n3. **Tensions** — AI identifies the structural pressures and irresolvable conflicts at the heart of the scenario. Accept the ones worth building.\n4. **Build World** — GLM runs a command loop, emitting `CREATE`, `REVISE`, `LINK`, and `DELETE` commands to build world elements (characters, locations, factions, systems, narrative vectors, topics) that embody the tensions. Each pass ends with a self-`CRITIQUE`; you can add guidance and run another pass to extend or refine.\n5. **Merge** — Edit elements and merge them into DULFS fields and lorebook.",
+  "token_estimate": 236
+}

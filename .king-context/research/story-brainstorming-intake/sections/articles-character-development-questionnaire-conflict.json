@@ -1,0 +1,29 @@
+{
+  "title": "Conflict",
+  "path": "articles-character-development-questionnaire-conflict",
+  "url": "https://www.jamescolton.com/articles/character-development-questionnaire/",
+  "keywords": [
+    "character arc",
+    "inner conflict",
+    "outward signs",
+    "conflict backbone",
+    "fear versus desire",
+    "character motivation",
+    "risk assessment",
+    "narrative structure"
+  ],
+  "use_cases": [
+    "Use when transitioning a character from a list of attributes into an active participant",
+    "Implement when defining the primary psychological driver for a protagonist's journey",
+    "Configure when establishing the stakes and potential losses within a character's narrative",
+    "Use when mapping internal emotional struggles to observable external behaviors"
+  ],
+  "tags": [
+    "character-development",
+    "narrative-design",
+    "storytelling-framework"
+  ],
+  "priority": 10,
+  "content": "This is where the character goes from a static list of attributes to an active participant in your story. Draw on your answers to the earlier questions to find natural points of conflict (fear versus desire, whether or not to reveal their secret, etc.). There may be many, but pick the biggest one. This single conflict will form the backbone of your character’s arc.\n\n- What are the outward signs of that inner conflict?\n- What does the character stand to gain or lose as a result of that conflict?\n- What conflict rages inside the character?",
+  "token_estimate": 129
+}

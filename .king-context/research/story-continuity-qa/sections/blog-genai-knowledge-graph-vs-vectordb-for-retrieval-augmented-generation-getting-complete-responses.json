@@ -1,0 +1,29 @@
+{
+  "title": "Getting Complete Responses",
+  "path": "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-getting-complete-responses",
+  "url": "https://neo4j.com/blog/genai/knowledge-graph-vs-vectordb-for-retrieval-augmented-generation/",
+  "keywords": [
+    "similarity scoring",
+    "predefined result limit",
+    "vector databases",
+    "knowledge graph entities",
+    "graph relationships",
+    "exact answer retrieval",
+    "incomplete results",
+    "query precision"
+  ],
+  "use_cases": [
+    "Use when high precision and exhaustive results are required for list-based queries",
+    "Use when the number of related items per entity varies significantly",
+    "Configure when moving beyond similarity-based search to deterministic relationship mapping"
+  ],
+  "tags": [
+    "data-retrieval",
+    "knowledge-graph",
+    "vector-search",
+    "query-optimization"
+  ],
+  "priority": 9,
+  "content": "Vector databases are more likely to provide incomplete or irrelevant results when returning an answer because they rely on similarity scoring and a predefined result limit.\n\nFor example: If you ask: “List all the books written by John Smith,” a vector database will return:\n\n- An incomplete list of titles (predefined limit too low), or\n- All titles by John Smith and some by other authors (predefined limit too high), or\n- The exact answer (predefined limit just right).\n\nBecause developers can’t know the predefined limit for all possible queries, it is nearly impossible to get an exact answer from a vector database.\n\nHowever, because knowledge graph entities are directly connected by relationships, the number of relationships is different for every entity. Knowledge graphs retrieve and return the exact answer, and nothing more. In this case, a knowledge graph query will return all books written by John Smith and nothing else.",
+  "token_estimate": 200
+}

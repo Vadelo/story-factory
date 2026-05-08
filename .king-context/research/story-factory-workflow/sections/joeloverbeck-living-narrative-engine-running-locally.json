@@ -1,0 +1,30 @@
+{
+  "title": "Running locally",
+  "path": "joeloverbeck-living-narrative-engine-running-locally",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "llm-proxy-server",
+    "npm run dev",
+    "npm run start",
+    "living-narrative-engine",
+    "localhost:3000",
+    "development server",
+    "proxy server",
+    "terminal command",
+    "API requests",
+    "local environment"
+  ],
+  "use_cases": [
+    "Use when setting up the development environment for the first time",
+    "Configure when testing LLM interactions locally before deployment",
+    "Implement when debugging both the frontend application and the proxy server simultaneously"
+  ],
+  "tags": [
+    "configuration",
+    "deployment",
+    "getting-started"
+  ],
+  "priority": 10,
+  "content": "To run the application, you will need to start two separate processes in two different command line terminals or\n\"windows\":\n\n1. **Start the LLM Proxy Server:**\n\n- Open a new command line terminal.\n- Navigate to the `llm-proxy-server` directory:\n\n```bash\n  cd path/to/your/project/living-narrative-engine/llm-proxy-server\n  ```\n\n- Run the development server:\n\n```bash\n  npm run dev\n  ```\n\nThis server will handle API requests related to LLM interactions. Keep this terminal window open.\n\n1. **Start the Main Application:**\n\n- Open a separate new command line terminal.\n- Navigate to the root directory of the project (e.g., `living-narrative-engine`):\n\n```bash\n  cd path/to/your/project/living-narrative-engine\n  ```\n\n- Run the main application:\n\n```bash\n  npm run start\n  ```\n\nThis will typically open the application in your default web browser (e.g., at a URL like `http://localhost:3000` or\n similar, depending on your project's `start` script configuration). Check the terminal output for the exact URL.",
+  "token_estimate": 186
+}

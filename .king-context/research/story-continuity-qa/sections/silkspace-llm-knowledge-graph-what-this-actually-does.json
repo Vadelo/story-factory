@@ -1,0 +1,31 @@
+{
+  "title": "What This Actually Does",
+  "path": "silkspace-llm-knowledge-graph-what-this-actually-does",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "knowledge graph",
+    "384-dim semantic space",
+    "long-term memory system",
+    "semantic embedding",
+    "natural language queries",
+    "persistence",
+    "vector retrieval",
+    "contextual retrieval",
+    "document analysis"
+  ],
+  "use_cases": [
+    "Implement when Claude requires long-term memory across multiple sessions",
+    "Configure when research sessions need to build upon previous document insights",
+    "Use when semantic similarity is needed for retrieving related concepts",
+    "Use when transforming unstructured documents into an evolving knowledge base"
+  ],
+  "tags": [
+    "memory-systems",
+    "knowledge-management",
+    "semantic-search",
+    "architecture"
+  ],
+  "priority": 10,
+  "content": "You're working with Claude, researching deep topics together. Claude discovers incredible insights, analyzes papers, makes connections... and then the session ends. Everything vanishes.\n\n**Not anymore.**\n\n**This knowledge graph IS Claude's long-term memory system.** It's the infrastructure that lets Claude:\n\n- **Store** → Every document gets analyzed and embedded into 384-dim semantic space\n- **Process** → Claude extracts learnings, insights, questions - not just keywords\n- **Retrieve** → Natural language queries return semantically similar content with full context\n- **Remember** → Everything persists forever across ALL sessions\n\n**For Claude, this is vital DNA.** It's not an optional tool - it's how Claude builds and maintains knowledge over time. Every research session builds on the last. Every insight connects to related concepts. Every question raised can be revisited weeks later.\n\nThink of it as giving Claude a self-organizing, semantic memory that grows more intelligent with every document added.",
+  "token_estimate": 194
+}

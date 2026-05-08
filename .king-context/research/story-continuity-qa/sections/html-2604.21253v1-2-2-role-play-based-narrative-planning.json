@@ -1,0 +1,32 @@
+{
+  "title": "2.2 Role-Play Based Narrative Planning",
+  "path": "html-2604.21253v1-2-2-role-play-based-narrative-planning",
+  "url": "https://arxiv.org/html/2604.21253v1",
+  "keywords": [
+    "multi-agent simulation",
+    "HoLLMwood",
+    "Agents’ Room",
+    "IBSEN",
+    "StoryWriter",
+    "semantic drift",
+    "narrative planning",
+    "role-playing paradigms",
+    "unstructured natural language",
+    "shared symbolic state"
+  ],
+  "use_cases": [
+    "Use when implementing dynamic narrative planning through specialized LLM personas",
+    "Configure when coordinating multiple LLM agents for stylistic diversity and dialogue generation",
+    "Implement when analyzing the limitations of textual critique loops in long-context scenarios",
+    "Use when evaluating the risks of hallucinatory contradictions in agent-based collaborative content"
+  ],
+  "tags": [
+    "multi-agent systems",
+    "narrative-generation",
+    "simulation frameworks",
+    "natural-language-processing"
+  ],
+  "priority": 7,
+  "content": "Recent research has shifted focus from static planning to dynamic multi-agent simulation, where frameworks like HoLLMwood (Chen et al., 2024), Agents’ Room (Huot et al., 2025), IBSEN (Han et al., 2024), and StoryWriter (Xia et al., 2025) assign specialized personas (e.g., Director, Actor) to distinct LLM instances. While these role-playing paradigms excel at stylistic diversity and dialogue richness, their coordination relies predominantly on unstructured natural language. Research indicates that such purely textual critique loops are susceptible to ambiguity and semantic drift over long contexts (Bae and Kim, 2024). Consequently, without a shared symbolic state to ground collaboration, instructions from high-level planners are often misinterpreted by downstream agents, leading to hallucinations that contradict established narrative facts.",
+  "token_estimate": 152
+}

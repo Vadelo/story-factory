@@ -1,0 +1,28 @@
+{
+  "title": "Cause and Effect Structuring",
+  "path": "learn-building-screenplay-structure-cause-and-effect-structuring",
+  "url": "https://www.finaldraft.com/learn/building-screenplay-structure/",
+  "keywords": [
+    "beats",
+    "cause and effect",
+    "chronological framework",
+    "second act slump",
+    "cinematic storytelling",
+    "character peril",
+    "obstacles",
+    "consequences"
+  ],
+  "use_cases": [
+    "Use when you want to avoid a second act slump and maintain narrative momentum.",
+    "Implement when structuring beats to ensure each action leads logically to the next in a script.",
+    "Configure when emphasizing cause and effect relationships to deepen character stakes."
+  ],
+  "tags": [
+    "narrative-technique",
+    "screenwriting",
+    "storytelling"
+  ],
+  "priority": 10,
+  "content": "Once you’ve got your beats color-coded and their acts designated, you can organize them further and into a chronological framework.\n\nIf you want your script to be as engaging as possible, it’s good to use “cause and effect” structuring when organizing your beats. Cause and effect is the relationship between two things when one thing makes something else happen. For example, a security guard triggers an alarm and it causes a bank robber to shoot the guard. Now the character is not just robbing a bank, he’s also a murderer, and the consequences are even greater if he’s caught. Perhaps the character realizes this and it causes him to panic, and he makes further mistakes, and these mistakes lead to other obstacles.\n\nKeeping your character(s) in constant peril or conflict is important to cinematic storytelling, and it’s a good way to avoid a “second act slump” where your story runs out of steam. A cause and effect structure will help you to achieve this. Each beat leads you to the next beat:\n\nThis thing happened, therefore…\n\n…this thing happens as a result.\n\nor:\n\nThis thing happened, but…\n\n…this thing happened to counteract it!\n\nThe more you do this, the stronger the connective tissue between your beats will be.",
+  "token_estimate": 276
+}

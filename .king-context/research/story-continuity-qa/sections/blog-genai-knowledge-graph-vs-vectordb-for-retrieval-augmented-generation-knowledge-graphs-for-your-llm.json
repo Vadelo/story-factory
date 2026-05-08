@@ -1,0 +1,33 @@
+{
+  "title": "Knowledge Graphs for Your LLM",
+  "path": "blog-genai-knowledge-graph-vs-vectordb-for-retrieval-augmented-generation-knowledge-graphs-for-your-llm",
+  "url": "https://neo4j.com/blog/genai/knowledge-graph-vs-vectordb-for-retrieval-augmented-generation/",
+  "keywords": [
+    "knowledge graph",
+    "LLM",
+    "Neo4j Aura",
+    "GraphAcademy",
+    "MCP server",
+    "explainability",
+    "high availability",
+    "scalability",
+    "Claude agents",
+    "data governance",
+    "VS Code"
+  ],
+  "use_cases": [
+    "Use when building LLM-powered applications requiring high accuracy and verifiable context",
+    "Implement when mission-critical applications need enterprise-grade scalability and data protection",
+    "Configure when providing MCP server access to AI agents like Claude or Cursor",
+    "Use when integrating ServiceNow data into a Neo4j knowledge graph for LLM analysis"
+  ],
+  "tags": [
+    "Artificial Intelligence",
+    "Knowledge Graphs",
+    "Architecture",
+    "Integrations"
+  ],
+  "priority": 10,
+  "content": "Knowledge graphs are the best choice to back your LLM to help ensure accuracy, explainability, and context. Neo4j’s reliable and verifiable knowledge graph boosts LLM accuracy and explainability, offering robust enterprise capabilities like data protection, governance, high availability, scalability, and flexible deployment, which make it a reliable and scalable choice to pair with LLMs that support mission-critical applications.\n\nLearn more about Neo4j’s knowledge graphs for LLM-powered applications or read up on how to build a knowledge graph in this developer’s guide.\n\nDownload the Developer’s Guide\n\n![](https://dist.neo4j.com/wp-content/uploads/20250430121502/Aura-1.jpg)\n\n![](https://dist.neo4j.com/wp-content/uploads/20250430121707/GA.jpg)\n\n![](https://dist.neo4j.com/wp-content/uploads/20250430121852/VideoHub.jpg)\n\n---\n\n![ServiceNow+Neo4j](https://dist.neo4j.com/wp-content/uploads/20260504213647/ServiceNow_Neo4j_Cover_Image-2.png)\n\n![](https://dist.neo4j.com/wp-content/uploads/20260430192621/1DWgg4VX6iJeZiEe_OxEzrQ.png)\n\n![](https://dist.neo4j.com/wp-content/uploads/20260429113617/1_SIlEBcf12oJTiLl7O2mLTA-scaled.webp)\n\n![GraphAcademy content is moved into Neo4j Aura, and an Aura Agent used to provide MCP server access to VS Code, Cursor, and Claude agents.](https://dist.neo4j.com/wp-content/uploads/20260423023749/architecture-1.png)\n\n![](https://dist.neo4j.com/wp-content/uploads/20260428043330/1l-xaXyrUxRdmeHIqDz_AFg.png)\n\n![](https://dist.neo4j.com/wp-content/uploads/20260428073514/1_cAfpQlomN-Qhc-_f1pCnpg-scaled.webp)",
+  "token_estimate": 156
+}

@@ -1,0 +1,36 @@
+{
+  "title": "RELEASE_NOTES_v1.7.md",
+  "path": "ngpepin-stylometric-transfer-commit-279322b6ddf9d0432a84cec2ec9a4f370ea24871-release-notes-v1-7-md",
+  "url": "https://github.com/ngpepin/stylometric-transfer/commit/279322b6ddf9d0432a84cec2ec9a4f370ea24871",
+  "keywords": [
+    "stylometric transfer",
+    "best-scoring attempt",
+    "rolling chunk-summary continuity chaining",
+    "corpus-derived humanization baselines",
+    "force_local_spelling",
+    "preserve_proper_name_case",
+    "lexical avoidance matching",
+    "deterministic normalization",
+    "H1-H8 heading-case policies",
+    "bounded controller-feedback retries",
+    "--llm-tests",
+    "perturbation-aware chunking"
+  ],
+  "use_cases": [
+    "Use when implementing robust stylometric transfer with auditable retry logic and scoring.",
+    "Configure when requiring deterministic heading normalization across H1-H8 levels.",
+    "Implement when local spelling enforcement or lexical avoidance is required for specific locales.",
+    "Use when processing large documents that require rolling chunk-summary continuity chaining.",
+    "Configure when balancing style retries against forced-person voice retry budgets."
+  ],
+  "tags": [
+    "release-notes",
+    "text-processing",
+    "configuration",
+    "governance",
+    "natural-language-processing"
+  ],
+  "priority": 8,
+  "content": "```diff\n@@ -0,0 +1,43 @@\n+### Release Notes (v1.7 vs v1.5)\n+\n+1. v1.7 moves beyond core stylometric transfer into a more controllable and auditable pipeline.\n+\n+2. Retry logic is now split by concern: style retries and forced-person voice retries use separate budgets.\n+\n+3. When retries are exhausted, the best-scoring attempt is kept instead of always taking the last attempt.\n+\n+4. Verbose logs now show per-chunk attempt scores and when best-attempt replacement is applied.\n+\n+5. Chunking is more robust: configurable split mode (paragraph/sentence/word) with automatic fallback when a unit is too large.\n+\n+6. Added perturbation-aware minimum chunk count and variance-aware chunk sizing controls.\n+\n+7. Added rolling chunk-summary continuity chaining with safeguards for empty/meta summaries.\n+\n+8. Added corpus-derived humanization baselines and per-chunk controller overlays.\n+\n+9. Added bounded controller-feedback retries so overlay feedback does not create unlimited retry growth.\n+\n+10. Added deterministic heading controls: qualifier sanitization, allowlist support, and heading-case normalization modes.\n+\n+11. Added per-level heading-case policies across H1-H8.\n+\n+12. Added preserve_proper_name_case for deterministic heading case transforms.\n+\n+13. Added deterministic normalization of curly double quotes to straight double quotes.\n+\n+14. Local spelling support is stronger via force_local_spelling and an external rules file.\n+\n+15. Lexical avoidance matching now uses a US-normalized comparison pass before final locale spelling output.\n+\n+16. Fingerprinting now better normalizes and de-duplicates rewrite policy and priority order fields.\n+\n+17. Rare-word hygiene improved (de-duplication and filtering of obvious malformed tokens).\n+\n+18. Non-author voice preservation remains strict through rewrite and deterministic post-processing.\n+\n+19. Smoke testing now defaults to regression-only; LLM tests are opt-in via --llm-tests.\n+\n+20. v1.7 regression coverage expanded significantly for chunking, retries, spelling, and deterministic normalization.\n+\n+21. Documentation and AGENTS guidance were updated to align with runtime behavior and operator workflows.\n```",
+  "token_estimate": 401
+}

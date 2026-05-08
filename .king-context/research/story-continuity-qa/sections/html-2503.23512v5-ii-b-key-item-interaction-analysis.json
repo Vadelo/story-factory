@@ -1,0 +1,31 @@
+{
+  "title": "II-B Key Item Interaction Analysis",
+  "path": "html-2503.23512v5-ii-b-key-item-interaction-analysis",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "Key Item Interaction Analysis",
+    "Ac(t)",
+    "Ii(t)",
+    "character actions",
+    "narrative aggregation",
+    "episode summaries",
+    "item continuity",
+    "precise future retrieval",
+    "temporal evaluation"
+  ],
+  "use_cases": [
+    "Use when tracking character-to-object relationships over a specific timeline",
+    "Implement when aggregating episode plot points into searchable narrative fragments",
+    "Configure when seeking to reduce redundancy in narrative data processing",
+    "Use when modeling character emotional changes and item interactions for continuity checks"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "data-modeling",
+    "content-summarization",
+    "information-retrieval"
+  ],
+  "priority": 7,
+  "content": "For each episode, we conduct a thorough evaluation by summarizing key plot points, character actions, and tracking interactions with important items. Let Ac​(t)A_{c}(t) represent the actions of character cc at time tt, and let Ii​(t)I_{i}(t) denote interactions with key item ii. The model generates summaries that encapsulate essential elements, including Ac​(t)A_{c}(t) (character actions), relationships, and emotional changes across the episode. It then analyzes the specific interactions Ii​(t)I_{i}(t) between characters and key items, documenting these for further analysis. This step aggregates relevant narrative information—combining episode summaries, key item interactions Ii​(t)I_{i}(t), and character actions Ac​(t)A_{c}(t)—to facilitate more precise future retrieval. The approach simplifies subsequent analysis of plot and item continuity, reducing redundancy and improving efficiency.",
+  "token_estimate": 150
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Template 1: Character Creation",
+  "path": "ai-prompt-for-novel-writing-template-1-character-creation",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "Template 1: Character Creation",
+    "prompt engineering",
+    "character profile",
+    "fiction writing",
+    "external goal",
+    "internal need",
+    "formative trauma",
+    "speech patterns",
+    "subversion of archetypes",
+    "character depth"
+  ],
+  "use_cases": [
+    "Use when prompting an AI to generate deep, multi-dimensional protagonists instead of shallow archetypes",
+    "Implement when developing secondary characters that need specific verbal tics and behavioral consistency",
+    "Configure when seeking to establish a character's internal psychological growth arc versus their external plot goals",
+    "Use when you need to pressure-test characters by defining how they behave under stress versus normal conditions"
+  ],
+  "tags": [
+    "creative-writing",
+    "prompt-templates",
+    "content-generation",
+    "narrative-design"
+  ],
+  "priority": 9,
+  "content": "The single most common AI failure in fiction is shallow characters. This template forces depth by requiring the AI to generate not just traits but wounds, contradictions, and speech patterns — the things that make characters feel real on the page.\n\nPrompt Template — Character\n\nYou are a [genre] fiction writer with expertise in deep character development. Create a detailed character profile for the [protagonist/supporting character] in a [genre] novel aimed at [target audience/comparable readers]. Character basics: Name: [name] Age/gender: [info] Occupation: [info] One-line premise: [what makes this character interesting?] Develop the following — don’t list traits, show how they manifest in behavior: 1. Three strengths and three genuine flaws (flaws must create real story problems) 2. External goal (what they’re visibly chasing) 3. Internal need (what they actually require to grow — different from the goal) 4. Core wound or formative trauma (specific, not generic) 5. Speech patterns, verbal tics, or habits 6. How they behave under stress vs. normal conditions 7. Their central relationship conflict with [character name] Constraints: Avoid archetypes without subversion. Every strength must have a shadow side. No backstory clichés (dead parents without subversion, “chosen one” framing, etc.).",
+  "token_estimate": 256
+}

@@ -1,0 +1,36 @@
+{
+  "title": "1 Introduction",
+  "path": "html-2504.11900v2-1-introduction",
+  "url": "https://arxiv.org/html/2504.11900v2",
+  "keywords": [
+    "FlawedFictions",
+    "FlawedFictionsLong",
+    "FlawedFictionsMaker",
+    "plot hole detection",
+    "LLM narrative comprehension",
+    "narrative consistency evaluation",
+    "synthetic data generation",
+    "reasoning budget",
+    "story summarization benchmarking",
+    "GPT-4o",
+    "o3-mini",
+    "Llama-3.3-70B"
+  ],
+  "use_cases": [
+    "Use when benchmarking story length effects on LLM plot hole detection capabilities",
+    "Implement when assessing narrative consistency in LLM-generated summaries or adaptations",
+    "Configure when evaluating if increased reasoning budget improves model performance on complex logic tasks",
+    "Use when generating synthetic datasets for narrative understanding using the FlawedFictionsMaker algorithm",
+    "Configure when comparing state-of-the-art models on long-context reasoning across the 1,200-4,000 word range"
+  ],
+  "tags": [
+    "benchmarking",
+    "llm-evaluation",
+    "natural-language-understanding",
+    "synthetic-data",
+    "narrative-analysis"
+  ],
+  "priority": 10,
+  "content": "We find that a large majority of frontier LLM and reasoning models like GPT-4o, o3-mini, and Llama-3.3-70B struggle in FlawedFictions, with story length having a significant negative effect on LLM’s plot hole detection capabilities. FlawedFictionsLong, an extension of our benchmark containing longer stories in the 1,200-4,000 word range, proves particularly difficult, with almost all models obtaining close to random level performance on the classification task. Plot hole detection also proves to be difficult irrespective of the reasoning budget allowed: state-of-the-art reasoning models, such as o1 and o3-mini, show a stable and sometimes worsened performance with increased reasoning budget.\n\nFinally, we conduct a case study to explore the use of plot hole detection for evaluating consistency of LLM generated stories. Considering the tasks of story summarization and contemporary adaptation of classical short stories, we find that LLM-generated outputs trigger significantly more plot-holes—over 50% more in summarization and 100% more in contemporary adaptation—using our best performing model on FlawedFictions.\n\nOverall, our work introduces a novel evaluation task—plot hole detection—for assessing deeper language understanding and reasoning in LLMs, along with a controllable synthetic data generation algorithm FlawedFictionsMaker, and an accompanying benchmark FlawedFictions, enabling systematic and holistic comparison of state-of-the-art models, uncovering critical gaps in their narrative comprehension, and providing a powerful framework for evaluating the quality of LLM-generated stories. We will make our dataset and code publicly available at the time of publication.",
+  "token_estimate": 305
+}

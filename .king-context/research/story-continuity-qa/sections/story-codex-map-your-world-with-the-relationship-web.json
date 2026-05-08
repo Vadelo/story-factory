@@ -1,0 +1,30 @@
+{
+  "title": "Map Your World with the Relationship Web",
+  "path": "story-codex-map-your-world-with-the-relationship-web",
+  "url": "https://proseengine.app/story-codex",
+  "keywords": [
+    "Relationship Web",
+    "force-directed graph",
+    "node size",
+    "character connections",
+    "AI-Detected Connections",
+    "scene co-occurrences",
+    "Full Story Overview",
+    "Filter by Type"
+  ],
+  "use_cases": [
+    "Use when visualizing complex character webs to understand social dynamics",
+    "Implement when tracking character interactions through automated scene analysis",
+    "Configure when filtering data views by specific entity types like factions or locations",
+    "Use when assessing character importance based on node connectivity metrics"
+  ],
+  "tags": [
+    "data-visualization",
+    "character-management",
+    "ai-features",
+    "analytics"
+  ],
+  "priority": 8,
+  "content": "Every character connection visualized as an interactive force-directed graph. Node size shows how connected each character is. Lines reveal who interacts with whom — and how often.\n\n✨ Relationship Web 23 entries · 101 connections Characters Only ▾\n\n🌐\n\nFull Story Overview\n\nSee your entire cast and their connections in a single interactive view\n\n🔍\n\nFilter by Type\n\nShow only characters, factions, or locations to focus on what matters\n\n🔗\n\nAI-Detected Connections\n\nLinks are discovered automatically from scene co-occurrences",
+  "token_estimate": 105
+}

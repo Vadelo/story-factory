@@ -1,0 +1,30 @@
+{
+  "title": "The 5 Prompt Mistakes That Kill Your Draft",
+  "path": "ai-prompt-for-novel-writing-the-5-prompt-mistakes-that-kill-your-draft",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "One-shot Fallacy",
+    "Role Framing",
+    "Iteration",
+    "Prompt Engineering",
+    "Scene-level Instructions",
+    "Model Output Quality",
+    "Prompt Refinement",
+    "Persona Assignment",
+    "Context Setting"
+  ],
+  "use_cases": [
+    "Use when drafting long-form content to avoid generic AI outputs",
+    "Implement when defining AI personas to improve stylistic accuracy",
+    "Configure when breaking down high-level outlines into granular scene beats",
+    "Use when developing an iterative prompting workflow to refine initial drafts"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "content-creation",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "I’ve seen these wreck promising projects. Most are obvious in retrospect. None are obvious in the moment when you’re staring at a blank document at midnight.\n\n- The one-shot fallacy. Believing a single prompt should produce a usable scene. It won’t. The prompt is the opening move, not the whole game. Iteration is the game.\n- No Role, no results. Skipping the Role framing because it feels unnecessary. It isn’t. “Write a tense scene” and “You are a thriller novelist who specializes in psychological suspense — write a tense scene” produce dramatically different outputs from the same model.\n- Chapter-level instructions instead of scene-level. “Write Chapter 5” gives the AI permission to make arbitrary decisions about what matters. “Write the scene in Chapter 5 where [specific beat]” keeps you",
+  "token_estimate": 171
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Chapter Continuity: Resolver Conversa",
+  "path": "chapter-002-light-novel-continuity",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-002-light-novel-continuity",
+  "keywords": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-002-light-novel",
+    "light",
+    "novel-webnovel",
+    "em",
+    "pt-br",
+    "terceira",
+    "pessoa",
+    "proxima",
+    "centrada",
+    "davi",
+    "ritmo",
+    "de",
+    "frases",
+    "curtas",
+    "impacto",
+    "metalinguagem",
+    "revisao",
+    "comentarios",
+    "e",
+    "versoes",
+    "humor",
+    "amargo",
+    "discreto",
+    "sem",
+    "quebrar",
+    "tensao",
+    "janelas",
+    "status",
+    "convencionais"
+  ],
+  "use_cases": [
+    "Check continuity and style risks before future drafting"
+  ],
+  "tags": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-002-light-novel"
+  ],
+  "priority": 8,
+  "content": "{\n  \"continuity_risks\": [\n    \"Manter Davi limitado a revisão, recuperação e deslocamento; não torná-lo autor absoluto.\",\n    \"Não transformar Yerin em instrumento de Davi; a crítica dela precisa ter consequência.\",\n    \"Preservar Kael como ameaça estrutural inteligente, não apenas antagonista irritado.\",\n    \"Explicar gradualmente a camada de restauração sem virar sistema convencional de status.\"\n  ],\n  \"style_notes\": [\n    \"Light novel/webnovel em pt-BR.\",\n    \"Terceira pessoa próxima centrada em Davi.\",\n    \"Ritmo de frases curtas em impacto, metalinguagem de revisão, comentários e versões cortadas.\",\n    \"Humor amargo discreto sem quebrar tensão.\",\n    \"Sem janelas de status convencionais.\"\n  ]\n}",
+  "token_estimate": 118
+}

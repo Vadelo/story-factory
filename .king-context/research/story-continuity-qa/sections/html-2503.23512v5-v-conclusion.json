@@ -1,0 +1,30 @@
+{
+  "title": "V Conclusion",
+  "path": "html-2503.23512v5-v-conclusion",
+  "url": "https://arxiv.org/html/2503.23512v5",
+  "keywords": [
+    "SCORE framework",
+    "Retrieval-Augmented Generation",
+    "TF-IDF",
+    "cosine similarity",
+    "sentiment analysis",
+    "narrative coherence",
+    "episodic storytelling",
+    "continuity errors",
+    "LLM-based evaluation"
+  ],
+  "use_cases": [
+    "Use when evaluating the coherence and emotional consistency of AI-generated stories",
+    "Implement when needing to detect continuity errors in episodic narrative structures",
+    "Configure when integrating RAG and TF-IDF for contextually relevant assessment metrics"
+  ],
+  "tags": [
+    "evaluation-framework",
+    "llm-testing",
+    "natural-language-processing",
+    "rag"
+  ],
+  "priority": 8,
+  "content": "We introduced SCORE, a novel LLM-based evaluation framework aimed at improving the coherence and emotional consistency of AI-generated stories. By incorporating Retrieval-Augmented Generation (RAG), TF-IDF, cosine similarity, and sentiment analysis, our method retrieves contextually relevant information, enabling more accurate and detailed assessments.\n\nExperimental results demonstrate that SCORE outperforms traditional methods by effectively identifying continuity errors, maintaining narrative coherence, and providing valuable insights for episodic storytelling. However, limitations such as dependency on retrieval accuracy and computational demands present opportunities for future improvement.\n\nIn future work, we aim to optimize retrieval accuracy, refine emotional analysis, and expand the framework’s applicability to a broader range of LLM-generated stories to further validate i",
+  "token_estimate": 144
+}

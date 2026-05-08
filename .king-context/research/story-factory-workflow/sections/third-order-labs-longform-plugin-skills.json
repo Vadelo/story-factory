@@ -1,0 +1,35 @@
+{
+  "title": "Skills",
+  "path": "third-order-labs-longform-plugin-skills",
+  "url": "https://github.com/third-order-labs/longform-plugin",
+  "keywords": [
+    "/start-project",
+    "/plan-chapter",
+    "/write-chapter",
+    "/review",
+    "long-form-methodology",
+    "continuity-management",
+    "narrative-craft",
+    "scene-craft",
+    "authorial-voice",
+    "project-scaffolding",
+    "I/D/P/S markers",
+    "canon-tracking"
+  ],
+  "use_cases": [
+    "Use when initiating a new fiction project with specialized directory conventions",
+    "Implement when tracking character arcs and narrative threads using I/D/P/S markers",
+    "Configure when managing multi-book continuity and resolving canon conflicts",
+    "Use when executing the plan-write-review workflow loop for long-form content",
+    "Implement when auditing story health and foreshadowing seeds through the /review command"
+  ],
+  "tags": [
+    "creative-writing",
+    "project-management",
+    "documentation-standards",
+    "workflow-automation"
+  ],
+  "priority": 10,
+  "content": "| Skill | Description |\n| --- | --- |\n| `long-form-methodology` | Core philosophy: why structure enables coherence at scale, document hierarchy, workflow loop, living documents, decision rules |\n| `continuity-management` | Scene log format, canon tracking, conflict resolution (canon always wins), cumulative tracking, glossary as entity resolver |\n| `narrative-craft` | Thread tracking (I/D/P/S markers), thread health monitoring, foreshadowing as deliberate system, arc pacing, multi-book continuity |\n| `scene-craft` | Lived-in texture, texture beats, supporting character motives, consequence glue, dialogue craft, POV discipline, violence/humor/magic presentation |\n| `authorial-voice` | Voice in long-form fiction: authorial consciousness layer, character voice profiles, two-layer capture system, novel-specific anti-patterns |\n| `project-scaffolding` | Full template library for all planning documents, directory conventions, file naming rules |\n\n1. Run `/start-project` — define your concept through conversation\n2. Review the scaffolded documents in `docs/`\n3. Run `/plan-chapter` to outline chapter 1\n4. Run `/write-chapter` to draft it\n5. Continue the plan → write cycle\n\n1. Run `/review` to audit all tracking documents\n2. Fix any critical continuity issues before drafting more\n3. Address stale threads in the next chapter plan\n4. Plant any overdue foreshadowing seeds\n\n1. Run `/plan-chapter next` to outline the next chapter\n2. Run `/write-chapter` to draft it\n3. Repeat for additional chapters\n4. Run `/wrap` to close the session cleanly\n\n1. Set up the project as a series in `/start-project`\n2. Use the same tracking documents across all volumes (scene log, continuity, threads, glossary are cumulative)\n3. Use `/review` at the end of each volume to check series-level thread health\n4. Plant foreshadowing seeds for future volumes during current drafting",
+  "token_estimate": 357
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Threads: O Homem na Margem da Página",
+  "path": "chapter-001-light-novel-threads",
+  "url": "local://works/a-margem-que-devora-o-heroi#chapter-001-light-novel-threads",
+  "keywords": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-001-light-novel"
+  ],
+  "use_cases": [
+    "Recall open and resolved story threads for this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-001-light-novel"
+  ],
+  "priority": 9,
+  "content": "{\n  \"new_threads\": [\n    \"Kael sempre pôde escrever comentários de revisão?\",\n    \"Quem criou a camada de restauração?\",\n    \"Quais variações cortadas ainda existem sob a versão publicada?\",\n    \"Davi pode recuperar capítulos inteiros descartados?\",\n    \"Yerin vai perceber que suas possibilidades vêm de edições externas?\"\n  ],\n  \"resolved_threads\": [\n    \"A obra fica melhor em formato light novel/webnovel textual para o momento atual.\"\n  ],\n  \"callbacks\": [\n    \"A frase 'Quase. A palavra mais cruel da edição.' deve voltar em cenas de versões descartadas.\",\n    \"A alteração de uma única palavra deve ser padrão de poder inicial de Davi.\",\n    \"O botão de 'resolver conversa' pode virar ameaça real: comentários resolvidos apagam conflitos.\"\n  ]\n}",
+  "token_estimate": 139
+}

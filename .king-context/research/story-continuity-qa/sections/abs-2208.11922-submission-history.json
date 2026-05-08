@@ -1,0 +1,33 @@
+{
+  "title": "Submission history",
+  "path": "abs-2208.11922-submission-history",
+  "url": "https://arxiv.org/abs/2208.11922",
+  "keywords": [
+    "submission history",
+    "arXiv identifier 2208.11922",
+    "branching time",
+    "logical theory",
+    "cs.CL",
+    "BibTeX citation",
+    "TeX Source",
+    "nonexclusive-distrib/1.0",
+    "v1 submission",
+    "v2 submission"
+  ],
+  "use_cases": [
+    "Use when tracking document revision history and version timestamps",
+    "Use when retrieving source files like TeX or experimental HTML formats",
+    "Use when citing research papers using BibTeX or external metadata providers",
+    "Use when navigating related research within the cs.CL (Computational Linguistics) context",
+    "Use when verifying the distribution license for a specific archival version"
+  ],
+  "tags": [
+    "versioning",
+    "citation-management",
+    "academic-publishing",
+    "metadata"
+  ],
+  "priority": 8,
+  "content": "From: Fengkui Ju [[view email](https://arxiv.org/show-email/036e1ba8/2208.11922)]\n**[[v1]](https://arxiv.org/abs/2208.11922v1)**Thu, 25 Aug 2022 08:06:44 UTC (25 KB)\n**[v2]**Sun, 16 Nov 2025 15:19:13 UTC (52 KB)\nFull-text links:## Access Paper:\nView a PDF of the paper titled Historical/temporal necessities/possibilities, and a logical theory of them in branching time, by Fengkui Ju and Woxuan Zhou\n* [View PDF](https://arxiv.org/pdf/2208.11922)\n* [HTML (experimental)](https://arxiv.org/html/2208.11922v2)\n* [TeX Source](https://arxiv.org/src/2208.11922)\n[view license](http://arxiv.org/licenses/nonexclusive-distrib/1.0/)\nCurrent browse context:\ncs.CL\n[<<prev](https://arxiv.org/prevnext?id=2208.11922&function=prev&context=cs.CL) | [next>>](https://arxiv.org/prevnext?id=2208.11922&function=next&context=cs.CL)\n[new](https://arxiv.org/list/cs.CL/new)|[recent](https://arxiv.org/list/cs.CL/recent)|[2022-08](https://arxiv.org/list/cs.CL/2022-08)\nChange to browse by:\n[cs](https://arxiv.org/abs/2208.11922?context=cs)\n\n* [NASA ADS](https://ui.adsabs.harvard.edu/abs/arXiv:2208.11922)\n* [Google Scholar](https://scholar.google.com/scholar_lookup?arxiv_id=2208.11922)\n* [Semantic Scholar](https://api.semanticscholar.org/arXiv:2208.11922)\nexport BibTeX citationLoading...\n\n×\nloading...\nData provided by:",
+  "token_estimate": 119
+}

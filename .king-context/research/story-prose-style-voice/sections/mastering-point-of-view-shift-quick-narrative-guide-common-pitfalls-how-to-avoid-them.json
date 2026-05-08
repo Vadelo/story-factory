@@ -1,0 +1,32 @@
+{
+  "title": "Common Pitfalls & How to Avoid Them",
+  "path": "mastering-point-of-view-shift-quick-narrative-guide-common-pitfalls-how-to-avoid-them",
+  "url": "https://literarydevices.net/mastering-point-of-view-shift-quick-narrative-guide/",
+  "keywords": [
+    "narrative point of view",
+    "POV shift",
+    "tonal consistency",
+    "tense selection",
+    "limited POV",
+    "third-person omniscient",
+    "transitional sentences",
+    "narrator identity",
+    "perspective management",
+    "chapter breaks"
+  ],
+  "use_cases": [
+    "Use when transitioning between different character perspectives to ensure clarity",
+    "Implement when auditing a manuscript for tense consistency across scenes",
+    "Configure when establishing boundaries for character knowledge in limited narration",
+    "Use when structuring chapter breaks to signal shifts in setting or narrator"
+  ],
+  "tags": [
+    "narrative-techniques",
+    "content-editing",
+    "creative-writing",
+    "structural-accuracy"
+  ],
+  "priority": 7,
+  "content": "| Pitfall | Explanation | Remedy | Abrupt Switches | Sudden change without cue. | Use transitional sentences or chapter breaks. | Mixed Tenses | Switching tense mid‑POV. | Stick to one tense per POV; plan ahead. | Unclear Narrator Identity | Reader unsure who is speaking. | Introduce narrator explicitly at start of each shift. | Over‑Omniscience in Limited POV | Too much information leaks. | Keep focus on the chosen character’s knowledge. |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+  "token_estimate": 140
+}

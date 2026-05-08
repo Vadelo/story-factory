@@ -1,0 +1,32 @@
+{
+  "title": "5. Text Segmentation Study",
+  "path": "html-2405.07282v1-5-text-segmentation-study",
+  "url": "https://arxiv.org/html/2405.07282v1",
+  "keywords": [
+    "Text Segmentation",
+    "Binary Classification Model",
+    "Sliding Window",
+    "Linear Kernel Convolution",
+    "Branching Point Detection",
+    "Local Maximums",
+    "Thresholding (TH1, TH2)",
+    "Narrative Segmentation",
+    "GPT-4-turbo",
+    "Heuristic Adjustment"
+  ],
+  "use_cases": [
+    "Use when segmenting long narrative texts into distinct linear segments",
+    "Implement when identifying high-probability branching points or decision moments in a story",
+    "Configure when reducing noise in classification signals via convolution kernels",
+    "Use when validating algorithmic text segmentation with large language models like GPT-4"
+  ],
+  "tags": [
+    "Natural Language Processing",
+    "Machine Learning",
+    "Narrative Analysis",
+    "Algorithm Design"
+  ],
+  "priority": 7,
+  "content": "In this part, we demonstrate how the obtained binary classification model can be used for segmenting text into linear segments separated by potential branching points in the narrative.\n\n![Refer to caption](https://arxiv.org/html/extracted/2405.07282v1/alice2.png)\n\nFigure 2: Most probable branching points in the text of Alice in Wonderland.\n\nFor our experiments, we utilized the text of Alice’s Adventures in Wonderland by Lewis Carroll, as it is in the public domain. We employed a sliding window of 10 sentences with a step of 1 sentence and calculated the probability of branching at any given possible point. To reduce noise, we applied a convolution with a linear kernel of width 25, and then on the resulting sequence, we identified local maximums on segments lying above the threshold T⁢H⁢1=0.5𝑇𝐻10.5TH1=0.5italic_T italic_H 1 = 0.5, preserving only peaks above the threshold T⁢H⁢2=0.6𝑇𝐻20.6TH2=0.6italic_T italic_H 2 = 0.6 to obtain 15 main branching points. Indeed, the parameters of such a heuristic can be adjusted to change the sensitivity of the approach.\n\nIn the Figure 2 one can see 15 most probable points of branching in the given text. To analyse them and gain understanding if these points really correspond to the important decisions of the chraracter, we used GPT-4-turbo model to assess selected point",
+  "token_estimate": 269
+}

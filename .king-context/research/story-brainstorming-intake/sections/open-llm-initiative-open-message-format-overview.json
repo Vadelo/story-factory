@@ -1,0 +1,33 @@
+{
+  "title": "Overview",
+  "path": "open-llm-initiative-open-message-format-overview",
+  "url": "https://github.com/open-llm-initiative/open-message-format",
+  "keywords": [
+    "OMF",
+    "messages object",
+    "API contract",
+    "conversational agents",
+    "interoperability",
+    "built-in convertors",
+    "schema",
+    "LLM integration",
+    "generative AI",
+    "extensibility"
+  ],
+  "use_cases": [
+    "Use when developing conversational agents that require a consistent API contract between client and backend",
+    "Configure when swapping between different LLMs for rapid experimentation without rewriting integration logic",
+    "Implement when needing to decouple client-side UI tools like Gradio or Streamlit from backend message schemas",
+    "Use when standardizing prompt interactions across multiple upstream LLM providers",
+    "Implement when a lightweight, extensible message exchange format is required for AI applications"
+  ],
+  "tags": [
+    "architecture",
+    "api-reference",
+    "interoperability",
+    "llm-integration"
+  ],
+  "priority": 10,
+  "content": "OMF is a compact, user-friendly specification that defines a lightweight API contract between client and server for building conversational agents, and defines a standard schema for the \"messages\" object, which contains user and assistant interactions. The \"messages\" object schema in OMF serves a dual purpose, to define a standard way to exchange user and assistant conversations from the client to your backend server, and from your backend server to an upstream LLM.\n\nDevelopers building conversational agents and generative AI applications waste precious time on two things:\n\n- Writing integration code that works only with specific client-side UI tools such as Gradio or Streamlit, which reduces their ability to experiment with new tools quickly.\n- Writing integration code what works with specific LLMs, reducing their ability to easily swap between LLMs for quick experimentation.\n\nWriting boilerplate integration code results in a slowed pace of development and a system that is rigid and difficult to change. OMF eliminates this undifferentiated heavy lifting by defining a standard API contract and a schema to exchange messages for conversational apps, and providers built-in convertors that make it easy for developers to experiment with different LLMs.\n\nThe key advantages of using OMF are:\n\n- **Interoperability:** OMF standardizes prompt interactions between clients, servers, and LLMs. OMF is also interoperable across multiple popular LLMs.\n- **Extensibility:** OMF is designed to be extended in order to fit all developers' use cases.\n\nOMF simplifies the process of sending messages, making it easier to deploy conversational agents and other LLM-based tools and applications. It removes the guesswork for developers on how to send and receive messages.\n\n![image](site_content/before.png)\n![image (1)](site_content/after.png)",
+  "token_estimate": 356
+}

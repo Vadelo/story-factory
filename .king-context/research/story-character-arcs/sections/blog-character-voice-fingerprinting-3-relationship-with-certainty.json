@@ -1,0 +1,29 @@
+{
+  "title": "3. Relationship with Certainty",
+  "path": "blog-character-voice-fingerprinting-3-relationship-with-certainty",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "certainty",
+    "ambiguity",
+    "assertion",
+    "hedging",
+    "dialogue diversity",
+    "POV differentiation",
+    "character voice",
+    "uncertainty analysis"
+  ],
+  "use_cases": [
+    "Use when developing distinct character voices for dialogue-heavy scenes",
+    "Implement when checking if character POVs are sufficiently differentiated",
+    "Configure when drafting character reactions to mystery or incomplete information",
+    "Use when testing the emotional resonance of a character's speech patterns"
+  ],
+  "tags": [
+    "character-design",
+    "narrative-theory",
+    "writing-technique"
+  ],
+  "priority": 8,
+  "content": "How does this character handle not knowing? What do they do when a situation is ambiguous?\n\nSome characters assert. They state their interpretation as fact, even when certainty isn't available: \"He's guilty.\" Others hedge compulsively: \"I mean, it's possible he was involved, though I wouldn't want to say definitively.\" Still others express uncertainty as a form of analysis: \"I don't know, and here's why that matters.\"\n\nThis dimension generates enormous dialogue diversity because uncertainty is constant in fiction. Characters who are forced to respond to ambiguous situations constantly — which is most of the time — will express themselves very differently based on their relationship with certainty.\n\nThe test: Pick a situation of genuine uncertainty in your story. Write the same scene twice: once from the POV or dialogue of a character who defaults to assertion, once from a character who defaults to hedging. If the outputs feel similar, the voices aren't different enough.",
+  "token_estimate": 204
+}

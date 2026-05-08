@@ -1,0 +1,30 @@
+{
+  "title": "What NCP can preserve ​",
+  "path": "docs-use-ncp-what-ncp-can-preserve",
+  "url": "https://dramatica.com/docs/use/ncp",
+  "keywords": [
+    "NCP",
+    "Storyform",
+    "Throughline structure",
+    "Storybeats",
+    "Dynamics",
+    "Storypoints",
+    "Partial notebook update",
+    "Narrative envelope",
+    "Subtext",
+    "Storytelling prose"
+  ],
+  "use_cases": [
+    "Use when preserving specific story elements like perspective and players during a development phase",
+    "Implement when conducting partial updates to a notebook without deleting unmentioned data",
+    "Configure when distinguishing between Storyform structural completeness and active NCP development states"
+  ],
+  "tags": [
+    "data-persistence",
+    "narrative-architecture",
+    "content-management"
+  ],
+  "priority": 8,
+  "content": "Depending on what you have already developed, NCP can carry:\n\n- Story title and narrative envelope\n- Throughline structure and Dynamics\n- Perspectives and Overviews\n- Storypoints and Storybeats\n- Players and related authored material\n- Subtext and Storytelling prose tied to those nodes\n\nNCP is also allowed to be incomplete while you are still developing. That is intentional. A partial notebook update is treated as a partial update, not as an instruction to delete everything not mentioned yet.\n\nIMPORTANT\n\nStoryform completeness and NCP completeness are not the same thing. A saved Storyform can be structurally complete while the active NCP notebook still contains only the parts you are actively developing.",
+  "token_estimate": 147
+}

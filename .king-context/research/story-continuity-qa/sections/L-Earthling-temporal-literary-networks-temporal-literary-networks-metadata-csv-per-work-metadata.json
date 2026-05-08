@@ -1,0 +1,32 @@
+{
+  "title": "`temporal_literary_networks_metadata.csv` — Per-work metadata",
+  "path": "L-Earthling-temporal-literary-networks-temporal-literary-networks-metadata-csv-per-work-metadata",
+  "url": "https://github.com/L-Earthling/temporal-literary-networks",
+  "keywords": [
+    "temporal_literary_networks_metadata.csv",
+    "Genre_Primary",
+    "Genre_Secondary",
+    "Epoch",
+    "Form",
+    "pd.read_csv",
+    "literary work metadata",
+    "multi-genre works",
+    "Temporal Networks",
+    "Author"
+  ],
+  "use_cases": [
+    "Use when mapping network data to specific historical epochs or genres",
+    "Configure when filtering literary datasets by publication year or author",
+    "Implement when analyzing the structural differences between Novels and Plays",
+    "Use when handling edge cases documented in curation remarks"
+  ],
+  "tags": [
+    "dataset-schema",
+    "metadata",
+    "literary-analysis",
+    "data-structure"
+  ],
+  "priority": 9,
+  "content": "One row per literary work. Provides genre, epoch, form and author information.\n\n| Column | Type | Description |\n| --- | --- | --- |\n| `Author` | string | Author name |\n| `Book` | string | Title (matches `Book` in networks file) |\n| `Year` | int | Year of first publication |\n| `Epoch` | string | Historical epoch (6 categories) |\n| `Genre_Primary` | string | Primary genre label (8 categories) |\n| `Genre_Secondary` | string | Secondary genre label where applicable |\n| `Form` | string | `Novel`, `Play`, or `Other` |\n| `Remarks` | string | Curation notes (edge cases, multi-genre works) |\n\n**Size:** 626 rows · 8 columns · comma-delimited\n\n```python\nmeta = pd.read_csv(\"temporal_literary_networks_metadata.csv\")\n```\n\n---",
+  "token_estimate": 164
+}

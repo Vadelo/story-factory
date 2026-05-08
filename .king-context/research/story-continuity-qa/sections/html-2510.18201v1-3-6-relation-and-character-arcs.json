@@ -1,0 +1,32 @@
+{
+  "title": "3.6 Relation and Character Arcs",
+  "path": "html-2510.18201v1-3-6-relation-and-character-arcs",
+  "url": "https://arxiv.org/html/2510.18201v1",
+  "keywords": [
+    "MARCUS",
+    "measure of circumstance",
+    "sentiment co-efficient",
+    "Savitzky-Golay Filter",
+    "window function",
+    "polynomial fitting",
+    "character arc",
+    "relation arc",
+    "te calculation",
+    "emotion label confidence"
+  ],
+  "use_cases": [
+    "Use when calculating the emotional trajectory between two specific characters over a narrative sequence.",
+    "Implement when smoothing noisy event data using Savitzky-Golay filters to visualize narrative trends.",
+    "Configure when tuning the influence of fine-grained sentiment scores versus categorical emotion labels in arc generation.",
+    "Use when aggregating individual relational data points into a comprehensive character development arc."
+  ],
+  "tags": [
+    "narrative-analysis",
+    "data-visualization",
+    "sentiment-analysis",
+    "nlp-modeling"
+  ],
+  "priority": 8,
+  "content": "MARCUS generates relation arcs by plotting the measure of circumstance, tt, for every event, ee, belonging to an actor/experiencer pair of characters across the narrative.\n\n| te=α∗se+∑i=1Lβi∗ciet_{\\text{e}}=\\alpha*s_{\\text{e}}+\\sum^{L}_{i=1}\\beta_{i}*c_{\\text{i}_{\\text{e}}} | (1) |\n| --- | --- |\n\nwhere tet_{\\text{e}} is the measure of circumstance for event ee, α\\alpha ∈(0,1)\\in(0,1) is the sentiment co-efficient that controls how much influence the fine grained sentiment score should have over relation arcs, ses_{\\text{e}} ∈(0,1)\\in(0,1) is the sentiment of that event, LL is the total number of emotion labels for that event, βi\\beta_{\\textit{{\\text{i}}}} ∈[−2,2]\\in[-2,2] is the fixed score for emotion label, and ciec_{\\text{i}_{\\text{e}}} ∈(0,1)\\in(0,1) is the corresponding confidence score for each emotion label in the event. We run multiple experiments to choose optimal values of α\\alpha and β\\beta: their final values are listed in the code.\n\nWe apply a window function R(.)R(.) over te\\textbf{t}_{\\textbf{\\text{e}}}, the set of all measures of circumstance corresponding to the event set e, to calculate the relation arc, r, given by\n\n| r=R​(te,n,p)\\textbf{r}=R(\\textbf{t}_{\\text{e}},n,p) | (2) |\n| --- | --- |\n\nwhere R(.)R(.) is the window function that helps smoothen the arcs while retaining previous state information, nn is the window size, and pp is an optional parameter for specifying order for polynomial fitting.\n\n![Refer to caption](https://arxiv.org/html/pics/hermione-all-own-vanilla.png)\n\n(a)\n\n![Refer to caption](https://arxiv.org/html/pics/hermione-all-unbound-savgol.png)\n\n(b)\n\nFigure 3: (a) Character Arc for Hermione, No Rolling Function Applied; (b) Character Arc for Hermione, with a savgol filter of window size 1/10th of her event sequence length, fitted with a third degree polynomial.\n\nAs shown in Fig 3(a), the relation arcs are too noisy without smoothing or retention of previous circumstance information. We experiment with three standard window functions: Rolling Mean, Triangular Rolling Mean and Savitzky-Golay Filter [21]. We find that the Savitzky-Golay Filter represents the narrative most accurately as seen in Fig 3(b), and use the same for all arcs represented in the paper. We generate the character arc, c, by adding up the corresponding relation arcs r of that character over all events e in the role of actor and experiencer respectively.\n\nWe ask a set of 16 human volunteers (avid fiction readers aged 20-31) to peruse both the Harry Potter and Lord of the Rings series, following which they evaluate our system by answering surveys on two tasks: idchar, where the volunteers are given a list of relation arcs and character pairs and asked to match the ar",
+  "token_estimate": 521
+}

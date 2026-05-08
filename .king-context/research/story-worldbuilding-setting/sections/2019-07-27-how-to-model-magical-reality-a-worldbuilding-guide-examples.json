@@ -1,0 +1,33 @@
+{
+  "title": "Examples",
+  "path": "2019-07-27-how-to-model-magical-reality-a-worldbuilding-guide-examples",
+  "url": "https://www.projectmultiplexer.com/2019/07/27/how-to-model-magical-reality-a-worldbuilding-guide/",
+  "keywords": [
+    "fictional magic systems",
+    "Call of Cthulhu",
+    "Shadowrun",
+    "Mage: the Ascension",
+    "Blades in the Dark",
+    "role-playing game",
+    "model",
+    "random generation",
+    "system conversion"
+  ],
+  "use_cases": [
+    "Use when demonstrating model outputs with well-known fictional systems",
+    "Use when converting existing RPG systems into model inputs for testing",
+    "Use when illustrating random virtual magic system generation",
+    "Use when building custom example systems for training or documentation",
+    "Use when illustrating variations of game mechanics in documentation"
+  ],
+  "tags": [
+    "examples",
+    "role-playing-games",
+    "content-generation",
+    "fantasy",
+    "documentation"
+  ],
+  "priority": 7,
+  "content": "Let’s pass a few well-known systems from fiction into this model and see what kicks out. These aren’t RPG per se, but they’ve been converted into variations of them. I chose these examples for their general familiarity and for their breadth. They’re useful expressions of random fictional magic systems with analogs in games. Each is different in tone.\n\nI have also mocked up:\n\n- Call of Cthulhu\n- Shadowrun\n- Mage: the Ascension\n- Blades in the Dark\n\nAfter examples, let’s build two of our own.",
+  "token_estimate": 114
+}

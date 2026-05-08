@@ -1,0 +1,35 @@
+{
+  "title": "4. Fantasy",
+  "path": "reality-genre-4-fantasy",
+  "url": "https://storygrid.com/reality-genre/",
+  "keywords": [
+    "Fantasy Reality Genre",
+    "ALTERNATE WORLD",
+    "suspension of disbelief",
+    "Magical subgenre",
+    "Science Fiction subgenre",
+    "Epic Fantasy",
+    "Grimdark",
+    "Cyberpunk",
+    "Hard Science",
+    "Post Apocalyptic",
+    "SINGLE AUDIENCE MEMBER",
+    "SAM"
+  ],
+  "use_cases": [
+    "Use when establishing the governing laws and internal logic of a fictional setting",
+    "Implement when categorizing a narrative project into specific subgenres like Urban Fantasy or Space Opera",
+    "Configure when defining the technological or magical constraints available to story Avatars",
+    "Use when evaluating if a world-building framework allows for a reader's suspension of disbelief",
+    "Configure when aligning story codes and norms with the expectations of the Single Audience Member"
+  ],
+  "tags": [
+    "narrative-design",
+    "genre-classification",
+    "world-building",
+    "creative-writing"
+  ],
+  "priority": 9,
+  "content": "The Fantasy Reality Genre includes ALTERNATE WORLDS of wonder and imagination that require a comprehensive suspension of disbelief. Because of this suspension of belief, it requires a high degree of order so the reader can understand the rules of the ALTERNATE WORLD and stay engaged.\n\nThe Fantasy Reality Genre is delineated by three subgenres:\n\nMagical: ALTERNATE WORLDS with magical laws that can be mastered by certain AVATARS, but not everyone. They are nostalgic representations of the past when people earned the right to use magic. You can further break Magical stories down into categories such as:\n\n1. Epic Fantasy: The Hobbit by J.R.R. Tolkien, A Game of Thrones by George R.R. Martin\n2. Portal Fantasy: The Lion, the Witch, and the Wardrobe by C.S. Lewis\n3. Dark Fantasy: Stories of H.P. Lovecraft\n4. Grimdark Fantasy: The Blade Itself by Joe Abercrombie\n5. Urban Fantasy: The Dresden Files by Jim Butcher\n\nScience Fiction: ALTERNATE WORLDS with imagined technologies with no special requirements of the user. They are futuristic representations of striving for utopia by distributing technology to all people. You can further break Science Fiction down into categories such as:\n\n1. Alternate History: Watchmen by Alan Moore\n2. Cyberpunk: Neuromancer by William Gibson\n3. Hard Science: Solaris by Stanislaw Lem\n4. Military: Ender’s Game by Orson Scott Card, Old Man’s War by John Scalzi\n5. Post Apocalyptic/Dystopian: The Road by Cormac McCarthy\n6. Romantic: Passengers (2016 film)\n7. Soft Science: Star Trek\n8. Space Opera: Star Wars\n\nGetting the Reality Genre right for your story is important because it helps your SINGLE AUDIENCE MEMBER(SAM) understand the codes, laws, and norms of the ALTERNATE WORLD where your story takes place. It enables SAM to suspend her disbelief and project her own experience inside of the ALTERNATE WORLD.\n\n---",
+  "token_estimate": 393
+}

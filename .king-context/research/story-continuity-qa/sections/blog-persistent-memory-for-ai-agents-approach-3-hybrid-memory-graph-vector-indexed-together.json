@@ -1,0 +1,35 @@
+{
+  "title": "Approach 3: Hybrid Memory (Graph + Vector, Indexed Together)",
+  "path": "blog-persistent-memory-for-ai-agents-approach-3-hybrid-memory-graph-vector-indexed-together",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "Hybrid Memory",
+    "GraphRAG",
+    "Entity Extraction",
+    "Canonical ID",
+    "Vector Embeddings",
+    "Knowledge Graph",
+    "Bidirectional Retrieval",
+    "Context Expansion",
+    "Relational Search",
+    "Agentic Operating System",
+    "Metadata Join"
+  ],
+  "use_cases": [
+    "Implement when queries require both structured relational data and unstructured semantic similarity",
+    "Configure when managing a fleet of agents asking diverse questions across high-complexity domains",
+    "Use when entities extracted from artifacts need to be resolved and merged against a persistent graph",
+    "Configure when retrieval must navigate from semantic vector chunks back to structured entity relationships",
+    "Implement when building production-grade RAG systems that require governance tags and citation tracking"
+  ],
+  "tags": [
+    "Architecture",
+    "RAG",
+    "Database",
+    "Graph-Databases",
+    "Vector-Search"
+  ],
+  "priority": 9,
+  "content": "The architecture most production fleets converge on is hybrid: a knowledge graph carries the entity model and the relationships, a vector store carries the unstructured content, and both are indexed by the same canonical IDs so a query can hop from one to the other.\n\nThe pattern is straightforward. When a new artifact arrives — a research note about a target account — the system does three things:\n\n1. Entity extraction. Parse the artifact for entities (companies, people, products, signals). Resolve them against the graph; create new nodes for ones that did not exist; merge into existing ones for ones that did.\n2. Graph write. Add edges between the artifact node, the entities it references, the agent that produced it, and any prior artifacts it cites or builds on.\n3. Vector write. Embed the full artifact text (and possibly per-paragraph chunks); write the embeddings to the vector store with metadata containing the canonical IDs of all entities mentioned, the artifact ID, and governance tags.\n\nNow retrieval is bidirectional:\n\n- Start in the graph, end in vectors. \"Show me everything we have written about this account in the last quarter\" — query the graph for the account's`:Document` edges, fetch the artifact IDs, retrieve the vector chunks for context expansion.\n- Start in vectors, end in the graph. \"Find documents semantically similar to this prompt; for each, tell me which entities are involved and how they are related.\" Vector search returns chunks; metadata gives the canonical entity IDs; the graph gives the structure.\n\nThis is what makes hybrid memory more than the sum of its parts. The graph gives you structure; the vector store gives you surface area; the canonical-ID join lets a query exploit both. Frameworks like the GraphRAG patterns published in 2024-2025 have formalized variants of this approach, but the underlying insight is older — every mature search system has eventually arrived at \"structured index plus full-text index, joined by ID.\"\n\nFor a single agent answering a single kind of question — say, a customer-support assistant retrieving FAQ entries — a vector store alone is enough. The complexity of running and maintaining a graph alongside is not justified. The hybrid pattern earns its keep when the fleet has many agents asking many shapes of questions, and the questions span both relational and semantic domains. That is the regime an agentic operating system typically operates in.\n\n---",
+  "token_estimate": 526
+}

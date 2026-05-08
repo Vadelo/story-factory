@@ -1,0 +1,33 @@
+{
+  "title": "POV and Voice Must Match",
+  "path": "point-of-view-pov-and-voice-must-match",
+  "url": "https://thewritingking.com/point-of-view/",
+  "keywords": [
+    "POV and Voice Consistency",
+    "First person narrative",
+    "Third limited perspective",
+    "Third omniscient narrator",
+    "POV discipline",
+    "AI-assisted writing",
+    "POV violations",
+    "Narrative filtering",
+    "Character perception",
+    "Voice-perspective matching"
+  ],
+  "use_cases": [
+    "Use when establishing narrative voice based on specific character backgrounds",
+    "Implement when auditing AI-generated text for perspective consistency",
+    "Configure when deciding between First Person and Third Omniscient narrative structures",
+    "Use when revising scenes to ensure technical vocabulary matches the POV character's education",
+    "Implement when fixing narrative shifts where internal thoughts of multiple characters collide"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-theory",
+    "editing-guidelines",
+    "ai-best-practices"
+  ],
+  "priority": 9,
+  "content": "Your choice of POV affects every word of your narrative voice. First person demands a distinctive character voice that holds up for the entire novel. Third limited filters everything through one character’s perception, coloring every description and interpretation. Third omniscient requires you to develop a narrator voice that exists separately from any character in the story.\n\nThe voice has to match whoever is doing the perceiving. If you are writing from a rough street kid’s perspective, the prose cannot read like a literature professor’s observations. If you are in an educated scientist’s head, technical vocabulary makes sense. When the POV character and the narrative voice do not match, readers feel something is off even when they cannot put their finger on what it is.\n\nThis is also where AI-assisted writing causes the most damage. AI shifts POV mid-scene constantly. You will be writing a scene from one character’s perspective, ask AI to develop the next few paragraphs, and get back beautiful prose that suddenly includes another character’s internal thoughts. AI does not maintain POV discipline because it does not experience perspective the way readers do. If you use AI anywhere in your writing process, checking every assisted scene for POV violations should be the first thing you do in revision.",
+  "token_estimate": 279
+}

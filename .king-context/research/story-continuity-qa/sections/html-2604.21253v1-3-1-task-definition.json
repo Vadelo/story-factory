@@ -1,0 +1,30 @@
+{
+  "title": "3.1 Task Definition",
+  "path": "html-2604.21253v1-3-1-task-definition",
+  "url": "https://arxiv.org/html/2604.21253v1",
+  "keywords": [
+    "Task Definition",
+    "Graph-based Narrative Planning",
+    "Iterative Graph Refinement",
+    "Graph-Grounded Script Synthesis",
+    "Evaluate-Plan-Revise cycle",
+    "event backbone",
+    "character relation",
+    "natural language script"
+  ],
+  "use_cases": [
+    "Use when decomposing complex script generation into structured sequential stages",
+    "Implement when constructing initial event backbones and character relations for narratives",
+    "Configure when an iterative evaluation and refining cycle is required to optimize narrative graphs",
+    "Use when transforming structured graph data into coherent natural language scripts"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "machine-learning-framework",
+    "narrative-generation",
+    "graph-theory"
+  ],
+  "priority": 10,
+  "content": "Given a concise premise PP, our goal is to generate a complete, high-quality script SS. We propose a framework ℱ\\mathcal{F} that decomposes this complex generation task into three consecutive stages: (1) Graph-based Narrative Planning, which constructs the initial event backbone and character relation; (2) Iterative Graph Refinement, which optimizes the narrative (event and character) graph through an iterative Evaluate-Plan-Revise cycle; and (3) Graph-Grounded Script Synthesis, which transforms the structured graph into a natural language script. The overall framework is illustrated in Figure 1.",
+  "token_estimate": 110
+}

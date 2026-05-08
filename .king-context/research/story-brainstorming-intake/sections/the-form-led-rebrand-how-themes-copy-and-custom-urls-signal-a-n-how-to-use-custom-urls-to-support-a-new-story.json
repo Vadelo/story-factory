@@ -1,0 +1,32 @@
+{
+  "title": "How to use custom URLs to support a new story",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-how-to-use-custom-urls-to-support-a-new-story",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "product architecture",
+    "ICP alignment",
+    "narrative performance",
+    "conversion tracking",
+    "URL structure",
+    "legacy narrative",
+    "downstream conversion",
+    "request-demo",
+    "Google Sheets integration",
+    "audience-specific URLs"
+  ],
+  "use_cases": [
+    "Configure when transitioning from a single product to a multi-product suite architecture",
+    "Implement when creating audience-specific entry points for different Ideal Customer Profiles (ICPs)",
+    "Use when A/B testing legacy positioning against a new brand story",
+    "Configure when mapping internal form versions to human-readable slugs for better UX"
+  ],
+  "tags": [
+    "content-strategy",
+    "configuration",
+    "marketing-operations",
+    "analytics"
+  ],
+  "priority": 7,
+  "content": "Align URLs with your new product architecture.\n\nExample: You’re moving from a single product to a suite.\n\n- `/signup` becomes`/workspace-signup`\n- `/enterprise-demo` becomes`/platform-consult`\n- `/beta` becomes`/labs-signup`\n\nCreate audience-specific URLs that mirror your new ICPs.\n\n- `/founders-waitlist`,`/ops-teams-intake`,`/agencies-partner-form` Each URL can point to the same base form with slight theme or copy variations.\n\nUse URLs to track old vs new story performance.\n\n- Run the “legacy” narrative at`/request-demo` and the new narrative at`/design-session`.\n- Compare completion and downstream conversion using your Google Sheets data.\n\nAvoid cryptic or internal names.\n\n- Replace`/q4_form_v3` with something a human would recognize:`/customer-feedback` or`/upgrade-request`.",
+  "token_estimate": 127
+}

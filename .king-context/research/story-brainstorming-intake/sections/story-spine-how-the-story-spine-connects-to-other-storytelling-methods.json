@@ -1,0 +1,32 @@
+{
+  "title": "How the Story Spine Connects to Other Storytelling Methods",
+  "path": "story-spine-how-the-story-spine-connects-to-other-storytelling-methods",
+  "url": "https://storytellingdb.com/story-spine/",
+  "keywords": [
+    "Story Spine",
+    "Three-Act Structure",
+    "Hero’s Journey",
+    "Inciting Incident",
+    "Rising Action",
+    "Inciting Incident",
+    "Act 1: Setup",
+    "Act 2: Complications",
+    "Act 3: Climax",
+    "Storytelling Frameworks"
+  ],
+  "use_cases": [
+    "Use when mapping the Story Spine beats to the Three-Act Structure",
+    "Implement when aligning narrative development with the Hero’s Journey",
+    "Configure when designing plot points for structural narrative consistency",
+    "Use when transitioning from simple story outlining to complex act-based plotting"
+  ],
+  "tags": [
+    "narrative-design",
+    "structural-mapping",
+    "creative-frameworks",
+    "documentation"
+  ],
+  "priority": 8,
+  "content": "| Story Spine Element | Three-Act Structure | Hero’s Journey |\n| --- | --- | --- |\n| Once upon a time… / Every day… | Act 1: Setup | Ordinary World |\n| Until one day… | Act 1: Inciting Incident | Call to Adventure |\n| Because of that… (first) | Act 2: Rising Action | Crossing the Threshold |\n| Because of that… (second) | Act 2: Complications | Tests, Allies, Enemies |\n| Until finally… | Act 3: Climax | Ordeal / Reward |\n| And ever since then… | Act 3: Resolution | Return with Elixir |",
+  "token_estimate": 136
+}

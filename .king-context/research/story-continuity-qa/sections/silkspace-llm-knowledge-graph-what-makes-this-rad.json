@@ -1,0 +1,33 @@
+{
+  "title": "What Makes This Rad",
+  "path": "silkspace-llm-knowledge-graph-what-makes-this-rad",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "sentence-transformers",
+    "localhost:8765",
+    "semantic clustering",
+    "XDG-compliant",
+    "Pydantic",
+    "USearch",
+    "DuckDB",
+    "similarity search",
+    "embeddings",
+    "Claude analysis"
+  ],
+  "use_cases": [
+    "Use when sub-second embedding performance is required via warm memory models",
+    "Implement when organizing large document sets into semantic taxonomies automatically",
+    "Configure when data privacy is paramount and processing must remain fully local and offline",
+    "Use when building production-grade intelligence tools that follow XDG standards and type safety",
+    "Implement when requiring high-speed vector similarity search and analytical querying simultaneously"
+  ],
+  "tags": [
+    "architecture",
+    "machine-learning",
+    "vector-database",
+    "performance"
+  ],
+  "priority": 10,
+  "content": "**🚀 40x faster than cold starts**\n\n- Keeps sentence-transformers model warm in memory\n- HTTP service on localhost:8765\n- Sub-second embeddings\n\n**🎯 Semantic clustering**\n\n- Documents find their natural neighbors\n- No manual organization\n- Area codes like `physics.quantum.entanglement` or `cs.ai.agents` show semantic taxonomy\n\n**🧠 Claude analysis**\n\n- Extracts learnings, not just keywords\n- \"What does this teach?\" not \"What words appear?\"\n- Questions raised by content\n\n**💎 Production-quality**\n\n- XDG-compliant paths (~/.local/share/knowledge_graph/)\n- Type-safe Pydantic models\n- USearch for O(log n) similarity search\n- DuckDB for fast analytics\n\n**🏡 Fully local**\n\n- No API costs for embeddings\n- Works offline\n- Your data stays on your machine",
+  "token_estimate": 143
+}

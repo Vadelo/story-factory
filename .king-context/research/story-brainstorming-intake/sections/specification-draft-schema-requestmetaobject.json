@@ -1,0 +1,33 @@
+{
+  "title": "`RequestMetaObject`",
+  "path": "specification-draft-schema-requestmetaobject",
+  "url": "https://modelcontextprotocol.io/specification/draft/schema",
+  "keywords": [
+    "RequestMetaObject",
+    "ProgressToken",
+    "RequestParams",
+    "_meta",
+    "ResultType",
+    "input_required",
+    "notifications/progress",
+    "MetaObject",
+    "Error",
+    "opaque token"
+  ],
+  "use_cases": [
+    "Use when requesting out-of-band progress notifications for long-running operations",
+    "Implement when checking if a request requires additional user input before proceeding",
+    "Configure when adding custom metadata or reserved prefixes to request objects",
+    "Use when handling standardized error codes and messages from the API",
+    "Implement when parsing the 'resultType' to determine if a response is 'complete' or requires 'input_required'"
+  ],
+  "tags": [
+    "api-reference",
+    "communication-patterns",
+    "error-handling",
+    "configuration"
+  ],
+  "priority": 10,
+  "content": "interface RequestMetaObject {\n   progressToken?: ProgressToken;\n  [key: string]: unknown;\n}Extends MetaObject with additional request-specific fields. All key naming rules from `MetaObject` apply. See MetaObject for key naming rules and reserved prefixes. General fields: `\\_meta` for more details. progressToken?: ProgressToken If specified, the caller is requesting out-of-band progress notifications for this request (as represented by notifications/progress). The value of this parameter is an opaque token that will be attached to any subsequent notifications. The receiver is not obligated to provide these notifications.\n\ninterface RequestParams {\n  _meta?: RequestMetaObject;\n}Common params for any request. _meta?: RequestMetaObject\n\ninterface Result {\n  _meta?: MetaObject;\n   resultType: ResultType;\n  [key: string]: unknown;\n}Common result fields. _meta?: MetaObject resultType: ResultType Indicates the type of the result, which allows the client to determine\nhow to parse the result object. Default\n\n```\n<code class=\"ts\"><span class=\"hl-2\">\"complete\"</span> </code><button type=\"button\">Copy</button>\n\n```\n\nResultType: \"complete\" | \"input_required\"Indicates the type of a Result object, allowing the client to\ndetermine how to parse the response. complete - the request completed successfully and the result contains the final content.\ninput_required - the request requires additional input and the result contains an InputRequiredResult object with instructions for the client to provide additional input before retrying the original request.\n\nRole: \"user\" | \"assistant\"The sender or recipient of messages and data in a conversation.\n\ninterface Error {\n   code: number;\n   message: string;\n   data?: unknown;\n}code: number The error type that occurred. message: string A short description of the error. The message SHOULD be limited to a concise single sentence. data?: unknown Additional information about the error. The value of this member is defined by the sender (e.g. detailed error information, nested errors etc.).",
+  "token_estimate": 356
+}

@@ -1,0 +1,29 @@
+{
+  "title": "What we measured",
+  "path": "lechmazur-writing_styles-what-we-measured",
+  "url": "https://github.com/lechmazur/writing_styles",
+  "keywords": [
+    "diversity per model",
+    "style fingerprints",
+    "style space",
+    "POV",
+    "register",
+    "closure form",
+    "genre family",
+    "LLM measurement",
+    "numeric scales"
+  ],
+  "use_cases": [
+    "Use when quantifying the variation in narrative output between different LLMs",
+    "Implement when scoring stories along curated stylistic axes",
+    "Configure when profiling model behavior across specific genre families and registers"
+  ],
+  "tags": [
+    "benchmarking",
+    "data-analysis",
+    "machine-learning-evaluation"
+  ],
+  "priority": 7,
+  "content": "- **Diversity per model.** For each LLM, we quantify how dissimilar its own stories are from one another in the measured style space.\n- **Style fingerprints per story.** Each story is scored along a curated set of axes (mix of numeric 0–10 scales and enums such as register, POV, closure form, genre family).\n\n---",
+  "token_estimate": 71
+}

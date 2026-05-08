@@ -1,0 +1,34 @@
+{
+  "title": "Works Across Entire Series",
+  "path": "scene-audit-works-across-entire-series",
+  "url": "https://proseengine.app/scene-audit",
+  "keywords": [
+    "Scene & Canon Audit",
+    "cumulative canon database",
+    "series-level contradictions",
+    "cross-references",
+    "plot holes",
+    "timeline errors",
+    "lore contradictions",
+    "severity levels",
+    "Author tier",
+    "ProseEngine",
+    "manuscript analysis"
+  ],
+  "use_cases": [
+    "Use when writing long-form book series to maintain consistency across multiple volumes",
+    "Implement when checking for character history or worldbuilding contradictions spanning several years of work",
+    "Configure when needing to prioritize manuscript fixes based on critical, major, or minor severity rankings",
+    "Use when performing a final quality check before sending a manuscript to editors or publishing",
+    "Implement when tracking evolving character arcs and magic system limitations across a series timeline"
+  ],
+  "tags": [
+    "manuscript-analysis",
+    "series-management",
+    "quality-assurance",
+    "content-audit"
+  ],
+  "priority": 9,
+  "content": "For series writers, consistency is exponentially harder. Every new book adds thousands of facts that must remain compatible with everything that came before. Character histories, world rules, political alliances, magic limitations, geography — all of it compounds.\n\nThe scene and canon audit works across multiple books in a series. It builds a cumulative canon database that grows with each volume, ensuring that book four does not contradict a detail established in book one that you wrote two years ago. Series-level contradictions are flagged with cross-references to the original source scene.\n\n📚\n\nEvery fact established in any book in your series is tracked and enforced across all subsequent books. Character details, world rules, and timeline events are cross-referenced automatically between volumes.\n\n🔎\n\nThe canon database grows with each book you add. New details are checked against the entire series history, catching contradictions that span hundreds of thousands of words and years of writing.\n\nA scene and canon audit is an AI-powered deep analysis that examines every scene in your manuscript for plot holes, timeline errors, character inconsistencies, and lore contradictions. Each scene receives a pass or fail verdict with detailed reasoning, and issues are ranked by severity so you can fix the most damaging problems first.\n\nYes. The scene and canon audit works across multiple books in a series, tracking character arcs, timeline events, worldbuilding rules, and lore details established in earlier volumes. It catches cross-book contradictions that are nearly impossible to find manually.\n\nEvery issue found is assigned a severity level: critical (plot-breaking contradictions), major (noticeable inconsistencies readers will catch), and minor (small continuity details). This lets you prioritize fixes and focus on the problems that would actually damage the reading experience.\n\nThe scene and canon audit is available on Author tier and above. It is one of ProseEngine's most powerful analysis features, designed for writers who need their manuscripts to be internally consistent before sending to editors or publishing.\n\nEvery plot hole the audit catches is one fewer reason for a reader to leave a one-star review.\n\nTry Scene & Canon Audit Free",
+  "token_estimate": 457
+}

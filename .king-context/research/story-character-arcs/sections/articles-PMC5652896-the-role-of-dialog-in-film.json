@@ -1,0 +1,34 @@
+{
+  "title": "The role of dialog in film",
+  "path": "articles-PMC5652896-the-role-of-dialog-in-film",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5652896/",
+  "keywords": [
+    "dialogue functions",
+    "viewer evaluation",
+    "logocentric approach",
+    "star turns",
+    "authorial commentary",
+    "talk-in-interaction",
+    "multimodal productions",
+    "viewer as overhearer",
+    "Kozloff",
+    "rhetorical exploitation",
+    "non-natural conversations"
+  ],
+  "use_cases": [
+    "Use when analyzing how dialogue manipulates cinematic pace or viewer emotion",
+    "Configure when identifying star turns or extraordinary emotional showcases in scripts",
+    "Implement when evaluating the non-naturalistic constraints of fictional conversation",
+    "Use when applying logocentric textual analysis to screenplays and film studies",
+    "Configure when distinguishing between character-to-character interaction and authorial messaging"
+  ],
+  "tags": [
+    "film-theory",
+    "narrative-analysis",
+    "media-studies",
+    "cinematic-linguistics"
+  ],
+  "priority": 8,
+  "content": "#### Control of viewer evaluation and emotion\n\nDialog can be used in films to control pace (create urgency, see above, or slow down action), to draw attention, to guide the viewers’ interpretation of what is seen, and to evoke emotional reactions (see also (Lee and Marsella 2011)).\n\n(Kozloff 2000) adds to these aesthetic, persuasive, commercial, and ideological functions such as:\n\nexploitation of the resources of language (e.g. humor, irony, story-telling, poetics);\n\nopportunity for “star turns”: Star turns can be identified by their length, and they call for an extraordinary emotional expression and showcase performing skills (e.g. speed, tongue twisters);\n\nthematic messages/authorial commentary/allegory: dialog in a film’s last scenes carries particular thematic burdens, either reinforcing/extending the film’s moral or resisting closure.\n\nEspecially the last mentioned function of dialog, i.e. the overt message or commentary addressed to the audience, has been criticized heavily for breaking the fundamental principle of film dialog: characters speak as if they were talking to one another, while the ultimate addressee of each line is the audience. (Kozloff 2000) reflects this particularity in the title of her book, Overhearing Film Dialogue, and explicitly warns against mistaking film dialog as a source for studies on natural conversation, because this principle of constantly taking into account the viewer as an overhearer shapes film dialog in decisive ways. Film dialog has often been presented as the “poor relation” of rich natural conversation, tidied up, and thinned down in comparison to the complex processes of talk-in-interaction where meanings, identities, and relationships are constantly negotiated on the fly (Richardson 2010). On the other hand, the impoverishment of film dialog is counterbalanced by the specific functions that spontaneous talk has not. It has to be clear, therefore, that any study of film dialog, including the one presented here, are just that, i.e. studies of non-natural conversations in works of fiction with their specific functions, instruments, conventions, and constraints.\n\nIn the toolbox of film studies, “logocentric” approaches, as (Richardson 2010) calls them, such as textual analyses of screenplays, have their legitimate place on the simple grounds that there is, at least as yet, no single method to study multimedial and multimodal productions comprehensively in their full range of media and modes simultaneously, so that each approach, if anchored in and controlled by the others, has its value and contributions to make.",
+  "token_estimate": 513
+}

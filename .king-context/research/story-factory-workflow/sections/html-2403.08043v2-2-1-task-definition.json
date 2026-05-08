@@ -1,0 +1,31 @@
+{
+  "title": "2.1 Task Definition",
+  "path": "html-2403.08043v2-2-1-task-definition",
+  "url": "https://arxiv.org/html/2403.08043v2",
+  "keywords": [
+    "authorship style transfer",
+    "SIM_sem",
+    "SIM_sty",
+    "Toward objective",
+    "Away objective",
+    "semantic similarity",
+    "style labels",
+    "text rewriting",
+    "target style",
+    "community level style"
+  ],
+  "use_cases": [
+    "Implement when defining the mathematical objective functions for style transfer models",
+    "Use when evaluating the trade-off between semantic preservation and style accuracy",
+    "Configure when setting up Toward and Away optimization targets for training",
+    "Use when distinguishing between individual and community style labels in a dataset"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "task-definition",
+    "machine-learning-theory"
+  ],
+  "priority": 10,
+  "content": "The goal of authorship style transfer is to modify the style of the input text to make it look like the style of another author. Formally, we have a dataset of texts with authorship style labels 𝒟={(x1,s1),(x2,s2),⋯,(xn,sn)}𝒟subscriptx1subscript𝑠1subscriptx2subscript𝑠2⋯subscriptx𝑛subscript𝑠𝑛\\mathcal{D}=\\{(\\textbf{x}_{1},s_{1}),(\\textbf{x}_{2},s_{2}),\\cdots,(\\textbf{x}% _{n},s_{n})\\}caligraphic_D = { ( x start_POSTSUBSCRIPT 1 end_POSTSUBSCRIPT , italic_s start_POSTSUBSCRIPT 1 end_POSTSUBSCRIPT ) , ( x start_POSTSUBSCRIPT 2 end_POSTSUBSCRIPT , italic_s start_POSTSUBSCRIPT 2 end_POSTSUBSCRIPT ) , ⋯ , ( x start_POSTSUBSCRIPT italic_n end_POSTSUBSCRIPT , italic_s start_POSTSUBSCRIPT italic_n end_POSTSUBSCRIPT ) } where the style label could be either at the individual level or the community level. For convenience, we denote the semantic similarity between two texts xisubscriptx𝑖\\textbf{x}_{i}x start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT and xjsubscriptx𝑗\\textbf{x}_{j}x start_POSTSUBSCRIPT italic_j end_POSTSUBSCRIPT as S⁢I⁢Ms⁢e⁢m⁢(xi,xj)𝑆𝐼subscript𝑀𝑠𝑒𝑚subscriptx𝑖subscriptx𝑗SIM_{sem}(\\textbf{x}_{i},\\textbf{x}_{j})italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_e italic_m end_POSTSUBSCRIPT ( x start_POSTSUBSCRIPT italic_i end_POSTSUBSCRIPT , x start_POSTSUBSCRIPT italic_j end_POSTSUBSCRIPT ), and the similarity between the style of a text x and a style s𝑠sitalic_s as SIMs⁢t⁢y(x,SIM_{sty}(\\textbf{x},italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_t italic_y end_POSTSUBSCRIPT ( x ,s)))). Given an input text xssubscriptx𝑠\\textbf{x}_{s}x start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT with style s𝑠sitalic_s and a target style t𝑡titalic_t, an authorship style transfer model rewrites xssubscriptx𝑠\\textbf{x}_{s}x start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT into a new text xs→tsubscriptx→𝑠𝑡\\textbf{x}_{s\\rightarrow t}x start_POSTSUBSCRIPT italic_s → italic_t end_POSTSUBSCRIPT that maximizes S⁢I⁢Ms⁢e⁢m⁢(xs→t,xs)𝑆𝐼subscript𝑀𝑠𝑒𝑚subscriptx→𝑠𝑡subscriptx𝑠SIM_{sem}(\\textbf{x}_{s\\rightarrow t},\\textbf{x}_{s})italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_e italic_m end_POSTSUBSCRIPT ( x start_POSTSUBSCRIPT italic_s → italic_t end_POSTSUBSCRIPT , x start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT ) and S⁢I⁢Ms⁢t⁢y⁢(xs→t,t)𝑆𝐼subscript𝑀𝑠𝑡𝑦subscriptx→𝑠𝑡𝑡SIM_{sty}(\\textbf{x}_{s\\rightarrow t},t)italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_t italic_y end_POSTSUBSCRIPT ( x start_POSTSUBSCRIPT italic_s → italic_t end_POSTSUBSCRIPT , italic_t ), and minimizes S⁢I⁢Ms⁢t⁢y⁢(xs→t,s)𝑆𝐼subscript𝑀𝑠𝑡𝑦subscriptx→𝑠𝑡𝑠SIM_{sty}(\\textbf{x}_{s\\rightarrow t},s)italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_t italic_y end_POSTSUBSCRIPT ( x start_POSTSUBSCRIPT italic_s → italic_t end_POSTSUBSCRIPT , italic_s ). We refer to maximizing S⁢I⁢Ms⁢t⁢y⁢(xs→t,t)𝑆𝐼subscript𝑀𝑠𝑡𝑦subscriptx→𝑠𝑡𝑡SIM_{sty}(\\textbf{x}_{s\\rightarrow t},t)italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_t italic_y end_POSTSUBSCRIPT ( x start_POSTSUBSCRIPT italic_s → italic_t end_POSTSUBSCRIPT , italic_t ) and minimizing S⁢I⁢Ms⁢t⁢y⁢(xs→t,s)𝑆𝐼subscript𝑀𝑠𝑡𝑦subscriptx→𝑠𝑡𝑠SIM_{sty}(\\textbf{x}_{s\\rightarrow t},s)italic_S italic_I italic_M start_POSTSUBSCRIPT italic_s italic_t italic_y end_POSTSUBSCRIPT ( x start_POSTSUBSCRIPT italic_s → italic_t end_POSTSUBSCRIPT , italic_s ) as the Toward and Away objectives, respectively.",
+  "token_estimate": 413
+}

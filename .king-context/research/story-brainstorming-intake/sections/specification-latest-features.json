@@ -1,0 +1,34 @@
+{
+  "title": "Features",
+  "path": "specification-latest-features",
+  "url": "https://modelcontextprotocol.io/specification/latest",
+  "keywords": [
+    "Model Context Protocol",
+    "Resources",
+    "Prompts",
+    "Tools",
+    "Sampling",
+    "Roots",
+    "Elicitation",
+    "Progress tracking",
+    "Cancellation",
+    "Error reporting",
+    "Logging"
+  ],
+  "use_cases": [
+    "Use when exposing context and templated workflows to an AI model",
+    "Implement when enabling server-initiated agentic behaviors and recursive LLM interactions",
+    "Configure when establishing URI or filesystem boundaries for server operations",
+    "Use when requesting additional user input through server-initiated elicitation",
+    "Implement when monitoring request status via progress tracking and cancellation"
+  ],
+  "tags": [
+    "architecture",
+    "protocol-features",
+    "security",
+    "communication"
+  ],
+  "priority": 10,
+  "content": "Servers offer any of the following features to clients:\n\n- Resources: Context and data, for the user or the AI model to use\n- Prompts: Templated messages and workflows for users\n- Tools: Functions for the AI model to execute\n\nClients may offer the following features to servers:\n\n- Sampling: Server-initiated agentic behaviors and recursive LLM interactions\n- Roots: Server-initiated inquiries into URI or filesystem boundaries to operate in\n- Elicitation: Server-initiated requests for additional information from users\n\n- Configuration\n- Progress tracking\n- Cancellation\n- Error reporting\n- Logging\n\nThe Model Context Protocol enables powerful capabilities through arbitrary data access\nand code execution paths. With this power comes important security and trust\nconsiderations that all implementors must carefully address.",
+  "token_estimate": 159
+}

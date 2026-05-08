@@ -1,0 +1,33 @@
+{
+  "title": "1. Planet Size",
+  "path": "post-world-building-using-the-real-world-1-planet-size",
+  "url": "https://www.grmatthews.com/post/world-building-using-the-real-world",
+  "keywords": [
+    "planet size",
+    "gravity",
+    "1g",
+    "mass",
+    "dwarves",
+    "elves",
+    "physiology",
+    "skeletons",
+    "muscles"
+  ],
+  "use_cases": [
+    "Use when defining the physical capabilities of humanoid species on a planet with different gravity.",
+    "Implement when adjusting character health metrics based on planetary gravity.",
+    "Configure when setting worldbuilding parameters for biomechanical evolution.",
+    "Use when estimating locomotion speed and strength for different species.",
+    "Implement when designing terrain features like tunnels or treehouses that interact with gravity."
+  ],
+  "tags": [
+    "worldbuilding",
+    "gravity",
+    "physiology",
+    "fantasy",
+    "character design"
+  ],
+  "priority": 10,
+  "content": "Let’s start with planet size. Your planet will likely be about the same size as Earth. It’s a simple idea but crucial. Why? Because mass creates gravity, and gravity shapes physiology. Most fantasy novels feature humans, and many include dwarves and elves. If we take humans as the ‘average,’ their skeletons and muscles have evolved for a gravity of 1g (like ours).\n\nDwarves might be shorter because it’s an advantage in tunnels—they don’t bang their heads as often. Elves, with their longer limbs, could be better suited for climbing trees, where many authors place their homes. The size of your fantasy planet influences the size and shape of its inhabitants.\n\nThis also gives you measurements and distances to work with. I’m not saying you should go out and map every detail of your world right now. But keep in mind the basic size and arrangement of your world. This leads us to…",
+  "token_estimate": 202
+}

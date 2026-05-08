@@ -1,0 +1,19 @@
+{
+  "title": "Continuity Ledger",
+  "path": "continuity-ledger",
+  "url": "local://works/a-margem-que-devora-o-heroi#continuity-ledger",
+  "keywords": [
+    "continuity",
+    "canon"
+  ],
+  "use_cases": [
+    "Recall continuity ledger for story continuation"
+  ],
+  "tags": [
+    "continuity",
+    "canon"
+  ],
+  "priority": 10,
+  "content": "[\n  \"Davi não possui corpo físico dentro da história.\",\n  \"Davi age como revisor: pode alterar, deslocar e recuperar texto, mas não criar tudo livremente.\",\n  \"Yerin escapou pelo canal inferior, está ferida e carrega o selo da carruagem.\",\n  \"Kael consegue perceber a margem, escrever comentários e bloquear Davi.\",\n  \"O botão resolver conversa é ameaça real dentro da camada de revisão.\",\n  \"Falas cortadas recuperadas carregam autoria do personagem original.\",\n  \"A camada de restauração tenta restaurar cenas obrigatórias e relações principais.\"\n]",
+  "token_estimate": 105
+}

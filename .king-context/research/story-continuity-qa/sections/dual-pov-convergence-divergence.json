@@ -1,0 +1,28 @@
+{
+  "title": "Convergence/Divergence",
+  "path": "dual-pov-convergence-divergence",
+  "url": "https://stormwritingschool.com/dual-pov/",
+  "keywords": [
+    "convergence",
+    "divergence",
+    "collision detection",
+    "packet synchronization",
+    "state resolution",
+    "eventual consistency",
+    "reconciliation loop",
+    "deterministic outcomes"
+  ],
+  "use_cases": [
+    "Use when reconciling distributed system states after a network partition",
+    "Implement when designing conflict-free replicated data types",
+    "Configure when tuning the threshold for state stabilization in high-latency environments"
+  ],
+  "tags": [
+    "distributed-systems",
+    "architecture",
+    "synchronization"
+  ],
+  "priority": 8,
+  "content": "",
+  "token_estimate": 0
+}

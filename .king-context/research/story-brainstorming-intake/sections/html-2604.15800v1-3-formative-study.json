@@ -1,0 +1,33 @@
+{
+  "title": "3 Formative Study",
+  "path": "html-2604.15800v1-3-formative-study",
+  "url": "https://arxiv.org/html/2604.15800v1",
+  "keywords": [
+    "Cognitive Process Theory of Writing",
+    "Reflexive Thematic Analysis",
+    "WriteFlow",
+    "human-in-the-loop",
+    "formative study",
+    "ChatGPT",
+    "voice agent",
+    "academic writing challenges",
+    "design requirements",
+    "goal-oriented writing"
+  ],
+  "use_cases": [
+    "Use when identifying design requirements for AI-assisted writing tools",
+    "Implement when tracking evolving writer goals during long-form academic tasks",
+    "Configure when designing human-in-the-loop AI feedback systems",
+    "Use when studying user concerns regarding authorship and AI overreliance",
+    "Implement when developing Google Docs add-on interfaces for goal alignment"
+  ],
+  "tags": [
+    "research-methodology",
+    "ai-integration",
+    "user-study",
+    "academic-writing"
+  ],
+  "priority": 8,
+  "content": "To understand how adult writers use AI when addressing academic writing challenges, we conducted a survey with 17 students (8 female, 8 male, 1 non-binary; aged 22–34). The open-ended online survey111Survey instrument, participant demographics, and detailed findings for the formative study: OSF repository, https://osf.io/ba6d2/overview?view˙only=e69b00a3acfd42529d3fb2c9c10b1ef7 was administered between May 22 and 27, 2025 and included ratings of ten writing challenges grounded in Cognitive Process Theory of Writing which posits that writing is a non-linear, goal-directed, and recursive mental process rather than a strictly staged product [12], along with questions about coping strategies and AI use. Responses were analyzed using Reflexive Thematic Analysis [6]. The study identified three key writing challenges and 20 coping strategies (detailed descriptive statistics and thematic analysis results are available in our OSF repository222Survey instrument, participant demographics, and detailed findings for the formative study: OSF repository, https://osf.io/ba6d2/overview?view˙only=e69b00a3acfd42529d3fb2c9c10b1ef7). The rating data showed that the most stressful challenges were evolving writing goals and setting writing goals, reflecting difficulties in revising plans as new ideas and sources emerge. Participants reported using outlining, documentation, and AI tools to track evolving ideas, test structural changes, and maintain alignment with central arguments. These strategies supported reflection and reduced uncertainty during revision. In their open-ended responses, the study participants also highlighted a third key challenge: preserving authorship. Some participants (n = 6) reported primarily using ChatGPT in a human-in-the-loop manner, leveraging it for ideation, tone refinement, and feedback interpretation. However, other participants (n = 9) expressed concerns about overreliance, authenticity, and ownership. Based on these findings, we derived five design requirements (R) for AI-supported reflective academic writing: (R1) facilitate goal articulation; (R2) support iterative goal refinement; (R3) enable organization and revisiting of ideas relative to goals; (R4) preserve writer voice and meaning; and (R5) ensure AI feedback is transparent, revisable, and aligned with user intent. Together, these requirements underscore the centrality of human judgment and agency in AI-assisted academic writing.\n\nFigure 1: The overview of WriteFlow, a Google Docs add-on for goal-oriented academic writing. WriteFlow interface consists of a voice agent (A) and a sidebar panel with three pages: Writing Task (B), AI Chat (C), and My Goals (D). Users can upload Google Docs and communicate with the voice agent at any stage of writing to discuss their writing directions. The agent then generates writing goals to help them plan, track, and monitor their writing process.\n\n![Refer to caption](https://arxiv.org/html/2604.15800v1/x1.png)",
+  "token_estimate": 524
+}

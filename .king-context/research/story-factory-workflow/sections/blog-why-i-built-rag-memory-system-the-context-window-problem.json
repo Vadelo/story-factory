@@ -1,0 +1,28 @@
+{
+  "title": "The Context Window Problem",
+  "path": "blog-why-i-built-rag-memory-system-the-context-window-problem",
+  "url": "https://aistorystream.com/blog/why-i-built-rag-memory-system/",
+  "keywords": [
+    "context window",
+    "working memory",
+    "token limit",
+    "8,000 tokens",
+    "200,000 tokens",
+    "data truncation",
+    "prompt persistence",
+    "story continuity"
+  ],
+  "use_cases": [
+    "Use when calculating the maximum length of a prompt or story",
+    "Configure when selecting an AI model with sufficient memory for long-form content",
+    "Implement when troubleshooting why an AI model is forgetting previous instructions or plot points"
+  ],
+  "tags": [
+    "fundamentals",
+    "architecture",
+    "performance"
+  ],
+  "priority": 10,
+  "content": "Every AI model has something called a context window. It's the amount of text the model can actually see and process at once.\n\nThink of it like working memory. When you're writing, you can remember the last few pages pretty clearly. But details from 100 pages ago get fuzzy unless you go back and reread them.\n\nAI models work the same way, but with stricter limits.\n\nMost AI models have context windows ranging from 8,000 tokens (roughly 6,000 words) to 200,000 tokens (roughly 150,000 words). That sounds generous until you realize what happens when your story exceeds that limit.\n\nThe AI doesn't remember what falls outside the context window. At all.\n\nIf your story is 80,000 words and the AI's context window is 8,000 tokens, it can only see the last 6,000 words or so. Everything before that? Gone.\n\nThis is why my early stories fell apart. The free generator I was using had a small context window. Once my story outgrew it, the AI was writing blind, continuing a story it couldn't fully remember.",
+  "token_estimate": 232
+}

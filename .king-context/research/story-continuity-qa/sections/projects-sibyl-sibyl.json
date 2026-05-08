@@ -1,0 +1,25 @@
+{
+  "title": "Sibyl",
+  "path": "projects-sibyl-sibyl",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "Sibyl",
+    "predictive-analysis",
+    "world-modeling",
+    "data-omniscience",
+    "insight-engine"
+  ],
+  "use_cases": [
+    "Use when requiring advanced predictive modeling of environmental data",
+    "Implement when deep contextual understanding of world states is necessary",
+    "Configure when seeking insights that surpass manual data analysis"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "data-analysis",
+    "predictive-models"
+  ],
+  "priority": 10,
+  "content": "# She Knows Your World Better Than You Do",
+  "token_estimate": 11
+}

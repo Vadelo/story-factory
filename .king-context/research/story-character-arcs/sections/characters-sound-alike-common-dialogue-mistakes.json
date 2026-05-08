@@ -1,0 +1,33 @@
+{
+  "title": "Common Dialogue Mistakes",
+  "path": "characters-sound-alike-common-dialogue-mistakes",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "Maid-and-butler dialogue",
+    "backstory conveyance",
+    "speech fragmentation",
+    "monologuing",
+    "identical contractions",
+    "articulation under stress",
+    "character voice differentiation",
+    "dialogue pacing",
+    "naturalistic speech",
+    "dialogue banter"
+  ],
+  "use_cases": [
+    "Use when reviewing draft dialogue for unrealistic exposition or 'as you know' tropes",
+    "Implement when differentiating multiple characters' unique speech patterns and contraction usage",
+    "Configure when writing high-tension or action sequences to ensure realistic speech fragments",
+    "Use when breaking up long monologues with character reactions and interjections",
+    "Implement when auditing a cast list to avoid uniform wit or 'sitcom writer' syndrome"
+  ],
+  "tags": [
+    "creative-writing",
+    "dialogue-optimization",
+    "character-design",
+    "narrative-theory"
+  ],
+  "priority": 9,
+  "content": "Maid-and-butler dialogue. Characters telling each other things they both already know for the reader’s benefit.\n\n“As you know, we’ve been partners for fifteen years and your wife left you last spring.”\n\nReal people don’t say “as you know” and then say it anyway. Find another way to convey backstory.\n\nPerfect articulation under stress. Your character is being chased by killers and delivers a paragraph of grammatically perfect complex sentences. Under stress, speech fragments. Thoughts don’t complete. People can’t find words.\n\nEveryone sounds witty. Banter is fun to write. Not everyone banters. Some people are earnest. Some are dull. Some try to be funny and fail. Your cast shouldn’t all sound like sitcom writers.\n\nMonologuing. Real conversation interrupts. Real listeners interject, question, react. Long speeches without interruption feel theatrical, not natural. Break up monologues with reaction, with interruption, with the speaker losing their train of thought.\n\nIdentical contractions. Everyone uses “don’t” and “can’t” and “won’t” at the same rate. In reality, some people contract everything, some use formal speech, some mix based on context.",
+  "token_estimate": 230
+}

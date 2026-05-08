@@ -1,0 +1,33 @@
+{
+  "title": "Dialogue Subtext",
+  "path": "2011-02-28-how-to-write-better-dialog-3-subtext-dialogue-subtext",
+  "url": "https://www.lifeinneon.com/2011/02/28/how-to-write-better-dialog-3-subtext/",
+  "keywords": [
+    "dialogue subtext",
+    "unreliable narrator",
+    "dramatic irony",
+    "omniscient narrator",
+    "dialogue tags",
+    "point of view",
+    "narrative bias",
+    "limited third person",
+    "italicized thought passages",
+    "character motivation"
+  ],
+  "use_cases": [
+    "Use when conveying character motivations that contradict their spoken words.",
+    "Implement when creating dramatic irony by providing the reader with information the characters lack.",
+    "Configure when using an unreliable narrator to filter information through a specific character's bias.",
+    "Use when utilizing dialogue tags to provide emotional context that isn't apparent in the speech itself.",
+    "Implement when writing a future-tense narrator who possesses hindsight into past events."
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-techniques",
+    "character-development",
+    "dialogue"
+  ],
+  "priority": 8,
+  "content": "To reiterate, dialogue subtext includes anything that the characters don’t come out and say directly. But this information can appear in the narrative around it. This includes dialogue tags, italicized thought passages, omniscient narrator explanations, footnotes, or whatever other conventions you are employing in your work.\n\nTypically, subtext of this sort is filtered in some fashion through an unreliable narrator. If it is an omniscient third person, it may be the point of view of a historian documenting the events and it may be shaped by their ignorance. If the book is first person, or limited third person, it is colored by the bias of the point of view character for that scene.\n\n“Are you going to the beach this afternoon?” Toby asked.\n\nThe asshole knew very well where Caitlin was going; he was just trying to trap her into admitting it. So she shocked him into silence by giving him exactly what he was asking for: “Yes. With your brother.”\n\nYou can see where understanding Caitlin’s thoughts gives us some hint about what Toby’s motivation is. As the scene continues, we may find out that Caitlin was wrong in her assumption, or we may find out she was exactly right. What’s important is that we know why Caitlin came out and admitted the truth: it was a defiant expression based on the belief that it would work out in her favor.\n\nIt’s sometimes thought that omniscient narrators can’t use this because it becomes “telling” instead of “showing.” However, omniscient narrators certainly can employ this to create dramatic irony. With the reader having access to the thoughts and motivations of both characters, the drama of the scene is driven by the audience knowing that the characters are just misunderstanding one another.\n\nIn a certain variety of first person and limited third person where the narrator is narrating from far in the future, they may have attained a degree of omniscience. You may see passages such as: “I found out later that Patricia was lying to me from the start, but at the moment, I was taking her at her word.” This is another way of introducing dramatic irony where the narrator comes out and states that the character is about to make a mistake in judgment.\n\nAnother important element of dialogue subtext is using dialogue tags. This isn’t about using tags to spruce it up and add variety in place of the word “said,” though. When building subtext, the dialogue tag should be there in order to tell us something that is not readily apparent based upon the words used in dialogue.\n\n“I hate you,” she said with a smile.\n\n“I’m proud of you,” Joe said, but it was a toss-off comment. He hoped Riley would be satisfied with the praise and leave.\n\n“They’re destroying the city!” he shouted gleefully.",
+  "token_estimate": 625
+}

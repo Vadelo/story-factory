@@ -1,0 +1,36 @@
+{
+  "title": "2.2 Prediction-focussed metrics: suspense and plot twists",
+  "path": "html-2411.12907v1-2-2-prediction-focussed-metrics-suspense-and-plot-twists",
+  "url": "https://arxiv.org/html/2411.12907v1",
+  "keywords": [
+    "I(s_{t+1};S_{t})",
+    "H(P(s_{t+1}|S_{t}))",
+    "JSD(P(s_{t+1})||s_{t+1})",
+    "Mutual Information",
+    "Entropy",
+    "Jensen-Shannon Divergence",
+    "Sequence-to-sequence prediction",
+    "Generative model m",
+    "Stochastic story state",
+    "Predictability",
+    "Suspense",
+    "Plot twist"
+  ],
+  "use_cases": [
+    "Use when quantifying audience uncertainty and cliffhanger intensity via entropy measures",
+    "Implement when identifying unexpected narrative shifts using Jensen-Shannon Divergence",
+    "Configure when measuring story predictability through mutual information between history and future states",
+    "Use when modeling narrative progression as a sequence-to-sequence prediction problem",
+    "Use when analyzing the divergence between predicted story states and actual realized states"
+  ],
+  "tags": [
+    "information-theory",
+    "narrative-analysis",
+    "predictive-modeling",
+    "metrics",
+    "data-science"
+  ],
+  "priority": 8,
+  "content": "Audiences do not just observe what happens at time t𝑡titalic_t but also wonder what happens next (see Fig. 1). We consider them to predict a next story state based on the story so far. We write this prediction as P⁢(st+1|St)𝑃conditionalsubscript𝑠𝑡1subscript𝑆𝑡P(s_{t+1}|S_{t})italic_P ( italic_s start_POSTSUBSCRIPT italic_t + 1 end_POSTSUBSCRIPT | italic_S start_POSTSUBSCRIPT italic_t end_POSTSUBSCRIPT ), essentially the output of a (generative) model m𝑚mitalic_m that takes St={st,st−1,…,s0}subscript𝑆𝑡subscript𝑠𝑡subscript𝑠𝑡1…subscript𝑠0S_{t}=\\{s_{t},s_{t-1},...,s_{0}\\}italic_S start_POSTSUBSCRIPT italic_t end_POSTSUBSCRIPT = { italic_s start_POSTSUBSCRIPT italic_t end_POSTSUBSCRIPT , italic_s start_POSTSUBSCRIPT italic_t - 1 end_POSTSUBSCRIPT , … , italic_s start_POSTSUBSCRIPT 0 end_POSTSUBSCRIPT } as its input [9]. In this paper, we outline theoretically how we can understand these predictions and reserve analysis and the accompanying model development for future work. We remain agnostic towards the underlying model but note how it is essentially a sequence-to-sequence prediction problem.\n\nFirst, we can ask how predictable a story is via the mutual information between the history and a future, realised state. High mutual information means a show is predictable - that is, if we know the history of the show, we can make better predictions about its future:\n\n| Predictability=I⁢(st+1;St)Predictability𝐼subscript𝑠𝑡1subscript𝑆𝑡\\textbf{Predictability}=I(s_{t+1};S_{t})Predictability = italic_I ( italic_s start_POSTSUBSCRIPT italic_t + 1 end_POSTSUBSCRIPT ; italic_S start_POSTSUBSCRIPT italic_t end_POSTSUBSCRIPT ) | (3) |\n| --- | --- |\n\nA key question for an audience is how much it remains in the dark about what will happen next. We can capture this uncertainty in information-theoretic terms by computing the entropy over the predicted distribution:\n\n| Suspense=H⁢(P⁢(st+1|St))SuspenseH𝑃conditionalsubscript𝑠𝑡1subscript𝑆𝑡\\textbf{Suspense}=\\text{H}(P(s_{t+1}|S_{t}))Suspense = H ( italic_P ( italic_s start_POSTSUBSCRIPT italic_t + 1 end_POSTSUBSCRIPT | italic_S start_POSTSUBSCRIPT italic_t end_POSTSUBSCRIPT ) ) | (4) |\n| --- | --- |\n\nIn simple terms, this entropy measure captures how confidently the audience can predict what will happen next. If it is low, a film viewer would (feel like they) clearly know what will happen in the next scene. In turn, if the entropy is high, we are left wondering what will happen next. Shows with cliffhangers would see a spike in this entropy towards the end of an episode whereas closed endings should have this entropy measure decline in the final chapters.\n\nWhen predictions meet reality, we can again quantify an audience’s reaction by computing the JSD between the prediction and the revealed reality of the story:\n\n| Plot twist=JSD(P(st+1)∣∣st+1)\\textbf{Plot twist}=\\text{JSD}(P(s_{t+1})\\mid\\mid s_{t+1})Plot twist = JSD ( italic_P ( italic_s start_POSTSUBSCRIPT italic_t + 1 end_POSTSUBSCRIPT ) ∣ ∣ italic_s start_POSTSUBSCRIPT italic_t + 1 end_POSTSUBSCRIPT ) | (5) |\n| --- | --- |\n\nThis measure can capture key intuitions about a story: A high divergence will signify an unexpected plot twist. Low divergence will mean that a story treads along as expected. We note how these prediction-based measures are orthogonal to the measures introduced at the outset. Take for example our two JSD measures: On the one hand, changes in the state might be entirely predictable. On the other, the absence of a change might be suprising if it violates predictions. For example, imagine a character receiving good news but staying sad.",
+  "token_estimate": 662
+}

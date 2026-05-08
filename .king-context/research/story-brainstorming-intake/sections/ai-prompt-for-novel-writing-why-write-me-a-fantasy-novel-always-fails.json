@@ -1,0 +1,31 @@
+{
+  "title": "Why “Write Me a Fantasy Novel” Always Fails",
+  "path": "ai-prompt-for-novel-writing-why-write-me-a-fantasy-novel-always-fails",
+  "url": "https://www.bestprompt.art/ai-prompt-for-novel-writing/",
+  "keywords": [
+    "probability engines",
+    "generic prompts",
+    "prompt specificity",
+    "collaborative creative relationship",
+    "system role-playing",
+    "enemies-to-lovers story",
+    "contextual constraints",
+    "output quality",
+    "manuscript editing",
+    "statistically likely continuation"
+  ],
+  "use_cases": [
+    "Use when trying to avoid generic AI-generated tropes in creative writing.",
+    "Implement when drafting detailed character interactions and scene-level briefs.",
+    "Configure when defining a specific persona or point of view for a large language model.",
+    "Use when quality of creative output is prioritized over speed of prompt creation."
+  ],
+  "tags": [
+    "prompt-engineering",
+    "creative-writing",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "AI language models are, at their core, probability engines. They generate the most statistically likely continuation of your input. Feed them “write me a fantasy novel,” and they’ll produce the most average fantasy novel in their training data — generic hero, prophecy, dark lord, quest. You’ve read it a thousand times because the model has too.\n\nThe math here is brutal: generic prompts produce generic output. Every degree of specificity you add pushes the model away from the average and toward something original. That’s not a quirk of AI — it’s how every collaborative creative relationship works. Tell a ghostwriter “write a thriller” and you’ll get something forgettable. Give them a one-page brief and you’ll get something that could actually sell.\n\n✗ What most writers type\n\n“Write me a romance novel about two people who hate each other but fall in love.”\n\n✓ What actually works\n\n“You are a bestselling contemporary romance novelist. I’m writing an enemies-to-lovers story for readers who love Emily Henry. Write the scene where my two leads — a sharp literary agent and a debut author she’s contractually obligated to work with — meet at a publishing party. 800 words, first-person from her POV, dry humor, tension without cliché.”\n\nThe second prompt took 40 more seconds to write. The output difference is not subtle — it’s the difference between something you delete and something you actually edit into your manuscript.",
+  "token_estimate": 311
+}

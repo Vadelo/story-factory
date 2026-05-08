@@ -1,0 +1,34 @@
+{
+  "title": "AI Prompts That Actually Help",
+  "path": "characters-sound-alike-ai-prompts-that-actually-help",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "voice consistency check",
+    "subtext diagnostic",
+    "differentiation audit",
+    "speech pattern builder",
+    "tag and action balance",
+    "on-the-nose detector",
+    "manuscript analysis",
+    "character attribution",
+    "verbal fillers",
+    "dialogue patterns"
+  ],
+  "use_cases": [
+    "Use when validating if a character's voice remains consistent across different chapters",
+    "Configure when seeking to identify hidden subtext or unspoken goals in a scene exchange",
+    "Implement when auditing multiple characters to ensure their dialogue is distinct and recognizable",
+    "Use when building a linguistic profile for a new character based on background and education",
+    "Use when optimizing the ratio of dialogue tags to action beats for better pacing",
+    "Use when identifying and fixing instances where characters state emotions too directly"
+  ],
+  "tags": [
+    "creative-writing",
+    "ai-prompts",
+    "editing-workflow",
+    "character-development"
+  ],
+  "priority": 8,
+  "content": "AI can’t write great dialogue. But it can analyze patterns you’re too close to see. For the full rundown on how AI fits into the writing process, the brainstorming guide covers the workflow.\n\nVoice consistency check: “Here are two dialogue samples from [CHARACTER NAME]. First sample: [paste]. Second sample: [paste]. Do these sound like the same person? Point to specific word choices, sentence structures, and speech patterns that match or conflict.”\n\nSubtext diagnostic: “In this exchange, what is each character trying to accomplish beyond the literal conversation? What do they want from each other that they’re not saying directly? [paste scene]”\n\nDifferentiation audit: “Here are dialogue samples from three different characters in my manuscript. Can you identify which character is speaking from voice alone? What distinguishes each one? [paste samples without attribution]”\n\nSpeech pattern builder: “My character is a [background]. Generate a speech pattern profile: likely vocabulary range, sentence length tendency, verbal fillers, education markers, regional influences. Don’t write dialogue. Just map the pattern.”\n\nTag and action balance: “Review this dialogue scene for tag usage. Where am I over-tagging? Where do I need identification? Where could action beats replace tags? [paste scene]”\n\nOn-the-nose detector: “Flag any dialogue in this scene where characters state their emotions directly instead of showing them through subtext or behavior. Suggest alternatives. [paste scene]”\n\nThese prompts turn AI into a diagnostic tool. You still write the dialogue. AI helps you see what you’ve written.",
+  "token_estimate": 316
+}

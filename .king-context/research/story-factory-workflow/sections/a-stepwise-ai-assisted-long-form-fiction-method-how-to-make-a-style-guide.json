@@ -1,0 +1,32 @@
+{
+  "title": "How To Make a Style Guide",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-how-to-make-a-style-guide",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "style guide",
+    "prompt framing",
+    "character profiles",
+    "genre authentic features",
+    "codex entries",
+    "R&D prompting",
+    "AI bias mitigation",
+    "text file organization",
+    "concept drafting"
+  ],
+  "use_cases": [
+    "Implement when creating a consistent narrative tone for AI-generated prose",
+    "Use when directing an AI to adhere to specific genre conventions or sub-genres",
+    "Configure when organizing reference materials and codex entries for structured model retrieval",
+    "Use when mitigating AI model tendencies to soften or sanitize stylistic choices",
+    "Implement when establishing a cooperative R&D framework for collaborative content generation"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "content-strategy",
+    "creative-writing",
+    "knowledge-base"
+  ],
+  "priority": 7,
+  "content": "It's a good idea to draft your concept of what your style guide should cover. One straightforward type of style guide is based on a fiction genre or sub-genre category, but there may be infinite varieties. Be prepared to refer to the guide, drawing the attention of the AI to it, as simply including it among other references does not provide a consistent effect.\n\nIt's also worth noting that AI models that generally do poorly at writing prose may yet do a good job at writing character profiles, style guides, and other useful inputs. The thing I watch for in those cases is how willing the AI model is to be properly thorough. If you notice it fighting against including authentic genre features that 'offend' its modern sensibilities, and if the prompt examples below do not help correct this misbehavior, be prepared to switch to a suitable AI and/or take on the style guide yourself.\n\nI tend to save my style guide as a part of an organized text file that includes codex entries and similar reference material. I make sure the text file has clear headings for each part so that I can call attention to the parts, specifically, when instructing the AI.\n\nI always frame any prompts to create or update style guides as cooperative R&D efforts, at a minimum. Otherwise, the AI will inevitably soften the style and undermine it due to its built-in biases. If this makes the prompts appear overbearing, that is because otherwise, the AI will do a poor job.\n\nHere is an example of the minimum I'd normally use for prompting a style guide generation. It's a useful basic prompt template to adapt to your purpose. Call it 'civilian grade' prompt framing:",
+  "token_estimate": 384
+}

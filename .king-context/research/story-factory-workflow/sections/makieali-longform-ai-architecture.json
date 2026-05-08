@@ -1,0 +1,36 @@
+{
+  "title": "Architecture",
+  "path": "makieali-longform-ai-architecture",
+  "url": "https://github.com/makieali/longform-ai",
+  "keywords": [
+    "generateOutline",
+    "generateChapter",
+    "rewriteChapter",
+    "BookSession API",
+    "Per-Chapter Pipeline",
+    "Refusal Detection",
+    "Provider Registry",
+    "Qdrant",
+    "Quality scoring",
+    "Rolling Summary",
+    "Character States",
+    "Auto-retry"
+  ],
+  "use_cases": [
+    "Use when architecting a hierarchical book generation workflow from outline to export",
+    "Implement when multi-provider model routing is required to optimize costs between cheap planning and premium writing models",
+    "Configure when implementing automated quality gates and conditional rewrite loops for content generation",
+    "Use when maintaining long-term narrative consistency through rolling summaries and character state tracking",
+    "Configure when robust failure handling is needed for model refusing to generate content via 38 pattern matching"
+  ],
+  "tags": [
+    "architecture",
+    "workflow-design",
+    "api-reference",
+    "content-generation",
+    "state-management"
+  ],
+  "priority": 10,
+  "content": "```mermaid\ngraph TB\n    subgraph API [\"<b>BookSession API</b>\"]\n        direction LR\n        A1[\"generateOutline()\"] --> A2[\"approveOutline()\"]\n        A2 --> A3[\"generateChapter()\"]\n        A3 --> A4[\"rewriteChapter()\"]\n        A4 --> A5[\"export()\"]\n    end\n\n    API --> Pipeline\n\n    subgraph Pipeline [\"<b>Per-Chapter Pipeline</b>\"]\n        direction LR\n        S1[\"1. Outline<br/><i>Book structure,<br/>characters, themes</i>\"]\n        S2[\"2. Planner<br/><i>Scene-by-scene<br/>breakdown</i>\"]\n        S3[\"3. Writer<br/><i>Full prose +<br/>expand loop</i>\"]\n        S4[\"4. Editor<br/><i>Quality scoring<br/>1-10 scale</i>\"]\n        S5[\"5. Continuity<br/><i>Rolling summary<br/>& char tracking</i>\"]\n\n        S1 --> S2 --> S3 --> S4 --> S5\n        S4 -- \"rejected\" --> S3\n    end\n\n    subgraph Refusal [\"<b>Refusal Detection</b>\"]\n        R1[\"38 patterns\"]\n        R2[\"Auto-retry ×3\"]\n        R3[\"Content extraction\"]\n        R4[\"Full-text scan\"]\n    end\n\n    S3 -.-> Refusal\n\n    subgraph Providers [\"<b>Provider Registry (8 providers)</b>\"]\n        direction LR\n        P1[\"OpenAI\"]\n        P2[\"Anthropic\"]\n        P3[\"Google\"]\n        P4[\"Azure\"]\n        P5[\"DeepSeek\"]\n        P6[\"Mistral\"]\n        P7[\"Ollama\"]\n        P8[\"OpenRouter\"]\n    end\n\n    Pipeline --> Providers\n\n    subgraph Memory [\"<b>Memory & Continuity</b>\"]\n        direction LR\n        M1[\"Rolling Summary\"]\n        M2[\"Character States\"]\n        M3[\"Timeline Events\"]\n        M4[\"World State\"]\n        M5[\"Qdrant <i>(optional)</i>\"]\n    end\n\n    S5 --> Memory\n\n    style API fill:#1a1a2e,stroke:#e94560,stroke-width:2px,color:#fff\n    style Pipeline fill:#16213e,stroke:#0f3460,stroke-width:2px,color:#fff\n    style Providers fill:#0f3460,stroke:#533483,stroke-width:2px,color:#fff\n    style Memory fill:#1a1a2e,stroke:#e94560,stroke-width:2px,color:#fff\n    style Refusal fill:#2d132c,stroke:#ee4540,stroke-width:2px,color:#fff\n```\n\n \n \n \n Each stage uses a different AI model — cheap models for planning, premium models for writing \n \n \n \n\nThe p",
+  "token_estimate": 208
+}

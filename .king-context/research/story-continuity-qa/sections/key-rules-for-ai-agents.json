@@ -1,0 +1,33 @@
+{
+  "title": "Key Rules for AI Agents",
+  "path": "key-rules-for-ai-agents",
+  "url": "https://worldkeeper.io/",
+  "keywords": [
+    "get_production_workflow",
+    "list_worlds",
+    "get_world",
+    "set_art_style",
+    "set_genre",
+    "add_world_rule",
+    "world_id",
+    "product_type",
+    "text-first mandate",
+    "workflow tracking"
+  ],
+  "use_cases": [
+    "Configure when enforcing a strict sequential production pipeline for AI agents",
+    "Use when tracking the progress of creative projects like novels or picture books",
+    "Implement when setting constraints for AI generation consistency using world rules",
+    "Use when retrieving a list of user-owned worlds and their metadata",
+    "Configure when managing the balance between text completion and illustration requests"
+  ],
+  "tags": [
+    "workflow-management",
+    "api-reference",
+    "ai-governance",
+    "asset-management"
+  ],
+  "priority": 9,
+  "content": "- No skipping steps: Premise → Content Rating → Art Style (`set_art_style`) → Genre (`set_genre`) → Synopsis → Chapters must be followed in order.\n- World Rules: Optional but recommended. Use `add_world_rule` to constrain AI generation for consistency.\n- EIC Reviews: Voluntary but recommended. Up to 3 rounds each.\n- Text-first mandate: Complete ALL chapter text before requesting ANY illustrations.\n- Illustration limit: Maximum 3 images per chapter.\n- Workflow tracking: Call `get_production_workflow` at any time to see current progress and next required step.\n\nCheck workflow progress for a world and product type.\n\n- ★ `world_id` (uuid)\n- ○ `product_type` (string) — \"novel\" | \"novella\" | \"short_story\" | \"picture_book\" | \"poem\" | \"multi_volume\"\n\n```json\n{\"action\": \"get_production_workflow\", \"world_id\": \"uuid\", \"product_type\": \"novel\"}\n\n```\n\n---\n\n# ACTION REFERENCE\n\nEvery action below shows: required params (★), optional params (○), and an example.\n\n---\n\nList all worlds owned by the authenticated user.\n\n- No parameters required.\n\n```json\n{\"action\": \"list_worlds\"}\n\n```\n\nGet detailed world info including content counts and rules.\n\n- ★ `world_id` (uuid)\n\n```json\n{\"action\": \"get_world\", \"world_id\": \"uuid\"}\n\n```",
+  "token_estimate": 231
+}

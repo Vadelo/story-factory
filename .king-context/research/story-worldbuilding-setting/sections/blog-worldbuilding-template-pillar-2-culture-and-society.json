@@ -1,0 +1,33 @@
+{
+  "title": "Pillar 2: Culture and Society",
+  "path": "blog-worldbuilding-template-pillar-2-culture-and-society",
+  "url": "https://proseengine.app/blog/worldbuilding-template",
+  "keywords": [
+    "daily life",
+    "social hierarchy",
+    "religion",
+    "art and entertainment",
+    "taboos",
+    "food and dress",
+    "internal logic",
+    "cultural practice",
+    "cultural contradictions",
+    "belief system"
+  ],
+  "use_cases": [
+    "Use when outlining the daily routine of a merchant in a coastal city.",
+    "Use when designing the class hierarchy of a warrior society.",
+    "Use when defining the religious beliefs about death in a desert culture.",
+    "Use to create realistic taboos that influence character behavior.",
+    "Use when modeling food and dress to reveal societal values.",
+    "Use when ensuring internal logic for cultural practices."
+  ],
+  "tags": [
+    "worldbuilding",
+    "culture",
+    "society"
+  ],
+  "priority": 10,
+  "content": "Culture is how people live, what they believe, what they celebrate, what they fear, and what they consider normal. It is the most complex pillar and the one that makes worlds feel truly alive.\n\n- Daily life: What does a typical day look like for different classes of people?\n- Religion and belief: What do people believe about the supernatural, death, and meaning?\n- Social hierarchy: Who is on top and who is on the bottom? How rigid are these structures?\n- Art and entertainment: What do people do for fun? What stories do they tell each other?\n- Taboos: What is considered unacceptable, and what happens to those who break the rules?\n- Food and dress: What people eat and wear reveals enormous amounts about their world\n\nThe key to great cultural worldbuilding is internal logic. Every cultural practice should have a reason, even if that reason is never stated on the page. A desert culture that wastes water does not make sense. A warrior society that values poetry creates fascinating contradictions that feel real because real cultures are full of contradictions.",
+  "token_estimate": 243
+}

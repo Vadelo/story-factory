@@ -1,0 +1,30 @@
+{
+  "title": "How to Recognize Realistic Fiction",
+  "path": "realistic-fiction-how-to-recognize-realistic-fiction",
+  "url": "https://bookishbay.com/realistic-fiction/",
+  "keywords": [
+    "realistic fiction",
+    "genre classification",
+    "narrative causality",
+    "psychological challenges",
+    "social realism",
+    "character consistency",
+    "plausible events",
+    "cultural milieu",
+    "suburban kitchen setting"
+  ],
+  "use_cases": [
+    "Use when distinguishing realistic fiction from supernatural or magical genres",
+    "Implement when developing criteria for literary analysis and classification",
+    "Configure when training automated systems to tag book genres based on narrative traits",
+    "Use when evaluating the execution of realism within a fictional text"
+  ],
+  "tags": [
+    "literary-genre",
+    "content-analysis",
+    "taxonomy"
+  ],
+  "priority": 8,
+  "content": "Here we outline how readers might identify the genre and how authors construct such works. Consider the following when judging whether a book belongs to the realistic fiction genre:\n\n- Does the setting feel like a place you know or could imagine (time period, cultural milieu, geography)?\n- Do the characters act in ways consistent with human behavior rather than contrived “plot-only” behavior?\n- Are the events plausible in our world (even if invented)?\n- Does the story focus on interpersonal, social, and psychological challenges rather than magical or supernatural shifts?\n\nIf the answer to most of these is “yes,” then the book likely qualifies as realistic fiction. To read for realism requires attention not to the subject alone, but to the execution. A novel set in a suburban kitchen is not necessarily realistic fiction. The question is how that kitchen is rendered, how its occupants speak, and whether the narrative trusts causality over coincidence.",
+  "token_estimate": 206
+}

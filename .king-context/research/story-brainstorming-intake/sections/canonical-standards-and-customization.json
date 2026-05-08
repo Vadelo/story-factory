@@ -1,0 +1,33 @@
+{
+  "title": "Canonical Standards and Customization",
+  "path": "canonical-standards-and-customization",
+  "url": "https://narrativecontextprotocol.com/",
+  "keywords": [
+    "Vectors",
+    "Dynamics",
+    "Methods",
+    "Appreciations",
+    "Namespaces",
+    "Storybeats",
+    "Storypoints",
+    "universal-narrative-model-schema.md",
+    "Thematic Trajectory",
+    "Canonical Standards"
+  ],
+  "use_cases": [
+    "Use when mapping custom terminology to established frameworks like Dramatica or Hero’s Journey",
+    "Implement when defining narrative direction through binary relationships in Dynamics and Vectors",
+    "Configure when processing thematic conflicts using character-driven Methods",
+    "Use when pairing Perspectives with Storybeats to create Narrative Appreciations",
+    "Configure when ensuring temporal progression and scope integrity in Storybeats"
+  ],
+  "tags": [
+    "configuration",
+    "narrative-structure",
+    "data-schema",
+    "customization"
+  ],
+  "priority": 9,
+  "content": "The UNM provides standardized canonical terms to maintain consistency and clarity across narratives:\n\n- Vectors: Vectors indicate the narrative direction taken by Dynamics, visually or conceptually representing the chosen path within these binary relationships. They help clarify and reinforce the intended thematic trajectory within the narrative structure. Note: Dynamics and Vectors appear binary primarily because this version of the model emphasizes structural clarity and ease of narrative interpretation, intentionally contrasting with the richer complexity offered by Storypoints and Storybeats.\n- Dynamics: Dynamics represent relationships between narrative elements rather than individual, isolated components. They usually present themselves as binary choices, allowing clear narrative direction and purpose. This binary nature complements the more nuanced, multi-dimensional nature of Storypoints and Storybeats.\n- Methods: Methods are small narrative engines that actively process and navigate through conflicts. Each Appreciation reveals one or more Methods, clarifying how characters and narratives actively engage with and respond to thematic tensions.\n- Appreciations: Appreciations are how we interpret and appreciate narrative conflicts, formed by pairing a specific Perspective with either a Storypoint or a Storybeat. They help authors and audiences recognize the narrative's thematic depth and complexity.\n\n---\n\nTo support creative flexibility and compatibility with different narrative frameworks, the UNM accommodates:\n\n- Namespaces: Mapping custom terminology to other narrative frameworks (e.g., Dramatica, Hero’s Journey, Save the Cat!).\n- Custom Terms: Personalized terminology reflecting unique narrative preferences.\n\n- Utilize namespaces for clear mapping to external frameworks.\n- Always retain canonical standards alongside custom terms.\n\n---\n\nTo ensure integrity and consistency in narratives structured with the UNM:\n\n- Storybeats require clearly defined scopes and sequences to maintain coherent temporal progression.\n- Custom terms complement but do not replace canonical standards.\n- Storypoints and Storybeats must include canonical terms.\n\n---\n\nIn this section, we'll explore examples of each narrative aspect, offering a brief overview of what each object contains. For a detailed understanding of specific keys and values, including enumerated values, please refer to the complete universal-narrative-model-schema.md.",
+  "token_estimate": 432
+}

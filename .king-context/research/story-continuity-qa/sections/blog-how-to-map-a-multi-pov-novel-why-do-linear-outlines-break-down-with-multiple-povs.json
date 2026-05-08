@@ -1,0 +1,32 @@
+{
+  "title": "Why do linear outlines break down with multiple POVs?",
+  "path": "blog-how-to-map-a-multi-pov-novel-why-do-linear-outlines-break-down-with-multiple-povs",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "multi-POV",
+    "linear outlines",
+    "simultaneity",
+    "causal relationships",
+    "structural questions",
+    "network view",
+    "visual map",
+    "POV absence",
+    "timeline alignment",
+    "convergence"
+  ],
+  "use_cases": [
+    "Use when mapping simultaneous events across disparate geographical locations",
+    "Implement when tracking causal relationships between multiple point-of-view characters",
+    "Configure when identifying narrative gaps or long absences of specific characters",
+    "Use when planning plot convergences to ensure temporal alignment",
+    "Implement when transitioning from list-based outlining to network-based structural analysis"
+  ],
+  "tags": [
+    "structural-analysis",
+    "plotting-theory",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "Linear tools fail at multi-POV work for a specific reason: they cannot show simultaneity.\n\nWhen Cersei is in King's Landing making a political move, and Daenerys is across the sea building an army, and Jon is at the Wall confronting a different kind of threat entirely, those three things are happening at the same time in the world of the story. Their causal relationships run sideways, across storylines, not just forward through time.\n\nA list can only show you one thing after another. It cannot show you the structural question that actually matters: how does what Cersei does here change what Daenerys does there? Which character's move creates the conditions for another character's scene? Where do the timelines have to align for a convergence to feel earned?\n\nThese are network questions. They require a network view.\n\nThere is also the problem of blank space. In a linear outline, it is easy to write \"Chapters 1-8: Jon at the Wall\" without noticing that you have just gone 120 pages without a single scene involving your other POV characters. The list does not signal that absence. A visual map does, instantly.",
+  "token_estimate": 251
+}

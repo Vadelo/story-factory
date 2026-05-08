@@ -1,0 +1,37 @@
+{
+  "title": "Everything your world needs, structured and connected",
+  "path": "everything-your-world-needs-structured-and-connected",
+  "url": "https://loreum.app/",
+  "keywords": [
+    "MCP-compatible AI",
+    "AGPL-3.0 license",
+    "Gantt visualization",
+    "field schemas",
+    "canonical world articles",
+    "cross-referenced metadata",
+    "diff staging area",
+    "review queue",
+    "style guide overrides",
+    "entity mentions",
+    "character voice notes"
+  ],
+  "use_cases": [
+    "Use when organizing world-building data into a structured hierarchy for AI ingestion",
+    "Configure when setting up custom calendar support and era-based timelines for fantasy settings",
+    "Implement when bridging external AI tools like Claude or Cursor with local lore files via MCP",
+    "Use when managing multi-creator collaborations and maintaining a single canonical source of truth",
+    "Configure when mapping complex social and political hierarchies through first-class relationship objects",
+    "Use when performing automated continuity checks to find timeline contradictions or lore conflicts",
+    "Implement when converting disorganized brainstorming documents into structured entities and relationships"
+  ],
+  "tags": [
+    "content-management",
+    "ai-integration",
+    "world-building",
+    "data-structuring",
+    "collaboration"
+  ],
+  "priority": 10,
+  "content": "Connect Claude, Cursor, or any MCP-compatible AI. It reads your characters, relationships, timeline, and lore to generate content that fits your world.\n\nDefine your voice, tone, POV, pacing, and dialogue rules. Scene overrides and character voice notes let the AI maintain your style across sessions.\n\nCharacters, factions, locations, organizations, and fully custom types with configurable field schemas, backstories, and secrets.\n\nRelationships are first-class objects with labels and descriptions. Visualize your world's social, political, and narrative web.\n\nOrganize events chronologically with eras, drag-to-edit Gantt visualization, and custom calendar support for fantasy worlds.\n\nCanonical world articles with categories, tags, and entity mentions. Your world bible, structured and searchable.\n\nPlotlines, works, chapters, and scenes, all cross-referenced to your world data, timeline, and characters.\n\nAI-suggested changes land in a staging area. Review a diff of every creation, update, and deletion before it touches your canon.\n\nBecause your world is structured data instead of scattered files, AI can query all of it. Bring your own AI or use the built-in assistant. Proposed changes go through a review queue before touching your canon.\n\nDump in disorganized files, outlines, and brainstorm docs. AI reads them and structures them into entities, relationships, and timeline events.\n\nGive AI a handful of concepts and let it flesh out characters, factions, locations, and the connections between them.\n\nAI writes in your voice using your style guide, with full awareness of who is in the scene, where they are, and what has happened before.\n\nEach character carries voice notes. AI writes dialogue that sounds like the character, not like a generic chatbot.\n\nAsk AI to find contradictions in your timeline, catch characters in two places at once, or flag lore that conflicts with established canon.\n\nAsk any question. Who would win this war? What happens if this character betrays their faction? AI has the full context to give grounded answers.\n\nPlan narrative structure, track character arcs across books, and keep continuity tight in long-running series.\n\nMovies, TV shows, web series. Structure episodes, track character timelines, and maintain consistency across seasons.\n\nRPGs, open worlds, MMORPGs. Track quests, factions, branching storylines, and the lore behind them.\n\nD&D, Pathfinder, homebrew systems. Organize campaigns, NPCs, session history, and share a player-facing wiki.\n\nTrack character rosters, story arcs, power sets, and interconnected storylines across issues and volumes.\n\nWriting groups, shared universes, anthology projects. Multiple creators, one canonical source of truth.\n\n1\n\nCreate entities, relationships, timelines, lore, and a style guide in the Loreum web app.\n\n2\n\nBring your own AI via MCP or use the built-in assistant. Build solo or invite collaborators.\n\n3\n\nAI reads your canon to generate grounded content. Proposed changes land in a review queue for you to accept.\n\nLoreum is open source under the AGPL-3.0 license. The code is public, contributions are welcome, and your world data is always yours.\n\nFree to use. No credit card required.\n\nGet started free Join the Discord",
+  "token_estimate": 638
+}

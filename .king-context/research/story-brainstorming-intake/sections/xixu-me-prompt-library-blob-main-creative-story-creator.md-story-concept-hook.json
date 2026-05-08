@@ -1,0 +1,28 @@
+{
+  "title": "Story Concept & Hook",
+  "path": "xixu-me-prompt-library-blob-main-creative-story-creator.md-story-concept-hook",
+  "url": "https://github.com/xixu-me/prompt-library/blob/main/creative/story-creator.md",
+  "keywords": [
+    "memory extraction technology",
+    "Dr. Sarah Chen",
+    "central conflict",
+    "premise development",
+    "plot stakes",
+    "consciousness manipulation",
+    "fabricated memories",
+    "narrative hook"
+  ],
+  "use_cases": [
+    "Use when establishing the foundational narrative direction for a speculative fiction project",
+    "Configure when defining character motivations and the primary antagonist force",
+    "Implement when articulating the unique selling proposition of a sci-fi storyline"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "story-architecture"
+  ],
+  "priority": 10,
+  "content": "**Premise**: A neuroscientist developing memory extraction technology discovers her own memories may be fabricated experiments.\n\n**Central Conflict**: Dr. Sarah Chen must determine what's real in her own mind while uncovering a conspiracy that makes her both researcher and test subject.\n\n**Stakes**: Not just her identity, but the future of human consciousness and the fate of hundreds of other test subjects.\n\n**Unique Angle**: The protagonist is simultaneously the scientist, the experiment, and the evidence.\n\n---",
+  "token_estimate": 98
+}

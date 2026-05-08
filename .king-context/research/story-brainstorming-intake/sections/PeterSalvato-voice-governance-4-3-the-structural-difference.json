@@ -1,0 +1,31 @@
+{
+  "title": "4.3 The Structural Difference",
+  "path": "PeterSalvato-voice-governance-4-3-the-structural-difference",
+  "url": "https://github.com/PeterSalvato/voice-governance",
+  "keywords": [
+    "structural difference",
+    "generation constraints",
+    "accommodation insight",
+    "post-generation filtering",
+    "architectural conditions",
+    "abstraction-first",
+    "mechanical parallelism",
+    "model defaults",
+    "inference-time constraints"
+  ],
+  "use_cases": [
+    "Configure when designing prompting strategies to ensure foundational structural integrity",
+    "Use when deciding between real-time constrained decoding versus post-process editing",
+    "Implement when the desired output requires specific rhythmic or tonal consistency",
+    "Use when mapping the architectural relationship between constraints and model defaults"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "architecture",
+    "best-practices",
+    "generation-logic"
+  ],
+  "priority": 9,
+  "content": "When constraints are applied during generation, the model builds the paragraph around the constraints. The structure supports the voice from the first sentence. The paragraph is organized to lead with situation because the rules prohibit leading with abstraction. The rhythm varies because the rules prohibit mechanical parallelism. The closing is specific because the rules prohibit fortune-cookie resolution.\n\nWhen constraints are applied after generation, the model builds the paragraph around its defaults and then tries to edit it. The bones are wrong. The structure was built to support abstraction-first, parallel, neatly-resolved prose. Changing the words does not change the bones.\n\nThis is the accommodation insight. Constrain during generation, not filter after. The same text, produced under different architectural conditions, has a different structure. The paragraph that was built under constraints has different bones than the paragraph that was built freely and then edited to match.",
+  "token_estimate": 191
+}

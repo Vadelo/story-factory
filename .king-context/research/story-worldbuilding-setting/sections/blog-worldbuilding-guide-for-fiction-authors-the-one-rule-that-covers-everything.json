@@ -1,0 +1,33 @@
+{
+  "title": "The One Rule That Covers Everything",
+  "path": "blog-worldbuilding-guide-for-fiction-authors-the-one-rule-that-covers-everything",
+  "url": "https://app.blurbbio.com/blog/worldbuilding-guide-for-fiction-authors",
+  "keywords": [
+    "internal consistency",
+    "worldbuilding element",
+    "magic cost consistency",
+    "story bible",
+    "plot holes",
+    "geography",
+    "history",
+    "society",
+    "lore",
+    "consistency rule"
+  ],
+  "use_cases": [
+    "Use when ensuring magic costs remain consistent across chapters",
+    "Implement when maintaining geographic distances across the narrative",
+    "Configure when aligning societal values with internal lore",
+    "Apply when preserving historical continuity within the world",
+    "Use when avoiding contradictions in the world’s internal logic"
+  ],
+  "tags": [
+    "worldbuilding",
+    "consistency",
+    "fiction writing",
+    "plot development"
+  ],
+  "priority": 10,
+  "content": "Every worldbuilding element — geography, magic, history, society, lore — follows a single underlying rule:\n\nThe world must be internally consistent with itself, even when it is inconsistent with reality.\n\nReaders will accept dragons, faster-than-light travel, economies that run on magic gems, and societies with values completely alien to contemporary Western culture. They will not forgive a world that contradicts itself. The magic that cost the user consciousness in chapter 4 must still cost them something in chapter 34. The city that was three days' ride away in chapter 8 cannot become half a day's ride in chapter 27.\n\nConsistency is the contract. Everything else — the wonder, the history, the culture, the depth — is what makes readers want to enter the world. Consistency is what makes them trust it enough to stay.\n\n---\n\nSee also: How to Build a Story Bible· The 7 Types of Plot Holes (And How to Fix Every One)\n\nThe world is not the backdrop. It is a pressure system. It pushes on your characters from every direction — and the pressure that isn't visible on the page still shapes every decision they make.",
+  "token_estimate": 252
+}

@@ -1,0 +1,34 @@
+{
+  "title": "3.1 Dataset",
+  "path": "html-2510.18201v1-3-1-dataset",
+  "url": "https://arxiv.org/html/2510.18201v1",
+  "keywords": [
+    "BookNLP",
+    "MARCUS",
+    "BiLSTM",
+    "BERT embeddings",
+    "LitEvents",
+    "Semantic Role Labeller",
+    "AllenNLP",
+    "pronominal coreference resolution",
+    "character name clustering",
+    "Sentiment Identification",
+    "event-centric relations"
+  ],
+  "use_cases": [
+    "Use when analyzing character arcs in long-form narratives like novels",
+    "Implement when requiring pronominal coreference resolution for character name clustering",
+    "Configure when processing datasets with high event counts for sentiment regression",
+    "Use when extracting participant roles using a BERT-based Semantic Role Labeller",
+    "Implement when removing redundancy from sentence-level events with identical actors"
+  ],
+  "tags": [
+    "nlp-pipeline",
+    "data-preprocessing",
+    "sentiment-analysis",
+    "information-extraction"
+  ],
+  "priority": 9,
+  "content": "We failed to retrieve meaningful character arcs in our preliminary experiments with short stories containing less than 500 events. Consequently, we choose two larger datasets for character arc analysis instead, namely The Harry Potter septology and The Lord of the Rings trilogy. For each source, we ensure that we remove page numbers, unnecessary annotations, unreadable characters, weblinks, etc. The details of each dataset are detailed in Table 2.\n\nTable 1: Dataset Details\n\n| Data Source | Word Count | Event Count |\n| --- | --- | --- |\n| Harry Potter | 1,095,940 | 93,782 |\n| Lord of the Rings | 478,329 | 28,670 |\n\nTable 2: RoBERTa Sentiment Regression Model\n\n| Metric | Score |\n| --- | --- |\n| Mean Squared Error | 0.01620 |\n| Mean Absolute Error | 0.09693 |\n\nNovelBookNLPEvent ExtractionParticipant ExtractionSentiment IdentificationEmotion IdentificationCircumstanceRelation ArcCharacter Arc Scoring\n\nFigure 2: MARCUS (Modeling Arcs for Understanding Stories), an NLP pipeline that plots a character’s arc as their quantitative interaction with circumstance as both actor and experiencer, represented by the proxy amalgamation of their event-centric relations across the narrative.\n\nBookNLP [7] is an NLP pipeline222 https://github.com/dbamman/book-nlp that scales to books and long documents (in English) and performs tasks like part-of-speech tagging (Stanford), dependency parsing (MaltParser), named entity recognition (Stanford), character name clustering (e.g., “Tom\", “Tom Sawyer\", “Mr. Sawyer\" : “Tom Sawyer\") and pronominal coreference resolution. MARCUS uses BookNLP to retrieve character occurrences and linguistic features needed for event and participant extraction.\n\nWe feed the features processed from BookNLP into a tagger consisting of a BiLSTM model with BERT embeddings to extract events and corresponding entities from the narrative. The tagger is trained333 https://github.com/dbamman/litbank using the LitEvents dataset [8], which provides an annotated list of events from over 100 public domain novels from Project Gutenberg. MARCUS uses tagged events and entities for extracting participant characters, sentiment, and implied emotion.\n\nWe process each event with a BERT-based Semantic Role Labeller provided by AllenNLP444 https://docs.allennlp.org/models/main/models/structured_prediction/models/srl_bert/ to extract the latent predicate-argument structure of the event and identify roles of participant characters. If there are multiple events in the same sentence with the same actors and experiencers, we consider only the first event to avoid redundancy.",
+  "token_estimate": 486
+}

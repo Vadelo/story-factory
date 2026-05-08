@@ -1,0 +1,21 @@
+{
+  "title": "World Rules",
+  "path": "world-rules",
+  "url": "local://works/a-margem-que-devora-o-heroi#world-rules",
+  "keywords": [
+    "world",
+    "rules",
+    "setting"
+  ],
+  "use_cases": [
+    "Recall world rules for story continuation"
+  ],
+  "tags": [
+    "world",
+    "rules",
+    "setting"
+  ],
+  "priority": 9,
+  "content": "{\n  \"setting\": \"A light novel/manhwa A Lança do Imperador Regressor, com reino chuvoso, casas nobres, maldições, margens textuais, notas de revisão, comentários e versões cortadas como camadas reais.\",\n  \"rules\": [\n    \"A margem textual é um espaço real onde Davi existe como consciência sem corpo.\",\n    \"A versão publicada, notas de revisão, comentários e variações descartadas são camadas distintas da história.\",\n    \"Davi pode alterar causalidade com pequenas revisões, mas não pode criar livremente do nada.\",\n    \"A página tenta restaurar cenas obrigatórias e relações principais quando a narrativa se desvia.\",\n    \"Personagens com autoria devolvida por falas cortadas podem alcançar parcialmente a margem.\"\n  ]\n}",
+  "token_estimate": 134
+}

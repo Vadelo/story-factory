@@ -1,0 +1,32 @@
+{
+  "title": "The Religious System Builder",
+  "path": "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-religious-system-builder",
+  "url": "https://impressifyai.com/article/chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture",
+  "keywords": [
+    "PANTHEON",
+    "ORIGIN MYTH",
+    "CLERGY STRUCTURE",
+    "HERETICAL MOVEMENTS",
+    "PRACTICAL POWER",
+    "CORE BELIEF",
+    "SINCERE VS. CYNICAL",
+    "Religious System Builder",
+    "PILGRIMAGE SITES",
+    "ADHERENT RATIO"
+  ],
+  "use_cases": [
+    "Use when building a cohesive world-building framework for fiction or gaming",
+    "Configure when defining the socioeconomic impact of faith on government and law",
+    "Implement when creating diverse spiritual archetypes including animism or ancestor worship",
+    "Use when developing conflict points through schisms and heretical movements"
+  ],
+  "tags": [
+    "world-building",
+    "content-generation",
+    "lore-development",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "Religion shapes everything from architecture to warfare:\n\n```\n\"Create a religious system for my world with:\n\nCORE BELIEF: [Your central religious concept]\nPANTHEON: [Single god, multiple gods, animism, ancestor worship?]\n\nDevelop:\n1. ORIGIN MYTH: How was the world created? Include one 'true' \n   element and one 'metaphor for historical event.'\n2. CLERGY STRUCTURE: Who leads? How are they chosen/trained?\n3. RELIGIOUS PRACTICES: Daily rituals, major holidays (include 4-6), \n   pilgrimage sites.\n4. HERETICAL MOVEMENTS: What schisms or reformations occurred? Who \n   were the key figures?\n5. PRACTICAL POWER: What secular power does organized religion hold? \n   (Law? Education? Healing? Burial?)\n6. SINCERE VS. CYNICAL: What percentage of adherents truly believe \n   vs. participate for social reasons?\n\nShow how this religion would influence government, marriage laws, \nand warfare.\"\n```",
+  "token_estimate": 163
+}

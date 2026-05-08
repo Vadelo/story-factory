@@ -1,0 +1,33 @@
+{
+  "work_slug": "a-margem-que-devora-o-heroi",
+  "chapter_id": "chapter-001-light-novel",
+  "chapter_number": 1,
+  "title": "O Homem na Margem da Página",
+  "language": "pt-BR",
+  "form": "light novel/webnovel",
+  "content_file": "output/a-margem-que-devora-o-heroi/chapter-001-light-novel.md",
+  "summary": "Davi acorda na margem textual de uma light novel/manhwa de regressão que revisou. Em vez de manipular painéis diretamente, ele altera frases, notas de revisão e versões cortadas. Ele devolve pequenas possibilidades a Yerin, fazendo-a reagir, escapar pelo canal inferior e impedir que Kael tenha sua cena de salvamento perfeita. Kael revela conseguir escrever na margem como comentário de revisão.",
+  "canon_changes": [
+    "A direção principal mudou para light novel/webnovel em texto, não manhwa visual puro.",
+    "O poder de Davi é edição textual: inserir, deslocar, recuperar variações cortadas e alterar peso de frases.",
+    "Davi não é autor absoluto; ele age como revisor preso na margem.",
+    "Yerin escapa pelo canal inferior usando uma variação descartada do roteiro.",
+    "Kael pode escrever comentários na margem e percebe a interferência de Davi."
+  ],
+  "continuity_notes": [
+    "Não voltar para linguagem excessivamente visual de manhwa se a direção atual é light novel.",
+    "Não permitir que Davi reescreva tudo livremente; preservar limites de revisor.",
+    "Não tornar Yerin passiva outra vez.",
+    "Kael deve ser antagonista estrutural com lógica própria, não apenas vilão vaidoso."
+  ],
+  "retrieval_used": {
+    "permanent_corpora": [
+      "story-brainstorming-intake",
+      "story-structure-plot",
+      "story-character-arcs",
+      "story-genre-conventions",
+      "story-prose-style-voice",
+      "story-continuity-qa"
+    ]
+  }
+}

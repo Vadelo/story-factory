@@ -1,0 +1,29 @@
+{
+  "title": "2. Character Misdirection",
+  "path": "mystery-reader-misinterpretation-guide-2-character-misdirection",
+  "url": "https://www.jeanneriedelbooks.com/mystery-reader-misinterpretation-guide/",
+  "keywords": [
+    "Character Misdirection",
+    "Obvious Suspect",
+    "Unreliable Narrator",
+    "Credibility Gaps",
+    "First-person Narration",
+    "Motive Analysis",
+    "Villain Archetypes",
+    "Narrative Perspective"
+  ],
+  "use_cases": [
+    "Use when designing subplots to divert the reader's suspicion toward characters with clear motives",
+    "Implement when crafting an unreliable narrator to obscure key plot details",
+    "Configure when subverting character tropes by making the antagonist appear helpful or vulnerable",
+    "Use when addressing credibility gaps in complex mystery writing"
+  ],
+  "tags": [
+    "Narrative Techniques",
+    "Character Development",
+    "Mystery Writing"
+  ],
+  "priority": 8,
+  "content": "Writers play with our expectations about people.\n\n- The Obvious Suspect: The person with a clear motive, like the spouse or the disgruntled business partner. They seem too obvious, so we might rule them out, or they seem just obvious enough to be convincing.\n- The Unreliable Narrator: The person telling the story (like in a first-person novel) might be lying, forgetting key details, or seeing things incorrectly. We interpret events through their eyes, and if their vision is cloudy, ours is too. For more on creating believable characters, see our guide on addressing credibility gaps in mystery writing.\n- The “Too Nice to Be Guilty” Character: Writers know we often suspect the mean or shady character. So, they make the real villain charming, helpful, or vulnerable, making us unwilling to suspect them.",
+  "token_estimate": 176
+}

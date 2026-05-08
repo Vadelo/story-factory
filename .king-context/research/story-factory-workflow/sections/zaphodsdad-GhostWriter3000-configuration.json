@@ -1,0 +1,32 @@
+{
+  "title": "Configuration",
+  "path": "zaphodsdad-GhostWriter3000-configuration",
+  "url": "https://github.com/zaphodsdad/GhostWriter3000",
+  "keywords": [
+    "OPENROUTER_API_KEY",
+    "GENERATION_MODEL",
+    "CRITIQUE_MODEL",
+    "MAX_ITERATIONS",
+    "DATA_DIR",
+    "API_AUTH_KEY",
+    "PORT",
+    "Swagger UI",
+    ".env.example"
+  ],
+  "use_cases": [
+    "Configure when setting up API keys for OpenRouter model access",
+    "Use when overriding default port or data storage paths",
+    "Implement when defining specialized models for generation versus critique cycles",
+    "Configure when securing the server with an optional API authentication key",
+    "Use when adjusting the revision cycle limit through MAX_ITERATIONS"
+  ],
+  "tags": [
+    "configuration",
+    "environment-variables",
+    "setup",
+    "deployment"
+  ],
+  "priority": 10,
+  "content": "All settings can be configured through the UI (Settings panel) or via environment variables:\n\n| Variable | Default | Description |\n| --- | --- | --- |\n| `OPENROUTER_API_KEY` | (required) | Your OpenRouter API key |\n| `GENERATION_MODEL` | deepseek/deepseek-chat-v3.1 | Model for prose generation |\n| `CRITIQUE_MODEL` | deepseek/deepseek-chat-v3.1 | Model for critique |\n| `MAX_ITERATIONS` | 5 | Max revision iterations per generation |\n| `DATA_DIR` | ./data | Data storage directory |\n| `PORT` | 8000 | Server port |\n| `API_AUTH_KEY` | (empty) | Optional API key for authentication |\n\nFull list in [.env.example](.env.example). API docs at `http://localhost:8000/docs` (Swagger UI).\n\n![Settings panel](docs/screenshots/settings.png)",
+  "token_estimate": 143
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Contrastive Evaluation: When Each Strategy Fails",
+  "path": "worldbuilding-in-realist-vs-speculative-fiction-contrastive-evaluation-when-each-strategy-fails",
+  "url": "https://bookishbay.com/worldbuilding-in-realist-vs-speculative-fiction/",
+  "keywords": [
+    "realist worldbuilding",
+    "speculative worldbuilding",
+    "cultural assumptions",
+    "narrative momentum",
+    "unexamined assumptions",
+    "excessive exposition",
+    "opaque rules",
+    "contrastive evaluation",
+    "shared knowledge liability"
+  ],
+  "use_cases": [
+    "Use when evaluating why a realist narrative feels exclusionary or impenetrable to diverse audiences",
+    "Implement when balancing magical system explanations against plot pacing in speculative fiction",
+    "Configure when auditing creative writing for 'invisible' walls created by local social codes",
+    "Use when diagnostic tools are needed to identify causes of reader abandonment in different genres"
+  ],
+  "tags": [
+    "creative-writing",
+    "literary-theory",
+    "narrative-design",
+    "worldbuilding"
+  ],
+  "priority": 8,
+  "content": "Realist worldbuilding fails when its assumptions exclude the reader. A novel that assumes familiarity with a specific time, place, or social code may become impenetrable to readers outside that context. The worldbuilding, designed to be invisible, becomes a wall.\n\nConsider a realist novel set in a tightly circumscribed social world, such as a boarding school or an aristocratic family. A reader unfamiliar with that world’s customs may struggle to infer what the author leaves out. The novel’s confidence in shared knowledge becomes a liability.\n\nSpeculative worldbuilding, on the other hand, fails when its explanations overwhelm the narrative. A fantasy novel that pauses the action to describe the magic system, the political history, and the geography of three continents loses narrative momentum. The reader may admire the worldbuilding without ever becoming engaged in the story.\n\nConsequently, readers will often abandon a realist novel because of unexamined cultural assumptions or thinly sketched contexts, and a speculative novel because of excessive exposition or opaque rules that never quite cohere.",
+  "token_estimate": 220
+}

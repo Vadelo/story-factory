@@ -1,0 +1,33 @@
+{
+  "title": "3. Strict Schemas",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-3-strict-schemas",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Strict Schemas",
+    "JSON output",
+    "Retry Logic",
+    "Formatting Cheat Sheets",
+    "Fountain Markdown",
+    "5-phase pipeline",
+    "deterministic logic",
+    "Gemini",
+    "malformed JSON",
+    "character naming conventions"
+  ],
+  "use_cases": [
+    "Implement when frontend components require structured JSON objects to prevent application crashes",
+    "Configure when industry-standard formatting like Fountain Markdown syntax is mandatory",
+    "Use when trading execution speed for high-level deterministic control is acceptable",
+    "Apply when building multi-phase LLM pipelines rather than single-prompt architectures",
+    "Use when automatic error recovery for malformed model responses is required"
+  ],
+  "tags": [
+    "data-validation",
+    "api-design",
+    "error-handling",
+    "schema-enforcement"
+  ],
+  "priority": 9,
+  "content": "When you are building a UI, you can’t rely on vibes. You need structure. If the AI returns a markdown block when your frontend expects an object, your app crashes.\n\nWe force JSON output for everything, even the creative writing parts.\n\n- Retry Logic: If Gemini returns malformed JSON or forgets to fill in a value, our API automatically catches the error and retries the request.\n- Formatting Cheat Sheets: We don’t hope Gemini remembers Fountain Markdown screenwriting syntax; we inject a “cheat sheet” directly into the prompt to ensure compliance.\n- Screenwriting Conventions: We enforce rigid schemas for character naming conventions (e.g., distinguishing between a “First Introduction” and a “Dialogue Cue”) to ensure the output is industry-standard.\n\nThis approach turns the “fuzzy” logic of an LLM into the deterministic logic your app needs.\n\nI’m not going to lie to you: building this system wasn’t all sunshine and perfect prose. When you move from “one big prompt” to a “5-phase pipeline,” you are trading simplicity for control. And that trade comes with a price tag.\n\nHere are the reality checks you need to consider before you start coding.\n\nThe single biggest trade-off here is speed. A standard “rewrite this” prompt takes maybe several minutes. This architecture? It might tak",
+  "token_estimate": 277
+}

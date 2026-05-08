@@ -1,0 +1,32 @@
+{
+  "title": "Approach 1: The Knowledge Graph (Neo4j-Style)",
+  "path": "blog-persistent-memory-for-ai-agents-approach-1-the-knowledge-graph-neo4j-style",
+  "url": "https://www.knowlee.ai/blog/persistent-memory-for-ai-agents",
+  "keywords": [
+    "Knowledge Graph",
+    "Neo4j",
+    "Cypher",
+    "MATCH",
+    "nodes",
+    "edges",
+    "traversal",
+    "agent memory",
+    "schema",
+    "relationship mapping"
+  ],
+  "use_cases": [
+    "Implement when agents need to navigate complex, multi-hop relationships between entities",
+    "Use when retrieving contextual information that standard CRM or vector stores cannot resolve via keyword or similarity search",
+    "Configure when modeling agent memory as a network of entities, signals, and historical decisions",
+    "Use when query performance for deep path-based relationship analysis is a critical requirement"
+  ],
+  "tags": [
+    "data-modeling",
+    "agent-memory",
+    "graph-databases",
+    "query-optimization"
+  ],
+  "priority": 9,
+  "content": "A knowledge graph stores nodes (entities) and edges (relationships). For agent memory, a typical schema looks something like this — companies, contacts, signals, deals, decisions, agents, runs — each as a node type, each with relationships that the agents traverse: a contact`WORKS_AT` a company, a signal`OBSERVED_FOR` a company, a deal`INVOLVES` a contact, a decision`LED_TO` an outcome, an agent run`PRODUCED` a decision.\n\nThe query language is path-shaped:`MATCH (p:Person)-[:WORKED_AT]->(c1:Company)<-[:WORKED_AT]-(p2:Person) WHERE c1.industry = 'fintech' AND p2.role = 'CTO' RETURN p, p2`. You read it as \"find people who used to work at a fintech company alongside someone who is now a CTO somewhere.\" That is a question a CRM cannot answer, a vector store cannot answer, and a knowledge graph answers in milliseconds.",
+  "token_estimate": 159
+}

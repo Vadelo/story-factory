@@ -1,0 +1,32 @@
+{
+  "title": "How Story Decoder Pulls Signals From Your Input And Genre ​",
+  "path": "docs-story-compass-how-story-decoder-pulls-signals-from-your-input-and-genre",
+  "url": "https://dramatica.com/docs/story-compass",
+  "keywords": [
+    "Story Decoder",
+    "Genre signals",
+    "Objective Story pressure",
+    "Throughline extraction",
+    "Character Evolution",
+    "internal pressure signals",
+    "conflict mechanics",
+    "four-Perspective structure",
+    "input signals",
+    "candidate Domains"
+  ],
+  "use_cases": [
+    "Use when mapping story premises into a formal four-Perspective structural framework",
+    "Configure when deciding between internal or external pressure profiles for Character Throughlines",
+    "Implement when writing loglines to ensure conflict mechanics are exposed for clear interpretation",
+    "Use when determining if a Main Character should resolve personal conflict through change or conviction"
+  ],
+  "tags": [
+    "content-analysis",
+    "story-structure",
+    "genre-logic",
+    "audience-dynamics"
+  ],
+  "priority": 9,
+  "content": "Story Decoder reads both what your premise says and how your Genre frames expectation.\n\n- Input signals: conflict verbs, central pressure, who acts, who resists, what is at risk, and whether stress reads more internal or external.\n- Genre signals: expected conflict arena, likely pressure patterns, and audience assumptions about resolution style.\n- Combined inference: Story Decoder maps these signals into candidate Domains and Throughline roles, then returns a coherent four-Perspective structure.\n\nExample interpretation pattern:\n\n- If your input emphasizes social collapse, institutions, and public stakes, Story Decoder will weight an external Objective Story pressure profile.\n- If your input emphasizes identity fracture, guilt, or self-justification, Story Decoder will weight internal pressure signals for character-centered Throughlines.\n\nCommon mistake: treating wording polish as cosmetic. Correction: write your logline or story ideas to expose conflict mechanics, not just premise flavor. The clearer your pressure language, the cleaner the Throughline extraction.\n\nStory Decoder also surfaces two high-impact audience dynamics so you can understand the emotional contract of the story.\n\nCharacter Evolution indicates whether the Main Character is structurally aligned toward changing or holding. This is not a moral label. It is an audience expectation signal for how personal conflict resolves.\n\nWriting use: Use Character Evolution to decide whether key scenes test flexibility or conviction.",
+  "token_estimate": 280
+}

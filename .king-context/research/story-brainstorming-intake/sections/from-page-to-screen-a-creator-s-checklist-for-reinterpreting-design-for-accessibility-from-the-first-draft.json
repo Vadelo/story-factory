@@ -1,0 +1,32 @@
+{
+  "title": "Design for accessibility from the first draft",
+  "path": "from-page-to-screen-a-creator-s-checklist-for-reinterpreting-design-for-accessibility-from-the-first-draft",
+  "url": "https://content-directory.com/from-page-to-screen-a-creator-s-checklist-for-reinterpreting",
+  "keywords": [
+    "accessibility",
+    "alt text",
+    "transcript-ready language",
+    "caption-aware writing",
+    "descriptive headings",
+    "screen-reader optimization",
+    "SEO",
+    "typeface pairings",
+    "brutalist branding",
+    "distribution multiplier"
+  ],
+  "use_cases": [
+    "Use when drafting initial scripts or visual storyboards to ensure inclusive design",
+    "Implement when optimizing content for search engine discovery and podcast indexing",
+    "Configure when selecting typography and visual styles to balance aesthetics with readability",
+    "Use when describing visually dense scenes for listeners and screen-reader users"
+  ],
+  "tags": [
+    "accessibility",
+    "content-strategy",
+    "SEO",
+    "design-principles"
+  ],
+  "priority": 10,
+  "content": "Accessibility is not a post-production patch. It should shape scripting, visuals, and structure from the start. Use descriptive headings, concise signposting, transcript-ready language, caption-aware writing, and alt text that explains rather than decorates. If you are discussing visually dense film scenes, include enough description that a listener or screen-reader user can follow your core point. Accessibility increases reach because it helps more people understand and stay with your argument.\n\nThink of accessibility as a distribution multiplier. Clear structure helps search engines. Captions help social clips. Transcripts improve podcast indexing. Even style choices matter, which is why a guide like typeface pairings for brutalist branding can be useful when your visuals need to feel conceptually aligned with the subject matter. Strong accessibility is not just ethical; it is good SEO and better user experience.",
+  "token_estimate": 176
+}

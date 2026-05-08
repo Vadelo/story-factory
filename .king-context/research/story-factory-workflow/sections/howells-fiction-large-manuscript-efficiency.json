@@ -1,0 +1,32 @@
+{
+  "title": "Large Manuscript Efficiency",
+  "path": "howells-fiction-large-manuscript-efficiency",
+  "url": "https://github.com/howells/fiction",
+  "keywords": [
+    "reader-skim",
+    "reader-careful",
+    "parallel processing",
+    "direct parallel",
+    "two-phase continuity checking",
+    "parent agent synthesis",
+    "series-architecture.md",
+    "v1.8.0",
+    "manuscript extraction",
+    "voice analysis"
+  ],
+  "use_cases": [
+    "Use when processing manuscripts exceeding 50,000 words or 10 chapters",
+    "Implement when needing to perform voice analysis and full critiques across large datasets",
+    "Configure when seeking significant speedups for editing and reviewing through parallelization",
+    "Use when establishing a multi-book series architecture with anchored constraints"
+  ],
+  "tags": [
+    "performance-optimization",
+    "large-document-processing",
+    "agent-architecture",
+    "workflow-automation"
+  ],
+  "priority": 9,
+  "content": "For 50k+ word novels (10+ chapters), specialized reader agents extract chapter data in parallel:\n\n| Task | Reader | Speedup |\n| --- | --- | --- |\n| Synopsis generation | reader-skim / reader-careful | ~3-4× |\n| Full critique | reader-careful | ~3-4× |\n| Voice analysis | reader-careful | ~3-4× |\n| Editing all chapters | (direct parallel) | ~20× |\n| Reviewing all chapters | (direct parallel) | ~20× |\n| Continuity checking | (two-phase) | ~3-4× |\n\nReader agents return structured data that the parent agent synthesizes into final output.\n\n```\n/my-series\n├── README.md\n├── series/\n│   ├── series-architecture.md  # ⚓ Anchored series constraints\n│   ├── characters/\n│   └── world/\n└── book-1-title/\n    ├── README.md\n    ├── progress.md\n    ├── chapters/\n    ├── critiques/\n    ├── synopses/\n    └── builds/\n```\n\nAll agents link to relevant craft references and related agents. No orphaned knowledge.\n\n---\n\n**Version:** 1.8.0 — See [CHANGELOG.md](CHANGELOG.md)\n\n**Author:** Daniel Howells\n\n**License:** MIT",
+  "token_estimate": 204
+}

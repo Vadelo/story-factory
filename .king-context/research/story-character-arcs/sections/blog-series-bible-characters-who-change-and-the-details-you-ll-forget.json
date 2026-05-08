@@ -1,0 +1,34 @@
+{
+  "title": "Characters Who Change (and the Details You'll Forget)",
+  "path": "blog-series-bible-characters-who-change-and-the-details-you-ll-forget",
+  "url": "https://www.bindercraft.net/blog/series-bible",
+  "keywords": [
+    "continuity tracking",
+    "character evolution",
+    "knowledge problem",
+    "per-book snapshot",
+    "anachronism prevention",
+    "character version control",
+    "series bible",
+    "attribute shift",
+    "physical continuity",
+    "timeline awareness",
+    "character arc evolution"
+  ],
+  "use_cases": [
+    "Implement when managing character development across multiple volumes of a series",
+    "Use when tracking what information a protagonist knows at specific points in a timeline",
+    "Configure when building a series bible to prevent narrative anachronisms",
+    "Use when documenting changing physical attributes or habitual gestures to ensure visual consistency",
+    "Implement when writing flashbacks to ensure a character's knowledge and relationships match the historical setting"
+  ],
+  "tags": [
+    "narrative-continuity",
+    "character-development",
+    "world-building",
+    "quality-assurance"
+  ],
+  "priority": 9,
+  "content": "The hardest continuity challenge in any series isn't remembering static facts. It's tracking evolution. In a standalone novel, a character profile is relatively fixed: this person looks like this, acts like this, knows these things, and relates to these people. In a series, every one of those attributes is a moving target.\n\nYour protagonist in Book 1 was wary of authority. By Book 3, she's become a leader herself. That shift is the whole point of the arc, and you know it intimately. But do you remember exactly when she started trusting her instincts over the council's advice? Do you remember what she knew about her father's betrayal at the end of Book 2 versus what she discovered in Book 3? If a character references that betrayal in Book 4, are they referencing the version of events they believed at that point, or the full truth they didn't learn until later?\n\nThis is what series authors call the knowledge problem, and it trips up even experienced writers. In a mystery or thriller series, it's particularly acute: your detective learns things across multiple books, and every piece of information they reference has a specific moment when it entered their awareness. If your detective casually mentions a forensic technique they didn't encounter until Book 3, and you're writing a flashback scene set during the events of Book 2, you've created an anachronism that sharp readers will catch. In romance, the equivalent might be a character who references a conversation that hasn't happened yet in the series timeline, or who displays knowledge about another character's past that they shouldn't have.\n\nThe fix isn't just a character profile. It's a per-book character snapshot: a record, for each major character, of what they know, who they're connected to, what they look like, and how they've changed, tracked by volume. Think of it as version control for your characters. The version of Elena in Book 2 is not the same as the version in Book 5, and your series bible needs to reflect that.\n\nFor physical details, the stakes are oddly high because readers remember them better than you do. You described your protagonist's scar once, in passing, in Book 1, chapter four. You haven't thought about it since. Your readers have. They've imagined it on this character's face for three books. If you put the scar on the wrong cheek in Book 4, someone will notice. Eye color, hair length, distinctive marks, habitual gestures, speech patterns, the way a character takes their coffee. These are the details that seem too small to track and too embarrassing to get wrong. Track them anyway.",
+  "token_estimate": 581
+}

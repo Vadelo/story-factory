@@ -1,0 +1,34 @@
+{
+  "title": "Smart Import: Bring Your Existing Work",
+  "path": "features-smart-import-bring-your-existing-work",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Smart Import",
+    "PlotForge",
+    "Manuscript Import",
+    "Chapter-by-chapter Import",
+    "Character Sheet Import",
+    "DOCX",
+    "Markdown",
+    "Plain Text",
+    "Profile Extraction",
+    "Emotional Arcs",
+    "Auto-detect chapter markers",
+    "Consistency items"
+  ],
+  "use_cases": [
+    "Use when migrating an existing manuscript to a new PlotForge project",
+    "Implement when adding individual chapters to an active project for AI analysis",
+    "Configure when importing character bibles to populate worldbuilding and relationship data",
+    "Use when extracting timeline events and world history from legacy documents"
+  ],
+  "tags": [
+    "import",
+    "ai-automation",
+    "project-setup",
+    "data-extraction"
+  ],
+  "priority": 9,
+  "content": "Import manuscripts, chapters, or character sheets and let AI extract your story data automatically.\n\nAlready have work in progress? PlotForge offers three powerful import options: full manuscript import for new projects, chapter-by-chapter import to build incrementally, and character sheet import to populate your cast. AI analyzes your documents to extract characters, worldbuilding, relationships, timeline events, and consistency items.\n\n#### 📚 Manuscript Import\n\n- Create new project from manuscript\n- Full chapter text imported\n- Story outline with emotional arcs\n- Up to 200,000 words\n- Auto-detects chapter markers\n\n#### 📄 Chapter Import\n\n- Add chapters to existing projects\n- Extracts new characters found\n- Adds worldbuilding elements\n- Creates timeline events\n- Builds consistency items\n\n#### 👥 Character Import\n\n- Import character sheets/bibles\n- Full profile extraction\n- Auto-links relationships\n- Extracts worldbuilding too\n- Skips existing characters\n\n#### Supported Formats\n\n- DOCX: Microsoft Word documents\n- Markdown: .md files from any editor\n- Plain Text: .txt files\n\n#### What Gets Extracted\n\n- Characters with full profiles and relationships\n- Worldbuilding: locations, factions, magic, history\n- Timeline events and consistency items\n- Available on Starter and Pro plans\n\n🆕 NEW FEATURE",
+  "token_estimate": 254
+}

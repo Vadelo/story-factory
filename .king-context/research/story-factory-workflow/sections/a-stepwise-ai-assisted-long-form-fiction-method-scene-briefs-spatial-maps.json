@@ -1,0 +1,32 @@
+{
+  "title": "Scene Briefs & Spatial Maps",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-scene-briefs-spatial-maps",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "Scene Briefs",
+    "Spatial Maps",
+    "spatial configuration notes",
+    "emotional architecture",
+    "physical choreography",
+    "narrative consistency",
+    "scaffolding",
+    "proximity",
+    "tension points",
+    "character objectives"
+  ],
+  "use_cases": [
+    "Use when breaking down tactical scene requirements like emotional stakes and character objectives",
+    "Implement when physical relationship consistency is required to avoid spatial impossibilities",
+    "Configure when preparing detailed inputs for a prompt engineering workflow",
+    "Use when establishing environmental grounding through weather, objects, and character proximity"
+  ],
+  "tags": [
+    "narrative-design",
+    "pre-production",
+    "spatial-logic",
+    "creative-workflow"
+  ],
+  "priority": 8,
+  "content": "An effective scene brief combines stage direction with emotional architecture—not merely summarizing action but tactically breaking down what each scene must accomplish: emotional stakes, character objectives, tension points, and physical choreography. Include notes on environment, weather conditions, proximity between characters, and objects that will ground your dialogue and movement. This preparation yields significant benefits: specifically detailed scene briefs consistently produce more dynamic, physically rooted prose.\n\nSpatial Maps (also called spatial configuration notes) prove invaluable when characters interact with each other and their environment. These simple diagrams or descriptions establish physical relationships that maintain consistency throughout complex scenes—preventing a character from impossibly reaching across a room or forgetting an object they were holding moments before.\n\nYou don't need to compile hundreds of pages of documentation before generating your first scene. However, if you value distinctive voice, narrative consistency, and emotional clarity, these elements form the essential scaffolding upon which your story will stand. In the next section, we'll explore how these carefully prepared inputs power the prompt engineering process, and how persona development and strategic framing shape what your AI writing partner delivers.",
+  "token_estimate": 242
+}

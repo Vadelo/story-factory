@@ -1,0 +1,32 @@
+{
+  "title": "Classic Fantasy Fiction You Know",
+  "path": "2025-09-29-fantasy-fiction-vs-magical-realism-classic-fantasy-fiction-you-know",
+  "url": "https://sfshaw.com/2025/09/29/fantasy-fiction-vs-magical-realism/",
+  "keywords": [
+    "Tolkien-style world creation",
+    "Middle-earth",
+    "low fantasy",
+    "portal fantasy",
+    "Westeros",
+    "hidden world architecture",
+    "Hogwarts",
+    "magic systems",
+    "ice zombies",
+    "non-magic/muggles"
+  ],
+  "use_cases": [
+    "Use when identifying core tropes within the high-fantasy subgenre",
+    "Implement when comparing separate-world magic systems vs. hidden-world layers",
+    "Configure when establishing world-building rules for low-magic environments",
+    "Use when studying character transitions from non-magical to magical planes"
+  ],
+  "tags": [
+    "literary-genres",
+    "world-building",
+    "fantasy-tropes",
+    "thematic-analysis"
+  ],
+  "priority": 10,
+  "content": "- The Lord of the Rings by J.R.R. Tolkien: This is the classic example of Tolkien-style world creation. It is set in Middle-earth. It has elves, dwarves, wizards, and a Dark Lord. Magic is powerful and a key part of the plot.\n- Harry Potter by J.K. Rowling: This is a perfect example. It is set in “our” world, but the magical world is completely separate. There is a hidden world (Diagon Alley, Hogwarts). Magic is a skill you learn in school. Non-magic people (muggles) do not know about it and would be shocked.\n- A Game of Thrones by George R.R. Martin: This is “low fantasy” at first, meaning magic is rare. But it is still fantasy. It is set in a new world (Westeros). It has dragons, old magic, and ice zombies. The characters react to these things as powerful and world-changing.\n- The Chronicles of Narnia by C.S. Lewis: Characters from our world travel to a different, magical world. This is a clear sign of fantasy.",
+  "token_estimate": 224
+}

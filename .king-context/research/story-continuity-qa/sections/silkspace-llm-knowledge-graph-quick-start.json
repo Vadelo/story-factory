@@ -1,0 +1,33 @@
+{
+  "title": "Quick Start",
+  "path": "silkspace-llm-knowledge-graph-quick-start",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "Firecrawl MCP",
+    "embedding_service.py",
+    "kg query",
+    "kg stats",
+    "kg show",
+    "Claude Code",
+    "knowledge graph",
+    "document ingestion",
+    "scraping",
+    "vector embeddings"
+  ],
+  "use_cases": [
+    "Configure when starting the system for the first time after a boot",
+    "Implement when needing to retrieve context from a knowledge graph via CLI",
+    "Use when adding research papers or external URLs to the local index via LLM chat",
+    "Use when inspecting specific document metadata or content by ID",
+    "Configure when verification of graph statistics and size is required"
+  ],
+  "tags": [
+    "configuration",
+    "searching",
+    "data-ingestion",
+    "automation"
+  ],
+  "priority": 10,
+  "content": "**Prerequisites:** Claude Code with Firecrawl MCP configured (see Setup below)\n\n```bash\n# 1. Start the embedding service (once per boot)\nsource .venv/bin/activate\npython embedding_service.py &\n\n# 2. Query the knowledge graph (works from any directory)\nkg query \"quantum mechanics entanglement\" 5\nkg stats\nkg show <doc_id>  # Use unique doc ID from query results\n```\n\n**To add documents:** Ask Claude Code in chat:\n\n```\n\"Add https://arxiv.org/abs/hep-th/0609062 to the knowledge graph\"\n\"Add https://arxiv.org/abs/1312.2007 to the knowledge graph\"\n```\n\nClaude will scrape with Firecrawl MCP and automatically ingest.\n\nWhen the user asks you to research or remember something:",
+  "token_estimate": 127
+}

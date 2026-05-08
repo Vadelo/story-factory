@@ -1,0 +1,31 @@
+{
+  "title": "The iceberg rule (and the hollow iceberg trap)",
+  "path": "worldbuildingsciencefictionandfantasy-the-iceberg-rule-and-the-hollow-iceberg-trap",
+  "url": "https://boldly.blue/worldbuildingsciencefictionandfantasy/",
+  "keywords": [
+    "iceberg rule",
+    "hollow iceberg trap",
+    "iceberg principle",
+    "lore",
+    "character choice",
+    "plot outcome",
+    "story surface",
+    "deep structure",
+    "decorative lore",
+    "structure"
+  ],
+  "use_cases": [
+    "Use the iceberg rule when outlining a novel to focus the reader on essential plot points while hinting at richer backstory.",
+    "Implement the iceberg principle when drafting short scenes to keep exposition minimal yet imply deeper worldbuilding.",
+    "Configure narrative depth using the hollow iceberg test to determine whether removed lore elements affect character arcs or outcomes.",
+    "Use when distinguishing decorative lore from structural elements to avoid unnecessary detours in the story."
+  ],
+  "tags": [
+    "writing",
+    "story-structure",
+    "literary-techniques"
+  ],
+  "priority": 10,
+  "content": "Many writers learn the iceberg approach the hard way: they invent a grand history, then dump it on the reader like a wheelbarrow of gravel.\n\nThe iceberg principle is simple: you build far more than you show, but on the page you reveal only the tip—the pieces that matter right now—while implying depth below.\n\nBut there’s a warning label: the “hollow iceberg”—a world that looks detailed on the surface but has nothing underneath once you poke it.\n\nA practical test: if you removed a piece of lore from your draft, would any character choice or plot outcome change?\n\nIf not, the lore is decoration. Decoration is fine—until you start mistaking it for structure.\n\n---",
+  "token_estimate": 151
+}

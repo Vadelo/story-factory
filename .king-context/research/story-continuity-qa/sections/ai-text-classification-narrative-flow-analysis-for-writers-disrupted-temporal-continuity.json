@@ -1,0 +1,33 @@
+{
+  "title": "Disrupted Temporal Continuity",
+  "path": "ai-text-classification-narrative-flow-analysis-for-writers-disrupted-temporal-continuity",
+  "url": "https://next.gr/ai/text-classification/narrative-flow-analysis-for-writers",
+  "keywords": [
+    "Temporal coherence index (TCI)",
+    "POV stability metric (PS)",
+    "Dialogue continuity score (DCS)",
+    "Markov chain analysis",
+    "Gricean maxims",
+    "Head-hopping",
+    "Beat inflation",
+    "Attribution decay",
+    "Temporal anchors",
+    "Narrative friction"
+  ],
+  "use_cases": [
+    "Use when calculating the cognitive load of temporal jumps in a narrative structure",
+    "Implement when monitoring point-of-view consistency within a manuscript",
+    "Configure when auditing dialogue for topic drift or attribution decay",
+    "Use when modeling character motivation using transition probabilities",
+    "Implement when optimizing pacing to maintain a TCI above 0.85"
+  ],
+  "tags": [
+    "narrative-analysis",
+    "structural-editing",
+    "mathematical-modeling",
+    "linguistics"
+  ],
+  "priority": 8,
+  "content": "Abrupt temporal jumps create cognitive load for readers. The temporal coherence index (TCI) quantifies this:\n\n$$ TCI = 1 - \\frac{\\sum |\\Delta t_i - \\mu_{\\Delta t}|}{N \\cdot \\sigma_{\\Delta t}} $$\n\nwhere Δti are time gaps between scenes, μ and σ are mean and standard deviation of gaps, and N is total scenes. Optimal narratives maintain TCI > 0.85. Common failure modes include:\n\n- Unmarked flashbacks violating causal sequencing\n- Inconsistent pacing between fast and slow sections\n- Missing temporal anchors for scene transitions\n\nPOV violations create narrative turbulence. The POV stability metric counts unauthorized shifts per 10k words:\n\n$$ PS = \\frac{10000 \\cdot N_{violations}}{W_{total}} $$\n\nProfessional works typically maintain PS < 1.5. Frequent errors include:\n\n- Head-hopping within scenes in limited-third narratives\n- Unintended omniscient intrusions in close POV\n- Inconsistent filtering of narrative perception\n\nPoor dialogue mechanics impair flow through:\n\n- Beat inflation: Excessive action tags between dialogue lines\n- Attribution decay: Disappearing speaker markers in long exchanges\n- Topic drift: Unmotivated subject changes violating Gricean maxims\n\nThe dialogue continuity score (DCS) evaluates these factors:\n\n$$ DCS = \\alpha C_t + \\beta C_r + \\gamma C_p $$\n\nwhere Ct, Cr, and Cp measure topic, referential, and pragmatic coherence respectively, with weights α+β+γ=1.\n\nWhen character actions lack sufficient causal motivation, readers experience narrative friction. This can be modeled using Markov chain analysis:\n\n$$ \\pi_i^{(n)} = \\sum_j \\pi_j^{(n-1)} P_{ji} $$\n\nwhere πi(n) is the probability of action i at step n, and Pji are transition probabilities from preceding actions. Low-probability transitions indicate motivational gaps.\n\n# 2. Structural Analysis: Plot and Pacing",
+  "token_estimate": 345
+}

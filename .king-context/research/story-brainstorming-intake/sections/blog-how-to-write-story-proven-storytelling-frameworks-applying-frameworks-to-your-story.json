@@ -1,0 +1,33 @@
+{
+  "title": "Applying Frameworks to Your Story",
+  "path": "blog-how-to-write-story-proven-storytelling-frameworks-applying-frameworks-to-your-story",
+  "url": "https://storyflow.so/blog/how-to-write-story-proven-storytelling-frameworks",
+  "keywords": [
+    "Story Framework",
+    "Three-Act Structure",
+    "Call to Adventure",
+    "Inciting Incident",
+    "Catalyst",
+    "Story Beats",
+    "Transformation",
+    "Protagonist Arc",
+    "Midpoint Pacing",
+    "Storytelling Blueprint"
+  ],
+  "use_cases": [
+    "Use when mapping core story concepts to structural beats",
+    "Implement when diagnosing pacing issues in narrative drafts",
+    "Configure when identifying missing emotional or plot requirements through framework gaps",
+    "Use when defining protagonist beginning and end states for character transformation",
+    "Apply when checking the timing of key story moments against standard benchmarks"
+  ],
+  "tags": [
+    "narrative-design",
+    "storytelling",
+    "workflow",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "Reading about frameworks is easy. Using them is harder. Here's a practical process:\n\n![Story framework application](https://storyflow.so/images/Blog%20images/Tactics%20images/Blueprints%20step%20two%20darkmode.jpg)\n\nStep 1: Start with your core idea\n\nWhat's your story about in one sentence? Not the plot - the transformation. \"A farm boy becomes a hero.\" \"A fish father learns to let go.\" \"A woman discovers she doesn't need a man to complete her.\"\n\nStep 2: Identify your beginning and end states\n\nWhere does your protagonist start? Where do they end? The framework fills the middle. Luke starts as a frustrated farm boy. He ends as a confident hero who trusts the Force. Everything between serves that transformation.\n\nStep 3: Map key moments to framework beats\n\nTake your big story moments and assign them to framework stages. Your inciting incident fits the \"Call to Adventure\" or \"Catalyst.\" Your climax fits the \"Ordeal\" or \"Finale.\" Work backward from what you know.\n\nStep 4: Fill gaps with framework requirements\n\nNow look at empty beats. The framework tells you what's missing. No mentor figure? Add one. No \"All Is Lost\" moment? Your stakes aren't high enough. Let the framework diagnose your story's gaps.\n\nStep 5: Check your timing\n\nThree-Act says your midpoint should hit at 50%. If your midpoint happens at 20%, your pacing is off. Adjust scene lengths until your beats fall in the right places.\n\nStorytelling frameworks work best when you map your key story moments to framework beats first, then let the framework reveal what scenes are missing.",
+  "token_estimate": 324
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Consistency Check",
+  "path": "article-chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture-the-consistency-check",
+  "url": "https://impressifyai.com/article/chatgpt-world-building-prompts-novelists-guide-to-history-magic-and-culture",
+  "keywords": [
+    "Consistency Check",
+    "AI audit",
+    "timeline creation",
+    "internal logic",
+    "world-building costs",
+    "historical foundation",
+    "magic system regulation",
+    "narrative continuity",
+    "temporal gaps",
+    "contradiction identification"
+  ],
+  "use_cases": [
+    "Use when reviewing AI-generated world histories for internal contradictions",
+    "Configure when defining structural limits and costs for magic systems",
+    "Implement when auditing fictional timelines for sociological or political gaps",
+    "Use when developing deep lore to ensure long-term narrative stability"
+  ],
+  "tags": [
+    "narrative-design",
+    "world-building",
+    "content-validation",
+    "writing-frameworks"
+  ],
+  "priority": 9,
+  "content": "Here's the crucial step most writers skip—having the AI audit its own timeline:\n\n```\n\"Review the timeline we created. Identify:\n1. Any historical events that contradict each other\n2. Periods with suspiciously rapid technological advancement\n3. Wars that lack clear economic or political motivations\n4. Cultural developments without adequate foundation\n5. Timeline gaps where nothing significant happens for too long\"\n```\n\nThis process creates a layered history where you can casually mention \"the Silver Reformation\" in chapter three, knowing that it refers to a specific religious schism 230 years ago that split the northern kingdoms. Readers may not know the details, but they'll sense the weight of real history.\n\nNothing destroys a fantasy novel faster than inconsistent magic. If wizards can teleport in chapter two but somehow need horses in chapter ten, readers revolt. The solution isn't avoiding complex magic—it's defining costs, limits, and consequences so thoroughly that the system regulates itself.",
+  "token_estimate": 202
+}

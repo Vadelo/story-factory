@@ -1,0 +1,33 @@
+{
+  "title": "6. Project Cloning for Series Continuity",
+  "path": "features-6-project-cloning-for-series-continuity",
+  "url": "https://plotforge.app/features",
+  "keywords": [
+    "Project Cloning",
+    "Series Continuity",
+    "Worldbuilding Bible",
+    "Story Compass",
+    "AI from My Data",
+    "Style Profile",
+    "Character Relationships",
+    "Outline Structure",
+    "PlotForge",
+    "Consistency Items"
+  ],
+  "use_cases": [
+    "Use when writing sequels or trilogies to maintain world and character consistency",
+    "Implement when creating companion novels that share the same setting or magic system",
+    "Configure when needing to carry over specific voice settings and banned phrases to a new project",
+    "Use when wanting to generate a sequel outline based on existing world data using AI",
+    "Configure when migrating established character arcs and relationship maps to a new story file"
+  ],
+  "tags": [
+    "project-management",
+    "content-generation",
+    "writing-tools",
+    "configuration"
+  ],
+  "priority": 8,
+  "content": "Duplicate projects to kickstart sequels with your cast, world, and style intact.\n\nWriting a trilogy or series? Clone your project to carry over characters, worldbuilding, style settings, and outline structure to the next book. Choose exactly what to duplicate—keep your cast and world bible intact while starting fresh on the new story.\n\n#### What Gets Cloned\n\n- Characters & Relationships: Full profiles, arcs, motivations, and relationship maps\n- Worldbuilding Bible: All locations, factions, magic systems, cultures, history, technology\n- Outline Structure: Acts, scenes, emotional beats (update for new story)\n- Story Compass: Theme, conflicts, world rules (adjust for sequel)\n- Style Profile: Voice settings, tense, POV, banned phrases\n- Consistency Items: Lore checks, timelines, continuity trackers\n- Project Themes: Color-coded themes carry over\n- Chapters (Optional): Off by default—toggle on for reference text\n\n#### How to Clone\n\n- From Dashboard: Click three-dot menu on project card → “Clone for Next Book”\n- From Project: Click “Clone for Next Book” button in header\n- Enter new project title (e.g., “Book Two: Working Title”)\n- Choose what to copy with granular toggles\n- Click “Clone project” and start writing\n\n#### Writer Benefits\n\n- Preserve series continuity across multiple books\n- Reuse character development and world bibles instantly\n- Perfect for trilogies, series, and companion novels\n- Update Story Compass for new book's theme and conflicts\n- Use “AI from My Data” to generate sequel outline from cloned world\n\nJumpstart your story with AI or build manually—your choice.\n\nUse AI to generate a complete story blueprint in minutes, or create your outline manually using professional templates and tools. PlotForge works however you write—AI assistance is always optional, never required.\n\nRead more\n\nThe outline generator gave me the structure I needed to finally finish my first novel. I went from scattered notes to a complete three-act blueprint in under an hour.",
+  "token_estimate": 408
+}

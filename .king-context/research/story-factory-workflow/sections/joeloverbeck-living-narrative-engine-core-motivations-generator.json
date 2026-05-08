@@ -1,0 +1,37 @@
+{
+  "title": "Core Motivations Generator",
+  "path": "joeloverbeck-living-narrative-engine-core-motivations-generator",
+  "url": "https://github.com/joeloverbeck/living-narrative-engine",
+  "keywords": [
+    "Core Motivations Generator",
+    "Thematic Direction Generator",
+    "StateConsistencyValidator",
+    "proximity-based closeness system",
+    "WCAG AA",
+    "entity ID namespace",
+    "Ctrl+Enter",
+    "bidirectional relationship integrity",
+    "LLM proxy server",
+    "repairIssues",
+    "modId:identifier",
+    "closenessIssues"
+  ],
+  "use_cases": [
+    "Use when generating psychologically rich character motivations and internal contradictions",
+    "Configure when setting up entity ID namespace validation for modding support",
+    "Implement when needing to diagnose and repair game state consistency issues",
+    "Use when exporting generated narrative data to external JSON or text formats",
+    "Implement when handling proximity-based edge cases and movement lock orphans",
+    "Configure when integrating LLM-powered content generation with a Node.js proxy"
+  ],
+  "tags": [
+    "character-development",
+    "narrative-design",
+    "error-handling",
+    "state-management",
+    "api-reference"
+  ],
+  "priority": 9,
+  "content": "**Purpose:** Generate deep, psychologically rich character motivations, internal contradictions, and central questions that drive character development.\n\n**Features:**\n\n- **Thematic Integration:** Works with previously generated thematic directions and clichés\n- **AI-Powered Generation:** Uses LLM to create compelling psychological profiles\n- **Accumulative Storage:** Build a library of motivations across multiple generations\n- **Export Capabilities:** Export motivations as formatted text or JSON\n\n**Access:** Available from the main menu as \"Core Motivations Generator\"\n\n**Workflow:**\n\n1. First generate a thematic direction using the Thematic Direction Generator\n2. Generate clichés for that direction using the Clichés Generator\n3. Navigate to Core Motivations Generator and select your direction\n4. Generate core motivations, internal contradictions, and central questions\n5. Export or save for use in character development\n\n**Technical Details:**\n\n- Fully integrated with the build system\n- Comprehensive test coverage (unit, integration, E2E)\n- WCAG AA compliant accessibility features\n- Keyboard shortcuts for power users (Ctrl+Enter to generate, Ctrl+E to export)\n\nThe proximity-based closeness system includes comprehensive edge case handling to ensure reliable and consistent game state management:\n\n- **Input Validation**: All parameters validated with detailed error messages and namespace format checking\n- **Component Validation**: State consistency checks for all positioning components\n- **Error Recovery**: Graceful degradation on failures with comprehensive error codes\n- **State Consistency**: System-wide validation tools available for debugging and maintenance\n\n- Validates entity ID namespace format (`modId:identifier`)\n- Ensures bidirectional relationship integrity between actors\n- Detects and reports orphaned movement locks\n- Handles corrupted component data gracefully\n- Provides detailed error codes and troubleshooting guides\n- Performance-optimized validation (< 10ms overhead per operation)\n\n- **Error Reference**: See `docs/error-codes/proximity-errors.md` for complete error code reference\n- **Troubleshooting Guide**: See `docs/troubleshooting/proximity-issues.md` for common issues and solutions\n- **Debug Tools**: StateConsistencyValidator available for system-wide state inspection\n\n```javascript\n// Check system consistency\nconst validator = new StateConsistencyValidator({ logger, entityManager });\nconst report = validator.performFullValidation();\nif (report.totalIssues > 0) {\n  console.warn(`Found ${report.totalIssues} consistency issues`);\n  await validator.repairIssues(report.closenessIssues);\n}\n```\n\nThis project primarily runs in the browser using JavaScript, with a Node.js-based proxy server for handling requests to\nLarge Language Models (LLMs).\n\nEnsure you have Node.js and npm installed. You can download them from [https://nodejs.org/](https://nodejs.org/).",
+  "token_estimate": 469
+}

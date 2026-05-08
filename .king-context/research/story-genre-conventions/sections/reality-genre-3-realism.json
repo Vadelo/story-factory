@@ -1,0 +1,30 @@
+{
+  "title": "3. Realism",
+  "path": "reality-genre-3-realism",
+  "url": "https://storygrid.com/reality-genre/",
+  "keywords": [
+    "Realism Reality Genre",
+    "ALTERNATE WORLDS",
+    "Complexity spectrum",
+    "Chaos and Order",
+    "Crime stories",
+    "Love stories",
+    "Action stories",
+    "The Murder of Roger Ackroyd",
+    "Pride and Prejudice",
+    "Treasure Island"
+  ],
+  "use_cases": [
+    "Use when classifying narratives that occur in plausible real-world settings",
+    "Implement when mapping a story's position on the Complexity spectrum between Chaos and Order",
+    "Configure when defining structural requirements for the Crime, Love, or Action sub-genres within a realistic framework"
+  ],
+  "tags": [
+    "content-classification",
+    "genre-theory",
+    "narrative-structure"
+  ],
+  "priority": 7,
+  "content": "ALTERNATE WORLDS in the Realism Reality Genre exist in a world where they could happen in real life, but are imagined. CRIME stories such as The Murder of Roger Ackroyd by Agatha Christie, LOVE stories such as Pride and Prejudice by Jane Austen, and ACTION stories such as Treasure Island by Robert Louis Stevenson exist in this Reality Genre. Because stories set in the real world consist of both Chaos and Order, Realism sits within the Complexity portion of the spectrum.",
+  "token_estimate": 107
+}

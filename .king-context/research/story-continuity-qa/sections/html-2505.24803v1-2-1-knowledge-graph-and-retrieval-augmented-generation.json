@@ -1,0 +1,36 @@
+{
+  "title": "2.1. Knowledge Graph and Retrieval Augmented Generation",
+  "path": "html-2505.24803v1-2-1-knowledge-graph-and-retrieval-augmented-generation",
+  "url": "https://arxiv.org/html/2505.24803v1",
+  "keywords": [
+    "Knowledge Graph",
+    "Retrieval-Augmented Generation",
+    "RAG",
+    "Graph RAG",
+    "LLM",
+    "GPT-4",
+    "Llama",
+    "hallucination mitigation",
+    "entity relationship extraction",
+    "graph-based reasoning",
+    "knowledge base integration",
+    "natural language query conversion"
+  ],
+  "use_cases": [
+    "Use when building context-aware applications that require grounding LLM responses in external structured data",
+    "Configure when implementing automated knowledge graph construction from unstructured text sources",
+    "Implement when developing recommendation systems or search engines that rely on complex entity relationships",
+    "Use when mitigating model hallucinations through factually grounded retrieval mechanisms",
+    "Apply when converting natural language queries into structured database operations for non-technical users",
+    "Use when performing complex summarization tasks that require cross-referencing multiple data points"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "data-architecture",
+    "retrieval-mechanisms",
+    "knowledge-management"
+  ],
+  "priority": 10,
+  "content": "Knowledge graphs organise data to aid machine understanding by connecting related information through defined entities and relationships. These graphs are widely used to improve search engine functions, enable personalised recommendation systems, and integrate information from various data sources (Chen et al., 2020; Hogan et al., 2021). Typically, creating a knowledge graph involves extracting relevant information from multiple sources and reasoning about this information to form meaningful connections.\n\nThe adoption of Large Language Models (LLMs) such as GPT-4 (Achiam et al., 2023) and Llama (Touvron et al., 2023a, b) has greatly enhanced the development and utility of knowledge graphs. These models further automate aspects of knowledge graph construction by generating hypotheses, identifying new connections, and refining structures, thus enriching knowledge graphs with detailed, interconnected data that reflect complex real-world relationships (Meyer et al., 2023; Kommineni et al., 2024; Wang et al., 2024b). Additionally, LLMs simplify the interaction with knowledge graphs by converting complex natural language queries into precise database queries, making these tools more accessible to non-experts and enhancing their practical applications (Zhu et al., 2024).\n\nIn text generation, the functionality of knowledge graphs is expanded through Retrieval-Augmented Generation (RAG). This method allows LLMs to dynamically retrieve and integrate relevant information from knowledge bases during the text creation process, thereby improving the relevance, accuracy, and contextual depth of the text (Lewis et al., 2020; Gao et al., 2023).\n\nGraph RAG is a more recent form of Retrieval-Augmented Generation that improves the retrieval process by using knowledge graphs to provide structured and contextually relevant information. It connects related entities from the graph to deliver more accurate and reliable outputs, addressing issues like hallucinations in large language models by grounding their responses in external knowledge (Edge et al., 2024). This approach is particularly useful for tasks that require complex reasoning, such as summarisation and question answering, where the system retrieves relevant parts of the graph to improve the quality of generated text. By using graph-based methods, Graph RAG creates more coherent and detailed content, improving both the factual accuracy and contextual relevance of the output (Peng et al., 2024b; He et al., 2024). Microsoft has further automated this process by using LLMs, such as ChatGPT, to assist with knowledge graph extraction, entity generation, and retrieval inference, streamlining the pipeline (Edge et al., 2024).",
+  "token_estimate": 505
+}

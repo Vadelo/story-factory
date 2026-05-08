@@ -1,0 +1,30 @@
+{
+  "title": "Context files",
+  "path": "avigold-postwriter-context-files",
+  "url": "https://github.com/avigold/postwriter",
+  "keywords": [
+    "context directory",
+    "YAML frontmatter",
+    "sample_writing",
+    "mood-board.png",
+    "forward-only re-evaluation",
+    "type inference",
+    "style-guide.md",
+    "plot-outline.md"
+  ],
+  "use_cases": [
+    "Use when you need to define consistent voice and prose preferences using markdown files",
+    "Implement when visual references or character sketches are required to guide generation",
+    "Configure when you want to override interactive prompts with pre-defined project constraints",
+    "Use when adding new plot beats mid-generation to influence future outputs"
+  ],
+  "tags": [
+    "configuration",
+    "content-generation",
+    "file-system",
+    "metadata"
+  ],
+  "priority": 9,
+  "content": "Drop markdown or image files into a `context/` directory to inform the writing. These are optional — if they're there, the system uses them; if not, it asks you everything interactively.\n\n```\ncontext/\n  style-guide.md      # Voice and prose preferences\n  characters.md       # Character sketches\n  plot-outline.md     # Story beats or synopsis\n  mood-board.png      # Visual references\n```\n\nFiles can include YAML frontmatter to specify their type:\n\n```markdown\n---\ntype: style\n---\nWrite in short, declarative sentences. Avoid adverbs.\n```\n\nSupported types: `sample_writing`, `plot`, `guidelines`, `characters`, `world`, `style`, `reference`. Without frontmatter, the system infers type from the filename.\n\nContext files can be added at any time during generation. New files affect future scenes (forward-only — no retroactive re-evaluation).",
+  "token_estimate": 151
+}

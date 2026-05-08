@@ -1,0 +1,33 @@
+{
+  "title": "Computational Elaborations of Narratological Concepts",
+  "path": "node-43.html-computational-elaborations-of-narratological-concepts",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "computational narratology",
+    "plot units",
+    "interactive storytelling",
+    "affect states",
+    "narrative understanding",
+    "story generation",
+    "interdisciplinary communication",
+    "narrative corpora",
+    "narratological annotation",
+    "machine learning algorithms"
+  ],
+  "use_cases": [
+    "Implement when modeling character motivation and emotional outcomes in automated story generation",
+    "Use when identifying beneficial or harmful character outcomes using text understanding systems",
+    "Configure when developing interactive retelling frameworks driven by historical or literary sentiment inventories",
+    "Implement when generating suspense by modeling reader reasoning regarding protagonist goal conflicts",
+    "Apply when scaling narratological analysis to large-scale corpora using machine learning"
+  ],
+  "tags": [
+    "computational-linguistics",
+    "narratology",
+    "artificial-intelligence",
+    "humanities-computing"
+  ],
+  "priority": 8,
+  "content": "Computational narratology has also developed its own accounts of key narratological concepts. An example is the fine-grained notion of plot based on plot units (Lehnert 1981), which is derived, much as in Bremond’s account, from a representation of events that involves characterizing the motivations behind the actions of characters as well as their emotional outcomes. While systems use such models of plot in story generation, the inferential challenges involved in imputing motives to characters in narrative understanding are substantial enough to limit the ability of systems to fully extract a plot representation. However, Goyal et al. (2010) have developed, based on a corpus, a text understanding system that can infer characters’ emotions (or affect states) associated with events, identifying which outcomes are beneficial, harmful, or neutral for particular characters. More nuanced models of characters’ emotions have also been explored. For example, the interactive storytelling system of Pizzi (2011) is driven by plans that exploit an inventory of characters’ feelings listed in Flaubert’s preliminary studies for Madame Bovary; such a framework allows for a variety of sentiment-driven interactive retellings of the novel. Another interesting reformulation of a narratological construct is that of suspense. Cheong (2007) generates stories judged to be suspenseful by modeling the reader’s reasoning about limitations and conflicts involving a protagonist’s goals (Prince→ Reader), based on narratological insights from Gerrig & Bernado (1994).\n\nFor computational accounts to be made more relevant to humanities narratology, two issues need to be confronted: (a) the challenge of interdisciplinary communication across substantial methodological divides, especially given the shift in interest of post-classical narratology away from the precise analyses that characterized its structuralist phase; (b) the fact that computational representations and techniques for story generation are not general enough to concoct anything other than very short, relatively simple stories (such as fairy tales), let alone epics or novels (Gervás et al. 2006). The availability of multimillion-word narrative corpora and advanced machine learning algorithms used for training computational approaches can partially alleviate this problem, though annotating narratological information can be expensive.",
+  "token_estimate": 446
+}

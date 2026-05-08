@@ -1,0 +1,32 @@
+{
+  "title": "Building Voice Into Your Process",
+  "path": "blog-character-voice-fingerprinting-building-voice-into-your-process",
+  "url": "https://app.blurbbio.com/blog/character-voice-fingerprinting",
+  "keywords": [
+    "voice fingerprint",
+    "voice drifting",
+    "register",
+    "sentence patterns",
+    "consecutive character reading",
+    "hedging versus asserting ratio",
+    "distinctiveness percentage",
+    "tonal signature",
+    "vocabulary tracking",
+    "BlurbBio voice fingerprint panel"
+  ],
+  "use_cases": [
+    "Implement when introducing a new character to define their unique linguistic profile while the concept is fresh",
+    "Configure when writing extended dialogue to maintain consistency in sentence rhythm and register",
+    "Use when performing revision cycles to identify and correct character voice convergence",
+    "Use when evaluating manuscript quality by performing 'blind' character recognition tests"
+  ],
+  "tags": [
+    "character-design",
+    "stylistics",
+    "editing-workflow",
+    "voice-consistency"
+  ],
+  "priority": 9,
+  "content": "The best time to build a voice fingerprint is during character introduction — when you're making the active choices that define them. The worst time is in revision, when your memory of intention has blurred with what you actually wrote.\n\nPractical integration:\n\n- When you introduce a new character, write their voice fingerprint immediately. Before the next writing session. While the choices feel fresh.\n- When you write extended dialogue, have their fingerprint visible. Check the register, the sentence patterns, the hedging versus asserting ratio.\n- When you revise, run the consecutive character reading on any character who appears in more than five scenes.\n\nVoice is a technical discipline. Like every technical discipline in fiction, it rewards systematic attention more reliably than it rewards natural talent. The author who understands why their characters sound different — who can articulate the specific dimensions of differentiation — will maintain those differences across 100,000 words. The author who relies on intuition and \"feeling\" their way through dialogue will find the voices converging by the midpoint.\n\nCover the names. Read ten lines. If you know who's speaking, you're doing it right.\n\nBlurbBio's voice fingerprint panel tracks each character's distinct vocabulary, sentence rhythm, and tonal signature across your manuscript — and alerts you when a character's voice starts to drift from their established pattern, chapter by chapter.\n\n---\n\nSee also: How to Build a Story Bible· The 7 Types of Plot Holes (And How to Fix Every One)\n\nVoice Comparison\n\nPragmatistDistinctiveness: 94%\n\n\"We figure this out ourselves or we don't.\"\n\nShort declaratives. No conditionals. Active tense only. Zero hedging.\n\nAcademicDistinctiveness: 88%\n\n\"I mean, we could reach out — I'm not saying we shouldn't, I just — the precedent here...\"\n\nTrails off mid-thought. Qualifies everything. Passively resists commitment.\n\nCommanderDistinctiveness: 97%\n\n\"We have until Thursday. Decide by Tuesday.\"\n\nCompressed timelines. Commands framed as statements. No please, no maybe.\n\n\"\n\nIf you cover the names and can't tell who's speaking, your readers certainly can't — and when readers can't tell characters apart by voice, they stop believing in any of them.",
+  "token_estimate": 456
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Screenplay as text genre",
+  "path": "articles-PMC5652896-screenplay-as-text-genre",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5652896/",
+  "keywords": [
+    "text-based studies",
+    "screenplay genre",
+    "IMSDb",
+    "shooting scripts",
+    "lined scripts",
+    "continuity scripts",
+    "transcripts",
+    "film dialogs",
+    "work-in-progress",
+    "digital repository",
+    "textual stability"
+  ],
+  "use_cases": [
+    "Use when analyzing the reliability of digital screenplay repositories like IMSDb for linguistic research",
+    "Configure when designing a data extraction methodology to account for the differences between screenplays and filmed transcripts",
+    "Implement when categorizing screenplay versions including shooting, lined, and continuity scripts in a corpus",
+    "Use when evaluating the 'false finality' of film scripts in a literary or linguistic context"
+  ],
+  "tags": [
+    "linguistics",
+    "corpus-analysis",
+    "film-studies",
+    "digital-humanities",
+    "methodology"
+  ],
+  "priority": 6,
+  "content": "What is more, film dialogs for text-based studies as the present one are mostly extracted from screenplays (some authors make and use transcripts from the screened film, but the effort required limits the amount of data that can be collected with this method). Screenplays are a very special text genre closely bound to the production and distribution of films (Price 2013), and the particularities arising from their place and role in filmmaking have to be taken into account. The specific context of production and use of screenplays also implies that it is a fluctuating, uncertain type of text that is hardly ever final and fixed.\n\n“Regarded as works-in-progress, screenplays typically do not command the same respect during production processes as playscripts (especially playscripts penned by authors of reputation). Different kinds of scripts are generated during the course of these processes for the use of different participants; distinctions are made between screenplays, shooting scripts, lined scripts, and continuity scripts; actors will annotate their personal copies. Lines may be changed on the fly during rehearsal and filming; only certain copies of the “original” scripts will show those changes, at best. “The script” takes on a very uncertain, unstable character by comparison with the finalized production.” (Richardson 2010)\n\nWith a digital repository of screenplays like IMSDb, 1 the screenplays stored online are attributed a false finality: there is only one version of the screenplay for each film available, and its state and purpose are not clear. Shooting scripts (i.e. near-final versions with detailed instructions for camera position and cuts) co-exist on the Internet with early",
+  "token_estimate": 348
+}

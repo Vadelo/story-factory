@@ -1,0 +1,34 @@
+{
+  "title": "Some uses for RPG Markdown",
+  "path": "fictzio-rpg-markdown-some-uses-for-rpg-markdown",
+  "url": "https://github.com/fictzio/rpg-markdown",
+  "keywords": [
+    "RPG Markdown",
+    "Fountain",
+    "Front Matter",
+    "Commonmark",
+    "Github flavored markdown",
+    "GFM",
+    "Mermaid",
+    "Homebrewery",
+    "FicDown",
+    "TTRPG",
+    "NPC dialog"
+  ],
+  "use_cases": [
+    "Use when creating source material for games and structuring plots",
+    "Implement when scripts or macros need to extract data about game entities",
+    "Configure when writing dialogs using screenplay-inspired Fountain syntax",
+    "Use when rendering game content across standard markdown parsers",
+    "Configure when enriching markdown content with metadata using Front Matter"
+  ],
+  "tags": [
+    "syntax",
+    "documentation",
+    "content-creation",
+    "ttrpg-tools"
+  ],
+  "priority": 8,
+  "content": "- Create source material for games and stories.\n- Structure a plot.\n- Save transcripts of dialogs and game session activity.\n- Write manuscripts for plays, LARPs or NPC dialog in an adventure.\n- Extract data about a game enteties for use in bots, virtual tabletops, scripts and macros.\n\n- Render well in regular markdown parsers.\n- Read well in Markdown editor.\n- Have syntax that is recognisable to cretors of TTRPG game content.\n\nRPG Markdown is a based on [Markdown](http://daringfireball.net/projects/markdown/) language by John Grüber.\n\nTo allow for writing of dialogs RPG Markdown uses the Markdown dialect [Fountain](http://fountain.io/) which allows for writing of screenplays.\n\nIt also suggests how to use Front Matter to enrich the markdown content.\n\n- [Commonmark](https://commonmark.org/)\n- [Kramdown](https://kramdown.gettalong.org/)\n- [Maruku](http://maruku.rubyforge.org/maruku.html)\n- [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)\n- [Pandocs Markdown](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)\n- [Github flavored markdown, GFM](https://github.github.com/gfm/)\n- [PHP Markdown Extra](http://michelf.ca/projects/php-markdown/extra/)\n- [Mermaid, charts and diagrams](https://mermaid-js.github.io/mermaid/)\n- [Reveal JS, presentation decks on markdown](https://revealjs.com/)\n- [Homebrewery, DnD niceness from markdown](https://github.com/naturalcrit/homebrewery)\n- [FicDown, interactive fiction written in markdown](https://www.ficdown.com/)\n\nAnd many more that I haven't mentioned yet. I'll keep adding.",
+  "token_estimate": 230
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Status",
+  "path": "aihxp-scriven-status",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "Scriven 1.5.3",
+    "Claude /scr-* surface",
+    "Codex $scr-* skill surface",
+    "zero-dependency architecture",
+    "workflow-contract integrity",
+    "command-surface truthfulness",
+    "save-history contracts",
+    "session boundaries",
+    "installer targets",
+    "MIT License"
+  ],
+  "use_cases": [
+    "Use when evaluating the stability and command surface of the v1.5.3 release",
+    "Configure when integrating Claude or Codex surfaces into existing workflows",
+    "Implement when checking runtime support compatibility for specific installer targets",
+    "Use when reviewing project licensing or contribution guidelines for new work types"
+  ],
+  "tags": [
+    "status",
+    "release-notes",
+    "architecture",
+    "compliance"
+  ],
+  "priority": 10,
+  "content": "**Version:** 1.5.3\n\nScriven's core command surface is stable across 108 commands, 50 work types, and 11 installer targets. The current repo baseline includes shipped planning milestones through `v2.0 Publishing Cover Packaging`, and the published package version is now `1.5.3`. See [Shipped Assets](docs/shipped-assets.md) for the canonical asset inventory and [Runtime Support](docs/runtime-support.md) for the runtime compatibility matrix.\n\nVersion `1.5.3` packages the post-`1.5.2` hardening work that landed in the repo baseline: command-surface truthfulness, workflow-contract integrity, the Claude `/scr-*` surface, the Codex `$scr-*` skill surface, save-history contracts, session boundaries, and help/docs alignment, all without changing the zero-dependency architecture.\n\nPackage history is tracked in [CHANGELOG.md](CHANGELOG.md), and the public-facing summary for this release is in [docs/release-notes.md](docs/release-notes.md).\n\n---\n\nMIT. See [LICENSE](./LICENSE).\n\nScriven is an open project. Contributions welcome -- especially new work types, additional runtime adapters, and voice register definitions for languages and traditions we haven't covered yet.",
+  "token_estimate": 187
+}

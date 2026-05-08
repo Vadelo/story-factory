@@ -1,0 +1,36 @@
+{
+  "title": "Abstract",
+  "path": "publications-paper-sWZw-abstract",
+  "url": "https://39www.easychair.org/publications/paper/sWZw",
+  "keywords": [
+    "Lewis’ theory of counterfactuals",
+    "symbolic counterfactual reasoning",
+    "infinite sequences",
+    "model checker",
+    "reinforcement learning trajectories",
+    "similarity between worlds",
+    "counterfactual operators",
+    "temporal logic",
+    "satisfiability",
+    "trace-checking",
+    "decidability",
+    "modal logic"
+  ],
+  "use_cases": [
+    "Implement when you need to perform causal analysis on counterexamples produced by a model checker",
+    "Configure when analyzing trajectories from reinforcement learning agents to understand alternative outcomes",
+    "Use when reasoning about the minimal distance to witnessing counterfactual worlds in temporal domains",
+    "Use when a symbolic logic is required to combine temporal and counterfactual operators for automated verification",
+    "Implement when checking the satisfiability or trace-compliance of formal causal statements"
+  ],
+  "tags": [
+    "causal-inference",
+    "temporal-logic",
+    "formal-methods",
+    "artificial-intelligence",
+    "logic-programming"
+  ],
+  "priority": 9,
+  "content": "Lewis’ theory of counterfactuals is the foundation of many contemporary notions of causality. In this paper, we extend this theory in the temporal direction to enable symbolic counterfactual reasoning on infinite sequences, such as counterexamples found by a model checker and trajectories produced by a reinforcement learning agent. In particular, our extension considers a more relaxed notion of similarity between worlds and proposes two additional counterfactual operators that close a semantic gap between the previous two in this more general setting. Further, we consider versions of counterfactuals that minimize the distance to the witnessing counterfactual worlds, a common requirement in causal analysis. To automate counterfactual reasoning in the temporal domain, we introduce a logic that combines temporal and counterfactual operators, and outline decision procedures for the satisfiability and trace-checking problems of this logic.\n\nKeyphrases: causality, counterfactuals, decidability, modal logic, temporal logic\n\nIn: Ruzica Piskac and Andrei Voronkov(editors). Proceedings of 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning, vol 94, pages 181-204.\n\n| Links: | https://easychair.org/publications/paper/sWZw |\n| --- | --- |\n| https://doi.org/10.29007/qtw7 |\n\nBibTeX entry\n\n```\n@inproceedings{LPAR2023:Counterfactuals_Modulo_Temporal_Logics,\n  author    = {Bernd Finkbeiner and Julian Siber},\n  title     = {Counterfactuals Modulo Temporal Logics},\n  booktitle = {Proceedings of 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning},\n  editor    = {Ruzica Piskac and Andrei Voronkov},\n  series    = {EPiC Series in Computing},\n  volume    = {94},\n  publisher = {EasyChair},\n  bibsource = {EasyChair, https://easychair.org},\n  issn      = {2398-7340},\n  url       = {/publications/paper/sWZw},\n  doi       = {10.29007/qtw7},\n  pages     = {181-204},\n  year      = {2023}}\n\n```\n\n| Download PDF Open PDF in browser |\n| --- |\n\n| Copyright © 2012-2026 easychair.org. All rights reserved. |\n| --- |",
+  "token_estimate": 360
+}

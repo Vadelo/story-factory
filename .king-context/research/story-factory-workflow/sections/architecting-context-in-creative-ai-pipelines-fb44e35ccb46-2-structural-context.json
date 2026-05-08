@@ -1,0 +1,31 @@
+{
+  "title": "2. Structural Context",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-2-structural-context",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Structural Context",
+    "Big Picture",
+    "Phase 1 Analysis",
+    "Context Window Management",
+    "Story Arc",
+    "Pre-digested Map",
+    "LLM Prompt Engineering",
+    "Pacing Control",
+    "Plot Analysis",
+    "Scene-based Writing"
+  ],
+  "use_cases": [
+    "Use when architecting a multi-phase narrative generation pipeline",
+    "Implement when minimizing token usage by filtering irrelevant scene details",
+    "Configure when global story constraints like genre or ending must influence local scene generation",
+    "Use when providing a high-level plot map for Large Language Models"
+  ],
+  "tags": [
+    "Architecture",
+    "Prompt Engineering",
+    "Design Patterns"
+  ],
+  "priority": 8,
+  "content": "This is the high-level view of the document. It answers the question: Where do we fit in the story arc?\n\n- The Fix: We separate understanding the story from writing it. By analyzing all scenes first (Phase 1), we give the writer a pre-digested map of the plot, or what we call the “Big Picture”, without forcing them to read the whole raw script every time.\n- The Problem: An LLM writing Scene 45 doesn’t necessarily need to know the exact dialogue from Scene 2, but it does need to know that the movie ends in a tragedy, or that the pacing should be accelerating right now.",
+  "token_estimate": 142
+}

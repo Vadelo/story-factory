@@ -1,0 +1,32 @@
+{
+  "title": "Why Readers Catch What Editors Miss",
+  "path": "how-successful-authors-keep-their-story-worlds-consistent-even-across-10-books-why-readers-catch-what-editors-miss",
+  "url": "https://www.bookishelf.com/how-successful-authors-keep-their-story-worlds-consistent-even-across-10-books/",
+  "keywords": [
+    "continuity errors",
+    "developmental editing",
+    "copy editing",
+    "collective attention",
+    "thematic coherence",
+    "forensic analysis",
+    "peer-reviewed audits",
+    "manuscript consistency",
+    "world-building rules",
+    "character arc"
+  ],
+  "use_cases": [
+    "Use when distinguishing between the specific responsibilities of developmental editors and copy editors",
+    "Implement when analyzing how collective reader attention impacts post-publication quality assurance",
+    "Configure when establishing processes for catching timeline and character detail inconsistencies in long-form narratives",
+    "Use when evaluating the role of community platforms like Reddit and Goodreads in identifying manuscript flaws"
+  ],
+  "tags": [
+    "editorial-processes",
+    "quality-assurance",
+    "content-integrity",
+    "publishing-strategy"
+  ],
+  "priority": 6,
+  "content": "A question that comes up frequently when continuity errors surface in published books is: how did this get past the editors?\n\nThe answer is that professional editorial processes are not primarily designed to catch continuity errors. Developmental editors focus on structure, character arc, pacing, and thematic coherence. Copy editors catch grammar, punctuation, and style inconsistencies. Neither role involves cross-referencing every character detail and world rule against every other detail across a 120,000-word manuscript.\n\nWhat readers have that editors don’t is collective attention. A published novel gets read by thousands of people, each bringing fresh eyes to the text. One reader notices the eye colour change. Another notices the timeline problem. A third notices that a character references knowledge they couldn’t possibly have at that point in the story. None of them individually sees everything. Together, they catch almost everything.\n\nThis is particularly visible on platforms like Reddit and Goodreads, where readers actively document inconsistencies. A novel that might once have had its errors noticed by a handful of careful readers and discussed in living rooms now gets subjected to collective forensic analysis. Readers pool their observations into threads that function like peer-reviewed audits of continuity. Many authors read these threads carefully. Some have updated later editions as a result.\n\n---",
+  "token_estimate": 279
+}

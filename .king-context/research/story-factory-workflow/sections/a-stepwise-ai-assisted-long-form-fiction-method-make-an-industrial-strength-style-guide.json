@@ -1,0 +1,29 @@
+{
+  "title": "Make An Industrial-Strength Style Guide",
+  "path": "a-stepwise-ai-assisted-long-form-fiction-method-make-an-industrial-strength-style-guide",
+  "url": "https://www.papercutpost.com/a-stepwise-ai-assisted-long-form-fiction-method/",
+  "keywords": [
+    "prompt persona",
+    "framing context",
+    "style guide",
+    "prompt engineering",
+    "AI cooperation",
+    "model fidelity",
+    "AI influence",
+    "industrial-strength prompt"
+  ],
+  "use_cases": [
+    "Use when developing a standardized writing or coding style for AI agents",
+    "Implement when default AI outputs lack the necessary rigor or detail",
+    "Configure when training a model to adhere strictly to a specific project persona",
+    "Use when the style output is weakening or deviating over long sessions"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "best-practices",
+    "documentation"
+  ],
+  "priority": 8,
+  "content": "The prompt below helps compel the AI to produce a more complete and faithful style guide than it will by default, by using a stronger prompt persona and framing context. I almost always prefer this or a close variation on it because, depending on the AI model used, the style can otherwise be weakened significantly without it being immediately apparent. With a correct and faithful style guide, the chances of getting full AI cooperation on your project increase.",
+  "token_estimate": 103
+}

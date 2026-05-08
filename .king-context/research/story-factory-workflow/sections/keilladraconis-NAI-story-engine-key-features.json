@@ -1,0 +1,29 @@
+{
+  "title": "Key Features",
+  "path": "keilladraconis-NAI-story-engine-key-features",
+  "url": "https://github.com/keilladraconis/NAI-story-engine",
+  "keywords": [
+    "sidebar panel",
+    "freeform idea conversation",
+    "named sessions",
+    "summarize button",
+    "Co/Crit mode",
+    "AI personas",
+    "chat compression",
+    "session management"
+  ],
+  "use_cases": [
+    "Use when brainstormining new concepts in a dedicated freeform interface",
+    "Use when needing to organize separate research threads into multiple named sessions",
+    "Implement when long conversations require condensation into dense learning material",
+    "Configure when switching between collaborative and critical AI feedback styles"
+  ],
+  "tags": [
+    "user-interface",
+    "ai-interaction",
+    "knowledge-management"
+  ],
+  "priority": 9,
+  "content": "A dedicated sidebar panel for freeform idea conversation with the AI. Supports multiple named sessions, a summarize button to compress long chats into dense material, and Co/Crit mode toggle for different AI personas.",
+  "token_estimate": 43
+}

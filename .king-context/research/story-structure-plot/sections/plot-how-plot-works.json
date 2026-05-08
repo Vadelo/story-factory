@@ -1,0 +1,31 @@
+{
+  "title": "How Plot Works",
+  "path": "plot-how-plot-works",
+  "url": "https://thewritepractice.com/plot",
+  "keywords": [
+    "plot structure",
+    "character arc",
+    "cause and effect",
+    "conflict",
+    "choice",
+    "world building",
+    "conclusion"
+  ],
+  "use_cases": [
+    "Use when outlining a story to ensure each plot point ties to character choice.",
+    "Use when designing character arcs that drive narrative tension.",
+    "Implement when creating conflict that propels the plot toward its conclusion.",
+    "Configure when balancing cause and effect to maintain reader engagement.",
+    "Use when distinguishing plot from simple fact recitation in a narrative.",
+    "Use when crafting decision moments that shape the storyline.",
+    "Use when planning world building elements that support plot decisions."
+  ],
+  "tags": [
+    "storytelling",
+    "character development",
+    "plot-structure"
+  ],
+  "priority": 10,
+  "content": "Plot has a specific structure. It follows a format that sucks readers in; introduces characters, character arcs and development, and world building; and compels readers to keep reading in order to satisfy conflict and answer questions.\n\nPlot is about cause and effect, but, most importantly, plot is about choice: a character’s choice.\n\nIn other words, the difference between plot and story is that a plot is not just the recitation of facts; the facts you include in your plot each have a purpose, putting a character into a situation where they must make a decision and pulling the story toward its conclusion.",
+  "token_estimate": 135
+}

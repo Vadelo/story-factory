@@ -1,0 +1,31 @@
+{
+  "title": "4.4 Action/ Emotion prediction and sentence generation",
+  "path": "html-2412.02897v1-4-4-action-emotion-prediction-and-sentence-generation",
+  "url": "https://arxiv.org/html/2412.02897v1",
+  "keywords": [
+    "MLD-EA framework",
+    "emotional and action prediction (eap)",
+    "sentence generation",
+    "Inf_eap",
+    "Inf_gen",
+    "narrative coherence",
+    "contextual analysis",
+    "sequence estimation",
+    "missing sentence index",
+    "action/emotion modeling"
+  ],
+  "use_cases": [
+    "Use when a narrative gap is identified and requires a logically consistent sentence injection.",
+    "Implement when predicting character state transitions based on preceding and succeeding behavior context.",
+    "Configure when training models to maintain narrative flow through emotional and behavioral alignment."
+  ],
+  "tags": [
+    "natural-language-generation",
+    "predictive-modeling",
+    "machine-learning-framework",
+    "narrative-analysis"
+  ],
+  "priority": 9,
+  "content": "Following the identification of the missing sentence index by analyzing characters’ actions and emotions, the next crucial step in the MLD-EA framework is to predict the actions and emotions of the missing sentence and subsequently generate the sentence. This process is essential to ensure the narrative remains coherent and logically consistent. The focus here is on the immediate context surrounding the predicted index. By examining the sequences of preceding actions and emotions and succeeding actions and emotions, the model estimates the most coherent actions $\\hat{a}(c,s_{k})$ and emotions $\\hat{e}(c,s_{k})$ for the missing sentence $s_{k}$ :\n\n| $\\displaystyle\\left[\\hat{a},\\hat{e}\\right]=\\text{Inf}_{eap}$ | $\\displaystyle\\left[(a(c,s_{k-1}),e(c,s_{k-1})\\right),$ | (4) |\n| --- | --- | --- |\n| $\\displaystyle\\left(a(c,s_{k}),e(c,s_{k}))\\right],$ |\n\nwhere $\\text{Inf}_{eap}$ means the model inference of emotion and action prediction for the missing sentence. Once these predictions are made, the model generates a sentence to fill the identified gap:\n\n| $$s_{k}=\\text{Inf}_{gen}(S,C,k,(\\hat{a},\\hat{e})),$$ |",
+  "token_estimate": 191
+}

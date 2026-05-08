@@ -1,0 +1,35 @@
+{
+  "title": "3.1 Membox Construction: The Topic Loom",
+  "path": "html-2601.03785v1-3-1-membox-construction-the-topic-loom",
+  "url": "https://arxiv.org/html/2601.03785v1",
+  "keywords": [
+    "Topic Loom",
+    "memboxes",
+    "topic continuity",
+    "P_cont",
+    "sliding-window classifier",
+    "continuous",
+    "partial shift",
+    "discontinuous",
+    "sealed state",
+    "Event extraction",
+    "Trace Weaver",
+    "unsealed box"
+  ],
+  "use_cases": [
+    "Implement when you need to group temporally adjacent messages into cohesive thematic frames.",
+    "Configure when you want an LLM to determine thematic shifts between user and agent interactions.",
+    "Use when you need to extract structured event representations from sealed memory blocks.",
+    "Implement when you require a sliding-window approach to classify conversation continuity.",
+    "Configure when you want to prevent semantic drift within isolated memory units."
+  ],
+  "tags": [
+    "memory-management",
+    "natural-language-processing",
+    "agent-architecture",
+    "context-windowing"
+  ],
+  "priority": 9,
+  "content": "Real-time agent systems continuously receive streams of user–agent messages. In many existing architectures, each message is stored as an isolated memory unit to simplify processing and ensure real‑time responsiveness. While computationally efficient, this design contradicts the cognitive principle of topic continuity—the tendency for temporally adjacent discourse elements to share a coherent thematic frame Miller (1956); Tulving (1983); Baddeley (2000).\n\nTo operationalize topic continuity in agent memory, we implement the Topic Loom—a sliding‑window, LLM‑guided classifier that determines thematic shifts and groups temporally adjacent messages into cohesive memboxes. Below we detail its construction and decision process.\n\nWe maintain a small sliding window of two consecutive messages—one user utterance and one agent response—over the most recent messages in the current unsealed box, and use it for topic continuity classification. Upon arrival of a new message $M_{k+1}$ , the Loom queries an LLM:\n\n| $$c_{k+1}\\leftarrow\\mathrm{LLM}\\big(\\text{window},\\ M_{k+1},\\ P_{\\mathrm{cont}}\\big),$$ |\n| --- |\n\nwhere $P_{\\mathrm{cont}}$ is the classification prompt, and $c_{k+1}\\in\\{\\mathrm{continuous},\\ \\mathrm{partial\\ shift},\\ \\mathrm{discontinuous}\\}$ . In realistic dialogue flows, abrupt and complete topic shifts within two or three turns are uncommon; more often, a turn introduces a partial shift—retaining some contextual linkage while initiating a new micro‑topic. For memory construction, both partial and complete shifts are treated as topic breaks to ensure that each membox preserves topical purity without spanning semantically drifting content.\n\nIf the label is continuous, the message is appended to the current box. If it is partial shift or discontinuous, the current box is sealed, and a new unsealed box is created with $M_{k+1}$ as its first entry. Because in typical agent–user interactions it is rare for an utterance to have no relation to immediately preceding or following turns, when a new box contains only one message, the arrival of the next message triggers unconditional append. This ensures that brief, seemingly isolated utterances are still stored together with their nearest context, maintaining dialogue‑flow coherence.\n\nWhen a box transitions to the sealed state, the Loom produces its structured representation $B=\\{M,\\ \\mathrm{topic},\\ \\mathrm{events},\\ \\mathrm{keywords}\\}$ . The event set $\\mathrm{events}(B)=\\{e_{1},e_{2},\\dots\\}$ is extracted from the messages in $B$ and captures concrete actions or occurrences within the box’s topic—for example, under “recent activities” these might include “playing basketball” or “practicing the piano” as mentioned in the Introduction. Since our memory design centers on topic continuity, extracting events provides a natural, fine‑grained representation of each topic, while keywords supply supplementary descriptive details. The extracted event set $E(B)$ becomes the input to the Trace Weaver stage (§ 3.2).",
+  "token_estimate": 542
+}

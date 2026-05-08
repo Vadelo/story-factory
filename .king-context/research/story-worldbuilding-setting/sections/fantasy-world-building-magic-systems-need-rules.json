@@ -1,0 +1,32 @@
+{
+  "title": "Magic Systems Need Rules",
+  "path": "fantasy-world-building-magic-systems-need-rules",
+  "url": "https://thewritingking.com/fantasy-world-building/",
+  "keywords": [
+    "magic system",
+    "First Law of Magic",
+    "magic cost",
+    "magic source",
+    "priesthood",
+    "political power",
+    "ecology",
+    "narrative tension",
+    "conflict resolution"
+  ],
+  "use_cases": [
+    "Use when defining magic to increase stakes",
+    "Use when intertwining magic with religion to create political intrigue",
+    "Use when setting physical cost to impose meaningful character choices",
+    "Use when building narrative tension around magical limitations",
+    "Use when ensuring magic consistency for reader satisfaction"
+  ],
+  "tags": [
+    "worldbuilding",
+    "narrative",
+    "fantasy",
+    "writing"
+  ],
+  "priority": 10,
+  "content": "A magic system without rules is a narrative cheat code. If magic can do anything, there are no stakes. If there’s no cost to using it, there’s no tension. If anyone can access it, there’s no social structure around it. The rules of your magic system aren’t limitations on your creativity. They’re the source of your best conflicts.\n\nThe fundamental questions you need to answer: Where does magic come from? Who can use it? What does it cost? What can’t it do? The answers to these questions shape your entire world. If magic comes from the gods, then religion and magic are intertwined, and your priesthood has political power. If magic comes from the natural world, then your ecology matters in ways it wouldn’t otherwise. If magic costs the user physically, then every spell is a choice with consequences.\n\nBrandon Sanderson’s First Law of Magic states that an author’s ability to solve conflict with magic is directly proportional to how well the reader understands that magic. This is practical wisdom. The more clearly defined your magic system, the more satisfying the resolutions that involve it. A vaguely defined magic system can create wonder. A precisely defined one creates both wonder and narrative tension.\n\nThe Fantasy Writer’s Handbook covers magic systems in depth, including how to build systems that support story development rather than undermining it, and the common pitfalls that make magic feel arbitrary rather than organic.",
+  "token_estimate": 315
+}

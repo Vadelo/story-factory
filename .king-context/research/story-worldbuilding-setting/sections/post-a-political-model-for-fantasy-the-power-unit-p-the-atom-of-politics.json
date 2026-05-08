@@ -1,0 +1,27 @@
+{
+  "title": "The Power Unit (p): The Atom of Politics",
+  "path": "post-a-political-model-for-fantasy-the-power-unit-p-the-atom-of-politics",
+  "url": "https://www.mariemullany.com/post/a-political-model-for-fantasy",
+  "keywords": [
+    "Individual Power Unit (p)",
+    "power unit",
+    "sovereign identity",
+    "non-sovereign identity",
+    "polity"
+  ],
+  "use_cases": [
+    "Use when assigning a person’s power unit to multiple identities or organizations",
+    "Use when determining a person’s impact on state politics based on sovereign status",
+    "Implement when modeling political influence across a polity",
+    "Configure when allocating a subset of a power unit to a specific role",
+    "Use when tracking power commitments in distributed governance systems"
+  ],
+  "tags": [
+    "political-modeling",
+    "framework",
+    "conceptual"
+  ],
+  "priority": 10,
+  "content": "The fundamental unit of political life is the Individual Power Unit (p). Every person in a polity (an area or organization where politics happens) has one unit of power that they can commit in part or in whole to various identities (or organizations if you prefer) they associate with. Some of those identities are sovereign, meaning they can effect the state's politics of that polity, and some are not, meaning they have no impact on the state. In order to understand the model, there's a few principles you have to understand.",
+  "token_estimate": 121
+}

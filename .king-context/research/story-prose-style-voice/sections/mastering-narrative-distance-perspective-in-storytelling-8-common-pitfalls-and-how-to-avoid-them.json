@@ -1,0 +1,33 @@
+{
+  "title": "8 Common Pitfalls and How to Avoid Them",
+  "path": "mastering-narrative-distance-perspective-in-storytelling-8-common-pitfalls-and-how-to-avoid-them",
+  "url": "https://literarydevices.net/mastering-narrative-distance-perspective-in-storytelling/",
+  "keywords": [
+    "narrative distance",
+    "POV shifts",
+    "omniscient",
+    "focalization",
+    "internal thoughts",
+    "character arc",
+    "signposting",
+    "narrator voice",
+    "first-person",
+    "immersion"
+  ],
+  "use_cases": [
+    "Use when balancing internal monologue with external action to avoid redundancy",
+    "Implement when switching between close, distant, and omniscient perspectives",
+    "Configure when establishing explicit transitions between character points of view",
+    "Use when auditing a manuscript for tone consistency and narrative immersion",
+    "Implement when selecting the most effective focalization for a character's development"
+  ],
+  "tags": [
+    "creative-writing",
+    "editing",
+    "narrative-theory",
+    "best-practices"
+  ],
+  "priority": 8,
+  "content": "| Pitfall | Why It Happens | Remedy | Over‑exposure of Internal Thoughts | Over‑use of first‑person leads to redundancy. | Balance with external scenes, use dialogue. | Unclear POV Shifts | Sudden changes confuse readers. | Signpost shifts explicitly (e.g., “From now on…”). | Inconsistent Voice | Mixing tones breaks immersion. | Maintain a consistent narrator voice throughout. |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n1. Rewrite a Scene in Three Distances – close, distant, and omniscient.\n2. Create a Character Profile with Focalization Choices– decide which POV best suits the character’s arc.\n3. Analyze a Novel for Narrative Distance – identify key shifts and their effects on plot.",
+  "token_estimate": 171
+}

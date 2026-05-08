@@ -1,0 +1,31 @@
+{
+  "title": "Core Types of POV",
+  "path": "mastering-point-of-view-shift-quick-narrative-guide-core-types-of-pov",
+  "url": "https://literarydevices.net/mastering-point-of-view-shift-quick-narrative-guide/",
+  "keywords": [
+    "First-Person",
+    "Third-Person Limited",
+    "Third-Person Omniscient",
+    "Second-Person",
+    "Point of View",
+    "POV",
+    "Narrative Perspective",
+    "Intimate Narrator",
+    "Direct Address",
+    "All-knowing Narrator"
+  ],
+  "use_cases": [
+    "Use when crafting intimate or personal stories that require limited character knowledge",
+    "Implement when a broad perspective involving multiple characters' internal insights is necessary",
+    "Configure when focusing narrative detail on a single character's internal thoughts and feelings",
+    "Use when experimenting with reader immediacy through direct address"
+  ],
+  "tags": [
+    "narrative-design",
+    "content-strategy",
+    "storytelling-fundamentals"
+  ],
+  "priority": 10,
+  "content": "| Type | Description | Typical Usage | First‑Person (I) | Narrator uses “I” or “we.” | Intimate, personal stories; limited knowledge. | Second‑Person (You) | Direct address to reader. | Rare, experimental; creates immediacy. | Third‑Person Limited | Narrator follows one character’s thoughts/feelings. | Balanced detail with focus on a single viewpoint. | Third‑Person Omniscient | All‑knowing narrator. | Broad perspective, multiple characters’ insights. |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+  "token_estimate": 129
+}

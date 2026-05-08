@@ -1,0 +1,32 @@
+{
+  "title": "Using Action and Visuals to Support Exposition",
+  "path": "blog-mastering-expository-dialogue-using-action-and-visuals-to-support-exposition",
+  "url": "https://www.numberanalytics.com/blog/mastering-expository-dialogue",
+  "keywords": [
+    "exposition",
+    "visual aids",
+    "camera angles",
+    "lighting techniques",
+    "dynamic narration",
+    "action-driven storytelling",
+    "visual metaphors",
+    "character motivation",
+    "diagram integration",
+    "atmospheric mood"
+  ],
+  "use_cases": [
+    "Use when illustrating complex plot points without relying exclusively on dialogue",
+    "Implement when visual elements like lighting and angles are needed to establish mood",
+    "Configure when character emotions require physical movement or action to reinforce exposition",
+    "Use when a map or diagram is necessary to clarify intricate narrative details"
+  ],
+  "tags": [
+    "storytelling",
+    "narrative-design",
+    "visual-communication",
+    "content-creation"
+  ],
+  "priority": 7,
+  "content": "Action and visuals can be powerful tools for supporting exposition. By using these elements effectively, you can convey information in a way that feels more dynamic and engaging.\n\nFor example, consider a scene where a character is explaining a complex plot point. Rather than relying solely on dialogue, you could use action and visuals to illustrate the information, such as:\n\n- Using camera angles, lighting, or other visual elements to create a specific mood or atmosphere.\n- Incorporating action or movement to illustrate the character's emotions or motivations.\n- Using a visual aid, like a map or diagram, to help explain the plot point.",
+  "token_estimate": 138
+}

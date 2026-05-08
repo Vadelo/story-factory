@@ -1,0 +1,36 @@
+{
+  "title": "Economics",
+  "path": "economics-doesnt-believe-in-magic-economics",
+  "url": "https://push.cx/economics-doesnt-believe-in-magic",
+  "keywords": [
+    "talisman",
+    "magic missile",
+    "mercantile guilds",
+    "clockpunk",
+    "taverns",
+    "Questville",
+    "magical artillery",
+    "supply lines",
+    "military conquest",
+    "supply chain",
+    "trade",
+    "admission fee"
+  ],
+  "use_cases": [
+    "Use when designing a resource economy involving talismans as commodities.",
+    "Implement when modeling guild-based trade systems in a fantasy game.",
+    "Configure when creating quests that revolve around taverns and merchant interactions.",
+    "Use when calculating march times between castles and conquest dates.",
+    "Implement to simulate magical supply lines for army logistics."
+  ],
+  "tags": [
+    "game-design",
+    "world-building",
+    "fantasy",
+    "economics",
+    "military"
+  ],
+  "priority": 5,
+  "content": "Really, it’s silly that nobody built a wall around the super-talisman granter to charge admission. (Or even sat on the road to rob people on their way home.) A talisman is a valuable commodity. People want and take valuable things from each other - not just by trade but by trickery and force. It doesn’t matter that they’re powered by magic, this is how commodities work.\n\nThe society the author envisioned has talismans for practical tasks like lighting candles and turning clockwork, and it has mercantile guilds, and emerging democratic notions. It has clever clockpunk and spunky heroines and taverns bursting with quest hooks.\n\nPhil the living god has five thousand soldiers willing to die for him, each carrying their own magic missile talisman. Phil also has magical artillery and magical supply lines.\n\nHow long, in days, does it take before Phil has conquers Questville? (Hint: it’s the number of days it takes to march from Phil’s castle.)",
+  "token_estimate": 210
+}

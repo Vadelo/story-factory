@@ -1,0 +1,33 @@
+{
+  "title": "Table of Contents",
+  "path": "makieali-longform-ai-table-of-contents",
+  "url": "https://github.com/makieali/longform-ai",
+  "keywords": [
+    "longform-ai",
+    "BookSession",
+    "Streaming API",
+    "Refusal Detection",
+    "Session Persistence",
+    "Model Roles",
+    "Chapter Generation Pipeline",
+    "ESM",
+    "Progress Events",
+    "Cost Tracking"
+  ],
+  "use_cases": [
+    "Use when initializing a new long-form content generation project via npm, pnpm, or yarn",
+    "Configure when setting up environment variables and AI provider authentication",
+    "Implement when managing interactive writing sessions with memory and continuity across chapters",
+    "Configure when establishing custom model roles and per-chapter word count constraints",
+    "Use when tracking generation costs and progress events in a production pipeline"
+  ],
+  "tags": [
+    "installation",
+    "configuration",
+    "api-reference",
+    "orchestration"
+  ],
+  "priority": 10,
+  "content": "- [Installation](#installation)\n- [Quick Start](#quick-start)\n- [Environment Variables](#environment-variables)\n- [Provider Setup Examples](#provider-setup-examples)\n- [Architecture](#architecture)\n- [Usage](#usage)\n\n- [Interactive Session (Recommended)](#interactive-session-recommended)\n - [Streaming API (Fire & Forget)](#streaming-api-fire--forget)\n - [Per-Chapter Word Control](#per-chapter-word-control)\n - [Outline Management](#outline-management)\n - [Error Handling](#error-handling)\n\n- [Providers & Models](#providers--models)\n\n- [Presets](#presets)\n - [Custom Model Configuration](#custom-model-configuration)\n - [Model Roles](#model-roles)\n\n- [Content Types](#content-types)\n- [Configuration Reference](#configuration-reference)\n- [API Reference](#api-reference)\n\n- [LongFormAI](#longformai)\n - [BookSession](#booksession)\n - [Progress Events](#progress-events)\n - [Types](#types)\n\n- [Features](#features)\n\n- [Chapter Generation Pipeline](#chapter-generation-pipeline)\n - [Refusal Detection](#refusal-detection)\n - [Memory & Continuity](#memory--continuity)\n - [Cost Tracking](#cost-tracking)\n - [Session Persistence](#session-persistence)\n\n- [Cost Estimates](#cost-estimates)\n- [Project Structure](#project-structure)\n- [Development](#development)\n- [Roadmap](#roadmap)\n- [License](#license)\n\n```bash\n# npm\nnpm install longform-ai\n\n# pnpm\npnpm add longform-ai\n\n# yarn\nyarn add longform-ai\n```\n\n**Requirements:**\n\n- Node.js >= 20.0.0\n- ESM only (`\"type\": \"module\"` in your package.json, or use `.mjs` files)\n- At least one AI provider API key\n\n```bash\nnpm install longform-ai\n```\n\n```bash\nexport OPENAI_API_KEY=sk-...\n```",
+  "token_estimate": 198
+}

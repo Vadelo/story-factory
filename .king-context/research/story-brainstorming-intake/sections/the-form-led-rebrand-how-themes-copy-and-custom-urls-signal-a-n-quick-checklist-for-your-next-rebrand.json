@@ -1,0 +1,33 @@
+{
+  "title": "Quick Checklist for Your Next Rebrand",
+  "path": "the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n-quick-checklist-for-your-next-rebrand",
+  "url": "https://blog.ezpa.ge/the-form-led-rebrand-how-themes-copy-and-custom-urls-signal-a-n",
+  "keywords": [
+    "rebrand",
+    "theming",
+    "typography",
+    "slug",
+    "UX copy",
+    "brand colors",
+    "custom URL",
+    "301 redirects",
+    "helper text",
+    "button labels",
+    "brand positioning"
+  ],
+  "use_cases": [
+    "Use when performing a brand identity update across existing web assets",
+    "Configure when setting up human-readable slugs for new product naming conventions",
+    "Implement when auditing form copy for user-centric outcomes",
+    "Use when verifying that visual themes match the emotional tone of high-risk flows"
+  ],
+  "tags": [
+    "best-practices",
+    "theming",
+    "deployment-checklist",
+    "product-management"
+  ],
+  "priority": 6,
+  "content": "Before you announce anything, run through this checklist for your top forms:\n\nTheme\n\n- [ ] Uses updated brand colors and typography\n- [ ] Matches the emotional tone and risk level of the flow\n- [ ] Applies consistently across similar forms\n\nCopy\n\n- [ ] Headline reflects your new positioning in plain language\n- [ ] Sections are grouped around user outcomes, not internal teams\n- [ ] Helper text answers the “Why are you asking this?” question\n- [ ] Button labels describe the outcome, not just “Submit”\n\nCustom URL\n\n- [ ] Slug is human-readable and aligned with new product naming\n- [ ] Old URLs redirect cleanly to new ones\n- [ ] Audience- or story-specific URLs are documented and tracked\n\nIf you can check most of these boxes, your rebrand is already much more real than a new logo on a slide.\n\n---",
+  "token_estimate": 198
+}

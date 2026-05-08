@@ -1,0 +1,35 @@
+{
+  "title": "Show-Don't-Tell for World-Building",
+  "path": "guides-how-to-create-worldbuilding-bibles-2026-show-don-t-tell-for-world-building",
+  "url": "https://rivereditor.com/guides/how-to-create-worldbuilding-bibles-2026",
+  "keywords": [
+    "show-dont-tell",
+    "worldbuilding",
+    "magic-system",
+    "obsidian-mining",
+    "magical-practice-forbidden",
+    "camps",
+    "searchable-glossary",
+    "consistency-checker",
+    "cross-reference-tracking",
+    "series-continuity",
+    "market-scene",
+    "river-ai"
+  ],
+  "use_cases": [
+    "Use when developing a fantasy world to convey oppressive laws through character actions instead of exposition.",
+    "Implement when designing a magic system that must enforce in-world consequences for unauthorized use.",
+    "Configure when setting up an automated consistency checker to flag contradictory facts in world documentation.",
+    "Apply when building a series continuity tracker that cross‑references plot events across installments.",
+    "Employ when writing market scenes that reflect underlying political tension and risk."
+  ],
+  "tags": [
+    "worldbuilding",
+    "literary-structure",
+    "AI-tools",
+    "documentation"
+  ],
+  "priority": 10,
+  "content": "TELLING (Info-Dump): \"In this world, magic users were feared and persecuted. Laws had been passed generations ago forbidding magical practice in public. Those caught using magic were sent to prison camps in the north, where they spent their lives mining obsidian under harsh conditions. Society had long debated whether this was just, but fear won over compassion every time.\"\n\nThis is history lesson, not story.\n\nSHOWING (Integrated): \"Kira's hands glowed for just a second—healing light, instinctive. She clenched her fists, extinguishing it, and glanced around the market. No one had seen. If they had, the magistrate would be here within the hour. She'd heard what the northern camps were like. Her cousin hadn't survived his second winter there.\"\n\nSame information (magic is forbidden, magical users are imprisoned in camps, conditions are deadly) but delivered through character experience and stakes. We learn the rules because they create immediate danger.\n\nReady to build your worldbuilding bible?\n\nRiver's AI guides you through creating comprehensive world documentation covering geography, history, magic systems, cultures, and rules—with searchable glossaries, consistency checks, and cross-reference tracking for series continuity.\n\nThe best world-building rules create problems, not solutions. They force characters into difficult choices and raise stakes.",
+  "token_estimate": 263
+}

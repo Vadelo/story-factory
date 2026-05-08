@@ -1,0 +1,31 @@
+{
+  "title": "1. Role Definition",
+  "path": "character-ai-storytelling-prompt-framework-2026-guide-1-role-definition",
+  "url": "https://characterai.it.com/character-ai-storytelling-prompt-framework-2026-guide/",
+  "keywords": [
+    "Role Definition",
+    "Persona",
+    "Prompt Engineering",
+    "Character Flaws",
+    "Tone Control",
+    "Negative Constraints",
+    "Pacing",
+    "Setting Description",
+    "Output Restriction"
+  ],
+  "use_cases": [
+    "Use when defining a specific AI persona or voice for creative writing",
+    "Implement when establishing environmental context and world-building constraints",
+    "Configure when setting behavioral guardrails to prevent summarization",
+    "Use when structuring multi-dimensional characters with goals and personality traits",
+    "Implement when establishing specific pacing and stylistic requirements for LLM outputs"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Creative Writing",
+    "AI Configuration"
+  ],
+  "priority": 10,
+  "content": "Define who the AI is.\n\nExample:“You are a dark fantasy storyteller who focuses on emotional tension and morally complex characters.”\n\nDescribe the setting.\n\nExample:“The story takes place in a decaying kingdom where magic is fading and political betrayal is common.”\n\nDefine key characters.\n\nInclude:\n\n- Personality\n- Goals\n- Flaws\n\nWhat should happen?\n\nExample:“Focus on a conflict between loyalty and survival.”\n\nControl tone and pacing.\n\nExample:“Use concise dialogue, vivid descriptions, and avoid overly long paragraphs.”\n\nLimit unwanted behavior.\n\nExample:“Do not summarize events. Show actions through scenes.”\n\n---\n\n# Building Powerful Prompts Step by Step\n\nGive the AI a clear role.\n\nDefine the world and situation.\n\nStories need tension.\n\nDecide how the story should feel.",
+  "token_estimate": 151
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Related Posts",
+  "path": "blog-2026-02-23-ai-writing-continuity-related-posts",
+  "url": "https://docs.bswen.com/blog/2026-02-23-ai-writing-continuity",
+  "keywords": [
+    "continuity checking",
+    "long-form AI writing",
+    "LLM writing patterns",
+    "Claude Code",
+    "automated consistency",
+    "AI novel generation",
+    "textual continuity issues",
+    "GitHub repository"
+  ],
+  "use_cases": [
+    "Use when developing automated systems to track plot consistency in AI-generated novels",
+    "Implement when researching LLM patterns for extended narrative architecture",
+    "Configure when setting up Claude Code for long-form creative writing workflows",
+    "Use when addressing 300k-word scale continuity errors in generative AI output"
+  ],
+  "tags": [
+    "AI writing",
+    "automation",
+    "continuity",
+    "content-generation"
+  ],
+  "priority": 7,
+  "content": "- How to build automated continuity checking for long-form AI writing60\n\nMy intention with this article was to help others share my knowledge and experience. If you want to contact me, you can contact by email: Email me\n\nHere are also the most important links from this article along with some further resources that will help you in this scope:\n\n- 👨‍💻 Reddit discussion of 300k-word AI novel continuity issues\n- 👨‍💻 Claude Code documentation\n- 👨‍💻 LLM writing patterns research\n\nOh, and if you found these resources useful, don’t forget to support me by starring the repo on GitHub!\n\nTags:\n\n- AI writing\n- continuity\n- automation\n- long-form fiction",
+  "token_estimate": 147
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Under The Hood",
+  "path": "silkspace-llm-knowledge-graph-under-the-hood",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "Firecrawl MCP",
+    "384-dim vectors",
+    "localhost:8765",
+    "USearch",
+    "DuckDB",
+    "Vector Index",
+    "kg_production.py",
+    "embedding_service.py",
+    "Semantic Embedding",
+    "O(log n) search"
+  ],
+  "use_cases": [
+    "Use when building a local knowledge graph from web content scraped via Firecrawl",
+    "Configure when requiring fast analytical storage with DuckDB and vector retrieval",
+    "Implement when local semantic embedding is needed on port 8765",
+    "Use when clustering related documents using USearch area codes",
+    "Implement when batch processing large datasets using the batch_ingest.sh pipeline"
+  ],
+  "tags": [
+    "architecture",
+    "vector-database",
+    "machine-learning",
+    "cli-reference"
+  ],
+  "priority": 9,
+  "content": "```\n┌──────────────────────────────────────┐\n│  You + Claude (vibing)               │\n└──────────────────────────────────────┘\n              ↓\n┌──────────────────────────────────────┐\n│  Firecrawl MCP                       │\n│  → Scrape web content                │\n└──────────────────────────────────────┘\n              ↓\n┌──────────────────────────────────────┐\n│  Claude Analysis                     │\n│  → Extract learnings & insights      │\n└──────────────────────────────────────┘\n              ↓\n┌──────────────────────────────────────┐\n│  Semantic Embedding                  │\n│  → 384-dim vectors (local, warm)     │\n│  → HTTP: localhost:8765              │\n└──────────────────────────────────────┘\n              ↓\n┌──────────────────────────────────────┐\n│  Clustering                          │\n│  → USearch finds similar docs        │\n│  → Auto-assigns area codes           │\n└──────────────────────────────────────┘\n              ↓\n┌──────────────────────────────────────┐\n│  Storage                             │\n│  → DuckDB: Fast analytics            │\n│  → Vector Index: O(log n) search     │\n│  → Location: ~/.local/share/...      │\n└──────────────────────────────────────┘\n```\n\n**Key Files:**\n\n- `kg` - Main CLI (use this for everything!)\n- `kg_production.py` - Core KG system\n- `kg_models.py` - Type-safe interfaces\n- `embedding_service.py` - Warm embedding server\n- `batch_ingest.sh` - Batch processing pipeline",
+  "token_estimate": 178
+}

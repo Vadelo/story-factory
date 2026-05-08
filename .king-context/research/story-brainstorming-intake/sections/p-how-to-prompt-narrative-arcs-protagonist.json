@@ -1,0 +1,33 @@
+{
+  "title": "PROTAGONIST",
+  "path": "p-how-to-prompt-narrative-arcs-protagonist",
+  "url": "https://winterspeak.substack.com/p/how-to-prompt-narrative-arcs",
+  "keywords": [
+    "Protagonist",
+    "Core Wound",
+    "Character Arc",
+    "Lie They Believe",
+    "Truth They Must Learn",
+    "Greatest Desire",
+    "Greatest Fear",
+    "Mannerisms",
+    "Dialogue Style",
+    "Supporting Characters"
+  ],
+  "use_cases": [
+    "Use when drafting initial character profiles and backstories",
+    "Configure when defining the psychological motivations and internal conflicts of a lead character",
+    "Implement when outlining character arcs to ensure growth from a false belief to a realized truth",
+    "Use when developing unique dialogue patterns and physical habits for character distinctness",
+    "Configure when mapping relationships between the protagonist and supporting cast"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-design",
+    "character-development",
+    "storytelling-framework"
+  ],
+  "priority": 10,
+  "content": "Name & Age: Occupation/Role: Physical Description: [2-3 specific details only]\n\nCore Wound/Past Trauma: [What past event still affects them?]\n\nGreatest Fear: [What do they avoid at all costs?]\n\nGreatest Desire: [What do they want more than anything?]\n\nLie They Believe: [What false belief guides their actions at story start?]\n\nTruth They Must Learn: [What realization will complete their arc?]\n\nUnique Mannerisms/Habits:\n\n[Specific physical habit when nervous]\n\n[Verbal tic or speech pattern]\n\n[How they interact with objects]\n\nVoice/Dialogue Style: [e.g., \"Uses technical jargon,\" \"Never finishes sentences,\" \"Asks questions instead of making statements\"]\n\n[Same categories as above]\n\nCharacter 1 Name: Role in Story: Key Personality Trait: How They Challenge/Support Protagonist:\n\n[Repeat for other supporting characters]",
+  "token_estimate": 150
+}

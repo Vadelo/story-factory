@@ -1,0 +1,39 @@
+{
+  "work_slug": "cidade-dos-mapas-vivos",
+  "chapter_id": "chapter-001",
+  "chapter_number": 1,
+  "title": "O Mapa Sob o Vidro",
+  "content_md": "## O Mapa Sob o Vidro\n\nLia Arcos nunca confiava em uma rua que permanecia no mesmo lugar por tempo demais.",
+  "summary": "Lia receives a living map under glass and sees her missing brother's name fade from the ink.",
+  "canon_changes": [
+    "Lia's brother is missing.",
+    "Living maps can erase names from visible ink."
+  ],
+  "character_states": [
+    {
+      "name": "Lia Arcos",
+      "state": "frightened but determined to investigate the erased district"
+    }
+  ],
+  "relationship_changes": [],
+  "world_updates": [
+    "Maps move more clearly when sealed under glass."
+  ],
+  "timeline_updates": [
+    "Chapter 1 begins on the night Lia receives the illegal map."
+  ],
+  "new_threads": [
+    "Who sent the map to Lia?",
+    "Why is her brother's name vanishing?"
+  ],
+  "resolved_threads": [],
+  "callbacks": [
+    "The phrase about streets staying in place can return when the city changes."
+  ],
+  "continuity_risks": [
+    "Define whether erased names erase memories or only written records."
+  ],
+  "style_notes": [
+    "Close third, sensory, tense, restrained lyricism."
+  ]
+}

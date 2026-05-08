@@ -1,0 +1,34 @@
+{
+  "title": "Compatability",
+  "path": "open-llm-initiative-open-message-format-compatability",
+  "url": "https://github.com/open-llm-initiative/open-message-format",
+  "keywords": [
+    "Stock OMF",
+    "Open Completions API",
+    "ChatCompletions",
+    "message_id",
+    "function calling",
+    "IBM",
+    "Google",
+    "Amazon Bedrock",
+    "Mistral AI",
+    "Anthropic",
+    "OpenAI",
+    "Cohere"
+  ],
+  "use_cases": [
+    "Configure when integrating IBM models that require mandatory additional tooling",
+    "Implement when native OMF support needs to be verified for OpenAI or Anthropic",
+    "Use when performing conversion workflows for Google or Amazon Bedrock providers",
+    "Determine when model-specific parameters like message_id fall outside base specifications"
+  ],
+  "tags": [
+    "compatibility",
+    "integration",
+    "llm-providers",
+    "api-specification"
+  ],
+  "priority": 8,
+  "content": "| LLM Provider | Compatible with Stock OMF | Benefits from Additional Tooling | Requires Additional Tooling |\n| --- | --- | --- | --- |\n| OpenAI | Yes | Yes | No |\n| Mistral AI | Yes | Yes | No |\n| Anthropic | Yes | Yes | No |\n| IBM | No | No | Yes |\n| Google | Yes (Requires Conversion) | Yes | No |\n| Amazon Bedrock | Yes (Requires Conversion) | Yes | No |\n| Cohere | Yes (Requires Conversion) | Yes | No |\n\n*Note: Some models have unique parameters such as `message_id` or `name`. These parameters, while easy to add for specific models, are not universal and therefore not included in the base specification. Some models also have certain function calling capabilities but due to function calls being more relevant to a full `ChatCompletions` setup, this is more relevant to the Open Completions API*",
+  "token_estimate": 211
+}

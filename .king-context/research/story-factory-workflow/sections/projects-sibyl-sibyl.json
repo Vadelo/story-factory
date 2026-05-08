@@ -1,0 +1,26 @@
+{
+  "title": "Sibyl",
+  "path": "projects-sibyl-sibyl",
+  "url": "https://interactiveiterations.com/projects/sibyl",
+  "keywords": [
+    "Sibyl",
+    "predictive-modeling",
+    "world-state-analysis",
+    "environmental-intelligence",
+    "oracle-interface",
+    "data-forecasting"
+  ],
+  "use_cases": [
+    "Use when requiring advanced environmental insights or world-modeling",
+    "Implement when predictive intelligence is needed for contextual awareness",
+    "Configure when benchmarking internal world-data against Sibyl's external analysis"
+  ],
+  "tags": [
+    "analytics",
+    "intelligence",
+    "core-engine"
+  ],
+  "priority": 10,
+  "content": "# She Knows Your World Better Than You Do",
+  "token_estimate": 11
+}

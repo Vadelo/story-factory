@@ -1,0 +1,33 @@
+{
+  "title": "Worlds That Keep Growing",
+  "path": "blog-series-bible-worlds-that-keep-growing",
+  "url": "https://www.bindercraft.net/blog/series-bible",
+  "keywords": [
+    "worldbuilding",
+    "internal wiki",
+    "continuity editor",
+    "magic system",
+    "soft magic",
+    "Cosmere",
+    "precedents",
+    "infrastructure",
+    "timeline spreadsheet",
+    "established rules"
+  ],
+  "use_cases": [
+    "Use when maintaining long-term story consistency across a multi-book series",
+    "Implement when scaling complex worldbuilding elements like magic systems and factions",
+    "Configure when tracking historical precedents and character status across different volumes",
+    "Use when developing internal wikis to manage character and location data",
+    "Configure when documenting informal rules or soft magic precedents to avoid continuity errors"
+  ],
+  "tags": [
+    "worldbuilding",
+    "content-management",
+    "narrative-design",
+    "documentation-strategy"
+  ],
+  "priority": 8,
+  "content": "Fantasy and science fiction authors face a particular version of the continuity problem, and it's one that gets exponentially harder with every book. Worldbuilding accumulates. Every volume adds new locations, new factions, new rules, new history. By Book 5, you've established so many facts about how your world works that introducing a new plot element risks accidentally violating three of them.\n\nThe magic system is the classic example. In Book 1, you establish that magic requires spoken words. In Book 3, under pressure to create a dramatic scene, you write a character casting a spell silently. Maybe you justify it in the moment, maybe you don't. Either way, you've either broken a rule or expanded the system, and both options have consequences for every book that follows. If spells can be cast silently, why didn't characters do that before? If this character is an exception, why? If the rule only applies in certain conditions, what are those conditions, and do they contradict anything you've already established?\n\nBrandon Sanderson, whose Cosmere spans over forty books across multiple series set in a shared universe, has spoken openly about the infrastructure required to keep that world consistent. He maintains an internal wiki, employs a dedicated continuity editor named Karen Ahlstrom who tracks every character, location, magical ability, and timeline across the entire Cosmere, and outlines roughly ten thousand words for every hundred thousand in a finished book. Ahlstrom maintains a master spreadsheet with the entire timeline of the Cosmere and has separate wiki pages for every character, every type of spren, every location, and every magical ability. When his team is working on a side project, she can produce a complete list of every character in the world who has ever owned a specific magical artifact, in about thirty seconds.\n\nMost series authors do not have a dedicated continuity editor. But the underlying principle scales down: every rule your world establishes needs to be documented with a reference to which book established it, so that before you expand or modify that rule, you can check what you've already committed to. Think of it as a contract with your readers. The rules you establish in early books are promises. Breaking them without acknowledgment doesn't feel like creative evolution. It feels like carelessness.\n\nFor authors writing \"soft\" magic or loosely defined speculative elements, the challenge is more subtle. You may not have explicit rules, but you do have established precedents. If telepathy has always been depicted as painful and disorienting in your series, having a character use it casually and without effort in Book 6 will feel wrong to readers even if you never stated it as a formal rule. Document the precedents alongside the rules, and note which book set each one.",
+  "token_estimate": 609
+}

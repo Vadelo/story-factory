@@ -1,0 +1,32 @@
+{
+  "title": "Frequently Asked Questions",
+  "path": "ai-story-bible-generator-frequently-asked-questions",
+  "url": "https://www.inkfluenceai.com/ai-story-bible-generator",
+  "keywords": [
+    "commercial use",
+    "royalties",
+    "attribution",
+    "human authorship",
+    "story bible",
+    "story bible template",
+    "US Copyright Office guidance",
+    "AI-assisted works",
+    "genre-tuned content",
+    "licensing"
+  ],
+  "use_cases": [
+    "Use when evaluating commercial rights and licensing for AI-generated outputs",
+    "Configure when seeking to understand the difference between AI-driven generation and static templates",
+    "Implement when developing a novel or creative work based on scaffolding structures",
+    "Use when navigating US Copyright Office requirements for human-centric authorship"
+  ],
+  "tags": [
+    "legal",
+    "licensing",
+    "faq",
+    "compliance"
+  ],
+  "priority": 8,
+  "content": "Yes. Everything you generate with this tool is yours to use commercially without royalties or attribution. Modify freely, keep what you like, discard the rest. The story bible is scaffolding; your novel is what you build on top of it, where the human authorship is highest and the copyright strongest (per current US Copyright Office guidance on AI-assisted works).\n\nHow is this different from filling in a story bible template?\n\nTemplate-only tools give you blank fields to fill in yourself. This generator fills the fields for you with genre-tuned starting content, then lets you edit. Templates work for",
+  "token_estimate": 130
+}

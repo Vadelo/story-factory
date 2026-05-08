@@ -1,0 +1,33 @@
+{
+  "title": "Spend more time writing",
+  "path": "spend-more-time-writing",
+  "url": "https://www.mythril.io/",
+  "keywords": [
+    "Google Drive sync",
+    "DOCX",
+    "PDF",
+    "plain text",
+    "automatic analysis",
+    "searchable compendium",
+    "visualize",
+    "streamlined workflow",
+    "living wiki",
+    "Mythril"
+  ],
+  "use_cases": [
+    "Use when you need to sync drafts from Google Drive or local files",
+    "Implement when organizing complex characters, locations, and plot events",
+    "Configure when requiring a searchable compendium of existing story drafts",
+    "Use when you want to visualize story elements on a second screen while writing",
+    "Use when maintaining a living wiki that updates automatically with new writing"
+  ],
+  "tags": [
+    "getting-started",
+    "data-synchronization",
+    "content-analysis",
+    "organization"
+  ],
+  "priority": 10,
+  "content": "Mythril helps you spend more time crafting great stories and less time needing to keep track of all your world’s details\n\n1\n\n#### Connect your work\n\nUpload as little as a draft chapter or sync with Google Drive. We support all major formats including DOCX, PDF, and plain text.\n\n2\n\n#### Automatic analysis\n\nMythril analyzes your story and organizes characters, locations, objects, and plot events into a searchable compendium.\n\n3\n\n#### Explore your world\n\nMythril works as your second screen letting you find, recall and visualize the world you developed and the stories you have written.\n\n4\n\n#### Update on demand\n\nEasily sync to your latest drafts with Mythril’s streamlined workflow, turning your compendium into a living wiki.",
+  "token_estimate": 156
+}

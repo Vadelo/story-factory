@@ -1,0 +1,34 @@
+{
+  "title": "2. Install via npm (Recommended)",
+  "path": "silkspace-llm-knowledge-graph-2-install-via-npm-recommended",
+  "url": "https://github.com/silkspace/llm-knowledge-graph",
+  "keywords": [
+    "mcp_settings.json",
+    "npx",
+    "@silkspace/llm-kg-mcp",
+    "FIRECRAWL_API_KEY",
+    "uv sync",
+    "ANTHROPIC_API_KEY",
+    "kg_mcp_server.py",
+    "postinstall hook",
+    "Node.js 18+",
+    "Python 3.10+",
+    "mcpServers"
+  ],
+  "use_cases": [
+    "Use when setting up the MCP server quickly without manual repository cloning",
+    "Configure when adding Firecrawl or LLM Knowledge Graph capabilities to Claude Code",
+    "Implement when deploying via npx to ensure automatic updates and dependency management",
+    "Configure when running the server from a local development path using Python",
+    "Implement when setting up authentication via environment variables or hidden key files"
+  ],
+  "tags": [
+    "installation",
+    "configuration",
+    "deployment",
+    "mcp-integration"
+  ],
+  "priority": 10,
+  "content": "**Easiest setup - no local paths needed:**\n\nAdd to your Claude Code MCP settings (`~/.claude/mcp_settings.json` or via Claude Code settings):\n\n```json\n{\n  \"mcpServers\": {\n    \"firecrawl\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@mendable/firecrawl-mcp\"],\n      \"env\": {\n        \"FIRECRAWL_API_KEY\": \"your-firecrawl-api-key\"\n      }\n    },\n    \"llm-kg\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@silkspace/llm-kg-mcp\"]\n    }\n  }\n}\n```\n\n- Get a free Firecrawl API key at [firecrawl.dev](https://firecrawl.dev)\n- Python dependencies auto-install via postinstall hook (using uv or pip)\n\n**Requirements:**\n\n- Node.js 18+\n- Python 3.10+\n- `uv` (recommended) or `pip`\n\nThat's it! npx will download and run the MCP server automatically.\n\n**Clone and install manually:**\n\n```bash\ngit clone https://github.com/silkspace/llm-knowledge-graph.git\ncd llm-knowledge-graph\n\n# Install dependencies with uv\nuv sync\n```\n\n**Then configure with local path:**\n\n```json\n{\n  \"mcpServers\": {\n    \"llm-kg\": {\n      \"command\": \"python\",\n      \"args\": [\"/path/to/llm-knowledge-graph/kg_mcp_server.py\"]\n    }\n  }\n}\n```\n\nEither set environment variable:\n\n```bash\nexport ANTHROPIC_API_KEY=\"your-api-key\"\n```\n\nOr create file:\n\n```bash\necho \"your-api-key\" > ~/.anthropic_api_key\n```\n\n```bash\nsource .venv/bin/act",
+  "token_estimate": 196
+}

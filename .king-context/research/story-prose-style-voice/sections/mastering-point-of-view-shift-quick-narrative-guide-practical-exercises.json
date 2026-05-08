@@ -1,0 +1,34 @@
+{
+  "title": "Practical Exercises",
+  "path": "mastering-point-of-view-shift-quick-narrative-guide-practical-exercises",
+  "url": "https://literarydevices.net/mastering-point-of-view-shift-quick-narrative-guide/",
+  "keywords": [
+    "first-person",
+    "third-person limited",
+    "unreliable narrator",
+    "nested POV",
+    "temporal shift",
+    "multiple POVs",
+    "POV switching",
+    "narrative perspective",
+    "protagonist-antagonist shift",
+    "present tense reflection"
+  ],
+  "use_cases": [
+    "Use when comparing emotional depth between first-person and third-person limited perspectives",
+    "Implement when transitioning between character viewpoints during a narrative climax",
+    "Configure when employing an unreliable narrator to create reader ambiguity or bias",
+    "Use when layering character thoughts through nested narration techniques",
+    "Implement when contrasting immediate action in present tense with reflective past tense accounts",
+    "Configure when interweaving parallel character experiences within the same scene"
+  ],
+  "tags": [
+    "creative-writing",
+    "narrative-technique",
+    "character-development",
+    "literary-device"
+  ],
+  "priority": 8,
+  "content": "1. Single Scene, Dual POV – Write a scene from both first‑person and third‑person limited perspectives; compare emotional depth. Example: A café encounter narrated by the protagonist (first‑person) versus the barista’s view (third‑person limited).\n2. Character Switch – Begin with protagonist’s POV, then shift to antagonist’s POV during climax. Example: In a crime story, the detective narrates until the reveal, then the criminal narrates the aftermath.\n3. Temporal Shift – Narrate an event in present tense, then revisit it in past tense for reflection. Example: A wedding day described now, followed by a memory of that day years later.\n\nNested POV\n\n- A character narrates another character’s thoughts (e.g., “I heard him say…”). Example: The protagonist recounts the antagonist’s inner monologue during a confrontation.\n\nUnreliable Narrator\n\n- Use POV to create ambiguity or bias. Example: A first‑person narrator denies witnessing an event, yet later reveals it was true.\n\nMultiple POVs in Parallel\n\n- Interweave simultaneous scenes from different characters. Example: Two protagonists experiencing the same event from distinct angles, alternating paragraphs.",
+  "token_estimate": 227
+}

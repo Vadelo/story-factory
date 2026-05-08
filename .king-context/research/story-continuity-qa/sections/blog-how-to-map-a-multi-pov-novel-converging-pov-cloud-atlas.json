@@ -1,0 +1,33 @@
+{
+  "title": "Converging POV (Cloud Atlas)",
+  "path": "blog-how-to-map-a-multi-pov-novel-converging-pov-cloud-atlas",
+  "url": "https://scyn.app/blog/how-to-map-a-multi-pov-novel",
+  "keywords": [
+    "Converging POV",
+    "Cloud Atlas",
+    "Nested Storylines",
+    "Concentric Arc Structure",
+    "Russian Doll Architecture",
+    "Artifactual Connection",
+    "Reverse Temporal Order",
+    "Six-Part Narrative Structure",
+    "Mrs. Dalloway",
+    "Cross-Era Parallelism",
+    "The Hours"
+  ],
+  "use_cases": [
+    "Use when designing a non-linear narrative architecture that utilizes nested storylines",
+    "Implement when connecting diverse character arcs through artifacts rather than direct interaction",
+    "Configure when mapping a concentric narrative flow that reverses order at a central midpoint",
+    "Use when analyzing the structural differences between simultaneous parallel tracks and chronological nesting"
+  ],
+  "tags": [
+    "narrative-design",
+    "literary-analysis",
+    "structural-mapping",
+    "pov-convergence"
+  ],
+  "priority": 8,
+  "content": "David Mitchell's structure is architecturally unusual: six storylines nested inside each other like Russian dolls, with each one interrupted at its midpoint by the next. The reader descends through all six half-stories, hits the innermost story complete, then ascends back through the other five in reverse order.\n\nThe convergence here is not a meeting of characters. It is a convergence of themes and a literal reversal of structure. Each storyline connects to the next through artifacts and echoes: a manuscript read by the next character, a piece of music composed by the next, a film watched by the one after.\n\nOn a visual map, Cloud Atlas would look like a concentric arc structure rather than parallel tracks. The connections run forward in time through artifacts, not through direct causation. The map shape itself would be unusual, which is exactly the point: this novel is doing something structurally distinct from traditional multi-POV work.\n\nMichael Cunningham's three-storyline structure runs three women's days simultaneously across different eras: Virginia Woolf writing Mrs. Dalloway in the 1920s, a housewife reading Mrs. Dalloway in",
+  "token_estimate": 236
+}

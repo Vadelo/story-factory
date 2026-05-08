@@ -1,0 +1,34 @@
+{
+  "title": "Text Generation Powerhouses (LLMs)",
+  "path": "blog-using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time-text-generation-powerhouses-llms",
+  "url": "https://sudowrite.com/blog/using-ai-for-worldbuilding-create-immersive-worlds-in-a-fraction-of-the-time/",
+  "keywords": [
+    "ChatGPT",
+    "GPT-4",
+    "Claude 3",
+    "Sudowrite",
+    "Custom Instructions",
+    "Story Bible",
+    "context window",
+    "worldbuilding",
+    "natural language generation",
+    "Opus",
+    "Sonnet"
+  ],
+  "use_cases": [
+    "Use when drafting detailed historical timelines or character names for a fictional world",
+    "Configure when setting up Custom Instructions to maintain cross-session consistency",
+    "Implement when processing massive world bibles to ask context-aware questions",
+    "Use when generating poetic creation myths or evocative landscape descriptions",
+    "Configure when storing key lore in the Story Bible for AI reference during prose writing"
+  ],
+  "tags": [
+    "text-generation",
+    "ai-models",
+    "creative-writing",
+    "content-creation"
+  ],
+  "priority": 10,
+  "content": "These are your lore-keepers, your historians, and your cultural consultants. They excel at anything involving the written word.\n\n- ChatGPT (with GPT-4): The undisputed heavyweight champion. Its versatility is its greatest strength. You can use it for brainstorming high-level concepts, writing detailed historical timelines, generating character names, and even drafting dialogue. The 'Custom Instructions' feature is a godsend for worldbuilders, allowing you to feed it core details about your world to maintain consistency across sessions.\n- Claude 3 (Opus/Sonnet): A strong contender known for its large context window and more 'creative' or 'poetic' writing style. This makes it particularly good for tasks like writing creation myths, poems, or evocative descriptions of landscapes. As noted in a TechCrunch review of the model family, its ability to process massive amounts of text at once means you can upload your entire world bible and ask questions about it.\n- Sudowrite: While marketed for prose writing, its features are a worldbuilder's dream. The 'Story Bible' feature lets you store key information about characters, locations, and lore, which the AI can then reference. Its 'Brainstorm' and 'Describe' tools are perfect for quickly generating ideas or adding sensory details to a scene or location.",
+  "token_estimate": 263
+}

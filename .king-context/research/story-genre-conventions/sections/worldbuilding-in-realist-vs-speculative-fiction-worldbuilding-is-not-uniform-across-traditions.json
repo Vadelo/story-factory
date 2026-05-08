@@ -1,0 +1,30 @@
+{
+  "title": "Worldbuilding Is Not Uniform Across Traditions",
+  "path": "worldbuilding-in-realist-vs-speculative-fiction-worldbuilding-is-not-uniform-across-traditions",
+  "url": "https://bookishbay.com/worldbuilding-in-realist-vs-speculative-fiction/",
+  "keywords": [
+    "Realist Worldbuilding",
+    "Speculative Worldbuilding",
+    "Strategy Concealment",
+    "Reader Contract",
+    "Selection and Omission",
+    "Explanation and Demonstration",
+    "Framework Analysis",
+    "Foregrounding Variation"
+  ],
+  "use_cases": [
+    "Use when analyzing the implicit assumptions between authors and readers in different genres",
+    "Implement when designing the worldbuilding strategy for a new fictional setting",
+    "Configure when balancing the transparency of rules versus the familiarity of the setting",
+    "Use when comparing the risk of complacency in realism against self-indulgence in speculation"
+  ],
+  "tags": [
+    "creative-writing",
+    "literary-theory",
+    "worldbuilding-strategy",
+    "narrative-design"
+  ],
+  "priority": 8,
+  "content": "The capacity to construct a coherent fictional world is not unique to any single genre. It varies by strategy, and these variations reveal the assumptions each tradition makes about its readers.\n\n| Dimension | Realist Worldbuilding | Speculative Worldbuilding |\n| --- | --- | --- |\n| Strategy | Conceals its own operations | Often foregrounds its constructs |\n| Contract with reader | Assumes the world is shared and familiar | Must establish rules explicitly |\n| Risk | Invisibility may become complacency | Visibility may become self-indulgence |\n| Key technique | Selection and omission | Explanation and demonstration |\n\nA single work can employ both strategies, and many contemporary novels do. This framework offers a starting point for analysis, not a rigid classification.",
+  "token_estimate": 168
+}

@@ -1,0 +1,32 @@
+{
+  "title": "My prompting strategy to create short stories",
+  "path": "p-how-to-prompt-narrative-arcs-my-prompting-strategy-to-create-short-stories",
+  "url": "https://winterspeak.substack.com/p/how-to-prompt-narrative-arcs",
+  "keywords": [
+    "Hybrid Approach",
+    "Claude",
+    "GPT-4",
+    "prompting strategy",
+    "character-heavy scenes",
+    "world-building",
+    "final polish pass",
+    "dialogue generation",
+    "plot construction",
+    "emotional moments"
+  ],
+  "use_cases": [
+    "Use when delegating dialogue and character emotions specifically to Claude",
+    "Use when leveraging GPT-4 for structured action sequences and world-building",
+    "Implement when combining multiple LLMs to produce a cohesive narrative work",
+    "Configure when entering literary competitions with AI-assisted workflows"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "creative-writing",
+    "multimodal-strategies",
+    "ai-best-practices"
+  ],
+  "priority": 6,
+  "content": "![Zimran Ahmed's avatar](https://substackcdn.com/image/fetch/$s_!SETK!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F224ed057-8c56-4a88-b568-9769517d4fd7_768x768.jpeg)\n\nZimran Ahmed\n\nJul 08, 2025\n\n1\n\n1\n\nShare\n\nYesterday, I shared a short story I wrote almost entirely with AI. Here are the prompts that I used.\n\nI was prompted (no pun intended) to try this because I saw a $1000 competition for an AI short story. I fed Claude with the competition details and it suggested:\n\n…Hybrid Approach (Best Results)\n\nUse Claude for character-heavy scenes (dialogue, emotional moments)\n\nUse GPT-4 for plot/action scenes and world-building\n\nUse either for final polish pass",
+  "token_estimate": 113
+}

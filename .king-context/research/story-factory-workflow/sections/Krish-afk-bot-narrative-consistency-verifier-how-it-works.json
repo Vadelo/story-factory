@@ -1,0 +1,34 @@
+{
+  "title": "How It Works",
+  "path": "Krish-afk-bot-narrative-consistency-verifier-how-it-works",
+  "url": "https://github.com/Krish-afk-bot/narrative-consistency-verifier",
+  "keywords": [
+    "Claim Extraction",
+    "Evidence Retrieval",
+    "Constraint Analysis",
+    "top-k chunks",
+    "Fatal contradiction",
+    "Classification label",
+    "story_id",
+    "prediction",
+    "rationale",
+    "timeline coverage",
+    "confidence score"
+  ],
+  "use_cases": [
+    "Use when validating fictional character biographies against established canon",
+    "Implement when automated fact-checking of narrative consistency is required",
+    "Configure when extracting atomic claims from long-form text inputs",
+    "Use when retrieving specific textual evidence to support or refute assertions",
+    "Configure when generating formal structured output for contradiction detection"
+  ],
+  "tags": [
+    "validation",
+    "natural-language-processing",
+    "classification",
+    "narrative-analysis"
+  ],
+  "priority": 10,
+  "content": "```\n┌─────────────┐\n│  Backstory  │  \"As a child, Edmond grew up wealthy...\"\n└──────┬──────┘\n       │\n       ▼\n┌─────────────────────┐\n│  Claim Extraction   │  → Claim 1: \"Edmond grew up wealthy\" [CORE]\n└──────┬──────────────┘  → Claim 2: \"Edmond had formal education\" [SIGNIFICANT]\n       │\n       ▼\n┌─────────────────────┐\n│ Evidence Retrieval  │  → Search novel for relevant passages\n└──────┬──────────────┘  → Retrieve top-k chunks with timeline coverage\n       │\n       ▼\n┌─────────────────────┐\n│ Constraint Analysis │  → Claim 1 + Evidence → CONTRADICTS (0.9 confidence)\n└──────┬──────────────┘  → \"Novel states Edmond was poor sailor's son\"\n       │\n       ▼\n┌─────────────────────┐\n│  Classification     │  → Fatal contradiction in CORE claim\n└──────┬──────────────┘  → Decision: CONTRADICTORY (label=0)\n       │\n       ▼\n┌─────────────────────┐\n│  Output Generation  │  story_id,prediction,rationale\n└─────────────────────┘  1,0,\"Proposed backstory contradicts established events\"\n```\n\n---",
+  "token_estimate": 154
+}

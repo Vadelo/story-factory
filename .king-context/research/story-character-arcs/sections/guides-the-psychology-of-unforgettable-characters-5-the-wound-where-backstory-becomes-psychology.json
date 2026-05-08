@@ -1,0 +1,34 @@
+{
+  "title": "5. The Wound: Where Backstory Becomes Psychology",
+  "path": "guides-the-psychology-of-unforgettable-characters-5-the-wound-where-backstory-becomes-psychology",
+  "url": "https://cipherwrite.com/guides/the-psychology-of-unforgettable-characters",
+  "keywords": [
+    "The Wound",
+    "The Lie",
+    "Character Arc",
+    "Fatal Flaw",
+    "Backstory",
+    "The Ghost",
+    "Psychology",
+    "Revelation Timing",
+    "Emotional Stakes",
+    "Avoidance Patterns",
+    "Self-sabotage"
+  ],
+  "use_cases": [
+    "Use when developing the origin story of a character's internal conflict",
+    "Implement when creating empathy for a morally ambiguous or flawed protagonist",
+    "Configure when planning the pacing of backstory revelations throughout a narrative",
+    "Use when justifying a character's irrational behaviors or self-sabotaging tendencies",
+    "Implement when defining the emotional requirements for a character's growth arc"
+  ],
+  "tags": [
+    "Character Development",
+    "Story Structure",
+    "Narrative Theory",
+    "Psychology"
+  ],
+  "priority": 10,
+  "content": "The \"wound\" (sometimes called the \"ghost\") is a specific past event that created The Lie your character believes. It is the origin story of their fatal flaw. Without a wound, a character's flaw feels arbitrary; with one, it feels inevitable.\n\n- Function: The wound creates empathy (we understand why they are the way they are) and provides the emotional stakes for the arc (overcoming the wound = completing the arc)\n- Revelation Timing: The wound should be revealed gradually — not in an info-dump, but through behavior, avoidance patterns, and emotionally charged reactions to present events\n- Example: In Good Will Hunting, Will's childhood abuse (the wound) created the lie \"Everyone will eventually abandon me,\" which drives his self-sabotage in relationships and career\n\nUse this template for every major character in your novel. Not every field needs a detailed answer immediately — treat it as a living document.",
+  "token_estimate": 196
+}

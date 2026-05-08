@@ -1,0 +1,31 @@
+{
+  "title": "ABSTRACT",
+  "path": "articles-PMC5652896-abstract",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5652896/",
+  "keywords": [
+    "character type detection",
+    "screenplay dialog analysis",
+    "linguistic properties",
+    "semantic graphs",
+    "linguistic markers of expressivity",
+    "social role markers",
+    "utterance analysis",
+    "interactive characteristics",
+    "communication characteristics"
+  ],
+  "use_cases": [
+    "Use when identifying character archetypes from fictional screenplays",
+    "Implement when augmenting linguistic analysis with semantic graph weighting",
+    "Configure when analyzing social roles and expressivity in dialog sequences",
+    "Use when benchmarking new character detection models against integrated feature sets"
+  ],
+  "tags": [
+    "natural-language-processing",
+    "computational-linguistics",
+    "social-network-analysis",
+    "data-science"
+  ],
+  "priority": 7,
+  "content": "We study the detection of character types from fictional dialog texts such as screenplays. As approaches based on the analysis of utterances’ linguistic properties are not sufficient to identify all fictional character types, we develop an integrative approach that complements linguistic analysis with interactive and communication characteristics, and show that it can improve the identification performance. The interactive characteristics of fictional characters are captured by the descriptive analysis of semantic graphs weighted by linguistic markers of expressivity and social role. For this approach, we introduce a new data set of action movie character types with their corresponding sequences of dialogs. The evaluation results demonstrate that the integrated approach outperforms baseline approaches on the presented data set. Comparative in-depth analysis of a single screenplay leads on to the discussion of possible limitations of this approach and to directions for future research.",
+  "token_estimate": 186
+}

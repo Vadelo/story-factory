@@ -1,0 +1,33 @@
+{
+  "title": "The Voice DNA system",
+  "path": "aihxp-scriven-the-voice-dna-system",
+  "url": "https://github.com/aihxp/scriven",
+  "keywords": [
+    "/scr:profile-writer",
+    "STYLE-GUIDE.md",
+    "Voice DNA",
+    "narrative perspective",
+    "vocabulary register",
+    "figurative density",
+    "image systems",
+    "sacred voice registers",
+    "atomic unit drafting",
+    "drafter agent invocation"
+  ],
+  "use_cases": [
+    "Use when you need to maintain narrative consistency across a long-form manuscript",
+    "Implement when mimicking a specific author's unique prose style and sentence architecture",
+    "Configure when drafting specialized content using one of the 10 sacred voice registers",
+    "Use when establishing custom 'Do/don't/consider' rules for AI-assisted writing",
+    "Implement when generating isolated scenes or subsections that must adhere to a global style guide"
+  ],
+  "tags": [
+    "configuration",
+    "content-generation",
+    "personalization",
+    "best-practices"
+  ],
+  "priority": 10,
+  "content": "Scriven's core insight: drafted prose should sound like *you*, not like an AI. Before drafting begins, `/scr:profile-writer` builds a detailed voice profile across 15+ dimensions:\n\n- Narrative perspective, tense, narrator stance\n- Sentence architecture, paragraph rhythm\n- Vocabulary register, figurative density, recurring image systems\n- Dialogue style, character voice differentiation\n- Pacing, transitions, emotional range\n- Do/don't/consider rules specific to the writer\n\nThis profile is saved as `STYLE-GUIDE.md` and loaded into every drafter agent invocation. The drafter writes one atomic unit per fresh context -- a scene, a subsection, a passage -- with the style guide as its primary reference. Voice stays consistent across hundreds of scenes.\n\nFor sacred and historical texts, Voice DNA is supplemented by 10 sacred voice registers (prophetic, wisdom, legal, liturgical, narrative-historical, apocalyptic, epistolary, psalmic, parabolic, didactic).\n\n---",
+  "token_estimate": 175
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Iceberg Principle",
+  "path": "characters-sound-alike-the-iceberg-principle",
+  "url": "https://masterofworlds.com/characters-sound-alike/",
+  "keywords": [
+    "iceberg theory",
+    "subtext",
+    "character history",
+    "on-the-nose dialogue",
+    "dialogue tags",
+    "the Iceberg Principle",
+    "character psyche",
+    "action beats",
+    "writing brevity"
+  ],
+  "use_cases": [
+    "Implement when writing character dialogue to ensure depth through subtext",
+    "Use when editing manuscripts to eliminate redundant or 'telling' dialogue tags",
+    "Configure when developing character backstories to influence visible narrative behavior",
+    "Use when replacing verbal descriptions with physical character actions"
+  ],
+  "tags": [
+    "creative-writing",
+    "character-development",
+    "dialogue-optimization",
+    "narrative-theory"
+  ],
+  "priority": 9,
+  "content": "Hemingway called it the iceberg theory. The dignity of movement of an iceberg comes from only one-eighth of it being above water.\n\nYour dialogue is the eighth above water. The other seven-eighths (character history, desires, fears, relationships, secrets) stay submerged but shape everything visible.\n\nWhen you know your characters deeply, subtext happens naturally. They can’t say everything they think because real people don’t. The gap between thought and speech becomes automatic.\n\nWhen you don’t know your characters, you write on-the-nose dialogue because you’re discovering what they think as they say it. The thought and speech match because both are being invented simultaneously.\n\nNew writers overwrite tags.\n\n“I don’t believe you,” she said skeptically.\n\nThe dialogue already conveys skepticism. The tag explains what we already understood. Cut “skeptically.”\n\nBetter: “I don’t believe you.”\n\nEven better when action replaces the tag entirely:\n\nShe crossed her arms. “I don’t believe you.”\n\nThe crossed arms tell us the tone. The tag becomes optional.",
+  "token_estimate": 211
+}

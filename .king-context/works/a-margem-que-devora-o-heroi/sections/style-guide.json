@@ -1,0 +1,19 @@
+{
+  "title": "Style Guide",
+  "path": "style-guide",
+  "url": "local://works/a-margem-que-devora-o-heroi#style-guide",
+  "keywords": [
+    "style",
+    "voice"
+  ],
+  "use_cases": [
+    "Recall style guide for story continuation"
+  ],
+  "tags": [
+    "style",
+    "voice"
+  ],
+  "priority": 9,
+  "content": "{\n  \"pov\": \"terceira pessoa próxima centrada em Davi\",\n  \"tense\": \"passado\",\n  \"style\": \"light novel/webnovel em pt-BR, frases visuais, tensão metalinguística, ritmo ágil, imagens fortes e humor amargo discreto\",\n  \"dialogue\": \"curto, carregado de subtexto\",\n  \"meta_language\": \"usar margem, comentários, notas de revisão, versões cortadas e frases recuperadas como elementos físicos da cena\"\n}",
+  "token_estimate": 66
+}

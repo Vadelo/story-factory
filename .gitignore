@@ -1,0 +1,16 @@
+# Secrets
+.env
+.king-context/.env
+
+# Local King Context runtime/cache
+.king-context/core/
+.king-context/_temp/
+.king-context/_learned/
+
+# Local archives or generated bundles
+*.zip
+
+# Python/editor noise
+__pycache__/
+*.pyc
+.DS_Store

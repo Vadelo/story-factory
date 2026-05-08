@@ -1,0 +1,29 @@
+{
+  "title": "Primary tabs",
+  "path": "node-43.html-primary-tabs",
+  "url": "https://www.lhn.uni-hamburg.de/node/43.html",
+  "keywords": [
+    "Computational Narratology",
+    "Inderjeet Mani",
+    "View active tab",
+    "Revisions",
+    "Primary tabs",
+    "Document versioning",
+    "narrative theory",
+    "computational linguistics"
+  ],
+  "use_cases": [
+    "Use when navigating the primary content tabs of a narratological entry",
+    "Implement when tracking historical revisions of the computational narratology documentation",
+    "Use when accessing printer-friendly or PDF versions of the scholarly content"
+  ],
+  "tags": [
+    "narratology",
+    "documentation",
+    "digital-humanities",
+    "content-management"
+  ],
+  "priority": 6,
+  "content": "- View(active tab)\n- Revisions\n\n \n\n# Computational Narratology\n\nInderjeet Mani\n\nCreated: 28. January 2013Revised: 15. September 2013\n\n![Printer-friendly version](https://www.lhn.uni-hamburg.de/sites/all/modules/print/icons/print_icon.gif \"Printer-friendly version\")\n\n![PDF version](https://www.lhn.uni-hamburg.de/sites/all/modules/print/icons/pdf_icon.gif \"PDF version\")",
+  "token_estimate": 33
+}

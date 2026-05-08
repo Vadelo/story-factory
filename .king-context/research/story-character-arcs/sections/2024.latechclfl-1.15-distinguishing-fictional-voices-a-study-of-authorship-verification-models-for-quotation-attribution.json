@@ -1,0 +1,32 @@
+{
+  "title": "Distinguishing Fictional Voices: a Study of Authorship Verification Models for Quotation Attribution",
+  "path": "2024.latechclfl-1.15-distinguishing-fictional-voices-a-study-of-authorship-verification-models-for-quotation-attribution",
+  "url": "https://www.aclanthology.org/2024.latechclfl-1.15/",
+  "keywords": [
+    "Authorship Verification",
+    "Quotation Attribution",
+    "Project Dialogism Novel Corpus",
+    "Stylometric Models",
+    "Direct Speech",
+    "Stylistic Representations",
+    "Semantic-only Models",
+    "Natural Language Processing",
+    "Computational Linguistics",
+    "Character Encoding"
+  ],
+  "use_cases": [
+    "Use when implementing speaker detection for direct speech in literary texts",
+    "Implement when evaluating the efficacy of Authorship Verification models for character identification",
+    "Configure when combining stylistic and topical information for character distinction",
+    "Use when researching stylometric features in the Project Dialogism Novel Corpus"
+  ],
+  "tags": [
+    "nlp",
+    "computational-linguistics",
+    "literature-analysis",
+    "machine-learning"
+  ],
+  "priority": 7,
+  "content": "Gaspard Michel, Elena Epure, Romain Hennequin, Christophe Cerisara\n\n---\n\n##### Abstract\n\nRecent approaches to automatically detect the speaker of an utterance of direct speech often disregard general information about characters in favor of local information found in the context, such as surrounding mentions of entities. In this work, we explore stylistic representations of characters built by encoding their quotes with off-the-shelf pretrained Authorship Verification models in a large corpus of English novels (the Project Dialogism Novel Corpus). Results suggest that the combination of stylistic and topical information captured in some of these models accurately distinguish characters among each other, but does not necessarily improve over semantic-only models when attributing quotes. However, these results vary across novels and more investigation of stylometric models particularly tailored for literary texts and the study of characters should be conducted.\n\nAnthology ID:2024.latechclfl-1.15Volume: Proceedings of the 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2024) Month:MarchYear:2024Address:St. Julians, MaltaEditors: Yuri Bizzoni, Stefania Degaetano-Ortlieb, Anna Kazantseva, Stan Szpakowicz Venues: LaTeCH-CLfL| WS SIG: SIGHUM Publisher:Association for Computational LinguisticsNote:Pages:160–171Language:URL: https://aclanthology.org/2024.latechclfl-1.15/ DOI: 10.18653/v1/2024.latechclfl-1.15 Bibkey:michel-etal-2024-distinguishingCite (ACL):Gaspard Michel, Elena Epure, Romain Hennequin, and Christophe Cerisara. 2024. Distinguishing Fictional Voices: a Study of Authorship Verification Models for Quotation Attribution. In Proceedings of the 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2024), pages 160–171, St. Julians, Malta. Association for Computational Linguistics.Cite (Informal): Distinguishing Fictional Voices: a Study of Authorship Verification Models for Quotation Attribution(Michel et al., LaTeCH-CLfL 2024)Copy Citation:BibTeX Markdown MODS XML Endnote More options…PDF: https://aclanthology.org/2024.latechclfl-1.15.pdf Supplementarymaterial: 2024.latechclfl-1.15.SupplementaryMaterial.zip Video: https://aclanthology.org/2024.latechclfl-1.15.mp4\n\nPDF Cite Search Supplementarymaterial Video Fix data\n\n---",
+  "token_estimate": 359
+}

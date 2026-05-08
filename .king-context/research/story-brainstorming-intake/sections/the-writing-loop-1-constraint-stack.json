@@ -1,0 +1,34 @@
+{
+  "title": "1. Constraint stack",
+  "path": "the-writing-loop-1-constraint-stack",
+  "url": "https://joelclaw.com/the-writing-loop",
+  "keywords": [
+    "Constraint stack",
+    "resourceId",
+    "MDX component mapping",
+    "deterministic hashing",
+    "feedbackItems table",
+    "soft-delete",
+    "data-paragraph-id",
+    "Voice file",
+    "Guardrail file",
+    "telemetry",
+    "upsert"
+  ],
+  "use_cases": [
+    "Implement when enforcing specific AI personality traits and banning specific phrases",
+    "Configure when setting up structured safety boundaries for LLM generation",
+    "Use when building a real-time feedback loop for paragraph-level content editing",
+    "Implement when storing versioned content in a database with stable resource identifiers",
+    "Use when mapping MDX elements to unique HTML IDs for UI targeting"
+  ],
+  "tags": [
+    "architecture",
+    "data-modeling",
+    "ai-configuration",
+    "frontend-implementation"
+  ],
+  "priority": 9,
+  "content": "Three files, each adding specificity. Version-controlled in your repo.\n\nVoice file — how the AI speaks. Not “be helpful” — specific patterns:\n\n- Sentence length distribution (mostly 1-3 sentence paragraphs)\n- Profanity policy (when it’s texture vs. when it’s noise)\n- Banned phrases (“In this article I will”, “Let me be real”, “Key takeaways”)\n- Opening pattern (hooks, not thesis statements)\n- Ending pattern (abrupt, no forced wrap-up)\n\nGuardrail file — what the AI cannot do:\n\n- Cannot fabricate the author’s opinions, experiences, or philosophy\n- Cannot generate worldview statements attributed to a real person\n- Cannot invent temporal claims without checking source data\n- Cannot invent anecdotes\n- Must flag and log uncertainty as`[TODO: author's take on X]`, with structured telemetry for every unresolved claim\n\nStyle reference — patterns derived from the author’s actual published work. The more specific, the better. Include anti-patterns (what the author never does) alongside positive examples.\n\nThese files are loaded as context when any agent writes content. They are the training data — not weights, not RLHF, just text files.\n\nArticles live in a database, not the filesystem. Requirements:\n\n- Upsert by stable`resourceId`(e.g.`article:the-writing-loop`)\n- Store content as MDX string in a`fields` JSON column\n- Support soft-delete (set`deletedAt`, don’t destroy)\n- Real-time subscriptions for the feedback UI\n\nAny database works. Convex, Supabase, PlanetScale, Turso. The key property is that content updates don’t require a deploy.\n\nEvery paragraph in rendered content gets a stable identifier:\n\n```\n// In your MDX component map\np: ({ children, ...props }) => {\n  const id = hash(textContent(children))\n  return <p data-paragraph-id={id} {...props}>{children}</p>\n}\n```\n\nThe hash must be deterministic — same content, same ID. This is what the feedback UI targets.\n\nTwo elements:\n\nComment editor — a portal that mounts directly after the target paragraph. Click a paragraph, editor appears below it. Submit stores a feedback record linked to the article’s`resourceId`.\n\nStatus indicator — a small badge (pulse dot, toast, whatever) that shows the feedback pipeline state: queued → processing → applied/failed. Real-time via database subscriptions. Auto-hides after resolution.\n\nA table with these fields:\n\n```\nfeedbackItems:\n  resourceId  string   # links to the article\n  content     string   # the feedback text\n  status      enum     # pending → processing → applied | failed\n  createdAt   number\n  resolvedAt  number?\n```\n\nIndex on`resourceId` and`status`. The`create` mutation writes the record and fires an event to trigger the pipeline.",
+  "token_estimate": 517
+}

@@ -1,0 +1,34 @@
+{
+  "title": "2.1 Dataset Construction",
+  "path": "html-2603.05890v1-2-1-dataset-construction",
+  "url": "https://arxiv.org/html/2603.05890v1",
+  "keywords": [
+    "Dataset Construction",
+    "LongBench",
+    "LLM Rewriting",
+    "minhash-based deduplication",
+    "long-form narrative generation",
+    "o4-mini",
+    "ConStory-Bench",
+    "8,000–10,000 words",
+    "continuation",
+    "expansion",
+    "completion",
+    "WikiPlots"
+  ],
+  "use_cases": [
+    "Use when benchmarking models on ultra-long-form creative writing tasks up to 10,000 words",
+    "Implement when developing specialized prompts for story continuation, expansion, or completion",
+    "Configure when training models using high-quality prompt-narrative pairs derived from diverse public corpora",
+    "Use when applying MinHash-based deduplication to large-scale narrative datasets"
+  ],
+  "tags": [
+    "dataset-design",
+    "prompt-engineering",
+    "machine-learning-benchmarks",
+    "natural-language-generation"
+  ],
+  "priority": 9,
+  "content": "##### Sources and Selection.\n\nWe collect seed stories from seven diverse public corpora: LongBench Bai et al. (2024b), LongBench_Write Bai et al. (2024c), LongLamp Kumar et al. (2024), TellMeAStory Akoury et al. (2020), WritingBench Wu et al. (2025c), WritingPrompts Fan et al. (2018), and WikiPlots Riedl (2017). We extract both creative writing queries and full-length narratives from these corpora.\n\n##### Prompt Construction via LLM Rewriting.\n\nWe convert the collected stories into task-specific prompts to elicit long-form narrative generation from models. For each story, we first assign one of four task types based on its narrative structure and content: generation - produce a free-form narrative given only a minimal plot setup, continuation - extend an initial story fragment into a complete, coherent narrative, expansion - develop a long-form story from a concise yet relatively complete plot outline by elaborating implicit details and events, completion - write a full story with predefined beginning and ending, given minimal guidance for the intervening plot. Using o4-mini, we then rewrite each story into a prompt tailored to its assigned task type, grounding prompts in authentic narrative elements from the source stories while constraining target generation length to 8,000–10,000 words. Finally, we perform quality control through: (i) MinHash-based deduplication to remove near-duplicate prompts, and (ii) filtering low-quality or trivial cases through manual inspection and automated heuristics. This process yields 2,000 high-quality prompts distributed across the four task types (Table 1). Detailed task specifications and representative prompt examples are provided in Appendix A.\n\nTable 1: Statistics of ConStory-Bench across four task types.\n\n| Task Type | Count | Percentage |\n| --- | --- | --- |\n| Generation | 751 | 37.5% |\n| Continuation | 432 | 21.6% |\n| Expansion | 422 | 21.1% |\n| Completion | 395 | 19.8% |\n| Total | 2,000 | 100% |",
+  "token_estimate": 405
+}

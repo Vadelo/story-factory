@@ -1,0 +1,30 @@
+{
+  "title": "Phase 2: The Bible",
+  "path": "architecting-context-in-creative-ai-pipelines-fb44e35ccb46-phase-2-the-bible",
+  "url": "https://building.theatlantic.com/architecting-context-in-creative-ai-pipelines-fb44e35ccb46",
+  "keywords": [
+    "Transformation Bible",
+    "Narrative Architect",
+    "Master Outline",
+    "Source of Truth",
+    "Sliding Window",
+    "Global Visual Tone",
+    "Dialogue Style Guide",
+    "Genre Mapping"
+  ],
+  "use_cases": [
+    "Configure when establishing a consistent rule set for terminology mapping",
+    "Use when transforming narrative structures to fit a specific genre requirement",
+    "Implement when maintaining logical consistency using a Sliding Window context",
+    "Use when merging scenes or removing narrative filler to improve story flow"
+  ],
+  "tags": [
+    "content-transformation",
+    "narrative-design",
+    "workflow-phases",
+    "automation-rules"
+  ],
+  "priority": 9,
+  "content": "This is where the magic happens. We take that “Master Outline” (all the analysis from Phase 1), combine it with our Phase 0 summary and the user’s directives, and feed it to a “Narrative Architect” persona.\n\n- The Output: This is a strict set of rules. It maps “John” to “ZEUS,” “Office” to “THRONE ROOM,” and “iPhone” to “Scroll”. It defines the global visual tone and the specific dialogue style guide for the new genre.\n- The Goal: Create a single, consistent “Source of Truth” called the Transformation Bible.\n\nSometimes you want to do more than just swap words; you want to change the structure.\n\n- The Context: To ensure the logic holds up, we use a “Sliding Window” of the last 5 beats.\n- The Goal: Restructure the narrative flow, merging scenes or cutting filler, based on the new genre requirements.",
+  "token_estimate": 188
+}

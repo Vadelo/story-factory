@@ -1,0 +1,34 @@
+{
+  "title": "2.2 External Knowledge Integration for LLMs",
+  "path": "html-2601.03785v1-2-2-external-knowledge-integration-for-llms",
+  "url": "https://arxiv.org/html/2601.03785v1",
+  "keywords": [
+    "Retrieval-Augmented Generation",
+    "RAG",
+    "Knowledge Graphs",
+    "KGQA",
+    "Self-RAG",
+    "FLARE",
+    "Topic Loom",
+    "Trace Weaver",
+    "Membox architecture",
+    "multi-hop exploration",
+    "context injection",
+    "query refinement"
+  ],
+  "use_cases": [
+    "Use when grounding LLM responses in external, real-time knowledge bases to reduce hallucinations",
+    "Implement when multi-hop reasoning over structured Knowledge Graphs is required for complex QA",
+    "Configure when agent-like retrieval decisions are needed based on intermediate LLM reasoning states",
+    "Use when extracting events and linking long-range topic recurrences in dialogue systems"
+  ],
+  "tags": [
+    "Information Retrieval",
+    "LLM Architecture",
+    "Knowledge Management",
+    "RAG"
+  ],
+  "priority": 10,
+  "content": "Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by grounding responses in external knowledge Wang et al. (2023); Modarressi et al. (2023). While early RAG systems rely on static document retrieval and context injection, recent work introduces adaptive mechanisms—such as query refinement, re-ranking, and learnable retrieval policies—to improve relevance and reasoning fidelity Lee et al. (2024); Zhong et al. (2024). Notably, agent-like RAG frameworks (e.g., Self-RAG Asai et al. (2024) and FLARE Jiang et al. (2023)) enable LLMs to decide when and what to retrieve based on intermediate reasoning states. A key extension integrates structured knowledge from Knowledge Graphs (KGs). Early approaches embed KG facts during training Zhang and others (2019), whereas modern methods dynamically retrieve or traverse KGs at inference time. Retrieval-augmented KGQA systems Li and others (2023); Linders and Tomczak (2025); Baek et al. (2023) fetch relevant triples, while agent-based frameworks—such as ToG Sun et al. (2024), UniKGQA Jiang et al. (2022), PoG Chen et al. (2024), FiSKE Tao et al. (2025b), and GG-explore Tao et al. (2025a)—enable iterative, multi-hop exploration of KG subgraphs for complex question answering. These advances reflect a broader shift toward active, reasoning-driven retrieval in LLM augmentation Cohen and others (2023); Sen and others (2021); Saffari and others (2021).\n\nFigure 2: Overview of the Membox architecture — the Topic Loom groups locally continuous dialogue into memboxes with event extraction, while the Trace Weaver links events across memboxes to capture long‑range topic recurrence.\n\n![Refer to caption](https://arxiv.org/html/x2.png)",
+  "token_estimate": 320
+}

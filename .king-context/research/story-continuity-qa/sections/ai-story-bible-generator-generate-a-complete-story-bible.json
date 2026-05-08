@@ -1,0 +1,31 @@
+{
+  "title": "Generate a complete story bible",
+  "path": "ai-story-bible-generator-generate-a-complete-story-bible",
+  "url": "https://www.inkfluenceai.com/ai-story-bible-generator",
+  "keywords": [
+    "story bible",
+    "genre selection",
+    "world rules",
+    "plot threads",
+    "lore generation",
+    "AI novel writer",
+    "character templates",
+    "setting development",
+    "content regeneration"
+  ],
+  "use_cases": [
+    "Use when initiating a new creative writing project to establish foundational elements",
+    "Implement when brainstorming structural components like lore, characters, and plot arcs",
+    "Configure when transitioning a generated conceptual framework into a full manuscript draft",
+    "Use when experimenting with different genre tropes and world-building constraints"
+  ],
+  "tags": [
+    "content-generation",
+    "creative-writing",
+    "onboarding",
+    "world-building"
+  ],
+  "priority": 10,
+  "content": "Pick a genre and click generate. Each click produces a fresh bible with characters, world rules, setting, lore, and plot threads. Regenerate as many times as you want until something clicks.\n\nGenre\n\nFantasy Mystery Sci-Fi Horror Romance Literary\n\nGenerate story bible\n\nPick a genre, click generate, and your story bible will appear here.\n\nLike the bible? Use it as the foundation for your novel in the AI novel writer.\n\nWrite the full novel\n\nThe bible",
+  "token_estimate": 99
+}
