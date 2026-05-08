@@ -1,10 +1,50 @@
-# Story Factory com King Context
+# Story Factory with King Context
 
-Este projeto é um exemplo prático de uso do **King Context** com uma skill do Codex chamada `story-factory`.
+This repository is a practical King Context use case for creating stories instead of PDFs.
 
-A ideia é simples: em vez de gerar PDFs, o fluxo gera histórias em Markdown/JSON e mantém memória longa da obra dentro de um corpus próprio. Assim, cada capítulo novo pode consultar o que já aconteceu, quais regras foram criadas, quais personagens mudaram e quais pontas ainda estão abertas.
+The main Codex skill is `story-factory`. It can brainstorm, plan, write, continue, revise, and preserve long-form narrative context by saving each work as a dedicated King Context `works` corpus.
 
-## O Que Fica No Projeto
+## Quick Start
+
+In Codex, simply mention the skill in your prompt with `$story-factory`.
+
+Example:
+
+```text
+$story-factory use this skill to create an isekai story in light novel style.
+```
+
+More examples:
+
+```text
+$story-factory brainstorm a dark fantasy webnovel about a cursed cartographer.
+```
+
+```text
+$story-factory create chapter 1 of a mystery light novel and save Markdown, JSON, and work memory.
+```
+
+```text
+$story-factory continue a-margem-que-devora-o-heroi with chapter 3 using the existing work corpus.
+```
+
+```text
+$story-factory revise chapter 2 and update the work memory corpus afterward.
+```
+
+When the skill runs correctly, Codex should:
+
+1. Read the `story-factory` instructions.
+2. Query the permanent story-writing corpora.
+3. Query or create the work-specific corpus.
+4. Ask only the missing high-impact brainstorming questions.
+5. Write the requested story output.
+6. Save Markdown and JSON files.
+7. Append chapter memory to the work corpus.
+8. Reindex the work corpus.
+9. Review continuity and memory retrieval.
+
+## What This Project Contains
 
 ```text
 .codex/agents/skills/story-factory/
@@ -35,15 +75,15 @@ output/a-margem-que-devora-o-heroi/
   project.json
 ```
 
-O arquivo `.king-context/.env` fica fora do Git. Use `.king-context/.env.example` como base.
+The `.king-context/.env` file is intentionally not committed. Use `.king-context/.env.example` as the template.
 
-## Como Funciona
+## How The Context System Works
 
-O `story-factory` usa três camadas de contexto.
+`story-factory` uses three context layers.
 
-1. **Corpora permanentes de criação**
+## 1. Permanent Research Corpora
 
-Ficam em `research` e servem como base geral para qualquer história:
+These live in the King Context `research` store and provide reusable knowledge for story creation:
 
 ```text
 story-factory-workflow
@@ -56,90 +96,110 @@ story-prose-style-voice
 story-continuity-qa
 ```
 
-2. **Corpora variáveis**
+They cover story workflow, brainstorming, plot, characters, worldbuilding, genre, prose style, and continuity.
 
-São criados quando a história precisa de pesquisa específica, como um período histórico, profissão, cultura, subgênero ou referência técnica.
+## 2. Variable Research Corpora
 
-Padrão de nome:
+These are created when a specific story needs extra research, such as a historical period, profession, culture, genre niche, technical domain, or factual setting detail.
+
+Recommended naming pattern:
 
 ```text
 story-variable-<work-slug>-<topic-slug>
 ```
 
-3. **Corpus da obra**
+## 3. Work Memory Corpus
 
-Cada obra tem um corpus próprio em `works`:
+Each story gets its own dedicated corpus in `works`:
 
 ```text
 .king-context/data/works/<work-slug>.json
 .king-context/works/<work-slug>/
 ```
 
-Esse corpus guarda premissa, temas, personagens, regras, linha do tempo, estilo, capítulos, resumos, mudanças de cânone e riscos de continuidade.
+The work corpus stores:
 
-## Exemplo Criado
+- premise
+- themes
+- characters
+- relationships
+- world rules
+- timeline
+- style guide
+- chapter text
+- chapter summaries
+- canon changes
+- character states
+- unresolved threads
+- continuity risks
 
-A obra de teste é:
+This is what lets Codex continue a story later without relying only on the current chat history.
+
+## Included Example Work
+
+The included test work is:
 
 ```text
 a-margem-que-devora-o-heroi
 ```
 
-Premissa: Davi Noh morre e acorda preso na margem textual de uma light novel/manhwa de regressão que ele ajudou a revisar. Ele não tem corpo, sistema ou status. Seu poder é editar frases, recuperar versões cortadas e disputar a agência narrativa com Kael, o herói regressor original.
+English summary:
 
-Capítulos incluídos:
+Davi Noh dies and wakes up trapped in the textual margin of a regression light novel/manhwa he once edited. He has no body, no system, and no status screen. His power is editorial: he can alter phrases, recover cut versions, interfere with review comments, and return agency to characters who were flattened by the original hero-centered narrative.
 
-- `chapter-001-light-novel.md`: Davi acorda na margem, salva Yerin de virar gatilho emocional da entrada de Kael e descobre que Kael também consegue escrever comentários.
-- `chapter-002-light-novel.md`: Kael usa comentários para bloquear Davi, o botão `resolver conversa` vira ameaça real, Yerin recebe uma fala cortada de volta e foge para o Pavilhão dos Arquivos.
+Included chapters:
 
-## Passo A Passo Para Usar
+- `chapter-001-light-novel.md`: Davi wakes in the margin, prevents Yerin from becoming emotional fuel for Kael's heroic entrance, and discovers that Kael can also write review comments in the margin.
+- `chapter-002-light-novel.md`: Kael weaponizes review comments, the `resolve conversation` button becomes a real threat, Yerin receives a cut line back, and she escapes toward the Archive Pavilion.
 
-No Windows/PowerShell, use os wrappers `.cmd`.
+## Useful Commands
 
-Listar os corpora permanentes:
+On Windows/PowerShell, prefer the `.cmd` wrappers.
+
+List permanent research corpora:
 
 ```powershell
 .\.king-context\bin\kctx.cmd list research
 ```
 
-Listar obras:
+List story works:
 
 ```powershell
 .\.king-context\bin\kctx.cmd list works
 ```
 
-Buscar contexto da obra:
+Search the example work corpus:
 
 ```powershell
-.\.king-context\bin\kctx.cmd search "Yerin Kael resolver conversa" --doc a-margem-que-devora-o-heroi --source works
+.\.king-context\bin\kctx.cmd search "Yerin Kael resolve conversation" --doc a-margem-que-devora-o-heroi --source works
 ```
 
-Ler uma seção específica:
+Read a specific memory section:
 
 ```powershell
 .\.king-context\bin\kctx.cmd read a-margem-que-devora-o-heroi chapter-002-light-novel-summary --source works
 ```
 
-Verificar o texto completo de um capítulo no corpus:
+Preview the full chapter text stored inside the corpus:
 
 ```powershell
 .\.king-context\bin\kctx.cmd read a-margem-que-devora-o-heroi chapter-002-light-novel-text --source works --preview
 ```
 
-## Criando Um Novo Capítulo
+## Creating A New Chapter
 
-O fluxo esperado da skill é:
+The expected `story-factory` workflow is:
 
-1. Consultar os corpora permanentes em `research`.
-2. Consultar o corpus da obra em `works`.
-3. Escrever o capítulo em Markdown.
-4. Criar um JSON do capítulo.
-5. Criar um pacote de memória do capítulo.
-6. Anexar esse pacote ao corpus da obra.
-7. Reindexar a obra.
-8. Fazer uma revisão de continuidade.
+1. Search permanent corpora in `research`.
+2. Search the specific work corpus in `works`.
+3. Write the chapter in Markdown.
+4. Create a chapter JSON file.
+5. Create a chapter memory packet.
+6. Append the packet to the work corpus.
+7. Reindex the work corpus.
+8. Run a continuity review.
 
-Exemplo para anexar a memória de um capítulo:
+Append chapter memory:
 
 ```powershell
 python .codex\agents\skills\story-factory\scripts\append_chapter_memory.py `
@@ -147,19 +207,19 @@ python .codex\agents\skills\story-factory\scripts\append_chapter_memory.py `
   output\a-margem-que-devora-o-heroi\chapter-002-light-novel.memory.json
 ```
 
-Depois reindexe:
+Reindex the work:
 
 ```powershell
 .\.king-context\bin\kctx.cmd index .king-context\data\works\a-margem-que-devora-o-heroi.json --source works
 ```
 
-Confirme a quantidade de seções:
+Confirm the indexed section count:
 
 ```powershell
 .\.king-context\bin\kctx.cmd list works
 ```
 
-No teste final, a obra ficou com `29` seções. Cada capítulo adiciona 7 seções de memória:
+In the final test, the example work has `29` indexed sections. Each chapter memory packet adds these 7 standard King Context sections:
 
 ```text
 chapter-<id>-text
@@ -171,11 +231,11 @@ chapter-<id>-threads
 chapter-<id>-continuity
 ```
 
-## Recriando Os Corpora Permanentes
+## Rebuilding The Permanent Corpora
 
-Os corpora já estão incluídos neste projeto, mas a skill também sabe recriá-los quando necessário.
+The permanent corpora are already included, but the skill can rebuild missing corpora when API keys are configured.
 
-Configure `.king-context/.env` com:
+Create `.king-context/.env` from `.king-context/.env.example`, then set:
 
 ```text
 EXA_API_KEY=
@@ -184,19 +244,19 @@ RESEARCH_PROVIDER=openrouter
 ENRICH_PROVIDER=openrouter
 ```
 
-Depois rode:
+Run:
 
 ```powershell
 python .codex\agents\skills\story-factory\scripts\bootstrap_research_corpora.py
 ```
 
-Para ver o que seria executado sem chamar APIs:
+Preview the commands without API calls:
 
 ```powershell
 python .codex\agents\skills\story-factory\scripts\bootstrap_research_corpora.py --dry-run
 ```
 
-Também é possível usar Ollama local quando o OpenRouter estiver sem limite:
+You can also use local Ollama if OpenRouter is unavailable or rate-limited:
 
 ```powershell
 $env:RESEARCH_PROVIDER='ollama'
@@ -207,47 +267,47 @@ $env:FILTER_PROVIDER='ollama'
 $env:FILTER_MODEL='gpt-oss:20b'
 ```
 
-## O Que Foi Testado
+## What Was Tested
 
-1. As skills originais foram adaptadas para `.codex/agents/skills`.
-2. A skill `story-factory` foi criada com scripts, referências, seeds de corpora e workflow.
-3. O King Context foi ajustado para suportar o store `works`, separado de `research`.
-4. Foram criados 8 corpora permanentes de criação de histórias.
-5. Foi criada a obra `a-margem-que-devora-o-heroi`.
-6. O capítulo 1 foi gerado em estilo light novel/webnovel.
-7. O capítulo 1 foi salvo no corpus da obra com memória estruturada.
-8. O capítulo 2 foi gerado consultando:
-   - corpus da obra;
+1. Claude-oriented skills were adapted into `.codex/agents/skills`.
+2. The `story-factory` skill was created with scripts, references, corpus seeds, and workflow rules.
+3. King Context was extended to support a separate `works` store.
+4. Eight permanent story-writing corpora were generated.
+5. The example work `a-margem-que-devora-o-heroi` was created.
+6. Chapter 1 was generated in light novel/webnovel style.
+7. Chapter 1 was saved into the work corpus with structured chapter memory.
+8. Chapter 2 was generated after retrieving:
+   - the work corpus;
    - `story-structure-plot`;
    - `story-character-arcs`;
    - `story-continuity-qa`.
-9. O capítulo 2 foi salvo em Markdown, JSON e pacote de memória.
-10. O corpus da obra foi enriquecido e reindexado.
-11. A busca e leitura com `kctx` confirmaram que o capítulo 2 ficou recuperável.
+9. Chapter 2 was saved as Markdown, JSON, and a memory packet.
+10. The work corpus was enriched and reindexed.
+11. `kctx search` and `kctx read` confirmed that chapter 2 is retrievable for future continuation.
 
-## Resultado Do Teste
+## Test Result
 
 ```powershell
 .\.king-context\bin\kctx.cmd list research
 ```
 
-Retorna 8 corpora permanentes.
+Returns 8 permanent research corpora.
 
 ```powershell
 .\.king-context\bin\kctx.cmd list works
 ```
 
-Retorna:
+Returns:
 
 ```text
 a-margem-que-devora-o-heroi  29 sections
 ```
 
-Isso confirma que o contexto da obra foi enriquecido com o capítulo 2 e que futuras continuações podem recuperar o estado da história sem depender apenas do chat atual.
+This confirms that the work memory was enriched with chapter 2 and that future continuations can recover story state from King Context instead of depending only on chat history.
 
-## Observações Para Git
+## Git Notes
 
-O `.gitignore` mantém fora:
+The `.gitignore` keeps these local-only files out of Git:
 
 ```text
 .env
@@ -258,6 +318,6 @@ O `.gitignore` mantém fora:
 *.zip
 ```
 
-Os corpora em `.king-context/data`, `.king-context/research` e `.king-context/works` ficam versionáveis de propósito, porque são parte do exemplo.
+The corpora in `.king-context/data`, `.king-context/research`, and `.king-context/works` are intentionally versionable because they are part of the example.
 
-O diretório `.king-context/core/` é runtime local do King Context e pode ser reinstalado ou copiado conforme o ambiente. Os dados importantes do exemplo são os corpora, a skill e os outputs.
+`.king-context/core/` is local King Context runtime/venv data. The important project assets are the skills, corpora, indexed context, and generated story outputs.
