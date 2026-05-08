@@ -2,11 +2,11 @@
 
 This repository is a practical King Context use case for creating stories instead of PDFs.
 
-The main Codex skill is `story-factory`. It can brainstorm, plan, write, continue, revise, and preserve long-form narrative context by saving each work as a dedicated King Context `works` corpus.
+The main skill is `story-factory`. It can brainstorm, plan, write, continue, revise, and preserve long-form narrative context by saving each work as a dedicated King Context `works` corpus.
 
 ## Quick Start
 
-In Codex, simply mention the skill in your prompt with `$story-factory`.
+In any AI assistant or agent environment that supports local skills, mention the skill in your prompt with `$story-factory`.
 
 Example:
 
@@ -32,7 +32,7 @@ $story-factory continue a-margem-que-devora-o-heroi with chapter 3 using the exi
 $story-factory revise chapter 2 and update the work memory corpus afterward.
 ```
 
-When the skill runs correctly, Codex should:
+When the skill runs correctly, the assistant should:
 
 1. Read the `story-factory` instructions.
 2. Query the permanent story-writing corpora.
@@ -47,7 +47,7 @@ When the skill runs correctly, Codex should:
 ## What This Project Contains
 
 ```text
-.codex/agents/skills/story-factory/
+<skills-dir>/story-factory/
   SKILL.md
   scripts/
   references/
@@ -133,7 +133,7 @@ The work corpus stores:
 - unresolved threads
 - continuity risks
 
-This is what lets Codex continue a story later without relying only on the current chat history.
+This is what lets an assistant continue a story later without relying only on the current chat history.
 
 ## Included Example Work
 
@@ -269,7 +269,7 @@ $env:FILTER_MODEL='gpt-oss:20b'
 
 ## What Was Tested
 
-1. Claude-oriented skills were adapted into `.codex/agents/skills`.
+1. Project skills were adapted into a local skill directory for assistant environments that support skills.
 2. The `story-factory` skill was created with scripts, references, corpus seeds, and workflow rules.
 3. King Context was extended to support a separate `works` store.
 4. Eight permanent story-writing corpora were generated.
