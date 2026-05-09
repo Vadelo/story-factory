@@ -1,0 +1,80 @@
+{
+  "work_slug": "o-principe-das-mil-invencoes",
+  "chapter_id": "chapter-002",
+  "chapter_number": 2,
+  "title": "O Ferro Tambem Opina",
+  "content_md": "# O Principe das Mil Invencoes\n\n## Capitulo 2. O Ferro Tambem Opina\n\nHyang leva seu desenho do medidor de chuva a Jang Yeong-sil. Jang demonstra que o desenho precisa ceder ao uso real: base mais estavel, borda reforcada, regua com estojo, controle de referencia e preocupacao com quem guarda os padroes. O primeiro prototipo fica feio e imperfeito, mas permite teste com chuva real. O instrumento falha parcialmente, o que ajuda Hyang a entender que uma falha visivel e mais util que uma estimativa escondida. Yun Gi-mun, funcionario dos Impostos, aponta riscos administrativos, custos e contestacoes. Sejong limita Hyang por saude e politica, introduz Dama Choi Seo-yeon como observadora das pessoas e autoriza relatorios cruzados. O segundo prototipo vaza, revelando que os artesaos temem errar diante do principe; Hyang cria uma regra para registrar defeitos sem culpar quem os encontra. O terceiro prototipo melhora. Sejong chama o ministro Han Gyeong-su, que entende que o cilindro nao mede apenas chuva, mas perguntas perigosas sobre imposto, registros e sofrimento. Hyang recua de um teste provincial e aceita uma etapa menor: produzir tres instrumentos na capital e verificar se concordam entre si antes de formular perguntas maiores.",
+  "summary": "O capitulo transforma o desenho do medidor de chuva em prototipos reais e mostra que a materia, a burocracia e as pessoas resistem de modos diferentes. Jang Yeong-sil desafia a elegancia do desenho com conhecimento pratico; Yun Gi-mun introduz os riscos administrativos; Dama Choi Seo-yeon revela que o medo de errar diante do principe pode esconder defeitos; e Han Gyeong-su força Hyang a reduzir a ambicao imediata. O capitulo termina com Sejong autorizando apenas tres instrumentos na capital, sem provincia, imposto ou proclamacao.",
+  "canon_changes": [
+    "O primeiro prototipo do medidor de chuva foi feito em ferro e ficou imperfeito, com borda reforcada, base mais larga e marcas de martelo.",
+    "Jang Yeong-sil corrigiu o desenho de Hyang com preocupacoes praticas de estabilidade, deformacao, vazamento, regua e uso indevido.",
+    "Yun Gi-mun, funcionario do Ministerio dos Impostos, foi introduzido como opositor burocratico cauteloso.",
+    "Dama Choi Seo-yeon foi introduzida como observadora ligada aos arquivos e a dinamica humana do palacio.",
+    "Ministro Han Gyeong-su entrou em cena como antagonista politico principal, inteligente e prudente.",
+    "Sejong limitou Hyang a visitas menos frequentes a oficina e a um teste menor.",
+    "A proxima etapa autorizada e produzir tres instrumentos na capital para verificar se concordam entre si."
+  ],
+  "character_states": [
+    "Hyang esta mais consciente de que conhecimento moderno precisa ser traduzido em processo, confianca e instituicao.",
+    "Hyang sente o limite fisico do corpo e passa a ser controlado por Sejong tambem por preocupacao de saude.",
+    "Jang Yeong-sil assume papel de parceiro tecnico real, nao assistente, corrigindo o desenho e expondo falhas sem piedade.",
+    "Sejong age como protetor e freio, entendendo que o instrumento pode criar uma nova forma de abuso se usado cedo demais.",
+    "Yun Gi-mun observa custos, riscos e vulnerabilidades administrativas, tornando-se uma voz dos Impostos.",
+    "Choi Seo-yeon mostra habilidade para perceber dinamicas humanas invisiveis aos homens da oficina.",
+    "Han Gyeong-su reconhece a profundidade politica do instrumento e força Hyang a aceitar uma pergunta menor."
+  ],
+  "relationship_changes": [
+    "Hyang e Jang aprofundam respeito mutuo por meio da critica pratica.",
+    "Hyang e Sejong entram em uma dinamica mais explicita de protecao, suspeita e limite.",
+    "Hyang ganha uma nova observadora em Choi Seo-yeon, que o corrige de modo indireto.",
+    "Hyang identifica Yun como adversario burocratico competente, nao apenas obstaculo tolo.",
+    "Hyang e Han iniciam conflito intelectual baseado em prudencia contra urgencia."
+  ],
+  "world_updates": [
+    "A oficina real passa a tratar defeitos encontrados antes do teste como informacao, nao culpa imediata.",
+    "A medicao padronizada exige referencias guardadas por instituicoes diferentes, reguas vinculadas aos recipientes e controle de uso.",
+    "O Ministerio dos Impostos percebe que a medicao da chuva pode afetar custo, registros, peticoes e disputas sobre avaliacao agricola.",
+    "A corte ainda nao autorizou teste provincial nem ligacao formal com impostos.",
+    "O projeto do medidor de chuva esta na fase de repetibilidade entre tres instrumentos na capital."
+  ],
+  "timeline_updates": [
+    "Hyang entrega o desenho a Jang Yeong-sil no dia seguinte ao capitulo 1.",
+    "O primeiro prototipo e construido em quatro dias e testado em chuva real.",
+    "Yun Gi-mun entra no processo como funcionario dos Impostos.",
+    "Sejong limita Hyang a ir a oficina no maximo tres vezes por semana.",
+    "Dama Choi Seo-yeon passa a observar o projeto.",
+    "O segundo prototipo vaza e leva a nova regra de registro de defeitos.",
+    "O terceiro prototipo melhora e e levado a uma audiencia pequena.",
+    "Han Gyeong-su convence a corte a restringir o projeto a tres instrumentos na capital."
+  ],
+  "new_threads": [
+    "Os tres instrumentos conseguirao concordar entre si?",
+    "Como Yun Gi-mun usara seus relatorios contra ou a favor do projeto?",
+    "Que tipo de observacoes Choi Seo-yeon fara sobre Hyang e as oficinas?",
+    "Han Gyeong-su tentara conter Hyang por prudencia genuina, interesse politico ou ambos?",
+    "A regra de registrar defeitos sem culpa mudara a cultura da oficina ou criara acusacoes de indisciplina?",
+    "A saude de Hyang sera um limite constante para sua velocidade de reforma?"
+  ],
+  "resolved_threads": [
+    "Jang conseguiu construir prototipos repetiveis o bastante para continuar o projeto.",
+    "A resistencia burocratica inicial foi personificada em Yun Gi-mun e ampliada por Han Gyeong-su.",
+    "O Cheugugi ainda nao esta pronto nem adotado; a etapa atual e repetibilidade local."
+  ],
+  "callbacks": [
+    "A frase 'bom o bastante' ecoa a morte de Artur por aceitar seguranca insuficiente.",
+    "A diferenca entre desenho e materia continua a regra de que ideias sem ferramentas sao fantasmas.",
+    "Sejong volta a testar Hyang em governo e moral, nao apenas ciencia."
+  ],
+  "continuity_risks": [
+    "Nao saltar para rede nacional de medicao no capitulo 3; primeiro devem existir tres instrumentos comparaveis.",
+    "Nao tratar Han como vilao burro ou simplesmente corrupto; ele entende riscos reais.",
+    "Manter Choi Seo-yeon como observadora de informacao humana, nao como assistente tecnica.",
+    "Manter Yun como burocrata dos Impostos preocupado com custo, registros e disputas.",
+    "Continuar mostrando que a saude de Hyang limita sua presenca fisica nas oficinas."
+  ],
+  "style_notes": [
+    "Capitulo mantem humor seco e tecnica como drama de materia, processo e governo.",
+    "A oposicao politica nasce de argumentos plausiveis.",
+    "O final cria gancho para o teste dos tres instrumentos e para a corte como proximo campo de medicao."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Style Guide",
+  "path": "style-guide",
+  "url": "local://works/o-principe-das-mil-invencoes#style-guide",
+  "keywords": [
+    "style",
+    "voice",
+    "webnovel",
+    "light novel"
+  ],
+  "use_cases": [
+    "Maintain prose style and chapter rhythm"
+  ],
+  "tags": [
+    "style",
+    "canon"
+  ],
+  "priority": 8,
+  "content": "Third-person close POV centered on Hyang, with occasional Sejong or antagonist scenes. Past tense. Clear, tense, intelligent prose with dry humor. Technical content should appear as drama, not lecture. Chapter rhythm: concrete problem, Hyang's reasoning, material or political obstacle, small victory, unexpected consequence.",
+  "token_estimate": 57
+}

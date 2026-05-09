@@ -1,0 +1,22 @@
+{
+  "title": "Brief: Current",
+  "path": "brief-current",
+  "url": "local://works/o-principe-das-mil-invencoes#brief-current",
+  "keywords": [
+    "brief",
+    "premise",
+    "hyang",
+    "sejong",
+    "webnovel"
+  ],
+  "use_cases": [
+    "Recall the user's requested story direction"
+  ],
+  "tags": [
+    "brief",
+    "canon"
+  ],
+  "priority": 10,
+  "content": "Criar uma webnovel/light novel em pt-BR sobre um inventor moderno, vencedor de Nobel e hiperinteligente em varias areas do conhecimento humano, que morre e reencarna como Yi Hyang, principe herdeiro de Joseon e filho do rei Sejong. Foco: progresso tecnologico, politica de corte, ministros conservadores, relacao pai-filho com Sejong e impacto das invencoes no reino.",
+  "token_estimate": 73
+}

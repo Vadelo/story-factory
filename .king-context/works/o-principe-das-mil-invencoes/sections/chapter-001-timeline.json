@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Timeline: O Ceu Nao Aceita Estimativas",
+  "path": "chapter-001-timeline",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-001-timeline",
+  "keywords": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-001"
+  ],
+  "use_cases": [
+    "Recall timeline changes from this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-001"
+  ],
+  "priority": 9,
+  "content": "[\n  \"Artur morre no mundo moderno.\",\n  \"Hyang desperta no palacio de Joseon.\",\n  \"Sejong visita Hyang apos a febre.\",\n  \"Hyang visita as oficinas reais e observa disputa sobre medicao de chuva.\",\n  \"Hyang propoe desenhar um instrumento padronizado de chuva.\"\n]",
+  "token_estimate": 51
+}

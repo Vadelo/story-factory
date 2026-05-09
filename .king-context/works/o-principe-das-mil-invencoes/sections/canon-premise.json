@@ -1,0 +1,22 @@
+{
+  "title": "Canon: Premise",
+  "path": "canon-premise",
+  "url": "local://works/o-principe-das-mil-invencoes#canon-premise",
+  "keywords": [
+    "premise",
+    "canon",
+    "reincarnation",
+    "technology uplift",
+    "joseon"
+  ],
+  "use_cases": [
+    "Recall the central premise before continuing the work"
+  ],
+  "tags": [
+    "canon",
+    "premise"
+  ],
+  "priority": 10,
+  "content": "Um inventor moderno, vencedor de Nobel, morre em uma experiencia e desperta como Yi Hyang, principe herdeiro de Joseon e filho do rei Sejong. Com memoria moderna e genio interdisciplinar, ele tenta acelerar o reino sem sistema, magia ou industria pronta, enfrentando limites materiais, ministros conservadores e a relacao complexa com um pai rei brilhante.",
+  "token_estimate": 73
+}

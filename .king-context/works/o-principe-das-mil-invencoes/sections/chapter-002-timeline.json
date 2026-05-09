@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Timeline: O Ferro Tambem Opina",
+  "path": "chapter-002-timeline",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-002-timeline",
+  "keywords": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-002"
+  ],
+  "use_cases": [
+    "Recall timeline changes from this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "timeline",
+    "continuity",
+    "chapter-002"
+  ],
+  "priority": 9,
+  "content": "[\n  \"Hyang entrega o desenho a Jang Yeong-sil no dia seguinte ao capitulo 1.\",\n  \"O primeiro prototipo e construido em quatro dias e testado em chuva real.\",\n  \"Yun Gi-mun entra no processo como funcionario dos Impostos.\",\n  \"Sejong limita Hyang a ir a oficina no maximo tres vezes por semana.\",\n  \"Dama Choi Seo-yeon passa a observar o projeto.\",\n  \"O segundo prototipo vaza e leva a nova regra de registro de defeitos.\",\n  \"O terceiro prototipo melhora e e levado a uma audiencia pequena.\",\n  \"Han Gyeong-su convence a corte a restringir o projeto a tres instrumentos na capital.\"\n]",
+  "token_estimate": 127
+}

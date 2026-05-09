@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Threads: O Ferro Tambem Opina",
+  "path": "chapter-002-threads",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-002-threads",
+  "keywords": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-002"
+  ],
+  "use_cases": [
+    "Recall open and resolved story threads for this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-002"
+  ],
+  "priority": 9,
+  "content": "{\n  \"new_threads\": [\n    \"Os tres instrumentos conseguirao concordar entre si?\",\n    \"Como Yun Gi-mun usara seus relatorios contra ou a favor do projeto?\",\n    \"Que tipo de observacoes Choi Seo-yeon fara sobre Hyang e as oficinas?\",\n    \"Han Gyeong-su tentara conter Hyang por prudencia genuina, interesse politico ou ambos?\",\n    \"A regra de registrar defeitos sem culpa mudara a cultura da oficina ou criara acusacoes de indisciplina?\",\n    \"A saude de Hyang sera um limite constante para sua velocidade de reforma?\"\n  ],\n  \"resolved_threads\": [\n    \"Jang conseguiu construir prototipos repetiveis o bastante para continuar o projeto.\",\n    \"A resistencia burocratica inicial foi personificada em Yun Gi-mun e ampliada por Han Gyeong-su.\",\n    \"O Cheugugi ainda nao esta pronto nem adotado; a etapa atual e repetibilidade local.\"\n  ],\n  \"callbacks\": [\n    \"A frase 'bom o bastante' ecoa a morte de Artur por aceitar seguranca insuficiente.\",\n    \"A diferenca entre desenho e materia continua a regra de que ideias sem ferramentas sao fantasmas.\",\n    \"Sejong volta a testar Hyang em governo e moral, nao apenas ciencia.\"\n  ]\n}",
+  "token_estimate": 219
+}

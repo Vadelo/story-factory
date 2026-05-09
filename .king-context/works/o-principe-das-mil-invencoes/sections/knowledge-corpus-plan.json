@@ -1,0 +1,22 @@
+{
+  "title": "Canon: Knowledge Delta and Corpus Plan",
+  "path": "knowledge-corpus-plan",
+  "url": "local://works/o-principe-das-mil-invencoes#knowledge-corpus-plan",
+  "keywords": [
+    "knowledge",
+    "corpus",
+    "research",
+    "delta",
+    "planning"
+  ],
+  "use_cases": [
+    "Choose specialist corpora before drafting or planning arcs"
+  ],
+  "tags": [
+    "knowledge",
+    "planning"
+  ],
+  "priority": 9,
+  "content": "Knowledge deltas: transferred-expertise, historical-immersion, professional-realism, speculative-consequence, cultural-authenticity, genre-emulation, featured-object-history. Created corpora: story-knowledge-o-principe-das-mil-invencoes-joseon-sejong-baseline, story-knowledge-o-principe-das-mil-invencoes-preindustrial-engineering-bridges, story-knowledge-o-principe-das-mil-invencoes-court-politics-reform-backlash, and story-history-o-principe-das-mil-invencoes-rain-gauge, all generated locally with Ollama qwen3.6:latest from Exa-discovered chunks. Still recommended: medium Hyang/Munjong history; medium printing-paper-education; medium metallurgy-tools-measurement; medium agriculture-water-food; low Korean webnovel uplift style. For featured inventions, create separate low story-history-* corpora.",
+  "token_estimate": 65
+}

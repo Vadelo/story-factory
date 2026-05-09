@@ -1,0 +1,48 @@
+{
+  "title": "Chapter Continuity: O Ceu Nao Aceita Estimativas",
+  "path": "chapter-001-continuity",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-001-continuity",
+  "keywords": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-001",
+    "terceira",
+    "pessoa",
+    "proxima",
+    "centrada",
+    "em",
+    "hyang",
+    "tecnica",
+    "apresentada",
+    "como",
+    "drama",
+    "administrativo",
+    "e",
+    "emocional",
+    "humor",
+    "seco",
+    "usado",
+    "com",
+    "moderacao",
+    "capitulo",
+    "termina",
+    "pequena",
+    "decisao",
+    "consequencia",
+    "politica",
+    "implicita"
+  ],
+  "use_cases": [
+    "Check continuity and style risks before future drafting"
+  ],
+  "tags": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-001"
+  ],
+  "priority": 8,
+  "content": "{\n  \"continuity_risks\": [\n    \"Nao tratar o Cheugugi como pronto no capitulo 2; por enquanto ha apenas desenho e proposta.\",\n    \"Nao transformar Sejong em seguidor passivo; ele deve continuar testando e limitando Hyang.\",\n    \"Nao acelerar a adocao nacional antes de conflito tecnico e burocratico.\",\n    \"Manter Jang Yeong-sil como parceiro pratico, nao apenas assistente.\"\n  ],\n  \"style_notes\": [\n    \"Terceira pessoa proxima centrada em Hyang.\",\n    \"Tecnica apresentada como drama administrativo e emocional.\",\n    \"Humor seco usado com moderação.\",\n    \"Capitulo termina com pequena decisao tecnica e consequencia politica implicita.\"\n  ]\n}",
+  "token_estimate": 113
+}

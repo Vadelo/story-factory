@@ -1,0 +1,614 @@
+{
+  "brief": [
+    "brief-current"
+  ],
+  "premise": [
+    "brief-current",
+    "canon-premise"
+  ],
+  "hyang": [
+    "brief-current",
+    "characters",
+    "chapter-001-canon-delta",
+    "chapter-001-continuity",
+    "chapter-002-canon-delta"
+  ],
+  "sejong": [
+    "brief-current",
+    "characters",
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "webnovel": [
+    "brief-current",
+    "style-guide"
+  ],
+  "canon": [
+    "canon-premise",
+    "continuity-ledger",
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "reincarnation": [
+    "canon-premise"
+  ],
+  "technology uplift": [
+    "canon-premise"
+  ],
+  "joseon": [
+    "canon-premise",
+    "world-rules"
+  ],
+  "knowledge": [
+    "knowledge-corpus-plan"
+  ],
+  "corpus": [
+    "knowledge-corpus-plan"
+  ],
+  "research": [
+    "knowledge-corpus-plan"
+  ],
+  "delta": [
+    "knowledge-corpus-plan"
+  ],
+  "planning": [
+    "knowledge-corpus-plan"
+  ],
+  "characters": [
+    "characters",
+    "chapter-001-character-states",
+    "chapter-002-character-states"
+  ],
+  "minister": [
+    "characters"
+  ],
+  "jang yeong-sil": [
+    "characters"
+  ],
+  "world": [
+    "world-rules",
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "rules": [
+    "world-rules"
+  ],
+  "technology": [
+    "world-rules"
+  ],
+  "politics": [
+    "world-rules"
+  ],
+  "outline": [
+    "outline"
+  ],
+  "arc": [
+    "outline"
+  ],
+  "measurement": [
+    "outline"
+  ],
+  "workshop": [
+    "outline"
+  ],
+  "court": [
+    "outline"
+  ],
+  "style": [
+    "style-guide",
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "voice": [
+    "style-guide"
+  ],
+  "light novel": [
+    "style-guide"
+  ],
+  "continuity": [
+    "continuity-ledger",
+    "chapter-001-timeline",
+    "chapter-001-continuity",
+    "chapter-002-timeline",
+    "chapter-002-continuity"
+  ],
+  "ledger": [
+    "continuity-ledger"
+  ],
+  "constraints": [
+    "continuity-ledger"
+  ],
+  "open threads": [
+    "open-threads"
+  ],
+  "questions": [
+    "open-threads"
+  ],
+  "future arcs": [
+    "open-threads"
+  ],
+  "chapter": [
+    "chapter-001-text",
+    "chapter-001-summary",
+    "chapter-001-canon-delta",
+    "chapter-001-character-states",
+    "chapter-001-timeline",
+    "chapter-001-threads",
+    "chapter-001-continuity",
+    "chapter-002-text",
+    "chapter-002-summary",
+    "chapter-002-canon-delta",
+    "chapter-002-character-states",
+    "chapter-002-timeline",
+    "chapter-002-threads",
+    "chapter-002-continuity"
+  ],
+  "draft": [
+    "chapter-001-text",
+    "chapter-002-text"
+  ],
+  "text": [
+    "chapter-001-text",
+    "chapter-002-text"
+  ],
+  "chapter-001": [
+    "chapter-001-text",
+    "chapter-001-summary",
+    "chapter-001-canon-delta",
+    "chapter-001-character-states",
+    "chapter-001-timeline",
+    "chapter-001-threads",
+    "chapter-001-continuity"
+  ],
+  "summary": [
+    "chapter-001-summary",
+    "chapter-002-summary"
+  ],
+  "o": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "protagonista": [
+    "chapter-001-canon-delta"
+  ],
+  "moderno": [
+    "chapter-001-canon-delta"
+  ],
+  "se": [
+    "chapter-001-canon-delta"
+  ],
+  "chamava": [
+    "chapter-001-canon-delta"
+  ],
+  "artur": [
+    "chapter-001-canon-delta"
+  ],
+  "vale": [
+    "chapter-001-canon-delta"
+  ],
+  "a": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "morte": [
+    "chapter-001-canon-delta"
+  ],
+  "original": [
+    "chapter-001-canon-delta"
+  ],
+  "foi": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "causada": [
+    "chapter-001-canon-delta"
+  ],
+  "por": [
+    "chapter-001-canon-delta"
+  ],
+  "uma": [
+    "chapter-001-canon-delta"
+  ],
+  "explosao": [
+    "chapter-001-canon-delta"
+  ],
+  "em": [
+    "chapter-001-canon-delta",
+    "chapter-001-continuity",
+    "chapter-002-canon-delta"
+  ],
+  "experimento": [
+    "chapter-001-canon-delta"
+  ],
+  "de": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "pressao": [
+    "chapter-001-canon-delta"
+  ],
+  "ainda": [
+    "chapter-001-canon-delta"
+  ],
+  "tem": [
+    "chapter-001-canon-delta"
+  ],
+  "memorias": [
+    "chapter-001-canon-delta"
+  ],
+  "e": [
+    "chapter-001-canon-delta",
+    "chapter-001-continuity",
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "habitos": [
+    "chapter-001-canon-delta"
+  ],
+  "mentais": [
+    "chapter-001-canon-delta"
+  ],
+  "mas": [
+    "chapter-001-canon-delta"
+  ],
+  "precisa": [
+    "chapter-001-canon-delta"
+  ],
+  "viver": [
+    "chapter-001-canon-delta"
+  ],
+  "percebe": [
+    "chapter-001-canon-delta"
+  ],
+  "que": [
+    "chapter-001-canon-delta"
+  ],
+  "acordou": [
+    "chapter-001-canon-delta"
+  ],
+  "diferente": [
+    "chapter-001-canon-delta"
+  ],
+  "jang": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "yeong-sil": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "introduzido": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "como": [
+    "chapter-001-canon-delta",
+    "chapter-001-continuity",
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "artesao-inventor": [
+    "chapter-001-canon-delta"
+  ],
+  "das": [
+    "chapter-001-canon-delta"
+  ],
+  "oficinas": [
+    "chapter-001-canon-delta"
+  ],
+  "reais": [
+    "chapter-001-canon-delta"
+  ],
+  "primeiro": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "projeto": [
+    "chapter-001-canon-delta"
+  ],
+  "tecnologico": [
+    "chapter-001-canon-delta"
+  ],
+  "padronizacao": [
+    "chapter-001-canon-delta"
+  ],
+  "medicao": [
+    "chapter-001-canon-delta"
+  ],
+  "da": [
+    "chapter-001-canon-delta"
+  ],
+  "chuva": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "nao": [
+    "chapter-001-canon-delta"
+  ],
+  "relationships": [
+    "chapter-001-character-states",
+    "chapter-002-character-states"
+  ],
+  "timeline": [
+    "chapter-001-timeline",
+    "chapter-002-timeline"
+  ],
+  "threads": [
+    "chapter-001-threads",
+    "chapter-002-threads"
+  ],
+  "callbacks": [
+    "chapter-001-threads",
+    "chapter-002-threads"
+  ],
+  "terceira": [
+    "chapter-001-continuity"
+  ],
+  "pessoa": [
+    "chapter-001-continuity"
+  ],
+  "proxima": [
+    "chapter-001-continuity",
+    "chapter-002-canon-delta"
+  ],
+  "centrada": [
+    "chapter-001-continuity"
+  ],
+  "tecnica": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "apresentada": [
+    "chapter-001-continuity"
+  ],
+  "drama": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "administrativo": [
+    "chapter-001-continuity"
+  ],
+  "emocional": [
+    "chapter-001-continuity"
+  ],
+  "humor": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "seco": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "usado": [
+    "chapter-001-continuity"
+  ],
+  "com": [
+    "chapter-001-continuity",
+    "chapter-002-canon-delta"
+  ],
+  "moderacao": [
+    "chapter-001-continuity"
+  ],
+  "capitulo": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "termina": [
+    "chapter-001-continuity"
+  ],
+  "pequena": [
+    "chapter-001-continuity"
+  ],
+  "decisao": [
+    "chapter-001-continuity"
+  ],
+  "consequencia": [
+    "chapter-001-continuity"
+  ],
+  "politica": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ],
+  "implicita": [
+    "chapter-001-continuity"
+  ],
+  "chapter-002": [
+    "chapter-002-text",
+    "chapter-002-summary",
+    "chapter-002-canon-delta",
+    "chapter-002-character-states",
+    "chapter-002-timeline",
+    "chapter-002-threads",
+    "chapter-002-continuity"
+  ],
+  "prototipo": [
+    "chapter-002-canon-delta"
+  ],
+  "do": [
+    "chapter-002-canon-delta"
+  ],
+  "medidor": [
+    "chapter-002-canon-delta"
+  ],
+  "feito": [
+    "chapter-002-canon-delta"
+  ],
+  "ferro": [
+    "chapter-002-canon-delta"
+  ],
+  "corrigiu": [
+    "chapter-002-canon-delta"
+  ],
+  "desenho": [
+    "chapter-002-canon-delta"
+  ],
+  "preocupacoes": [
+    "chapter-002-canon-delta"
+  ],
+  "praticas": [
+    "chapter-002-canon-delta"
+  ],
+  "estabilidade": [
+    "chapter-002-canon-delta"
+  ],
+  "yun": [
+    "chapter-002-canon-delta"
+  ],
+  "gi-mun": [
+    "chapter-002-canon-delta"
+  ],
+  "funcionario": [
+    "chapter-002-canon-delta"
+  ],
+  "ministerio": [
+    "chapter-002-canon-delta"
+  ],
+  "dos": [
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "impostos": [
+    "chapter-002-canon-delta"
+  ],
+  "opositor": [
+    "chapter-002-canon-delta"
+  ],
+  "burocratico": [
+    "chapter-002-canon-delta"
+  ],
+  "dama": [
+    "chapter-002-canon-delta"
+  ],
+  "choi": [
+    "chapter-002-canon-delta"
+  ],
+  "seo-yeon": [
+    "chapter-002-canon-delta"
+  ],
+  "introduzida": [
+    "chapter-002-canon-delta"
+  ],
+  "observadora": [
+    "chapter-002-canon-delta"
+  ],
+  "ligada": [
+    "chapter-002-canon-delta"
+  ],
+  "aos": [
+    "chapter-002-canon-delta"
+  ],
+  "arquivos": [
+    "chapter-002-canon-delta"
+  ],
+  "ministro": [
+    "chapter-002-canon-delta"
+  ],
+  "han": [
+    "chapter-002-canon-delta"
+  ],
+  "gyeong-su": [
+    "chapter-002-canon-delta"
+  ],
+  "entrou": [
+    "chapter-002-canon-delta"
+  ],
+  "cena": [
+    "chapter-002-canon-delta"
+  ],
+  "antagonista": [
+    "chapter-002-canon-delta"
+  ],
+  "politico": [
+    "chapter-002-canon-delta"
+  ],
+  "principal": [
+    "chapter-002-canon-delta"
+  ],
+  "inteligente": [
+    "chapter-002-canon-delta"
+  ],
+  "limitou": [
+    "chapter-002-canon-delta"
+  ],
+  "visitas": [
+    "chapter-002-canon-delta"
+  ],
+  "menos": [
+    "chapter-002-canon-delta"
+  ],
+  "frequentes": [
+    "chapter-002-canon-delta"
+  ],
+  "oficina": [
+    "chapter-002-canon-delta"
+  ],
+  "um": [
+    "chapter-002-canon-delta"
+  ],
+  "etapa": [
+    "chapter-002-canon-delta"
+  ],
+  "autorizada": [
+    "chapter-002-canon-delta"
+  ],
+  "produzir": [
+    "chapter-002-canon-delta"
+  ],
+  "tres": [
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "instrumentos": [
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "na": [
+    "chapter-002-canon-delta"
+  ],
+  "capital": [
+    "chapter-002-canon-delta"
+  ],
+  "para": [
+    "chapter-002-canon-delta",
+    "chapter-002-continuity"
+  ],
+  "verificar": [
+    "chapter-002-canon-delta"
+  ],
+  "mantem": [
+    "chapter-002-continuity"
+  ],
+  "materia": [
+    "chapter-002-continuity"
+  ],
+  "processo": [
+    "chapter-002-continuity"
+  ],
+  "oposicao": [
+    "chapter-002-continuity"
+  ],
+  "nasce": [
+    "chapter-002-continuity"
+  ],
+  "argumentos": [
+    "chapter-002-continuity"
+  ],
+  "plausiveis": [
+    "chapter-002-continuity"
+  ],
+  "final": [
+    "chapter-002-continuity"
+  ],
+  "cria": [
+    "chapter-002-continuity"
+  ],
+  "gancho": [
+    "chapter-002-continuity"
+  ],
+  "teste": [
+    "chapter-002-continuity"
+  ]
+}

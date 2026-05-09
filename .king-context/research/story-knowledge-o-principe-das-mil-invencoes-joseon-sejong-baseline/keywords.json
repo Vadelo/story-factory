@@ -1,0 +1,65 @@
+{
+  "Sejong": [
+    "sejong-statecraft-baseline"
+  ],
+  "Joseon": [
+    "sejong-statecraft-baseline"
+  ],
+  "statecraft": [
+    "sejong-statecraft-baseline"
+  ],
+  "governance": [
+    "sejong-statecraft-baseline"
+  ],
+  "court": [
+    "sejong-statecraft-baseline"
+  ],
+  "Jiphyeonjeon": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "Gyeongyeon": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "Hall of Worthies": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "scholars": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "Neo-Confucianism": [
+    "ideology-religion-resistance"
+  ],
+  "Buddhism": [
+    "ideology-religion-resistance"
+  ],
+  "reform": [
+    "ideology-religion-resistance"
+  ],
+  "resistance": [
+    "ideology-religion-resistance"
+  ],
+  "technology": [
+    "science-technology-measurement"
+  ],
+  "astronomy": [
+    "science-technology-measurement"
+  ],
+  "rain gauge": [
+    "science-technology-measurement"
+  ],
+  "measurement": [
+    "science-technology-measurement"
+  ],
+  "yangban": [
+    "society-status-daily-constraints"
+  ],
+  "social hierarchy": [
+    "society-status-daily-constraints"
+  ],
+  "Joseon society": [
+    "society-status-daily-constraints"
+  ],
+  "daily life": [
+    "society-status-daily-constraints"
+  ]
+}

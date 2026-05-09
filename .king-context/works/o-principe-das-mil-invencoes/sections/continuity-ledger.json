@@ -1,0 +1,21 @@
+{
+  "title": "Continuity Ledger",
+  "path": "continuity-ledger",
+  "url": "local://works/o-principe-das-mil-invencoes#continuity-ledger",
+  "keywords": [
+    "continuity",
+    "ledger",
+    "canon",
+    "constraints"
+  ],
+  "use_cases": [
+    "Avoid contradictions in future chapters"
+  ],
+  "tags": [
+    "continuity",
+    "canon"
+  ],
+  "priority": 10,
+  "content": "Hyang is crown prince and acts under surveillance. The protagonist has modern knowledge, not modern infrastructure. Sejong is a strong father-king, not a weak supporting character. The court reacts politically to every technical advance. Hyang's first strategy is to build foundations: measures, tools, workshops, records, and people.",
+  "token_estimate": 62
+}

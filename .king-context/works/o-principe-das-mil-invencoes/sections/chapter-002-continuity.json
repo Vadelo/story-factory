@@ -1,0 +1,49 @@
+{
+  "title": "Chapter Continuity: O Ferro Tambem Opina",
+  "path": "chapter-002-continuity",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-002-continuity",
+  "keywords": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-002",
+    "capitulo",
+    "mantem",
+    "humor",
+    "seco",
+    "e",
+    "tecnica",
+    "como",
+    "drama",
+    "de",
+    "materia",
+    "processo",
+    "a",
+    "oposicao",
+    "politica",
+    "nasce",
+    "argumentos",
+    "plausiveis",
+    "o",
+    "final",
+    "cria",
+    "gancho",
+    "para",
+    "teste",
+    "dos",
+    "tres",
+    "instrumentos"
+  ],
+  "use_cases": [
+    "Check continuity and style risks before future drafting"
+  ],
+  "tags": [
+    "chapter",
+    "continuity",
+    "style",
+    "chapter-002"
+  ],
+  "priority": 8,
+  "content": "{\n  \"continuity_risks\": [\n    \"Nao saltar para rede nacional de medicao no capitulo 3; primeiro devem existir tres instrumentos comparaveis.\",\n    \"Nao tratar Han como vilao burro ou simplesmente corrupto; ele entende riscos reais.\",\n    \"Manter Choi Seo-yeon como observadora de informacao humana, nao como assistente tecnica.\",\n    \"Manter Yun como burocrata dos Impostos preocupado com custo, registros e disputas.\",\n    \"Continuar mostrando que a saude de Hyang limita sua presenca fisica nas oficinas.\"\n  ],\n  \"style_notes\": [\n    \"Capitulo mantem humor seco e tecnica como drama de materia, processo e governo.\",\n    \"A oposicao politica nasce de argumentos plausiveis.\",\n    \"O final cria gancho para o teste dos tres instrumentos e para a corte como proximo campo de medicao.\"\n  ]\n}",
+  "token_estimate": 150
+}

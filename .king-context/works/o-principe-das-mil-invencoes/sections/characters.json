@@ -1,0 +1,22 @@
+{
+  "title": "Canon: Characters",
+  "path": "characters",
+  "url": "local://works/o-principe-das-mil-invencoes#characters",
+  "keywords": [
+    "characters",
+    "hyang",
+    "sejong",
+    "minister",
+    "jang yeong-sil"
+  ],
+  "use_cases": [
+    "Recall main character roles, desires, flaws, and relationships"
+  ],
+  "tags": [
+    "canon",
+    "characters"
+  ],
+  "priority": 10,
+  "content": "Yi Hyang: protagonist, prince heir, modern Nobel-level inventor reborn in Joseon. Desire: transform Joseon. Need: learn that a kingdom is not a laboratory. Flaw: impatience with human and institutional limits. Sejong: father, king, patron of knowledge, moral and political counterweight; admires and fears the son's speed. Minister Han Gyeong-su: fictional conservative antagonist who defends stability and bureaucratic order with plausible arguments. Jang Yeong-sil: technical ally who translates theory into workshop reality and challenges Hyang's abstraction.",
+  "token_estimate": 99
+}

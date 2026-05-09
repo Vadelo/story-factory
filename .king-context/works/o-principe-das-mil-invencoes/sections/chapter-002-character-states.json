@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Character States: O Ferro Tambem Opina",
+  "path": "chapter-002-character-states",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-002-character-states",
+  "keywords": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-002"
+  ],
+  "use_cases": [
+    "Recall character and relationship states after this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-002"
+  ],
+  "priority": 10,
+  "content": "{\n  \"character_states\": [\n    \"Hyang esta mais consciente de que conhecimento moderno precisa ser traduzido em processo, confianca e instituicao.\",\n    \"Hyang sente o limite fisico do corpo e passa a ser controlado por Sejong tambem por preocupacao de saude.\",\n    \"Jang Yeong-sil assume papel de parceiro tecnico real, nao assistente, corrigindo o desenho e expondo falhas sem piedade.\",\n    \"Sejong age como protetor e freio, entendendo que o instrumento pode criar uma nova forma de abuso se usado cedo demais.\",\n    \"Yun Gi-mun observa custos, riscos e vulnerabilidades administrativas, tornando-se uma voz dos Impostos.\",\n    \"Choi Seo-yeon mostra habilidade para perceber dinamicas humanas invisiveis aos homens da oficina.\",\n    \"Han Gyeong-su reconhece a profundidade politica do instrumento e força Hyang a aceitar uma pergunta menor.\"\n  ],\n  \"relationship_changes\": [\n    \"Hyang e Jang aprofundam respeito mutuo por meio da critica pratica.\",\n    \"Hyang e Sejong entram em uma dinamica mais explicita de protecao, suspeita e limite.\",\n    \"Hyang ganha uma nova observadora em Choi Seo-yeon, que o corrige de modo indireto.\",\n    \"Hyang identifica Yun como adversario burocratico competente, nao apenas obstaculo tolo.\",\n    \"Hyang e Han iniciam conflito intelectual baseado em prudencia contra urgencia.\"\n  ]\n}",
+  "token_estimate": 246
+}

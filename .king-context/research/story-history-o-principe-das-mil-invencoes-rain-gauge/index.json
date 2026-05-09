@@ -1,0 +1,8 @@
+{
+  "name": "story-history-o-principe-das-mil-invencoes-rain-gauge",
+  "display_name": "O Principe das Mil Invencoes - History of Gauge",
+  "version": "v1-local-ollama",
+  "base_url": "local://research/story-history-o-principe-das-mil-invencoes-rain-gauge",
+  "section_count": 5,
+  "indexed_at": "2026-05-08T08:54:06.124678+00:00"
+}

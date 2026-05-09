@@ -1,0 +1,223 @@
+{
+  "slug": "o-principe-das-mil-invencoes",
+  "title": "O Principe das Mil Invencoes",
+  "language": "pt-BR",
+  "form": "webnovel/light novel",
+  "version": "v1-provisional",
+  "brief": {
+    "user_request": "Criar uma historia sobre um inventor moderno, vencedor de Nobel, hiperinteligente em varias areas do conhecimento humano, que morre e reencarna como Hyang, o principe herdeiro de Joseon na epoca do rei Sejong.",
+    "audience": "Leitores de webnovel/light novel que gostam de reencarnacao, progresso tecnologico, politica de corte, historia alternativa e protagonistas muito competentes com limites reais.",
+    "tone": "inteligente, politico, emocional, tenso, com humor seco ocasional",
+    "rating": "teen/adult light",
+    "pipeline": "serious",
+    "drafting_status": "provisional until specialist corpora are researched"
+  },
+  "knowledge_delta": [
+    "transferred-expertise",
+    "historical-immersion",
+    "professional-realism",
+    "speculative-consequence",
+    "cultural-authenticity",
+    "genre-emulation"
+  ],
+  "corpus_plan": [
+    {
+      "name": "story-knowledge-o-principe-das-mil-invencoes-joseon-sejong-baseline",
+      "depth": "high",
+      "class": "baseline",
+      "purpose": "Mapear Joseon no reinado de Sejong: corte, governo, classes, valores confucionistas, projetos reais e limites historicos.",
+      "activate_when": ["story bible", "court scenes", "major reforms"],
+      "status": "created",
+      "provider": "ollama",
+      "model": "qwen3.6:latest",
+      "notes": "Generated from Exa-discovered chunks through a local Ollama consolidation script because OpenRouter credits were unavailable."
+    },
+    {
+      "name": "story-knowledge-o-principe-das-mil-invencoes-preindustrial-engineering-bridges",
+      "depth": "high",
+      "class": "bridge",
+      "purpose": "Identificar tecnologias modernas adaptaveis a recursos pre-industriais sem saltos impossiveis.",
+      "activate_when": ["invention planning", "technology arcs", "chapter drafting"],
+      "status": "created",
+      "provider": "ollama",
+      "model": "qwen3.6:latest",
+      "notes": "Generated from Exa-discovered chunks through the local Ollama consolidation script, using the preindustrial-engineering profile."
+    },
+    {
+      "name": "story-knowledge-o-principe-das-mil-invencoes-court-politics-reform-backlash",
+      "depth": "high",
+      "class": "consequence",
+      "purpose": "Mapear resistencia politica e institucional contra reformas tecnicas.",
+      "activate_when": ["court conflict", "reform consequences", "antagonist planning"],
+      "status": "created",
+      "provider": "ollama",
+      "model": "qwen3.6:latest",
+      "notes": "Generated from Exa-discovered chunks through the local Ollama consolidation script, using the court-politics-reform profile."
+    },
+    {
+      "name": "story-style-o-principe-das-mil-invencoes-korean-webnovel-uplift",
+      "depth": "low",
+      "class": "style",
+      "purpose": "Guiar ritmo de webnovel de progresso tecnologico e intriga de corte.",
+      "activate_when": ["chapter outline", "style revision"]
+    },
+    {
+      "name": "story-history-o-principe-das-mil-invencoes-rain-gauge",
+      "depth": "low",
+      "class": "history-of-object",
+      "purpose": "Contextualizar a historia, adocao, significado politico e ganchos narrativos do pluviometro/cheugugi como invencao de destaque do primeiro arco.",
+      "activate_when": ["chapter or arc centered on rain measurement", "first public measurement reform"],
+      "status": "created",
+      "provider": "ollama",
+      "model": "qwen3.6:latest",
+      "notes": "Generated as a low-depth featured invention history corpus, separate from technical engineering feasibility."
+    }
+  ],
+  "bible": {
+    "premise": "Um inventor moderno, vencedor de Nobel, morre em uma experiencia e desperta como Yi Hyang, principe herdeiro de Joseon e filho do rei Sejong. Com memoria moderna e genio interdisciplinar, ele tenta acelerar o reino sem sistema, magia ou industria pronta, enfrentando limites materiais, ministros conservadores e a relacao complexa com um pai rei brilhante.",
+    "themes": [
+      "conhecimento como poder e responsabilidade",
+      "progresso tecnico contra estabilidade social",
+      "genio individual versus instituicoes",
+      "pai e filho entre afeto, medo e sucessao",
+      "o preco politico de ensinar pessoas demais a pensar"
+    ],
+    "genre_contract": {
+      "primary": "webnovel/light novel historica alternativa de progresso tecnologico",
+      "secondary": ["reencarnacao", "politica de corte", "drama familiar", "uplift tecnologico"],
+      "promise": "Cada invencao produz satisfacao tecnica e tambem consequencias politicas, sociais e emocionais.",
+      "anti_promises": [
+        "nao resolver tudo com uma invencao milagrosa",
+        "nao transformar Sejong em coadjuvante fraco",
+        "nao tratar conservadores como idiotas",
+        "nao ignorar cadeia produtiva e custo"
+      ]
+    },
+    "characters": [
+      {
+        "name": "Yi Hyang",
+        "role": "protagonista / principe herdeiro",
+        "desire": "Transformar Joseon em um reino capaz de sobreviver a fome, guerra, doenca e atraso tecnologico.",
+        "need": "Aprender que um reino nao e uma bancada de laboratorio.",
+        "flaw": "Impaciencia com limites humanos e institucionais.",
+        "strength": "Memoria moderna, metodo experimental, raciocinio interdisciplinar.",
+        "limits": "Corpo jovem, vigilancia de corte, materiais pre-industriais, oposicao politica, saude fragil."
+      },
+      {
+        "name": "Rei Sejong",
+        "role": "pai, rei, patrono e limite moral",
+        "desire": "Fortalecer Joseon e deixar um legado civilizatorio.",
+        "conflict": "Admira o genio do filho, mas teme a velocidade e o perigo politico das mudancas."
+      },
+      {
+        "name": "Ministro Han Gyeong-su",
+        "role": "antagonista politico ficcional",
+        "desire": "Preservar estabilidade, autoridade dos classicos e equilibrio burocratico.",
+        "strength": "Argumentos plausiveis contra reformas rapidas."
+      },
+      {
+        "name": "Jang Yeong-sil",
+        "role": "inventor e tecnico aliado",
+        "function": "Transformar teoria em oficina e lembrar Hyang que materia resiste a genio."
+      }
+    ],
+    "world": {
+      "setting": "Joseon durante o reinado de Sejong, tratado como historia alternativa inspirada em contexto real.",
+      "rules": [
+        "Toda invencao precisa de materiais, ferramentas, mao de obra, tempo e patrono.",
+        "Prototipo nao e producao em escala.",
+        "Toda melhoria cria beneficiados e ameacados.",
+        "Conhecimento moderno deve ser traduzido para linguagem aceitavel pela corte.",
+        "Quanto maior o impacto, maior a resistencia politica."
+      ]
+    },
+    "outline": [
+      {
+        "arc": 1,
+        "title": "O Principe que Mediu a Chuva",
+        "purpose": "Apresentar Hyang, Sejong, corte e a ideia de que progresso comeca por medicao.",
+        "beats": [
+          "Hyang acorda no palacio e quase se trai.",
+          "Ele observa uma disputa tecnica entre estudiosos e artesaos.",
+          "Corrige um detalhe de padronizacao em vez de inventar algo espetacular.",
+          "Jang Yeong-sil percebe que o principe entende coisas demais.",
+          "Sejong testa o filho com uma pergunta de governo.",
+          "A pequena melhoria cria disputa politica porque medida afeta imposto."
+        ]
+      }
+    ],
+    "style_guide": {
+      "pov": "terceira pessoa proxima centrada em Hyang, com ocasionais cenas de Sejong ou antagonistas",
+      "tense": "passado",
+      "style": "claro, tenso, inteligente, com humor seco; tecnica como drama, nao aula",
+      "chapter_rhythm": "problema concreto, raciocinio, obstaculo material ou politico, pequena vitoria, consequencia inesperada"
+    },
+    "continuity_ledger": [
+      "Hyang e principe herdeiro e age sob vigilancia.",
+      "O protagonista tem conhecimento moderno, mas nao infraestrutura moderna.",
+      "Sejong e aliado potencial, nao subordinado narrativo.",
+      "A corte reage politicamente a cada avanco tecnico.",
+      "A primeira estrategia e construir base: medidas, ferramentas, oficinas, registros e pessoas."
+    ],
+    "open_threads": [
+      "O protagonista morreu por acidente, sabotagem ou arrogancia?",
+      "Quanto da memoria moderna ele reteve com precisao?",
+      "Como Sejong interpretara a mudanca do filho?",
+      "A saude fragil de Hyang sera mantida como limite dramatico?",
+      "Qual sera a primeira invencao publica grande o bastante para dividir o reino?"
+    ]
+  },
+  "drafts": [
+    {
+      "id": "chapter-001",
+      "title": "O Ceu Nao Aceita Estimativas",
+      "content_md_path": "output/o-principe-das-mil-invencoes/chapter-001.md",
+      "summary": "Artur Vale morre em uma explosao e reencarna como Yi Hyang. Ele tenta sobreviver ao primeiro contato com o palacio, Sejong e a propria identidade historica. Nas oficinas, encontra uma disputa sobre medicao de chuva e transforma o problema em proposta politica: padronizar instrumentos para reduzir estimativas arbitrarias. Sejong percebe o alcance da ideia e a limita a um desenho, criando o primeiro passo para o futuro pluviometro.",
+      "canon_changes": [
+        "O protagonista moderno se chamava Artur Vale.",
+        "A morte original foi causada por uma explosao em experimento de pressao.",
+        "Sejong percebe que Hyang acordou diferente.",
+        "Jang Yeong-sil foi introduzido como artesao/inventor das oficinas reais.",
+        "O primeiro projeto tecnologico e a padronizacao de medicao da chuva."
+      ],
+      "continuity_notes": [
+        "O Cheugugi ainda nao esta pronto; ha apenas desenho e proposta.",
+        "Sejong continua como pai-rei que testa e limita Hyang.",
+        "O capitulo 2 deve lidar com viabilidade de construcao, repetibilidade e primeiros sinais de resistencia burocratica."
+      ]
+    },
+    {
+      "id": "chapter-002",
+      "title": "O Ferro Tambem Opina",
+      "content_md_path": "output/o-principe-das-mil-invencoes/chapter-002.md",
+      "summary": "Hyang leva o desenho do medidor de chuva a Jang Yeong-sil, que transforma a ideia em prototipos imperfeitos e revela problemas de materia, uso, custo e cultura de oficina. Yun Gi-mun surge como opositor dos Impostos, Dama Choi Seo-yeon passa a observar o que os registros nao capturam, e Han Gyeong-su força Hyang a reduzir a ambicao imediata. Sejong autoriza apenas tres instrumentos na capital para verificar repetibilidade antes de qualquer teste provincial.",
+      "canon_changes": [
+        "O primeiro prototipo do medidor de chuva foi construido, mas ainda e imperfeito.",
+        "Yun Gi-mun foi introduzido como funcionario dos Impostos e opositor burocratico cauteloso.",
+        "Dama Choi Seo-yeon foi introduzida como observadora das dinamicas humanas do projeto.",
+        "Ministro Han Gyeong-su entrou como antagonista politico prudente e inteligente.",
+        "A etapa atual do projeto e fazer tres instrumentos concordarem entre si na capital."
+      ],
+      "continuity_notes": [
+        "Ainda nao ha rede nacional, teste provincial ou uso tributario formal.",
+        "Han deve continuar como adversario plausivel, nao como conservador caricatural.",
+        "A saude de Hyang limita sua frequencia nas oficinas.",
+        "Choi observa pessoas e informacao invisivel; Jang continua responsavel pela verdade material."
+      ]
+    }
+  ],
+  "revision_history": [
+    {
+      "id": "initial-serious-pipeline",
+      "note": "Created provisional corpus plan and story bible. Specialist research corpora are recommended before a definitive chapter 1."
+    },
+    {
+      "id": "chapter-001-created",
+      "note": "Created chapter 1, chapter JSON, memory packet, and indexed chapter memory into the work corpus."
+    },
+    {
+      "id": "chapter-002-created",
+      "note": "Created chapter 2, chapter JSON, memory packet, and indexed chapter memory into the work corpus."
+    }
+  ]
+}

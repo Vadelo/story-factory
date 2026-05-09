@@ -1,0 +1,22 @@
+{
+  "title": "Outline: First Arc",
+  "path": "outline",
+  "url": "local://works/o-principe-das-mil-invencoes#outline",
+  "keywords": [
+    "outline",
+    "arc",
+    "measurement",
+    "workshop",
+    "court"
+  ],
+  "use_cases": [
+    "Recall the planned first arc before drafting chapters"
+  ],
+  "tags": [
+    "outline",
+    "canon"
+  ],
+  "priority": 8,
+  "content": "Arc 1: O Principe que Mediu a Chuva. Purpose: present Hyang, Sejong, the court, and the rule that progress begins with measurement. Beats: Hyang wakes in the palace and almost betrays himself; observes a technical dispute between scholars and artisans; corrects a standardization detail instead of making a spectacular invention; Jang Yeong-sil notices; Sejong tests Hyang with a governance question; the small improvement creates political dispute because measurement affects taxation.",
+  "token_estimate": 93
+}

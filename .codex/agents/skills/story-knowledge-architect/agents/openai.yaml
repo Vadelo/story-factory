@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Knowledge Architect"
+  short_description: "Design and route story knowledge corpora."
+  default_prompt: "Use $story-knowledge-architect to diagnose story knowledge needs, design corpora, and choose minimal activation packs."

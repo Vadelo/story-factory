@@ -1,0 +1,65 @@
+{
+  "work_slug": "o-principe-das-mil-invencoes",
+  "chapter_id": "chapter-001",
+  "chapter_number": 1,
+  "title": "O Ceu Nao Aceita Estimativas",
+  "content_md": "# O Principe das Mil Invencoes\n\n## Capitulo 1. O Ceu Nao Aceita Estimativas\n\nArtur Vale morre em uma explosao de laboratorio e desperta como Yi Hyang, principe herdeiro de Joseon. Ele percebe que esta no palacio de Sejong, tenta esconder sua confusao e descobre que o proprio Sejong nota sua mudanca. Dias depois, Hyang visita as oficinas reais, encontra uma disputa sobre recipientes e varetas usados para estimar chuva, e entende que medir chuva significa tambem medir colheita, imposto, fome e abuso administrativo. Ele propoe padronizar boca, profundidade, regua, local de instalacao e registro. Jang Yeong-sil aparece como artesao capaz de traduzir a ideia em materia. Sejong testa Hyang perguntando quem ganha e quem perde com a medida; Hyang responde que perde quem lucra com a diferenca entre a chuva e o registro. O capitulo termina com Hyang desenhando um cilindro padronizado, entendendo que o primeiro passo para mudar Joseon e medir corretamente.",
+  "summary": "Artur Vale morre em uma explosao e reencarna como Yi Hyang. Ele tenta sobreviver ao primeiro contato com o palacio, Sejong e a propria identidade historica. Nas oficinas, encontra uma disputa sobre medicao de chuva e transforma o problema em proposta politica: padronizar instrumentos para reduzir estimativas arbitrarias. Sejong percebe o alcance da ideia e a limita a um desenho, criando o primeiro passo para o futuro pluviometro.",
+  "canon_changes": [
+    "O protagonista moderno se chamava Artur Vale.",
+    "A morte original foi causada por uma explosao em experimento de pressao.",
+    "Hyang ainda tem memorias e habitos mentais de Artur, mas precisa viver como principe herdeiro.",
+    "Sejong percebe que Hyang acordou diferente.",
+    "Jang Yeong-sil foi introduzido como artesao/inventor das oficinas reais.",
+    "O primeiro projeto tecnologico e a padronizacao de medicao da chuva, nao uma invencao espetacular."
+  ],
+  "character_states": [
+    "Hyang esta cauteloso, assustado e fascinado; decide esconder sua origem moderna e agir primeiro por pequenas correcoes.",
+    "Sejong esta atento e desconfiado, mas tambem intelectualmente interessado no novo comportamento do filho.",
+    "Jang Yeong-sil esta curioso sobre Hyang e percebe valor pratico na diferenca entre perfeicao e repetibilidade.",
+    "Funcionarios e estudiosos veem a intervencao de Hyang como algo incomum e potencialmente perigoso."
+  ],
+  "relationship_changes": [
+    "Hyang e Sejong estabelecem uma dinamica de teste mutuo: pai e rei, filho e anomalia.",
+    "Hyang e Jang Yeong-sil iniciam uma possivel parceria tecnica baseada em respeito pratico.",
+    "Hyang cria tensao inicial com estudiosos ao criticar instrumentos inconsistentes, mas tenta corrigir a propria arrogancia."
+  ],
+  "world_updates": [
+    "A medicao de chuva e apresentada como ponto de contato entre ciencia, agricultura, imposto e poder estatal.",
+    "O palacio e as oficinas reais funcionam como ambiente de vigilancia, hierarquia e experimentacao controlada.",
+    "A ideia de padronizacao e repetibilidade entra no mundo da obra como primeira tecnologia-base."
+  ],
+  "timeline_updates": [
+    "Artur morre no mundo moderno.",
+    "Hyang desperta no palacio de Joseon.",
+    "Sejong visita Hyang apos a febre.",
+    "Hyang visita as oficinas reais e observa disputa sobre medicao de chuva.",
+    "Hyang propoe desenhar um instrumento padronizado de chuva."
+  ],
+  "new_threads": [
+    "Como Sejong investigara a mudanca do filho?",
+    "Jang Yeong-sil conseguira construir recipientes repetiveis o bastante?",
+    "Quais funcionarios ou ministros serao ameacados por registros de chuva mais confiaveis?",
+    "A morte de Artur foi apenas acidente ou resultado de arrogancia mais profunda?",
+    "A saude fragil de Hyang limitara o ritmo das reformas?"
+  ],
+  "resolved_threads": [
+    "A primeira direcao tecnologica do arco foi escolhida: medicao padronizada de chuva."
+  ],
+  "callbacks": [
+    "A explosao da chaleira por medicao/seguranca insuficiente espelha a decisao de Hyang de comecar por medicao.",
+    "A regra do projeto de que progresso comeca por medidas e ferramentas foi dramatizada."
+  ],
+  "continuity_risks": [
+    "Nao tratar o Cheugugi como pronto no capitulo 2; por enquanto ha apenas desenho e proposta.",
+    "Nao transformar Sejong em seguidor passivo; ele deve continuar testando e limitando Hyang.",
+    "Nao acelerar a adocao nacional antes de conflito tecnico e burocratico.",
+    "Manter Jang Yeong-sil como parceiro pratico, nao apenas assistente."
+  ],
+  "style_notes": [
+    "Terceira pessoa proxima centrada em Hyang.",
+    "Tecnica apresentada como drama administrativo e emocional.",
+    "Humor seco usado com moderação.",
+    "Capitulo termina com pequena decisao tecnica e consequencia politica implicita."
+  ]
+}

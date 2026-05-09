@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Threads: O Ceu Nao Aceita Estimativas",
+  "path": "chapter-001-threads",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-001-threads",
+  "keywords": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-001"
+  ],
+  "use_cases": [
+    "Recall open and resolved story threads for this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "threads",
+    "callbacks",
+    "chapter-001"
+  ],
+  "priority": 9,
+  "content": "{\n  \"new_threads\": [\n    \"Como Sejong investigara a mudanca do filho?\",\n    \"Jang Yeong-sil conseguira construir recipientes repetiveis o bastante?\",\n    \"Quais funcionarios ou ministros serao ameacados por registros de chuva mais confiaveis?\",\n    \"A morte de Artur foi apenas acidente ou resultado de arrogancia mais profunda?\",\n    \"A saude fragil de Hyang limitara o ritmo das reformas?\"\n  ],\n  \"resolved_threads\": [\n    \"A primeira direcao tecnologica do arco foi escolhida: medicao padronizada de chuva.\"\n  ],\n  \"callbacks\": [\n    \"A explosao da chaleira por medicao/seguranca insuficiente espelha a decisao de Hyang de comecar por medicao.\",\n    \"A regra do projeto de que progresso comeca por medidas e ferramentas foi dramatizada.\"\n  ]\n}",
+  "token_estimate": 136
+}

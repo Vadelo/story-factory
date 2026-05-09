@@ -1,0 +1,8 @@
+{
+  "name": "story-knowledge-o-principe-das-mil-invencoes-joseon-sejong-baseline",
+  "display_name": "O Principe das Mil Invencoes - Joseon Sejong Baseline",
+  "version": "v1-local-ollama",
+  "base_url": "local://research/story-knowledge-o-principe-das-mil-invencoes-joseon-sejong-baseline",
+  "section_count": 5,
+  "indexed_at": "2026-05-08T08:09:42.784303+00:00"
+}

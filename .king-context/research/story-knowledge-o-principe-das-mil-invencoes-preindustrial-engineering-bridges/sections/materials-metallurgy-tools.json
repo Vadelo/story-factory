@@ -1,0 +1,26 @@
+{
+  "title": "Materials, Metallurgy, and Tooling Constraints",
+  "path": "materials-metallurgy-tools",
+  "url": "local://research/story-knowledge-o-principe-das-mil-invencoes-preindustrial-engineering-bridges#materials-metallurgy-tools",
+  "keywords": [
+    "metallurgy",
+    "iron",
+    "steel",
+    "tools",
+    "furnaces",
+    "charcoal"
+  ],
+  "use_cases": [
+    "Use when planning metalworking, heat, furnaces, charcoal, casting, forging, tooling, measurement, and what a Joseon workshop could plausibly improve first.",
+    "Use when drafting chapters that need historically grounded constraints",
+    "Use when checking plausibility before turning research into canon"
+  ],
+  "tags": [
+    "materials",
+    "metallurgy",
+    "tooling"
+  ],
+  "priority": 10,
+  "content": "## Key Facts\n- **Temperatura e Controle Térmico:** A forja de armas renascentistas na Itália atingiu ~1200°C, enquanto a fusão indireta exigiu ~1470°C, demonstrando que fornos pré-industriais podiam alcançar temperaturas extremas com controle preciso.\n- **Tratamento Térmico (Têmpera):** A funcionalidade de lâminas dependia de tratamentos térmicos específicos, como a \"slack-quenching\" (têmpera lenta ou ao ar), aplicada após a forja para melhorar a resistência sem tornar o metal frágil.\n- **Impurezas e Ligas:** A metalurgia de cobre da Idade do Bronze Tardia revelava ligas não padronizadas, com até 20% dos objetos contendo inclusões de cobre não ligado devido à mistura incompleta de sucata e ligas.\n- **Ferramentas Especializadas:** O trabalho de metais finos (ouro/prata) evoluiu com ferramentas especializadas ao longo do milênio III a.C., utilizando abordagens interdisciplinares (arqueologia experimental e iconografia) para entender seu manejo.\n- **Organização do Ateliê:** A produção metalúrgica era concentrada em oficinas especializadas (como em Prigglitz-Gasteil ou Sagu), onde a cadeia operacional (*chaîne opératoire*) integrava mineração, fundição e acabamento em um único espaço.\n- **Cerâmica como Tecnologia:** As receitas de pasta cerâmica para fornos, crisóis e moldes eram escolhas tecnológicas deliberate, mostrando forte interligação entre a metalurgia e a produção de cerâmica doméstica.\n- **Análise Metalográfica:** A microestrutura e a dureza (Vickers) de artefatos revelam a história térmica do metal, permitindo distinguir entre produção artesanal irregular e processos industriais padronizados.\n\n## Narrative Uses\n- **O Desafio da Temperatura:** Hyang pode tentar otimizar o fluxo de ar dos forros de Joseon para atingir os 1200°C+ necessários para aços de melhor qualidade, enfrentando o risco de colapso das paredes de argila do forno.\n- **Erro de Têmpera:** Uma cena de conflito onde um ferreiro falha em controlar a velocidade de resfriamento (slack-quenching), resultando em lâminas quebradiças que falham em combate, gerando desconfiança da corte.\n- **Inconsistência de Ligas:** A descoberta de que as espadas reais contêm \"sucata\" não misturada adequadamente (impurezas de cobre) pode ser usada como um plot point para revelar corrupção ou escassez de recursos.\n- **Ferramentas Perdidas:** A busca por ferramentas de trabalho fino (agulhas, cinzéis) que não sobrevivem ao registro arqueológico pode motivar uma missão para reconstruir técnicas baseadas em iconografia antiga.\n- **Espionagem Industrial:** Um espião tenta roubar os segredos da *chaîne opératoire* de uma oficina de Sagu, focando não apenas no metal, mas nas receitas de argila dos crisóis que controlam a temperatura.\n- **Aula de Metalurgia:** Uma cena de treinamento onde Hyang aprende que a metalurgia não é apenas força, mas uma ciência de ligas, impurezas e microestruturas, mudando sua perspectiva sobre a guerra.\n\n## Story Hooks\n- **O Forno de 1470°C:** Hyang descobre que os fornos renascentistas italianos atingiam temperaturas impossíveis para a época, levando a uma busca por uma fonte de energia ou tecnologia perdida.\n- **A Lâmina Quebradiça:** Um general exige que Hyang produza lâminas que não quebrem, forçando-o a investigar os segredos da têmpera lenta (*slack-quenching*) e a temperatura exata de 1200°C.\n- **A Sucata Real:** A análise de espadas reais revela que elas são feitas de sucata mal misturada, sugerindo que a nobreza está sendo enganada por ferreiros corruptos.\n- **O Ateli\n\n## Source URLs Used\n- https://hal.science/hal-04369200v1/file/Armbruster%202023_Fine%20metal%20working%20tools.%20Boutoille%20&%20Peake%20eds.%202023_Metal%20workers%20and%20their%20tools-9-43.pdf\n- https://link.springer.com/content/pdf/10.1007/s11663-022-02665-5.pdf?error=cookies_not_supported&code=33c5cb08-9b73-459d-bbbf-f696cd3a4f6b\n- https://link.springer.com/content/pdf/10.1007/s12520-021-01378-1.pdf?error=cookies_not_supported&code=7a1b194a-7b07-4271-a395-c6c5eed029a3\n- https://link.springer.com/content/pdf/10.1007/s10816-022-09566-6.pdf?error=cookies_not_supported&code=b9f2aa42-db8b-4fd5-b2e9-3eb763c152ff\n- https://www.sciencedirect.com/science/article/abs/pii/S030544031200129X",
+  "token_estimate": 703
+}

@@ -1,0 +1,31 @@
+{
+  "Use when planning general principles for translating modern scientific and engineering knowledge into preindustrial tools, materials, labor, and institutions.": [
+    "knowledge-bridge-principles"
+  ],
+  "Use when drafting chapters that need historically grounded constraints": [
+    "knowledge-bridge-principles",
+    "materials-metallurgy-tools",
+    "measurement-standardization-quality-control",
+    "power-machines-workshop-scaling",
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "Use when checking plausibility before turning research into canon": [
+    "knowledge-bridge-principles",
+    "materials-metallurgy-tools",
+    "measurement-standardization-quality-control",
+    "power-machines-workshop-scaling",
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "Use when planning metalworking, heat, furnaces, charcoal, casting, forging, tooling, measurement, and what a Joseon workshop could plausibly improve first.": [
+    "materials-metallurgy-tools"
+  ],
+  "Use when planning why measurement, repeatability, records, standards, and quality control must precede spectacular inventions in a preindustrial uplift story.": [
+    "measurement-standardization-quality-control"
+  ],
+  "Use when planning available power sources, simple machines, workshop organization, production scaling, labor training, and bottlenecks between prototype and adoption.": [
+    "power-machines-workshop-scaling"
+  ],
+  "Use when planning low-to-medium tech improvements in chemistry, agriculture, medicine, sanitation, and safety that can create story progress without impossible industrial leaps.": [
+    "chemistry-agriculture-medicine-limits"
+  ]
+}

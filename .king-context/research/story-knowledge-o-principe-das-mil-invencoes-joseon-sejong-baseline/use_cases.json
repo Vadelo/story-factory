@@ -1,0 +1,31 @@
+{
+  "Use when planning Sejong's statecraft, royal authority, bureaucracy, Confucian governance, and constraints useful for court-politics fiction.": [
+    "sejong-statecraft-baseline"
+  ],
+  "Use when drafting chapters that need historically grounded constraints": [
+    "sejong-statecraft-baseline",
+    "institutions-jiphyeonjeon-gyeongyeon",
+    "ideology-religion-resistance",
+    "science-technology-measurement",
+    "society-status-daily-constraints"
+  ],
+  "Use when checking plausibility before turning research into canon": [
+    "sejong-statecraft-baseline",
+    "institutions-jiphyeonjeon-gyeongyeon",
+    "ideology-religion-resistance",
+    "science-technology-measurement",
+    "society-status-daily-constraints"
+  ],
+  "Use when planning scholarly institutions, research culture, royal lectures, state documents, and how a prince inventor could interact with them.": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "Use when planning ideological tensions, Buddhist/Confucian policy, scholar-official objections, and plausible reasons ministers resist rapid reforms.": [
+    "ideology-religion-resistance"
+  ],
+  "Use when planning Sejong-era technology baseline, measurement instruments, astronomy, meteorology, workshops, and plausible starting points for uplift.": [
+    "science-technology-measurement"
+  ],
+  "Use when planning social hierarchy, yangban/literati culture, status constraints, daily-life texture, and who gains or loses from new knowledge.": [
+    "society-status-daily-constraints"
+  ]
+}

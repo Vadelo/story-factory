@@ -1,0 +1,68 @@
+{
+  "Joseon court": [
+    "court-power-map"
+  ],
+  "bureaucracy": [
+    "court-power-map"
+  ],
+  "royal authority": [
+    "court-power-map"
+  ],
+  "ministers": [
+    "court-power-map"
+  ],
+  "Confucianism": [
+    "confucian-arguments-against-reform"
+  ],
+  "reform resistance": [
+    "confucian-arguments-against-reform"
+  ],
+  "orthodoxy": [
+    "confucian-arguments-against-reform"
+  ],
+  "stability": [
+    "confucian-arguments-against-reform"
+  ],
+  "education": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "documents": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "Hall of Worthies": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "literati": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "knowledge": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "tax": [
+    "tax-labor-measurement-backlash"
+  ],
+  "labor": [
+    "tax-labor-measurement-backlash"
+  ],
+  "measurement": [
+    "tax-labor-measurement-backlash"
+  ],
+  "land": [
+    "tax-labor-measurement-backlash"
+  ],
+  "administration": [
+    "tax-labor-measurement-backlash"
+  ],
+  "antagonist": [
+    "antagonist-design-hooks"
+  ],
+  "political conflict": [
+    "antagonist-design-hooks"
+  ],
+  "court intrigue": [
+    "antagonist-design-hooks"
+  ],
+  "reform": [
+    "antagonist-design-hooks"
+  ]
+}

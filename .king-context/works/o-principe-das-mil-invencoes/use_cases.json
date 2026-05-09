@@ -1,0 +1,57 @@
+{
+  "Recall the user's requested story direction": [
+    "brief-current"
+  ],
+  "Recall the central premise before continuing the work": [
+    "canon-premise"
+  ],
+  "Choose specialist corpora before drafting or planning arcs": [
+    "knowledge-corpus-plan"
+  ],
+  "Recall main character roles, desires, flaws, and relationships": [
+    "characters"
+  ],
+  "Preserve the story's rules for technology progress and political consequence": [
+    "world-rules"
+  ],
+  "Recall the planned first arc before drafting chapters": [
+    "outline"
+  ],
+  "Maintain prose style and chapter rhythm": [
+    "style-guide"
+  ],
+  "Avoid contradictions in future chapters": [
+    "continuity-ledger"
+  ],
+  "Track unresolved story questions": [
+    "open-threads"
+  ],
+  "Read the canonical chapter text before continuing or revising the work": [
+    "chapter-001-text",
+    "chapter-002-text"
+  ],
+  "Recall what happened in this chapter": [
+    "chapter-001-summary",
+    "chapter-002-summary"
+  ],
+  "Recall canon and world changes introduced by this chapter": [
+    "chapter-001-canon-delta",
+    "chapter-002-canon-delta"
+  ],
+  "Recall character and relationship states after this chapter": [
+    "chapter-001-character-states",
+    "chapter-002-character-states"
+  ],
+  "Recall timeline changes from this chapter": [
+    "chapter-001-timeline",
+    "chapter-002-timeline"
+  ],
+  "Recall open and resolved story threads for this chapter": [
+    "chapter-001-threads",
+    "chapter-002-threads"
+  ],
+  "Check continuity and style risks before future drafting": [
+    "chapter-001-continuity",
+    "chapter-002-continuity"
+  ]
+}

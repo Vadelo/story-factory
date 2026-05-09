@@ -1,0 +1,74 @@
+{
+  "technology uplift": [
+    "knowledge-bridge-principles"
+  ],
+  "preindustrial engineering": [
+    "knowledge-bridge-principles"
+  ],
+  "constraints": [
+    "knowledge-bridge-principles"
+  ],
+  "adaptation": [
+    "knowledge-bridge-principles"
+  ],
+  "metallurgy": [
+    "materials-metallurgy-tools"
+  ],
+  "iron": [
+    "materials-metallurgy-tools"
+  ],
+  "steel": [
+    "materials-metallurgy-tools"
+  ],
+  "tools": [
+    "materials-metallurgy-tools"
+  ],
+  "furnaces": [
+    "materials-metallurgy-tools"
+  ],
+  "charcoal": [
+    "materials-metallurgy-tools"
+  ],
+  "measurement": [
+    "measurement-standardization-quality-control"
+  ],
+  "standardization": [
+    "measurement-standardization-quality-control"
+  ],
+  "quality control": [
+    "measurement-standardization-quality-control"
+  ],
+  "metrology": [
+    "measurement-standardization-quality-control"
+  ],
+  "water power": [
+    "power-machines-workshop-scaling"
+  ],
+  "wind power": [
+    "power-machines-workshop-scaling"
+  ],
+  "machines": [
+    "power-machines-workshop-scaling"
+  ],
+  "workshops": [
+    "power-machines-workshop-scaling"
+  ],
+  "scaling": [
+    "power-machines-workshop-scaling"
+  ],
+  "chemistry": [
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "agriculture": [
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "medicine": [
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "safety": [
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "public health": [
+    "chemistry-agriculture-medicine-limits"
+  ]
+}

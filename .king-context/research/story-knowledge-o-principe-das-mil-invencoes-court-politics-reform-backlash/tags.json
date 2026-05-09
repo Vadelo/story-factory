@@ -1,0 +1,35 @@
+{
+  "politics": [
+    "court-power-map"
+  ],
+  "institutions": [
+    "court-power-map"
+  ],
+  "ideology": [
+    "confucian-arguments-against-reform"
+  ],
+  "resistance": [
+    "confucian-arguments-against-reform"
+  ],
+  "knowledge": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "education": [
+    "knowledge-monopoly-education-documents"
+  ],
+  "taxation": [
+    "tax-labor-measurement-backlash"
+  ],
+  "labor": [
+    "tax-labor-measurement-backlash"
+  ],
+  "measurement": [
+    "tax-labor-measurement-backlash"
+  ],
+  "story-hooks": [
+    "antagonist-design-hooks"
+  ],
+  "antagonists": [
+    "antagonist-design-hooks"
+  ]
+}

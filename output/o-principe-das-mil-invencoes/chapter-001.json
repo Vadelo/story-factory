@@ -1,0 +1,22 @@
+{
+  "id": "chapter-001",
+  "title": "O Ceu Nao Aceita Estimativas",
+  "work_slug": "o-principe-das-mil-invencoes",
+  "content_md_path": "output/o-principe-das-mil-invencoes/chapter-001.md",
+  "summary": "Artur Vale, inventor moderno e Nobel, morre em uma explosao de laboratorio e desperta como Yi Hyang, principe herdeiro de Joseon. Ele percebe que esta no palacio de Sejong e tenta nao se trair. Sejong nota a mudanca no filho. Dias depois, Hyang visita as oficinas e encontra uma disputa sobre recipientes usados para estimar chuva. Ao perceber que vasos e varetas diferentes produzem registros inconsistentes, ele propoe padronizar a medicao da chuva. Jang Yeong-sil percebe o valor pratico da ideia, e Sejong testa Hyang perguntando quem ganharia e quem perderia com medidas mais precisas. O capitulo termina com Hyang desenhando o primeiro conceito de um pluviometro padronizado.",
+  "canon_changes": [
+    "O protagonista moderno se chamava Artur Vale.",
+    "Artur morreu em uma explosao causada por um experimento de pressao mal controlado.",
+    "Artur despertou como Yi Hyang, principe herdeiro de Joseon.",
+    "Hyang escolhe nao revelar sua origem e passa a agir com cautela no palacio.",
+    "Sejong percebe que o filho acordou diferente e passa a testa-lo.",
+    "Jang Yeong-sil aparece como artesao/inventor ligado as oficinas reais.",
+    "A primeira direcao tecnologica de Hyang e padronizacao de medicao da chuva."
+  ],
+  "continuity_notes": [
+    "Hyang ainda nao criou o Cheugugi definitivo; ele apenas desenhou o conceito inicial de um instrumento padronizado.",
+    "Sejong nao aceita cegamente a proposta; ele a reduz a um desenho e a um teste com Jang Yeong-sil.",
+    "A resistencia politica foi preparada pela ligacao entre chuva, registros e impostos.",
+    "A narrativa deve manter a tensao entre genio tecnico e prudencia politica."
+  ]
+}

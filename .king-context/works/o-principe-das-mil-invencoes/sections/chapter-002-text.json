@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Text: O Ferro Tambem Opina",
+  "path": "chapter-002-text",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-002-text",
+  "keywords": [
+    "chapter",
+    "draft",
+    "text",
+    "chapter-002"
+  ],
+  "use_cases": [
+    "Read the canonical chapter text before continuing or revising the work"
+  ],
+  "tags": [
+    "chapter",
+    "draft",
+    "text",
+    "chapter-002"
+  ],
+  "priority": 7,
+  "content": "# O Principe das Mil Invencoes\n\n## Capitulo 2. O Ferro Tambem Opina\n\nHyang leva seu desenho do medidor de chuva a Jang Yeong-sil. Jang demonstra que o desenho precisa ceder ao uso real: base mais estavel, borda reforcada, regua com estojo, controle de referencia e preocupacao com quem guarda os padroes. O primeiro prototipo fica feio e imperfeito, mas permite teste com chuva real. O instrumento falha parcialmente, o que ajuda Hyang a entender que uma falha visivel e mais util que uma estimativa escondida. Yun Gi-mun, funcionario dos Impostos, aponta riscos administrativos, custos e contestacoes. Sejong limita Hyang por saude e politica, introduz Dama Choi Seo-yeon como observadora das pessoas e autoriza relatorios cruzados. O segundo prototipo vaza, revelando que os artesaos temem errar diante do principe; Hyang cria uma regra para registrar defeitos sem culpar quem os encontra. O terceiro prototipo melhora. Sejong chama o ministro Han Gyeong-su, que entende que o cilindro nao mede apenas chuva, mas perguntas perigosas sobre imposto, registros e sofrimento. Hyang recua de um teste provincial e aceita uma etapa menor: produzir tres instrumentos na capital e verificar se concordam entre si antes de formular perguntas maiores.",
+  "token_estimate": 259
+}

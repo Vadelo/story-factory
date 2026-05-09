@@ -1,0 +1,687 @@
+{
+  "name": "o-principe-das-mil-invencoes",
+  "display_name": "O Principe das Mil Invencoes",
+  "version": "v1-provisional",
+  "base_url": "local://works/o-principe-das-mil-invencoes",
+  "sections": [
+    {
+      "title": "Brief: Current",
+      "path": "brief-current",
+      "url": "local://works/o-principe-das-mil-invencoes#brief-current",
+      "keywords": [
+        "brief",
+        "premise",
+        "hyang",
+        "sejong",
+        "webnovel"
+      ],
+      "use_cases": [
+        "Recall the user's requested story direction"
+      ],
+      "tags": [
+        "brief",
+        "canon"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "Criar uma webnovel/light novel em pt-BR sobre um inventor moderno, vencedor de Nobel e hiperinteligente em varias areas do conhecimento humano, que morre e reencarna como Yi Hyang, principe herdeiro de Joseon e filho do rei Sejong. Foco: progresso tecnologico, politica de corte, ministros conservadores, relacao pai-filho com Sejong e impacto das invencoes no reino."
+    },
+    {
+      "title": "Canon: Premise",
+      "path": "canon-premise",
+      "url": "local://works/o-principe-das-mil-invencoes#canon-premise",
+      "keywords": [
+        "premise",
+        "canon",
+        "reincarnation",
+        "technology uplift",
+        "joseon"
+      ],
+      "use_cases": [
+        "Recall the central premise before continuing the work"
+      ],
+      "tags": [
+        "canon",
+        "premise"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "Um inventor moderno, vencedor de Nobel, morre em uma experiencia e desperta como Yi Hyang, principe herdeiro de Joseon e filho do rei Sejong. Com memoria moderna e genio interdisciplinar, ele tenta acelerar o reino sem sistema, magia ou industria pronta, enfrentando limites materiais, ministros conservadores e a relacao complexa com um pai rei brilhante."
+    },
+    {
+      "title": "Canon: Knowledge Delta and Corpus Plan",
+      "path": "knowledge-corpus-plan",
+      "url": "local://works/o-principe-das-mil-invencoes#knowledge-corpus-plan",
+      "keywords": [
+        "knowledge",
+        "corpus",
+        "research",
+        "delta",
+        "planning"
+      ],
+      "use_cases": [
+        "Choose specialist corpora before drafting or planning arcs"
+      ],
+      "tags": [
+        "knowledge",
+        "planning"
+      ],
+      "priority": 9,
+      "source_type": "work",
+      "content": "Knowledge deltas: transferred-expertise, historical-immersion, professional-realism, speculative-consequence, cultural-authenticity, genre-emulation, featured-object-history. Created corpora: story-knowledge-o-principe-das-mil-invencoes-joseon-sejong-baseline, story-knowledge-o-principe-das-mil-invencoes-preindustrial-engineering-bridges, story-knowledge-o-principe-das-mil-invencoes-court-politics-reform-backlash, and story-history-o-principe-das-mil-invencoes-rain-gauge, all generated locally with Ollama qwen3.6:latest from Exa-discovered chunks. Still recommended: medium Hyang/Munjong history; medium printing-paper-education; medium metallurgy-tools-measurement; medium agriculture-water-food; low Korean webnovel uplift style. For featured inventions, create separate low story-history-* corpora."
+    },
+    {
+      "title": "Canon: Characters",
+      "path": "characters",
+      "url": "local://works/o-principe-das-mil-invencoes#characters",
+      "keywords": [
+        "characters",
+        "hyang",
+        "sejong",
+        "minister",
+        "jang yeong-sil"
+      ],
+      "use_cases": [
+        "Recall main character roles, desires, flaws, and relationships"
+      ],
+      "tags": [
+        "canon",
+        "characters"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "Yi Hyang: protagonist, prince heir, modern Nobel-level inventor reborn in Joseon. Desire: transform Joseon. Need: learn that a kingdom is not a laboratory. Flaw: impatience with human and institutional limits. Sejong: father, king, patron of knowledge, moral and political counterweight; admires and fears the son's speed. Minister Han Gyeong-su: fictional conservative antagonist who defends stability and bureaucratic order with plausible arguments. Jang Yeong-sil: technical ally who translates theory into workshop reality and challenges Hyang's abstraction."
+    },
+    {
+      "title": "Canon: World Rules",
+      "path": "world-rules",
+      "url": "local://works/o-principe-das-mil-invencoes#world-rules",
+      "keywords": [
+        "world",
+        "rules",
+        "technology",
+        "politics",
+        "joseon"
+      ],
+      "use_cases": [
+        "Preserve the story's rules for technology progress and political consequence"
+      ],
+      "tags": [
+        "canon",
+        "world"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "Every invention needs materials, tools, labor, time, and patronage. Prototype is not mass production. Every improvement creates beneficiaries and threatened groups. Modern knowledge must be translated into court-acceptable language. The bigger the impact, the stronger the political resistance. Sejong can protect Hyang, but can also limit him."
+    },
+    {
+      "title": "Outline: First Arc",
+      "path": "outline",
+      "url": "local://works/o-principe-das-mil-invencoes#outline",
+      "keywords": [
+        "outline",
+        "arc",
+        "measurement",
+        "workshop",
+        "court"
+      ],
+      "use_cases": [
+        "Recall the planned first arc before drafting chapters"
+      ],
+      "tags": [
+        "outline",
+        "canon"
+      ],
+      "priority": 8,
+      "source_type": "work",
+      "content": "Arc 1: O Principe que Mediu a Chuva. Purpose: present Hyang, Sejong, the court, and the rule that progress begins with measurement. Beats: Hyang wakes in the palace and almost betrays himself; observes a technical dispute between scholars and artisans; corrects a standardization detail instead of making a spectacular invention; Jang Yeong-sil notices; Sejong tests Hyang with a governance question; the small improvement creates political dispute because measurement affects taxation."
+    },
+    {
+      "title": "Style Guide",
+      "path": "style-guide",
+      "url": "local://works/o-principe-das-mil-invencoes#style-guide",
+      "keywords": [
+        "style",
+        "voice",
+        "webnovel",
+        "light novel"
+      ],
+      "use_cases": [
+        "Maintain prose style and chapter rhythm"
+      ],
+      "tags": [
+        "style",
+        "canon"
+      ],
+      "priority": 8,
+      "source_type": "work",
+      "content": "Third-person close POV centered on Hyang, with occasional Sejong or antagonist scenes. Past tense. Clear, tense, intelligent prose with dry humor. Technical content should appear as drama, not lecture. Chapter rhythm: concrete problem, Hyang's reasoning, material or political obstacle, small victory, unexpected consequence."
+    },
+    {
+      "title": "Continuity Ledger",
+      "path": "continuity-ledger",
+      "url": "local://works/o-principe-das-mil-invencoes#continuity-ledger",
+      "keywords": [
+        "continuity",
+        "ledger",
+        "canon",
+        "constraints"
+      ],
+      "use_cases": [
+        "Avoid contradictions in future chapters"
+      ],
+      "tags": [
+        "continuity",
+        "canon"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "Hyang is crown prince and acts under surveillance. The protagonist has modern knowledge, not modern infrastructure. Sejong is a strong father-king, not a weak supporting character. The court reacts politically to every technical advance. Hyang's first strategy is to build foundations: measures, tools, workshops, records, and people."
+    },
+    {
+      "title": "Open Threads",
+      "path": "open-threads",
+      "url": "local://works/o-principe-das-mil-invencoes#open-threads",
+      "keywords": [
+        "open threads",
+        "questions",
+        "future arcs"
+      ],
+      "use_cases": [
+        "Track unresolved story questions"
+      ],
+      "tags": [
+        "threads",
+        "canon"
+      ],
+      "priority": 7,
+      "source_type": "work",
+      "content": "Was the protagonist's death accident, sabotage, or arrogance? How precise is his modern memory? Does Sejong first notice the genius, the strangeness, or the loneliness of his son? Will Hyang's historically fragile health remain a dramatic limit? Who inside the court will try to turn Hyang into a political weapon? What first public invention will divide the kingdom?"
+    },
+    {
+      "title": "Chapter Text: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-text",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-text",
+      "keywords": [
+        "chapter",
+        "draft",
+        "text",
+        "chapter-001"
+      ],
+      "use_cases": [
+        "Read the canonical chapter text before continuing or revising the work"
+      ],
+      "tags": [
+        "chapter",
+        "draft",
+        "text",
+        "chapter-001"
+      ],
+      "priority": 7,
+      "source_type": "work",
+      "content": "# O Principe das Mil Invencoes\n\n## Capitulo 1. O Ceu Nao Aceita Estimativas\n\nArtur Vale morre em uma explosao de laboratorio e desperta como Yi Hyang, principe herdeiro de Joseon. Ele percebe que esta no palacio de Sejong, tenta esconder sua confusao e descobre que o proprio Sejong nota sua mudanca. Dias depois, Hyang visita as oficinas reais, encontra uma disputa sobre recipientes e varetas usados para estimar chuva, e entende que medir chuva significa tambem medir colheita, imposto, fome e abuso administrativo. Ele propoe padronizar boca, profundidade, regua, local de instalacao e registro. Jang Yeong-sil aparece como artesao capaz de traduzir a ideia em materia. Sejong testa Hyang perguntando quem ganha e quem perde com a medida; Hyang responde que perde quem lucra com a diferenca entre a chuva e o registro. O capitulo termina com Hyang desenhando um cilindro padronizado, entendendo que o primeiro passo para mudar Joseon e medir corretamente."
+    },
+    {
+      "title": "Chapter Summary: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-summary",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-summary",
+      "keywords": [
+        "chapter",
+        "summary",
+        "chapter-001"
+      ],
+      "use_cases": [
+        "Recall what happened in this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "summary",
+        "chapter-001"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "Artur Vale morre em uma explosao e reencarna como Yi Hyang. Ele tenta sobreviver ao primeiro contato com o palacio, Sejong e a propria identidade historica. Nas oficinas, encontra uma disputa sobre medicao de chuva e transforma o problema em proposta politica: padronizar instrumentos para reduzir estimativas arbitrarias. Sejong percebe o alcance da ideia e a limita a um desenho, criando o primeiro passo para o futuro pluviometro."
+    },
+    {
+      "title": "Chapter Canon Delta: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-canon-delta",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-canon-delta",
+      "keywords": [
+        "chapter",
+        "canon",
+        "world",
+        "chapter-001",
+        "o",
+        "protagonista",
+        "moderno",
+        "se",
+        "chamava",
+        "artur",
+        "vale",
+        "a",
+        "morte",
+        "original",
+        "foi",
+        "causada",
+        "por",
+        "uma",
+        "explosao",
+        "em",
+        "experimento",
+        "de",
+        "pressao",
+        "hyang",
+        "ainda",
+        "tem",
+        "memorias",
+        "e",
+        "habitos",
+        "mentais",
+        "mas",
+        "precisa",
+        "viver",
+        "sejong",
+        "percebe",
+        "que",
+        "acordou",
+        "diferente",
+        "jang",
+        "yeong-sil",
+        "introduzido",
+        "como",
+        "artesao-inventor",
+        "das",
+        "oficinas",
+        "reais",
+        "primeiro",
+        "projeto",
+        "tecnologico",
+        "padronizacao",
+        "medicao",
+        "da",
+        "chuva",
+        "nao"
+      ],
+      "use_cases": [
+        "Recall canon and world changes introduced by this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "canon",
+        "world",
+        "chapter-001"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "{\n  \"canon_changes\": [\n    \"O protagonista moderno se chamava Artur Vale.\",\n    \"A morte original foi causada por uma explosao em experimento de pressao.\",\n    \"Hyang ainda tem memorias e habitos mentais de Artur, mas precisa viver como principe herdeiro.\",\n    \"Sejong percebe que Hyang acordou diferente.\",\n    \"Jang Yeong-sil foi introduzido como artesao/inventor das oficinas reais.\",\n    \"O primeiro projeto tecnologico e a padronizacao de medicao da chuva, nao uma invencao espetacular.\"\n  ],\n  \"world_updates\": [\n    \"A medicao de chuva e apresentada como ponto de contato entre ciencia, agricultura, imposto e poder estatal.\",\n    \"O palacio e as oficinas reais funcionam como ambiente de vigilancia, hierarquia e experimentacao controlada.\",\n    \"A ideia de padronizacao e repetibilidade entra no mundo da obra como primeira tecnologia-base.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Character States: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-character-states",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-character-states",
+      "keywords": [
+        "chapter",
+        "characters",
+        "relationships",
+        "chapter-001"
+      ],
+      "use_cases": [
+        "Recall character and relationship states after this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "characters",
+        "relationships",
+        "chapter-001"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "{\n  \"character_states\": [\n    \"Hyang esta cauteloso, assustado e fascinado; decide esconder sua origem moderna e agir primeiro por pequenas correcoes.\",\n    \"Sejong esta atento e desconfiado, mas tambem intelectualmente interessado no novo comportamento do filho.\",\n    \"Jang Yeong-sil esta curioso sobre Hyang e percebe valor pratico na diferenca entre perfeicao e repetibilidade.\",\n    \"Funcionarios e estudiosos veem a intervencao de Hyang como algo incomum e potencialmente perigoso.\"\n  ],\n  \"relationship_changes\": [\n    \"Hyang e Sejong estabelecem uma dinamica de teste mutuo: pai e rei, filho e anomalia.\",\n    \"Hyang e Jang Yeong-sil iniciam uma possivel parceria tecnica baseada em respeito pratico.\",\n    \"Hyang cria tensao inicial com estudiosos ao criticar instrumentos inconsistentes, mas tenta corrigir a propria arrogancia.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Timeline: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-timeline",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-timeline",
+      "keywords": [
+        "chapter",
+        "timeline",
+        "continuity",
+        "chapter-001"
+      ],
+      "use_cases": [
+        "Recall timeline changes from this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "timeline",
+        "continuity",
+        "chapter-001"
+      ],
+      "priority": 9,
+      "source_type": "work",
+      "content": "[\n  \"Artur morre no mundo moderno.\",\n  \"Hyang desperta no palacio de Joseon.\",\n  \"Sejong visita Hyang apos a febre.\",\n  \"Hyang visita as oficinas reais e observa disputa sobre medicao de chuva.\",\n  \"Hyang propoe desenhar um instrumento padronizado de chuva.\"\n]"
+    },
+    {
+      "title": "Chapter Threads: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-threads",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-threads",
+      "keywords": [
+        "chapter",
+        "threads",
+        "callbacks",
+        "chapter-001"
+      ],
+      "use_cases": [
+        "Recall open and resolved story threads for this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "threads",
+        "callbacks",
+        "chapter-001"
+      ],
+      "priority": 9,
+      "source_type": "work",
+      "content": "{\n  \"new_threads\": [\n    \"Como Sejong investigara a mudanca do filho?\",\n    \"Jang Yeong-sil conseguira construir recipientes repetiveis o bastante?\",\n    \"Quais funcionarios ou ministros serao ameacados por registros de chuva mais confiaveis?\",\n    \"A morte de Artur foi apenas acidente ou resultado de arrogancia mais profunda?\",\n    \"A saude fragil de Hyang limitara o ritmo das reformas?\"\n  ],\n  \"resolved_threads\": [\n    \"A primeira direcao tecnologica do arco foi escolhida: medicao padronizada de chuva.\"\n  ],\n  \"callbacks\": [\n    \"A explosao da chaleira por medicao/seguranca insuficiente espelha a decisao de Hyang de comecar por medicao.\",\n    \"A regra do projeto de que progresso comeca por medidas e ferramentas foi dramatizada.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Continuity: O Ceu Nao Aceita Estimativas",
+      "path": "chapter-001-continuity",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-001-continuity",
+      "keywords": [
+        "chapter",
+        "continuity",
+        "style",
+        "chapter-001",
+        "terceira",
+        "pessoa",
+        "proxima",
+        "centrada",
+        "em",
+        "hyang",
+        "tecnica",
+        "apresentada",
+        "como",
+        "drama",
+        "administrativo",
+        "e",
+        "emocional",
+        "humor",
+        "seco",
+        "usado",
+        "com",
+        "moderacao",
+        "capitulo",
+        "termina",
+        "pequena",
+        "decisao",
+        "consequencia",
+        "politica",
+        "implicita"
+      ],
+      "use_cases": [
+        "Check continuity and style risks before future drafting"
+      ],
+      "tags": [
+        "chapter",
+        "continuity",
+        "style",
+        "chapter-001"
+      ],
+      "priority": 8,
+      "source_type": "work",
+      "content": "{\n  \"continuity_risks\": [\n    \"Nao tratar o Cheugugi como pronto no capitulo 2; por enquanto ha apenas desenho e proposta.\",\n    \"Nao transformar Sejong em seguidor passivo; ele deve continuar testando e limitando Hyang.\",\n    \"Nao acelerar a adocao nacional antes de conflito tecnico e burocratico.\",\n    \"Manter Jang Yeong-sil como parceiro pratico, nao apenas assistente.\"\n  ],\n  \"style_notes\": [\n    \"Terceira pessoa proxima centrada em Hyang.\",\n    \"Tecnica apresentada como drama administrativo e emocional.\",\n    \"Humor seco usado com moderação.\",\n    \"Capitulo termina com pequena decisao tecnica e consequencia politica implicita.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Text: O Ferro Tambem Opina",
+      "path": "chapter-002-text",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-text",
+      "keywords": [
+        "chapter",
+        "draft",
+        "text",
+        "chapter-002"
+      ],
+      "use_cases": [
+        "Read the canonical chapter text before continuing or revising the work"
+      ],
+      "tags": [
+        "chapter",
+        "draft",
+        "text",
+        "chapter-002"
+      ],
+      "priority": 7,
+      "source_type": "work",
+      "content": "# O Principe das Mil Invencoes\n\n## Capitulo 2. O Ferro Tambem Opina\n\nHyang leva seu desenho do medidor de chuva a Jang Yeong-sil. Jang demonstra que o desenho precisa ceder ao uso real: base mais estavel, borda reforcada, regua com estojo, controle de referencia e preocupacao com quem guarda os padroes. O primeiro prototipo fica feio e imperfeito, mas permite teste com chuva real. O instrumento falha parcialmente, o que ajuda Hyang a entender que uma falha visivel e mais util que uma estimativa escondida. Yun Gi-mun, funcionario dos Impostos, aponta riscos administrativos, custos e contestacoes. Sejong limita Hyang por saude e politica, introduz Dama Choi Seo-yeon como observadora das pessoas e autoriza relatorios cruzados. O segundo prototipo vaza, revelando que os artesaos temem errar diante do principe; Hyang cria uma regra para registrar defeitos sem culpar quem os encontra. O terceiro prototipo melhora. Sejong chama o ministro Han Gyeong-su, que entende que o cilindro nao mede apenas chuva, mas perguntas perigosas sobre imposto, registros e sofrimento. Hyang recua de um teste provincial e aceita uma etapa menor: produzir tres instrumentos na capital e verificar se concordam entre si antes de formular perguntas maiores."
+    },
+    {
+      "title": "Chapter Summary: O Ferro Tambem Opina",
+      "path": "chapter-002-summary",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-summary",
+      "keywords": [
+        "chapter",
+        "summary",
+        "chapter-002"
+      ],
+      "use_cases": [
+        "Recall what happened in this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "summary",
+        "chapter-002"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "O capitulo transforma o desenho do medidor de chuva em prototipos reais e mostra que a materia, a burocracia e as pessoas resistem de modos diferentes. Jang Yeong-sil desafia a elegancia do desenho com conhecimento pratico; Yun Gi-mun introduz os riscos administrativos; Dama Choi Seo-yeon revela que o medo de errar diante do principe pode esconder defeitos; e Han Gyeong-su força Hyang a reduzir a ambicao imediata. O capitulo termina com Sejong autorizando apenas tres instrumentos na capital, sem provincia, imposto ou proclamacao."
+    },
+    {
+      "title": "Chapter Canon Delta: O Ferro Tambem Opina",
+      "path": "chapter-002-canon-delta",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-canon-delta",
+      "keywords": [
+        "chapter",
+        "canon",
+        "world",
+        "chapter-002",
+        "o",
+        "primeiro",
+        "prototipo",
+        "do",
+        "medidor",
+        "de",
+        "chuva",
+        "foi",
+        "feito",
+        "em",
+        "ferro",
+        "e",
+        "jang",
+        "yeong-sil",
+        "corrigiu",
+        "desenho",
+        "hyang",
+        "com",
+        "preocupacoes",
+        "praticas",
+        "estabilidade",
+        "yun",
+        "gi-mun",
+        "funcionario",
+        "ministerio",
+        "dos",
+        "impostos",
+        "introduzido",
+        "como",
+        "opositor",
+        "burocratico",
+        "dama",
+        "choi",
+        "seo-yeon",
+        "introduzida",
+        "observadora",
+        "ligada",
+        "aos",
+        "arquivos",
+        "a",
+        "ministro",
+        "han",
+        "gyeong-su",
+        "entrou",
+        "cena",
+        "antagonista",
+        "politico",
+        "principal",
+        "inteligente",
+        "sejong",
+        "limitou",
+        "visitas",
+        "menos",
+        "frequentes",
+        "oficina",
+        "um",
+        "proxima",
+        "etapa",
+        "autorizada",
+        "produzir",
+        "tres",
+        "instrumentos",
+        "na",
+        "capital",
+        "para",
+        "verificar"
+      ],
+      "use_cases": [
+        "Recall canon and world changes introduced by this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "canon",
+        "world",
+        "chapter-002"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "{\n  \"canon_changes\": [\n    \"O primeiro prototipo do medidor de chuva foi feito em ferro e ficou imperfeito, com borda reforcada, base mais larga e marcas de martelo.\",\n    \"Jang Yeong-sil corrigiu o desenho de Hyang com preocupacoes praticas de estabilidade, deformacao, vazamento, regua e uso indevido.\",\n    \"Yun Gi-mun, funcionario do Ministerio dos Impostos, foi introduzido como opositor burocratico cauteloso.\",\n    \"Dama Choi Seo-yeon foi introduzida como observadora ligada aos arquivos e a dinamica humana do palacio.\",\n    \"Ministro Han Gyeong-su entrou em cena como antagonista politico principal, inteligente e prudente.\",\n    \"Sejong limitou Hyang a visitas menos frequentes a oficina e a um teste menor.\",\n    \"A proxima etapa autorizada e produzir tres instrumentos na capital para verificar se concordam entre si.\"\n  ],\n  \"world_updates\": [\n    \"A oficina real passa a tratar defeitos encontrados antes do teste como informacao, nao culpa imediata.\",\n    \"A medicao padronizada exige referencias guardadas por instituicoes diferentes, reguas vinculadas aos recipientes e controle de uso.\",\n    \"O Ministerio dos Impostos percebe que a medicao da chuva pode afetar custo, registros, peticoes e disputas sobre avaliacao agricola.\",\n    \"A corte ainda nao autorizou teste provincial nem ligacao formal com impostos.\",\n    \"O projeto do medidor de chuva esta na fase de repetibilidade entre tres instrumentos na capital.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Character States: O Ferro Tambem Opina",
+      "path": "chapter-002-character-states",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-character-states",
+      "keywords": [
+        "chapter",
+        "characters",
+        "relationships",
+        "chapter-002"
+      ],
+      "use_cases": [
+        "Recall character and relationship states after this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "characters",
+        "relationships",
+        "chapter-002"
+      ],
+      "priority": 10,
+      "source_type": "work",
+      "content": "{\n  \"character_states\": [\n    \"Hyang esta mais consciente de que conhecimento moderno precisa ser traduzido em processo, confianca e instituicao.\",\n    \"Hyang sente o limite fisico do corpo e passa a ser controlado por Sejong tambem por preocupacao de saude.\",\n    \"Jang Yeong-sil assume papel de parceiro tecnico real, nao assistente, corrigindo o desenho e expondo falhas sem piedade.\",\n    \"Sejong age como protetor e freio, entendendo que o instrumento pode criar uma nova forma de abuso se usado cedo demais.\",\n    \"Yun Gi-mun observa custos, riscos e vulnerabilidades administrativas, tornando-se uma voz dos Impostos.\",\n    \"Choi Seo-yeon mostra habilidade para perceber dinamicas humanas invisiveis aos homens da oficina.\",\n    \"Han Gyeong-su reconhece a profundidade politica do instrumento e força Hyang a aceitar uma pergunta menor.\"\n  ],\n  \"relationship_changes\": [\n    \"Hyang e Jang aprofundam respeito mutuo por meio da critica pratica.\",\n    \"Hyang e Sejong entram em uma dinamica mais explicita de protecao, suspeita e limite.\",\n    \"Hyang ganha uma nova observadora em Choi Seo-yeon, que o corrige de modo indireto.\",\n    \"Hyang identifica Yun como adversario burocratico competente, nao apenas obstaculo tolo.\",\n    \"Hyang e Han iniciam conflito intelectual baseado em prudencia contra urgencia.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Timeline: O Ferro Tambem Opina",
+      "path": "chapter-002-timeline",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-timeline",
+      "keywords": [
+        "chapter",
+        "timeline",
+        "continuity",
+        "chapter-002"
+      ],
+      "use_cases": [
+        "Recall timeline changes from this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "timeline",
+        "continuity",
+        "chapter-002"
+      ],
+      "priority": 9,
+      "source_type": "work",
+      "content": "[\n  \"Hyang entrega o desenho a Jang Yeong-sil no dia seguinte ao capitulo 1.\",\n  \"O primeiro prototipo e construido em quatro dias e testado em chuva real.\",\n  \"Yun Gi-mun entra no processo como funcionario dos Impostos.\",\n  \"Sejong limita Hyang a ir a oficina no maximo tres vezes por semana.\",\n  \"Dama Choi Seo-yeon passa a observar o projeto.\",\n  \"O segundo prototipo vaza e leva a nova regra de registro de defeitos.\",\n  \"O terceiro prototipo melhora e e levado a uma audiencia pequena.\",\n  \"Han Gyeong-su convence a corte a restringir o projeto a tres instrumentos na capital.\"\n]"
+    },
+    {
+      "title": "Chapter Threads: O Ferro Tambem Opina",
+      "path": "chapter-002-threads",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-threads",
+      "keywords": [
+        "chapter",
+        "threads",
+        "callbacks",
+        "chapter-002"
+      ],
+      "use_cases": [
+        "Recall open and resolved story threads for this chapter"
+      ],
+      "tags": [
+        "chapter",
+        "threads",
+        "callbacks",
+        "chapter-002"
+      ],
+      "priority": 9,
+      "source_type": "work",
+      "content": "{\n  \"new_threads\": [\n    \"Os tres instrumentos conseguirao concordar entre si?\",\n    \"Como Yun Gi-mun usara seus relatorios contra ou a favor do projeto?\",\n    \"Que tipo de observacoes Choi Seo-yeon fara sobre Hyang e as oficinas?\",\n    \"Han Gyeong-su tentara conter Hyang por prudencia genuina, interesse politico ou ambos?\",\n    \"A regra de registrar defeitos sem culpa mudara a cultura da oficina ou criara acusacoes de indisciplina?\",\n    \"A saude de Hyang sera um limite constante para sua velocidade de reforma?\"\n  ],\n  \"resolved_threads\": [\n    \"Jang conseguiu construir prototipos repetiveis o bastante para continuar o projeto.\",\n    \"A resistencia burocratica inicial foi personificada em Yun Gi-mun e ampliada por Han Gyeong-su.\",\n    \"O Cheugugi ainda nao esta pronto nem adotado; a etapa atual e repetibilidade local.\"\n  ],\n  \"callbacks\": [\n    \"A frase 'bom o bastante' ecoa a morte de Artur por aceitar seguranca insuficiente.\",\n    \"A diferenca entre desenho e materia continua a regra de que ideias sem ferramentas sao fantasmas.\",\n    \"Sejong volta a testar Hyang em governo e moral, nao apenas ciencia.\"\n  ]\n}"
+    },
+    {
+      "title": "Chapter Continuity: O Ferro Tambem Opina",
+      "path": "chapter-002-continuity",
+      "url": "local://works/o-principe-das-mil-invencoes#chapter-002-continuity",
+      "keywords": [
+        "chapter",
+        "continuity",
+        "style",
+        "chapter-002",
+        "capitulo",
+        "mantem",
+        "humor",
+        "seco",
+        "e",
+        "tecnica",
+        "como",
+        "drama",
+        "de",
+        "materia",
+        "processo",
+        "a",
+        "oposicao",
+        "politica",
+        "nasce",
+        "argumentos",
+        "plausiveis",
+        "o",
+        "final",
+        "cria",
+        "gancho",
+        "para",
+        "teste",
+        "dos",
+        "tres",
+        "instrumentos"
+      ],
+      "use_cases": [
+        "Check continuity and style risks before future drafting"
+      ],
+      "tags": [
+        "chapter",
+        "continuity",
+        "style",
+        "chapter-002"
+      ],
+      "priority": 8,
+      "source_type": "work",
+      "content": "{\n  \"continuity_risks\": [\n    \"Nao saltar para rede nacional de medicao no capitulo 3; primeiro devem existir tres instrumentos comparaveis.\",\n    \"Nao tratar Han como vilao burro ou simplesmente corrupto; ele entende riscos reais.\",\n    \"Manter Choi Seo-yeon como observadora de informacao humana, nao como assistente tecnica.\",\n    \"Manter Yun como burocrata dos Impostos preocupado com custo, registros e disputas.\",\n    \"Continuar mostrando que a saude de Hyang limita sua presenca fisica nas oficinas.\"\n  ],\n  \"style_notes\": [\n    \"Capitulo mantem humor seco e tecnica como drama de materia, processo e governo.\",\n    \"A oposicao politica nasce de argumentos plausiveis.\",\n    \"O final cria gancho para o teste dos tres instrumentos e para a corte como proximo campo de medicao.\"\n  ]\n}"
+    }
+  ]
+}

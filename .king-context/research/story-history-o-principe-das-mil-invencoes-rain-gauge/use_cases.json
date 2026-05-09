@@ -1,0 +1,31 @@
+{
+  "Use when planning origin, early uses, adoption path, and named historical examples of the featured invention.": [
+    "origin-and-early-use"
+  ],
+  "Use when drafting chapters that need historically grounded constraints": [
+    "origin-and-early-use",
+    "problem-solved-and-users",
+    "cultural-and-political-meaning",
+    "misconceptions-and-anachronism-risks",
+    "story-hooks"
+  ],
+  "Use when checking plausibility before turning research into canon": [
+    "origin-and-early-use",
+    "problem-solved-and-users",
+    "cultural-and-political-meaning",
+    "misconceptions-and-anachronism-risks",
+    "story-hooks"
+  ],
+  "Use when planning what practical problem the invention solved, who used it, and why institutions cared.": [
+    "problem-solved-and-users"
+  ],
+  "Use when planning symbolic, cultural, administrative, or political meaning that can be dramatized.": [
+    "cultural-and-political-meaning"
+  ],
+  "Use when planning common misconceptions, chronology traps, claims to avoid, and how to keep the invention grounded.": [
+    "misconceptions-and-anachronism-risks"
+  ],
+  "Use when planning scene hooks, conflicts, adoption beats, metaphors, public reactions, and emotional uses.": [
+    "story-hooks"
+  ]
+}

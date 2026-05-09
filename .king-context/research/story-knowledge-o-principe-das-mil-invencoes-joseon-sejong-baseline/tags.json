@@ -1,0 +1,35 @@
+{
+  "history": [
+    "sejong-statecraft-baseline"
+  ],
+  "governance": [
+    "sejong-statecraft-baseline"
+  ],
+  "baseline": [
+    "sejong-statecraft-baseline"
+  ],
+  "institutions": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "scholar-officials": [
+    "institutions-jiphyeonjeon-gyeongyeon"
+  ],
+  "ideology": [
+    "ideology-religion-resistance"
+  ],
+  "conflict": [
+    "ideology-religion-resistance"
+  ],
+  "technology": [
+    "science-technology-measurement"
+  ],
+  "science": [
+    "science-technology-measurement"
+  ],
+  "society": [
+    "society-status-daily-constraints"
+  ],
+  "daily-life": [
+    "society-status-daily-constraints"
+  ]
+}

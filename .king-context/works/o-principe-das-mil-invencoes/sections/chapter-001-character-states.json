@@ -1,0 +1,23 @@
+{
+  "title": "Chapter Character States: O Ceu Nao Aceita Estimativas",
+  "path": "chapter-001-character-states",
+  "url": "local://works/o-principe-das-mil-invencoes#chapter-001-character-states",
+  "keywords": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-001"
+  ],
+  "use_cases": [
+    "Recall character and relationship states after this chapter"
+  ],
+  "tags": [
+    "chapter",
+    "characters",
+    "relationships",
+    "chapter-001"
+  ],
+  "priority": 10,
+  "content": "{\n  \"character_states\": [\n    \"Hyang esta cauteloso, assustado e fascinado; decide esconder sua origem moderna e agir primeiro por pequenas correcoes.\",\n    \"Sejong esta atento e desconfiado, mas tambem intelectualmente interessado no novo comportamento do filho.\",\n    \"Jang Yeong-sil esta curioso sobre Hyang e percebe valor pratico na diferenca entre perfeicao e repetibilidade.\",\n    \"Funcionarios e estudiosos veem a intervencao de Hyang como algo incomum e potencialmente perigoso.\"\n  ],\n  \"relationship_changes\": [\n    \"Hyang e Sejong estabelecem uma dinamica de teste mutuo: pai e rei, filho e anomalia.\",\n    \"Hyang e Jang Yeong-sil iniciam uma possivel parceria tecnica baseada em respeito pratico.\",\n    \"Hyang cria tensao inicial com estudiosos ao criticar instrumentos inconsistentes, mas tenta corrigir a propria arrogancia.\"\n  ]\n}",
+  "token_estimate": 150
+}

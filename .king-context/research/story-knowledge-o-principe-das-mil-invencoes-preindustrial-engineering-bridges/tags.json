@@ -1,0 +1,44 @@
+{
+  "engineering": [
+    "knowledge-bridge-principles"
+  ],
+  "bridge": [
+    "knowledge-bridge-principles"
+  ],
+  "constraints": [
+    "knowledge-bridge-principles"
+  ],
+  "materials": [
+    "materials-metallurgy-tools"
+  ],
+  "metallurgy": [
+    "materials-metallurgy-tools"
+  ],
+  "tooling": [
+    "materials-metallurgy-tools"
+  ],
+  "measurement": [
+    "measurement-standardization-quality-control"
+  ],
+  "standardization": [
+    "measurement-standardization-quality-control"
+  ],
+  "machines": [
+    "power-machines-workshop-scaling"
+  ],
+  "production": [
+    "power-machines-workshop-scaling"
+  ],
+  "scaling": [
+    "power-machines-workshop-scaling"
+  ],
+  "chemistry": [
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "agriculture": [
+    "chemistry-agriculture-medicine-limits"
+  ],
+  "medicine": [
+    "chemistry-agriculture-medicine-limits"
+  ]
+}

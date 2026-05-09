@@ -1,0 +1,22 @@
+{
+  "title": "Canon: World Rules",
+  "path": "world-rules",
+  "url": "local://works/o-principe-das-mil-invencoes#world-rules",
+  "keywords": [
+    "world",
+    "rules",
+    "technology",
+    "politics",
+    "joseon"
+  ],
+  "use_cases": [
+    "Preserve the story's rules for technology progress and political consequence"
+  ],
+  "tags": [
+    "canon",
+    "world"
+  ],
+  "priority": 10,
+  "content": "Every invention needs materials, tools, labor, time, and patronage. Prototype is not mass production. Every improvement creates beneficiaries and threatened groups. Modern knowledge must be translated into court-acceptable language. The bigger the impact, the stronger the political resistance. Sejong can protect Hyang, but can also limit him.",
+  "token_estimate": 62
+}
